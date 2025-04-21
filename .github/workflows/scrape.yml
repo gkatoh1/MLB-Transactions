@@ -2,7 +2,7 @@ name: Scrape MLB Transactions
 
 on:
   schedule:
-    - cron: '0 */1 * * *'  # Run every hour
+    - cron: '*/10 * * * *'  # Run every hour
   workflow_dispatch:  # Allow manual trigger
 
 permissions:
