@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-21T17:19:22.235407",
+  "last_updated": "2025-04-21T17:38:01.036812",
   "transactions": [
     {
       "date": "2025-04-21",
@@ -27,9 +27,9 @@
     },
     {
       "date": "2025-04-21",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated LHPJosé Suarezfor assignment.",
-      "player": "José Suarez"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated LHPNick Lodolofrom the paternity list.",
+      "player": "Nick Lodolo"
     },
     {
       "date": "2025-04-21",
@@ -45,15 +45,15 @@
     },
     {
       "date": "2025-04-21",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated LHPNick Lodolofrom the paternity list.",
-      "player": "Nick Lodolo"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated LHPJosé Suarezfor assignment.",
+      "player": "José Suarez"
     },
     {
       "date": "2025-04-21",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled 2BJorbit Vivasfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jorbit Vivas"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPAndry Larato Rochester Red Wings.",
+      "player": "Andry Lara"
     },
     {
       "date": "2025-04-21",
@@ -69,15 +69,27 @@
     },
     {
       "date": "2025-04-21",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled CAgustín Ramírezfrom Jacksonville Jumbo Shrimp.",
-      "player": "Agustín Ramírez"
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled 2BJorbit Vivasfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jorbit Vivas"
     },
     {
       "date": "2025-04-21",
       "team": "Miami Marlins",
       "details": "Miami Marlinsrecalled RHPGeorge Sorianofrom Jacksonville Jumbo Shrimp.",
       "player": "George Soriano"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled CAgustín Ramírezfrom Jacksonville Jumbo Shrimp.",
+      "player": "Agustín Ramírez"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalstraded RHPCesar EspinaltoMilwaukee Brewers.",
+      "player": "Cesar Espinal"
     },
     {
       "date": "2025-04-21",
@@ -90,18 +102,6 @@
       "team": "Miami Marlins",
       "details": "Miami Marlinsoptioned LHPCade Gibsonto Jacksonville Jumbo Shrimp.",
       "player": "Cade Gibson"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPAndry Larato Rochester Red Wings.",
-      "player": "Andry Lara"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalstraded RHPCesar EspinaltoMilwaukee Brewers.",
-      "player": "Cesar Espinal"
     }
   ]
 }
