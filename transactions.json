@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-21T15:07:46.359054",
+  "last_updated": "2025-04-21T15:33:44.936708",
   "transactions": [
     {
       "date": "2025-04-21",
@@ -15,6 +15,18 @@
     },
     {
       "date": "2025-04-21",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced CFTrent Grishamon the paternity list.",
+      "player": "Trent Grisham"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPAndry Larato Rochester Red Wings.",
+      "player": "Andry Lara"
+    },
+    {
+      "date": "2025-04-21",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesoptioned LHPLuis Peraltato Albuquerque Isotopes.",
       "player": "Luis Peralta"
@@ -24,6 +36,12 @@
       "team": "Chicago White Sox",
       "details": "Chicago White Soxselected the contract of 1BBobby Dalbecfrom Charlotte Knights.",
       "player": "Bobby Dalbec"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled 2BJorbit Vivasfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jorbit Vivas"
     }
   ]
 }
