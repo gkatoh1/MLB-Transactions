@@ -1,11 +1,47 @@
 {
-  "last_updated": "2025-04-21T19:17:56.315986",
+  "last_updated": "2025-04-21T19:29:50.366993",
   "transactions": [
+    {
+      "date": "2025-04-21",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated LHPJosé Suarezfor assignment.",
+      "player": "José Suarez"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced CRob Brantlyon the 10-day injured list. Right lat strain.",
+      "player": "Rob Brantly"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced 2BChase Meidrothon the 10-day injured list. Right thumb inflammation.",
+      "player": "Chase Meidroth"
+    },
     {
       "date": "2025-04-21",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansdesignated RHPTriston McKenziefor assignment.",
       "player": "Triston McKenzie"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPScott Blewett.",
+      "player": "Scott Blewett"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated LHPNick Lodolofrom the paternity list.",
+      "player": "Nick Lodolo"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPScott Blewett.",
+      "player": "Scott Blewett"
     },
     {
       "date": "2025-04-21",
@@ -21,51 +57,9 @@
     },
     {
       "date": "2025-04-21",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPScott Blewett.",
-      "player": "Scott Blewett"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsplaced CRob Brantlyon the 10-day injured list. Right lat strain.",
-      "player": "Rob Brantly"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated LHPNick Lodolofrom the paternity list.",
-      "player": "Nick Lodolo"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced 2BChase Meidrothon the 10-day injured list. Right thumb inflammation.",
-      "player": "Chase Meidroth"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated LHPJosé Suarezfor assignment.",
-      "player": "José Suarez"
-    },
-    {
-      "date": "2025-04-21",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxtransferred LHPMartín Pérezfrom the 15-day injured list to the 60-day injured list. Left elbow inflammation.",
       "player": "Martín Pérez"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPScott Blewett.",
-      "player": "Scott Blewett"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned LHPCade Gibsonto Jacksonville Jumbo Shrimp.",
-      "player": "Cade Gibson"
     },
     {
       "date": "2025-04-21",
@@ -75,9 +69,15 @@
     },
     {
       "date": "2025-04-21",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned LHPLuis Peraltato Albuquerque Isotopes.",
-      "player": "Luis Peralta"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPRandy Wynneto Louisville Bats.",
+      "player": "Randy Wynne"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPGeorge Sorianofrom Jacksonville Jumbo Shrimp.",
+      "player": "George Soriano"
     },
     {
       "date": "2025-04-21",
@@ -87,9 +87,15 @@
     },
     {
       "date": "2025-04-21",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPRandy Wynneto Louisville Bats.",
-      "player": "Randy Wynne"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalstraded RHPCesar EspinaltoMilwaukee Brewers.",
+      "player": "Cesar Espinal"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned LHPLuis Peraltato Albuquerque Isotopes.",
+      "player": "Luis Peralta"
     },
     {
       "date": "2025-04-21",
@@ -99,15 +105,21 @@
     },
     {
       "date": "2025-04-21",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPAndry Larato Rochester Red Wings.",
+      "player": "Andry Lara"
+    },
+    {
+      "date": "2025-04-21",
       "team": "Miami Marlins",
       "details": "Miami Marlinsrecalled CAgustín Ramírezfrom Jacksonville Jumbo Shrimp.",
       "player": "Agustín Ramírez"
     },
     {
       "date": "2025-04-21",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPAndry Larato Rochester Red Wings.",
-      "player": "Andry Lara"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned LHPCade Gibsonto Jacksonville Jumbo Shrimp.",
+      "player": "Cade Gibson"
     },
     {
       "date": "2025-04-21",
@@ -117,21 +129,9 @@
     },
     {
       "date": "2025-04-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalstraded RHPCesar EspinaltoMilwaukee Brewers.",
-      "player": "Cesar Espinal"
-    },
-    {
-      "date": "2025-04-21",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansselected the contract of RHPZak Kentfrom Columbus Clippers.",
       "player": "Zak Kent"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled RHPGeorge Sorianofrom Jacksonville Jumbo Shrimp.",
-      "player": "George Soriano"
     }
   ]
 }
