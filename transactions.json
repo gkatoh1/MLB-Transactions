@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-04-21T20:46:59.439829",
+  "last_updated": "2025-04-21T21:20:09.358681",
   "transactions": [
+    {
+      "date": "2025-04-21",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxtransferred LHPMartín Pérezfrom the 15-day injured list to the 60-day injured list. Left elbow inflammation.",
+      "player": "Martín Pérez"
+    },
     {
       "date": "2025-04-21",
       "team": "Miami Marlins",
@@ -45,9 +51,15 @@
     },
     {
       "date": "2025-04-21",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxtransferred LHPMartín Pérezfrom the 15-day injured list to the 60-day injured list. Left elbow inflammation.",
-      "player": "Martín Pérez"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansdesignated RHPTriston McKenziefor assignment.",
+      "player": "Triston McKenzie"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresplaced 1BLuis Arraezon the 7-day injured list. Concussion.",
+      "player": "Luis Arraez"
     },
     {
       "date": "2025-04-21",
@@ -57,27 +69,21 @@
     },
     {
       "date": "2025-04-21",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansdesignated RHPTriston McKenziefor assignment.",
-      "player": "Triston McKenzie"
-    },
-    {
-      "date": "2025-04-21",
       "team": "New York Yankees",
       "details": "New York Yankeesrecalled 2BJorbit Vivasfrom Scranton/Wilkes-Barre RailRiders.",
       "player": "Jorbit Vivas"
     },
     {
       "date": "2025-04-21",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled CAgustín Ramírezfrom Jacksonville Jumbo Shrimp.",
-      "player": "Agustín Ramírez"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPAndry Larato Rochester Red Wings.",
+      "player": "Andry Lara"
     },
     {
       "date": "2025-04-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalstraded RHPCesar EspinaltoMilwaukee Brewers.",
-      "player": "Cesar Espinal"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned CFRyan Kreidlerto Toledo Mud Hens.",
+      "player": "Ryan Kreidler"
     },
     {
       "date": "2025-04-21",
@@ -87,9 +93,33 @@
     },
     {
       "date": "2025-04-21",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled SSMason McCoyfrom El Paso Chihuahuas.",
+      "player": "Mason McCoy"
+    },
+    {
+      "date": "2025-04-21",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned RHPRandy Wynneto Louisville Bats.",
       "player": "Randy Wynne"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned LHPCade Gibsonto Jacksonville Jumbo Shrimp.",
+      "player": "Cade Gibson"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalstraded RHPCesar EspinaltoMilwaukee Brewers.",
+      "player": "Cesar Espinal"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansselected the contract of RHPZak Kentfrom Columbus Clippers.",
+      "player": "Zak Kent"
     },
     {
       "date": "2025-04-21",
@@ -106,32 +136,8 @@
     {
       "date": "2025-04-21",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LHPEaston Lucasto Buffalo Bisons.",
-      "player": "Easton Lucas"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysrecalled LHPJosh Walkerfrom Buffalo Bisons.",
       "player": "Josh Walker"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPAndry Larato Rochester Red Wings.",
-      "player": "Andry Lara"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned CFRyan Kreidlerto Toledo Mud Hens.",
-      "player": "Ryan Kreidler"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansselected the contract of RHPZak Kentfrom Columbus Clippers.",
-      "player": "Zak Kent"
     },
     {
       "date": "2025-04-21",
@@ -141,9 +147,15 @@
     },
     {
       "date": "2025-04-21",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPEaston Lucasto Buffalo Bisons.",
+      "player": "Easton Lucas"
+    },
+    {
+      "date": "2025-04-21",
       "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned LHPCade Gibsonto Jacksonville Jumbo Shrimp.",
-      "player": "Cade Gibson"
+      "details": "Miami Marlinsrecalled CAgustín Ramírezfrom Jacksonville Jumbo Shrimp.",
+      "player": "Agustín Ramírez"
     }
   ]
 }
