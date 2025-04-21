@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-04-21T15:33:44.936708",
+  "last_updated": "2025-04-21T15:45:31.983898",
   "transactions": [
-    {
-      "date": "2025-04-21",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced 2BChase Meidrothon the 10-day injured list. Right thumb inflammation.",
-      "player": "Chase Meidroth"
-    },
     {
       "date": "2025-04-21",
       "team": "Chicago White Sox",
@@ -21,9 +15,15 @@
     },
     {
       "date": "2025-04-21",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPAndry Larato Rochester Red Wings.",
-      "player": "Andry Lara"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced 2BChase Meidrothon the 10-day injured list. Right thumb inflammation.",
+      "player": "Chase Meidroth"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssigned free agent RHPWagner Sototo a minor league contract.",
+      "player": "Wagner Soto"
     },
     {
       "date": "2025-04-21",
@@ -42,6 +42,12 @@
       "team": "New York Yankees",
       "details": "New York Yankeesrecalled 2BJorbit Vivasfrom Scranton/Wilkes-Barre RailRiders.",
       "player": "Jorbit Vivas"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPAndry Larato Rochester Red Wings.",
+      "player": "Andry Lara"
     }
   ]
 }
