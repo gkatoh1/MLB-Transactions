@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-04-21T14:57:09.867618",
+  "last_updated": "2025-04-21T15:07:46.359054",
   "transactions": [
-    {
-      "date": "2025-04-21",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxtransferred LHPMartín Pérezfrom the 15-day injured list to the 60-day injured list. Left elbow inflammation.",
-      "player": "Martín Pérez"
-    },
     {
       "date": "2025-04-21",
       "team": "Chicago White Sox",
@@ -16,14 +10,20 @@
     {
       "date": "2025-04-21",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of 1BBobby Dalbecfrom Charlotte Knights.",
-      "player": "Bobby Dalbec"
+      "details": "Chicago White Soxtransferred LHPMartín Pérezfrom the 15-day injured list to the 60-day injured list. Left elbow inflammation.",
+      "player": "Martín Pérez"
     },
     {
       "date": "2025-04-21",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesoptioned LHPLuis Peraltato Albuquerque Isotopes.",
       "player": "Luis Peralta"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of 1BBobby Dalbecfrom Charlotte Knights.",
+      "player": "Bobby Dalbec"
     }
   ]
 }
