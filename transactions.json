@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-22T22:24:03.494070",
+  "last_updated": "2025-04-22T23:22:25.897686",
   "transactions": [
     {
       "date": "2025-04-22",
@@ -9,15 +9,9 @@
     },
     {
       "date": "2025-04-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent SSCJ Abramson a rehab assignment to Harrisburg Senators.",
-      "player": "CJ Abrams"
-    },
-    {
-      "date": "2025-04-22",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent RHPMichael Tonkinon a rehab assignment to St. Paul Saints.",
-      "player": "Michael Tonkin"
+      "details": "Minnesota Twinsreleased RHPMatt Canterino.",
+      "player": "Matt Canterino"
     },
     {
       "date": "2025-04-22",
@@ -117,15 +111,57 @@
     },
     {
       "date": "2025-04-22",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent RHPSean Reynoldson a rehab assignment to El Paso Chihuahuas.",
+      "player": "Sean Reynolds"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent RHPJack Leiteron a rehab assignment to Round Rock Express.",
+      "player": "Jack Leiter"
+    },
+    {
+      "date": "2025-04-22",
       "team": "Washington Nationals",
       "details": "Washington Nationalssent RHPMichael Sorokaon a rehab assignment to Harrisburg Senators.",
       "player": "Michael Soroka"
     },
     {
       "date": "2025-04-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent SSCJ Abramson a rehab assignment to Harrisburg Senators.",
+      "player": "CJ Abrams"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPMichael Tonkinon a rehab assignment to St. Paul Saints.",
+      "player": "Michael Tonkin"
+    },
+    {
+      "date": "2025-04-22",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Norfolk Tides.",
       "player": "Brandon Young"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned CFMichael Sianito Memphis Redbirds.",
+      "player": "Michael Siani"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPNathan Wilesfrom Gwinnett Stripers.",
+      "player": "Nathan Wiles"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPMichael Petersento Gwinnett Stripers.",
+      "player": "Michael Petersen"
     },
     {
       "date": "2025-04-22",
@@ -159,6 +195,12 @@
     },
     {
       "date": "2025-04-22",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPJacob Barnesoutright to Buffalo Bisons.",
+      "player": "Jacob Barnes"
+    },
+    {
+      "date": "2025-04-22",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersoptioned RHPKeider Monteroto Toledo Mud Hens.",
       "player": "Keider Montero"
@@ -174,24 +216,6 @@
       "team": "New York Yankees",
       "details": "New York Yankeesselected the contract of LHPTyler Matzekfrom Scranton/Wilkes-Barre RailRiders.",
       "player": "Tyler Matzek"
-    },
-    {
-      "date": "2025-04-22",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned CFMichael Sianito Memphis Redbirds.",
-      "player": "Michael Siani"
-    },
-    {
-      "date": "2025-04-22",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPNathan Wilesfrom Gwinnett Stripers.",
-      "player": "Nathan Wiles"
-    },
-    {
-      "date": "2025-04-22",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPMichael Petersento Gwinnett Stripers.",
-      "player": "Michael Petersen"
     }
   ]
 }
