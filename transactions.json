@@ -1,17 +1,11 @@
 {
-  "last_updated": "2025-04-22T18:34:10.101129",
+  "last_updated": "2025-04-22T19:20:22.994608",
   "transactions": [
     {
       "date": "2025-04-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPMichael Sorokaon a rehab assignment to Harrisburg Senators.",
-      "player": "Michael Soroka"
-    },
-    {
-      "date": "2025-04-22",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent RHPMichael Tonkinon a rehab assignment to St. Paul Saints.",
-      "player": "Michael Tonkin"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesreleased RHPAmos Willingham.",
+      "player": "Amos Willingham"
     },
     {
       "date": "2025-04-22",
@@ -21,33 +15,21 @@
     },
     {
       "date": "2025-04-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent SSCJ Abramson a rehab assignment to Harrisburg Senators.",
-      "player": "CJ Abrams"
-    },
-    {
-      "date": "2025-04-22",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent LHPSam Mollon a rehab assignment to Louisville Bats.",
-      "player": "Sam Moll"
-    },
-    {
-      "date": "2025-04-22",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent CTyler Stephensonon a rehab assignment to Louisville Bats.",
-      "player": "Tyler Stephenson"
-    },
-    {
-      "date": "2025-04-22",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesreleased RHPAmos Willingham.",
-      "player": "Amos Willingham"
-    },
-    {
-      "date": "2025-04-22",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssent CFDaulton Varshoon a rehab assignment to Buffalo Bisons.",
       "player": "Daulton Varsho"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPMichael Sorokaon a rehab assignment to Harrisburg Senators.",
+      "player": "Michael Soroka"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent SSCJ Abramson a rehab assignment to Harrisburg Senators.",
+      "player": "CJ Abrams"
     },
     {
       "date": "2025-04-22",
@@ -63,15 +45,69 @@
     },
     {
       "date": "2025-04-22",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Norfolk Tides.",
-      "player": "Brandon Young"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPMichael Tonkinon a rehab assignment to St. Paul Saints.",
+      "player": "Michael Tonkin"
     },
     {
       "date": "2025-04-22",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssent RHPCasey Lawrenceoutright to Tacoma Rainiers.",
-      "player": "Casey Lawrence"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPBrayan Bellofrom the 15-day injured list.",
+      "player": "Brayan Bello"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPBrayan Bellofrom the 15-day injured list.",
+      "player": "Brayan Bello"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent LHPSam Mollon a rehab assignment to Louisville Bats.",
+      "player": "Sam Moll"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent CTyler Stephensonon a rehab assignment to Louisville Bats.",
+      "player": "Tyler Stephenson"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "New York Yankees",
+      "details": "New York Yankeesdesignated RHPYoendrys Gómezfor assignment.",
+      "player": "Yoendrys Gómez"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated SSMasyn Winnfrom the 10-day injured list.",
+      "player": "Masyn Winn"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPChase Leefrom Toledo Mud Hens.",
+      "player": "Chase Lee"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "New York Yankees",
+      "details": "New York Yankeesselected the contract of LHPTyler Matzekfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Tyler Matzek"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned CFMichael Sianito Memphis Redbirds.",
+      "player": "Michael Siani"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Norfolk Tides.",
+      "player": "Brandon Young"
     },
     {
       "date": "2025-04-22",
@@ -87,9 +123,27 @@
     },
     {
       "date": "2025-04-22",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPCasey Lawrenceoutright to Tacoma Rainiers.",
+      "player": "Casey Lawrence"
+    },
+    {
+      "date": "2025-04-22",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansselected the contract of SSWill Wilsonfrom Columbus Clippers.",
       "player": "Will Wilson"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPZack Kellyto Worcester Red Sox.",
+      "player": "Zack Kelly"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPKeider Monteroto Toledo Mud Hens.",
+      "player": "Keider Montero"
     }
   ]
 }
