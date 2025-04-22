@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-04-22T16:31:14.358643",
+  "last_updated": "2025-04-22T17:22:06.367037",
   "transactions": [
-    {
-      "date": "2025-04-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPMichael Sorokaon a rehab assignment to Harrisburg Senators.",
-      "player": "Michael Soroka"
-    },
     {
       "date": "2025-04-22",
       "team": "Washington Nationals",
@@ -21,15 +15,57 @@
     },
     {
       "date": "2025-04-22",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent LHPSam Mollon a rehab assignment to Louisville Bats.",
+      "player": "Sam Moll"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent CTyler Stephensonon a rehab assignment to Louisville Bats.",
+      "player": "Tyler Stephenson"
+    },
+    {
+      "date": "2025-04-22",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesplaced RHPCody Poteeton the 15-day injured list retroactive to April 21, 2025. Right shoulder inflammation.",
       "player": "Cody Poteet"
     },
     {
       "date": "2025-04-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesreleased RHPAmos Willingham.",
+      "player": "Amos Willingham"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent CFDaulton Varshoon a rehab assignment to Buffalo Bisons.",
+      "player": "Daulton Varsho"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPMichael Sorokaon a rehab assignment to Harrisburg Senators.",
+      "player": "Michael Soroka"
+    },
+    {
+      "date": "2025-04-22",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Norfolk Tides.",
       "player": "Brandon Young"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPNathan Wilesfrom Gwinnett Stripers.",
+      "player": "Nathan Wiles"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPMichael Petersento Gwinnett Stripers.",
+      "player": "Michael Petersen"
     }
   ]
 }
