@@ -1,11 +1,41 @@
 {
-  "last_updated": "2025-04-21T23:47:01.302040",
+  "last_updated": "2025-04-22T01:46:43.341440",
   "transactions": [
+    {
+      "date": "2025-04-21",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxtransferred LHPMartín Pérezfrom the 15-day injured list to the 60-day injured list. Left elbow inflammation.",
+      "player": "Martín Pérez"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerstransferred LHPNestor Cortesfrom the 15-day injured list to the 60-day injured list. Left elbow flexor strain.",
+      "player": "Nestor Cortes"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansdesignated RHPTriston McKenziefor assignment.",
+      "player": "Triston McKenzie"
+    },
     {
       "date": "2025-04-21",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesactivated RHPScott Blewett.",
       "player": "Scott Blewett"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresplaced 1BLuis Arraezon the 7-day injured list. Concussion.",
+      "player": "Luis Arraez"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced CRob Brantlyon the 10-day injured list. Right lat strain.",
+      "player": "Rob Brantly"
     },
     {
       "date": "2025-04-21",
@@ -21,27 +51,9 @@
     },
     {
       "date": "2025-04-21",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxtransferred LHPMartín Pérezfrom the 15-day injured list to the 60-day injured list. Left elbow inflammation.",
-      "player": "Martín Pérez"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsplaced CRob Brantlyon the 10-day injured list. Right lat strain.",
-      "player": "Rob Brantly"
-    },
-    {
-      "date": "2025-04-21",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesplaced RHPSpencer Strideron the 15-day injured list retroactive to April 18, 2025. Right hamstring strain.",
       "player": "Spencer Strider"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated LHPJosé Suarezfor assignment.",
-      "player": "José Suarez"
     },
     {
       "date": "2025-04-21",
@@ -51,33 +63,21 @@
     },
     {
       "date": "2025-04-21",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresplaced 1BLuis Arraezon the 7-day injured list. Concussion.",
-      "player": "Luis Arraez"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced 2BChase Meidrothon the 10-day injured list. Right thumb inflammation.",
+      "player": "Chase Meidroth"
     },
     {
       "date": "2025-04-21",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansdesignated RHPTriston McKenziefor assignment.",
-      "player": "Triston McKenzie"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerstransferred LHPNestor Cortesfrom the 15-day injured list to the 60-day injured list. Left elbow flexor strain.",
-      "player": "Nestor Cortes"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated LHPJosé Suarezfor assignment.",
+      "player": "José Suarez"
     },
     {
       "date": "2025-04-21",
       "team": "New York Yankees",
       "details": "New York Yankeesplaced CFTrent Grishamon the paternity list.",
       "player": "Trent Grisham"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced 2BChase Meidrothon the 10-day injured list. Right thumb inflammation.",
-      "player": "Chase Meidroth"
     },
     {
       "date": "2025-04-21",
@@ -99,9 +99,21 @@
     },
     {
       "date": "2025-04-21",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled LHPJosh Walkerfrom Buffalo Bisons.",
-      "player": "Josh Walker"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of 1BBobby Dalbecfrom Charlotte Knights.",
+      "player": "Bobby Dalbec"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPLogan Hendersonto Nashville Sounds.",
+      "player": "Logan Henderson"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned LHPJordan Wicksto Iowa Cubs.",
+      "player": "Jordan Wicks"
     },
     {
       "date": "2025-04-21",
@@ -114,6 +126,42 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysoptioned LHPEaston Lucasto Buffalo Bisons.",
       "player": "Easton Lucas"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LHPJosh Walkerfrom Buffalo Bisons.",
+      "player": "Josh Walker"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned LHPLuis Peraltato Albuquerque Isotopes.",
+      "player": "Luis Peralta"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPAndry Larato Rochester Red Wings.",
+      "player": "Andry Lara"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalstraded RHPCesar EspinaltoMilwaukee Brewers.",
+      "player": "Cesar Espinal"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPRandy Wynneto Louisville Bats.",
+      "player": "Randy Wynne"
+    },
+    {
+      "date": "2025-04-21",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled SSMason McCoyfrom El Paso Chihuahuas.",
+      "player": "Mason McCoy"
     },
     {
       "date": "2025-04-21",
@@ -135,42 +183,6 @@
     },
     {
       "date": "2025-04-21",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPLogan Hendersonto Nashville Sounds.",
-      "player": "Logan Henderson"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned LHPLuis Peraltato Albuquerque Isotopes.",
-      "player": "Luis Peralta"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalstraded RHPCesar EspinaltoMilwaukee Brewers.",
-      "player": "Cesar Espinal"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of 1BBobby Dalbecfrom Charlotte Knights.",
-      "player": "Bobby Dalbec"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPRandy Wynneto Louisville Bats.",
-      "player": "Randy Wynne"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled SSMason McCoyfrom El Paso Chihuahuas.",
-      "player": "Mason McCoy"
-    },
-    {
-      "date": "2025-04-21",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersrecalled 3BJace Jungfrom Toledo Mud Hens.",
       "player": "Jace Jung"
@@ -180,18 +192,6 @@
       "team": "Miami Marlins",
       "details": "Miami Marlinsoptioned LHPCade Gibsonto Jacksonville Jumbo Shrimp.",
       "player": "Cade Gibson"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPAndry Larato Rochester Red Wings.",
-      "player": "Andry Lara"
-    },
-    {
-      "date": "2025-04-21",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned LHPJordan Wicksto Iowa Cubs.",
-      "player": "Jordan Wicks"
     },
     {
       "date": "2025-04-21",
