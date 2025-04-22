@@ -1,11 +1,35 @@
 {
-  "last_updated": "2025-04-22T14:24:59.258238",
+  "last_updated": "2025-04-22T15:26:38.799988",
   "transactions": [
+    {
+      "date": "2025-04-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPCody Poteeton the 15-day injured list retroactive to April 21, 2025. Right shoulder inflammation.",
+      "player": "Cody Poteet"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPMichael Sorokaon a rehab assignment to Harrisburg Senators.",
+      "player": "Michael Soroka"
+    },
     {
       "date": "2025-04-22",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinssent RHPMichael Tonkinon a rehab assignment to St. Paul Saints.",
       "player": "Michael Tonkin"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent SSCJ Abramson a rehab assignment to Harrisburg Senators.",
+      "player": "CJ Abrams"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Norfolk Tides.",
+      "player": "Brandon Young"
     }
   ]
 }
