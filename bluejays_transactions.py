@@ -34,7 +34,7 @@ TEAM_NAME = "Toronto Blue Jays"
 TEAM_ABBREVIATION = "TOR"
 
 # Email configuration - Get password from GitHub secrets
-EMAIL_TO = "gosuke.katoh@bluejays.com"
+EMAIL_TO = "gosuke.katoh@bluejays.com, anthony.lucchese@bluejays.com, christian.conforti@bluejays.com, luke.hoey@bluejays.com"
 EMAIL_FROM = "gosukekatoh@gmail.com"
 EMAIL_PASSWORD = os.environ.get("EMAIL_PASSWORD")  # Set in GitHub secret
 SMTP_SERVER = "smtp.gmail.com"
