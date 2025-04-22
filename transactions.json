@@ -1,17 +1,29 @@
 {
-  "last_updated": "2025-04-22T17:22:06.367037",
+  "last_updated": "2025-04-22T18:34:10.101129",
   "transactions": [
     {
       "date": "2025-04-22",
       "team": "Washington Nationals",
-      "details": "Washington Nationalssent SSCJ Abramson a rehab assignment to Harrisburg Senators.",
-      "player": "CJ Abrams"
+      "details": "Washington Nationalssent RHPMichael Sorokaon a rehab assignment to Harrisburg Senators.",
+      "player": "Michael Soroka"
     },
     {
       "date": "2025-04-22",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinssent RHPMichael Tonkinon a rehab assignment to St. Paul Saints.",
       "player": "Michael Tonkin"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPCody Poteeton the 15-day injured list retroactive to April 21, 2025. Right shoulder inflammation.",
+      "player": "Cody Poteet"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent SSCJ Abramson a rehab assignment to Harrisburg Senators.",
+      "player": "CJ Abrams"
     },
     {
       "date": "2025-04-22",
@@ -27,12 +39,6 @@
     },
     {
       "date": "2025-04-22",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced RHPCody Poteeton the 15-day injured list retroactive to April 21, 2025. Right shoulder inflammation.",
-      "player": "Cody Poteet"
-    },
-    {
-      "date": "2025-04-22",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesreleased RHPAmos Willingham.",
       "player": "Amos Willingham"
@@ -45,15 +51,27 @@
     },
     {
       "date": "2025-04-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPMichael Sorokaon a rehab assignment to Harrisburg Senators.",
-      "player": "Michael Soroka"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced CFLane Thomason the 10-day injured list retroactive to April 20, 2025. Right wrist bone bruise.",
+      "player": "Lane Thomas"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianstransferred RHPTrevor Stephanfrom the 15-day injured list to the 60-day injured list.",
+      "player": "Trevor Stephan"
     },
     {
       "date": "2025-04-22",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Norfolk Tides.",
       "player": "Brandon Young"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPCasey Lawrenceoutright to Tacoma Rainiers.",
+      "player": "Casey Lawrence"
     },
     {
       "date": "2025-04-22",
@@ -66,6 +84,12 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPMichael Petersento Gwinnett Stripers.",
       "player": "Michael Petersen"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansselected the contract of SSWill Wilsonfrom Columbus Clippers.",
+      "player": "Will Wilson"
     }
   ]
 }
