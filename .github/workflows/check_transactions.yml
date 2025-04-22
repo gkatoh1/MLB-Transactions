@@ -34,5 +34,10 @@ jobs:
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
+          
+          # Create empty files if they don't exist
+          touch last_check.json
+          touch last_transactions.json
+          
           git add last_check.json last_transactions.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update transaction data [skip ci]" && git push)
