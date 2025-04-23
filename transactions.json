@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-04-22T23:22:25.897686",
+  "last_updated": "2025-04-23T01:59:14.493154",
   "transactions": [
-    {
-      "date": "2025-04-22",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced RHPCody Poteeton the 15-day injured list retroactive to April 21, 2025. Right shoulder inflammation.",
-      "player": "Cody Poteet"
-    },
     {
       "date": "2025-04-22",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsreleased RHPMatt Canterino.",
       "player": "Matt Canterino"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent SSCJ Abramson a rehab assignment to Harrisburg Senators.",
+      "player": "CJ Abrams"
     },
     {
       "date": "2025-04-22",
@@ -129,39 +129,21 @@
     },
     {
       "date": "2025-04-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent SSCJ Abramson a rehab assignment to Harrisburg Senators.",
-      "player": "CJ Abrams"
-    },
-    {
-      "date": "2025-04-22",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinssent RHPMichael Tonkinon a rehab assignment to St. Paul Saints.",
       "player": "Michael Tonkin"
     },
     {
       "date": "2025-04-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPZach Brzykcyon a rehab assignment to Wilmington Blue Rocks.",
+      "player": "Zach Brzykcy"
+    },
+    {
+      "date": "2025-04-22",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Norfolk Tides.",
-      "player": "Brandon Young"
-    },
-    {
-      "date": "2025-04-22",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned CFMichael Sianito Memphis Redbirds.",
-      "player": "Michael Siani"
-    },
-    {
-      "date": "2025-04-22",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPNathan Wilesfrom Gwinnett Stripers.",
-      "player": "Nathan Wiles"
-    },
-    {
-      "date": "2025-04-22",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPMichael Petersento Gwinnett Stripers.",
-      "player": "Michael Petersen"
+      "details": "Baltimore Oriolesplaced RHPCody Poteeton the 15-day injured list retroactive to April 21, 2025. Right shoulder inflammation.",
+      "player": "Cody Poteet"
     },
     {
       "date": "2025-04-22",
@@ -189,15 +171,15 @@
     },
     {
       "date": "2025-04-22",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPZack Kellyto Worcester Red Sox.",
-      "player": "Zack Kelly"
-    },
-    {
-      "date": "2025-04-22",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssent RHPJacob Barnesoutright to Buffalo Bisons.",
       "player": "Jacob Barnes"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPZack Kellyto Worcester Red Sox.",
+      "player": "Zack Kelly"
     },
     {
       "date": "2025-04-22",
@@ -216,6 +198,30 @@
       "team": "New York Yankees",
       "details": "New York Yankeesselected the contract of LHPTyler Matzekfrom Scranton/Wilkes-Barre RailRiders.",
       "player": "Tyler Matzek"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Norfolk Tides.",
+      "player": "Brandon Young"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned CFMichael Sianito Memphis Redbirds.",
+      "player": "Michael Siani"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPNathan Wilesfrom Gwinnett Stripers.",
+      "player": "Nathan Wiles"
+    },
+    {
+      "date": "2025-04-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPMichael Petersento Gwinnett Stripers.",
+      "player": "Michael Petersen"
     }
   ]
 }
