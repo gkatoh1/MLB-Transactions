@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-04-23T19:19:54.794253",
+  "last_updated": "2025-04-23T20:27:20.128544",
   "transactions": [
     {
       "date": "2025-04-23",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent LHPTrevor Rogerson a rehab assignment to Chesapeake Baysox.",
-      "player": "Trevor Rogers"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerstransferred RFVictor Roblesfrom the 10-day injured list to the 60-day injured list.",
+      "player": "Victor Robles"
     },
     {
       "date": "2025-04-23",
@@ -39,15 +39,33 @@
     },
     {
       "date": "2025-04-23",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned LFZac Veento Albuquerque Isotopes.",
-      "player": "Zac Veen"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LHPTrevor Rogerson a rehab assignment to Chesapeake Baysox.",
+      "player": "Trevor Rogers"
     },
     {
       "date": "2025-04-23",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent LHPEvan Justiceoutright to Albuquerque Isotopes.",
-      "player": "Evan Justice"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated 3BGage Workmanfor assignment.",
+      "player": "Gage Workman"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubstransferred LHPJustin Steelefrom the 15-day injured list to the 60-day injured list.",
+      "player": "Justin Steele"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent SSNicky Lopez.",
+      "player": "Nicky Lopez"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPSauryn Laoto Tacoma Rainiers.",
+      "player": "Sauryn Lao"
     },
     {
       "date": "2025-04-23",
@@ -63,9 +81,39 @@
     },
     {
       "date": "2025-04-23",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of RHPCasey Lawrencefrom Tacoma Rainiers.",
+      "player": "Casey Lawrence"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsselected the contract of LHPDrew Pomeranzfrom Iowa Cubs.",
+      "player": "Drew Pomeranz"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned LFZac Veento Albuquerque Isotopes.",
+      "player": "Zac Veen"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent LHPEvan Justiceoutright to Albuquerque Isotopes.",
+      "player": "Evan Justice"
+    },
+    {
+      "date": "2025-04-23",
       "team": "New York Mets",
       "details": "New York Metstraded 2BRowdey JordantoHouston Astros.",
       "player": "Rowdey Jordan"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPGavin Hollowellto Iowa Cubs.",
+      "player": "Gavin Hollowell"
     }
   ]
 }
