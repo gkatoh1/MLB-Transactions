@@ -1,4 +1,23 @@
 {
-  "last_updated": "2025-04-23T13:33:40.466046",
-  "transactions": []
+  "last_updated": "2025-04-23T14:25:59.190628",
+  "transactions": [
+    {
+      "date": "2025-04-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LHPTrevor Rogerson a rehab assignment to Chesapeake Baysox.",
+      "player": "Trevor Rogers"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated LFWeston Wilsonfrom the 10-day injured list.",
+      "player": "Weston Wilson"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesdesignated 2BKody Clemensfor assignment.",
+      "player": "Kody Clemens"
+    }
+  ]
 }
