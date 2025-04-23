@@ -1,17 +1,11 @@
 {
-  "last_updated": "2025-04-23T17:23:15.043516",
+  "last_updated": "2025-04-23T18:35:43.308278",
   "transactions": [
     {
       "date": "2025-04-23",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent LHPTrevor Rogerson a rehab assignment to Chesapeake Baysox.",
-      "player": "Trevor Rogers"
-    },
-    {
-      "date": "2025-04-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated LFWeston Wilsonfrom the 10-day injured list.",
-      "player": "Weston Wilson"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated CFBrenton Doylefrom the bereavement list.",
+      "player": "Brenton Doyle"
     },
     {
       "date": "2025-04-23",
@@ -21,9 +15,21 @@
     },
     {
       "date": "2025-04-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LHPTrevor Rogerson a rehab assignment to Chesapeake Baysox.",
+      "player": "Trevor Rogers"
+    },
+    {
+      "date": "2025-04-23",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravestransferred SSNacho Alvarez Jr.from the 10-day injured list to the 60-day injured list.",
       "player": "Nacho Alvarez Jr."
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated LFWeston Wilsonfrom the 10-day injured list.",
+      "player": "Weston Wilson"
     },
     {
       "date": "2025-04-23",
@@ -36,6 +42,24 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPNathan Wilesto Gwinnett Stripers.",
       "player": "Nathan Wiles"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned LFZac Veento Albuquerque Isotopes.",
+      "player": "Zac Veen"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent LHPEvan Justiceoutright to Albuquerque Isotopes.",
+      "player": "Evan Justice"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "New York Mets",
+      "details": "New York Metstraded 2BRowdey JordantoHouston Astros.",
+      "player": "Rowdey Jordan"
     }
   ]
 }
