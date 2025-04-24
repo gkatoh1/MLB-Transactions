@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-24T16:31:37.224884",
+  "last_updated": "2025-04-24T17:22:11.114228",
   "transactions": [
     {
       "date": "2025-04-24",
@@ -9,15 +9,27 @@
     },
     {
       "date": "2025-04-24",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent RHPKevin Ginkelon a rehab assignment to Reno Aces.",
-      "player": "Kevin Ginkel"
-    },
-    {
-      "date": "2025-04-24",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersactivated RHPTobias Myersfrom the 15-day injured list.",
       "player": "Tobias Myers"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPZach Brzykcyon a rehab assignment to Rochester Red Wings.",
+      "player": "Zach Brzykcy"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPCade Cavallion a rehab assignment to Harrisburg Senators.",
+      "player": "Cade Cavalli"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPKevin Ginkelon a rehab assignment to Reno Aces.",
+      "player": "Kevin Ginkel"
     },
     {
       "date": "2025-04-24",
@@ -33,15 +45,9 @@
     },
     {
       "date": "2025-04-24",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPLuis Guerrerofrom Worcester Red Sox.",
-      "player": "Luis Guerrero"
-    },
-    {
-      "date": "2025-04-24",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned LHPBryan Hudsonto Nashville Sounds.",
-      "player": "Bryan Hudson"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
+      "player": "Jonathan Bowlan"
     },
     {
       "date": "2025-04-24",
@@ -51,27 +57,33 @@
     },
     {
       "date": "2025-04-24",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPJosh Winckowskito Worcester Red Sox.",
-      "player": "Josh Winckowski"
-    },
-    {
-      "date": "2025-04-24",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPDavid Festato St. Paul Saints.",
-      "player": "David Festa"
-    },
-    {
-      "date": "2025-04-24",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
-      "player": "Jonathan Bowlan"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LHPBryan Hudsonto Nashville Sounds.",
+      "player": "Bryan Hudson"
     },
     {
       "date": "2025-04-24",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned 2BJorbit Vivasto Scranton/Wilkes-Barre RailRiders.",
       "player": "Jorbit Vivas"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPJosh Winckowskito Worcester Red Sox.",
+      "player": "Josh Winckowski"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPLuis Guerrerofrom Worcester Red Sox.",
+      "player": "Luis Guerrero"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPDavid Festato St. Paul Saints.",
+      "player": "David Festa"
     }
   ]
 }
