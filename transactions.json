@@ -1,11 +1,53 @@
 {
-  "last_updated": "2025-04-23T23:23:28.315247",
+  "last_updated": "2025-04-24T01:59:29.743799",
   "transactions": [
+    {
+      "date": "2025-04-23",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersdesignated LHPWalter Penningtonfor assignment.",
+      "player": "Walter Pennington"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent SSNicky Lopez.",
+      "player": "Nicky Lopez"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Athletics",
+      "details": "Athleticsplaced RHPJosé Leclercon the 15-day injured list. Right lat strain.",
+      "player": "José Leclerc"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent COmar Narváezto a minor league contract.",
+      "player": "Omar Narváez"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated RHPIan Andersonfor assignment.",
+      "player": "Ian Anderson"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced SSCorey Seageron the 10-day injured list. Right hamstring strain.",
+      "player": "Corey Seager"
+    },
     {
       "date": "2025-04-23",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent LHPTrevor Rogerson a rehab assignment to Chesapeake Baysox.",
       "player": "Trevor Rogers"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated LFWeston Wilsonfrom the 10-day injured list.",
+      "player": "Weston Wilson"
     },
     {
       "date": "2025-04-23",
@@ -51,39 +93,39 @@
     },
     {
       "date": "2025-04-23",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssigned free agent SSNicky Lopez.",
-      "player": "Nicky Lopez"
-    },
-    {
-      "date": "2025-04-23",
-      "team": "Athletics",
-      "details": "Athleticsplaced RHPJosé Leclercon the 15-day injured list. Right lat strain.",
-      "player": "José Leclerc"
-    },
-    {
-      "date": "2025-04-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned free agent COmar Narváezto a minor league contract.",
-      "player": "Omar Narváez"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsselected the contract of RHPCarl Edwards Jr.from Salt Lake Bees.",
+      "player": "Carl Edwards Jr."
     },
     {
       "date": "2025-04-23",
       "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsdesignated RHPIan Andersonfor assignment.",
-      "player": "Ian Anderson"
+      "details": "Los Angeles Angelsoptioned RHPMichael Darrell-Hicksto Salt Lake Bees.",
+      "player": "Michael Darrell-Hicks"
     },
     {
       "date": "2025-04-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated LFWeston Wilsonfrom the 10-day injured list.",
-      "player": "Weston Wilson"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersselected the contract of SSNick Ahmedfrom ACL Rangers.",
+      "player": "Nick Ahmed"
     },
     {
       "date": "2025-04-23",
       "team": "Athletics",
       "details": "Athleticsoptioned 2BMax Muncyto Las Vegas Aviators.",
       "player": "Max Muncy"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Athletics",
+      "details": "Athleticsoptioned LHPJacob Lopezto Las Vegas Aviators.",
+      "player": "Jacob Lopez"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Athletics",
+      "details": "Athleticsselected the contract of 1BNick Kurtzfrom Las Vegas Aviators.",
+      "player": "Nick Kurtz"
     },
     {
       "date": "2025-04-23",
@@ -96,12 +138,6 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPNathan Wilesto Gwinnett Stripers.",
       "player": "Nathan Wiles"
-    },
-    {
-      "date": "2025-04-23",
-      "team": "Athletics",
-      "details": "Athleticsoptioned LHPJacob Lopezto Las Vegas Aviators.",
-      "player": "Jacob Lopez"
     },
     {
       "date": "2025-04-23",
@@ -118,12 +154,6 @@
     {
       "date": "2025-04-23",
       "team": "Athletics",
-      "details": "Athleticsselected the contract of 1BNick Kurtzfrom Las Vegas Aviators.",
-      "player": "Nick Kurtz"
-    },
-    {
-      "date": "2025-04-23",
-      "team": "Athletics",
       "details": "Athleticsrecalled RHPGrant Holmanfrom Las Vegas Aviators.",
       "player": "Grant Holman"
     },
@@ -132,6 +162,18 @@
       "team": "Athletics",
       "details": "Athleticsrecalled LHPHogan Harrisfrom Las Vegas Aviators.",
       "player": "Hogan Harris"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled RHPVictor Mederosfrom Tri-City Dust Devils.",
+      "player": "Victor Mederos"
+    },
+    {
+      "date": "2025-04-23",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPGavin Hollowellto Iowa Cubs.",
+      "player": "Gavin Hollowell"
     },
     {
       "date": "2025-04-23",
@@ -154,38 +196,14 @@
     {
       "date": "2025-04-23",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned RHPGavin Hollowellto Iowa Cubs.",
-      "player": "Gavin Hollowell"
-    },
-    {
-      "date": "2025-04-23",
-      "team": "Chicago Cubs",
       "details": "Chicago Cubsselected the contract of LHPDrew Pomeranzfrom Iowa Cubs.",
       "player": "Drew Pomeranz"
-    },
-    {
-      "date": "2025-04-23",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned RHPMichael Darrell-Hicksto Salt Lake Bees.",
-      "player": "Michael Darrell-Hicks"
-    },
-    {
-      "date": "2025-04-23",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsrecalled RHPVictor Mederosfrom Tri-City Dust Devils.",
-      "player": "Victor Mederos"
     },
     {
       "date": "2025-04-23",
       "team": "Miami Marlins",
       "details": "Miami Marlinssent LHPPatrick Monteverdeoutright to Jacksonville Jumbo Shrimp.",
       "player": "Patrick Monteverde"
-    },
-    {
-      "date": "2025-04-23",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsselected the contract of RHPCarl Edwards Jr.from Salt Lake Bees.",
-      "player": "Carl Edwards Jr."
     }
   ]
 }
