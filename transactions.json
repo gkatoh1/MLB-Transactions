@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-04-24T21:24:52.898772",
+  "last_updated": "2025-04-24T22:25:12.549725",
   "transactions": [
-    {
-      "date": "2025-04-24",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent LHPFraser Ellardon a rehab assignment to Charlotte Knights.",
-      "player": "Fraser Ellard"
-    },
     {
       "date": "2025-04-24",
       "team": "Washington Nationals",
@@ -16,38 +10,20 @@
     {
       "date": "2025-04-24",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent RHPBrandon Woodruffon a rehab assignment to Nashville Sounds.",
-      "player": "Brandon Woodruff"
+      "details": "Milwaukee Brewersactivated RHPTobias Myersfrom the 15-day injured list.",
+      "player": "Tobias Myers"
     },
     {
       "date": "2025-04-24",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced 2BWilli Castroon the 10-day injured list retroactive to April 21, 2025. Right oblique strain.",
-      "player": "Willi Castro"
-    },
-    {
-      "date": "2025-04-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPZach Brzykcyon a rehab assignment to Rochester Red Wings.",
-      "player": "Zach Brzykcy"
-    },
-    {
-      "date": "2025-04-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPCade Cavallion a rehab assignment to Harrisburg Senators.",
-      "player": "Cade Cavalli"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced RFJake Mangumon the 10-day injured list. Left groin strain.",
+      "player": "Jake Mangum"
     },
     {
       "date": "2025-04-24",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbackssent RHPKevin Ginkelon a rehab assignment to Reno Aces.",
       "player": "Kevin Ginkel"
-    },
-    {
-      "date": "2025-04-24",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated RHPTobias Myersfrom the 15-day injured list.",
-      "player": "Tobias Myers"
     },
     {
       "date": "2025-04-24",
@@ -63,6 +39,36 @@
     },
     {
       "date": "2025-04-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPBrandon Woodruffon a rehab assignment to Nashville Sounds.",
+      "player": "Brandon Woodruff"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPZach Brzykcyon a rehab assignment to Rochester Red Wings.",
+      "player": "Zach Brzykcy"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPCade Cavallion a rehab assignment to Harrisburg Senators.",
+      "player": "Cade Cavalli"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent LHPFraser Ellardon a rehab assignment to Charlotte Knights.",
+      "player": "Fraser Ellard"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced 2BWilli Castroon the 10-day injured list retroactive to April 21, 2025. Right oblique strain.",
+      "player": "Willi Castro"
+    },
+    {
+      "date": "2025-04-24",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsoptioned RHPDavid Festato St. Paul Saints.",
       "player": "David Festa"
@@ -75,33 +81,21 @@
     },
     {
       "date": "2025-04-24",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned LHPBryan Hudsonto Nashville Sounds.",
-      "player": "Bryan Hudson"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPRandy Wynneoutright to Louisville Bats.",
+      "player": "Randy Wynne"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled 2BCoco Montesfrom Durham Bulls.",
+      "player": "Coco Montes"
     },
     {
       "date": "2025-04-24",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxrecalled RHPLuis Guerrerofrom Worcester Red Sox.",
       "player": "Luis Guerrero"
-    },
-    {
-      "date": "2025-04-24",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPJuan Mejiafrom Albuquerque Isotopes.",
-      "player": "Juan Mejia"
-    },
-    {
-      "date": "2025-04-24",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled 2BMickey Gasperfrom St. Paul Saints.",
-      "player": "Mickey Gasper"
-    },
-    {
-      "date": "2025-04-24",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPJosh Winckowskito Worcester Red Sox.",
-      "player": "Josh Winckowski"
     },
     {
       "date": "2025-04-24",
@@ -117,9 +111,27 @@
     },
     {
       "date": "2025-04-24",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RHPRandy Wynneoutright to Louisville Bats.",
-      "player": "Randy Wynne"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPJuan Mejiafrom Albuquerque Isotopes.",
+      "player": "Juan Mejia"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LHPBryan Hudsonto Nashville Sounds.",
+      "player": "Bryan Hudson"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPJosh Winckowskito Worcester Red Sox.",
+      "player": "Josh Winckowski"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled 2BMickey Gasperfrom St. Paul Saints.",
+      "player": "Mickey Gasper"
     },
     {
       "date": "2025-04-24",
