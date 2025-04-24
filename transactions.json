@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-04-24T15:27:31.102569",
+  "last_updated": "2025-04-24T16:31:37.224884",
   "transactions": [
-    {
-      "date": "2025-04-24",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent RHPKevin Ginkelon a rehab assignment to Reno Aces.",
-      "player": "Kevin Ginkel"
-    },
     {
       "date": "2025-04-24",
       "team": "Minnesota Twins",
@@ -15,15 +9,45 @@
     },
     {
       "date": "2025-04-24",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPKevin Ginkelon a rehab assignment to Reno Aces.",
+      "player": "Kevin Ginkel"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RHPTobias Myersfrom the 15-day injured list.",
+      "player": "Tobias Myers"
+    },
+    {
+      "date": "2025-04-24",
       "team": "New York Yankees",
-      "details": "New York Yankeesoptioned 2BJorbit Vivasto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jorbit Vivas"
+      "details": "New York Yankeesactivated CFTrent Grishamfrom the paternity list.",
+      "player": "Trent Grisham"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPBrandon Woodruffon a rehab assignment to Nashville Sounds.",
+      "player": "Brandon Woodruff"
     },
     {
       "date": "2025-04-24",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxrecalled RHPLuis Guerrerofrom Worcester Red Sox.",
       "player": "Luis Guerrero"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LHPBryan Hudsonto Nashville Sounds.",
+      "player": "Bryan Hudson"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled 2BMickey Gasperfrom St. Paul Saints.",
+      "player": "Mickey Gasper"
     },
     {
       "date": "2025-04-24",
@@ -39,9 +63,15 @@
     },
     {
       "date": "2025-04-24",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled 2BMickey Gasperfrom St. Paul Saints.",
-      "player": "Mickey Gasper"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
+      "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned 2BJorbit Vivasto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jorbit Vivas"
     }
   ]
 }
