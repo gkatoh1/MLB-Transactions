@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-04-24T22:25:12.549725",
+  "last_updated": "2025-04-24T23:22:57.539148",
   "transactions": [
     {
       "date": "2025-04-24",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated SSCJ Abramsfrom the 10-day injured list.",
-      "player": "CJ Abrams"
+      "details": "Washington Nationalssent RHPCade Cavallion a rehab assignment to Harrisburg Senators.",
+      "player": "Cade Cavalli"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced 2BWilli Castroon the 10-day injured list retroactive to April 21, 2025. Right oblique strain.",
+      "player": "Willi Castro"
     },
     {
       "date": "2025-04-24",
@@ -21,18 +27,6 @@
     },
     {
       "date": "2025-04-24",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent RHPKevin Ginkelon a rehab assignment to Reno Aces.",
-      "player": "Kevin Ginkel"
-    },
-    {
-      "date": "2025-04-24",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessent CFBrandon Marshon a rehab assignment to Lehigh Valley IronPigs.",
-      "player": "Brandon Marsh"
-    },
-    {
-      "date": "2025-04-24",
       "team": "New York Yankees",
       "details": "New York Yankeesactivated CFTrent Grishamfrom the paternity list.",
       "player": "Trent Grisham"
@@ -45,15 +39,33 @@
     },
     {
       "date": "2025-04-24",
+      "team": "New York Mets",
+      "details": "New York Metsactivated 2BJeff McNeilfrom the 10-day injured list.",
+      "player": "Jeff McNeil"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated SSCJ Abramsfrom the 10-day injured list.",
+      "player": "CJ Abrams"
+    },
+    {
+      "date": "2025-04-24",
       "team": "Washington Nationals",
       "details": "Washington Nationalssent RHPZach Brzykcyon a rehab assignment to Rochester Red Wings.",
       "player": "Zach Brzykcy"
     },
     {
       "date": "2025-04-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPCade Cavallion a rehab assignment to Harrisburg Senators.",
-      "player": "Cade Cavalli"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPKevin Ginkelon a rehab assignment to Reno Aces.",
+      "player": "Kevin Ginkel"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent CFBrandon Marshon a rehab assignment to Lehigh Valley IronPigs.",
+      "player": "Brandon Marsh"
     },
     {
       "date": "2025-04-24",
@@ -63,9 +75,9 @@
     },
     {
       "date": "2025-04-24",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced 2BWilli Castroon the 10-day injured list retroactive to April 21, 2025. Right oblique strain.",
-      "player": "Willi Castro"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned 3BTrey Lipscombto Rochester Red Wings.",
+      "player": "Trey Lipscomb"
     },
     {
       "date": "2025-04-24",
@@ -75,15 +87,33 @@
     },
     {
       "date": "2025-04-24",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
+      "player": "Hayden Senger"
+    },
+    {
+      "date": "2025-04-24",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
       "player": "Jonathan Bowlan"
     },
     {
       "date": "2025-04-24",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RHPRandy Wynneoutright to Louisville Bats.",
-      "player": "Randy Wynne"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RFJack Suwinskito Indianapolis Indians.",
+      "player": "Jack Suwinski"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned 2BBrett Batyto Syracuse Mets.",
+      "player": "Brett Baty"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned LHPBailey Hornto Toledo Mud Hens.",
+      "player": "Bailey Horn"
     },
     {
       "date": "2025-04-24",
@@ -94,8 +124,8 @@
     {
       "date": "2025-04-24",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPLuis Guerrerofrom Worcester Red Sox.",
-      "player": "Luis Guerrero"
+      "details": "Boston Red Soxoptioned RHPJosh Winckowskito Worcester Red Sox.",
+      "player": "Josh Winckowski"
     },
     {
       "date": "2025-04-24",
@@ -105,15 +135,15 @@
     },
     {
       "date": "2025-04-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned 3BTrey Lipscombto Rochester Red Wings.",
-      "player": "Trey Lipscomb"
-    },
-    {
-      "date": "2025-04-24",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesrecalled RHPJuan Mejiafrom Albuquerque Isotopes.",
       "player": "Juan Mejia"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPRandy Wynneoutright to Louisville Bats.",
+      "player": "Randy Wynne"
     },
     {
       "date": "2025-04-24",
@@ -124,8 +154,8 @@
     {
       "date": "2025-04-24",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPJosh Winckowskito Worcester Red Sox.",
-      "player": "Josh Winckowski"
+      "details": "Boston Red Soxrecalled RHPLuis Guerrerofrom Worcester Red Sox.",
+      "player": "Luis Guerrero"
     },
     {
       "date": "2025-04-24",
@@ -135,9 +165,21 @@
     },
     {
       "date": "2025-04-24",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPZak Kentto Columbus Clippers.",
+      "player": "Zak Kent"
+    },
+    {
+      "date": "2025-04-24",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravessent LHPJosé Suarezoutright to Gwinnett Stripers.",
       "player": "José Suarez"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned LHPKyle Hartto El Paso Chihuahuas.",
+      "player": "Kyle Hart"
     }
   ]
 }
