@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-25T02:00:07.170319",
+  "last_updated": "2025-04-25T03:10:36.359965",
   "transactions": [
     {
       "date": "2025-04-24",
@@ -9,27 +9,33 @@
     },
     {
       "date": "2025-04-24",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratestransferred LHPTim Mayzafrom the 15-day injured list to the 60-day injured list. Left shoulder lat muscle strain.",
+      "player": "Tim Mayza"
+    },
+    {
+      "date": "2025-04-24",
       "team": "Washington Nationals",
       "details": "Washington Nationalssent RHPCade Cavallion a rehab assignment to Harrisburg Senators.",
       "player": "Cade Cavalli"
     },
     {
       "date": "2025-04-24",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersplaced RHPKumar Rockeron the 15-day injured list. Right shoulder impingement.",
-      "player": "Kumar Rocker"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent LHPFraser Ellardon a rehab assignment to Charlotte Knights.",
+      "player": "Fraser Ellard"
     },
     {
       "date": "2025-04-24",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced RHPJustin Lawrenceon the 15-day injured list retroactive to April 23, 2025. Right elbow inflammation.",
-      "player": "Justin Lawrence"
+      "team": "New York Mets",
+      "details": "New York Metsactivated 2BJeff McNeilfrom the 10-day injured list.",
+      "player": "Jeff McNeil"
     },
     {
       "date": "2025-04-24",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratestransferred LHPTim Mayzafrom the 15-day injured list to the 60-day injured list. Left shoulder lat muscle strain.",
-      "player": "Tim Mayza"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated SSCJ Abramsfrom the 10-day injured list.",
+      "player": "CJ Abrams"
     },
     {
       "date": "2025-04-24",
@@ -45,21 +51,27 @@
     },
     {
       "date": "2025-04-24",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPKumar Rockeron the 15-day injured list. Right shoulder impingement.",
+      "player": "Kumar Rocker"
+    },
+    {
+      "date": "2025-04-24",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliessent CFBrandon Marshon a rehab assignment to Lehigh Valley IronPigs.",
       "player": "Brandon Marsh"
     },
     {
       "date": "2025-04-24",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent LHPFraser Ellardon a rehab assignment to Charlotte Knights.",
-      "player": "Fraser Ellard"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced RHPJustin Lawrenceon the 15-day injured list retroactive to April 23, 2025. Right elbow inflammation.",
+      "player": "Justin Lawrence"
     },
     {
       "date": "2025-04-24",
-      "team": "New York Mets",
-      "details": "New York Metsactivated 2BJeff McNeilfrom the 10-day injured list.",
-      "player": "Jeff McNeil"
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated CFTrent Grishamfrom the paternity list.",
+      "player": "Trent Grisham"
     },
     {
       "date": "2025-04-24",
@@ -81,27 +93,9 @@
     },
     {
       "date": "2025-04-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated SSCJ Abramsfrom the 10-day injured list.",
-      "player": "CJ Abrams"
-    },
-    {
-      "date": "2025-04-24",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated CFTrent Grishamfrom the paternity list.",
-      "player": "Trent Grisham"
-    },
-    {
-      "date": "2025-04-24",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysrecalled 2BCoco Montesfrom Durham Bulls.",
       "player": "Coco Montes"
-    },
-    {
-      "date": "2025-04-24",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesselected the contract of CFMatt Gorskifrom Indianapolis Indians.",
-      "player": "Matt Gorski"
     },
     {
       "date": "2025-04-24",
@@ -111,9 +105,21 @@
     },
     {
       "date": "2025-04-24",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPLuis Guerrerofrom Worcester Red Sox.",
+      "player": "Luis Guerrero"
+    },
+    {
+      "date": "2025-04-24",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
       "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPJosh Winckowskito Worcester Red Sox.",
+      "player": "Josh Winckowski"
     },
     {
       "date": "2025-04-24",
@@ -123,57 +129,9 @@
     },
     {
       "date": "2025-04-24",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPJuan Mejiafrom Albuquerque Isotopes.",
-      "player": "Juan Mejia"
-    },
-    {
-      "date": "2025-04-24",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent LHPJosé Suarezoutright to Gwinnett Stripers.",
-      "player": "José Suarez"
-    },
-    {
-      "date": "2025-04-24",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesrecalled RHPMike Burrowsfrom Indianapolis Indians.",
       "player": "Mike Burrows"
-    },
-    {
-      "date": "2025-04-24",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned LHPBryan Hudsonto Nashville Sounds.",
-      "player": "Bryan Hudson"
-    },
-    {
-      "date": "2025-04-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned 3BTrey Lipscombto Rochester Red Wings.",
-      "player": "Trey Lipscomb"
-    },
-    {
-      "date": "2025-04-24",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled RHPGerson Garabitofrom Round Rock Express.",
-      "player": "Gerson Garabito"
-    },
-    {
-      "date": "2025-04-24",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned 2BBrett Batyto Syracuse Mets.",
-      "player": "Brett Baty"
-    },
-    {
-      "date": "2025-04-24",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned 2BJorbit Vivasto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jorbit Vivas"
-    },
-    {
-      "date": "2025-04-24",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
-      "player": "Hayden Senger"
     },
     {
       "date": "2025-04-24",
@@ -183,9 +141,9 @@
     },
     {
       "date": "2025-04-24",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RHPRandy Wynneoutright to Louisville Bats.",
-      "player": "Randy Wynne"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LHPBryan Hudsonto Nashville Sounds.",
+      "player": "Bryan Hudson"
     },
     {
       "date": "2025-04-24",
@@ -201,9 +159,15 @@
     },
     {
       "date": "2025-04-24",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPJosh Winckowskito Worcester Red Sox.",
-      "player": "Josh Winckowski"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent LHPJosé Suarezoutright to Gwinnett Stripers.",
+      "player": "José Suarez"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned 2BBrett Batyto Syracuse Mets.",
+      "player": "Brett Baty"
     },
     {
       "date": "2025-04-24",
@@ -213,9 +177,45 @@
     },
     {
       "date": "2025-04-24",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPLuis Guerrerofrom Worcester Red Sox.",
-      "player": "Luis Guerrero"
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned 2BJorbit Vivasto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jorbit Vivas"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesselected the contract of CFMatt Gorskifrom Indianapolis Indians.",
+      "player": "Matt Gorski"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
+      "player": "Hayden Senger"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPGerson Garabitofrom Round Rock Express.",
+      "player": "Gerson Garabito"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned 3BTrey Lipscombto Rochester Red Wings.",
+      "player": "Trey Lipscomb"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPRandy Wynneoutright to Louisville Bats.",
+      "player": "Randy Wynne"
+    },
+    {
+      "date": "2025-04-24",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPJuan Mejiafrom Albuquerque Isotopes.",
+      "player": "Juan Mejia"
     }
   ]
 }
