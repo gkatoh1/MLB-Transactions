@@ -1,17 +1,11 @@
 {
-  "last_updated": "2025-04-25T21:23:15.758255",
+  "last_updated": "2025-04-25T22:25:13.547795",
   "transactions": [
     {
       "date": "2025-04-25",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPPablo Lópezfrom the 15-day injured list.",
-      "player": "Pablo López"
-    },
-    {
-      "date": "2025-04-25",
-      "team": "New York Mets",
-      "details": "New York Metsactivated CFrancisco Alvarezfrom the 10-day injured list.",
-      "player": "Francisco Alvarez"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPLucas Giolitoon a rehab assignment to Worcester Red Sox.",
+      "player": "Lucas Giolito"
     },
     {
       "date": "2025-04-25",
@@ -21,9 +15,21 @@
     },
     {
       "date": "2025-04-25",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent RHPLucas Giolitoon a rehab assignment to Worcester Red Sox.",
-      "player": "Lucas Giolito"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPPablo Lópezfrom the 15-day injured list.",
+      "player": "Pablo López"
+    },
+    {
+      "date": "2025-04-25",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated RHPZach Brzykcyfrom the 15-day injured list.",
+      "player": "Zach Brzykcy"
+    },
+    {
+      "date": "2025-04-25",
+      "team": "New York Mets",
+      "details": "New York Metsactivated CFrancisco Alvarezfrom the 10-day injured list.",
+      "player": "Francisco Alvarez"
     },
     {
       "date": "2025-04-25",
@@ -33,21 +39,21 @@
     },
     {
       "date": "2025-04-25",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPZach Brzykcyto Rochester Red Wings.",
+      "player": "Zach Brzykcy"
+    },
+    {
+      "date": "2025-04-25",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsoptioned RHPRyan Fernandezto Memphis Redbirds.",
       "player": "Ryan Fernandez"
     },
     {
       "date": "2025-04-25",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled RHPYilber Díazfrom Reno Aces.",
-      "player": "Yilber Díaz"
-    },
-    {
-      "date": "2025-04-25",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPRiley O'Brienfrom Memphis Redbirds.",
-      "player": "Riley O'Brien"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent CDiego Cartayaoutright to St. Paul Saints.",
+      "player": "Diego Cartaya"
     },
     {
       "date": "2025-04-25",
@@ -90,6 +96,24 @@
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesoptioned RHPJuan Mejiato Albuquerque Isotopes.",
       "player": "Juan Mejia"
+    },
+    {
+      "date": "2025-04-25",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPYilber Díazfrom Reno Aces.",
+      "player": "Yilber Díaz"
+    },
+    {
+      "date": "2025-04-25",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPRiley O'Brienfrom Memphis Redbirds.",
+      "player": "Riley O'Brien"
+    },
+    {
+      "date": "2025-04-25",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent OFEddie Rosariooutright to Oklahoma City Comets.",
+      "player": "Eddie Rosario"
     }
   ]
 }
