@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-04-25T18:33:27.151022",
+  "last_updated": "2025-04-25T19:19:46.826081",
   "transactions": [
+    {
+      "date": "2025-04-25",
+      "team": "New York Mets",
+      "details": "New York Metsactivated CFrancisco Alvarezfrom the 10-day injured list.",
+      "player": "Francisco Alvarez"
+    },
     {
       "date": "2025-04-25",
       "team": "Minnesota Twins",
@@ -9,9 +15,15 @@
     },
     {
       "date": "2025-04-25",
-      "team": "New York Mets",
-      "details": "New York Metsactivated CFrancisco Alvarezfrom the 10-day injured list.",
-      "player": "Francisco Alvarez"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPJuan Mejiato Albuquerque Isotopes.",
+      "player": "Juan Mejia"
+    },
+    {
+      "date": "2025-04-25",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPJonathan Bowlanto Omaha Storm Chasers.",
+      "player": "Jonathan Bowlan"
     }
   ]
 }
