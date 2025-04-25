@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-04-25T19:19:46.826081",
+  "last_updated": "2025-04-25T20:27:03.391244",
   "transactions": [
-    {
-      "date": "2025-04-25",
-      "team": "New York Mets",
-      "details": "New York Metsactivated CFrancisco Alvarezfrom the 10-day injured list.",
-      "player": "Francisco Alvarez"
-    },
     {
       "date": "2025-04-25",
       "team": "Minnesota Twins",
@@ -15,15 +9,51 @@
     },
     {
       "date": "2025-04-25",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPJuan Mejiato Albuquerque Isotopes.",
-      "player": "Juan Mejia"
+      "team": "New York Mets",
+      "details": "New York Metsactivated CFrancisco Alvarezfrom the 10-day injured list.",
+      "player": "Francisco Alvarez"
+    },
+    {
+      "date": "2025-04-25",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPLucas Giolitoon a rehab assignment to Worcester Red Sox.",
+      "player": "Lucas Giolito"
     },
     {
       "date": "2025-04-25",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsoptioned RHPJonathan Bowlanto Omaha Storm Chasers.",
       "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2025-04-25",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned LHPKyle Hartto El Paso Chihuahuas.",
+      "player": "Kyle Hart"
+    },
+    {
+      "date": "2025-04-25",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPRyan Fernandezto Memphis Redbirds.",
+      "player": "Ryan Fernandez"
+    },
+    {
+      "date": "2025-04-25",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPRiley O'Brienfrom Memphis Redbirds.",
+      "player": "Riley O'Brien"
+    },
+    {
+      "date": "2025-04-25",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled RHPRyan Bergertfrom El Paso Chihuahuas.",
+      "player": "Ryan Bergert"
+    },
+    {
+      "date": "2025-04-25",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPJuan Mejiato Albuquerque Isotopes.",
+      "player": "Juan Mejia"
     }
   ]
 }
