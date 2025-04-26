@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-04-26T14:20:49.121214",
+  "last_updated": "2025-04-26T15:23:05.473019",
   "transactions": [
-    {
-      "date": "2025-04-26",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced 2BLuke Keaschallon the 10-day injured list. Right forearm fracture.",
-      "player": "Luke Keaschall"
-    },
     {
       "date": "2025-04-26",
       "team": "Minnesota Twins",
@@ -15,9 +9,27 @@
     },
     {
       "date": "2025-04-26",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced 2BLuke Keaschallon the 10-day injured list. Right forearm fracture.",
+      "player": "Luke Keaschall"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianstransferred LHPErik Sabrowskifrom the 15-day injured list to the 60-day injured list. Left elbow inflammation.",
+      "player": "Erik Sabrowski"
+    },
+    {
+      "date": "2025-04-26",
       "team": "New York Yankees",
       "details": "New York Yankeessent RHPJonathan Loáisigaon a rehab assignment to Tampa Tarpons.",
       "player": "Jonathan Loáisiga"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled LHPDoug Nikhazyfrom Columbus Clippers.",
+      "player": "Doug Nikhazy"
     },
     {
       "date": "2025-04-26",
@@ -30,6 +42,18 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxrecalled RHPCooper Criswellfrom Worcester Red Sox.",
       "player": "Cooper Criswell"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled LHPSean Guentherfrom Toledo Mud Hens.",
+      "player": "Sean Guenther"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansselected the contract of LHPKolby Allardfrom Columbus Clippers.",
+      "player": "Kolby Allard"
     }
   ]
 }
