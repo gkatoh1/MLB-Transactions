@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-04-26T18:30:31.488880",
+  "last_updated": "2025-04-26T19:18:42.771288",
   "transactions": [
+    {
+      "date": "2025-04-26",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPJonathan Loáisigaon a rehab assignment to Tampa Tarpons.",
+      "player": "Jonathan Loáisiga"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerstransferred CFBlake Perkinsfrom the 10-day injured list to the 60-day injured list. Right shin.",
+      "player": "Blake Perkins"
+    },
     {
       "date": "2025-04-26",
       "team": "Milwaukee Brewers",
@@ -15,15 +27,21 @@
     },
     {
       "date": "2025-04-26",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated 1BNick Matonfor assignment.",
-      "player": "Nick Maton"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated 2BKody Clemens.",
+      "player": "Kody Clemens"
     },
     {
       "date": "2025-04-26",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced 2BAaron Schunkon the 10-day injured list. Left groin strain.",
-      "player": "Aaron Schunk"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPLance McCullers Jr.on a rehab assignment to Corpus Christi Hooks.",
+      "player": "Lance McCullers Jr."
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated 1BNick Matonfor assignment.",
+      "player": "Nick Maton"
     },
     {
       "date": "2025-04-26",
@@ -33,27 +51,15 @@
     },
     {
       "date": "2025-04-26",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced RFTyler O'Neillon the 10-day injured list retroactive to April 24, 2025. Neck inflammation.",
-      "player": "Tyler O'Neill"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced RHPIan Gibauton the 15-day injured list. Right shoulder impingement.",
+      "player": "Ian Gibaut"
     },
     {
       "date": "2025-04-26",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated 2BKody Clemens.",
-      "player": "Kody Clemens"
-    },
-    {
-      "date": "2025-04-26",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent RHPJonathan Loáisigaon a rehab assignment to Tampa Tarpons.",
-      "player": "Jonathan Loáisiga"
-    },
-    {
-      "date": "2025-04-26",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerstransferred CFBlake Perkinsfrom the 10-day injured list to the 60-day injured list. Right shin.",
-      "player": "Blake Perkins"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced 2BAaron Schunkon the 10-day injured list. Left groin strain.",
+      "player": "Aaron Schunk"
     },
     {
       "date": "2025-04-26",
@@ -69,9 +75,81 @@
     },
     {
       "date": "2025-04-26",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPShawn Dubinon a rehab assignment to Corpus Christi Hooks.",
+      "player": "Shawn Dubin"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RFTyler O'Neillon the 10-day injured list retroactive to April 24, 2025. Neck inflammation.",
+      "player": "Tyler O'Neill"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled LHPSean Guentherfrom Toledo Mud Hens.",
+      "player": "Sean Guenther"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsselected the contract of RHPJose Ferminfrom Rocket City Trash Pandas.",
+      "player": "Jose Fermin"
+    },
+    {
+      "date": "2025-04-26",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsrecalled LHPJake Ederfrom Salt Lake Bees.",
       "player": "Jake Eder"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPCooper Criswellfrom Worcester Red Sox.",
+      "player": "Cooper Criswell"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Athletics",
+      "details": "Athleticsrecalled LHPJacob Lopezfrom Las Vegas Aviators.",
+      "player": "Jacob Lopez"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansselected the contract of LHPKolby Allardfrom Columbus Clippers.",
+      "player": "Kolby Allard"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled LHPDoug Nikhazyfrom Columbus Clippers.",
+      "player": "Doug Nikhazy"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled LFDylan Carlsonfrom Norfolk Tides.",
+      "player": "Dylan Carlson"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubstraded 3BGage WorkmantoChicago White Soxfor cash.",
+      "player": "Gage Workman"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPLyon Richardsonfrom Louisville Bats.",
+      "player": "Lyon Richardson"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliestraded 2BKody ClemenstoMinnesota Twinsfor cash.",
+      "player": "Kody Clemens"
     },
     {
       "date": "2025-04-26",
@@ -87,63 +165,9 @@
     },
     {
       "date": "2025-04-26",
-      "team": "Athletics",
-      "details": "Athleticsrecalled LHPJacob Lopezfrom Las Vegas Aviators.",
-      "player": "Jacob Lopez"
-    },
-    {
-      "date": "2025-04-26",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled LFDylan Carlsonfrom Norfolk Tides.",
-      "player": "Dylan Carlson"
-    },
-    {
-      "date": "2025-04-26",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsoptioned RHPVictor Mederosto Salt Lake Bees.",
       "player": "Victor Mederos"
-    },
-    {
-      "date": "2025-04-26",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliestraded 2BKody ClemenstoMinnesota Twinsfor cash.",
-      "player": "Kody Clemens"
-    },
-    {
-      "date": "2025-04-26",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansselected the contract of LHPKolby Allardfrom Columbus Clippers.",
-      "player": "Kolby Allard"
-    },
-    {
-      "date": "2025-04-26",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubstraded 3BGage WorkmantoChicago White Soxfor cash.",
-      "player": "Gage Workman"
-    },
-    {
-      "date": "2025-04-26",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPCooper Criswellfrom Worcester Red Sox.",
-      "player": "Cooper Criswell"
-    },
-    {
-      "date": "2025-04-26",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled LHPDoug Nikhazyfrom Columbus Clippers.",
-      "player": "Doug Nikhazy"
-    },
-    {
-      "date": "2025-04-26",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled LHPSean Guentherfrom Toledo Mud Hens.",
-      "player": "Sean Guenther"
-    },
-    {
-      "date": "2025-04-26",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsselected the contract of RHPJose Ferminfrom Rocket City Trash Pandas.",
-      "player": "Jose Fermin"
     }
   ]
 }
