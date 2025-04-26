@@ -1,4 +1,35 @@
 {
-  "last_updated": "2025-04-26T13:27:45.845825",
-  "transactions": []
+  "last_updated": "2025-04-26T14:20:49.121214",
+  "transactions": [
+    {
+      "date": "2025-04-26",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced 2BLuke Keaschallon the 10-day injured list. Right forearm fracture.",
+      "player": "Luke Keaschall"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated 2BKody Clemens.",
+      "player": "Kody Clemens"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPJonathan Loáisigaon a rehab assignment to Tampa Tarpons.",
+      "player": "Jonathan Loáisiga"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliestraded 2BKody ClemenstoMinnesota Twinsfor cash.",
+      "player": "Kody Clemens"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPCooper Criswellfrom Worcester Red Sox.",
+      "player": "Cooper Criswell"
+    }
+  ]
 }
