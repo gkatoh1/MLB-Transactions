@@ -1,6 +1,24 @@
 {
-  "last_updated": "2025-04-26T15:23:05.473019",
+  "last_updated": "2025-04-26T16:28:23.045867",
   "transactions": [
+    {
+      "date": "2025-04-26",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPJonathan Loáisigaon a rehab assignment to Tampa Tarpons.",
+      "player": "Jonathan Loáisiga"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerstransferred CFBlake Perkinsfrom the 10-day injured list to the 60-day injured list. Right shin.",
+      "player": "Blake Perkins"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced CFGarrett Mitchellon the 10-day injured list. Left oblique strain.",
+      "player": "Garrett Mitchell"
+    },
     {
       "date": "2025-04-26",
       "team": "Minnesota Twins",
@@ -21,21 +39,27 @@
     },
     {
       "date": "2025-04-26",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent RHPJonathan Loáisigaon a rehab assignment to Tampa Tarpons.",
-      "player": "Jonathan Loáisiga"
+      "team": "Athletics",
+      "details": "Athleticsplaced RHPJ.T. Ginnon the 15-day injured list retroactive to April 25, 2025. Riight elbow inflammation.",
+      "player": "J.T. Ginn"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RFTyler O'Neillon the 10-day injured list retroactive to April 24, 2025. Neck inflammation.",
+      "player": "Tyler O'Neill"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of LFDaz Cameronfrom Nashville Sounds.",
+      "player": "Daz Cameron"
     },
     {
       "date": "2025-04-26",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansrecalled LHPDoug Nikhazyfrom Columbus Clippers.",
       "player": "Doug Nikhazy"
-    },
-    {
-      "date": "2025-04-26",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliestraded 2BKody ClemenstoMinnesota Twinsfor cash.",
-      "player": "Kody Clemens"
     },
     {
       "date": "2025-04-26",
@@ -51,9 +75,27 @@
     },
     {
       "date": "2025-04-26",
+      "team": "Athletics",
+      "details": "Athleticsrecalled LHPJacob Lopezfrom Las Vegas Aviators.",
+      "player": "Jacob Lopez"
+    },
+    {
+      "date": "2025-04-26",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansselected the contract of LHPKolby Allardfrom Columbus Clippers.",
       "player": "Kolby Allard"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled LFDylan Carlsonfrom Norfolk Tides.",
+      "player": "Dylan Carlson"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliestraded 2BKody ClemenstoMinnesota Twinsfor cash.",
+      "player": "Kody Clemens"
     }
   ]
 }
