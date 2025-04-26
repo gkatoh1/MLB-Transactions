@@ -1,17 +1,11 @@
 {
-  "last_updated": "2025-04-26T01:55:38.929634",
+  "last_updated": "2025-04-26T03:03:57.422663",
   "transactions": [
     {
       "date": "2025-04-25",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated RHPZach Brzykcyfrom the 15-day injured list.",
-      "player": "Zach Brzykcy"
-    },
-    {
-      "date": "2025-04-25",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent RHPLucas Giolitoon a rehab assignment to Worcester Red Sox.",
-      "player": "Lucas Giolito"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent 3BRoyce Lewison a rehab assignment to St. Paul Saints.",
+      "player": "Royce Lewis"
     },
     {
       "date": "2025-04-25",
@@ -33,15 +27,27 @@
     },
     {
       "date": "2025-04-25",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent 3BRoyce Lewison a rehab assignment to St. Paul Saints.",
-      "player": "Royce Lewis"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPLucas Giolitoon a rehab assignment to Worcester Red Sox.",
+      "player": "Lucas Giolito"
     },
     {
       "date": "2025-04-25",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled RHPRyan Bergertfrom El Paso Chihuahuas.",
-      "player": "Ryan Bergert"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated RHPZach Brzykcyfrom the 15-day injured list.",
+      "player": "Zach Brzykcy"
+    },
+    {
+      "date": "2025-04-25",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPJuan Mejiato Albuquerque Isotopes.",
+      "player": "Juan Mejia"
+    },
+    {
+      "date": "2025-04-25",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPYilber Díazfrom Reno Aces.",
+      "player": "Yilber Díaz"
     },
     {
       "date": "2025-04-25",
@@ -57,33 +63,9 @@
     },
     {
       "date": "2025-04-25",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned LHPEvan Siskto Omaha Storm Chasers.",
-      "player": "Evan Sisk"
-    },
-    {
-      "date": "2025-04-25",
       "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPRiley O'Brienfrom Memphis Redbirds.",
-      "player": "Riley O'Brien"
-    },
-    {
-      "date": "2025-04-25",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssent OFEddie Rosariooutright to Oklahoma City Comets.",
-      "player": "Eddie Rosario"
-    },
-    {
-      "date": "2025-04-25",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPZach Brzykcyto Rochester Red Wings.",
-      "player": "Zach Brzykcy"
-    },
-    {
-      "date": "2025-04-25",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned CBraxton Fulfordto Albuquerque Isotopes.",
-      "player": "Braxton Fulford"
+      "details": "St. Louis Cardinalsoptioned RHPRyan Fernandezto Memphis Redbirds.",
+      "player": "Ryan Fernandez"
     },
     {
       "date": "2025-04-25",
@@ -93,9 +75,9 @@
     },
     {
       "date": "2025-04-25",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPJuan Mejiato Albuquerque Isotopes.",
-      "player": "Juan Mejia"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPZach Brzykcyto Rochester Red Wings.",
+      "player": "Zach Brzykcy"
     },
     {
       "date": "2025-04-25",
@@ -111,9 +93,9 @@
     },
     {
       "date": "2025-04-25",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned RHPJ.P. Feyereisento Reno Aces.",
-      "player": "J.P. Feyereisen"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPRiley O'Brienfrom Memphis Redbirds.",
+      "player": "Riley O'Brien"
     },
     {
       "date": "2025-04-25",
@@ -123,15 +105,33 @@
     },
     {
       "date": "2025-04-25",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPRyan Fernandezto Memphis Redbirds.",
-      "player": "Ryan Fernandez"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled RHPRyan Bergertfrom El Paso Chihuahuas.",
+      "player": "Ryan Bergert"
+    },
+    {
+      "date": "2025-04-25",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned LHPEvan Siskto Omaha Storm Chasers.",
+      "player": "Evan Sisk"
+    },
+    {
+      "date": "2025-04-25",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent OFEddie Rosariooutright to Oklahoma City Comets.",
+      "player": "Eddie Rosario"
+    },
+    {
+      "date": "2025-04-25",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned CBraxton Fulfordto Albuquerque Isotopes.",
+      "player": "Braxton Fulford"
     },
     {
       "date": "2025-04-25",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled RHPYilber Díazfrom Reno Aces.",
-      "player": "Yilber Díaz"
+      "details": "Arizona Diamondbacksoptioned RHPJ.P. Feyereisento Reno Aces.",
+      "player": "J.P. Feyereisen"
     }
   ]
 }
