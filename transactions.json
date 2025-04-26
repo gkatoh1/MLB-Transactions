@@ -1,47 +1,17 @@
 {
-  "last_updated": "2025-04-26T20:24:31.781669",
+  "last_updated": "2025-04-26T21:20:57.507289",
   "transactions": [
-    {
-      "date": "2025-04-26",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent RHPJonathan Loáisigaon a rehab assignment to Tampa Tarpons.",
-      "player": "Jonathan Loáisiga"
-    },
-    {
-      "date": "2025-04-26",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced CFGarrett Mitchellon the 10-day injured list. Left oblique strain.",
-      "player": "Garrett Mitchell"
-    },
-    {
-      "date": "2025-04-26",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced RFTyler O'Neillon the 10-day injured list retroactive to April 24, 2025. Neck inflammation.",
-      "player": "Tyler O'Neill"
-    },
-    {
-      "date": "2025-04-26",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsdesignated RHPCarl Edwards Jr.for assignment.",
-      "player": "Carl Edwards Jr."
-    },
-    {
-      "date": "2025-04-26",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent RHPEury Pérezon a rehab assignment to Jupiter Hammerheads.",
-      "player": "Eury Pérez"
-    },
-    {
-      "date": "2025-04-26",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerstransferred CFBlake Perkinsfrom the 10-day injured list to the 60-day injured list. Right shin.",
-      "player": "Blake Perkins"
-    },
     {
       "date": "2025-04-26",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesplaced 2BAaron Schunkon the 10-day injured list. Left groin strain.",
       "player": "Aaron Schunk"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated 1BNick Matonfor assignment.",
+      "player": "Nick Maton"
     },
     {
       "date": "2025-04-26",
@@ -63,15 +33,21 @@
     },
     {
       "date": "2025-04-26",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated 1BNick Matonfor assignment.",
-      "player": "Nick Maton"
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPJonathan Loáisigaon a rehab assignment to Tampa Tarpons.",
+      "player": "Jonathan Loáisiga"
     },
     {
       "date": "2025-04-26",
       "team": "Athletics",
       "details": "Athleticsplaced RHPJ.T. Ginnon the 15-day injured list retroactive to April 25, 2025. Riight elbow inflammation.",
       "player": "J.T. Ginn"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPLance McCullers Jr.on a rehab assignment to Corpus Christi Hooks.",
+      "player": "Lance McCullers Jr."
     },
     {
       "date": "2025-04-26",
@@ -87,9 +63,51 @@
     },
     {
       "date": "2025-04-26",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RHPLance McCullers Jr.on a rehab assignment to Corpus Christi Hooks.",
-      "player": "Lance McCullers Jr."
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent RHPEury Pérezon a rehab assignment to Jupiter Hammerheads.",
+      "player": "Eury Pérez"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RFTyler O'Neillon the 10-day injured list retroactive to April 24, 2025. Neck inflammation.",
+      "player": "Tyler O'Neill"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerstransferred CFBlake Perkinsfrom the 10-day injured list to the 60-day injured list. Right shin.",
+      "player": "Blake Perkins"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced CFGarrett Mitchellon the 10-day injured list. Left oblique strain.",
+      "player": "Garrett Mitchell"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated RHPCarl Edwards Jr.for assignment.",
+      "player": "Carl Edwards Jr."
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansselected the contract of LHPKolby Allardfrom Columbus Clippers.",
+      "player": "Kolby Allard"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubstraded 3BGage WorkmantoChicago White Soxfor cash.",
+      "player": "Gage Workman"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPCooper Criswellfrom Worcester Red Sox.",
+      "player": "Cooper Criswell"
     },
     {
       "date": "2025-04-26",
@@ -123,12 +141,6 @@
     },
     {
       "date": "2025-04-26",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliestraded 2BKody ClemenstoMinnesota Twinsfor cash.",
-      "player": "Kody Clemens"
-    },
-    {
-      "date": "2025-04-26",
       "team": "Athletics",
       "details": "Athleticsrecalled LHPJacob Lopezfrom Las Vegas Aviators.",
       "player": "Jacob Lopez"
@@ -147,27 +159,21 @@
     },
     {
       "date": "2025-04-26",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansselected the contract of LHPKolby Allardfrom Columbus Clippers.",
-      "player": "Kolby Allard"
-    },
-    {
-      "date": "2025-04-26",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubstraded 3BGage WorkmantoChicago White Soxfor cash.",
-      "player": "Gage Workman"
-    },
-    {
-      "date": "2025-04-26",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPCooper Criswellfrom Worcester Red Sox.",
-      "player": "Cooper Criswell"
-    },
-    {
-      "date": "2025-04-26",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsoptioned RHPVictor Mederosto Salt Lake Bees.",
       "player": "Victor Mederos"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliestraded 2BKody ClemenstoMinnesota Twinsfor cash.",
+      "player": "Kody Clemens"
+    },
+    {
+      "date": "2025-04-26",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPKeider Monterofrom Toledo Mud Hens.",
+      "player": "Keider Montero"
     },
     {
       "date": "2025-04-26",
