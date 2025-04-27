@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-27T13:28:02.641032",
+  "last_updated": "2025-04-27T14:20:55.132808",
   "transactions": [
     {
       "date": "2025-04-27",
@@ -12,6 +12,18 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned RHPColin Selbyto Norfolk Tides.",
       "player": "Colin Selby"
+    },
+    {
+      "date": "2025-04-27",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPCooper Criswellto Worcester Red Sox.",
+      "player": "Cooper Criswell"
+    },
+    {
+      "date": "2025-04-27",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPYerry De Los Santosfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Yerry De Los Santos"
     }
   ]
 }
