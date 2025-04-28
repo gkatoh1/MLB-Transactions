@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-28T19:19:57.755953",
+  "last_updated": "2025-04-28T20:25:00.480870",
   "transactions": [
     {
       "date": "2025-04-28",
@@ -16,26 +16,32 @@
     {
       "date": "2025-04-28",
       "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPIan Anderson.",
+      "player": "Ian Anderson"
+    },
+    {
+      "date": "2025-04-28",
+      "team": "Atlanta Braves",
       "details": "Atlanta Bravessigned free agent OFEddie Rosario.",
       "player": "Eddie Rosario"
     },
     {
       "date": "2025-04-28",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPIan Anderson.",
-      "player": "Ian Anderson"
-    },
-    {
-      "date": "2025-04-28",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsactivated SSJose Barrero.",
-      "player": "Jose Barrero"
-    },
-    {
-      "date": "2025-04-28",
-      "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPDavis Danielto Gwinnett Stripers.",
       "player": "Davis Daniel"
+    },
+    {
+      "date": "2025-04-28",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPJuan Mejiafrom Albuquerque Isotopes.",
+      "player": "Juan Mejia"
+    },
+    {
+      "date": "2025-04-28",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPBradley Blalockto Albuquerque Isotopes.",
+      "player": "Bradley Blalock"
     },
     {
       "date": "2025-04-28",
@@ -48,6 +54,12 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysclaimed RHPCasey Lawrenceoff waivers fromSeattle Mariners.",
       "player": "Casey Lawrence"
+    },
+    {
+      "date": "2025-04-28",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned LHPJoey Cantilloto Columbus Clippers.",
+      "player": "Joey Cantillo"
     },
     {
       "date": "2025-04-28",
@@ -81,15 +93,15 @@
     },
     {
       "date": "2025-04-28",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned SSThomas Saggeseto Memphis Redbirds.",
-      "player": "Thomas Saggese"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFJonatan Claseto Buffalo Bisons.",
+      "player": "Jonatan Clase"
     },
     {
       "date": "2025-04-28",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned LHPJoey Cantilloto Columbus Clippers.",
-      "player": "Joey Cantillo"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned SSThomas Saggeseto Memphis Redbirds.",
+      "player": "Thomas Saggese"
     }
   ]
 }
