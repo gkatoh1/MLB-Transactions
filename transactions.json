@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-04-28T21:22:13.590564",
+  "last_updated": "2025-04-28T22:24:33.027889",
   "transactions": [
-    {
-      "date": "2025-04-28",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned free agent OFEddie Rosario.",
-      "player": "Eddie Rosario"
-    },
     {
       "date": "2025-04-28",
       "team": "St. Louis Cardinals",
@@ -22,14 +16,14 @@
     {
       "date": "2025-04-28",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPIan Anderson.",
-      "player": "Ian Anderson"
+      "details": "Atlanta Bravessigned free agent OFEddie Rosario.",
+      "player": "Eddie Rosario"
     },
     {
       "date": "2025-04-28",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPDavis Danielto Gwinnett Stripers.",
-      "player": "Davis Daniel"
+      "details": "Atlanta Bravesactivated RHPIan Anderson.",
+      "player": "Ian Anderson"
     },
     {
       "date": "2025-04-28",
@@ -63,27 +57,21 @@
     },
     {
       "date": "2025-04-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPKade Strowdfrom Norfolk Tides.",
-      "player": "Kade Strowd"
-    },
-    {
-      "date": "2025-04-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned LHPGrant Wolframto Norfolk Tides.",
-      "player": "Grant Wolfram"
-    },
-    {
-      "date": "2025-04-28",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LFJonatan Claseto Buffalo Bisons.",
-      "player": "Jonatan Clase"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPDavis Danielto Gwinnett Stripers.",
+      "player": "Davis Daniel"
     },
     {
       "date": "2025-04-28",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsoptioned SSThomas Saggeseto Memphis Redbirds.",
       "player": "Thomas Saggese"
+    },
+    {
+      "date": "2025-04-28",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned LHPJoey Cantilloto Columbus Clippers.",
+      "player": "Joey Cantillo"
     },
     {
       "date": "2025-04-28",
@@ -99,9 +87,21 @@
     },
     {
       "date": "2025-04-28",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned LHPJoey Cantilloto Columbus Clippers.",
-      "player": "Joey Cantillo"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPKade Strowdfrom Norfolk Tides.",
+      "player": "Kade Strowd"
+    },
+    {
+      "date": "2025-04-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPGrant Wolframto Norfolk Tides.",
+      "player": "Grant Wolfram"
+    },
+    {
+      "date": "2025-04-28",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFJonatan Claseto Buffalo Bisons.",
+      "player": "Jonatan Clase"
     }
   ]
 }
