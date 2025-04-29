@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-04-29T21:23:03.158682",
+  "last_updated": "2025-04-29T22:23:56.880411",
   "transactions": [
-    {
-      "date": "2025-04-29",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned free agent LFCal Mitchellto a minor league contract.",
-      "player": "Cal Mitchell"
-    },
     {
       "date": "2025-04-29",
       "team": "Chicago White Sox",
@@ -15,21 +9,27 @@
     },
     {
       "date": "2025-04-29",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced RHPDennis Santanaon the bereavement list.",
-      "player": "Dennis Santana"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LHPTrevor Rogerson a rehab assignment to Norfolk Tides.",
+      "player": "Trevor Rogers"
     },
     {
       "date": "2025-04-29",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersplaced RHPGregory Santoson the 60-day injured list.",
-      "player": "Gregory Santos"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPCade Cavallion a rehab assignment to Rochester Red Wings.",
+      "player": "Cade Cavalli"
     },
     {
       "date": "2025-04-29",
-      "team": "Athletics",
-      "details": "Athleticssent 2BZack Gelofon a rehab assignment to Las Vegas Aviators.",
-      "player": "Zack Gelof"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssigned free agent LFCal Mitchellto a minor league contract.",
+      "player": "Cal Mitchell"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RFManuel Margoton a rehab assignment to Toledo Mud Hens.",
+      "player": "Manuel Margot"
     },
     {
       "date": "2025-04-29",
@@ -87,15 +87,15 @@
     },
     {
       "date": "2025-04-29",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent LHPTrevor Rogerson a rehab assignment to Norfolk Tides.",
-      "player": "Trevor Rogers"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent RHPDauri Moretaon a rehab assignment to Bradenton Marauders.",
+      "player": "Dauri Moreta"
     },
     {
       "date": "2025-04-29",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPCade Cavallion a rehab assignment to Rochester Red Wings.",
-      "player": "Cade Cavalli"
+      "team": "Athletics",
+      "details": "Athleticssent 2BZack Gelofon a rehab assignment to Las Vegas Aviators.",
+      "player": "Zack Gelof"
     },
     {
       "date": "2025-04-29",
@@ -105,21 +105,57 @@
     },
     {
       "date": "2025-04-29",
-      "team": "Athletics",
-      "details": "Athleticssent RHPMichel Otañezon a rehab assignment to Las Vegas Aviators.",
-      "player": "Michel Otañez"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated 3BJ.D. Davisfor assignment.",
+      "player": "J.D. Davis"
     },
     {
       "date": "2025-04-29",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent RHPDauri Moretaon a rehab assignment to Bradenton Marauders.",
-      "player": "Dauri Moreta"
+      "details": "Pittsburgh Piratesplaced RHPDennis Santanaon the bereavement list.",
+      "player": "Dennis Santana"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersplaced RHPGregory Santoson the 60-day injured list.",
+      "player": "Gregory Santos"
     },
     {
       "date": "2025-04-29",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalssent LFDairon Blancoon a rehab assignment to Omaha Storm Chasers.",
       "player": "Dairon Blanco"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Athletics",
+      "details": "Athleticssent RHPMichel Otañezon a rehab assignment to Las Vegas Aviators.",
+      "player": "Michel Otañez"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssigned free agent RHPBryan Shawto a minor league contract.",
+      "player": "Bryan Shaw"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPAJ Smith-Shawverfrom Gwinnett Stripers.",
+      "player": "AJ Smith-Shawver"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPKyle Gibsonfrom Aberdeen IronBirds.",
+      "player": "Kyle Gibson"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPKade Strowdto Norfolk Tides.",
+      "player": "Kade Strowd"
     },
     {
       "date": "2025-04-29",
@@ -159,6 +195,30 @@
     },
     {
       "date": "2025-04-29",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled RFGustavo Camperofrom Salt Lake Bees.",
+      "player": "Gustavo Campero"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPNoah Davisto Oklahoma City Comets.",
+      "player": "Noah Davis"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RHPJesse Chavezoutright to Gwinnett Stripers.",
+      "player": "Jesse Chavez"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPMatt Sauerfrom Oklahoma City Comets.",
+      "player": "Matt Sauer"
+    },
+    {
+      "date": "2025-04-29",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansselected the contract of RHPVince Velasquezfrom Columbus Clippers.",
       "player": "Vince Velasquez"
@@ -171,27 +231,9 @@
     },
     {
       "date": "2025-04-29",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPAJ Smith-Shawverfrom Gwinnett Stripers.",
-      "player": "AJ Smith-Shawver"
-    },
-    {
-      "date": "2025-04-29",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansoptioned RHPCody Boltonto Columbus Clippers.",
       "player": "Cody Bolton"
-    },
-    {
-      "date": "2025-04-29",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPKyle Gibsonfrom Aberdeen IronBirds.",
-      "player": "Kyle Gibson"
-    },
-    {
-      "date": "2025-04-29",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPKade Strowdto Norfolk Tides.",
-      "player": "Kade Strowd"
     }
   ]
 }
