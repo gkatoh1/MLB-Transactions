@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-04-29T18:33:24.020460",
+  "last_updated": "2025-04-29T19:20:02.689120",
   "transactions": [
-    {
-      "date": "2025-04-29",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent LFDairon Blancoon a rehab assignment to Omaha Storm Chasers.",
-      "player": "Dairon Blanco"
-    },
     {
       "date": "2025-04-29",
       "team": "Chicago White Sox",
@@ -15,9 +9,45 @@
     },
     {
       "date": "2025-04-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RHPCasey Lawrence.",
+      "player": "Casey Lawrence"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated CFDaulton Varshofrom the 10-day injured list.",
+      "player": "Daulton Varsho"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated RHPKevin Ginkelfrom the 15-day injured list.",
+      "player": "Kevin Ginkel"
+    },
+    {
+      "date": "2025-04-29",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesdesignated RHPIan Andersonfor assignment.",
       "player": "Ian Anderson"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent LFDairon Blancoon a rehab assignment to Omaha Storm Chasers.",
+      "player": "Dairon Blanco"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianstransferred RHPShane Bieberfrom the 15-day injured list to the 60-day injured list. Right elbow ulnar collateral ligament reconstruction.",
+      "player": "Shane Bieber"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced RHPPaul Sewaldon the 15-day injured list. Right shoulder strain.",
+      "player": "Paul Sewald"
     },
     {
       "date": "2025-04-29",
@@ -36,6 +66,30 @@
       "team": "New York Mets",
       "details": "New York Metssigned free agent LHPBrooks Raley.",
       "player": "Brooks Raley"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned 3BWill Wagnerto Buffalo Bisons.",
+      "player": "Will Wagner"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansselected the contract of RHPVince Velasquezfrom Columbus Clippers.",
+      "player": "Vince Velasquez"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled LHPJoey Cantillofrom Columbus Clippers.",
+      "player": "Joey Cantillo"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPCody Boltonto Columbus Clippers.",
+      "player": "Cody Bolton"
     },
     {
       "date": "2025-04-29",
@@ -66,6 +120,12 @@
       "team": "New York Mets",
       "details": "New York Metsrecalled RHPKevin Hergetfrom Syracuse Mets.",
       "player": "Kevin Herget"
+    },
+    {
+      "date": "2025-04-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPPaxton Schultzto Buffalo Bisons.",
+      "player": "Paxton Schultz"
     }
   ]
 }
