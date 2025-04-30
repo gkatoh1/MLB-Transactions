@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-04-30T19:19:13.431962",
+  "last_updated": "2025-04-30T20:27:02.735674",
   "transactions": [
+    {
+      "date": "2025-04-30",
+      "team": "Athletics",
+      "details": "Athleticstransferred RHPJosé Leclercfrom the 15-day injured list to the 60-day injured list. Right lat strain.",
+      "player": "José Leclerc"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPJavier Assadon the 60-day injured list. Left oblique strain.",
+      "player": "Javier Assad"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced RHPBryan Abreuon the paternity list.",
+      "player": "Bryan Abreu"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPLucas Giolitofrom the 15-day injured list.",
+      "player": "Lucas Giolito"
+    },
     {
       "date": "2025-04-30",
       "team": "Detroit Tigers",
@@ -9,21 +33,9 @@
     },
     {
       "date": "2025-04-30",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated 2BTyler Callihan.",
-      "player": "Tyler Callihan"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent RHPBrandon Woodruffon a rehab assignment to Wisconsin Timber Rattlers.",
-      "player": "Brandon Woodruff"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated RHPTony Gonsolinfrom the 15-day injured list.",
-      "player": "Tony Gonsolin"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPMatt Canterinoto a minor league contract.",
+      "player": "Matt Canterino"
     },
     {
       "date": "2025-04-30",
@@ -39,15 +51,45 @@
     },
     {
       "date": "2025-04-30",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersplaced RFLuke Raleyon the 10-day injured list retroactive to April 28, 2025. Right oblique strain.",
-      "player": "Luke Raley"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPBrandon Woodruffon a rehab assignment to Wisconsin Timber Rattlers.",
+      "player": "Brandon Woodruff"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPTony Gonsolinfrom the 15-day injured list.",
+      "player": "Tony Gonsolin"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPSlade Cecconion a rehab assignment to Columbus Clippers.",
+      "player": "Slade Cecconi"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced LHPBrennan Bernardinoon the bereavement list.",
+      "player": "Brennan Bernardino"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated 2BTyler Tolbertfrom the bereavement list.",
+      "player": "Tyler Tolbert"
     },
     {
       "date": "2025-04-30",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxactivated LHPFraser Ellardfrom the 15-day injured list.",
       "player": "Fraser Ellard"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersplaced RFLuke Raleyon the 10-day injured list retroactive to April 28, 2025. Right oblique strain.",
+      "player": "Luke Raley"
     },
     {
       "date": "2025-04-30",
@@ -63,45 +105,15 @@
     },
     {
       "date": "2025-04-30",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced RHPBryan Abreuon the paternity list.",
-      "player": "Bryan Abreu"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent RHPSlade Cecconion a rehab assignment to Columbus Clippers.",
-      "player": "Slade Cecconi"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated 2BTyler Tolbertfrom the bereavement list.",
-      "player": "Tyler Tolbert"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Athletics",
-      "details": "Athleticstransferred RHPJosé Leclercfrom the 15-day injured list to the 60-day injured list. Right lat strain.",
-      "player": "José Leclerc"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssigned free agent RHPMatt Canterinoto a minor league contract.",
-      "player": "Matt Canterino"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned LHPTyler Gilbertto Charlotte Knights.",
-      "player": "Tyler Gilbert"
-    },
-    {
-      "date": "2025-04-30",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled 2BTyler Callihanfrom Louisville Bats.",
+      "details": "Cincinnati Redsactivated 2BTyler Callihan.",
       "player": "Tyler Callihan"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned free agent RHPJay Allmerto a minor league contract.",
+      "player": "Jay Allmer"
     },
     {
       "date": "2025-04-30",
@@ -111,39 +123,15 @@
     },
     {
       "date": "2025-04-30",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPKevin Hergetto Syracuse Mets.",
-      "player": "Kevin Herget"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerstraded RHPMatt FestatoCleveland Guardiansfor cash.",
-      "player": "Matt Festa"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Athletics",
-      "details": "Athleticsoptioned LHPJacob Lopezto Las Vegas Aviators.",
-      "player": "Jacob Lopez"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of LHPEric Lauerfrom Buffalo Bisons.",
-      "player": "Eric Lauer"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled 2BTyler Callihanfrom Louisville Bats.",
+      "player": "Tyler Callihan"
     },
     {
       "date": "2025-04-30",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsoptioned RHPJonathan Bowlanto Omaha Storm Chasers.",
       "player": "Jonathan Bowlan"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled LHPNoah Cameronfrom Omaha Storm Chasers.",
-      "player": "Noah Cameron"
     },
     {
       "date": "2025-04-30",
@@ -159,9 +147,45 @@
     },
     {
       "date": "2025-04-30",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of LFRhylan Thomasfrom Tacoma Rainiers.",
+      "player": "Rhylan Thomas"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of RHPChase Pettyfrom Louisville Bats.",
+      "player": "Chase Petty"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPKevin Hergetto Syracuse Mets.",
+      "player": "Kevin Herget"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerstraded RHPMatt FestatoCleveland Guardiansfor cash.",
+      "player": "Matt Festa"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned LHPTom Cosgroveto Iowa Cubs.",
+      "player": "Tom Cosgrove"
+    },
+    {
+      "date": "2025-04-30",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsoptioned 2BNick Loftinto Omaha Storm Chasers.",
       "player": "Nick Loftin"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Athletics",
+      "details": "Athleticsoptioned LHPJacob Lopezto Las Vegas Aviators.",
+      "player": "Jacob Lopez"
     },
     {
       "date": "2025-04-30",
@@ -171,9 +195,33 @@
     },
     {
       "date": "2025-04-30",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of LFRhylan Thomasfrom Tacoma Rainiers.",
-      "player": "Rhylan Thomas"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsselected the contract of RHPChris Flexenfrom Iowa Cubs.",
+      "player": "Chris Flexen"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPTyler Gilbertto Charlotte Knights.",
+      "player": "Tyler Gilbert"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled LHPNoah Cameronfrom Omaha Storm Chasers.",
+      "player": "Noah Cameron"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of LHPEric Lauerfrom Buffalo Bisons.",
+      "player": "Eric Lauer"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPGordon Graceffofrom Memphis Redbirds.",
+      "player": "Gordon Graceffo"
     }
   ]
 }
