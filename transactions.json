@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-04-30T15:26:55.129468",
+  "last_updated": "2025-04-30T16:31:15.194548",
   "transactions": [
     {
       "date": "2025-04-30",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsplaced 3BJeimer Candelarioon the 10-day injured list retroactive to April 28, 2025. Lumbar spine strain.",
       "player": "Jeimer Candelario"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPBeau Brieskeon a rehab assignment to West Michigan Whitecaps.",
+      "player": "Beau Brieske"
     },
     {
       "date": "2025-04-30",
@@ -18,18 +24,6 @@
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsactivated 2BTyler Tolbertfrom the bereavement list.",
       "player": "Tyler Tolbert"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated 2BTyler Callihan.",
-      "player": "Tyler Callihan"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent RHPBrandon Woodruffon a rehab assignment to Wisconsin Timber Rattlers.",
-      "player": "Brandon Woodruff"
     },
     {
       "date": "2025-04-30",
@@ -46,20 +40,38 @@
     {
       "date": "2025-04-30",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled 2BTyler Callihanfrom Louisville Bats.",
+      "details": "Cincinnati Redsactivated 2BTyler Callihan.",
       "player": "Tyler Callihan"
     },
     {
       "date": "2025-04-30",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerstraded RHPMatt FestatoCleveland Guardiansfor cash.",
-      "player": "Matt Festa"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPBrandon Woodruffon a rehab assignment to Wisconsin Timber Rattlers.",
+      "player": "Brandon Woodruff"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled 2BTyler Callihanfrom Louisville Bats.",
+      "player": "Tyler Callihan"
     },
     {
       "date": "2025-04-30",
       "team": "Houston Astros",
       "details": "Houston Astrosselected the contract of RHPAJ Blubaughfrom Sugar Land Space Cowboys.",
       "player": "AJ Blubaugh"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPJonathan Bowlanto Omaha Storm Chasers.",
+      "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerstraded RHPMatt FestatoCleveland Guardiansfor cash.",
+      "player": "Matt Festa"
     },
     {
       "date": "2025-04-30",
@@ -72,12 +84,6 @@
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsoptioned 2BNick Loftinto Omaha Storm Chasers.",
       "player": "Nick Loftin"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPJonathan Bowlanto Omaha Storm Chasers.",
-      "player": "Jonathan Bowlan"
     }
   ]
 }
