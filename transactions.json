@@ -1,11 +1,35 @@
 {
-  "last_updated": "2025-04-30T13:33:14.829728",
+  "last_updated": "2025-04-30T14:24:33.306735",
   "transactions": [
+    {
+      "date": "2025-04-30",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPBrandon Woodruffon a rehab assignment to Wisconsin Timber Rattlers.",
+      "player": "Brandon Woodruff"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced 3BJeimer Candelarioon the 10-day injured list retroactive to April 28, 2025. Lumbar spine strain.",
+      "player": "Jeimer Candelario"
+    },
     {
       "date": "2025-04-30",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinssigned free agent RHPMatt Canterinoto a minor league contract.",
       "player": "Matt Canterino"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated 2BTyler Callihan.",
+      "player": "Tyler Callihan"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled 2BTyler Callihanfrom Louisville Bats.",
+      "player": "Tyler Callihan"
     }
   ]
 }
