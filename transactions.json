@@ -1,47 +1,17 @@
 {
-  "last_updated": "2025-04-30T18:34:20.478257",
+  "last_updated": "2025-04-30T19:19:13.431962",
   "transactions": [
     {
       "date": "2025-04-30",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssigned free agent RHPMatt Canterinoto a minor league contract.",
-      "player": "Matt Canterino"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPBeau Brieskeon a rehab assignment to West Michigan Whitecaps.",
+      "player": "Beau Brieske"
     },
     {
       "date": "2025-04-30",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced 3BJeimer Candelarioon the 10-day injured list retroactive to April 28, 2025. Lumbar spine strain.",
-      "player": "Jeimer Candelario"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersdesignated RHPSauryn Laofor assignment.",
-      "player": "Sauryn Lao"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RHPBeau Brieskeon a rehab assignment to West Michigan Whitecaps.",
-      "player": "Beau Brieske"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersplaced RFLuke Raleyon the 10-day injured list retroactive to April 28, 2025. Right oblique strain.",
-      "player": "Luke Raley"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RHPBeau Brieskeon a rehab assignment to West Michigan Whitecaps.",
-      "player": "Beau Brieske"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced RHPBryan Abreuon the paternity list.",
-      "player": "Bryan Abreu"
+      "details": "Cincinnati Redsactivated 2BTyler Callihan.",
+      "player": "Tyler Callihan"
     },
     {
       "date": "2025-04-30",
@@ -57,6 +27,48 @@
     },
     {
       "date": "2025-04-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced 3BJeimer Candelarioon the 10-day injured list retroactive to April 28, 2025. Lumbar spine strain.",
+      "player": "Jeimer Candelario"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated RHPSauryn Laofor assignment.",
+      "player": "Sauryn Lao"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersplaced RFLuke Raleyon the 10-day injured list retroactive to April 28, 2025. Right oblique strain.",
+      "player": "Luke Raley"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated LHPFraser Ellardfrom the 15-day injured list.",
+      "player": "Fraser Ellard"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPBeau Brieskeon a rehab assignment to West Michigan Whitecaps.",
+      "player": "Beau Brieske"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated RHPCasey Lawrencefor assignment.",
+      "player": "Casey Lawrence"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced RHPBryan Abreuon the paternity list.",
+      "player": "Bryan Abreu"
+    },
+    {
+      "date": "2025-04-30",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardianssent RHPSlade Cecconion a rehab assignment to Columbus Clippers.",
       "player": "Slade Cecconi"
@@ -69,21 +81,87 @@
     },
     {
       "date": "2025-04-30",
+      "team": "Athletics",
+      "details": "Athleticstransferred RHPJosé Leclercfrom the 15-day injured list to the 60-day injured list. Right lat strain.",
+      "player": "José Leclerc"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPMatt Canterinoto a minor league contract.",
+      "player": "Matt Canterino"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPTyler Gilbertto Charlotte Knights.",
+      "player": "Tyler Gilbert"
+    },
+    {
+      "date": "2025-04-30",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated 2BTyler Callihan.",
+      "details": "Cincinnati Redsrecalled 2BTyler Callihanfrom Louisville Bats.",
       "player": "Tyler Callihan"
     },
     {
       "date": "2025-04-30",
+      "team": "Athletics",
+      "details": "Athleticsselected the contract of RHPCarlos Duranfrom Las Vegas Aviators.",
+      "player": "Carlos Duran"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPKevin Hergetto Syracuse Mets.",
+      "player": "Kevin Herget"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerstraded RHPMatt FestatoCleveland Guardiansfor cash.",
+      "player": "Matt Festa"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Athletics",
+      "details": "Athleticsoptioned LHPJacob Lopezto Las Vegas Aviators.",
+      "player": "Jacob Lopez"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of LHPEric Lauerfrom Buffalo Bisons.",
+      "player": "Eric Lauer"
+    },
+    {
+      "date": "2025-04-30",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned 2BNick Loftinto Omaha Storm Chasers.",
-      "player": "Nick Loftin"
+      "details": "Kansas City Royalsoptioned RHPJonathan Bowlanto Omaha Storm Chasers.",
+      "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled LHPNoah Cameronfrom Omaha Storm Chasers.",
+      "player": "Noah Cameron"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of LHPBrandon Waddellfrom Syracuse Mets.",
+      "player": "Brandon Waddell"
     },
     {
       "date": "2025-04-30",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersoptioned RHPMatt Sauerto Oklahoma City Comets.",
       "player": "Matt Sauer"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned 2BNick Loftinto Omaha Storm Chasers.",
+      "player": "Nick Loftin"
     },
     {
       "date": "2025-04-30",
@@ -96,30 +174,6 @@
       "team": "Seattle Mariners",
       "details": "Seattle Marinersselected the contract of LFRhylan Thomasfrom Tacoma Rainiers.",
       "player": "Rhylan Thomas"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled LHPNoah Cameronfrom Omaha Storm Chasers.",
-      "player": "Noah Cameron"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled 2BTyler Callihanfrom Louisville Bats.",
-      "player": "Tyler Callihan"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerstraded RHPMatt FestatoCleveland Guardiansfor cash.",
-      "player": "Matt Festa"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPJonathan Bowlanto Omaha Storm Chasers.",
-      "player": "Jonathan Bowlan"
     }
   ]
 }
