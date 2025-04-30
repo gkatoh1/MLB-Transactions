@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-04-30T16:31:15.194548",
+  "last_updated": "2025-04-30T17:22:02.674955",
   "transactions": [
+    {
+      "date": "2025-04-30",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced RHPBryan Abreuon the paternity list.",
+      "player": "Bryan Abreu"
+    },
     {
       "date": "2025-04-30",
       "team": "Cincinnati Reds",
@@ -9,9 +15,21 @@
     },
     {
       "date": "2025-04-30",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPBrandon Woodruffon a rehab assignment to Wisconsin Timber Rattlers.",
+      "player": "Brandon Woodruff"
+    },
+    {
+      "date": "2025-04-30",
       "team": "Detroit Tigers",
       "details": "Detroit Tigerssent RHPBeau Brieskeon a rehab assignment to West Michigan Whitecaps.",
       "player": "Beau Brieske"
+    },
+    {
+      "date": "2025-04-30",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPMatt Canterinoto a minor league contract.",
+      "player": "Matt Canterino"
     },
     {
       "date": "2025-04-30",
@@ -27,15 +45,9 @@
     },
     {
       "date": "2025-04-30",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced RHPBryan Abreuon the paternity list.",
-      "player": "Bryan Abreu"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssigned free agent RHPMatt Canterinoto a minor league contract.",
-      "player": "Matt Canterino"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPBeau Brieskeon a rehab assignment to West Michigan Whitecaps.",
+      "player": "Beau Brieske"
     },
     {
       "date": "2025-04-30",
@@ -45,21 +57,15 @@
     },
     {
       "date": "2025-04-30",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent RHPBrandon Woodruffon a rehab assignment to Wisconsin Timber Rattlers.",
-      "player": "Brandon Woodruff"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned 2BNick Loftinto Omaha Storm Chasers.",
+      "player": "Nick Loftin"
     },
     {
       "date": "2025-04-30",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled 2BTyler Callihanfrom Louisville Bats.",
-      "player": "Tyler Callihan"
-    },
-    {
-      "date": "2025-04-30",
-      "team": "Houston Astros",
-      "details": "Houston Astrosselected the contract of RHPAJ Blubaughfrom Sugar Land Space Cowboys.",
-      "player": "AJ Blubaugh"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled LHPNoah Cameronfrom Omaha Storm Chasers.",
+      "player": "Noah Cameron"
     },
     {
       "date": "2025-04-30",
@@ -75,15 +81,15 @@
     },
     {
       "date": "2025-04-30",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled LHPNoah Cameronfrom Omaha Storm Chasers.",
-      "player": "Noah Cameron"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled 2BTyler Callihanfrom Louisville Bats.",
+      "player": "Tyler Callihan"
     },
     {
       "date": "2025-04-30",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned 2BNick Loftinto Omaha Storm Chasers.",
-      "player": "Nick Loftin"
+      "team": "Houston Astros",
+      "details": "Houston Astrosselected the contract of RHPAJ Blubaughfrom Sugar Land Space Cowboys.",
+      "player": "AJ Blubaugh"
     }
   ]
 }
