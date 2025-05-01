@@ -1,11 +1,41 @@
 {
-  "last_updated": "2025-05-01T14:23:18.006156",
+  "last_updated": "2025-05-01T15:25:33.303065",
   "transactions": [
+    {
+      "date": "2025-05-01",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalstransferred RHPJames McArthurfrom the 15-day injured list to the 60-day injured list. Right elbow olecranon surgery.",
+      "player": "James McArthur"
+    },
     {
       "date": "2025-05-01",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalssent CIván Herreraon a rehab assignment to Memphis Redbirds.",
       "player": "Iván Herrera"
+    },
+    {
+      "date": "2025-05-01",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPGordon Graceffoto Memphis Redbirds.",
+      "player": "Gordon Graceffo"
+    },
+    {
+      "date": "2025-05-01",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPDaniel Robertto Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
+    },
+    {
+      "date": "2025-05-01",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPChris Devenskito Syracuse Mets.",
+      "player": "Chris Devenski"
+    },
+    {
+      "date": "2025-05-01",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned LHPBrandon Waddellto Syracuse Mets.",
+      "player": "Brandon Waddell"
     },
     {
       "date": "2025-05-01",
@@ -33,33 +63,21 @@
     },
     {
       "date": "2025-05-01",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPGordon Graceffoto Memphis Redbirds.",
-      "player": "Gordon Graceffo"
-    },
-    {
-      "date": "2025-05-01",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
       "player": "Chase Petty"
     },
     {
       "date": "2025-05-01",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPDaniel Robertto Lehigh Valley IronPigs.",
-      "player": "Daniel Robert"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned LHPNoah Cameronto Omaha Storm Chasers.",
+      "player": "Noah Cameron"
     },
     {
       "date": "2025-05-01",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPChris Devenskito Syracuse Mets.",
-      "player": "Chris Devenski"
-    },
-    {
-      "date": "2025-05-01",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned LHPBrandon Waddellto Syracuse Mets.",
-      "player": "Brandon Waddell"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsselected the contract of RHPTaylor Clarkefrom Omaha Storm Chasers.",
+      "player": "Taylor Clarke"
     }
   ]
 }
