@@ -1,11 +1,41 @@
 {
-  "last_updated": "2025-05-02T18:33:51.367608",
+  "last_updated": "2025-05-02T19:19:33.979085",
   "transactions": [
+    {
+      "date": "2025-05-02",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced 2BJazz Chisholm Jr.on the 10-day injured list retroactive to April 30, 2025. Right oblique strain.",
+      "player": "Jazz Chisholm Jr."
+    },
+    {
+      "date": "2025-05-02",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced LFAustin Hayson the 10-day injured list retroactive to April 29, 2025. Left hamstring strain.",
+      "player": "Austin Hays"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated CFBrandon Lockridgefrom the 10-day injured list.",
+      "player": "Brandon Lockridge"
+    },
     {
       "date": "2025-05-02",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratessigned free agent RHPJuan Munizto a minor league contract.",
       "player": "Juan Muniz"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated 2BKetel Martefrom the 10-day injured list.",
+      "player": "Ketel Marte"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated CTyler Stephensonfrom the 10-day injured list.",
+      "player": "Tyler Stephenson"
     },
     {
       "date": "2025-05-02",
@@ -21,33 +51,63 @@
     },
     {
       "date": "2025-05-02",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced LFAustin Hayson the 10-day injured list retroactive to April 29, 2025. Left hamstring strain.",
-      "player": "Austin Hays"
-    },
-    {
-      "date": "2025-05-02",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced 2BJazz Chisholm Jr.on the 10-day injured list retroactive to April 30, 2025. Right oblique strain.",
-      "player": "Jazz Chisholm Jr."
-    },
-    {
-      "date": "2025-05-02",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated CTyler Stephensonfrom the 10-day injured list.",
-      "player": "Tyler Stephenson"
-    },
-    {
-      "date": "2025-05-02",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPGunnar Hoglundfrom Las Vegas Aviators.",
-      "player": "Gunnar Hoglund"
-    },
-    {
-      "date": "2025-05-02",
       "team": "New York Yankees",
       "details": "New York Yankeesrecalled 2BJorbit Vivasfrom Scranton/Wilkes-Barre RailRiders.",
       "player": "Jorbit Vivas"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPRoddery Muñozfrom Memphis Redbirds.",
+      "player": "Roddery Muñoz"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPRiley O'Briento Memphis Redbirds.",
+      "player": "Riley O'Brien"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPMatt Svansonto Memphis Redbirds.",
+      "player": "Matt Svanson"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned LFTirso Ornelasto El Paso Chihuahuas.",
+      "player": "Tirso Ornelas"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPChris Roycroftfrom Memphis Redbirds.",
+      "player": "Chris Roycroft"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPSauryn Laooutright to Tacoma Rainiers.",
+      "player": "Sauryn Lao"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned LFJorge Barrosato Reno Aces.",
+      "player": "Jorge Barrosa"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPHunter Strattonto Indianapolis Indians.",
+      "player": "Hunter Stratton"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled SSLiover Peguerofrom Indianapolis Indians.",
+      "player": "Liover Peguero"
     },
     {
       "date": "2025-05-02",
@@ -60,6 +120,12 @@
       "team": "Athletics",
       "details": "Athleticsoptioned RHPCarlos Duranto Las Vegas Aviators.",
       "player": "Carlos Duran"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPGunnar Hoglundfrom Las Vegas Aviators.",
+      "player": "Gunnar Hoglund"
     },
     {
       "date": "2025-05-02",
