@@ -1,35 +1,23 @@
 {
-  "last_updated": "2025-05-02T20:27:03.538883",
+  "last_updated": "2025-05-02T21:23:04.011262",
   "transactions": [
     {
       "date": "2025-05-02",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssigned free agent LHPTy Blachto a minor league contract.",
-      "player": "Ty Blach"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced RFMike Trouton the 10-day injured list retroactive to May 1, 2025. Left knee contusion.",
+      "player": "Mike Trout"
     },
     {
       "date": "2025-05-02",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent RHPKyle Wrighton a rehab assignment to Northwest Arkansas Naturals.",
-      "player": "Kyle Wright"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated RHPRoddery Muñoz.",
+      "player": "Roddery Muñoz"
     },
     {
       "date": "2025-05-02",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced LFAustin Hayson the 10-day injured list retroactive to April 29, 2025. Left hamstring strain.",
-      "player": "Austin Hays"
-    },
-    {
-      "date": "2025-05-02",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated RHPBryan Abreufrom the paternity list.",
-      "player": "Bryan Abreu"
-    },
-    {
-      "date": "2025-05-02",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksactivated 2BKetel Martefrom the 10-day injured list.",
-      "player": "Ketel Marte"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansdesignated RHPVince Velasquezfor assignment.",
+      "player": "Vince Velasquez"
     },
     {
       "date": "2025-05-02",
@@ -45,39 +33,21 @@
     },
     {
       "date": "2025-05-02",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated CConnor Wongfrom the 10-day injured list.",
-      "player": "Connor Wong"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssigned free agent 3BJ.D. Davisto a minor league contract.",
+      "player": "J.D. Davis"
     },
     {
       "date": "2025-05-02",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersdesignated SSNick Ahmedfor assignment.",
-      "player": "Nick Ahmed"
-    },
-    {
-      "date": "2025-05-02",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessigned free agent RHPJuan Munizto a minor league contract.",
-      "player": "Juan Muniz"
-    },
-    {
-      "date": "2025-05-02",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresactivated CFBrandon Lockridgefrom the 10-day injured list.",
-      "player": "Brandon Lockridge"
-    },
-    {
-      "date": "2025-05-02",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPMichael Sorokaon a rehab assignment to Rochester Red Wings.",
-      "player": "Michael Soroka"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated 2BKetel Martefrom the 10-day injured list.",
+      "player": "Ketel Marte"
     },
     {
       "date": "2025-05-02",
       "team": "New York Yankees",
-      "details": "New York Yankeesplaced 2BJazz Chisholm Jr.on the 10-day injured list retroactive to April 30, 2025. Right oblique strain.",
-      "player": "Jazz Chisholm Jr."
+      "details": "New York Yankeessent RHPClayton Beeteron a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Clayton Beeter"
     },
     {
       "date": "2025-05-02",
@@ -87,9 +57,39 @@
     },
     {
       "date": "2025-05-02",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansdesignated RHPVince Velasquezfor assignment.",
-      "player": "Vince Velasquez"
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPClayton Beeteron a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Clayton Beeter"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersdesignated SSNick Ahmedfor assignment.",
+      "player": "Nick Ahmed"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent LHPTy Blachto a minor league contract.",
+      "player": "Ty Blach"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced 2BJazz Chisholm Jr.on the 10-day injured list retroactive to April 30, 2025. Right oblique strain.",
+      "player": "Jazz Chisholm Jr."
+    },
+    {
+      "date": "2025-05-02",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent RHPKyle Wrighton a rehab assignment to Northwest Arkansas Naturals.",
+      "player": "Kyle Wright"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned free agent RHPJuan Munizto a minor league contract.",
+      "player": "Juan Muniz"
     },
     {
       "date": "2025-05-02",
@@ -99,33 +99,45 @@
     },
     {
       "date": "2025-05-02",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsactivated RHPRoddery Muñoz.",
-      "player": "Roddery Muñoz"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPRyan Feltneron the 15-day injured list retroactive to April 29, 2025. Back spasms.",
+      "player": "Ryan Feltner"
     },
     {
       "date": "2025-05-02",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
-      "player": "Austin Warren"
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated RHPBryan Abreufrom the paternity list.",
+      "player": "Bryan Abreu"
     },
     {
       "date": "2025-05-02",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPRiley O'Briento Memphis Redbirds.",
-      "player": "Riley O'Brien"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPDL Hallon a rehab assignment to ACL Brewers.",
+      "player": "DL Hall"
     },
     {
       "date": "2025-05-02",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled 3BJonathan Ornelasfrom Round Rock Express.",
-      "player": "Jonathan Ornelas"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated CConnor Wongfrom the 10-day injured list.",
+      "player": "Connor Wong"
     },
     {
       "date": "2025-05-02",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersselected the contract of 1BBlaine Crimfrom Round Rock Express.",
-      "player": "Blaine Crim"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPMichael Sorokaon a rehab assignment to Rochester Red Wings.",
+      "player": "Michael Soroka"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced LFAustin Hayson the 10-day injured list retroactive to April 29, 2025. Left hamstring strain.",
+      "player": "Austin Hays"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated CFBrandon Lockridgefrom the 10-day injured list.",
+      "player": "Brandon Lockridge"
     },
     {
       "date": "2025-05-02",
@@ -135,21 +147,21 @@
     },
     {
       "date": "2025-05-02",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPChris Roycroftfrom Memphis Redbirds.",
-      "player": "Chris Roycroft"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned LFTirso Ornelasto El Paso Chihuahuas.",
+      "player": "Tirso Ornelas"
     },
     {
       "date": "2025-05-02",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssent RHPSauryn Laooutright to Tacoma Rainiers.",
-      "player": "Sauryn Lao"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPValente Bellozofrom Jacksonville Jumbo Shrimp.",
+      "player": "Valente Bellozo"
     },
     {
       "date": "2025-05-02",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled 2BJorbit Vivasfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jorbit Vivas"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned 1BJake Burgerto Round Rock Express.",
+      "player": "Jake Burger"
     },
     {
       "date": "2025-05-02",
@@ -171,33 +183,15 @@
     },
     {
       "date": "2025-05-02",
-      "team": "Athletics",
-      "details": "Athleticsoptioned RHPCarlos Duranto Las Vegas Aviators.",
-      "player": "Carlos Duran"
-    },
-    {
-      "date": "2025-05-02",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPTy Adcockto Syracuse Mets.",
-      "player": "Ty Adcock"
-    },
-    {
-      "date": "2025-05-02",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned LFTirso Ornelasto El Paso Chihuahuas.",
-      "player": "Tirso Ornelas"
-    },
-    {
-      "date": "2025-05-02",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned LFJorge Barrosato Reno Aces.",
-      "player": "Jorge Barrosa"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPBradley Blalockfrom Albuquerque Isotopes.",
+      "player": "Bradley Blalock"
     },
     {
       "date": "2025-05-02",
       "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned 1BJake Burgerto Round Rock Express.",
-      "player": "Jake Burger"
+      "details": "Texas Rangersselected the contract of 1BBlaine Crimfrom Round Rock Express.",
+      "player": "Blaine Crim"
     },
     {
       "date": "2025-05-02",
@@ -219,9 +213,45 @@
     },
     {
       "date": "2025-05-02",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled RHPValente Bellozofrom Jacksonville Jumbo Shrimp.",
-      "player": "Valente Bellozo"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPChris Roycroftfrom Memphis Redbirds.",
+      "player": "Chris Roycroft"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPSauryn Laooutright to Tacoma Rainiers.",
+      "player": "Sauryn Lao"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled OFNiko Kavadasfrom Salt Lake Bees.",
+      "player": "Niko Kavadas"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPRiley O'Briento Memphis Redbirds.",
+      "player": "Riley O'Brien"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled 3BJonathan Ornelasfrom Round Rock Express.",
+      "player": "Jonathan Ornelas"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned LFJorge Barrosato Reno Aces.",
+      "player": "Jorge Barrosa"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled 2BJorbit Vivasfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jorbit Vivas"
     },
     {
       "date": "2025-05-02",
@@ -234,6 +264,24 @@
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsrecalled RHPRoddery Muñozfrom Memphis Redbirds.",
       "player": "Roddery Muñoz"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
+      "player": "Austin Warren"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPCarlos Duranto Las Vegas Aviators.",
+      "player": "Carlos Duran"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPTy Adcockto Syracuse Mets.",
+      "player": "Ty Adcock"
     }
   ]
 }
