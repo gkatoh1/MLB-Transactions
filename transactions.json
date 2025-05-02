@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-05-02T13:32:45.137033",
+  "last_updated": "2025-05-02T14:24:09.319396",
   "transactions": [
     {
       "date": "2025-05-02",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratessigned free agent RHPJuan Munizto a minor league contract.",
       "player": "Juan Muniz"
+    },
+    {
+      "date": "2025-05-02",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced 2BJazz Chisholm Jr.on the 10-day injured list retroactive to April 30, 2025. Right oblique strain.",
+      "player": "Jazz Chisholm Jr."
+    },
+    {
+      "date": "2025-05-02",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled 2BJorbit Vivasfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jorbit Vivas"
     }
   ]
 }
