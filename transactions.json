@@ -1,17 +1,11 @@
 {
-  "last_updated": "2025-05-03T19:18:10.586536",
+  "last_updated": "2025-05-03T20:25:11.965468",
   "transactions": [
     {
       "date": "2025-05-03",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressent 2BJake Cronenworthon a rehab assignment to ACL Padres.",
-      "player": "Jake Cronenworth"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RHPJohn Brebbiaon a rehab assignment to Toledo Mud Hens.",
-      "player": "John Brebbia"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RHPMatt Brashfrom the 15-day injured list.",
+      "player": "Matt Brash"
     },
     {
       "date": "2025-05-03",
@@ -24,12 +18,6 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent RHPChayce McDermotton a rehab assignment to Norfolk Tides.",
       "player": "Chayce McDermott"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated RHPMatt Brashfrom the 15-day injured list.",
-      "player": "Matt Brash"
     },
     {
       "date": "2025-05-03",
@@ -57,39 +45,27 @@
     },
     {
       "date": "2025-05-03",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent 2BJake Cronenworthon a rehab assignment to ACL Padres.",
+      "player": "Jake Cronenworth"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced 2BTommy Edmanon the 10-day injured list retroactive to April 30, 2025. Right ankle inflammation.",
+      "player": "Tommy Edman"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPJohn Brebbiaon a rehab assignment to Toledo Mud Hens.",
+      "player": "John Brebbia"
+    },
+    {
+      "date": "2025-05-03",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxselected the contract of 3BAbraham Torofrom Worcester Red Sox.",
       "player": "Abraham Toro"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned RHPTroy Taylorto Tacoma Rainiers.",
-      "player": "Troy Taylor"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned CFCal Stevensonto Lehigh Valley IronPigs.",
-      "player": "Cal Stevenson"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPLuis Guerreroto Worcester Red Sox.",
-      "player": "Luis Guerrero"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled CLuis Campusanofrom El Paso Chihuahuas.",
-      "player": "Luis Campusano"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned 1BConnor Joeto El Paso Chihuahuas.",
-      "player": "Connor Joe"
     },
     {
       "date": "2025-05-03",
@@ -102,6 +78,42 @@
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsrecalled RHPMichael McGreevyfrom Memphis Redbirds.",
       "player": "Michael McGreevy"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled CLuis Campusanofrom El Paso Chihuahuas.",
+      "player": "Luis Campusano"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled 2BHyeseong Kimfrom Oklahoma City Comets.",
+      "player": "Hyeseong Kim"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned CFCal Stevensonto Lehigh Valley IronPigs.",
+      "player": "Cal Stevenson"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned 1BConnor Joeto El Paso Chihuahuas.",
+      "player": "Connor Joe"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPLuis Guerreroto Worcester Red Sox.",
+      "player": "Luis Guerrero"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPTroy Taylorto Tacoma Rainiers.",
+      "player": "Troy Taylor"
     }
   ]
 }
