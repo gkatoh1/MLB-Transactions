@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-05-03T15:23:38.925590",
+  "last_updated": "2025-05-03T16:28:37.354590",
   "transactions": [
+    {
+      "date": "2025-05-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced 1BTriston Casason the 10-day injured list. Left patellar tendon rupture.",
+      "player": "Triston Casas"
+    },
     {
       "date": "2025-05-03",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbackssent RHPKendall Gravemanon a rehab assignment to ACL D-backs.",
       "player": "Kendall Graveman"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPChayce McDermotton a rehab assignment to Norfolk Tides.",
+      "player": "Chayce McDermott"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated LHPBrennan Bernardinofrom the bereavement list.",
+      "player": "Brennan Bernardino"
     },
     {
       "date": "2025-05-03",
@@ -18,6 +36,18 @@
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsrecalled RHPMichael McGreevyfrom Memphis Redbirds.",
       "player": "Michael McGreevy"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of 3BAbraham Torofrom Worcester Red Sox.",
+      "player": "Abraham Toro"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPLuis Guerreroto Worcester Red Sox.",
+      "player": "Luis Guerrero"
     }
   ]
 }
