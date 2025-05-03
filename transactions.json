@@ -1,4 +1,23 @@
 {
-  "last_updated": "2025-05-03T14:21:43.317912",
-  "transactions": []
+  "last_updated": "2025-05-03T15:23:38.925590",
+  "transactions": [
+    {
+      "date": "2025-05-03",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPKendall Gravemanon a rehab assignment to ACL D-backs.",
+      "player": "Kendall Graveman"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPRoddery Muñozto Memphis Redbirds.",
+      "player": "Roddery Muñoz"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPMichael McGreevyfrom Memphis Redbirds.",
+      "player": "Michael McGreevy"
+    }
+  ]
 }
