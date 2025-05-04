@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-05-04T17:19:47.395304",
+  "last_updated": "2025-05-04T18:31:55.240852",
   "transactions": [
     {
       "date": "2025-05-04",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsactivated CNick Fortesfrom the 10-day injured list.",
-      "player": "Nick Fortes"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated 1BBobby Dalbecfor assignment.",
+      "player": "Bobby Dalbec"
+    },
+    {
+      "date": "2025-05-04",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPZach Eflinon a rehab assignment to Aberdeen IronBirds.",
+      "player": "Zach Eflin"
+    },
+    {
+      "date": "2025-05-04",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RHPDennis Santanafrom the bereavement list.",
+      "player": "Dennis Santana"
     },
     {
       "date": "2025-05-04",
@@ -15,9 +27,27 @@
     },
     {
       "date": "2025-05-04",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPChayce McDermottfrom the 15-day injured list.",
+      "player": "Chayce McDermott"
+    },
+    {
+      "date": "2025-05-04",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated 3BJosh Rojasfrom the 10-day injured list.",
+      "player": "Josh Rojas"
+    },
+    {
+      "date": "2025-05-04",
       "team": "Seattle Mariners",
       "details": "Seattle Marinerssent RHPGeorge Kirbyon a rehab assignment to Tacoma Rainiers.",
       "player": "George Kirby"
+    },
+    {
+      "date": "2025-05-04",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPAndrew Kittredgeon a rehab assignment to Aberdeen IronBirds.",
+      "player": "Andrew Kittredge"
     },
     {
       "date": "2025-05-04",
@@ -33,21 +63,27 @@
     },
     {
       "date": "2025-05-04",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesactivated RHPDennis Santanafrom the bereavement list.",
-      "player": "Dennis Santana"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated CNick Fortesfrom the 10-day injured list.",
+      "player": "Nick Fortes"
+    },
+    {
+      "date": "2025-05-04",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled LHPTommy Henryfrom Reno Aces.",
+      "player": "Tommy Henry"
+    },
+    {
+      "date": "2025-05-04",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPChayce McDermottto Norfolk Tides.",
+      "player": "Chayce McDermott"
     },
     {
       "date": "2025-05-04",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated 1BBobby Dalbecfor assignment.",
-      "player": "Bobby Dalbec"
-    },
-    {
-      "date": "2025-05-04",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated 3BJosh Rojasfrom the 10-day injured list.",
-      "player": "Josh Rojas"
+      "details": "Chicago White Soxoptioned RHPPenn Murfeeto Charlotte Knights.",
+      "player": "Penn Murfee"
     },
     {
       "date": "2025-05-04",
@@ -63,21 +99,9 @@
     },
     {
       "date": "2025-05-04",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned RHPLogan VanWeyto Sugar Land Space Cowboys.",
-      "player": "Logan VanWey"
-    },
-    {
-      "date": "2025-05-04",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPPenn Murfeeto Charlotte Knights.",
-      "player": "Penn Murfee"
-    },
-    {
-      "date": "2025-05-04",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPBlade Tidwellfrom Syracuse Mets.",
-      "player": "Blade Tidwell"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPRoddery Muñozfrom Memphis Redbirds.",
+      "player": "Roddery Muñoz"
     },
     {
       "date": "2025-05-04",
@@ -87,9 +111,9 @@
     },
     {
       "date": "2025-05-04",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPDavid Morganto El Paso Chihuahuas.",
-      "player": "David Morgan"
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPBlade Tidwellfrom Syracuse Mets.",
+      "player": "Blade Tidwell"
     },
     {
       "date": "2025-05-04",
@@ -99,9 +123,21 @@
     },
     {
       "date": "2025-05-04",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPRoddery Muñozfrom Memphis Redbirds.",
-      "player": "Roddery Muñoz"
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPLogan VanWeyto Sugar Land Space Cowboys.",
+      "player": "Logan VanWey"
+    },
+    {
+      "date": "2025-05-04",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPScott McGoughto Reno Aces.",
+      "player": "Scott McGough"
+    },
+    {
+      "date": "2025-05-04",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPDavid Morganto El Paso Chihuahuas.",
+      "player": "David Morgan"
     }
   ]
 }
