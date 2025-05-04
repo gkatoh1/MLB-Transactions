@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-04T02:10:37.832806",
+  "last_updated": "2025-05-04T03:47:29.847190",
   "transactions": [
     {
       "date": "2025-05-03",
@@ -9,27 +9,9 @@
     },
     {
       "date": "2025-05-03",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersplaced 2BTommy Edmanon the 10-day injured list retroactive to April 30, 2025. Right ankle inflammation.",
-      "player": "Tommy Edman"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesplaced RHPJosé Ruizon the 15-day injured list retroactive to May 1, 2025.",
-      "player": "José Ruiz"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent RHPKendall Gravemanon a rehab assignment to ACL D-backs.",
-      "player": "Kendall Graveman"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratestransferred RHPJustin Lawrencefrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
-      "player": "Justin Lawrence"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated SSCorey Seagerfrom the 10-day injured list.",
+      "player": "Corey Seager"
     },
     {
       "date": "2025-05-03",
@@ -39,15 +21,39 @@
     },
     {
       "date": "2025-05-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent 3BYoán Moncadaon a rehab assignment to Inland Empire 66ers.",
+      "player": "Yoán Moncada"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated LHPRanger Suárezfrom the 15-day injured list.",
+      "player": "Ranger Suárez"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced 3BRamón Uríason the 10-day injured list retroactive to May 1, 2025. Right hamstring strain.",
+      "player": "Ramón Urías"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced 1BTriston Casason the 10-day injured list. Left patellar tendon rupture.",
+      "player": "Triston Casas"
+    },
+    {
+      "date": "2025-05-03",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersactivated RHPBeau Brieskefrom the 15-day injured list.",
       "player": "Beau Brieske"
     },
     {
       "date": "2025-05-03",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated LHPBrennan Bernardinofrom the bereavement list.",
-      "player": "Brennan Bernardino"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced 2BTommy Edmanon the 10-day injured list retroactive to April 30, 2025. Right ankle inflammation.",
+      "player": "Tommy Edman"
     },
     {
       "date": "2025-05-03",
@@ -64,14 +70,20 @@
     {
       "date": "2025-05-03",
       "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent 3BYoán Moncadaon a rehab assignment to Inland Empire 66ers.",
-      "player": "Yoán Moncada"
+      "details": "Los Angeles Angelsplaced LHPGarrett McDanielson the 15-day injured list retroactive to May 2, 2025. Left biceps tendinitis.",
+      "player": "Garrett McDaniels"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratestransferred RHPJustin Lawrencefrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
+      "player": "Justin Lawrence"
     },
     {
       "date": "2025-05-03",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated LHPRanger Suárezfrom the 15-day injured list.",
-      "player": "Ranger Suárez"
+      "details": "Philadelphia Philliesplaced RHPJosé Ruizon the 15-day injured list retroactive to May 1, 2025.",
+      "player": "José Ruiz"
     },
     {
       "date": "2025-05-03",
@@ -87,21 +99,9 @@
     },
     {
       "date": "2025-05-03",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsplaced LHPGarrett McDanielson the 15-day injured list retroactive to May 2, 2025. Left biceps tendinitis.",
-      "player": "Garrett McDaniels"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced 3BRamón Uríason the 10-day injured list retroactive to May 1, 2025. Right hamstring strain.",
-      "player": "Ramón Urías"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced 1BTriston Casason the 10-day injured list. Left patellar tendon rupture.",
-      "player": "Triston Casas"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPKendall Gravemanon a rehab assignment to ACL D-backs.",
+      "player": "Kendall Graveman"
     },
     {
       "date": "2025-05-03",
@@ -117,69 +117,9 @@
     },
     {
       "date": "2025-05-03",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated SSCorey Seagerfrom the 10-day injured list.",
-      "player": "Corey Seager"
-    },
-    {
-      "date": "2025-05-03",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxselected the contract of 3BAbraham Torofrom Worcester Red Sox.",
-      "player": "Abraham Toro"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned RHPTyler Owensto Toledo Mud Hens.",
-      "player": "Tyler Owens"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPLuis Guerreroto Worcester Red Sox.",
-      "player": "Luis Guerrero"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned LHPJake Ederto Salt Lake Bees.",
-      "player": "Jake Eder"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned 3BJonathan Ornelasto Round Rock Express.",
-      "player": "Jonathan Ornelas"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPElvin Rodriguezfrom Nashville Sounds.",
-      "player": "Elvin Rodriguez"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesselected the contract of RHPTanner Raineyfrom Indianapolis Indians.",
-      "player": "Tanner Rainey"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled 3BCoby Mayofrom Norfolk Tides.",
-      "player": "Coby Mayo"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPRoddery Muñozto Memphis Redbirds.",
-      "player": "Roddery Muñoz"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPMichael McGreevyfrom Memphis Redbirds.",
-      "player": "Michael McGreevy"
+      "details": "Boston Red Soxactivated LHPBrennan Bernardinofrom the bereavement list.",
+      "player": "Brennan Bernardino"
     },
     {
       "date": "2025-05-03",
@@ -195,27 +135,9 @@
     },
     {
       "date": "2025-05-03",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPCraig Yohoto Nashville Sounds.",
-      "player": "Craig Yoho"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssent RHPDane Dunningoutright to Round Rock Express.",
-      "player": "Dane Dunning"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned CFCal Stevensonto Lehigh Valley IronPigs.",
-      "player": "Cal Stevenson"
-    },
-    {
-      "date": "2025-05-03",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressent 1BYuli Gurrieloutright to El Paso Chihuahuas.",
-      "player": "Yuli Gurriel"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled 3BCoby Mayofrom Norfolk Tides.",
+      "player": "Coby Mayo"
     },
     {
       "date": "2025-05-03",
@@ -231,15 +153,93 @@
     },
     {
       "date": "2025-05-03",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled 2BHyeseong Kimfrom Oklahoma City Comets.",
+      "player": "Hyeseong Kim"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPRoddery Muñozto Memphis Redbirds.",
+      "player": "Roddery Muñoz"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPMichael McGreevyfrom Memphis Redbirds.",
+      "player": "Michael McGreevy"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPLuis Guerreroto Worcester Red Sox.",
+      "player": "Luis Guerrero"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesselected the contract of RHPTanner Raineyfrom Indianapolis Indians.",
+      "player": "Tanner Rainey"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of 3BAbraham Torofrom Worcester Red Sox.",
+      "player": "Abraham Toro"
+    },
+    {
+      "date": "2025-05-03",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsselected the contract of RHPTouki Toussaintfrom Salt Lake Bees.",
       "player": "Touki Toussaint"
     },
     {
       "date": "2025-05-03",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled 2BHyeseong Kimfrom Oklahoma City Comets.",
-      "player": "Hyeseong Kim"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned LHPJake Ederto Salt Lake Bees.",
+      "player": "Jake Eder"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPCraig Yohoto Nashville Sounds.",
+      "player": "Craig Yoho"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned 3BJonathan Ornelasto Round Rock Express.",
+      "player": "Jonathan Ornelas"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPTyler Owensto Toledo Mud Hens.",
+      "player": "Tyler Owens"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned CFCal Stevensonto Lehigh Valley IronPigs.",
+      "player": "Cal Stevenson"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent 1BYuli Gurrieloutright to El Paso Chihuahuas.",
+      "player": "Yuli Gurriel"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPElvin Rodriguezfrom Nashville Sounds.",
+      "player": "Elvin Rodriguez"
+    },
+    {
+      "date": "2025-05-03",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent RHPDane Dunningoutright to Round Rock Express.",
+      "player": "Dane Dunning"
     }
   ]
 }
