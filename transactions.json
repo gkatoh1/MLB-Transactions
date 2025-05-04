@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-05-04T15:23:48.443320",
+  "last_updated": "2025-05-04T16:28:52.571574",
   "transactions": [
+    {
+      "date": "2025-05-04",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated 3BJosh Rojasfrom the 10-day injured list.",
+      "player": "Josh Rojas"
+    },
+    {
+      "date": "2025-05-04",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RHPDennis Santanafrom the bereavement list.",
+      "player": "Dennis Santana"
+    },
     {
       "date": "2025-05-04",
       "team": "Chicago White Sox",
@@ -15,39 +27,21 @@
     },
     {
       "date": "2025-05-04",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated 3BJosh Rojasfrom the 10-day injured list.",
-      "player": "Josh Rojas"
-    },
-    {
-      "date": "2025-05-04",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPRoddery Muñozfrom Memphis Redbirds.",
-      "player": "Roddery Muñoz"
-    },
-    {
-      "date": "2025-05-04",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPBlade Tidwellfrom Syracuse Mets.",
-      "player": "Blade Tidwell"
-    },
-    {
-      "date": "2025-05-04",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled RHPStephen Kolekfrom El Paso Chihuahuas.",
-      "player": "Stephen Kolek"
-    },
-    {
-      "date": "2025-05-04",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPPenn Murfeeto Charlotte Knights.",
-      "player": "Penn Murfee"
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated RHPLance McCullers Jr.from the 15-day injured list.",
+      "player": "Lance McCullers Jr."
     },
     {
       "date": "2025-05-04",
       "team": "San Diego Padres",
       "details": "San Diego Padresoptioned RHPDavid Morganto El Paso Chihuahuas.",
       "player": "David Morgan"
+    },
+    {
+      "date": "2025-05-04",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPBlade Tidwellfrom Syracuse Mets.",
+      "player": "Blade Tidwell"
     },
     {
       "date": "2025-05-04",
@@ -66,6 +60,30 @@
       "team": "Houston Astros",
       "details": "Houston Astrosoptioned RHPLogan VanWeyto Sugar Land Space Cowboys.",
       "player": "Logan VanWey"
+    },
+    {
+      "date": "2025-05-04",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled RHPStephen Kolekfrom El Paso Chihuahuas.",
+      "player": "Stephen Kolek"
+    },
+    {
+      "date": "2025-05-04",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPKyle Nicolasto Indianapolis Indians.",
+      "player": "Kyle Nicolas"
+    },
+    {
+      "date": "2025-05-04",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPPenn Murfeeto Charlotte Knights.",
+      "player": "Penn Murfee"
+    },
+    {
+      "date": "2025-05-04",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPRoddery Muñozfrom Memphis Redbirds.",
+      "player": "Roddery Muñoz"
     }
   ]
 }
