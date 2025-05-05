@@ -1,23 +1,29 @@
 {
-  "last_updated": "2025-05-05T19:18:57.526894",
+  "last_updated": "2025-05-05T20:27:39.138815",
   "transactions": [
     {
       "date": "2025-05-05",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated 3BRoyce Lewisfrom the 10-day injured list.",
-      "player": "Royce Lewis"
-    },
-    {
-      "date": "2025-05-05",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssigned free agent RHPJosé Ureña.",
-      "player": "José Ureña"
+      "details": "Toronto Blue Jaystransferred RHPMax Scherzerfrom the 15-day injured list to the 60-day injured list.",
+      "player": "Max Scherzer"
     },
     {
       "date": "2025-05-05",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssigned free agent RHPSpencer Turnbull.",
       "player": "Spencer Turnbull"
+    },
+    {
+      "date": "2025-05-05",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent LHPAustin Cox.",
+      "player": "Austin Cox"
+    },
+    {
+      "date": "2025-05-05",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystransferred RHPErik Swansonfrom the 15-day injured list to the 60-day injured list.",
+      "player": "Erik Swanson"
     },
     {
       "date": "2025-05-05",
@@ -33,21 +39,21 @@
     },
     {
       "date": "2025-05-05",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaystransferred RHPMax Scherzerfrom the 15-day injured list to the 60-day injured list.",
-      "player": "Max Scherzer"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated 3BRoyce Lewisfrom the 10-day injured list.",
+      "player": "Royce Lewis"
     },
     {
       "date": "2025-05-05",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaystransferred RHPErik Swansonfrom the 15-day injured list to the 60-day injured list.",
-      "player": "Erik Swanson"
+      "details": "Toronto Blue Jayssigned free agent RHPJosé Ureña.",
+      "player": "José Ureña"
     },
     {
       "date": "2025-05-05",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned free agent LHPAustin Cox.",
-      "player": "Austin Cox"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned 2BMickey Gasperto St. Paul Saints.",
+      "player": "Mickey Gasper"
     },
     {
       "date": "2025-05-05",
@@ -57,33 +63,9 @@
     },
     {
       "date": "2025-05-05",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
-      "player": "Austin Warren"
-    },
-    {
-      "date": "2025-05-05",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPBlade Tidwellto Syracuse Mets.",
-      "player": "Blade Tidwell"
-    },
-    {
-      "date": "2025-05-05",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned LHPAustin Coxto Gwinnett Stripers.",
-      "player": "Austin Cox"
-    },
-    {
-      "date": "2025-05-05",
       "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPRoddery Muñozto Memphis Redbirds.",
-      "player": "Roddery Muñoz"
-    },
-    {
-      "date": "2025-05-05",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned 2BEdouard Juliento St. Paul Saints.",
-      "player": "Edouard Julien"
+      "details": "St. Louis Cardinalsoptioned RHPMichael McGreevyto Memphis Redbirds.",
+      "player": "Michael McGreevy"
     },
     {
       "date": "2025-05-05",
@@ -100,8 +82,38 @@
     {
       "date": "2025-05-05",
       "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPMichael McGreevyto Memphis Redbirds.",
-      "player": "Michael McGreevy"
+      "details": "St. Louis Cardinalsoptioned RHPRoddery Muñozto Memphis Redbirds.",
+      "player": "Roddery Muñoz"
+    },
+    {
+      "date": "2025-05-05",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned 2BEdouard Juliento St. Paul Saints.",
+      "player": "Edouard Julien"
+    },
+    {
+      "date": "2025-05-05",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPGordon Graceffofrom Memphis Redbirds.",
+      "player": "Gordon Graceffo"
+    },
+    {
+      "date": "2025-05-05",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPBlade Tidwellto Syracuse Mets.",
+      "player": "Blade Tidwell"
+    },
+    {
+      "date": "2025-05-05",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned LHPAustin Coxto Gwinnett Stripers.",
+      "player": "Austin Cox"
+    },
+    {
+      "date": "2025-05-05",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
+      "player": "Austin Warren"
     },
     {
       "date": "2025-05-05",
@@ -114,18 +126,6 @@
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsoptioned RHPRoddery Muñozto Memphis Redbirds.",
       "player": "Roddery Muñoz"
-    },
-    {
-      "date": "2025-05-05",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned 2BMickey Gasperto St. Paul Saints.",
-      "player": "Mickey Gasper"
-    },
-    {
-      "date": "2025-05-05",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPGordon Graceffofrom Memphis Redbirds.",
-      "player": "Gordon Graceffo"
     }
   ]
 }
