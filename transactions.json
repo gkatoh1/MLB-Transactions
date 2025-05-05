@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-05-05T14:26:20.951234",
+  "last_updated": "2025-05-05T15:26:51.980700",
   "transactions": [
-    {
-      "date": "2025-05-05",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsdesignated RHPLou Trivinofor assignment.",
-      "player": "Lou Trivino"
-    },
     {
       "date": "2025-05-05",
       "team": "Atlanta Braves",
@@ -16,14 +10,14 @@
     {
       "date": "2025-05-05",
       "team": "San Francisco Giants",
-      "details": "San Francisco Giantsrecalled LHPKyle Harrisonfrom Sacramento River Cats.",
-      "player": "Kyle Harrison"
+      "details": "San Francisco Giantsdesignated RHPLou Trivinofor assignment.",
+      "player": "Lou Trivino"
     },
     {
       "date": "2025-05-05",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
-      "player": "Austin Warren"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled LHPKyle Harrisonfrom Sacramento River Cats.",
+      "player": "Kyle Harrison"
     },
     {
       "date": "2025-05-05",
@@ -36,6 +30,12 @@
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsoptioned RHPRoddery Muñozto Memphis Redbirds.",
       "player": "Roddery Muñoz"
+    },
+    {
+      "date": "2025-05-05",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
+      "player": "Austin Warren"
     },
     {
       "date": "2025-05-05",
