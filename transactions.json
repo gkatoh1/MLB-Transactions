@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-05T13:34:06.797065",
+  "last_updated": "2025-05-05T14:26:20.951234",
   "transactions": [
     {
       "date": "2025-05-05",
@@ -9,15 +9,39 @@
     },
     {
       "date": "2025-05-05",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPBlade Tidwellto Syracuse Mets.",
-      "player": "Blade Tidwell"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent LHPAustin Cox.",
+      "player": "Austin Cox"
     },
     {
       "date": "2025-05-05",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsrecalled LHPKyle Harrisonfrom Sacramento River Cats.",
       "player": "Kyle Harrison"
+    },
+    {
+      "date": "2025-05-05",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
+      "player": "Austin Warren"
+    },
+    {
+      "date": "2025-05-05",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned LHPAustin Coxto Gwinnett Stripers.",
+      "player": "Austin Cox"
+    },
+    {
+      "date": "2025-05-05",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPRoddery Muñozto Memphis Redbirds.",
+      "player": "Roddery Muñoz"
+    },
+    {
+      "date": "2025-05-05",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPBlade Tidwellto Syracuse Mets.",
+      "player": "Blade Tidwell"
     }
   ]
 }
