@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-05-05T17:22:28.448905",
+  "last_updated": "2025-05-05T18:31:46.908816",
   "transactions": [
     {
       "date": "2025-05-05",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssigned free agent RHPJosé Ureña.",
-      "player": "José Ureña"
+      "details": "Toronto Blue Jaystransferred RHPMax Scherzerfrom the 15-day injured list to the 60-day injured list.",
+      "player": "Max Scherzer"
     },
     {
       "date": "2025-05-05",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssigned free agent RHPSpencer Turnbull.",
-      "player": "Spencer Turnbull"
+      "details": "Toronto Blue Jaystransferred RHPErik Swansonfrom the 15-day injured list to the 60-day injured list.",
+      "player": "Erik Swanson"
     },
     {
       "date": "2025-05-05",
@@ -22,14 +22,8 @@
     {
       "date": "2025-05-05",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaystransferred RHPMax Scherzerfrom the 15-day injured list to the 60-day injured list.",
-      "player": "Max Scherzer"
-    },
-    {
-      "date": "2025-05-05",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned free agent LHPAustin Cox.",
-      "player": "Austin Cox"
+      "details": "Toronto Blue Jayssigned free agent RHPSpencer Turnbull.",
+      "player": "Spencer Turnbull"
     },
     {
       "date": "2025-05-05",
@@ -39,27 +33,33 @@
     },
     {
       "date": "2025-05-05",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssigned free agent RHPJosé Ureña.",
+      "player": "José Ureña"
+    },
+    {
+      "date": "2025-05-05",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent LHPAustin Cox.",
+      "player": "Austin Cox"
+    },
+    {
+      "date": "2025-05-05",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsactivated 3BRoyce Lewisfrom the 10-day injured list.",
       "player": "Royce Lewis"
     },
     {
       "date": "2025-05-05",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaystransferred RHPErik Swansonfrom the 15-day injured list to the 60-day injured list.",
-      "player": "Erik Swanson"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerstraded RHPJohn HolobetztoBoston Red Sox. PTBNL from 4/7 Quinn Priester trade.",
+      "player": "John Holobetz"
     },
     {
       "date": "2025-05-05",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned LHPAustin Coxto Gwinnett Stripers.",
       "player": "Austin Cox"
-    },
-    {
-      "date": "2025-05-05",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPBlade Tidwellto Syracuse Mets.",
-      "player": "Blade Tidwell"
     },
     {
       "date": "2025-05-05",
@@ -70,14 +70,32 @@
     {
       "date": "2025-05-05",
       "team": "New York Mets",
-      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
-      "player": "Austin Warren"
+      "details": "New York Metsoptioned RHPBlade Tidwellto Syracuse Mets.",
+      "player": "Blade Tidwell"
+    },
+    {
+      "date": "2025-05-05",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerstraded RHPEvan McKendrytoChicago White Soxfor cash.",
+      "player": "Evan McKendry"
+    },
+    {
+      "date": "2025-05-05",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPJosh Walkerto Buffalo Bisons.",
+      "player": "Josh Walker"
     },
     {
       "date": "2025-05-05",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsrecalled LHPKyle Harrisonfrom Sacramento River Cats.",
       "player": "Kyle Harrison"
+    },
+    {
+      "date": "2025-05-05",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
+      "player": "Austin Warren"
     },
     {
       "date": "2025-05-05",
@@ -90,12 +108,6 @@
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsoptioned 2BEdouard Juliento St. Paul Saints.",
       "player": "Edouard Julien"
-    },
-    {
-      "date": "2025-05-05",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LHPJosh Walkerto Buffalo Bisons.",
-      "player": "Josh Walker"
     }
   ]
 }
