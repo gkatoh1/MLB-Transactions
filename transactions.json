@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-05-06T19:19:31.259236",
+  "last_updated": "2025-05-06T20:27:36.639802",
   "transactions": [
     {
       "date": "2025-05-06",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent RFRudy Martinto a minor league contract.",
-      "player": "Rudy Martin"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPRhett Lowderon a rehab assignment to ACL Reds.",
+      "player": "Rhett Lowder"
     },
     {
       "date": "2025-05-06",
@@ -21,57 +21,15 @@
     },
     {
       "date": "2025-05-06",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersdesignated RHPLuis F. Castillofor assignment.",
-      "player": "Luis F. Castillo"
-    },
-    {
-      "date": "2025-05-06",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RHPRhett Lowderon a rehab assignment to ACL Reds.",
-      "player": "Rhett Lowder"
-    },
-    {
-      "date": "2025-05-06",
-      "team": "New York Yankees",
-      "details": "New York Yankeesdesignated RHPCarlos Carrascofor assignment.",
-      "player": "Carlos Carrasco"
-    },
-    {
-      "date": "2025-05-06",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersdesignated RHPYoendrys Gómezfor assignment.",
-      "player": "Yoendrys Gómez"
-    },
-    {
-      "date": "2025-05-06",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent 3BDJ LeMahieuon a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
-      "player": "DJ LeMahieu"
-    },
-    {
-      "date": "2025-05-06",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent LHPAaron Ashbyon a rehab assignment to ACL Brewers.",
-      "player": "Aaron Ashby"
-    },
-    {
-      "date": "2025-05-06",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratessent 1BSpencer Horwitzon a rehab assignment to Indianapolis Indians.",
       "player": "Spencer Horwitz"
     },
     {
       "date": "2025-05-06",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced 2BTyler Callihanon the 10-day injured list. Left forearm fracture.",
-      "player": "Tyler Callihan"
-    },
-    {
-      "date": "2025-05-06",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent RFJosh Loweon a rehab assignment to FCL Rays.",
-      "player": "Josh Lowe"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent RFRudy Martinto a minor league contract.",
+      "player": "Rudy Martin"
     },
     {
       "date": "2025-05-06",
@@ -81,15 +39,75 @@
     },
     {
       "date": "2025-05-06",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPAaron Ashbyon a rehab assignment to ACL Brewers.",
+      "player": "Aaron Ashby"
+    },
+    {
+      "date": "2025-05-06",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent 2BJake Cronenworthon a rehab assignment to El Paso Chihuahuas.",
+      "player": "Jake Cronenworth"
+    },
+    {
+      "date": "2025-05-06",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced 2BTyler Callihanon the 10-day injured list. Left forearm fracture.",
+      "player": "Tyler Callihan"
+    },
+    {
+      "date": "2025-05-06",
+      "team": "New York Yankees",
+      "details": "New York Yankeesdesignated RHPCarlos Carrascofor assignment.",
+      "player": "Carlos Carrasco"
+    },
+    {
+      "date": "2025-05-06",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent 3BDJ LeMahieuon a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
+      "player": "DJ LeMahieu"
+    },
+    {
+      "date": "2025-05-06",
       "team": "New York Yankees",
       "details": "New York Yankeessent RHPScott Effrosson a rehab assignment to FCL Yankees.",
       "player": "Scott Effross"
     },
     {
       "date": "2025-05-06",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RHPZak Kentfrom Columbus Clippers.",
-      "player": "Zak Kent"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned free agent RHPParker Dunsheeto a minor league contract.",
+      "player": "Parker Dunshee"
+    },
+    {
+      "date": "2025-05-06",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated RHPLuis F. Castillofor assignment.",
+      "player": "Luis F. Castillo"
+    },
+    {
+      "date": "2025-05-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned free agent RHPAdrian Sampsonto a minor league contract.",
+      "player": "Adrian Sampson"
+    },
+    {
+      "date": "2025-05-06",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated RHPYoendrys Gómezfor assignment.",
+      "player": "Yoendrys Gómez"
+    },
+    {
+      "date": "2025-05-06",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RFJosh Loweon a rehab assignment to FCL Rays.",
+      "player": "Josh Lowe"
+    },
+    {
+      "date": "2025-05-06",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPJ.P. Feyereisenfrom Oklahoma City Comets.",
+      "player": "J.P. Feyereisen"
     },
     {
       "date": "2025-05-06",
@@ -99,21 +117,9 @@
     },
     {
       "date": "2025-05-06",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersclaimed CFLeody Taverasoff waivers fromTexas Rangers.",
-      "player": "Leody Taveras"
-    },
-    {
-      "date": "2025-05-06",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned 2BSamad Taylorto Tacoma Rainiers.",
-      "player": "Samad Taylor"
-    },
-    {
-      "date": "2025-05-06",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled LFEvan Carterfrom Round Rock Express.",
-      "player": "Evan Carter"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPYosver Zuluetato Louisville Bats.",
+      "player": "Yosver Zulueta"
     },
     {
       "date": "2025-05-06",
@@ -135,21 +141,33 @@
     },
     {
       "date": "2025-05-06",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersclaimed CFLeody Taverasoff waivers fromTexas Rangers.",
+      "player": "Leody Taveras"
+    },
+    {
+      "date": "2025-05-06",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsrecalled LFJacob Hurtubisefrom Louisville Bats.",
       "player": "Jacob Hurtubise"
     },
     {
       "date": "2025-05-06",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled RHPJ.P. Feyereisenfrom Oklahoma City Comets.",
-      "player": "J.P. Feyereisen"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPZak Kentfrom Columbus Clippers.",
+      "player": "Zak Kent"
     },
     {
       "date": "2025-05-06",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPYosver Zuluetato Louisville Bats.",
-      "player": "Yosver Zulueta"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned 2BSamad Taylorto Tacoma Rainiers.",
+      "player": "Samad Taylor"
+    },
+    {
+      "date": "2025-05-06",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled LFEvan Carterfrom Round Rock Express.",
+      "player": "Evan Carter"
     }
   ]
 }
