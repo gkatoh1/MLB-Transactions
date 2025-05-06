@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-06T15:32:51.629012",
+  "last_updated": "2025-05-06T16:30:53.779009",
   "transactions": [
     {
       "date": "2025-05-06",
@@ -9,15 +9,27 @@
     },
     {
       "date": "2025-05-06",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPScott Effrosson a rehab assignment to FCL Yankees.",
+      "player": "Scott Effross"
+    },
+    {
+      "date": "2025-05-06",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalssigned free agent RFRudy Martinto a minor league contract.",
       "player": "Rudy Martin"
     },
     {
       "date": "2025-05-06",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent RHPScott Effrosson a rehab assignment to FCL Yankees.",
-      "player": "Scott Effross"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated RHPYoendrys Gómezfor assignment.",
+      "player": "Yoendrys Gómez"
+    },
+    {
+      "date": "2025-05-06",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPJ.P. Feyereisenfrom Oklahoma City Comets.",
+      "player": "J.P. Feyereisen"
     }
   ]
 }
