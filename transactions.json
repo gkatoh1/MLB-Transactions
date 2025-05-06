@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-05-06T16:30:53.779009",
+  "last_updated": "2025-05-06T17:22:27.247509",
   "transactions": [
+    {
+      "date": "2025-05-06",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent RFRudy Martinto a minor league contract.",
+      "player": "Rudy Martin"
+    },
     {
       "date": "2025-05-06",
       "team": "Tampa Bay Rays",
@@ -15,9 +21,9 @@
     },
     {
       "date": "2025-05-06",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent RFRudy Martinto a minor league contract.",
-      "player": "Rudy Martin"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced RHPHunter Biggeon the 15-day injured list retroactive to May 2, 2025. Right lat strain.",
+      "player": "Hunter Bigge"
     },
     {
       "date": "2025-05-06",
@@ -27,9 +33,27 @@
     },
     {
       "date": "2025-05-06",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPCole Sulserfrom Durham Bulls.",
+      "player": "Cole Sulser"
+    },
+    {
+      "date": "2025-05-06",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersrecalled RHPJ.P. Feyereisenfrom Oklahoma City Comets.",
       "player": "J.P. Feyereisen"
+    },
+    {
+      "date": "2025-05-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPZach Brzykcyfrom Rochester Red Wings.",
+      "player": "Zach Brzykcy"
+    },
+    {
+      "date": "2025-05-06",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPZak Kentfrom Columbus Clippers.",
+      "player": "Zak Kent"
     }
   ]
 }
