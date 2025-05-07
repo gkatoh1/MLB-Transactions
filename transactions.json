@@ -1,30 +1,6 @@
 {
-  "last_updated": "2025-05-07T19:21:16.713669",
+  "last_updated": "2025-05-07T20:28:27.742658",
   "transactions": [
-    {
-      "date": "2025-05-07",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent CFDerek Hillon a rehab assignment to Jacksonville Jumbo Shrimp.",
-      "player": "Derek Hill"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Unknown Team",
-      "details": "CTomás Nidochanged number to 0.",
-      "player": "Tomás Nido"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent RHPJonathan Loáisigaon a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jonathan Loáisiga"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated CFLeody Taveras.",
-      "player": "Leody Taveras"
-    },
     {
       "date": "2025-05-07",
       "team": "Washington Nationals",
@@ -39,15 +15,15 @@
     },
     {
       "date": "2025-05-07",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced 3BNoelvi Marteon the 10-day injured list retroactive to May 5, 2025. Left oblique strain.",
-      "player": "Noelvi Marte"
-    },
-    {
-      "date": "2025-05-07",
       "team": "Miami Marlins",
       "details": "Miami Marlinssent CFDerek Hillon a rehab assignment to Jacksonville Jumbo Shrimp.",
       "player": "Derek Hill"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated CFLeody Taveras.",
+      "player": "Leody Taveras"
     },
     {
       "date": "2025-05-07",
@@ -57,21 +33,45 @@
     },
     {
       "date": "2025-05-07",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced 3BNoelvi Marteon the 10-day injured list retroactive to May 5, 2025. Left oblique strain.",
+      "player": "Noelvi Marte"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated RHPSean Reynoldsfrom the 15-day injured list.",
+      "player": "Sean Reynolds"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPJonathan Loáisigaon a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jonathan Loáisiga"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Unknown Team",
+      "details": "CTomás Nidochanged number to 0.",
+      "player": "Tomás Nido"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent CFDerek Hillon a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Derek Hill"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent LHPColin Pocheto a minor league contract.",
+      "player": "Colin Poche"
+    },
+    {
+      "date": "2025-05-07",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersrecalled RHPLandon Knackfrom Oklahoma City Comets.",
       "player": "Landon Knack"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersoptioned RHPJ.P. Feyereisento Oklahoma City Comets.",
-      "player": "J.P. Feyereisen"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPEduardo Salazarto Rochester Red Wings.",
-      "player": "Eduardo Salazar"
     },
     {
       "date": "2025-05-07",
@@ -87,15 +87,15 @@
     },
     {
       "date": "2025-05-07",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPZach Brzykcyto Rochester Red Wings.",
-      "player": "Zach Brzykcy"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPJ.P. Feyereisento Oklahoma City Comets.",
+      "player": "J.P. Feyereisen"
     },
     {
       "date": "2025-05-07",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned LFRhylan Thomasto Tacoma Rainiers.",
-      "player": "Rhylan Thomas"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPZach Brzykcyto Rochester Red Wings.",
+      "player": "Zach Brzykcy"
     },
     {
       "date": "2025-05-07",
@@ -105,9 +105,27 @@
     },
     {
       "date": "2025-05-07",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned LFRhylan Thomasto Tacoma Rainiers.",
+      "player": "Rhylan Thomas"
+    },
+    {
+      "date": "2025-05-07",
       "team": "Miami Marlins",
       "details": "Miami Marlinsrecalled LHPCade Gibsonfrom Jacksonville Jumbo Shrimp.",
       "player": "Cade Gibson"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPRyan Bergertto El Paso Chihuahuas.",
+      "player": "Ryan Bergert"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPEduardo Salazarto Rochester Red Wings.",
+      "player": "Eduardo Salazar"
     }
   ]
 }
