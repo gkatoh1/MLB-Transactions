@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-07T14:26:34.841884",
+  "last_updated": "2025-05-07T15:28:14.766064",
   "transactions": [
     {
       "date": "2025-05-07",
@@ -21,6 +21,12 @@
     },
     {
       "date": "2025-05-07",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent RHPStephen Nogosekto a minor league contract.",
+      "player": "Stephen Nogosek"
+    },
+    {
+      "date": "2025-05-07",
       "team": "Miami Marlins",
       "details": "Miami Marlinssent CFDerek Hillon a rehab assignment to Jacksonville Jumbo Shrimp.",
       "player": "Derek Hill"
@@ -33,6 +39,12 @@
     },
     {
       "date": "2025-05-07",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPEduardo Salazarto Rochester Red Wings.",
+      "player": "Eduardo Salazar"
+    },
+    {
+      "date": "2025-05-07",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansoptioned RHPZak Kentto Columbus Clippers.",
       "player": "Zak Kent"
@@ -42,12 +54,6 @@
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned RHPZach Brzykcyto Rochester Red Wings.",
       "player": "Zach Brzykcy"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPEduardo Salazarto Rochester Red Wings.",
-      "player": "Eduardo Salazar"
     }
   ]
 }
