@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-05-07T15:28:14.766064",
+  "last_updated": "2025-05-07T16:33:03.061953",
   "transactions": [
+    {
+      "date": "2025-05-07",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated RHPMichael Sorokafrom the 15-day injured list.",
+      "player": "Michael Soroka"
+    },
     {
       "date": "2025-05-07",
       "team": "Miami Marlins",
       "details": "Miami Marlinssent CFDerek Hillon a rehab assignment to Jacksonville Jumbo Shrimp.",
       "player": "Derek Hill"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated CTomás Nido.",
-      "player": "Tomás Nido"
     },
     {
       "date": "2025-05-07",
@@ -33,15 +33,15 @@
     },
     {
       "date": "2025-05-07",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated RHPMichael Sorokafrom the 15-day injured list.",
-      "player": "Michael Soroka"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated CTomás Nido.",
+      "player": "Tomás Nido"
     },
     {
       "date": "2025-05-07",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPEduardo Salazarto Rochester Red Wings.",
-      "player": "Eduardo Salazar"
+      "details": "Washington Nationalsoptioned RHPZach Brzykcyto Rochester Red Wings.",
+      "player": "Zach Brzykcy"
     },
     {
       "date": "2025-05-07",
@@ -52,8 +52,8 @@
     {
       "date": "2025-05-07",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPZach Brzykcyto Rochester Red Wings.",
-      "player": "Zach Brzykcy"
+      "details": "Washington Nationalsoptioned RHPEduardo Salazarto Rochester Red Wings.",
+      "player": "Eduardo Salazar"
     }
   ]
 }
