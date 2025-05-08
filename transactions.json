@@ -1,47 +1,11 @@
 {
-  "last_updated": "2025-05-07T23:23:45.619464",
+  "last_updated": "2025-05-08T02:03:24.673285",
   "transactions": [
     {
       "date": "2025-05-07",
       "team": "Washington Nationals",
       "details": "Washington Nationalsactivated RHPMichael Sorokafrom the 15-day injured list.",
       "player": "Michael Soroka"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent RHPJonathan Loáisigaon a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jonathan Loáisiga"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent CFDerek Hillon a rehab assignment to Jacksonville Jumbo Shrimp.",
-      "player": "Derek Hill"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated CFLeody Taveras.",
-      "player": "Leody Taveras"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Unknown Team",
-      "details": "CTomás Nidochanged number to 0.",
-      "player": "Tomás Nido"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated RFManuel Margotfrom the 10-day injured list.",
-      "player": "Manuel Margot"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "New York Mets",
-      "details": "New York Metssigned free agent LHPColin Pocheto a minor league contract.",
-      "player": "Colin Poche"
     },
     {
       "date": "2025-05-07",
@@ -63,6 +27,36 @@
     },
     {
       "date": "2025-05-07",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced CFKevin Pillaron the 10-day injured list retroactive to May 4, 2025. Lower back inflammation.",
+      "player": "Kevin Pillar"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RFManuel Margotfrom the 10-day injured list.",
+      "player": "Manuel Margot"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced 3BNoelvi Marteon the 10-day injured list retroactive to May 5, 2025. Left oblique strain.",
+      "player": "Noelvi Marte"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent CFDerek Hillon a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Derek Hill"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced RHPEvan Phillipson the 15-day injured list. Right forearm discomfort.",
+      "player": "Evan Phillips"
+    },
+    {
+      "date": "2025-05-07",
       "team": "Chicago Cubs",
       "details": "Chicago Cubssent RHPRyan Brasieron a rehab assignment to Iowa Cubs.",
       "player": "Ryan Brasier"
@@ -75,27 +69,33 @@
     },
     {
       "date": "2025-05-07",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated CFLeody Taveras.",
+      "player": "Leody Taveras"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Unknown Team",
+      "details": "CTomás Nidochanged number to 0.",
+      "player": "Tomás Nido"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent LHPColin Pocheto a minor league contract.",
+      "player": "Colin Poche"
+    },
+    {
+      "date": "2025-05-07",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalssigned free agent RHPStephen Nogosekto a minor league contract.",
       "player": "Stephen Nogosek"
     },
     {
       "date": "2025-05-07",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced 3BNoelvi Marteon the 10-day injured list retroactive to May 5, 2025. Left oblique strain.",
-      "player": "Noelvi Marte"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersplaced RHPEvan Phillipson the 15-day injured list. Right forearm discomfort.",
-      "player": "Evan Phillips"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersplaced CFKevin Pillaron the 10-day injured list retroactive to May 4, 2025. Lower back inflammation.",
-      "player": "Kevin Pillar"
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPJonathan Loáisigaon a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jonathan Loáisiga"
     },
     {
       "date": "2025-05-07",
@@ -105,87 +105,15 @@
     },
     {
       "date": "2025-05-07",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPZach Brzykcyto Rochester Red Wings.",
-      "player": "Zach Brzykcy"
-    },
-    {
-      "date": "2025-05-07",
       "team": "San Diego Padres",
       "details": "San Diego Padresoptioned RHPRyan Bergertto El Paso Chihuahuas.",
       "player": "Ryan Bergert"
     },
     {
       "date": "2025-05-07",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersoptioned RHPJ.P. Feyereisento Oklahoma City Comets.",
-      "player": "J.P. Feyereisen"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent RHPTouki Toussaintoutright to Salt Lake Bees.",
-      "player": "Touki Toussaint"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RFManuel Margotoutright to Toledo Mud Hens.",
-      "player": "Manuel Margot"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of RHPBraydon Fisherfrom Buffalo Bisons.",
-      "player": "Braydon Fisher"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LFAlan Rodento Buffalo Bisons.",
-      "player": "Alan Roden"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled RHPMatt Sauerfrom Oklahoma City Comets.",
-      "player": "Matt Sauer"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent RHPTouki Toussaintoutright to Salt Lake Bees.",
-      "player": "Touki Toussaint"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled LHPCade Gibsonfrom Jacksonville Jumbo Shrimp.",
-      "player": "Cade Gibson"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPEduardo Salazarto Rochester Red Wings.",
-      "player": "Eduardo Salazar"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled LFJonatan Clasefrom Buffalo Bisons.",
-      "player": "Jonatan Clase"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned LFRhylan Thomasto Tacoma Rainiers.",
-      "player": "Rhylan Thomas"
-    },
-    {
-      "date": "2025-05-07",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPDillon Tateto Buffalo Bisons.",
-      "player": "Dillon Tate"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned 1BLuken Bakerto Memphis Redbirds.",
+      "player": "Luken Baker"
     },
     {
       "date": "2025-05-07",
@@ -196,14 +124,92 @@
     {
       "date": "2025-05-07",
       "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPMatt Sauerfrom Oklahoma City Comets.",
+      "player": "Matt Sauer"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned LFRhylan Thomasto Tacoma Rainiers.",
+      "player": "Rhylan Thomas"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled LHPCade Gibsonfrom Jacksonville Jumbo Shrimp.",
+      "player": "Cade Gibson"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LFJonatan Clasefrom Buffalo Bisons.",
+      "player": "Jonatan Clase"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersrecalled RHPLandon Knackfrom Oklahoma City Comets.",
       "player": "Landon Knack"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPZach Brzykcyto Rochester Red Wings.",
+      "player": "Zach Brzykcy"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPDillon Tateto Buffalo Bisons.",
+      "player": "Dillon Tate"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFAlan Rodento Buffalo Bisons.",
+      "player": "Alan Roden"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RFManuel Margotoutright to Toledo Mud Hens.",
+      "player": "Manuel Margot"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPTouki Toussaintoutright to Salt Lake Bees.",
+      "player": "Touki Toussaint"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPTouki Toussaintoutright to Salt Lake Bees.",
+      "player": "Touki Toussaint"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPJ.P. Feyereisento Oklahoma City Comets.",
+      "player": "J.P. Feyereisen"
     },
     {
       "date": "2025-05-07",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxselected the contract of 1BNick Matonfrom Charlotte Knights.",
       "player": "Nick Maton"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of RHPBraydon Fisherfrom Buffalo Bisons.",
+      "player": "Braydon Fisher"
+    },
+    {
+      "date": "2025-05-07",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPEduardo Salazarto Rochester Red Wings.",
+      "player": "Eduardo Salazar"
     },
     {
       "date": "2025-05-07",
