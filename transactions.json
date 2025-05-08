@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-05-08T14:24:01.794134",
+  "last_updated": "2025-05-08T15:28:07.649736",
   "transactions": [
+    {
+      "date": "2025-05-08",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPMatt Bowmanfor assignment.",
+      "player": "Matt Bowman"
+    },
     {
       "date": "2025-05-08",
       "team": "Seattle Mariners",
       "details": "Seattle Marinerstraded RHPLuis F. CastillotoBaltimore Oriolesfor cash.",
       "player": "Luis F. Castillo"
+    },
+    {
+      "date": "2025-05-08",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled 3BEzequiel Duranfrom Round Rock Express.",
+      "player": "Ezequiel Duran"
+    },
+    {
+      "date": "2025-05-08",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPColin Selbyfrom Norfolk Tides.",
+      "player": "Colin Selby"
     }
   ]
 }
