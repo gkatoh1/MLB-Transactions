@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-08T16:32:52.841461",
+  "last_updated": "2025-05-08T17:22:01.768041",
   "transactions": [
     {
       "date": "2025-05-08",
@@ -21,21 +21,27 @@
     },
     {
       "date": "2025-05-08",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPTanner Gordonfrom Albuquerque Isotopes.",
+      "player": "Tanner Gordon"
+    },
+    {
+      "date": "2025-05-08",
       "team": "Texas Rangers",
       "details": "Texas Rangersrecalled 3BEzequiel Duranfrom Round Rock Express.",
       "player": "Ezequiel Duran"
     },
     {
       "date": "2025-05-08",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerstraded RHPLuis F. CastillotoBaltimore Oriolesfor cash.",
-      "player": "Luis F. Castillo"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPKeider Monterofrom Toledo Mud Hens.",
+      "player": "Keider Montero"
     },
     {
       "date": "2025-05-08",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPTanner Gordonfrom Albuquerque Isotopes.",
-      "player": "Tanner Gordon"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerstraded RHPLuis F. CastillotoBaltimore Oriolesfor cash.",
+      "player": "Luis F. Castillo"
     }
   ]
 }
