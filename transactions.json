@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-05-08T22:24:23.867122",
+  "last_updated": "2025-05-08T23:24:16.134312",
   "transactions": [
+    {
+      "date": "2025-05-08",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent RHPTrevor Richardsto a minor league contract.",
+      "player": "Trevor Richards"
+    },
+    {
+      "date": "2025-05-08",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RHPMichael Kopechon a rehab assignment to Oklahoma City Comets.",
+      "player": "Michael Kopech"
+    },
     {
       "date": "2025-05-08",
       "team": "Baltimore Orioles",
@@ -9,15 +21,39 @@
     },
     {
       "date": "2025-05-08",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssigned free agent RHPJesus Lunato a minor league contract.",
-      "player": "Jesus Luna"
-    },
-    {
-      "date": "2025-05-08",
       "team": "New York Yankees",
       "details": "New York Yankeessigned free agent RHPJon Olsento a minor league contract.",
       "player": "Jon Olsen"
+    },
+    {
+      "date": "2025-05-08",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssigned free agent SSRaimundo De Los Santosto a minor league contract.",
+      "player": "Raimundo De Los Santos"
+    },
+    {
+      "date": "2025-05-08",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPSawyer Gipson-Longon a rehab assignment to Lakeland Flying Tigers.",
+      "player": "Sawyer Gipson-Long"
+    },
+    {
+      "date": "2025-05-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPAaron Civaleon a rehab assignment to Nashville Sounds.",
+      "player": "Aaron Civale"
+    },
+    {
+      "date": "2025-05-08",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent OFMatt Higginsto a minor league contract.",
+      "player": "Matt Higgins"
+    },
+    {
+      "date": "2025-05-08",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssigned free agent RHPJesus Lunato a minor league contract.",
+      "player": "Jesus Luna"
     },
     {
       "date": "2025-05-08",
@@ -33,36 +69,6 @@
     },
     {
       "date": "2025-05-08",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssigned free agent SSRaimundo De Los Santosto a minor league contract.",
-      "player": "Raimundo De Los Santos"
-    },
-    {
-      "date": "2025-05-08",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssent RHPMichael Kopechon a rehab assignment to Oklahoma City Comets.",
-      "player": "Michael Kopech"
-    },
-    {
-      "date": "2025-05-08",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent OFMatt Higginsto a minor league contract.",
-      "player": "Matt Higgins"
-    },
-    {
-      "date": "2025-05-08",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RHPSawyer Gipson-Longon a rehab assignment to Lakeland Flying Tigers.",
-      "player": "Sawyer Gipson-Long"
-    },
-    {
-      "date": "2025-05-08",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent RHPTrevor Richardsto a minor league contract.",
-      "player": "Trevor Richards"
-    },
-    {
-      "date": "2025-05-08",
       "team": "Seattle Mariners",
       "details": "Seattle Marinerstraded RHPLuis F. CastillotoBaltimore Oriolesfor cash.",
       "player": "Luis F. Castillo"
@@ -75,27 +81,9 @@
     },
     {
       "date": "2025-05-08",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPColin Selbyfrom Norfolk Tides.",
-      "player": "Colin Selby"
-    },
-    {
-      "date": "2025-05-08",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersoptioned RHPElvin Rodriguezto Nashville Sounds.",
       "player": "Elvin Rodriguez"
-    },
-    {
-      "date": "2025-05-08",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent RHPCarlos Carrascooutright to Scranton/Wilkes-Barre RailRiders.",
-      "player": "Carlos Carrasco"
-    },
-    {
-      "date": "2025-05-08",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPTanner Gordonfrom Albuquerque Isotopes.",
-      "player": "Tanner Gordon"
     },
     {
       "date": "2025-05-08",
@@ -105,9 +93,9 @@
     },
     {
       "date": "2025-05-08",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled 3BEzequiel Duranfrom Round Rock Express.",
-      "player": "Ezequiel Duran"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPColin Selbyfrom Norfolk Tides.",
+      "player": "Colin Selby"
     },
     {
       "date": "2025-05-08",
@@ -117,9 +105,27 @@
     },
     {
       "date": "2025-05-08",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPCarlos Carrascooutright to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Carlos Carrasco"
+    },
+    {
+      "date": "2025-05-08",
       "team": "San Diego Padres",
       "details": "San Diego Padresoptioned LFOscar Gonzalezto El Paso Chihuahuas.",
       "player": "Oscar Gonzalez"
+    },
+    {
+      "date": "2025-05-08",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled 3BEzequiel Duranfrom Round Rock Express.",
+      "player": "Ezequiel Duran"
+    },
+    {
+      "date": "2025-05-08",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPTanner Gordonfrom Albuquerque Isotopes.",
+      "player": "Tanner Gordon"
     }
   ]
 }
