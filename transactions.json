@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-05-08T18:35:09.368661",
+  "last_updated": "2025-05-08T19:20:50.855525",
   "transactions": [
+    {
+      "date": "2025-05-08",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent RHPTrevor Richardsto a minor league contract.",
+      "player": "Trevor Richards"
+    },
+    {
+      "date": "2025-05-08",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssigned free agent RHPJesus Lunato a minor league contract.",
+      "player": "Jesus Luna"
+    },
     {
       "date": "2025-05-08",
       "team": "Baltimore Orioles",
@@ -15,9 +27,21 @@
     },
     {
       "date": "2025-05-08",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerstraded RHPLuis F. CastillotoBaltimore Oriolesfor cash.",
+      "player": "Luis F. Castillo"
+    },
+    {
+      "date": "2025-05-08",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled RHPColin Selbyfrom Norfolk Tides.",
       "player": "Colin Selby"
+    },
+    {
+      "date": "2025-05-08",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPKeider Monterofrom Toledo Mud Hens.",
+      "player": "Keider Montero"
     },
     {
       "date": "2025-05-08",
@@ -30,18 +54,6 @@
       "team": "Texas Rangers",
       "details": "Texas Rangersrecalled 3BEzequiel Duranfrom Round Rock Express.",
       "player": "Ezequiel Duran"
-    },
-    {
-      "date": "2025-05-08",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled RHPKeider Monterofrom Toledo Mud Hens.",
-      "player": "Keider Montero"
-    },
-    {
-      "date": "2025-05-08",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerstraded RHPLuis F. CastillotoBaltimore Oriolesfor cash.",
-      "player": "Luis F. Castillo"
     }
   ]
 }
