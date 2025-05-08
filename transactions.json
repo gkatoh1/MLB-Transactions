@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-08T15:28:07.649736",
+  "last_updated": "2025-05-08T16:32:52.841461",
   "transactions": [
     {
       "date": "2025-05-08",
@@ -9,9 +9,15 @@
     },
     {
       "date": "2025-05-08",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerstraded RHPLuis F. CastillotoBaltimore Oriolesfor cash.",
-      "player": "Luis F. Castillo"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssigned free agent SSRaimundo De Los Santosto a minor league contract.",
+      "player": "Raimundo De Los Santos"
+    },
+    {
+      "date": "2025-05-08",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPColin Selbyfrom Norfolk Tides.",
+      "player": "Colin Selby"
     },
     {
       "date": "2025-05-08",
@@ -21,9 +27,15 @@
     },
     {
       "date": "2025-05-08",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPColin Selbyfrom Norfolk Tides.",
-      "player": "Colin Selby"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerstraded RHPLuis F. CastillotoBaltimore Oriolesfor cash.",
+      "player": "Luis F. Castillo"
+    },
+    {
+      "date": "2025-05-08",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPTanner Gordonfrom Albuquerque Isotopes.",
+      "player": "Tanner Gordon"
     }
   ]
 }
