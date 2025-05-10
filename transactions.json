@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-05-10T16:28:51.430882",
+  "last_updated": "2025-05-10T17:19:32.072750",
   "transactions": [
+    {
+      "date": "2025-05-10",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPAaron Ashbyon a rehab assignment to Nashville Sounds.",
+      "player": "Aaron Ashby"
+    },
     {
       "date": "2025-05-10",
       "team": "Chicago White Sox",
@@ -9,9 +15,15 @@
     },
     {
       "date": "2025-05-10",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent LHPAaron Ashbyon a rehab assignment to Nashville Sounds.",
-      "player": "Aaron Ashby"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsreleased RHPLucas Sims.",
+      "player": "Lucas Sims"
+    },
+    {
+      "date": "2025-05-10",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPZach Brzykcyfrom Rochester Red Wings.",
+      "player": "Zach Brzykcy"
     }
   ]
 }
