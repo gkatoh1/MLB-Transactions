@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-05-10T21:20:49.579645",
+  "last_updated": "2025-05-10T22:22:07.146350",
   "transactions": [
+    {
+      "date": "2025-05-10",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated 1BNick Matonfor assignment.",
+      "player": "Nick Maton"
+    },
+    {
+      "date": "2025-05-10",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPJackson Kowaron a rehab assignment to Tacoma Rainiers.",
+      "player": "Jackson Kowar"
+    },
     {
       "date": "2025-05-10",
       "team": "Milwaukee Brewers",
@@ -12,12 +24,66 @@
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerssent LHPAaron Ashbyon a rehab assignment to Nashville Sounds.",
       "player": "Aaron Ashby"
+    },
+    {
+      "date": "2025-05-10",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsreleased RHPLucas Sims.",
+      "player": "Lucas Sims"
+    },
+    {
+      "date": "2025-05-10",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssigned free agent LHPAndrew Vasquezto a minor league contract.",
+      "player": "Andrew Vasquez"
+    },
+    {
+      "date": "2025-05-10",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent RHPCory Abbottto a minor league contract.",
+      "player": "Cory Abbott"
+    },
+    {
+      "date": "2025-05-10",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent 2BTyler Freemanon a rehab assignment to Albuquerque Isotopes.",
+      "player": "Tyler Freeman"
+    },
+    {
+      "date": "2025-05-10",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent 2BAaron Schunkon a rehab assignment to Albuquerque Isotopes.",
+      "player": "Aaron Schunk"
     },
     {
       "date": "2025-05-10",
       "team": "Chicago Cubs",
       "details": "Chicago Cubstransferred RHPEli Morganfrom the 15-day injured list to the 60-day injured list. Right elbow impingement.",
       "player": "Eli Morgan"
+    },
+    {
+      "date": "2025-05-10",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent RFMike Tauchmanon a rehab assignment to Charlotte Knights.",
+      "player": "Mike Tauchman"
+    },
+    {
+      "date": "2025-05-10",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated 1BConnor Joe.",
+      "player": "Connor Joe"
+    },
+    {
+      "date": "2025-05-10",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced 1BRomy Gonzalezon the 10-day injured list retroactive to May 8, 2025. Left quad contusion.",
+      "player": "Romy Gonzalez"
+    },
+    {
+      "date": "2025-05-10",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssigned free agent 1BBobby Dalbecto a minor league contract.",
+      "player": "Bobby Dalbec"
     },
     {
       "date": "2025-05-10",
@@ -34,20 +100,20 @@
     {
       "date": "2025-05-10",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent RFMike Tauchmanon a rehab assignment to Charlotte Knights.",
-      "player": "Mike Tauchman"
-    },
-    {
-      "date": "2025-05-10",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssigned free agent RHPCory Abbottto a minor league contract.",
-      "player": "Cory Abbott"
-    },
-    {
-      "date": "2025-05-10",
-      "team": "Chicago White Sox",
       "details": "Chicago White Soxreleased RFGreg Jones.",
       "player": "Greg Jones"
+    },
+    {
+      "date": "2025-05-10",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPScott Effrosson a rehab assignment to Somerset Patriots.",
+      "player": "Scott Effross"
+    },
+    {
+      "date": "2025-05-10",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced RHPCasey Mizeon the 15-day injured list retroactive to May 9, 2025. Left hamstring strain.",
+      "player": "Casey Mize"
     },
     {
       "date": "2025-05-10",
@@ -63,81 +129,9 @@
     },
     {
       "date": "2025-05-10",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent 2BTyler Freemanon a rehab assignment to Albuquerque Isotopes.",
-      "player": "Tyler Freeman"
-    },
-    {
-      "date": "2025-05-10",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent 2BAaron Schunkon a rehab assignment to Albuquerque Isotopes.",
-      "player": "Aaron Schunk"
-    },
-    {
-      "date": "2025-05-10",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssigned free agent 1BBobby Dalbecto a minor league contract.",
-      "player": "Bobby Dalbec"
-    },
-    {
-      "date": "2025-05-10",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsreleased RHPLucas Sims.",
-      "player": "Lucas Sims"
-    },
-    {
-      "date": "2025-05-10",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated 1BNick Matonfor assignment.",
-      "player": "Nick Maton"
-    },
-    {
-      "date": "2025-05-10",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssigned free agent LHPAndrew Vasquezto a minor league contract.",
-      "player": "Andrew Vasquez"
-    },
-    {
-      "date": "2025-05-10",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersplaced RHPCasey Mizeon the 15-day injured list retroactive to May 9, 2025. Left hamstring strain.",
-      "player": "Casey Mize"
-    },
-    {
-      "date": "2025-05-10",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated 1BConnor Joe.",
-      "player": "Connor Joe"
-    },
-    {
-      "date": "2025-05-10",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced 1BRomy Gonzalezon the 10-day injured list retroactive to May 8, 2025. Left quad contusion.",
-      "player": "Romy Gonzalez"
-    },
-    {
-      "date": "2025-05-10",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled 2BNick Sogardfrom Worcester Red Sox.",
-      "player": "Nick Sogard"
-    },
-    {
-      "date": "2025-05-10",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent RHPMatt Bowmanoutright to Norfolk Tides.",
       "player": "Matt Bowman"
-    },
-    {
-      "date": "2025-05-10",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned RHPCristian Menato Reno Aces.",
-      "player": "Cristian Mena"
-    },
-    {
-      "date": "2025-05-10",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPZach Brzykcyfrom Rochester Red Wings.",
-      "player": "Zach Brzykcy"
     },
     {
       "date": "2025-05-10",
@@ -148,8 +142,8 @@
     {
       "date": "2025-05-10",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsselected the contract of RHPCade Hortonfrom Iowa Cubs.",
-      "player": "Cade Horton"
+      "details": "Chicago Cubsoptioned LHPTom Cosgroveto Iowa Cubs.",
+      "player": "Tom Cosgrove"
     },
     {
       "date": "2025-05-10",
@@ -159,9 +153,21 @@
     },
     {
       "date": "2025-05-10",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of 1BTim Elkofrom Charlotte Knights.",
-      "player": "Tim Elko"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPZach Brzykcyfrom Rochester Red Wings.",
+      "player": "Zach Brzykcy"
+    },
+    {
+      "date": "2025-05-10",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled 2BNick Sogardfrom Worcester Red Sox.",
+      "player": "Nick Sogard"
+    },
+    {
+      "date": "2025-05-10",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsselected the contract of RHPCade Hortonfrom Iowa Cubs.",
+      "player": "Cade Horton"
     },
     {
       "date": "2025-05-10",
@@ -171,9 +177,15 @@
     },
     {
       "date": "2025-05-10",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned LHPTom Cosgroveto Iowa Cubs.",
-      "player": "Tom Cosgrove"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPCristian Menato Reno Aces.",
+      "player": "Cristian Mena"
+    },
+    {
+      "date": "2025-05-10",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of 1BTim Elkofrom Charlotte Knights.",
+      "player": "Tim Elko"
     }
   ]
 }
