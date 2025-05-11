@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-05-11T21:21:36.864889",
+  "last_updated": "2025-05-11T22:23:11.731866",
   "transactions": [
+    {
+      "date": "2025-05-11",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent LHPClayton Kershawon a rehab assignment to Oklahoma City Comets.",
+      "player": "Clayton Kershaw"
+    },
     {
       "date": "2025-05-11",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redssent RHPIan Gibauton a rehab assignment to Louisville Bats.",
       "player": "Ian Gibaut"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiestransferred RFKris Bryantfrom the 10-day injured list to the 60-day injured list. Lumbar degenerative disc disease.",
+      "player": "Kris Bryant"
     },
     {
       "date": "2025-05-11",
@@ -15,9 +27,15 @@
     },
     {
       "date": "2025-05-11",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssent LHPClayton Kershawon a rehab assignment to Oklahoma City Comets.",
-      "player": "Clayton Kershaw"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPIan Gibauton a rehab assignment to Louisville Bats.",
+      "player": "Ian Gibaut"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated RHPShawn Dubinfrom the 15-day injured list.",
+      "player": "Shawn Dubin"
     },
     {
       "date": "2025-05-11",
@@ -45,21 +63,9 @@
     },
     {
       "date": "2025-05-11",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RHPIan Gibauton a rehab assignment to Louisville Bats.",
-      "player": "Ian Gibaut"
-    },
-    {
-      "date": "2025-05-11",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiestransferred RFKris Bryantfrom the 10-day injured list to the 60-day injured list. Lumbar degenerative disc disease.",
-      "player": "Kris Bryant"
-    },
-    {
-      "date": "2025-05-11",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated RHPShawn Dubinfrom the 15-day injured list.",
-      "player": "Shawn Dubin"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPTrevor Rogersto Norfolk Tides.",
+      "player": "Trevor Rogers"
     },
     {
       "date": "2025-05-11",
@@ -69,15 +75,33 @@
     },
     {
       "date": "2025-05-11",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPElvis Peguerofrom Nashville Sounds.",
-      "player": "Elvis Peguero"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPBradley Blalockto Albuquerque Isotopes.",
+      "player": "Bradley Blalock"
     },
     {
       "date": "2025-05-11",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesoptioned RHPJuan Mejiato Albuquerque Isotopes.",
       "player": "Juan Mejia"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPElvis Peguerofrom Nashville Sounds.",
+      "player": "Elvis Peguero"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPCaleb Freemanto Charlotte Knights.",
+      "player": "Caleb Freeman"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPTobias Myersto Nashville Sounds.",
+      "player": "Tobias Myers"
     },
     {
       "date": "2025-05-11",
@@ -96,30 +120,6 @@
       "team": "Houston Astros",
       "details": "Houston Astrosoptioned RHPLogan VanWeyto Sugar Land Space Cowboys.",
       "player": "Logan VanWey"
-    },
-    {
-      "date": "2025-05-11",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPCaleb Freemanto Charlotte Knights.",
-      "player": "Caleb Freeman"
-    },
-    {
-      "date": "2025-05-11",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPTobias Myersto Nashville Sounds.",
-      "player": "Tobias Myers"
-    },
-    {
-      "date": "2025-05-11",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPBradley Blalockto Albuquerque Isotopes.",
-      "player": "Bradley Blalock"
-    },
-    {
-      "date": "2025-05-11",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned LHPTrevor Rogersto Norfolk Tides.",
-      "player": "Trevor Rogers"
     }
   ]
 }
