@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-05-11T19:18:13.193997",
+  "last_updated": "2025-05-11T20:25:09.954701",
   "transactions": [
-    {
-      "date": "2025-05-11",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssigned free agent RHPLou Trivinoto a minor league contract.",
-      "player": "Lou Trivino"
-    },
     {
       "date": "2025-05-11",
       "team": "Chicago White Sox",
@@ -18,6 +12,30 @@
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redssent RHPIan Gibauton a rehab assignment to Louisville Bats.",
       "player": "Ian Gibaut"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPIan Gibauton a rehab assignment to Louisville Bats.",
+      "player": "Ian Gibaut"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiestransferred RFKris Bryantfrom the 10-day injured list to the 60-day injured list. Lumbar degenerative disc disease.",
+      "player": "Kris Bryant"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent LHPClayton Kershawon a rehab assignment to Oklahoma City Comets.",
+      "player": "Clayton Kershaw"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssigned free agent RHPLou Trivinoto a minor league contract.",
+      "player": "Lou Trivino"
     },
     {
       "date": "2025-05-11",
@@ -45,24 +63,6 @@
     },
     {
       "date": "2025-05-11",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RHPIan Gibauton a rehab assignment to Louisville Bats.",
-      "player": "Ian Gibaut"
-    },
-    {
-      "date": "2025-05-11",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiestransferred RFKris Bryantfrom the 10-day injured list to the 60-day injured list. Lumbar degenerative disc disease.",
-      "player": "Kris Bryant"
-    },
-    {
-      "date": "2025-05-11",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssent LHPClayton Kershawon a rehab assignment to Oklahoma City Comets.",
-      "player": "Clayton Kershaw"
-    },
-    {
-      "date": "2025-05-11",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesrecalled RHPAnthony Molinafrom Albuquerque Isotopes.",
       "player": "Anthony Molina"
@@ -70,8 +70,26 @@
     {
       "date": "2025-05-11",
       "team": "Colorado Rockies",
+      "details": "Colorado Rockiesselected the contract of LHPRyan Rolisonfrom Albuquerque Isotopes.",
+      "player": "Ryan Rolison"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPLogan VanWeyto Sugar Land Space Cowboys.",
+      "player": "Logan VanWey"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Colorado Rockies",
       "details": "Colorado Rockiesoptioned RHPBradley Blalockto Albuquerque Isotopes.",
       "player": "Bradley Blalock"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPElvis Peguerofrom Nashville Sounds.",
+      "player": "Elvis Peguero"
     },
     {
       "date": "2025-05-11",
@@ -93,33 +111,15 @@
     },
     {
       "date": "2025-05-11",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPJuan Mejiato Albuquerque Isotopes.",
-      "player": "Juan Mejia"
-    },
-    {
-      "date": "2025-05-11",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesselected the contract of LHPRyan Rolisonfrom Albuquerque Isotopes.",
-      "player": "Ryan Rolison"
-    },
-    {
-      "date": "2025-05-11",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned RHPLogan VanWeyto Sugar Land Space Cowboys.",
-      "player": "Logan VanWey"
-    },
-    {
-      "date": "2025-05-11",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned RHPColin Selbyto Norfolk Tides.",
       "player": "Colin Selby"
     },
     {
       "date": "2025-05-11",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPElvis Peguerofrom Nashville Sounds.",
-      "player": "Elvis Peguero"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPJuan Mejiato Albuquerque Isotopes.",
+      "player": "Juan Mejia"
     }
   ]
 }
