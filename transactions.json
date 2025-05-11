@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-05-11T16:28:50.180602",
+  "last_updated": "2025-05-11T17:19:23.216469",
   "transactions": [
     {
       "date": "2025-05-11",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated RHPYoendrys Gómez.",
-      "player": "Yoendrys Gómez"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent LHPClayton Kershawon a rehab assignment to Oklahoma City Comets.",
+      "player": "Clayton Kershaw"
     },
     {
       "date": "2025-05-11",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RHPIan Gibauton a rehab assignment to Louisville Bats.",
-      "player": "Ian Gibaut"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssigned free agent RHPLou Trivinoto a minor league contract.",
+      "player": "Lou Trivino"
     },
     {
       "date": "2025-05-11",
@@ -33,15 +33,45 @@
     },
     {
       "date": "2025-05-11",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPElvis Peguerofrom Nashville Sounds.",
-      "player": "Elvis Peguero"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated RHPYoendrys Gómez.",
+      "player": "Yoendrys Gómez"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPIan Gibauton a rehab assignment to Louisville Bats.",
+      "player": "Ian Gibaut"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated RHPShawn Dubinfrom the 15-day injured list.",
+      "player": "Shawn Dubin"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent LHPKaleb Sophyto a minor league contract.",
+      "player": "Kaleb Sophy"
     },
     {
       "date": "2025-05-11",
       "team": "Colorado Rockies",
-      "details": "Colorado Rockiesselected the contract of LHPRyan Rolisonfrom Albuquerque Isotopes.",
-      "player": "Ryan Rolison"
+      "details": "Colorado Rockiesrecalled RHPAnthony Molinafrom Albuquerque Isotopes.",
+      "player": "Anthony Molina"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPJuan Mejiato Albuquerque Isotopes.",
+      "player": "Juan Mejia"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPElvis Peguerofrom Nashville Sounds.",
+      "player": "Elvis Peguero"
     },
     {
       "date": "2025-05-11",
@@ -52,8 +82,14 @@
     {
       "date": "2025-05-11",
       "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPJuan Mejiato Albuquerque Isotopes.",
-      "player": "Juan Mejia"
+      "details": "Colorado Rockiesselected the contract of LHPRyan Rolisonfrom Albuquerque Isotopes.",
+      "player": "Ryan Rolison"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPLogan VanWeyto Sugar Land Space Cowboys.",
+      "player": "Logan VanWey"
     },
     {
       "date": "2025-05-11",
@@ -66,12 +102,6 @@
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersoptioned RHPTobias Myersto Nashville Sounds.",
       "player": "Tobias Myers"
-    },
-    {
-      "date": "2025-05-11",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPAnthony Molinafrom Albuquerque Isotopes.",
-      "player": "Anthony Molina"
     }
   ]
 }
