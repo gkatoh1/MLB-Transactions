@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-05-12T21:23:32.311728",
+  "last_updated": "2025-05-12T22:24:52.874468",
   "transactions": [
+    {
+      "date": "2025-05-12",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksdesignated 2BGarrett Hampsonfor assignment.",
+      "player": "Garrett Hampson"
+    },
+    {
+      "date": "2025-05-12",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated 3BGage Workmanfor assignment.",
+      "player": "Gage Workman"
+    },
     {
       "date": "2025-05-12",
       "team": "Unknown Team",
@@ -12,18 +24,6 @@
       "team": "Chicago Cubs",
       "details": "Chicago Cubsactivated LHPCaleb Thielbarfrom the paternity list.",
       "player": "Caleb Thielbar"
-    },
-    {
-      "date": "2025-05-12",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated 3BGage Workmanfor assignment.",
-      "player": "Gage Workman"
-    },
-    {
-      "date": "2025-05-12",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksdesignated 2BGarrett Hampsonfor assignment.",
-      "player": "Garrett Hampson"
     },
     {
       "date": "2025-05-12",
@@ -57,15 +57,63 @@
     },
     {
       "date": "2025-05-12",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPDillon Tateoutright to Buffalo Bisons.",
-      "player": "Dillon Tate"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RFWill Brennanfrom Columbus Clippers.",
+      "player": "Will Brennan"
+    },
+    {
+      "date": "2025-05-12",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned SSLiover Pegueroto Indianapolis Indians.",
+      "player": "Liover Peguero"
+    },
+    {
+      "date": "2025-05-12",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned 1BBlaine Crimto Round Rock Express.",
+      "player": "Blaine Crim"
     },
     {
       "date": "2025-05-12",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksrecalled SSJordan Lawlarfrom Reno Aces.",
       "player": "Jordan Lawlar"
+    },
+    {
+      "date": "2025-05-12",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RFSteward Berroato Oklahoma City Comets.",
+      "player": "Steward Berroa"
+    },
+    {
+      "date": "2025-05-12",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned SSBrayan Rocchioto Columbus Clippers.",
+      "player": "Brayan Rocchio"
+    },
+    {
+      "date": "2025-05-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPGavin Hollowellto Iowa Cubs.",
+      "player": "Gavin Hollowell"
+    },
+    {
+      "date": "2025-05-12",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPDillon Tateoutright to Buffalo Bisons.",
+      "player": "Dillon Tate"
+    },
+    {
+      "date": "2025-05-12",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent 1BNick Matonoutright to Charlotte Knights.",
+      "player": "Nick Maton"
+    },
+    {
+      "date": "2025-05-12",
+      "team": "Kansas City Royals",
+      "details": "RHPNoah Murdockreturned toKansas City RoyalsfromAthletics.",
+      "player": "Noah Murdock"
     },
     {
       "date": "2025-05-12",
@@ -78,36 +126,6 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaystraded RFSteward BerroatoLos Angeles Dodgersfor cash.",
       "player": "Steward Berroa"
-    },
-    {
-      "date": "2025-05-12",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned SSBrayan Rocchioto Columbus Clippers.",
-      "player": "Brayan Rocchio"
-    },
-    {
-      "date": "2025-05-12",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RFWill Brennanfrom Columbus Clippers.",
-      "player": "Will Brennan"
-    },
-    {
-      "date": "2025-05-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned RHPGavin Hollowellto Iowa Cubs.",
-      "player": "Gavin Hollowell"
-    },
-    {
-      "date": "2025-05-12",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned 1BBlaine Crimto Round Rock Express.",
-      "player": "Blaine Crim"
-    },
-    {
-      "date": "2025-05-12",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned SSLiover Pegueroto Indianapolis Indians.",
-      "player": "Liover Peguero"
     }
   ]
 }
