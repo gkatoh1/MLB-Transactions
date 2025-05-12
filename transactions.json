@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-05-12T17:22:28.109414",
+  "last_updated": "2025-05-12T18:35:18.039059",
   "transactions": [
     {
       "date": "2025-05-12",
       "team": "Unknown Team",
       "details": "LFTommy Phamsuspended.",
       "player": "Tommy Pham"
+    },
+    {
+      "date": "2025-05-12",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned SSBrayan Rocchioto Columbus Clippers.",
+      "player": "Brayan Rocchio"
+    },
+    {
+      "date": "2025-05-12",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RFWill Brennanfrom Columbus Clippers.",
+      "player": "Will Brennan"
     }
   ]
 }
