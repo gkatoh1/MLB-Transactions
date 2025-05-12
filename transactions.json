@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-05-12T18:35:18.039059",
+  "last_updated": "2025-05-12T19:20:38.608836",
   "transactions": [
+    {
+      "date": "2025-05-12",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated CFDerek Hillfrom the 10-day injured list.",
+      "player": "Derek Hill"
+    },
     {
       "date": "2025-05-12",
       "team": "Unknown Team",
@@ -9,15 +15,21 @@
     },
     {
       "date": "2025-05-12",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned SSBrayan Rocchioto Columbus Clippers.",
-      "player": "Brayan Rocchio"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated 3BGage Workmanfor assignment.",
+      "player": "Gage Workman"
     },
     {
       "date": "2025-05-12",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansrecalled RFWill Brennanfrom Columbus Clippers.",
       "player": "Will Brennan"
+    },
+    {
+      "date": "2025-05-12",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned SSBrayan Rocchioto Columbus Clippers.",
+      "player": "Brayan Rocchio"
     }
   ]
 }
