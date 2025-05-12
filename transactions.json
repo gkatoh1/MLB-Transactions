@@ -1,6 +1,24 @@
 {
-  "last_updated": "2025-05-11T23:22:37.731023",
+  "last_updated": "2025-05-12T02:06:33.690964",
   "transactions": [
+    {
+      "date": "2025-05-11",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPIan Gibauton a rehab assignment to Louisville Bats.",
+      "player": "Ian Gibaut"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent LHPKaleb Sophyto a minor league contract.",
+      "player": "Kaleb Sophy"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPRhett Lowderon a rehab assignment to Dayton Dragons.",
+      "player": "Rhett Lowder"
+    },
     {
       "date": "2025-05-11",
       "team": "Baltimore Orioles",
@@ -12,18 +30,6 @@
       "team": "Washington Nationals",
       "details": "Washington Nationalsactivated RHPCade Cavallifrom the 15-day injured list.",
       "player": "Cade Cavalli"
-    },
-    {
-      "date": "2025-05-11",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssent LHPClayton Kershawon a rehab assignment to Oklahoma City Comets.",
-      "player": "Clayton Kershaw"
-    },
-    {
-      "date": "2025-05-11",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssigned free agent RHPLou Trivinoto a minor league contract.",
-      "player": "Lou Trivino"
     },
     {
       "date": "2025-05-11",
@@ -40,26 +46,20 @@
     {
       "date": "2025-05-11",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned free agent LHPKaleb Sophyto a minor league contract.",
-      "player": "Kaleb Sophy"
-    },
-    {
-      "date": "2025-05-11",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RHPRhett Lowderon a rehab assignment to Dayton Dragons.",
-      "player": "Rhett Lowder"
-    },
-    {
-      "date": "2025-05-11",
-      "team": "Chicago White Sox",
       "details": "Chicago White Soxactivated RHPYoendrys Gómez.",
       "player": "Yoendrys Gómez"
     },
     {
       "date": "2025-05-11",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RHPIan Gibauton a rehab assignment to Louisville Bats.",
-      "player": "Ian Gibaut"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent LHPClayton Kershawon a rehab assignment to Oklahoma City Comets.",
+      "player": "Clayton Kershaw"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssigned free agent RHPLou Trivinoto a minor league contract.",
+      "player": "Lou Trivino"
     },
     {
       "date": "2025-05-11",
@@ -75,15 +75,15 @@
     },
     {
       "date": "2025-05-11",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPCade Cavallito Rochester Red Wings.",
-      "player": "Cade Cavalli"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPJuan Mejiato Albuquerque Isotopes.",
+      "player": "Juan Mejia"
     },
     {
       "date": "2025-05-11",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned LHPTrevor Rogersto Norfolk Tides.",
-      "player": "Trevor Rogers"
+      "details": "Baltimore Oriolesoptioned RHPColin Selbyto Norfolk Tides.",
+      "player": "Colin Selby"
     },
     {
       "date": "2025-05-11",
@@ -100,8 +100,14 @@
     {
       "date": "2025-05-11",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPColin Selbyto Norfolk Tides.",
-      "player": "Colin Selby"
+      "details": "Baltimore Oriolesoptioned LHPTrevor Rogersto Norfolk Tides.",
+      "player": "Trevor Rogers"
+    },
+    {
+      "date": "2025-05-11",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPBradley Blalockto Albuquerque Isotopes.",
+      "player": "Bradley Blalock"
     },
     {
       "date": "2025-05-11",
@@ -117,21 +123,15 @@
     },
     {
       "date": "2025-05-11",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPJuan Mejiato Albuquerque Isotopes.",
-      "player": "Juan Mejia"
-    },
-    {
-      "date": "2025-05-11",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersrecalled RHPElvis Peguerofrom Nashville Sounds.",
       "player": "Elvis Peguero"
     },
     {
       "date": "2025-05-11",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPBradley Blalockto Albuquerque Isotopes.",
-      "player": "Bradley Blalock"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPCade Cavallito Rochester Red Wings.",
+      "player": "Cade Cavalli"
     }
   ]
 }
