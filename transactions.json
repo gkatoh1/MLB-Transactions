@@ -1,24 +1,6 @@
 {
-  "last_updated": "2025-05-13T17:22:55.424605",
+  "last_updated": "2025-05-13T18:34:26.610213",
   "transactions": [
-    {
-      "date": "2025-05-13",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent 1BSeth Beerto a minor league contract.",
-      "player": "Seth Beer"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned free agent RHPBryce Conleyto a minor league contract.",
-      "player": "Bryce Conley"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent RFAustin Slateron a rehab assignment to Charlotte Knights.",
-      "player": "Austin Slater"
-    },
     {
       "date": "2025-05-13",
       "team": "Pittsburgh Pirates",
@@ -33,6 +15,12 @@
     },
     {
       "date": "2025-05-13",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned free agent RHPBryce Conleyto a minor league contract.",
+      "player": "Bryce Conley"
+    },
+    {
+      "date": "2025-05-13",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardianssent CFLane Thomason a rehab assignment to Columbus Clippers.",
       "player": "Lane Thomas"
@@ -42,6 +30,18 @@
       "team": "Chicago White Sox",
       "details": "Chicago White Soxsent RHPJesse Scholtenson a rehab assignment to Charlotte Knights.",
       "player": "Jesse Scholtens"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent 1BSeth Beerto a minor league contract.",
+      "player": "Seth Beer"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent RFAustin Slateron a rehab assignment to Charlotte Knights.",
+      "player": "Austin Slater"
     }
   ]
 }
