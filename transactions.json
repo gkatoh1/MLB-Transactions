@@ -1,89 +1,23 @@
 {
-  "last_updated": "2025-05-13T22:25:17.635318",
+  "last_updated": "2025-05-13T23:23:43.759384",
   "transactions": [
     {
       "date": "2025-05-13",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent CJake Rogerson a rehab assignment to Toledo Mud Hens.",
-      "player": "Jake Rogers"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsplaced 2BLuis García Jr.on the paternity list.",
-      "player": "Luis García Jr."
-    },
-    {
-      "date": "2025-05-13",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated CKyle Higashiokafrom the 10-day injured list.",
-      "player": "Kyle Higashioka"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent CFLane Thomason a rehab assignment to Columbus Clippers.",
-      "player": "Lane Thomas"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent RHPSam Bachmanon a rehab assignment to Salt Lake Bees.",
-      "player": "Sam Bachman"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPMichael Tonkinon a rehab assignment to St. Paul Saints.",
+      "player": "Michael Tonkin"
     },
     {
       "date": "2025-05-13",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent RHPJesse Scholtenson a rehab assignment to Charlotte Knights.",
-      "player": "Jesse Scholtens"
+      "details": "Chicago White Soxsent RFAustin Slateron a rehab assignment to Charlotte Knights.",
+      "player": "Austin Slater"
     },
     {
       "date": "2025-05-13",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent RFRonald Acuña Jr.on a rehab assignment to FCL Braves.",
-      "player": "Ronald Acuña Jr."
-    },
-    {
-      "date": "2025-05-13",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersplaced SSCorey Seageron the 10-day injured list. Right hamstring strain.",
-      "player": "Corey Seager"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent 1BSeth Beerto a minor league contract.",
-      "player": "Seth Beer"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssigned free agent OFTomo Otosakato a minor league contract.",
-      "player": "Tomo Otosaka"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssent 1BCasey Schmitton a rehab assignment to Sacramento River Cats.",
-      "player": "Casey Schmitt"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned free agent RHPBryce Conleyto a minor league contract.",
-      "player": "Bryce Conley"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssent 2BTyler Fitzgeraldon a rehab assignment to Sacramento River Cats.",
-      "player": "Tyler Fitzgerald"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansplaced RHPBen Livelyon the 15-day injured list. Right forearm strain.",
-      "player": "Ben Lively"
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated 3BDJ LeMahieufrom the 10-day injured list.",
+      "player": "DJ LeMahieu"
     },
     {
       "date": "2025-05-13",
@@ -99,39 +33,9 @@
     },
     {
       "date": "2025-05-13",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced RHPTyson Milleron the 60-day injured list. Left hip impingement.",
-      "player": "Tyson Miller"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessent RHPJosé Ruizon a rehab assignment to Lehigh Valley IronPigs.",
-      "player": "José Ruiz"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced 3BOswaldo Cabreraon the 10-day injured list. Left ankle fracture.",
-      "player": "Oswaldo Cabrera"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced LFIan Happon the 10-day injured list retroactive to May 10, 2025. Left oblique strain.",
-      "player": "Ian Happ"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated 3BDJ LeMahieufrom the 10-day injured list.",
-      "player": "DJ LeMahieu"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent RFAustin Slateron a rehab assignment to Charlotte Knights.",
-      "player": "Austin Slater"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced SSCorey Seageron the 10-day injured list. Right hamstring strain.",
+      "player": "Corey Seager"
     },
     {
       "date": "2025-05-13",
@@ -159,15 +63,117 @@
     },
     {
       "date": "2025-05-13",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled RHPKeider Monterofrom Toledo Mud Hens.",
-      "player": "Keider Montero"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RFRonald Acuña Jr.on a rehab assignment to FCL Braves.",
+      "player": "Ronald Acuña Jr."
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPTyson Milleron the 60-day injured list. Left hip impingement.",
+      "player": "Tyson Miller"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPSam Bachmanon a rehab assignment to Salt Lake Bees.",
+      "player": "Sam Bachman"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced 2BLuis García Jr.on the paternity list.",
+      "player": "Luis García Jr."
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated CKyle Higashiokafrom the 10-day injured list.",
+      "player": "Kyle Higashioka"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent RHPJosé Ruizon a rehab assignment to Lehigh Valley IronPigs.",
+      "player": "José Ruiz"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent CFLane Thomason a rehab assignment to Columbus Clippers.",
+      "player": "Lane Thomas"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent 1BSeth Beerto a minor league contract.",
+      "player": "Seth Beer"
     },
     {
       "date": "2025-05-13",
       "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned RHPChase Leeto Toledo Mud Hens.",
-      "player": "Chase Lee"
+      "details": "Detroit Tigerssent CJake Rogerson a rehab assignment to Toledo Mud Hens.",
+      "player": "Jake Rogers"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssigned free agent OFTomo Otosakato a minor league contract.",
+      "player": "Tomo Otosaka"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent 1BCasey Schmitton a rehab assignment to Sacramento River Cats.",
+      "player": "Casey Schmitt"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced 3BOswaldo Cabreraon the 10-day injured list. Left ankle fracture.",
+      "player": "Oswaldo Cabrera"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned free agent RHPBryce Conleyto a minor league contract.",
+      "player": "Bryce Conley"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent 2BTyler Fitzgeraldon a rehab assignment to Sacramento River Cats.",
+      "player": "Tyler Fitzgerald"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced RHPBen Livelyon the 15-day injured list. Right forearm strain.",
+      "player": "Ben Lively"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced LFIan Happon the 10-day injured list retroactive to May 10, 2025. Left oblique strain.",
+      "player": "Ian Happ"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent RHPJesse Scholtenson a rehab assignment to Charlotte Knights.",
+      "player": "Jesse Scholtens"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPJason Alexanderfrom Las Vegas Aviators.",
+      "player": "Jason Alexander"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsselected the contract of CMoisés Ballesterosfrom Iowa Cubs.",
+      "player": "Moisés Ballesteros"
     },
     {
       "date": "2025-05-13",
@@ -183,27 +189,27 @@
     },
     {
       "date": "2025-05-13",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsselected the contract of CMoisés Ballesterosfrom Iowa Cubs.",
-      "player": "Moisés Ballesteros"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPKeider Monterofrom Toledo Mud Hens.",
+      "player": "Keider Montero"
     },
     {
       "date": "2025-05-13",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled 2BCoco Montesfrom Durham Bulls.",
-      "player": "Coco Montes"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPJason Alexanderfrom Las Vegas Aviators.",
-      "player": "Jason Alexander"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPChase Leeto Toledo Mud Hens.",
+      "player": "Chase Lee"
     },
     {
       "date": "2025-05-13",
       "team": "Washington Nationals",
       "details": "Washington Nationalsrecalled 3BTrey Lipscombfrom Rochester Red Wings.",
       "player": "Trey Lipscomb"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled 2BCoco Montesfrom Durham Bulls.",
+      "player": "Coco Montes"
     }
   ]
 }
