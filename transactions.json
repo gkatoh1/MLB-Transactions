@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-05-13T13:37:13.838870",
+  "last_updated": "2025-05-13T14:27:00.025039",
   "transactions": [
+    {
+      "date": "2025-05-13",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent 1BSeth Beerto a minor league contract.",
+      "player": "Seth Beer"
+    },
     {
       "date": "2025-05-13",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesactivated LFTommy Pham.",
       "player": "Tommy Pham"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned free agent LHPTommy Kaneto a minor league contract.",
+      "player": "Tommy Kane"
     }
   ]
 }
