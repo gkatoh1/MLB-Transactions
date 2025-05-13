@@ -1,36 +1,6 @@
 {
-  "last_updated": "2025-05-13T19:20:38.808153",
+  "last_updated": "2025-05-13T20:28:11.450014",
   "transactions": [
-    {
-      "date": "2025-05-13",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced 3BOswaldo Cabreraon the 10-day injured list. Left ankle fracture.",
-      "player": "Oswaldo Cabrera"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent RFAustin Slateron a rehab assignment to Charlotte Knights.",
-      "player": "Austin Slater"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesactivated LFTommy Pham.",
-      "player": "Tommy Pham"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned free agent LHPTommy Kaneto a minor league contract.",
-      "player": "Tommy Kane"
-    },
-    {
-      "date": "2025-05-13",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent CFLane Thomason a rehab assignment to Columbus Clippers.",
-      "player": "Lane Thomas"
-    },
     {
       "date": "2025-05-13",
       "team": "Philadelphia Phillies",
@@ -63,9 +33,57 @@
     },
     {
       "date": "2025-05-13",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced 2BLuis García Jr.on the paternity list.",
+      "player": "Luis García Jr."
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent CFLane Thomason a rehab assignment to Columbus Clippers.",
+      "player": "Lane Thomas"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced 3BOswaldo Cabreraon the 10-day injured list. Left ankle fracture.",
+      "player": "Oswaldo Cabrera"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPSam Bachmanon a rehab assignment to Salt Lake Bees.",
+      "player": "Sam Bachman"
+    },
+    {
+      "date": "2025-05-13",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxsent RHPJesse Scholtenson a rehab assignment to Charlotte Knights.",
       "player": "Jesse Scholtens"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent RFAustin Slateron a rehab assignment to Charlotte Knights.",
+      "player": "Austin Slater"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated LFTommy Pham.",
+      "player": "Tommy Pham"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned free agent LHPTommy Kaneto a minor league contract.",
+      "player": "Tommy Kane"
+    },
+    {
+      "date": "2025-05-13",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled 3BTrey Lipscombfrom Rochester Red Wings.",
+      "player": "Trey Lipscomb"
     }
   ]
 }
