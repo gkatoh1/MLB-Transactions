@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-05-14T18:33:35.341894",
+  "last_updated": "2025-05-14T19:20:21.959999",
   "transactions": [
+    {
+      "date": "2025-05-14",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent 1BEndy Rodríguezon a rehab assignment to Indianapolis Indians.",
+      "player": "Endy Rodríguez"
+    },
     {
       "date": "2025-05-14",
       "team": "Texas Rangers",
       "details": "Texas Rangerssent CFKevin Pillaron a rehab assignment to Frisco RoughRiders.",
       "player": "Kevin Pillar"
-    },
-    {
-      "date": "2025-05-14",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated 3BRamón Uríasfrom the 10-day injured list.",
-      "player": "Ramón Urías"
     },
     {
       "date": "2025-05-14",
@@ -33,9 +33,33 @@
     },
     {
       "date": "2025-05-14",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPErik Swansonon a rehab assignment to Buffalo Bisons.",
+      "player": "Erik Swanson"
+    },
+    {
+      "date": "2025-05-14",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersplaced LHPJose Quintanaon the 15-day injured list retroactive to May 11, 2025. Left shoulder impingement.",
       "player": "Jose Quintana"
+    },
+    {
+      "date": "2025-05-14",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratestransferred 1BEnmanuel Valdezfrom the 10-day injured list to the 60-day injured list. Left shoulder inflammation.",
+      "player": "Enmanuel Valdez"
+    },
+    {
+      "date": "2025-05-14",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPRyan Burron a rehab assignment to Buffalo Bisons.",
+      "player": "Ryan Burr"
+    },
+    {
+      "date": "2025-05-14",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated 3BRamón Uríasfrom the 10-day injured list.",
+      "player": "Ramón Urías"
     },
     {
       "date": "2025-05-14",
@@ -69,15 +93,27 @@
     },
     {
       "date": "2025-05-14",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPDaniel Robertfrom Lehigh Valley IronPigs.",
-      "player": "Daniel Robert"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesclaimed CFMichael Helmanoff waivers fromSt. Louis Cardinals.",
+      "player": "Michael Helman"
     },
     {
       "date": "2025-05-14",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersoptioned LHPBryan Hudsonto Nashville Sounds.",
       "player": "Bryan Hudson"
+    },
+    {
+      "date": "2025-05-14",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPDaniel Robertfrom Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
+    },
+    {
+      "date": "2025-05-14",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled LHPKody Funderburkfrom St. Paul Saints.",
+      "player": "Kody Funderburk"
     }
   ]
 }
