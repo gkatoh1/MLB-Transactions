@@ -1,11 +1,35 @@
 {
-  "last_updated": "2025-05-14T13:35:30.459633",
+  "last_updated": "2025-05-14T14:26:30.709023",
   "transactions": [
+    {
+      "date": "2025-05-14",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPDL Hallon a rehab assignment to Nashville Sounds.",
+      "player": "DL Hall"
+    },
     {
       "date": "2025-05-14",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesactivated 3BRamón Uríasfrom the 10-day injured list.",
       "player": "Ramón Urías"
+    },
+    {
+      "date": "2025-05-14",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPMatt Svansonfrom Memphis Redbirds.",
+      "player": "Matt Svanson"
+    },
+    {
+      "date": "2025-05-14",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPDaniel Robertfrom Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
+    },
+    {
+      "date": "2025-05-14",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LHPBryan Hudsonto Nashville Sounds.",
+      "player": "Bryan Hudson"
     },
     {
       "date": "2025-05-14",
@@ -15,9 +39,9 @@
     },
     {
       "date": "2025-05-14",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled LHPKody Funderburkfrom St. Paul Saints.",
-      "player": "Kody Funderburk"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPLogan Hendersonfrom Nashville Sounds.",
+      "player": "Logan Henderson"
     }
   ]
 }
