@@ -1,4 +1,23 @@
 {
-  "last_updated": "2025-05-14T12:52:28.325684",
-  "transactions": []
+  "last_updated": "2025-05-14T13:35:30.459633",
+  "transactions": [
+    {
+      "date": "2025-05-14",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated 3BRamón Uríasfrom the 10-day injured list.",
+      "player": "Ramón Urías"
+    },
+    {
+      "date": "2025-05-14",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LFDylan Carlsonto Norfolk Tides.",
+      "player": "Dylan Carlson"
+    },
+    {
+      "date": "2025-05-14",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled LHPKody Funderburkfrom St. Paul Saints.",
+      "player": "Kody Funderburk"
+    }
+  ]
 }
