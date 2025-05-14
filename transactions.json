@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-05-14T15:27:33.153559",
+  "last_updated": "2025-05-14T16:32:12.881012",
   "transactions": [
     {
       "date": "2025-05-14",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent LHPDL Hallon a rehab assignment to Nashville Sounds.",
-      "player": "DL Hall"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent CFKevin Pillaron a rehab assignment to Frisco RoughRiders.",
+      "player": "Kevin Pillar"
     },
     {
       "date": "2025-05-14",
@@ -15,21 +15,21 @@
     },
     {
       "date": "2025-05-14",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPDL Hallon a rehab assignment to Nashville Sounds.",
+      "player": "DL Hall"
+    },
+    {
+      "date": "2025-05-14",
       "team": "Washington Nationals",
       "details": "Washington Nationalssent 1BAndrés Chaparroon a rehab assignment to FCL Nationals.",
       "player": "Andrés Chaparro"
     },
     {
       "date": "2025-05-14",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPDaniel Robertfrom Lehigh Valley IronPigs.",
-      "player": "Daniel Robert"
-    },
-    {
-      "date": "2025-05-14",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned LHPBryan Hudsonto Nashville Sounds.",
-      "player": "Bryan Hudson"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPMatt Svansonfrom Memphis Redbirds.",
+      "player": "Matt Svanson"
     },
     {
       "date": "2025-05-14",
@@ -45,9 +45,15 @@
     },
     {
       "date": "2025-05-14",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPMatt Svansonfrom Memphis Redbirds.",
-      "player": "Matt Svanson"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPDaniel Robertfrom Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
+    },
+    {
+      "date": "2025-05-14",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LHPBryan Hudsonto Nashville Sounds.",
+      "player": "Bryan Hudson"
     }
   ]
 }
