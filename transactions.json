@@ -1,6 +1,24 @@
 {
-  "last_updated": "2025-05-15T14:26:32.836873",
+  "last_updated": "2025-05-15T15:26:01.696672",
   "transactions": [
+    {
+      "date": "2025-05-15",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssigned free agent OFEddie Rosarioto a minor league contract.",
+      "player": "Eddie Rosario"
+    },
+    {
+      "date": "2025-05-15",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPMatt Svansonto Memphis Redbirds.",
+      "player": "Matt Svanson"
+    },
+    {
+      "date": "2025-05-15",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPSimeon Woods Richardsonto St. Paul Saints.",
+      "player": "Simeon Woods Richardson"
+    },
     {
       "date": "2025-05-15",
       "team": "Baltimore Orioles",
@@ -12,12 +30,6 @@
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesoptioned RHPDaniel Robertto Lehigh Valley IronPigs.",
       "player": "Daniel Robert"
-    },
-    {
-      "date": "2025-05-15",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPSimeon Woods Richardsonto St. Paul Saints.",
-      "player": "Simeon Woods Richardson"
     }
   ]
 }
