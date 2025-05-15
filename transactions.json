@@ -1,24 +1,6 @@
 {
-  "last_updated": "2025-05-15T21:23:40.072176",
+  "last_updated": "2025-05-15T22:24:19.883005",
   "transactions": [
-    {
-      "date": "2025-05-15",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssigned free agent OFEddie Rosarioto a minor league contract.",
-      "player": "Eddie Rosario"
-    },
-    {
-      "date": "2025-05-15",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysplaced RFTravis Jankowskion the 10-day injured list. Left groin strain.",
-      "player": "Travis Jankowski"
-    },
-    {
-      "date": "2025-05-15",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent RFRonald Acuña Jr.on a rehab assignment to Gwinnett Stripers.",
-      "player": "Ronald Acuña Jr."
-    },
     {
       "date": "2025-05-15",
       "team": "Philadelphia Phillies",
@@ -27,9 +9,9 @@
     },
     {
       "date": "2025-05-15",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated RFJosh Lowefrom the 10-day injured list.",
-      "player": "Josh Lowe"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssigned free agent OFEddie Rosarioto a minor league contract.",
+      "player": "Eddie Rosario"
     },
     {
       "date": "2025-05-15",
@@ -45,15 +27,21 @@
     },
     {
       "date": "2025-05-15",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled LHPJustin Wrobleskifrom Oklahoma City Comets.",
-      "player": "Justin Wrobleski"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced RFTravis Jankowskion the 10-day injured list. Left groin strain.",
+      "player": "Travis Jankowski"
     },
     {
       "date": "2025-05-15",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxclaimed 3BVinny Capraoff waivers fromMilwaukee Brewers.",
-      "player": "Vinny Capra"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RFJosh Lowefrom the 10-day injured list.",
+      "player": "Josh Lowe"
+    },
+    {
+      "date": "2025-05-15",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RFRonald Acuña Jr.on a rehab assignment to Gwinnett Stripers.",
+      "player": "Ronald Acuña Jr."
     },
     {
       "date": "2025-05-15",
@@ -63,9 +51,15 @@
     },
     {
       "date": "2025-05-15",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPSimeon Woods Richardsonto St. Paul Saints.",
-      "player": "Simeon Woods Richardson"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPDaniel Robertto Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
+    },
+    {
+      "date": "2025-05-15",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled LHPJustin Wrobleskifrom Oklahoma City Comets.",
+      "player": "Justin Wrobleski"
     },
     {
       "date": "2025-05-15",
@@ -75,15 +69,21 @@
     },
     {
       "date": "2025-05-15",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPChayce McDermottto Norfolk Tides.",
-      "player": "Chayce McDermott"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxclaimed 3BVinny Capraoff waivers fromMilwaukee Brewers.",
+      "player": "Vinny Capra"
     },
     {
       "date": "2025-05-15",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPDaniel Robertto Lehigh Valley IronPigs.",
-      "player": "Daniel Robert"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPSimeon Woods Richardsonto St. Paul Saints.",
+      "player": "Simeon Woods Richardson"
+    },
+    {
+      "date": "2025-05-15",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPChayce McDermottto Norfolk Tides.",
+      "player": "Chayce McDermott"
     }
   ]
 }
