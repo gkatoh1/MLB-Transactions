@@ -1,30 +1,6 @@
 {
-  "last_updated": "2025-05-14T23:23:17.545805",
+  "last_updated": "2025-05-15T02:01:31.538772",
   "transactions": [
-    {
-      "date": "2025-05-14",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent 1BEndy Rodríguezon a rehab assignment to Indianapolis Indians.",
-      "player": "Endy Rodríguez"
-    },
-    {
-      "date": "2025-05-14",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersplaced RHPBryce Milleron the 15-day injured list retroactive to May 12, 2025. Right elbow inflammation.",
-      "player": "Bryce Miller"
-    },
-    {
-      "date": "2025-05-14",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsactivated LHPRyan Weathersfrom the 15-day injured list.",
-      "player": "Ryan Weathers"
-    },
-    {
-      "date": "2025-05-14",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersdesignated CAustin Barnesfor assignment.",
-      "player": "Austin Barnes"
-    },
     {
       "date": "2025-05-14",
       "team": "Texas Rangers",
@@ -39,9 +15,27 @@
     },
     {
       "date": "2025-05-14",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersplaced RHPBryce Milleron the 15-day injured list retroactive to May 12, 2025. Right elbow inflammation.",
+      "player": "Bryce Miller"
+    },
+    {
+      "date": "2025-05-14",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent 1BEndy Rodríguezon a rehab assignment to Indianapolis Indians.",
+      "player": "Endy Rodríguez"
+    },
+    {
+      "date": "2025-05-14",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssent RHPRyan Burron a rehab assignment to Buffalo Bisons.",
       "player": "Ryan Burr"
+    },
+    {
+      "date": "2025-05-14",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent RHPYu Darvishon a rehab assignment to El Paso Chihuahuas.",
+      "player": "Yu Darvish"
     },
     {
       "date": "2025-05-14",
@@ -54,24 +48,6 @@
       "team": "Washington Nationals",
       "details": "Washington Nationalssent 1BAndrés Chaparroon a rehab assignment to FCL Nationals.",
       "player": "Andrés Chaparro"
-    },
-    {
-      "date": "2025-05-14",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent LHPDL Hallon a rehab assignment to Nashville Sounds.",
-      "player": "DL Hall"
-    },
-    {
-      "date": "2025-05-14",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPErik Swansonon a rehab assignment to Buffalo Bisons.",
-      "player": "Erik Swanson"
-    },
-    {
-      "date": "2025-05-14",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced LHPJose Quintanaon the 15-day injured list retroactive to May 11, 2025. Left shoulder impingement.",
-      "player": "Jose Quintana"
     },
     {
       "date": "2025-05-14",
@@ -93,15 +69,39 @@
     },
     {
       "date": "2025-05-14",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPDaniel Robertfrom Lehigh Valley IronPigs.",
-      "player": "Daniel Robert"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPDL Hallon a rehab assignment to Nashville Sounds.",
+      "player": "DL Hall"
     },
     {
       "date": "2025-05-14",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned 3BJace Jungto Toledo Mud Hens.",
-      "player": "Jace Jung"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPErik Swansonon a rehab assignment to Buffalo Bisons.",
+      "player": "Erik Swanson"
+    },
+    {
+      "date": "2025-05-14",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced LHPJose Quintanaon the 15-day injured list retroactive to May 11, 2025. Left shoulder impingement.",
+      "player": "Jose Quintana"
+    },
+    {
+      "date": "2025-05-14",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated LHPRyan Weathersfrom the 15-day injured list.",
+      "player": "Ryan Weathers"
+    },
+    {
+      "date": "2025-05-14",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated CAustin Barnesfor assignment.",
+      "player": "Austin Barnes"
+    },
+    {
+      "date": "2025-05-14",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPMatt Svansonfrom Memphis Redbirds.",
+      "player": "Matt Svanson"
     },
     {
       "date": "2025-05-14",
@@ -111,15 +111,21 @@
     },
     {
       "date": "2025-05-14",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled LHPKody Funderburkfrom St. Paul Saints.",
+      "player": "Kody Funderburk"
+    },
+    {
+      "date": "2025-05-14",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersrecalled RHPTobias Myersfrom Nashville Sounds.",
       "player": "Tobias Myers"
     },
     {
       "date": "2025-05-14",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled LHPColton Gordonfrom Sugar Land Space Cowboys.",
-      "player": "Colton Gordon"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPDaniel Robertfrom Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
     },
     {
       "date": "2025-05-14",
@@ -130,8 +136,20 @@
     {
       "date": "2025-05-14",
       "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned 3BJace Jungto Toledo Mud Hens.",
+      "player": "Jace Jung"
+    },
+    {
+      "date": "2025-05-14",
+      "team": "Detroit Tigers",
       "details": "3BGage Workmanreturned toDetroit TigersfromChicago White Sox.",
       "player": "Gage Workman"
+    },
+    {
+      "date": "2025-05-14",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled LHPColton Gordonfrom Sugar Land Space Cowboys.",
+      "player": "Colton Gordon"
     },
     {
       "date": "2025-05-14",
@@ -141,9 +159,9 @@
     },
     {
       "date": "2025-05-14",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersselected the contract of LFAkil Baddoofrom Toledo Mud Hens.",
-      "player": "Akil Baddoo"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersselected the contract of CDalton Rushingfrom Oklahoma City Comets.",
+      "player": "Dalton Rushing"
     },
     {
       "date": "2025-05-14",
@@ -159,21 +177,9 @@
     },
     {
       "date": "2025-05-14",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPLogan Hendersonfrom Nashville Sounds.",
-      "player": "Logan Henderson"
-    },
-    {
-      "date": "2025-05-14",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersselected the contract of CDalton Rushingfrom Oklahoma City Comets.",
-      "player": "Dalton Rushing"
-    },
-    {
-      "date": "2025-05-14",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled LHPKody Funderburkfrom St. Paul Saints.",
-      "player": "Kody Funderburk"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersselected the contract of LFAkil Baddoofrom Toledo Mud Hens.",
+      "player": "Akil Baddoo"
     },
     {
       "date": "2025-05-14",
@@ -183,9 +189,9 @@
     },
     {
       "date": "2025-05-14",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPMatt Svansonfrom Memphis Redbirds.",
-      "player": "Matt Svanson"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPLogan Hendersonfrom Nashville Sounds.",
+      "player": "Logan Henderson"
     },
     {
       "date": "2025-05-14",
