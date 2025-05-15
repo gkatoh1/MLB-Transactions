@@ -1,11 +1,41 @@
 {
-  "last_updated": "2025-05-15T15:26:01.696672",
+  "last_updated": "2025-05-15T16:32:51.255243",
   "transactions": [
     {
       "date": "2025-05-15",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerssigned free agent OFEddie Rosarioto a minor league contract.",
       "player": "Eddie Rosario"
+    },
+    {
+      "date": "2025-05-15",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RFJosh Lowefrom the 10-day injured list.",
+      "player": "Josh Lowe"
+    },
+    {
+      "date": "2025-05-15",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RFRonald Acuña Jr.on a rehab assignment to Gwinnett Stripers.",
+      "player": "Ronald Acuña Jr."
+    },
+    {
+      "date": "2025-05-15",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced RFTravis Jankowskion the 10-day injured list. Left groin strain.",
+      "player": "Travis Jankowski"
+    },
+    {
+      "date": "2025-05-15",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPDaniel Robertto Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
+    },
+    {
+      "date": "2025-05-15",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPChayce McDermottto Norfolk Tides.",
+      "player": "Chayce McDermott"
     },
     {
       "date": "2025-05-15",
@@ -18,18 +48,6 @@
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsoptioned RHPSimeon Woods Richardsonto St. Paul Saints.",
       "player": "Simeon Woods Richardson"
-    },
-    {
-      "date": "2025-05-15",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPChayce McDermottto Norfolk Tides.",
-      "player": "Chayce McDermott"
-    },
-    {
-      "date": "2025-05-15",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPDaniel Robertto Lehigh Valley IronPigs.",
-      "player": "Daniel Robert"
     }
   ]
 }
