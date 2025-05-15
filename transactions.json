@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-05-15T18:35:34.453899",
+  "last_updated": "2025-05-15T19:19:45.856478",
   "transactions": [
     {
       "date": "2025-05-15",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerssigned free agent OFEddie Rosarioto a minor league contract.",
       "player": "Eddie Rosario"
+    },
+    {
+      "date": "2025-05-15",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RFRonald Acuña Jr.on a rehab assignment to Gwinnett Stripers.",
+      "player": "Ronald Acuña Jr."
     },
     {
       "date": "2025-05-15",
@@ -39,21 +45,39 @@
     },
     {
       "date": "2025-05-15",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPChayce McDermottto Norfolk Tides.",
-      "player": "Chayce McDermott"
-    },
-    {
-      "date": "2025-05-15",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsoptioned RHPMatt Svansonto Memphis Redbirds.",
       "player": "Matt Svanson"
     },
     {
       "date": "2025-05-15",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPChayce McDermottto Norfolk Tides.",
+      "player": "Chayce McDermott"
+    },
+    {
+      "date": "2025-05-15",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesoptioned RHPDaniel Robertto Lehigh Valley IronPigs.",
       "player": "Daniel Robert"
+    },
+    {
+      "date": "2025-05-15",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxclaimed 3BVinny Capraoff waivers fromMilwaukee Brewers.",
+      "player": "Vinny Capra"
+    },
+    {
+      "date": "2025-05-15",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled LHPJustin Wrobleskifrom Oklahoma City Comets.",
+      "player": "Justin Wrobleski"
+    },
+    {
+      "date": "2025-05-15",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPJ.P. Feyereisento Oklahoma City Comets.",
+      "player": "J.P. Feyereisen"
     }
   ]
 }
