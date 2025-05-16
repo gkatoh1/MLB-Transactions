@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-16T15:25:15.793166",
+  "last_updated": "2025-05-16T16:31:52.107790",
   "transactions": [
     {
       "date": "2025-05-16",
@@ -15,9 +15,9 @@
     },
     {
       "date": "2025-05-16",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of RHPMiguel Castrofrom Charlotte Knights.",
-      "player": "Miguel Castro"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPRhett Lowderon a rehab assignment to Louisville Bats.",
+      "player": "Rhett Lowder"
     },
     {
       "date": "2025-05-16",
@@ -27,9 +27,21 @@
     },
     {
       "date": "2025-05-16",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned 2BCoco Montesto Durham Bulls.",
+      "player": "Coco Montes"
+    },
+    {
+      "date": "2025-05-16",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPBryce Elderto Gwinnett Stripers.",
       "player": "Bryce Elder"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of RHPMiguel Castrofrom Charlotte Knights.",
+      "player": "Miguel Castro"
     }
   ]
 }
