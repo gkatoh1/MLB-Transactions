@@ -1,23 +1,11 @@
 {
-  "last_updated": "2025-05-16T17:21:09.220979",
+  "last_updated": "2025-05-16T18:34:28.466471",
   "transactions": [
-    {
-      "date": "2025-05-16",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RHPRhett Lowderon a rehab assignment to Louisville Bats.",
-      "player": "Rhett Lowder"
-    },
     {
       "date": "2025-05-16",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxactivated 3BVinny Capra.",
       "player": "Vinny Capra"
-    },
-    {
-      "date": "2025-05-16",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated SSJacob Amayafor assignment.",
-      "player": "Jacob Amaya"
     },
     {
       "date": "2025-05-16",
@@ -27,9 +15,27 @@
     },
     {
       "date": "2025-05-16",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPBryce Elderto Gwinnett Stripers.",
-      "player": "Bryce Elder"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPRhett Lowderon a rehab assignment to Louisville Bats.",
+      "player": "Rhett Lowder"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPPaul Blackburnon a rehab assignment to Binghamton Rumble Ponies.",
+      "player": "Paul Blackburn"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated SSJacob Amayafor assignment.",
+      "player": "Jacob Amaya"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPJared Shusterto Charlotte Knights.",
+      "player": "Jared Shuster"
     },
     {
       "date": "2025-05-16",
@@ -39,15 +45,33 @@
     },
     {
       "date": "2025-05-16",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned 2BCoco Montesto Durham Bulls.",
-      "player": "Coco Montes"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled LHPDylan Doddfrom Gwinnett Stripers.",
+      "player": "Dylan Dodd"
     },
     {
       "date": "2025-05-16",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned LHPJared Shusterto Charlotte Knights.",
-      "player": "Jared Shuster"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPBryce Elderto Gwinnett Stripers.",
+      "player": "Bryce Elder"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of RHPNick Burdifrom Worcester Red Sox.",
+      "player": "Nick Burdi"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPCooper Criswellto Worcester Red Sox.",
+      "player": "Cooper Criswell"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned 2BCoco Montesto Durham Bulls.",
+      "player": "Coco Montes"
     }
   ]
 }
