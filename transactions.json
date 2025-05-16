@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-05-16T21:23:02.475791",
+  "last_updated": "2025-05-16T22:24:14.317133",
   "transactions": [
     {
       "date": "2025-05-16",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssigned free agent SSLizandro Rodriguezto a minor league contract.",
-      "player": "Lizandro Rodriguez"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated SSAaron Schunkfrom the 10-day injured list.",
+      "player": "Aaron Schunk"
     },
     {
       "date": "2025-05-16",
@@ -15,45 +15,9 @@
     },
     {
       "date": "2025-05-16",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesplaced RHPAaron Nolaon the 15-day injured list retroactive to May 15, 2025. Right ankle sprain.",
-      "player": "Aaron Nola"
-    },
-    {
-      "date": "2025-05-16",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated RHPJonathan Loáisigafrom the 15-day injured list.",
-      "player": "Jonathan Loáisiga"
-    },
-    {
-      "date": "2025-05-16",
-      "team": "New York Yankees",
-      "details": "New York Yankeesdesignated LHPTyler Matzekfor assignment.",
-      "player": "Tyler Matzek"
-    },
-    {
-      "date": "2025-05-16",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated RHPClayton Beeterfrom the 15-day injured list.",
-      "player": "Clayton Beeter"
-    },
-    {
-      "date": "2025-05-16",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RHPRhett Lowderon a rehab assignment to Louisville Bats.",
-      "player": "Rhett Lowder"
-    },
-    {
-      "date": "2025-05-16",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated 3BVinny Capra.",
-      "player": "Vinny Capra"
-    },
-    {
-      "date": "2025-05-16",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPPaul Blackburnon a rehab assignment to Binghamton Rumble Ponies.",
-      "player": "Paul Blackburn"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced LHPEduardo Rodriguezon the 15-day injured list retroactive to May 15, 2025. Left shoulder inflammation.",
+      "player": "Eduardo Rodriguez"
     },
     {
       "date": "2025-05-16",
@@ -63,21 +27,15 @@
     },
     {
       "date": "2025-05-16",
+      "team": "New York Yankees",
+      "details": "New York Yankeesdesignated LHPTyler Matzekfor assignment.",
+      "player": "Tyler Matzek"
+    },
+    {
+      "date": "2025-05-16",
       "team": "Miami Marlins",
       "details": "Miami Marlinssent 2BOtto Lopezon a rehab assignment to Jacksonville Jumbo Shrimp.",
       "player": "Otto Lopez"
-    },
-    {
-      "date": "2025-05-16",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned free agent 3BDrew Ellisto a minor league contract.",
-      "player": "Drew Ellis"
-    },
-    {
-      "date": "2025-05-16",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated SSJacob Amayafor assignment.",
-      "player": "Jacob Amaya"
     },
     {
       "date": "2025-05-16",
@@ -93,21 +51,123 @@
     },
     {
       "date": "2025-05-16",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned 3BTrey Lipscombto Rochester Red Wings.",
-      "player": "Trey Lipscomb"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssigned free agent 3BDrew Ellisto a minor league contract.",
+      "player": "Drew Ellis"
     },
     {
       "date": "2025-05-16",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled LHPDylan Doddfrom Gwinnett Stripers.",
-      "player": "Dylan Dodd"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated SSEzequiel Tovarfrom the 10-day injured list.",
+      "player": "Ezequiel Tovar"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPPaul Blackburnon a rehab assignment to Binghamton Rumble Ponies.",
+      "player": "Paul Blackburn"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssigned free agent SSLizandro Rodriguezto a minor league contract.",
+      "player": "Lizandro Rodriguez"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RHPJonathan Loáisigafrom the 15-day injured list.",
+      "player": "Jonathan Loáisiga"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated SSJacob Amayafor assignment.",
+      "player": "Jacob Amaya"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated 3BVinny Capra.",
+      "player": "Vinny Capra"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesdesignated SSAlan Trejofor assignment.",
+      "player": "Alan Trejo"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced RHPAaron Nolaon the 15-day injured list retroactive to May 15, 2025. Right ankle sprain.",
+      "player": "Aaron Nola"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated 2BTyler Freemanfrom the 10-day injured list.",
+      "player": "Tyler Freeman"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesdesignated 2BOwen Millerfor assignment.",
+      "player": "Owen Miller"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RFWenceel Pérezon a rehab assignment to West Michigan Whitecaps.",
+      "player": "Wenceel Pérez"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RHPClayton Beeterfrom the 15-day injured list.",
+      "player": "Clayton Beeter"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPRhett Lowderon a rehab assignment to Louisville Bats.",
+      "player": "Rhett Lowder"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated CFMichael Helmanfor assignment.",
+      "player": "Michael Helman"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of RHPMiguel Castrofrom Charlotte Knights.",
+      "player": "Miguel Castro"
     },
     {
       "date": "2025-05-16",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned LHPJared Shusterto Charlotte Knights.",
       "player": "Jared Shuster"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesselected the contract of LHPCarson Palmquistfrom Albuquerque Isotopes.",
+      "player": "Carson Palmquist"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "New York Yankees",
+      "details": "New York Yankeestraded LHPRob ZastryznytoMilwaukee Brewersfor cash.",
+      "player": "Rob Zastryzny"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPElvis Pegueroto Nashville Sounds.",
+      "player": "Elvis Peguero"
     },
     {
       "date": "2025-05-16",
@@ -123,6 +183,18 @@
     },
     {
       "date": "2025-05-16",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesselected the contract of RFNick Solakfrom Indianapolis Indians.",
+      "player": "Nick Solak"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled LHPDylan Doddfrom Gwinnett Stripers.",
+      "player": "Dylan Dodd"
+    },
+    {
+      "date": "2025-05-16",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPClayton Beeterto Scranton/Wilkes-Barre RailRiders.",
       "player": "Clayton Beeter"
@@ -135,15 +207,39 @@
     },
     {
       "date": "2025-05-16",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned 2BCoco Montesto Durham Bulls.",
-      "player": "Coco Montes"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPAnthony Molinato Albuquerque Isotopes.",
+      "player": "Anthony Molina"
     },
     {
       "date": "2025-05-16",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of RHPMiguel Castrofrom Charlotte Knights.",
-      "player": "Miguel Castro"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned CFJi Hwan Baeto Indianapolis Indians.",
+      "player": "Ji Hwan Bae"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned 3BTrey Lipscombto Rochester Red Wings.",
+      "player": "Trey Lipscomb"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPScott McGoughfrom Reno Aces.",
+      "player": "Scott McGough"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksselected the contract of RHPChristian Montes De Ocafrom Reno Aces.",
+      "player": "Christian Montes De Oca"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned 2BCoco Montesto Durham Bulls.",
+      "player": "Coco Montes"
     }
   ]
 }
