@@ -1,17 +1,11 @@
 {
-  "last_updated": "2025-05-16T19:19:37.634247",
+  "last_updated": "2025-05-16T20:27:35.127144",
   "transactions": [
     {
       "date": "2025-05-16",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated 3BVinny Capra.",
-      "player": "Vinny Capra"
-    },
-    {
-      "date": "2025-05-16",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated RHPClayton Beeterfrom the 15-day injured list.",
-      "player": "Clayton Beeter"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated 2BLuis García Jr.from the paternity list.",
+      "player": "Luis García Jr."
     },
     {
       "date": "2025-05-16",
@@ -27,15 +21,45 @@
     },
     {
       "date": "2025-05-16",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated LFDairon Blancofrom the 10-day injured list.",
+      "player": "Dairon Blanco"
+    },
+    {
+      "date": "2025-05-16",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redssent RHPRhett Lowderon a rehab assignment to Louisville Bats.",
       "player": "Rhett Lowder"
     },
     {
       "date": "2025-05-16",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated 3BVinny Capra.",
+      "player": "Vinny Capra"
+    },
+    {
+      "date": "2025-05-16",
       "team": "New York Mets",
       "details": "New York Metssent RHPPaul Blackburnon a rehab assignment to Binghamton Rumble Ponies.",
       "player": "Paul Blackburn"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced RHPAaron Nolaon the 15-day injured list retroactive to May 15, 2025. Right ankle sprain.",
+      "player": "Aaron Nola"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RHPJonathan Loáisigafrom the 15-day injured list.",
+      "player": "Jonathan Loáisiga"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "New York Yankees",
+      "details": "New York Yankeesdesignated LHPTyler Matzekfor assignment.",
+      "player": "Tyler Matzek"
     },
     {
       "date": "2025-05-16",
@@ -51,15 +75,15 @@
     },
     {
       "date": "2025-05-16",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated LFDairon Blancofrom the 10-day injured list.",
-      "player": "Dairon Blanco"
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RHPClayton Beeterfrom the 15-day injured list.",
+      "player": "Clayton Beeter"
     },
     {
       "date": "2025-05-16",
-      "team": "New York Yankees",
-      "details": "New York Yankeesdesignated LHPTyler Matzekfor assignment.",
-      "player": "Tyler Matzek"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned 3BTrey Lipscombto Rochester Red Wings.",
+      "player": "Trey Lipscomb"
     },
     {
       "date": "2025-05-16",
@@ -69,27 +93,9 @@
     },
     {
       "date": "2025-05-16",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned 2BCoco Montesto Durham Bulls.",
-      "player": "Coco Montes"
-    },
-    {
-      "date": "2025-05-16",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of RHPMiguel Castrofrom Charlotte Knights.",
-      "player": "Miguel Castro"
-    },
-    {
-      "date": "2025-05-16",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPBryce Elderto Gwinnett Stripers.",
       "player": "Bryce Elder"
-    },
-    {
-      "date": "2025-05-16",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxselected the contract of RHPNick Burdifrom Worcester Red Sox.",
-      "player": "Nick Burdi"
     },
     {
       "date": "2025-05-16",
@@ -102,6 +108,30 @@
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPClayton Beeterto Scranton/Wilkes-Barre RailRiders.",
       "player": "Clayton Beeter"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPDaniel Robertfrom Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of RHPNick Burdifrom Worcester Red Sox.",
+      "player": "Nick Burdi"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned 2BCoco Montesto Durham Bulls.",
+      "player": "Coco Montes"
+    },
+    {
+      "date": "2025-05-16",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of RHPMiguel Castrofrom Charlotte Knights.",
+      "player": "Miguel Castro"
     }
   ]
 }
