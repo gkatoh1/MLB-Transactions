@@ -1,6 +1,24 @@
 {
-  "last_updated": "2025-05-17T19:20:30.418892",
+  "last_updated": "2025-05-17T20:25:26.809864",
   "transactions": [
+    {
+      "date": "2025-05-17",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated RHPSlade Cecconifrom the 15-day injured list.",
+      "player": "Slade Cecconi"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPJustin Martinezon a rehab assignment to ACL D-backs.",
+      "player": "Justin Martinez"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessigned free agent OFHector Barrosoto a minor league contract.",
+      "player": "Hector Barroso"
+    },
     {
       "date": "2025-05-17",
       "team": "Chicago White Sox",
@@ -21,24 +39,6 @@
     },
     {
       "date": "2025-05-17",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent RHPJustin Martinezon a rehab assignment to ACL D-backs.",
-      "player": "Justin Martinez"
-    },
-    {
-      "date": "2025-05-17",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessigned free agent OFHector Barrosoto a minor league contract.",
-      "player": "Hector Barroso"
-    },
-    {
-      "date": "2025-05-17",
-      "team": "New York Mets",
-      "details": "New York Metsactivated LHPJosé Castillo.",
-      "player": "José Castillo"
-    },
-    {
-      "date": "2025-05-17",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsplaced LHPCole Raganson the 15-day injured list. Left groin strain.",
       "player": "Cole Ragans"
@@ -51,15 +51,9 @@
     },
     {
       "date": "2025-05-17",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPJared Shusterfrom Charlotte Knights.",
-      "player": "Jared Shuster"
-    },
-    {
-      "date": "2025-05-17",
       "team": "New York Mets",
-      "details": "New York Metsoptioned RHPDedniel Núñezto Syracuse Mets.",
-      "player": "Dedniel Núñez"
+      "details": "New York Metsactivated LHPJosé Castillo.",
+      "player": "José Castillo"
     },
     {
       "date": "2025-05-17",
@@ -78,6 +72,24 @@
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsrecalled LHPNoah Cameronfrom Omaha Storm Chasers.",
       "player": "Noah Cameron"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPZak Kentto Columbus Clippers.",
+      "player": "Zak Kent"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPDedniel Núñezto Syracuse Mets.",
+      "player": "Dedniel Núñez"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPJared Shusterfrom Charlotte Knights.",
+      "player": "Jared Shuster"
     }
   ]
 }
