@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-05-17T13:29:14.046314",
+  "last_updated": "2025-05-17T14:21:29.571983",
   "transactions": [
+    {
+      "date": "2025-05-17",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessigned free agent OFHector Barrosoto a minor league contract.",
+      "player": "Hector Barroso"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced LHPTyler Gilberton the 15-day injured list. Sprained MCL in his left knee.",
+      "player": "Tyler Gilbert"
+    },
     {
       "date": "2025-05-17",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiessigned free agent CJesus Belloto a minor league contract.",
       "player": "Jesus Bello"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPJared Shusterfrom Charlotte Knights.",
+      "player": "Jared Shuster"
     }
   ]
 }
