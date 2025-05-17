@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-05-17T16:28:58.775953",
+  "last_updated": "2025-05-17T17:20:17.580913",
   "transactions": [
-    {
-      "date": "2025-05-17",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent RHPJustin Martinezon a rehab assignment to ACL D-backs.",
-      "player": "Justin Martinez"
-    },
     {
       "date": "2025-05-17",
       "team": "Chicago White Sox",
@@ -22,14 +16,20 @@
     {
       "date": "2025-05-17",
       "team": "New York Mets",
-      "details": "New York Metsactivated SSRonny Mauriciofrom the 10-day injured list.",
-      "player": "Ronny Mauricio"
+      "details": "New York Metsactivated LHPJosé Castillo.",
+      "player": "José Castillo"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPJustin Martinezon a rehab assignment to ACL D-backs.",
+      "player": "Justin Martinez"
     },
     {
       "date": "2025-05-17",
       "team": "New York Mets",
-      "details": "New York Metsactivated LHPJosé Castillo.",
-      "player": "José Castillo"
+      "details": "New York Metsactivated SSRonny Mauriciofrom the 10-day injured list.",
+      "player": "Ronny Mauricio"
     },
     {
       "date": "2025-05-17",
@@ -45,15 +45,15 @@
     },
     {
       "date": "2025-05-17",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPJared Shusterfrom Charlotte Knights.",
-      "player": "Jared Shuster"
-    },
-    {
-      "date": "2025-05-17",
       "team": "New York Mets",
       "details": "New York Metsoptioned RHPDedniel Núñezto Syracuse Mets.",
       "player": "Dedniel Núñez"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPJared Shusterfrom Charlotte Knights.",
+      "player": "Jared Shuster"
     }
   ]
 }
