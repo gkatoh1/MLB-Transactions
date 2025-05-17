@@ -1,35 +1,17 @@
 {
-  "last_updated": "2025-05-17T21:21:51.722235",
+  "last_updated": "2025-05-17T22:22:24.474963",
   "transactions": [
-    {
-      "date": "2025-05-17",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced RHPSeth Lugoon the 15-day injured list retroactive to May 14, 2025. Right third finger sprain.",
-      "player": "Seth Lugo"
-    },
-    {
-      "date": "2025-05-17",
-      "team": "New York Mets",
-      "details": "New York Metsactivated LHPJosé Castillo.",
-      "player": "José Castillo"
-    },
-    {
-      "date": "2025-05-17",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced LHPCole Raganson the 15-day injured list. Left groin strain.",
-      "player": "Cole Ragans"
-    },
-    {
-      "date": "2025-05-17",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent RHPJustin Martinezon a rehab assignment to ACL D-backs.",
-      "player": "Justin Martinez"
-    },
     {
       "date": "2025-05-17",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiessigned free agent OFHector Barrosoto a minor league contract.",
       "player": "Hector Barroso"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated 1BSpencer Horwitzfrom the 10-day injured list.",
+      "player": "Spencer Horwitz"
     },
     {
       "date": "2025-05-17",
@@ -45,39 +27,45 @@
     },
     {
       "date": "2025-05-17",
+      "team": "New York Mets",
+      "details": "New York Metsactivated LHPJosé Castillo.",
+      "player": "José Castillo"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPJustin Martinezon a rehab assignment to ACL D-backs.",
+      "player": "Justin Martinez"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPSeth Lugoon the 15-day injured list retroactive to May 14, 2025. Right third finger sprain.",
+      "player": "Seth Lugo"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced LHPCole Raganson the 15-day injured list. Left groin strain.",
+      "player": "Cole Ragans"
+    },
+    {
+      "date": "2025-05-17",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansactivated RHPSlade Cecconifrom the 15-day injured list.",
       "player": "Slade Cecconi"
     },
     {
       "date": "2025-05-17",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced CFByron Buxtonon the 7-day injured list retroactive to May 16, 2025.",
+      "player": "Byron Buxton"
+    },
+    {
+      "date": "2025-05-17",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiessigned free agent CJesus Belloto a minor league contract.",
       "player": "Jesus Bello"
-    },
-    {
-      "date": "2025-05-17",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPJared Shusterfrom Charlotte Knights.",
-      "player": "Jared Shuster"
-    },
-    {
-      "date": "2025-05-17",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled LHPEvan Siskfrom Omaha Storm Chasers.",
-      "player": "Evan Sisk"
-    },
-    {
-      "date": "2025-05-17",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled LHPNoah Cameronfrom Omaha Storm Chasers.",
-      "player": "Noah Cameron"
-    },
-    {
-      "date": "2025-05-17",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned SSRonny Mauricioto Syracuse Mets.",
-      "player": "Ronny Mauricio"
     },
     {
       "date": "2025-05-17",
@@ -88,8 +76,44 @@
     {
       "date": "2025-05-17",
       "team": "New York Mets",
+      "details": "New York Metsoptioned SSRonny Mauricioto Syracuse Mets.",
+      "player": "Ronny Mauricio"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned 1BMatt Gorskito Indianapolis Indians.",
+      "player": "Matt Gorski"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled LHPNoah Cameronfrom Omaha Storm Chasers.",
+      "player": "Noah Cameron"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent SSJacob Amayaoutright to Charlotte Knights.",
+      "player": "Jacob Amaya"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled LHPEvan Siskfrom Omaha Storm Chasers.",
+      "player": "Evan Sisk"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "New York Mets",
       "details": "New York Metsoptioned RHPDedniel Núñezto Syracuse Mets.",
       "player": "Dedniel Núñez"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPJared Shusterfrom Charlotte Knights.",
+      "player": "Jared Shuster"
     }
   ]
 }
