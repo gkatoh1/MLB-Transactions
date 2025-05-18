@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-05-18T14:21:41.647449",
+  "last_updated": "2025-05-18T15:23:22.864464",
   "transactions": [
+    {
+      "date": "2025-05-18",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstransferred 2BLuke Keaschallfrom the 10-day injured list to the 60-day injured list. Right forearm fracture.",
+      "player": "Luke Keaschall"
+    },
+    {
+      "date": "2025-05-18",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsdesignated RHPChris Strattonfor assignment.",
+      "player": "Chris Stratton"
+    },
     {
       "date": "2025-05-18",
       "team": "Minnesota Twins",
@@ -9,9 +21,27 @@
     },
     {
       "date": "2025-05-18",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerstransferred LHPConnor Thomasfrom the 15-day injured list to the 60-day injured list. Left elbow arthritis.",
+      "player": "Connor Thomas"
+    },
+    {
+      "date": "2025-05-18",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinstransferred 2BLuke Keaschallfrom the 10-day injured list to the 60-day injured list. Right forearm fracture.",
-      "player": "Luke Keaschall"
+      "details": "Minnesota Twinsrecalled RHPZebby Matthewsfrom St. Paul Saints.",
+      "player": "Zebby Matthews"
+    },
+    {
+      "date": "2025-05-18",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPMick Abelfrom Lehigh Valley IronPigs.",
+      "player": "Mick Abel"
+    },
+    {
+      "date": "2025-05-18",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of RHPEaston McGeefrom Nashville Sounds.",
+      "player": "Easton McGee"
     },
     {
       "date": "2025-05-18",
@@ -21,9 +51,21 @@
     },
     {
       "date": "2025-05-18",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPZebby Matthewsfrom St. Paul Saints.",
-      "player": "Zebby Matthews"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPDaniel Robertto Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
+    },
+    {
+      "date": "2025-05-18",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
+      "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2025-05-18",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPTobias Myersto Nashville Sounds.",
+      "player": "Tobias Myers"
     }
   ]
 }
