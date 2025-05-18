@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-18T15:23:22.864464",
+  "last_updated": "2025-05-18T16:28:25.662499",
   "transactions": [
     {
       "date": "2025-05-18",
@@ -9,15 +9,39 @@
     },
     {
       "date": "2025-05-18",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced LHPDanny Coulombeon the 15-day injured list retroactive to May 5, 2025. Left forearm extensor strain.",
+      "player": "Danny Coulombe"
+    },
+    {
+      "date": "2025-05-18",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated CFKevin Pillarfrom the 10-day injured list.",
+      "player": "Kevin Pillar"
+    },
+    {
+      "date": "2025-05-18",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPJT Brubakeron a rehab assignment to Hudson Valley Renegades.",
+      "player": "JT Brubaker"
+    },
+    {
+      "date": "2025-05-18",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsdesignated RHPChris Strattonfor assignment.",
       "player": "Chris Stratton"
     },
     {
       "date": "2025-05-18",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced LHPDanny Coulombeon the 15-day injured list retroactive to May 5, 2025. Left forearm extensor strain.",
-      "player": "Danny Coulombe"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced CFEvan Carteron the 10-day injured list retroactive to May 17, 2025. Right quad strain.",
+      "player": "Evan Carter"
+    },
+    {
+      "date": "2025-05-18",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced LHPJosé Alvaradoon the restricted list.",
+      "player": "José Alvarado"
     },
     {
       "date": "2025-05-18",
@@ -27,9 +51,15 @@
     },
     {
       "date": "2025-05-18",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPZebby Matthewsfrom St. Paul Saints.",
-      "player": "Zebby Matthews"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
+      "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2025-05-18",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPDaniel Robertto Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
     },
     {
       "date": "2025-05-18",
@@ -45,27 +75,33 @@
     },
     {
       "date": "2025-05-18",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPCaleb Boushleyfrom Round Rock Express.",
+      "player": "Caleb Boushley"
+    },
+    {
+      "date": "2025-05-18",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsselected the contract of LFCarson McCuskerfrom St. Paul Saints.",
       "player": "Carson McCusker"
     },
     {
       "date": "2025-05-18",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPDaniel Robertto Lehigh Valley IronPigs.",
-      "player": "Daniel Robert"
-    },
-    {
-      "date": "2025-05-18",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
-      "player": "Jonathan Bowlan"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPCole Winnto Round Rock Express.",
+      "player": "Cole Winn"
     },
     {
       "date": "2025-05-18",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersoptioned RHPTobias Myersto Nashville Sounds.",
       "player": "Tobias Myers"
+    },
+    {
+      "date": "2025-05-18",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPZebby Matthewsfrom St. Paul Saints.",
+      "player": "Zebby Matthews"
     }
   ]
 }
