@@ -1,11 +1,59 @@
 {
-  "last_updated": "2025-05-17T23:22:38.649111",
+  "last_updated": "2025-05-18T02:10:22.036599",
   "transactions": [
+    {
+      "date": "2025-05-17",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPSeth Lugoon the 15-day injured list retroactive to May 14, 2025. Right third finger sprain.",
+      "player": "Seth Lugo"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "New York Mets",
+      "details": "New York Metsactivated LHPJosé Castillo.",
+      "player": "José Castillo"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RFTeoscar Hernándezon a rehab assignment to Rancho Cucamonga Quakes.",
+      "player": "Teoscar Hernández"
+    },
     {
       "date": "2025-05-17",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsplaced LHPCole Raganson the 15-day injured list. Left groin strain.",
       "player": "Cole Ragans"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced CFByron Buxtonon the 7-day injured list retroactive to May 16, 2025.",
+      "player": "Byron Buxton"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessigned free agent CJesus Belloto a minor league contract.",
+      "player": "Jesus Bello"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced LHPTyler Gilberton the 15-day injured list. Sprained MCL in his left knee.",
+      "player": "Tyler Gilbert"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "New York Mets",
+      "details": "New York Metsactivated SSRonny Mauriciofrom the 10-day injured list.",
+      "player": "Ronny Mauricio"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerstransferred LHPBlake Snellfrom the 15-day injured list to the 60-day injured list. Left shoulder inflammation.",
+      "player": "Blake Snell"
     },
     {
       "date": "2025-05-17",
@@ -39,57 +87,9 @@
     },
     {
       "date": "2025-05-17",
-      "team": "New York Mets",
-      "details": "New York Metsactivated SSRonny Mauriciofrom the 10-day injured list.",
-      "player": "Ronny Mauricio"
-    },
-    {
-      "date": "2025-05-17",
       "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerstransferred LHPBlake Snellfrom the 15-day injured list to the 60-day injured list. Left shoulder inflammation.",
-      "player": "Blake Snell"
-    },
-    {
-      "date": "2025-05-17",
-      "team": "New York Mets",
-      "details": "New York Metsactivated LHPJosé Castillo.",
-      "player": "José Castillo"
-    },
-    {
-      "date": "2025-05-17",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssent RFTeoscar Hernándezon a rehab assignment to Rancho Cucamonga Quakes.",
-      "player": "Teoscar Hernández"
-    },
-    {
-      "date": "2025-05-17",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced CFByron Buxtonon the 7-day injured list retroactive to May 16, 2025.",
-      "player": "Byron Buxton"
-    },
-    {
-      "date": "2025-05-17",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessigned free agent CJesus Belloto a minor league contract.",
-      "player": "Jesus Bello"
-    },
-    {
-      "date": "2025-05-17",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced LHPTyler Gilberton the 15-day injured list. Sprained MCL in his left knee.",
-      "player": "Tyler Gilbert"
-    },
-    {
-      "date": "2025-05-17",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced RHPSeth Lugoon the 15-day injured list retroactive to May 14, 2025. Right third finger sprain.",
-      "player": "Seth Lugo"
-    },
-    {
-      "date": "2025-05-17",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned SSRonny Mauricioto Syracuse Mets.",
-      "player": "Ronny Mauricio"
+      "details": "Los Angeles Dodgersoptioned RHPRyan Loutosto Oklahoma City Comets.",
+      "player": "Ryan Loutos"
     },
     {
       "date": "2025-05-17",
@@ -99,21 +99,9 @@
     },
     {
       "date": "2025-05-17",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent SSJacob Amayaoutright to Charlotte Knights.",
-      "player": "Jacob Amaya"
-    },
-    {
-      "date": "2025-05-17",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPDedniel Núñezto Syracuse Mets.",
-      "player": "Dedniel Núñez"
-    },
-    {
-      "date": "2025-05-17",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned RHPZak Kentto Columbus Clippers.",
-      "player": "Zak Kent"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled LHPNoah Cameronfrom Omaha Storm Chasers.",
+      "player": "Noah Cameron"
     },
     {
       "date": "2025-05-17",
@@ -123,21 +111,33 @@
     },
     {
       "date": "2025-05-17",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPZak Kentto Columbus Clippers.",
+      "player": "Zak Kent"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned SSRonny Mauricioto Syracuse Mets.",
+      "player": "Ronny Mauricio"
+    },
+    {
+      "date": "2025-05-17",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent SSJacob Amayaoutright to Charlotte Knights.",
+      "player": "Jacob Amaya"
+    },
+    {
+      "date": "2025-05-17",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesoptioned 1BMatt Gorskito Indianapolis Indians.",
       "player": "Matt Gorski"
     },
     {
       "date": "2025-05-17",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled LHPNoah Cameronfrom Omaha Storm Chasers.",
-      "player": "Noah Cameron"
-    },
-    {
-      "date": "2025-05-17",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersoptioned RHPRyan Loutosto Oklahoma City Comets.",
-      "player": "Ryan Loutos"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPDedniel Núñezto Syracuse Mets.",
+      "player": "Dedniel Núñez"
     }
   ]
 }
