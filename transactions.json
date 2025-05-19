@@ -1,17 +1,23 @@
 {
-  "last_updated": "2025-05-18T23:23:07.293662",
+  "last_updated": "2025-05-19T02:09:00.189894",
   "transactions": [
     {
       "date": "2025-05-18",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersreleased LFChris Taylor.",
-      "player": "Chris Taylor"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated 2BOtto Lopezfrom the 10-day injured list.",
+      "player": "Otto Lopez"
     },
     {
       "date": "2025-05-18",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsdesignated 1BRyan Nodafor assignment.",
-      "player": "Ryan Noda"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced CFEvan Carteron the 10-day injured list retroactive to May 17, 2025. Right quad strain.",
+      "player": "Evan Carter"
+    },
+    {
+      "date": "2025-05-18",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstransferred 2BLuke Keaschallfrom the 10-day injured list to the 60-day injured list. Right forearm fracture.",
+      "player": "Luke Keaschall"
     },
     {
       "date": "2025-05-18",
@@ -45,9 +51,9 @@
     },
     {
       "date": "2025-05-18",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersplaced CFEvan Carteron the 10-day injured list retroactive to May 17, 2025. Right quad strain.",
-      "player": "Evan Carter"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated 1BRyan Nodafor assignment.",
+      "player": "Ryan Noda"
     },
     {
       "date": "2025-05-18",
@@ -69,12 +75,6 @@
     },
     {
       "date": "2025-05-18",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsplaced SSXavier Edwardson the 10-day injured list retroactive to May 15, 2025. Left mid back strain.",
-      "player": "Xavier Edwards"
-    },
-    {
-      "date": "2025-05-18",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersactivated 2BTommy Edmanfrom the 10-day injured list.",
       "player": "Tommy Edman"
@@ -84,18 +84,6 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesdesignated RHPKyle Gibsonfor assignment.",
       "player": "Kyle Gibson"
-    },
-    {
-      "date": "2025-05-18",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsactivated 2BOtto Lopezfrom the 10-day injured list.",
-      "player": "Otto Lopez"
-    },
-    {
-      "date": "2025-05-18",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinstransferred 2BLuke Keaschallfrom the 10-day injured list to the 60-day injured list. Right forearm fracture.",
-      "player": "Luke Keaschall"
     },
     {
       "date": "2025-05-18",
@@ -111,6 +99,12 @@
     },
     {
       "date": "2025-05-18",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced SSXavier Edwardson the 10-day injured list retroactive to May 15, 2025. Left mid back strain.",
+      "player": "Xavier Edwards"
+    },
+    {
+      "date": "2025-05-18",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksreleased 2BGarrett Hampson.",
       "player": "Garrett Hampson"
@@ -123,9 +117,9 @@
     },
     {
       "date": "2025-05-18",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent SSAlan Trejooutright to Albuquerque Isotopes.",
-      "player": "Alan Trejo"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersreleased LFChris Taylor.",
+      "player": "Chris Taylor"
     },
     {
       "date": "2025-05-18",
@@ -135,15 +129,15 @@
     },
     {
       "date": "2025-05-18",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsselected the contract of RHPHunter Stricklandfrom Salt Lake Bees.",
-      "player": "Hunter Strickland"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
+      "player": "Jonathan Bowlan"
     },
     {
       "date": "2025-05-18",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPZebby Matthewsfrom St. Paul Saints.",
-      "player": "Zebby Matthews"
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPScott Effrossto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Scott Effross"
     },
     {
       "date": "2025-05-18",
@@ -159,27 +153,15 @@
     },
     {
       "date": "2025-05-18",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPScott Effrossto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Scott Effross"
-    },
-    {
-      "date": "2025-05-18",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsselected the contract of LFCarson McCuskerfrom St. Paul Saints.",
       "player": "Carson McCusker"
     },
     {
       "date": "2025-05-18",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned RHPCole Winnto Round Rock Express.",
-      "player": "Cole Winn"
-    },
-    {
-      "date": "2025-05-18",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled LFDylan Carlsonfrom Norfolk Tides.",
-      "player": "Dylan Carlson"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent SSAlan Trejooutright to Albuquerque Isotopes.",
+      "player": "Alan Trejo"
     },
     {
       "date": "2025-05-18",
@@ -189,9 +171,9 @@
     },
     {
       "date": "2025-05-18",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPTobias Myersto Nashville Sounds.",
-      "player": "Tobias Myers"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPCole Winnto Round Rock Express.",
+      "player": "Cole Winn"
     },
     {
       "date": "2025-05-18",
@@ -201,15 +183,33 @@
     },
     {
       "date": "2025-05-18",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesclaimed RHPKevin Hergetoff waivers fromNew York Mets.",
-      "player": "Kevin Herget"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled LFDylan Carlsonfrom Norfolk Tides.",
+      "player": "Dylan Carlson"
     },
     {
       "date": "2025-05-18",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
-      "player": "Jonathan Bowlan"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPKade Strowdfrom Norfolk Tides.",
+      "player": "Kade Strowd"
+    },
+    {
+      "date": "2025-05-18",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPTobias Myersto Nashville Sounds.",
+      "player": "Tobias Myers"
+    },
+    {
+      "date": "2025-05-18",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsselected the contract of RHPHunter Stricklandfrom Salt Lake Bees.",
+      "player": "Hunter Strickland"
+    },
+    {
+      "date": "2025-05-18",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed RHPKevin Hergetoff waivers fromNew York Mets.",
+      "player": "Kevin Herget"
     },
     {
       "date": "2025-05-18",
@@ -219,9 +219,9 @@
     },
     {
       "date": "2025-05-18",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPKade Strowdfrom Norfolk Tides.",
-      "player": "Kade Strowd"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPZebby Matthewsfrom St. Paul Saints.",
+      "player": "Zebby Matthews"
     }
   ]
 }
