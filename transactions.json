@@ -1,6 +1,24 @@
 {
-  "last_updated": "2025-05-19T22:25:01.459535",
+  "last_updated": "2025-05-19T23:23:43.575841",
   "transactions": [
+    {
+      "date": "2025-05-19",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent 1BDavid Fryon a rehab assignment to Akron RubberDucks.",
+      "player": "David Fry"
+    },
+    {
+      "date": "2025-05-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPSpencer Striderfrom the 15-day injured list.",
+      "player": "Spencer Strider"
+    },
+    {
+      "date": "2025-05-19",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated 3BNicky Lopezfor assignment.",
+      "player": "Nicky Lopez"
+    },
     {
       "date": "2025-05-19",
       "team": "Los Angeles Angels",
@@ -15,27 +33,21 @@
     },
     {
       "date": "2025-05-19",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsdesignated 3BNicky Lopezfor assignment.",
-      "player": "Nicky Lopez"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent SSSeong-Jun Kimto a minor league contract.",
+      "player": "Seong-Jun Kim"
+    },
+    {
+      "date": "2025-05-19",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPJosh Bortkato a minor league contract.",
+      "player": "Josh Bortka"
     },
     {
       "date": "2025-05-19",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsdesignated CLuke Mailefor assignment.",
       "player": "Luke Maile"
-    },
-    {
-      "date": "2025-05-19",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPSpencer Striderfrom the 15-day injured list.",
-      "player": "Spencer Strider"
-    },
-    {
-      "date": "2025-05-19",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssigned free agent SSSeong-Jun Kimto a minor league contract.",
-      "player": "Seong-Jun Kim"
     },
     {
       "date": "2025-05-19",
@@ -63,12 +75,6 @@
     },
     {
       "date": "2025-05-19",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssigned free agent RHPJosh Bortkato a minor league contract.",
-      "player": "Josh Bortka"
-    },
-    {
-      "date": "2025-05-19",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsactivated 1BCasey Schmittfrom the 10-day injured list.",
       "player": "Casey Schmitt"
@@ -81,57 +87,27 @@
     },
     {
       "date": "2025-05-19",
-      "team": "Athletics",
-      "details": "Athleticsactivated RHPJ.T. Ginnfrom the 15-day injured list.",
-      "player": "J.T. Ginn"
-    },
-    {
-      "date": "2025-05-19",
       "team": "Texas Rangers",
       "details": "Texas Rangersdesignated SSJonathan Ornelasfor assignment.",
       "player": "Jonathan Ornelas"
     },
     {
       "date": "2025-05-19",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent 1BDavid Fryon a rehab assignment to Akron RubberDucks.",
-      "player": "David Fry"
+      "team": "Athletics",
+      "details": "Athleticsactivated RHPJ.T. Ginnfrom the 15-day injured list.",
+      "player": "J.T. Ginn"
     },
     {
       "date": "2025-05-19",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent 2BOwen Milleroutright to Albuquerque Isotopes.",
-      "player": "Owen Miller"
-    },
-    {
-      "date": "2025-05-19",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPMax Lazarfrom Lehigh Valley IronPigs.",
-      "player": "Max Lazar"
-    },
-    {
-      "date": "2025-05-19",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPMick Abelto Lehigh Valley IronPigs.",
-      "player": "Mick Abel"
-    },
-    {
-      "date": "2025-05-19",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled 2BMatt Shawfrom Iowa Cubs.",
-      "player": "Matt Shaw"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced RHPReese Olsonon the 10-day injured list retroactive to May 18, 2025. Right ring finger inflammation.",
+      "player": "Reese Olson"
     },
     {
       "date": "2025-05-19",
       "team": "Texas Rangers",
       "details": "Texas Rangersclaimed CFMichael Helmanoff waivers fromPittsburgh Pirates.",
       "player": "Michael Helman"
-    },
-    {
-      "date": "2025-05-19",
-      "team": "Athletics",
-      "details": "Athleticsoptioned RHPAnthony Maldonadoto Las Vegas Aviators.",
-      "player": "Anthony Maldonado"
     },
     {
       "date": "2025-05-19",
@@ -147,6 +123,24 @@
     },
     {
       "date": "2025-05-19",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPMick Abelto Lehigh Valley IronPigs.",
+      "player": "Mick Abel"
+    },
+    {
+      "date": "2025-05-19",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled 2BMatt Shawfrom Iowa Cubs.",
+      "player": "Matt Shaw"
+    },
+    {
+      "date": "2025-05-19",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPAnthony Maldonadoto Las Vegas Aviators.",
+      "player": "Anthony Maldonado"
+    },
+    {
+      "date": "2025-05-19",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersoptioned CFJames Outmanto Oklahoma City Comets.",
       "player": "James Outman"
@@ -159,9 +153,27 @@
     },
     {
       "date": "2025-05-19",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPChase Leefrom Toledo Mud Hens.",
+      "player": "Chase Lee"
+    },
+    {
+      "date": "2025-05-19",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPMax Lazarfrom Lehigh Valley IronPigs.",
+      "player": "Max Lazar"
+    },
+    {
+      "date": "2025-05-19",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned LFBrooks Baldwinto Charlotte Knights.",
       "player": "Brooks Baldwin"
+    },
+    {
+      "date": "2025-05-19",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent 2BOwen Milleroutright to Albuquerque Isotopes.",
+      "player": "Owen Miller"
     }
   ]
 }
