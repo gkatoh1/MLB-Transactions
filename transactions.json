@@ -1,47 +1,23 @@
 {
-  "last_updated": "2025-05-19T21:23:28.796575",
+  "last_updated": "2025-05-19T22:25:01.459535",
   "transactions": [
     {
       "date": "2025-05-19",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated RHPTaylor Clarkefrom the paternity list.",
-      "player": "Taylor Clarke"
-    },
-    {
-      "date": "2025-05-19",
-      "team": "Unknown Team",
-      "details": "LHPTyler Matzekelected free agency.",
-      "player": "Tyler Matzek"
-    },
-    {
-      "date": "2025-05-19",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated RFAustin Slaterfrom the 10-day injured list.",
-      "player": "Austin Slater"
-    },
-    {
-      "date": "2025-05-19",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersdesignated SSJonathan Ornelasfor assignment.",
-      "player": "Jonathan Ornelas"
-    },
-    {
-      "date": "2025-05-19",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssigned free agent RHPJosh Bortkato a minor league contract.",
-      "player": "Josh Bortka"
-    },
-    {
-      "date": "2025-05-19",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent 1BDavid Fryon a rehab assignment to Akron RubberDucks.",
-      "player": "David Fry"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated RHPSam Bachmanfrom the 15-day injured list.",
+      "player": "Sam Bachman"
     },
     {
       "date": "2025-05-19",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersactivated RFTeoscar Hernándezfrom the 10-day injured list.",
       "player": "Teoscar Hernández"
+    },
+    {
+      "date": "2025-05-19",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated 3BNicky Lopezfor assignment.",
+      "player": "Nicky Lopez"
     },
     {
       "date": "2025-05-19",
@@ -63,9 +39,45 @@
     },
     {
       "date": "2025-05-19",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsdesignated 3BNicky Lopezfor assignment.",
-      "player": "Nicky Lopez"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsdesignated 1BDavid Villarfor assignment.",
+      "player": "David Villar"
+    },
+    {
+      "date": "2025-05-19",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RHPTaylor Clarkefrom the paternity list.",
+      "player": "Taylor Clarke"
+    },
+    {
+      "date": "2025-05-19",
+      "team": "Unknown Team",
+      "details": "LHPTyler Matzekelected free agency.",
+      "player": "Tyler Matzek"
+    },
+    {
+      "date": "2025-05-19",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated RFAustin Slaterfrom the 10-day injured list.",
+      "player": "Austin Slater"
+    },
+    {
+      "date": "2025-05-19",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPJosh Bortkato a minor league contract.",
+      "player": "Josh Bortka"
+    },
+    {
+      "date": "2025-05-19",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated 1BCasey Schmittfrom the 10-day injured list.",
+      "player": "Casey Schmitt"
+    },
+    {
+      "date": "2025-05-19",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresreleased LFOscar Gonzalez.",
+      "player": "Oscar Gonzalez"
     },
     {
       "date": "2025-05-19",
@@ -75,33 +87,21 @@
     },
     {
       "date": "2025-05-19",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPMick Abelto Lehigh Valley IronPigs.",
-      "player": "Mick Abel"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersdesignated SSJonathan Ornelasfor assignment.",
+      "player": "Jonathan Ornelas"
     },
     {
       "date": "2025-05-19",
-      "team": "Athletics",
-      "details": "Athleticsoptioned RHPAnthony Maldonadoto Las Vegas Aviators.",
-      "player": "Anthony Maldonado"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent 1BDavid Fryon a rehab assignment to Akron RubberDucks.",
+      "player": "David Fry"
     },
     {
       "date": "2025-05-19",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned LFBrooks Baldwinto Charlotte Knights.",
-      "player": "Brooks Baldwin"
-    },
-    {
-      "date": "2025-05-19",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled 2BMatt Shawfrom Iowa Cubs.",
-      "player": "Matt Shaw"
-    },
-    {
-      "date": "2025-05-19",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned LHPDylan Doddto Gwinnett Stripers.",
-      "player": "Dylan Dodd"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent 2BOwen Milleroutright to Albuquerque Isotopes.",
+      "player": "Owen Miller"
     },
     {
       "date": "2025-05-19",
@@ -111,9 +111,39 @@
     },
     {
       "date": "2025-05-19",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPMick Abelto Lehigh Valley IronPigs.",
+      "player": "Mick Abel"
+    },
+    {
+      "date": "2025-05-19",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled 2BMatt Shawfrom Iowa Cubs.",
+      "player": "Matt Shaw"
+    },
+    {
+      "date": "2025-05-19",
       "team": "Texas Rangers",
       "details": "Texas Rangersclaimed CFMichael Helmanoff waivers fromPittsburgh Pirates.",
       "player": "Michael Helman"
+    },
+    {
+      "date": "2025-05-19",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPAnthony Maldonadoto Las Vegas Aviators.",
+      "player": "Anthony Maldonado"
+    },
+    {
+      "date": "2025-05-19",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned CFMichael Helmanto Round Rock Express.",
+      "player": "Michael Helman"
+    },
+    {
+      "date": "2025-05-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned LHPDylan Doddto Gwinnett Stripers.",
+      "player": "Dylan Dodd"
     },
     {
       "date": "2025-05-19",
@@ -123,9 +153,15 @@
     },
     {
       "date": "2025-05-19",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned CFMichael Helmanto Round Rock Express.",
-      "player": "Michael Helman"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPSam Bachmanto Salt Lake Bees.",
+      "player": "Sam Bachman"
+    },
+    {
+      "date": "2025-05-19",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LFBrooks Baldwinto Charlotte Knights.",
+      "player": "Brooks Baldwin"
     }
   ]
 }
