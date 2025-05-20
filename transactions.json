@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-05-20T16:32:51.079834",
+  "last_updated": "2025-05-20T17:22:45.998840",
   "transactions": [
+    {
+      "date": "2025-05-20",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssigned free agent SSMichael Turconito a minor league contract.",
+      "player": "Michael Turconi"
+    },
     {
       "date": "2025-05-20",
       "team": "Kansas City Royals",
@@ -12,12 +18,6 @@
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliessigned free agent RHPLucas Simsto a minor league contract.",
       "player": "Lucas Sims"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssigned free agent SSMichael Turconito a minor league contract.",
-      "player": "Michael Turconi"
     }
   ]
 }
