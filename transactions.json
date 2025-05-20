@@ -1,11 +1,65 @@
 {
-  "last_updated": "2025-05-20T22:24:10.700536",
+  "last_updated": "2025-05-20T23:23:20.243167",
   "transactions": [
+    {
+      "date": "2025-05-20",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated 1BAustin Shentonfor assignment.",
+      "player": "Austin Shenton"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced 2BNick Gonzaleson the 60-day injured list. Non-displaced left ankle fracture.",
+      "player": "Nick Gonzales"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent RHPLucas Simsto a minor league contract.",
+      "player": "Lucas Sims"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RFJake Mangumon a rehab assignment to FCL Rays.",
+      "player": "Jake Mangum"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPRobert Stephensonon a rehab assignment to Salt Lake Bees.",
+      "player": "Robert Stephenson"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPJustin Martinezon a rehab assignment to Reno Aces.",
+      "player": "Justin Martinez"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesreleased RHPKyle Gibson.",
+      "player": "Kyle Gibson"
+    },
     {
       "date": "2025-05-20",
       "team": "Houston Astros",
       "details": "Houston Astrossigned free agent SSEdwin Díazto a minor league contract.",
       "player": "Edwin Díaz"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent RHPEury Pérezon a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Eury Pérez"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned 3BBryce Willits.",
+      "player": "Bryce Willits"
     },
     {
       "date": "2025-05-20",
@@ -45,84 +99,6 @@
     },
     {
       "date": "2025-05-20",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersplaced RHPChris Martinon the 15-day injured list retroactive to May 19, 2025. Right shoulder fatigue.",
-      "player": "Chris Martin"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced RHPColin Holdermanon the 15-day injured list. Right thumb inflammation.",
-      "player": "Colin Holderman"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssigned free agent SSMichael Turconito a minor league contract.",
-      "player": "Michael Turconi"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent RHPKevin Kellyon a rehab assignment to FCL Rays.",
-      "player": "Kevin Kelly"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Houston Astros",
-      "details": "Houston Astrostransferred RHPHayden Wesneskifrom the 15-day injured list to the 60-day injured list.",
-      "player": "Hayden Wesneski"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent RHPJohn Gantto a minor league contract.",
-      "player": "John Gant"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent RHPDeclan Croninon a rehab assignment to Jupiter Hammerheads.",
-      "player": "Declan Cronin"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersdesignated 1BAustin Shentonfor assignment.",
-      "player": "Austin Shenton"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced RHPPorter Hodgeon the 15-day injured list retroactive to May 18, 2025. Left oblique strain.",
-      "player": "Porter Hodge"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent LHPSam Longon a rehab assignment to ACL Royals.",
-      "player": "Sam Long"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced 2BNick Gonzaleson the 60-day injured list. Non-displaced left ankle fracture.",
-      "player": "Nick Gonzales"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent RHPLucas Simsto a minor league contract.",
-      "player": "Lucas Sims"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesreleased RHPKyle Gibson.",
-      "player": "Kyle Gibson"
-    },
-    {
-      "date": "2025-05-20",
       "team": "Detroit Tigers",
       "details": "Detroit Tigerssent RFWenceel Pérezon a rehab assignment to Toledo Mud Hens.",
       "player": "Wenceel Pérez"
@@ -135,9 +111,15 @@
     },
     {
       "date": "2025-05-20",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressent RHPBryan Hoeingon a rehab assignment to San Antonio Missions.",
-      "player": "Bryan Hoeing"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersreleased CAustin Barnes.",
+      "player": "Austin Barnes"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced RHPColin Holdermanon the 15-day injured list. Right thumb inflammation.",
+      "player": "Colin Holderman"
     },
     {
       "date": "2025-05-20",
@@ -171,33 +153,57 @@
     },
     {
       "date": "2025-05-20",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPChris Martinon the 15-day injured list retroactive to May 19, 2025. Right shoulder fatigue.",
+      "player": "Chris Martin"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent RHPBryan Hoeingon a rehab assignment to San Antonio Missions.",
+      "player": "Bryan Hoeing"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssigned free agent SSMichael Turconito a minor league contract.",
+      "player": "Michael Turconi"
+    },
+    {
+      "date": "2025-05-20",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent RFJake Mangumon a rehab assignment to FCL Rays.",
-      "player": "Jake Mangum"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent RHPRobert Stephensonon a rehab assignment to Salt Lake Bees.",
-      "player": "Robert Stephenson"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent RHPJustin Martinezon a rehab assignment to Reno Aces.",
-      "player": "Justin Martinez"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent RHPEury Pérezon a rehab assignment to Jacksonville Jumbo Shrimp.",
-      "player": "Eury Pérez"
+      "details": "Tampa Bay Rayssent RHPKevin Kellyon a rehab assignment to FCL Rays.",
+      "player": "Kevin Kelly"
     },
     {
       "date": "2025-05-20",
       "team": "Houston Astros",
-      "details": "Houston Astrossigned 3BBryce Willits.",
-      "player": "Bryce Willits"
+      "details": "Houston Astrostransferred RHPHayden Wesneskifrom the 15-day injured list to the 60-day injured list.",
+      "player": "Hayden Wesneski"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent RHPJohn Gantto a minor league contract.",
+      "player": "John Gant"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent RHPDeclan Croninon a rehab assignment to Jupiter Hammerheads.",
+      "player": "Declan Cronin"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPPorter Hodgeon the 15-day injured list retroactive to May 18, 2025. Left oblique strain.",
+      "player": "Porter Hodge"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent LHPSam Longon a rehab assignment to ACL Royals.",
+      "player": "Sam Long"
     },
     {
       "date": "2025-05-20",
@@ -219,12 +225,6 @@
     },
     {
       "date": "2025-05-20",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPAnthony Maldonadofrom Las Vegas Aviators.",
-      "player": "Anthony Maldonado"
-    },
-    {
-      "date": "2025-05-20",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled RHPChayce McDermottfrom Norfolk Tides.",
       "player": "Chayce McDermott"
@@ -234,6 +234,30 @@
       "team": "Texas Rangers",
       "details": "Texas Rangersrecalled RHPCole Winnfrom Round Rock Express.",
       "player": "Cole Winn"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPAnthony Maldonadofrom Las Vegas Aviators.",
+      "player": "Anthony Maldonado"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPEthan Robertsfrom Iowa Cubs.",
+      "player": "Ethan Roberts"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned CMoisés Ballesterosto Iowa Cubs.",
+      "player": "Moisés Ballesteros"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of RHPCasey Lawrencefrom Tacoma Rainiers.",
+      "player": "Casey Lawrence"
     },
     {
       "date": "2025-05-20",
@@ -252,24 +276,6 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned RHPNick Burdito Worcester Red Sox.",
       "player": "Nick Burdi"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled RHPEthan Robertsfrom Iowa Cubs.",
-      "player": "Ethan Roberts"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of RHPCasey Lawrencefrom Tacoma Rainiers.",
-      "player": "Casey Lawrence"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned CMoisés Ballesterosto Iowa Cubs.",
-      "player": "Moisés Ballesteros"
     }
   ]
 }
