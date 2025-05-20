@@ -1,11 +1,71 @@
 {
-  "last_updated": "2025-05-20T19:19:47.262927",
+  "last_updated": "2025-05-20T20:28:43.845842",
   "transactions": [
     {
       "date": "2025-05-20",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalssent LHPSam Longon a rehab assignment to ACL Royals.",
       "player": "Sam Long"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent RHPLucas Simsto a minor league contract.",
+      "player": "Lucas Sims"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RFJake Mangumon a rehab assignment to FCL Rays.",
+      "player": "Jake Mangum"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPWalker Buehlerfrom the 15-day injured list.",
+      "player": "Walker Buehler"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent RHPAdrian Houser.",
+      "player": "Adrian Houser"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated CTomás Nidofor assignment.",
+      "player": "Tomás Nido"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated CJake Rogersfrom the 10-day injured list.",
+      "player": "Jake Rogers"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesreleased RHPKyle Gibson.",
+      "player": "Kyle Gibson"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Houston Astros",
+      "details": "Houston Astrostransferred RHPHayden Wesneskifrom the 15-day injured list to the 60-day injured list.",
+      "player": "Hayden Wesneski"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent RHPJohn Gantto a minor league contract.",
+      "player": "John Gant"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPPorter Hodgeon the 15-day injured list retroactive to May 18, 2025. Left oblique strain.",
+      "player": "Porter Hodge"
     },
     {
       "date": "2025-05-20",
@@ -21,39 +81,21 @@
     },
     {
       "date": "2025-05-20",
-      "team": "Houston Astros",
-      "details": "Houston Astrostransferred RHPHayden Wesneskifrom the 15-day injured list to the 60-day injured list.",
-      "player": "Hayden Wesneski"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated LFIan Happfrom the 10-day injured list.",
+      "player": "Ian Happ"
     },
     {
       "date": "2025-05-20",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent RFJake Mangumon a rehab assignment to FCL Rays.",
-      "player": "Jake Mangum"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RHPYoendrys Gómezfor assignment.",
+      "player": "Yoendrys Gómez"
     },
     {
       "date": "2025-05-20",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesreleased RHPKyle Gibson.",
-      "player": "Kyle Gibson"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent RHPLucas Simsto a minor league contract.",
-      "player": "Lucas Sims"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPChayce McDermottfrom Norfolk Tides.",
-      "player": "Chayce McDermott"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Houston Astros",
-      "details": "Houston Astrosselected the contract of LHPBrandon Walterfrom Sugar Land Space Cowboys.",
-      "player": "Brandon Walter"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RHPYoendrys Gómezfor assignment.",
+      "player": "Yoendrys Gómez"
     },
     {
       "date": "2025-05-20",
@@ -66,6 +108,36 @@
       "team": "Houston Astros",
       "details": "Houston Astrosoptioned LHPColton Gordonto Sugar Land Space Cowboys.",
       "player": "Colton Gordon"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPNick Burdito Worcester Red Sox.",
+      "player": "Nick Burdi"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Houston Astros",
+      "details": "Houston Astrosselected the contract of LHPBrandon Walterfrom Sugar Land Space Cowboys.",
+      "player": "Brandon Walter"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned CMoisés Ballesterosto Iowa Cubs.",
+      "player": "Moisés Ballesteros"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPChayce McDermottfrom Norfolk Tides.",
+      "player": "Chayce McDermott"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPEthan Robertsfrom Iowa Cubs.",
+      "player": "Ethan Roberts"
     }
   ]
 }
