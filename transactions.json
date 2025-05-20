@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-05-20T18:36:18.598716",
+  "last_updated": "2025-05-20T19:19:47.262927",
   "transactions": [
+    {
+      "date": "2025-05-20",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent LHPSam Longon a rehab assignment to ACL Royals.",
+      "player": "Sam Long"
+    },
     {
       "date": "2025-05-20",
       "team": "Cleveland Guardians",
@@ -15,15 +21,9 @@
     },
     {
       "date": "2025-05-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent LHPSam Longon a rehab assignment to ACL Royals.",
-      "player": "Sam Long"
-    },
-    {
-      "date": "2025-05-20",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent RHPLucas Simsto a minor league contract.",
-      "player": "Lucas Sims"
+      "team": "Houston Astros",
+      "details": "Houston Astrostransferred RHPHayden Wesneskifrom the 15-day injured list to the 60-day injured list.",
+      "player": "Hayden Wesneski"
     },
     {
       "date": "2025-05-20",
@@ -39,15 +39,33 @@
     },
     {
       "date": "2025-05-20",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPKade Strowdto Norfolk Tides.",
-      "player": "Kade Strowd"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent RHPLucas Simsto a minor league contract.",
+      "player": "Lucas Sims"
     },
     {
       "date": "2025-05-20",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled RHPChayce McDermottfrom Norfolk Tides.",
       "player": "Chayce McDermott"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Houston Astros",
+      "details": "Houston Astrosselected the contract of LHPBrandon Walterfrom Sugar Land Space Cowboys.",
+      "player": "Brandon Walter"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPKade Strowdto Norfolk Tides.",
+      "player": "Kade Strowd"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LHPColton Gordonto Sugar Land Space Cowboys.",
+      "player": "Colton Gordon"
     }
   ]
 }
