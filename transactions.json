@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-05-20T17:22:45.998840",
+  "last_updated": "2025-05-20T18:36:18.598716",
   "transactions": [
     {
       "date": "2025-05-20",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardianssigned free agent SSMichael Turconito a minor league contract.",
       "player": "Michael Turconi"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RHPKevin Kellyon a rehab assignment to FCL Rays.",
+      "player": "Kevin Kelly"
     },
     {
       "date": "2025-05-20",
@@ -18,6 +24,30 @@
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliessigned free agent RHPLucas Simsto a minor league contract.",
       "player": "Lucas Sims"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RFJake Mangumon a rehab assignment to FCL Rays.",
+      "player": "Jake Mangum"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesreleased RHPKyle Gibson.",
+      "player": "Kyle Gibson"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPKade Strowdto Norfolk Tides.",
+      "player": "Kade Strowd"
+    },
+    {
+      "date": "2025-05-20",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPChayce McDermottfrom Norfolk Tides.",
+      "player": "Chayce McDermott"
     }
   ]
 }
