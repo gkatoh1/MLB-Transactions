@@ -1,35 +1,17 @@
 {
-  "last_updated": "2025-05-21T20:27:54.799436",
+  "last_updated": "2025-05-21T21:23:19.475821",
   "transactions": [
-    {
-      "date": "2025-05-21",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersdesignated RHPCasey Lawrencefor assignment.",
-      "player": "Casey Lawrence"
-    },
-    {
-      "date": "2025-05-21",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RHPAndrew Kittredgefrom the 15-day injured list.",
-      "player": "Andrew Kittredge"
-    },
-    {
-      "date": "2025-05-21",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated RHPForrest Whitleyfrom the 15-day injured list.",
-      "player": "Forrest Whitley"
-    },
-    {
-      "date": "2025-05-21",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated RHPJesse Hahn.",
-      "player": "Jesse Hahn"
-    },
     {
       "date": "2025-05-21",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsactivated LHPSam Mollfrom the 15-day injured list.",
       "player": "Sam Moll"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPBrandon Woodruffon a rehab assignment to Nashville Sounds.",
+      "player": "Brandon Woodruff"
     },
     {
       "date": "2025-05-21",
@@ -39,9 +21,15 @@
     },
     {
       "date": "2025-05-21",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssent RHPTyson Milleron a rehab assignment to Iowa Cubs.",
-      "player": "Tyson Miller"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced RFDylan Crewson the 10-day injured list. Left oblique strain.",
+      "player": "Dylan Crews"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPAndrew Kittredgefrom the 15-day injured list.",
+      "player": "Andrew Kittredge"
     },
     {
       "date": "2025-05-21",
@@ -57,15 +45,33 @@
     },
     {
       "date": "2025-05-21",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsplaced RFDylan Crewson the 10-day injured list. Left oblique strain.",
-      "player": "Dylan Crews"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPTyson Milleron a rehab assignment to Iowa Cubs.",
+      "player": "Tyson Miller"
     },
     {
       "date": "2025-05-21",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPChayce McDermottto Norfolk Tides.",
-      "player": "Chayce McDermott"
+      "team": "Unknown Team",
+      "details": "RHPTayler Scottelected free agency.",
+      "player": "Tayler Scott"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated RHPCasey Lawrencefor assignment.",
+      "player": "Casey Lawrence"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated RHPForrest Whitleyfrom the 15-day injured list.",
+      "player": "Forrest Whitley"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RHPJesse Hahn.",
+      "player": "Jesse Hahn"
     },
     {
       "date": "2025-05-21",
@@ -75,15 +81,21 @@
     },
     {
       "date": "2025-05-21",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled LHPDoug Nikhazyfrom Columbus Clippers.",
-      "player": "Doug Nikhazy"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled 2BMickey Gasperfrom St. Paul Saints.",
+      "player": "Mickey Gasper"
     },
     {
       "date": "2025-05-21",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPMike Burrowsfrom Indianapolis Indians.",
-      "player": "Mike Burrows"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
+      "player": "Chase Petty"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled CFRobert Hassell IIIfrom Rochester Red Wings.",
+      "player": "Robert Hassell III"
     },
     {
       "date": "2025-05-21",
@@ -99,27 +111,27 @@
     },
     {
       "date": "2025-05-21",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
-      "player": "Chase Petty"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPChayce McDermottto Norfolk Tides.",
+      "player": "Chayce McDermott"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled LHPDoug Nikhazyfrom Columbus Clippers.",
+      "player": "Doug Nikhazy"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPMike Burrowsfrom Indianapolis Indians.",
+      "player": "Mike Burrows"
     },
     {
       "date": "2025-05-21",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesoptioned RHPCarmen Mlodzinskito Indianapolis Indians.",
       "player": "Carmen Mlodzinski"
-    },
-    {
-      "date": "2025-05-21",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled 2BMickey Gasperfrom St. Paul Saints.",
-      "player": "Mickey Gasper"
-    },
-    {
-      "date": "2025-05-21",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled CFRobert Hassell IIIfrom Rochester Red Wings.",
-      "player": "Robert Hassell III"
     }
   ]
 }
