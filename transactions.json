@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-05-21T17:22:14.252345",
+  "last_updated": "2025-05-21T18:35:38.605028",
   "transactions": [
     {
       "date": "2025-05-21",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPPaul Blackburnon a rehab assignment to Syracuse Mets.",
-      "player": "Paul Blackburn"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPAndrew Kittredgefrom the 15-day injured list.",
+      "player": "Andrew Kittredge"
     },
     {
       "date": "2025-05-21",
@@ -21,9 +21,15 @@
     },
     {
       "date": "2025-05-21",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RHPAndrew Kittredgefrom the 15-day injured list.",
-      "player": "Andrew Kittredge"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated LHPSam Mollfrom the 15-day injured list.",
+      "player": "Sam Moll"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPPaul Blackburnon a rehab assignment to Syracuse Mets.",
+      "player": "Paul Blackburn"
     },
     {
       "date": "2025-05-21",
@@ -39,9 +45,33 @@
     },
     {
       "date": "2025-05-21",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPChayce McDermottto Norfolk Tides.",
+      "player": "Chayce McDermott"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPMike Burrowsfrom Indianapolis Indians.",
+      "player": "Mike Burrows"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of RHPJesse Hahnfrom Tacoma Rainiers.",
+      "player": "Jesse Hahn"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LHPBrandon Walterto Sugar Land Space Cowboys.",
+      "player": "Brandon Walter"
+    },
+    {
+      "date": "2025-05-21",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated LHPSam Mollfrom the 15-day injured list.",
-      "player": "Sam Moll"
+      "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
+      "player": "Chase Petty"
     },
     {
       "date": "2025-05-21",
@@ -52,38 +82,8 @@
     {
       "date": "2025-05-21",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
-      "player": "Chase Petty"
-    },
-    {
-      "date": "2025-05-21",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned LHPBrandon Walterto Sugar Land Space Cowboys.",
-      "player": "Brandon Walter"
-    },
-    {
-      "date": "2025-05-21",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of RHPJesse Hahnfrom Tacoma Rainiers.",
-      "player": "Jesse Hahn"
-    },
-    {
-      "date": "2025-05-21",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPChayce McDermottto Norfolk Tides.",
-      "player": "Chayce McDermott"
-    },
-    {
-      "date": "2025-05-21",
-      "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned LHPSam Mollto Louisville Bats.",
       "player": "Sam Moll"
-    },
-    {
-      "date": "2025-05-21",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPMike Burrowsfrom Indianapolis Indians.",
-      "player": "Mike Burrows"
     }
   ]
 }
