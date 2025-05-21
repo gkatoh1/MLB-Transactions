@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-05-21T14:26:18.558526",
+  "last_updated": "2025-05-21T15:28:36.183382",
   "transactions": [
+    {
+      "date": "2025-05-21",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated LHPSam Mollfrom the 15-day injured list.",
+      "player": "Sam Moll"
+    },
     {
       "date": "2025-05-21",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsactivated RHPIan Gibautfrom the 15-day injured list.",
       "player": "Ian Gibaut"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated RHPForrest Whitleyfrom the 15-day injured list.",
+      "player": "Forrest Whitley"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPAndrew Kittredgefrom the 15-day injured list.",
+      "player": "Andrew Kittredge"
     },
     {
       "date": "2025-05-21",
@@ -18,6 +36,36 @@
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
       "player": "Chase Petty"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPChayce McDermottto Norfolk Tides.",
+      "player": "Chayce McDermott"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPMike Burrowsfrom Indianapolis Indians.",
+      "player": "Mike Burrows"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPCarmen Mlodzinskito Indianapolis Indians.",
+      "player": "Carmen Mlodzinski"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned LHPSam Mollto Louisville Bats.",
+      "player": "Sam Moll"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LHPBrandon Walterto Sugar Land Space Cowboys.",
+      "player": "Brandon Walter"
     }
   ]
 }
