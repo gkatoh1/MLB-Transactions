@@ -1,4 +1,23 @@
 {
-  "last_updated": "2025-05-21T13:36:09.074205",
-  "transactions": []
+  "last_updated": "2025-05-21T14:26:18.558526",
+  "transactions": [
+    {
+      "date": "2025-05-21",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPIan Gibautfrom the 15-day injured list.",
+      "player": "Ian Gibaut"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPPaul Blackburnon a rehab assignment to Syracuse Mets.",
+      "player": "Paul Blackburn"
+    },
+    {
+      "date": "2025-05-21",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
+      "player": "Chase Petty"
+    }
+  ]
 }
