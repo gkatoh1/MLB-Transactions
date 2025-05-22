@@ -1,23 +1,11 @@
 {
-  "last_updated": "2025-05-22T17:22:38.015249",
+  "last_updated": "2025-05-22T18:35:26.901796",
   "transactions": [
     {
       "date": "2025-05-22",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent 1BChristian Encarnacion-Strandon a rehab assignment to ACL Reds.",
-      "player": "Christian Encarnacion-Strand"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent 2BThairo Estradaon a rehab assignment to Albuquerque Isotopes.",
-      "player": "Thairo Estrada"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssigned free agent RHPDariel Fregioto a minor league contract.",
-      "player": "Dariel Fregio"
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced RHPFernando Cruzon the 15-day injured list retroactive to May 19, 2025. Right shoulder inflammation.",
+      "player": "Fernando Cruz"
     },
     {
       "date": "2025-05-22",
@@ -27,9 +15,39 @@
     },
     {
       "date": "2025-05-22",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent CReese McGuireto a minor league contract.",
+      "player": "Reese McGuire"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent 2BThairo Estradaon a rehab assignment to Albuquerque Isotopes.",
+      "player": "Thairo Estrada"
+    },
+    {
+      "date": "2025-05-22",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxsigned free agent LHPP.J. Labriolato a minor league contract.",
       "player": "P.J. Labriola"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPChase Dollanderon the 15-day injured list retroactive to May 19, 2025. Right forearm tightness.",
+      "player": "Chase Dollander"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent 1BChristian Encarnacion-Strandon a rehab assignment to ACL Reds.",
+      "player": "Christian Encarnacion-Strand"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent RHPDariel Fregioto a minor league contract.",
+      "player": "Dariel Fregio"
     },
     {
       "date": "2025-05-22",
@@ -45,45 +63,9 @@
     },
     {
       "date": "2025-05-22",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced RHPFernando Cruzon the 15-day injured list retroactive to May 19, 2025. Right shoulder inflammation.",
-      "player": "Fernando Cruz"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssigned free agent CReese McGuireto a minor league contract.",
-      "player": "Reese McGuire"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPCarlos Duranfrom Las Vegas Aviators.",
-      "player": "Carlos Duran"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled LHPBrent Headrickfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Brent Headrick"
-    },
-    {
-      "date": "2025-05-22",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansoptioned LHPDoug Nikhazyto Columbus Clippers.",
       "player": "Doug Nikhazy"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Athletics",
-      "details": "Athleticsoptioned LHPMatt Krookto Las Vegas Aviators.",
-      "player": "Matt Krook"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPLyon Richardsonto Louisville Bats.",
-      "player": "Lyon Richardson"
     },
     {
       "date": "2025-05-22",
@@ -93,9 +75,45 @@
     },
     {
       "date": "2025-05-22",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPJuan Mejiafrom Albuquerque Isotopes.",
+      "player": "Juan Mejia"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Athletics",
+      "details": "Athleticsoptioned LHPMatt Krookto Las Vegas Aviators.",
+      "player": "Matt Krook"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned 3BRyan Fitzgeraldto St. Paul Saints.",
+      "player": "Ryan Fitzgerald"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPCarlos Duranfrom Las Vegas Aviators.",
+      "player": "Carlos Duran"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPLyon Richardsonto Louisville Bats.",
+      "player": "Lyon Richardson"
+    },
+    {
+      "date": "2025-05-22",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersoptioned RHPTroy Taylorto Tacoma Rainiers.",
       "player": "Troy Taylor"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled LHPBrent Headrickfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Brent Headrick"
     }
   ]
 }
