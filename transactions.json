@@ -1,36 +1,6 @@
 {
-  "last_updated": "2025-05-22T15:27:48.947408",
+  "last_updated": "2025-05-22T16:32:16.301814",
   "transactions": [
-    {
-      "date": "2025-05-22",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssigned free agent RHPDariel Fregioto a minor league contract.",
-      "player": "Dariel Fregio"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent RHPRichard Fittson a rehab assignment to Portland Sea Dogs.",
-      "player": "Richard Fitts"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssigned free agent CReese McGuireto a minor league contract.",
-      "player": "Reese McGuire"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent 2BThairo Estradaon a rehab assignment to Albuquerque Isotopes.",
-      "player": "Thairo Estrada"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsigned free agent LHPP.J. Labriolato a minor league contract.",
-      "player": "P.J. Labriola"
-    },
     {
       "date": "2025-05-22",
       "team": "Cincinnati Reds",
@@ -45,9 +15,51 @@
     },
     {
       "date": "2025-05-22",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned LHPDoug Nikhazyto Columbus Clippers.",
-      "player": "Doug Nikhazy"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned free agent LHPP.J. Labriolato a minor league contract.",
+      "player": "P.J. Labriola"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent CReese McGuireto a minor league contract.",
+      "player": "Reese McGuire"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPRichard Fittson a rehab assignment to Portland Sea Dogs.",
+      "player": "Richard Fitts"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent 2BThairo Estradaon a rehab assignment to Albuquerque Isotopes.",
+      "player": "Thairo Estrada"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent RHPDariel Fregioto a minor league contract.",
+      "player": "Dariel Fregio"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RFPedro Leónon a rehab assignment to FCL Astros.",
+      "player": "Pedro León"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RHPGeorge Kirbyfrom the 15-day injured list.",
+      "player": "George Kirby"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPTroy Taylorto Tacoma Rainiers.",
+      "player": "Troy Taylor"
     },
     {
       "date": "2025-05-22",
@@ -66,6 +78,12 @@
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsoptioned 2BMickey Gasperto St. Paul Saints.",
       "player": "Mickey Gasper"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned LHPDoug Nikhazyto Columbus Clippers.",
+      "player": "Doug Nikhazy"
     }
   ]
 }
