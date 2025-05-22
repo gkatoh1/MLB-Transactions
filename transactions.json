@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-05-22T13:36:18.785702",
+  "last_updated": "2025-05-22T14:25:54.201478",
   "transactions": [
+    {
+      "date": "2025-05-22",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPRichard Fittson a rehab assignment to Portland Sea Dogs.",
+      "player": "Richard Fitts"
+    },
     {
       "date": "2025-05-22",
       "team": "Boston Red Sox",
@@ -12,6 +18,12 @@
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned RHPLyon Richardsonto Louisville Bats.",
       "player": "Lyon Richardson"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned 2BMickey Gasperto St. Paul Saints.",
+      "player": "Mickey Gasper"
     }
   ]
 }
