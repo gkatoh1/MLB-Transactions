@@ -1,11 +1,71 @@
 {
-  "last_updated": "2025-05-22T22:25:20.905291",
+  "last_updated": "2025-05-22T23:24:07.508613",
   "transactions": [
+    {
+      "date": "2025-05-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LFColton Cowseron a rehab assignment to Aberdeen IronBirds.",
+      "player": "Colton Cowser"
+    },
     {
       "date": "2025-05-22",
       "team": "Unknown Team",
       "details": "1BDavid Villarelected free agency.",
       "player": "David Villar"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent 1BChristian Encarnacion-Strandon a rehab assignment to ACL Reds.",
+      "player": "Christian Encarnacion-Strand"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced RFWill Brennanon the 10-day injured list. Left forearm inflammation.",
+      "player": "Will Brennan"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced RHPRonel Blancoon the 15-day injured list retroactive to May 20, 2025. Right elbow inflammation.",
+      "player": "Ronel Blanco"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated CFLane Thomasfrom the 10-day injured list.",
+      "player": "Lane Thomas"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent RHPDariel Fregioto a minor league contract.",
+      "player": "Dariel Fregio"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced RHPFernando Cruzon the 15-day injured list retroactive to May 19, 2025. Right shoulder inflammation.",
+      "player": "Fernando Cruz"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent 1BAndrés Chaparroon a rehab assignment to Rochester Red Wings.",
+      "player": "Andrés Chaparro"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent LHPSam Longon a rehab assignment to Omaha Storm Chasers.",
+      "player": "Sam Long"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LFColton Cowseron a rehab assignment to Aberdeen IronBirds.",
+      "player": "Colton Cowser"
     },
     {
       "date": "2025-05-22",
@@ -15,15 +75,9 @@
     },
     {
       "date": "2025-05-22",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RFPedro Leónon a rehab assignment to FCL Astros.",
-      "player": "Pedro León"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated RHPGeorge Kirbyfrom the 15-day injured list.",
-      "player": "George Kirby"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsreleased RHPChris Stratton.",
+      "player": "Chris Stratton"
     },
     {
       "date": "2025-05-22",
@@ -33,9 +87,9 @@
     },
     {
       "date": "2025-05-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent 1BAndrés Chaparroon a rehab assignment to Rochester Red Wings.",
-      "player": "Andrés Chaparro"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent CReese McGuireto a minor league contract.",
+      "player": "Reese McGuire"
     },
     {
       "date": "2025-05-22",
@@ -63,27 +117,15 @@
     },
     {
       "date": "2025-05-22",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssigned free agent CReese McGuireto a minor league contract.",
-      "player": "Reese McGuire"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RFPedro Leónon a rehab assignment to FCL Astros.",
+      "player": "Pedro León"
     },
     {
       "date": "2025-05-22",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent 1BChristian Encarnacion-Strandon a rehab assignment to ACL Reds.",
-      "player": "Christian Encarnacion-Strand"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssigned free agent RHPDariel Fregioto a minor league contract.",
-      "player": "Dariel Fregio"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced RHPFernando Cruzon the 15-day injured list retroactive to May 19, 2025. Right shoulder inflammation.",
-      "player": "Fernando Cruz"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RHPGeorge Kirbyfrom the 15-day injured list.",
+      "player": "George Kirby"
     },
     {
       "date": "2025-05-22",
@@ -99,45 +141,27 @@
     },
     {
       "date": "2025-05-22",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansplaced RFWill Brennanon the 10-day injured list. Left forearm inflammation.",
-      "player": "Will Brennan"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced RHPRonel Blancoon the 15-day injured list retroactive to May 20, 2025. Right elbow inflammation.",
-      "player": "Ronel Blanco"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated CFLane Thomasfrom the 10-day injured list.",
-      "player": "Lane Thomas"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned LHPDoug Nikhazyto Columbus Clippers.",
-      "player": "Doug Nikhazy"
-    },
-    {
-      "date": "2025-05-22",
       "team": "Athletics",
       "details": "Athleticsrecalled RHPCarlos Duranfrom Las Vegas Aviators.",
       "player": "Carlos Duran"
     },
     {
       "date": "2025-05-22",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled LHPColton Gordonfrom Sugar Land Space Cowboys.",
-      "player": "Colton Gordon"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned 2BMickey Gasperto St. Paul Saints.",
+      "player": "Mickey Gasper"
     },
     {
       "date": "2025-05-22",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned 3BRyan Fitzgeraldto St. Paul Saints.",
-      "player": "Ryan Fitzgerald"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPEaston McGeeto Nashville Sounds.",
+      "player": "Easton McGee"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPChristian Montes De Ocato Reno Aces.",
+      "player": "Christian Montes De Oca"
     },
     {
       "date": "2025-05-22",
@@ -153,9 +177,45 @@
     },
     {
       "date": "2025-05-22",
+      "team": "Athletics",
+      "details": "Athleticsoptioned LHPMatt Krookto Las Vegas Aviators.",
+      "player": "Matt Krook"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled LHPColton Gordonfrom Sugar Land Space Cowboys.",
+      "player": "Colton Gordon"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned LHPDoug Nikhazyto Columbus Clippers.",
+      "player": "Doug Nikhazy"
+    },
+    {
+      "date": "2025-05-22",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelstraded 1BRyan NodatoBoston Red Soxfor cash.",
       "player": "Ryan Noda"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPCarlos Rodriguezfrom Nashville Sounds.",
+      "player": "Carlos Rodriguez"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned 3BRyan Fitzgeraldto St. Paul Saints.",
+      "player": "Ryan Fitzgerald"
+    },
+    {
+      "date": "2025-05-22",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPTroy Taylorto Tacoma Rainiers.",
+      "player": "Troy Taylor"
     },
     {
       "date": "2025-05-22",
@@ -168,36 +228,6 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned 1BRyan Nodato Worcester Red Sox.",
       "player": "Ryan Noda"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPCarlos Rodriguezfrom Nashville Sounds.",
-      "player": "Carlos Rodriguez"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Athletics",
-      "details": "Athleticsoptioned LHPMatt Krookto Las Vegas Aviators.",
-      "player": "Matt Krook"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned 2BMickey Gasperto St. Paul Saints.",
-      "player": "Mickey Gasper"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned RHPTroy Taylorto Tacoma Rainiers.",
-      "player": "Troy Taylor"
-    },
-    {
-      "date": "2025-05-22",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPEaston McGeeto Nashville Sounds.",
-      "player": "Easton McGee"
     }
   ]
 }
