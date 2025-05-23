@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-05-23T18:33:28.169862",
+  "last_updated": "2025-05-23T19:19:34.625406",
   "transactions": [
+    {
+      "date": "2025-05-23",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPHunter Greenefrom the 15-day injured list.",
+      "player": "Hunter Greene"
+    },
     {
       "date": "2025-05-23",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redstransferred RHPCarson Spiersfrom the 15-day injured list to the 60-day injured list. Right shoulder impingement.",
       "player": "Carson Spiers"
+    },
+    {
+      "date": "2025-05-23",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RFRonald Acuña Jr.from the 10-day injured list.",
+      "player": "Ronald Acuña Jr."
+    },
+    {
+      "date": "2025-05-23",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPRyan Brasierfrom the 15-day injured list.",
+      "player": "Ryan Brasier"
     },
     {
       "date": "2025-05-23",
@@ -15,9 +33,21 @@
     },
     {
       "date": "2025-05-23",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated RHPHunter Greenefrom the 15-day injured list.",
-      "player": "Hunter Greene"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated RHPJustin Martinezfrom the 15-day injured list.",
+      "player": "Justin Martinez"
+    },
+    {
+      "date": "2025-05-23",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RHPKevin Kellyon a rehab assignment to Durham Bulls.",
+      "player": "Kevin Kelly"
+    },
+    {
+      "date": "2025-05-23",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RFJake Mangumon a rehab assignment to Durham Bulls.",
+      "player": "Jake Mangum"
     },
     {
       "date": "2025-05-23",
@@ -45,6 +75,48 @@
     },
     {
       "date": "2025-05-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesdesignated LHPScott Alexanderfor assignment.",
+      "player": "Scott Alexander"
+    },
+    {
+      "date": "2025-05-23",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated SSOrlando Arciafor assignment.",
+      "player": "Orlando Arcia"
+    },
+    {
+      "date": "2025-05-23",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated LHPAaron Ashbyfrom the 15-day injured list.",
+      "player": "Aaron Ashby"
+    },
+    {
+      "date": "2025-05-23",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RFRece Hindsto Louisville Bats.",
+      "player": "Rece Hinds"
+    },
+    {
+      "date": "2025-05-23",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPEthan Robertsto Iowa Cubs.",
+      "player": "Ethan Roberts"
+    },
+    {
+      "date": "2025-05-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPTanner Gordonfrom Albuquerque Isotopes.",
+      "player": "Tanner Gordon"
+    },
+    {
+      "date": "2025-05-23",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPCasey Lawrenceoutright to Tacoma Rainiers.",
+      "player": "Casey Lawrence"
+    },
+    {
+      "date": "2025-05-23",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsrecalled 2BNick Loftinfrom Omaha Storm Chasers.",
       "player": "Nick Loftin"
@@ -54,6 +126,18 @@
       "team": "Washington Nationals",
       "details": "Washington Nationalsselected the contract of CFDaylen Lilefrom Rochester Red Wings.",
       "player": "Daylen Lile"
+    },
+    {
+      "date": "2025-05-23",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPCarlos Rodriguezto Nashville Sounds.",
+      "player": "Carlos Rodriguez"
+    },
+    {
+      "date": "2025-05-23",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPTristan Beckfrom Sacramento River Cats.",
+      "player": "Tristan Beck"
     }
   ]
 }
