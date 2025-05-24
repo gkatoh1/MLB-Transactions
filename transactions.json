@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-05-24T16:29:09.943411",
+  "last_updated": "2025-05-24T17:21:09.298465",
   "transactions": [
-    {
-      "date": "2025-05-24",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent CFJonny DeLucaon a rehab assignment to FCL Rays.",
-      "player": "Jonny DeLuca"
-    },
     {
       "date": "2025-05-24",
       "team": "Cincinnati Reds",
@@ -21,9 +15,33 @@
     },
     {
       "date": "2025-05-24",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent CFJonny DeLucaon a rehab assignment to FCL Rays.",
+      "player": "Jonny DeLuca"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced LFRamón Laureanoon the 10-day injured list retroactive to May 21, 2025. Left ankle sprain.",
+      "player": "Ramón Laureano"
+    },
+    {
+      "date": "2025-05-24",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxrecalled RHPCooper Criswellfrom Worcester Red Sox.",
       "player": "Cooper Criswell"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled LHPTrevor Rogersfrom Norfolk Tides.",
+      "player": "Trevor Rogers"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of 2BTerrin Vavrafrom Norfolk Tides.",
+      "player": "Terrin Vavra"
     }
   ]
 }
