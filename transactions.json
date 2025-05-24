@@ -1,17 +1,35 @@
 {
-  "last_updated": "2025-05-24T21:21:43.981848",
+  "last_updated": "2025-05-24T22:23:15.332541",
   "transactions": [
     {
       "date": "2025-05-24",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent CFJonny DeLucaon a rehab assignment to FCL Rays.",
-      "player": "Jonny DeLuca"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtransferred 1BTriston Casasfrom the 10-day injured list to the 60-day injured list.",
+      "player": "Triston Casas"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RFJake Fraleyon a rehab assignment to Louisville Bats.",
+      "player": "Jake Fraley"
     },
     {
       "date": "2025-05-24",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent LHPZach Penrodon a rehab assignment to FCL Red Sox.",
-      "player": "Zach Penrod"
+      "details": "Boston Red Soxdesignated LHPSean Newcombfor assignment.",
+      "player": "Sean Newcomb"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced 3BAlex Bregmanon the 10-day injured list. Right quad strain.",
+      "player": "Alex Bregman"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RHPYimi Garcíaon the 15-day injured list. Right shoulder impingement.",
+      "player": "Yimi García"
     },
     {
       "date": "2025-05-24",
@@ -21,15 +39,45 @@
     },
     {
       "date": "2025-05-24",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstransferred CRob Brantlyfrom the 10-day injured list to the 60-day injured list. Right lat strain.",
+      "player": "Rob Brantly"
+    },
+    {
+      "date": "2025-05-24",
       "team": "San Diego Padres",
       "details": "San Diego Padresplaced LFJason Heywardon the 10-day injured list. Left oblique strain.",
       "player": "Jason Heyward"
     },
     {
       "date": "2025-05-24",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RFJake Fraleyon a rehab assignment to Louisville Bats.",
-      "player": "Jake Fraley"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned RHPRichard Guasch.",
+      "player": "Richard Guasch"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent CFJonny DeLucaon a rehab assignment to FCL Rays.",
+      "player": "Jonny DeLuca"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated LHPCionel Pérezfor assignment.",
+      "player": "Cionel Pérez"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPSawyer Gipson-Longon a rehab assignment to Toledo Mud Hens.",
+      "player": "Sawyer Gipson-Long"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned SSRichie Martin.",
+      "player": "Richie Martin"
     },
     {
       "date": "2025-05-24",
@@ -51,6 +99,12 @@
     },
     {
       "date": "2025-05-24",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent LHPZach Penrodon a rehab assignment to FCL Red Sox.",
+      "player": "Zach Penrod"
+    },
+    {
+      "date": "2025-05-24",
       "team": "New York Mets",
       "details": "New York Metsdesignated LHPGénesis Cabrerafor assignment.",
       "player": "Génesis Cabrera"
@@ -63,21 +117,33 @@
     },
     {
       "date": "2025-05-24",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent CColin Burgessto a minor league contract.",
+      "player": "Colin Burgess"
+    },
+    {
+      "date": "2025-05-24",
       "team": "New York Mets",
       "details": "New York Metsdesignated LFJosé Azocarfor assignment.",
       "player": "José Azocar"
     },
     {
       "date": "2025-05-24",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPCooper Criswellfrom Worcester Red Sox.",
-      "player": "Cooper Criswell"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RFWenceel Pérezon a rehab assignment to Toledo Mud Hens.",
+      "player": "Wenceel Pérez"
     },
     {
       "date": "2025-05-24",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled 1BJared Youngfrom Syracuse Mets.",
-      "player": "Jared Young"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled CLuis Campusanofrom El Paso Chihuahuas.",
+      "player": "Luis Campusano"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPLake Bacharto Jacksonville Jumbo Shrimp.",
+      "player": "Lake Bachar"
     },
     {
       "date": "2025-05-24",
@@ -93,33 +159,21 @@
     },
     {
       "date": "2025-05-24",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPPaxton Schultzfrom Buffalo Bisons.",
+      "player": "Paxton Schultz"
+    },
+    {
+      "date": "2025-05-24",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansrecalled RHPNic Enrightfrom Columbus Clippers.",
       "player": "Nic Enright"
     },
     {
       "date": "2025-05-24",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerstraded SSJonathan OrnelastoAtlanta Bravesfor cash.",
-      "player": "Jonathan Ornelas"
-    },
-    {
-      "date": "2025-05-24",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsselected the contract of RHPBrooks Kriskefrom Iowa Cubs.",
-      "player": "Brooks Kriske"
-    },
-    {
-      "date": "2025-05-24",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled CLuis Campusanofrom El Paso Chihuahuas.",
-      "player": "Luis Campusano"
-    },
-    {
-      "date": "2025-05-24",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled LHPBrandon Waddellfrom Syracuse Mets.",
-      "player": "Brandon Waddell"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of RHPYaramil Hiraldofrom Norfolk Tides.",
+      "player": "Yaramil Hiraldo"
     },
     {
       "date": "2025-05-24",
@@ -129,9 +183,63 @@
     },
     {
       "date": "2025-05-24",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent CLuke Maileoutright to Omaha Storm Chasers.",
+      "player": "Luke Maile"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of SSMarcelo Mayerfrom Worcester Red Sox.",
+      "player": "Marcelo Mayer"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPCooper Criswellfrom Worcester Red Sox.",
+      "player": "Cooper Criswell"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerstraded SSJonathan OrnelastoAtlanta Bravesfor cash.",
+      "player": "Jonathan Ornelas"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled 1BJared Youngfrom Syracuse Mets.",
+      "player": "Jared Young"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled LHPBrandon Waddellfrom Syracuse Mets.",
+      "player": "Brandon Waddell"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsselected the contract of RHPBrooks Kriskefrom Iowa Cubs.",
+      "player": "Brooks Kriske"
+    },
+    {
+      "date": "2025-05-24",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned SSJonathan Ornelasto Gwinnett Stripers.",
       "player": "Jonathan Ornelas"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPLuis Guerrerofrom Worcester Red Sox.",
+      "player": "Luis Guerrero"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of RHPJanson Junkfrom Jacksonville Jumbo Shrimp.",
+      "player": "Janson Junk"
     }
   ]
 }
