@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-05-24T17:21:09.298465",
+  "last_updated": "2025-05-24T18:32:06.251342",
   "transactions": [
-    {
-      "date": "2025-05-24",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RFJake Fraleyon a rehab assignment to Louisville Bats.",
-      "player": "Jake Fraley"
-    },
-    {
-      "date": "2025-05-24",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent LHPZach Penrodon a rehab assignment to FCL Red Sox.",
-      "player": "Zach Penrod"
-    },
     {
       "date": "2025-05-24",
       "team": "Tampa Bay Rays",
@@ -28,8 +16,26 @@
     {
       "date": "2025-05-24",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPCooper Criswellfrom Worcester Red Sox.",
-      "player": "Cooper Criswell"
+      "details": "Boston Red Soxsent LHPZach Penrodon a rehab assignment to FCL Red Sox.",
+      "player": "Zach Penrod"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPFrankie Montason a rehab assignment to Brooklyn Cyclones.",
+      "player": "Frankie Montas"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RFJake Fraleyon a rehab assignment to Louisville Bats.",
+      "player": "Jake Fraley"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of 2BTerrin Vavrafrom Norfolk Tides.",
+      "player": "Terrin Vavra"
     },
     {
       "date": "2025-05-24",
@@ -39,9 +45,21 @@
     },
     {
       "date": "2025-05-24",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of 2BTerrin Vavrafrom Norfolk Tides.",
-      "player": "Terrin Vavra"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPCooper Criswellfrom Worcester Red Sox.",
+      "player": "Cooper Criswell"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned SSJonathan Ornelasto Gwinnett Stripers.",
+      "player": "Jonathan Ornelas"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerstraded SSJonathan OrnelastoAtlanta Braves.",
+      "player": "Jonathan Ornelas"
     }
   ]
 }
