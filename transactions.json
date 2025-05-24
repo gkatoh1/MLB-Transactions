@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-05-24T18:32:06.251342",
+  "last_updated": "2025-05-24T19:18:20.931083",
   "transactions": [
+    {
+      "date": "2025-05-24",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated LFJosé Azocarfor assignment.",
+      "player": "José Azocar"
+    },
     {
       "date": "2025-05-24",
       "team": "Tampa Bay Rays",
@@ -22,6 +28,18 @@
     {
       "date": "2025-05-24",
       "team": "New York Mets",
+      "details": "New York Metsdesignated LHPGénesis Cabrerafor assignment.",
+      "player": "Génesis Cabrera"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated RHPJulian Merryweatherfor assignment.",
+      "player": "Julian Merryweather"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "New York Mets",
       "details": "New York Metssent RHPFrankie Montason a rehab assignment to Brooklyn Cyclones.",
       "player": "Frankie Montas"
     },
@@ -30,6 +48,30 @@
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redssent RFJake Fraleyon a rehab assignment to Louisville Bats.",
       "player": "Jake Fraley"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPCooper Criswellfrom Worcester Red Sox.",
+      "player": "Cooper Criswell"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerstraded SSJonathan OrnelastoAtlanta Bravesfor cash.",
+      "player": "Jonathan Ornelas"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned SSJonathan Ornelasto Gwinnett Stripers.",
+      "player": "Jonathan Ornelas"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsselected the contract of RHPBrooks Kriskefrom Iowa Cubs.",
+      "player": "Brooks Kriske"
     },
     {
       "date": "2025-05-24",
@@ -42,24 +84,6 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled LHPTrevor Rogersfrom Norfolk Tides.",
       "player": "Trevor Rogers"
-    },
-    {
-      "date": "2025-05-24",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPCooper Criswellfrom Worcester Red Sox.",
-      "player": "Cooper Criswell"
-    },
-    {
-      "date": "2025-05-24",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned SSJonathan Ornelasto Gwinnett Stripers.",
-      "player": "Jonathan Ornelas"
-    },
-    {
-      "date": "2025-05-24",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerstraded SSJonathan OrnelastoAtlanta Braves.",
-      "player": "Jonathan Ornelas"
     }
   ]
 }
