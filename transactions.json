@@ -1,6 +1,42 @@
 {
-  "last_updated": "2025-05-24T20:25:32.746227",
+  "last_updated": "2025-05-24T21:21:43.981848",
   "transactions": [
+    {
+      "date": "2025-05-24",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent CFJonny DeLucaon a rehab assignment to FCL Rays.",
+      "player": "Jonny DeLuca"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent LHPZach Penrodon a rehab assignment to FCL Red Sox.",
+      "player": "Zach Penrod"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPCasey Mizefrom the 15-day injured list.",
+      "player": "Casey Mize"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresplaced LFJason Heywardon the 10-day injured list. Left oblique strain.",
+      "player": "Jason Heyward"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RFJake Fraleyon a rehab assignment to Louisville Bats.",
+      "player": "Jake Fraley"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPFrankie Montason a rehab assignment to Brooklyn Cyclones.",
+      "player": "Frankie Montas"
+    },
     {
       "date": "2025-05-24",
       "team": "Baltimore Orioles",
@@ -12,12 +48,6 @@
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansplaced RHPHunter Gaddison the bereavement list.",
       "player": "Hunter Gaddis"
-    },
-    {
-      "date": "2025-05-24",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RFJake Fraleyon a rehab assignment to Louisville Bats.",
-      "player": "Jake Fraley"
     },
     {
       "date": "2025-05-24",
@@ -39,81 +69,9 @@
     },
     {
       "date": "2025-05-24",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresplaced LFJason Heywardon the 10-day injured list. Left oblique strain.",
-      "player": "Jason Heyward"
-    },
-    {
-      "date": "2025-05-24",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent LHPZach Penrodon a rehab assignment to FCL Red Sox.",
-      "player": "Zach Penrod"
-    },
-    {
-      "date": "2025-05-24",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated RHPCasey Mizefrom the 15-day injured list.",
-      "player": "Casey Mize"
-    },
-    {
-      "date": "2025-05-24",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent CFJonny DeLucaon a rehab assignment to FCL Rays.",
-      "player": "Jonny DeLuca"
-    },
-    {
-      "date": "2025-05-24",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPFrankie Montason a rehab assignment to Brooklyn Cyclones.",
-      "player": "Frankie Montas"
-    },
-    {
-      "date": "2025-05-24",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled CLuis Campusanofrom El Paso Chihuahuas.",
-      "player": "Luis Campusano"
-    },
-    {
-      "date": "2025-05-24",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerstraded SSJonathan OrnelastoAtlanta Bravesfor cash.",
-      "player": "Jonathan Ornelas"
-    },
-    {
-      "date": "2025-05-24",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned LFAkil Baddooto Toledo Mud Hens.",
-      "player": "Akil Baddoo"
-    },
-    {
-      "date": "2025-05-24",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled LHPBrandon Waddellfrom Syracuse Mets.",
-      "player": "Brandon Waddell"
-    },
-    {
-      "date": "2025-05-24",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsselected the contract of RHPBrooks Kriskefrom Iowa Cubs.",
-      "player": "Brooks Kriske"
-    },
-    {
-      "date": "2025-05-24",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned SSJonathan Ornelasto Gwinnett Stripers.",
-      "player": "Jonathan Ornelas"
-    },
-    {
-      "date": "2025-05-24",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxrecalled RHPCooper Criswellfrom Worcester Red Sox.",
       "player": "Cooper Criswell"
-    },
-    {
-      "date": "2025-05-24",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RHPNic Enrightfrom Columbus Clippers.",
-      "player": "Nic Enright"
     },
     {
       "date": "2025-05-24",
@@ -124,14 +82,56 @@
     {
       "date": "2025-05-24",
       "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled LHPTrevor Rogersfrom Norfolk Tides.",
+      "player": "Trevor Rogers"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned LFAkil Baddooto Toledo Mud Hens.",
+      "player": "Akil Baddoo"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPNic Enrightfrom Columbus Clippers.",
+      "player": "Nic Enright"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerstraded SSJonathan OrnelastoAtlanta Bravesfor cash.",
+      "player": "Jonathan Ornelas"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsselected the contract of RHPBrooks Kriskefrom Iowa Cubs.",
+      "player": "Brooks Kriske"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled CLuis Campusanofrom El Paso Chihuahuas.",
+      "player": "Luis Campusano"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled LHPBrandon Waddellfrom Syracuse Mets.",
+      "player": "Brandon Waddell"
+    },
+    {
+      "date": "2025-05-24",
+      "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesselected the contract of 2BTerrin Vavrafrom Norfolk Tides.",
       "player": "Terrin Vavra"
     },
     {
       "date": "2025-05-24",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled LHPTrevor Rogersfrom Norfolk Tides.",
-      "player": "Trevor Rogers"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned SSJonathan Ornelasto Gwinnett Stripers.",
+      "player": "Jonathan Ornelas"
     }
   ]
 }
