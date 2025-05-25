@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-05-25T15:23:50.660439",
+  "last_updated": "2025-05-25T16:29:57.379227",
   "transactions": [
+    {
+      "date": "2025-05-25",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersdesignated CFKevin Pillarfor assignment.",
+      "player": "Kevin Pillar"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced 1BJoc Pedersonon the 10-day injured list. Right hand fracture.",
+      "player": "Joc Pederson"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced CTyler Heinemanon the 7-day injured list retroactive to May 23, 2025. Concussion.",
+      "player": "Tyler Heineman"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated LHPJosh Walkerfor assignment.",
+      "player": "Josh Walker"
+    },
     {
       "date": "2025-05-25",
       "team": "Cincinnati Reds",
@@ -10,8 +34,8 @@
     {
       "date": "2025-05-25",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPZack Kellyfrom Worcester Red Sox.",
-      "player": "Zack Kelly"
+      "details": "Boston Red Soxoptioned RHPLuis Guerreroto Worcester Red Sox.",
+      "player": "Luis Guerrero"
     },
     {
       "date": "2025-05-25",
@@ -22,8 +46,32 @@
     {
       "date": "2025-05-25",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPLuis Guerreroto Worcester Red Sox.",
-      "player": "Luis Guerrero"
+      "details": "Boston Red Soxoptioned RHPCooper Criswellto Worcester Red Sox.",
+      "player": "Cooper Criswell"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of CAli Sánchezfrom Buffalo Bisons.",
+      "player": "Ali Sánchez"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPTrevor Rogersto Norfolk Tides.",
+      "player": "Trevor Rogers"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPZack Kellyfrom Worcester Red Sox.",
+      "player": "Zack Kelly"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersselected the contract of RFAlejandro Osunafrom Round Rock Express.",
+      "player": "Alejandro Osuna"
     }
   ]
 }
