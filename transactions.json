@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-25T19:18:28.049101",
+  "last_updated": "2025-05-25T20:25:37.156711",
   "transactions": [
     {
       "date": "2025-05-25",
@@ -9,9 +9,9 @@
     },
     {
       "date": "2025-05-25",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent LFCooper Hummel.",
-      "player": "Cooper Hummel"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresplaced RHPMichael Kingon the 15-day injured list retroactive to May 22, 2025. Right shoulder inflammation.",
+      "player": "Michael King"
     },
     {
       "date": "2025-05-25",
@@ -22,8 +22,8 @@
     {
       "date": "2025-05-25",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced CTyler Heinemanon the 7-day injured list retroactive to May 23, 2025. Concussion.",
-      "player": "Tyler Heineman"
+      "details": "Toronto Blue Jayssent RHPRyan Burron a rehab assignment to Buffalo Bisons.",
+      "player": "Ryan Burr"
     },
     {
       "date": "2025-05-25",
@@ -33,9 +33,9 @@
     },
     {
       "date": "2025-05-25",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent 1BChristian Encarnacion-Strandon a rehab assignment to Louisville Bats.",
-      "player": "Christian Encarnacion-Strand"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersdesignated CFKevin Pillarfor assignment.",
+      "player": "Kevin Pillar"
     },
     {
       "date": "2025-05-25",
@@ -45,15 +45,27 @@
     },
     {
       "date": "2025-05-25",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersdesignated CFKevin Pillarfor assignment.",
-      "player": "Kevin Pillar"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced CTyler Heinemanon the 7-day injured list retroactive to May 23, 2025. Concussion.",
+      "player": "Tyler Heineman"
     },
     {
       "date": "2025-05-25",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsrecalled LHPJake Ederfrom Salt Lake Bees.",
-      "player": "Jake Eder"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPRyan Burron a rehab assignment to Buffalo Bisons.",
+      "player": "Ryan Burr"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent LFCooper Hummel.",
+      "player": "Cooper Hummel"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent 1BChristian Encarnacion-Strandon a rehab assignment to Louisville Bats.",
+      "player": "Christian Encarnacion-Strand"
     },
     {
       "date": "2025-05-25",
@@ -63,9 +75,15 @@
     },
     {
       "date": "2025-05-25",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPCooper Criswellto Worcester Red Sox.",
+      "player": "Cooper Criswell"
+    },
+    {
+      "date": "2025-05-25",
       "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned RHPCaden Danato Salt Lake Bees.",
-      "player": "Caden Dana"
+      "details": "Los Angeles Angelsrecalled LHPJake Ederfrom Salt Lake Bees.",
+      "player": "Jake Eder"
     },
     {
       "date": "2025-05-25",
@@ -75,21 +93,21 @@
     },
     {
       "date": "2025-05-25",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsselected the contract of CReese McGuirefrom Iowa Cubs.",
-      "player": "Reese McGuire"
-    },
-    {
-      "date": "2025-05-25",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPCooper Criswellto Worcester Red Sox.",
-      "player": "Cooper Criswell"
-    },
-    {
-      "date": "2025-05-25",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned RHPLuis Guerreroto Worcester Red Sox.",
       "player": "Luis Guerrero"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPCaden Danato Salt Lake Bees.",
+      "player": "Caden Dana"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled RHPDavid Morganfrom El Paso Chihuahuas.",
+      "player": "David Morgan"
     },
     {
       "date": "2025-05-25",
@@ -114,6 +132,12 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxrecalled RHPZack Kellyfrom Worcester Red Sox.",
       "player": "Zack Kelly"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsselected the contract of CReese McGuirefrom Iowa Cubs.",
+      "player": "Reese McGuire"
     }
   ]
 }
