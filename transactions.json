@@ -1,35 +1,17 @@
 {
-  "last_updated": "2025-05-25T18:32:18.107251",
+  "last_updated": "2025-05-25T19:18:28.049101",
   "transactions": [
+    {
+      "date": "2025-05-25",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced 1BJoc Pedersonon the 10-day injured list. Right hand fracture.",
+      "player": "Joc Pederson"
+    },
     {
       "date": "2025-05-25",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessigned free agent LFCooper Hummel.",
       "player": "Cooper Hummel"
-    },
-    {
-      "date": "2025-05-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced CTyler Heinemanon the 7-day injured list retroactive to May 23, 2025. Concussion.",
-      "player": "Tyler Heineman"
-    },
-    {
-      "date": "2025-05-25",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersdesignated CFKevin Pillarfor assignment.",
-      "player": "Kevin Pillar"
-    },
-    {
-      "date": "2025-05-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysdesignated LHPJosh Walkerfor assignment.",
-      "player": "Josh Walker"
-    },
-    {
-      "date": "2025-05-25",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned free agent RHPJose Cuasto a minor league contract.",
-      "player": "Jose Cuas"
     },
     {
       "date": "2025-05-25",
@@ -39,21 +21,33 @@
     },
     {
       "date": "2025-05-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced CTyler Heinemanon the 7-day injured list retroactive to May 23, 2025. Concussion.",
+      "player": "Tyler Heineman"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated LHPJosh Walkerfor assignment.",
+      "player": "Josh Walker"
+    },
+    {
+      "date": "2025-05-25",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redssent 1BChristian Encarnacion-Strandon a rehab assignment to Louisville Bats.",
       "player": "Christian Encarnacion-Strand"
     },
     {
       "date": "2025-05-25",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersplaced 1BJoc Pedersonon the 10-day injured list. Right hand fracture.",
-      "player": "Joc Pederson"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent RHPJose Cuasto a minor league contract.",
+      "player": "Jose Cuas"
     },
     {
       "date": "2025-05-25",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned RHPCaden Danato Salt Lake Bees.",
-      "player": "Caden Dana"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersdesignated CFKevin Pillarfor assignment.",
+      "player": "Kevin Pillar"
     },
     {
       "date": "2025-05-25",
@@ -63,27 +57,39 @@
     },
     {
       "date": "2025-05-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of CAli Sánchezfrom Buffalo Bisons.",
-      "player": "Ali Sánchez"
-    },
-    {
-      "date": "2025-05-25",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPLuis Guerreroto Worcester Red Sox.",
-      "player": "Luis Guerrero"
-    },
-    {
-      "date": "2025-05-25",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned LHPTrevor Rogersto Norfolk Tides.",
       "player": "Trevor Rogers"
     },
     {
       "date": "2025-05-25",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPCaden Danato Salt Lake Bees.",
+      "player": "Caden Dana"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of CAli Sánchezfrom Buffalo Bisons.",
+      "player": "Ali Sánchez"
+    },
+    {
+      "date": "2025-05-25",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsselected the contract of CReese McGuirefrom Iowa Cubs.",
       "player": "Reese McGuire"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPCooper Criswellto Worcester Red Sox.",
+      "player": "Cooper Criswell"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPLuis Guerreroto Worcester Red Sox.",
+      "player": "Luis Guerrero"
     },
     {
       "date": "2025-05-25",
@@ -108,12 +114,6 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxrecalled RHPZack Kellyfrom Worcester Red Sox.",
       "player": "Zack Kelly"
-    },
-    {
-      "date": "2025-05-25",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPCooper Criswellto Worcester Red Sox.",
-      "player": "Cooper Criswell"
     }
   ]
 }
