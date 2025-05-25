@@ -1,4 +1,23 @@
 {
-  "last_updated": "2025-05-25T13:30:00.058878",
-  "transactions": []
+  "last_updated": "2025-05-25T14:22:24.667283",
+  "transactions": [
+    {
+      "date": "2025-05-25",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent 1BChristian Encarnacion-Strandon a rehab assignment to Louisville Bats.",
+      "player": "Christian Encarnacion-Strand"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPZack Kellyfrom Worcester Red Sox.",
+      "player": "Zack Kelly"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPLuis Guerreroto Worcester Red Sox.",
+      "player": "Luis Guerrero"
+    }
+  ]
 }
