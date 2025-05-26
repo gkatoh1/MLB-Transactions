@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-05-25T23:23:42.337936",
+  "last_updated": "2025-05-26T02:07:29.925082",
   "transactions": [
-    {
-      "date": "2025-05-25",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent 1BChristian Encarnacion-Strandon a rehab assignment to Louisville Bats.",
-      "player": "Christian Encarnacion-Strand"
-    },
-    {
-      "date": "2025-05-25",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent RHPKyle Wrighton a rehab assignment to Northwest Arkansas Naturals.",
-      "player": "Kyle Wright"
-    },
     {
       "date": "2025-05-25",
       "team": "Baltimore Orioles",
@@ -45,15 +33,21 @@
     },
     {
       "date": "2025-05-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced CTyler Heinemanon the 7-day injured list retroactive to May 23, 2025. Concussion.",
-      "player": "Tyler Heineman"
-    },
-    {
-      "date": "2025-05-25",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesreleased SSOrlando Arcia.",
       "player": "Orlando Arcia"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent CAaron Antoninito a minor league contract.",
+      "player": "Aaron Antonini"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced CTyler Heinemanon the 7-day injured list retroactive to May 23, 2025. Concussion.",
+      "player": "Tyler Heineman"
     },
     {
       "date": "2025-05-25",
@@ -63,9 +57,9 @@
     },
     {
       "date": "2025-05-25",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssigned free agent CAaron Antoninito a minor league contract.",
-      "player": "Aaron Antonini"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent 1BChristian Encarnacion-Strandon a rehab assignment to Louisville Bats.",
+      "player": "Christian Encarnacion-Strand"
     },
     {
       "date": "2025-05-25",
@@ -87,6 +81,12 @@
     },
     {
       "date": "2025-05-25",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent RHPKyle Wrighton a rehab assignment to Northwest Arkansas Naturals.",
+      "player": "Kyle Wright"
+    },
+    {
+      "date": "2025-05-25",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesdesignated 2BTerrin Vavrafor assignment.",
       "player": "Terrin Vavra"
@@ -99,9 +99,21 @@
     },
     {
       "date": "2025-05-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPTrevor Rogersto Norfolk Tides.",
+      "player": "Trevor Rogers"
+    },
+    {
+      "date": "2025-05-25",
       "team": "San Diego Padres",
       "details": "San Diego Padresrecalled RHPDavid Morganfrom El Paso Chihuahuas.",
       "player": "David Morgan"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPBobby Millerto Oklahoma City Comets.",
+      "player": "Bobby Miller"
     },
     {
       "date": "2025-05-25",
@@ -117,15 +129,15 @@
     },
     {
       "date": "2025-05-25",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPAlek Jacobto El Paso Chihuahuas.",
-      "player": "Alek Jacob"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of CAli Sánchezfrom Buffalo Bisons.",
+      "player": "Ali Sánchez"
     },
     {
       "date": "2025-05-25",
       "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled LHPOmar Cruzfrom El Paso Chihuahuas.",
-      "player": "Omar Cruz"
+      "details": "San Diego Padresoptioned RHPAlek Jacobto El Paso Chihuahuas.",
+      "player": "Alek Jacob"
     },
     {
       "date": "2025-05-25",
@@ -135,21 +147,21 @@
     },
     {
       "date": "2025-05-25",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPLuis Guerreroto Worcester Red Sox.",
-      "player": "Luis Guerrero"
-    },
-    {
-      "date": "2025-05-25",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsrecalled LHPJake Ederfrom Salt Lake Bees.",
       "player": "Jake Eder"
     },
     {
       "date": "2025-05-25",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned LHPTrevor Rogersto Norfolk Tides.",
-      "player": "Trevor Rogers"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPZack Kellyfrom Worcester Red Sox.",
+      "player": "Zack Kelly"
+    },
+    {
+      "date": "2025-05-25",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled LHPOmar Cruzfrom El Paso Chihuahuas.",
+      "player": "Omar Cruz"
     },
     {
       "date": "2025-05-25",
@@ -160,26 +172,14 @@
     {
       "date": "2025-05-25",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPZack Kellyfrom Worcester Red Sox.",
-      "player": "Zack Kelly"
-    },
-    {
-      "date": "2025-05-25",
-      "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned RHPCooper Criswellto Worcester Red Sox.",
       "player": "Cooper Criswell"
     },
     {
       "date": "2025-05-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of CAli Sánchezfrom Buffalo Bisons.",
-      "player": "Ali Sánchez"
-    },
-    {
-      "date": "2025-05-25",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersoptioned RHPBobby Millerto Oklahoma City Comets.",
-      "player": "Bobby Miller"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPLuis Guerreroto Worcester Red Sox.",
+      "player": "Luis Guerrero"
     }
   ]
 }
