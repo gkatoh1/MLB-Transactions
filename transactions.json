@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-05-26T18:33:45.143345",
+  "last_updated": "2025-05-26T19:19:30.692614",
   "transactions": [
+    {
+      "date": "2025-05-26",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated LFCooper Hummelfor assignment.",
+      "player": "Cooper Hummel"
+    },
     {
       "date": "2025-05-26",
       "team": "Milwaukee Brewers",
@@ -9,9 +15,21 @@
     },
     {
       "date": "2025-05-26",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled 1BBlaine Crimfrom Round Rock Express.",
-      "player": "Blaine Crim"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent 1BDavid Fryon a rehab assignment to Columbus Clippers.",
+      "player": "David Fry"
+    },
+    {
+      "date": "2025-05-26",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned 1BCavan Biggioto Omaha Storm Chasers.",
+      "player": "Cavan Biggio"
+    },
+    {
+      "date": "2025-05-26",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of CChadwick Trompfrom Norfolk Tides.",
+      "player": "Chadwick Tromp"
     },
     {
       "date": "2025-05-26",
@@ -21,27 +39,27 @@
     },
     {
       "date": "2025-05-26",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsselected the contract of CFJohn Ravefrom Omaha Storm Chasers.",
-      "player": "John Rave"
-    },
-    {
-      "date": "2025-05-26",
       "team": "Seattle Mariners",
       "details": "Seattle Marinerssent 1BAustin Shentonoutright to Tacoma Rainiers.",
       "player": "Austin Shenton"
     },
     {
       "date": "2025-05-26",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPLogan Hendersonto Nashville Sounds.",
-      "player": "Logan Henderson"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled 1BBlaine Crimfrom Round Rock Express.",
+      "player": "Blaine Crim"
     },
     {
       "date": "2025-05-26",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned 1BCavan Biggioto Omaha Storm Chasers.",
-      "player": "Cavan Biggio"
+      "details": "Kansas City Royalsselected the contract of CFJohn Ravefrom Omaha Storm Chasers.",
+      "player": "John Rave"
+    },
+    {
+      "date": "2025-05-26",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPLogan Hendersonto Nashville Sounds.",
+      "player": "Logan Henderson"
     }
   ]
 }
