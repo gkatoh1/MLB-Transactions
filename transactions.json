@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-05-26T22:24:32.350513",
+  "last_updated": "2025-05-26T23:23:09.056162",
   "transactions": [
     {
       "date": "2025-05-26",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated LFCooper Hummelfor assignment.",
-      "player": "Cooper Hummel"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced CFDerek Hillon the 10-day injured list. Left wrist sprain.",
+      "player": "Derek Hill"
+    },
+    {
+      "date": "2025-05-26",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssigned free agent LFChris Taylor.",
+      "player": "Chris Taylor"
     },
     {
       "date": "2025-05-26",
@@ -33,21 +39,57 @@
     },
     {
       "date": "2025-05-26",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssigned free agent LFChris Taylor.",
-      "player": "Chris Taylor"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesreleased LHPScott Alexander.",
+      "player": "Scott Alexander"
     },
     {
       "date": "2025-05-26",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssent 1BAustin Shentonoutright to Tacoma Rainiers.",
-      "player": "Austin Shenton"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated LFCooper Hummelfor assignment.",
+      "player": "Cooper Hummel"
+    },
+    {
+      "date": "2025-05-26",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPBraxton Ashcraftfrom Indianapolis Indians.",
+      "player": "Braxton Ashcraft"
     },
     {
       "date": "2025-05-26",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesselected the contract of CChadwick Trompfrom Norfolk Tides.",
       "player": "Chadwick Tromp"
+    },
+    {
+      "date": "2025-05-26",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned 2BKyren Paristo Salt Lake Bees.",
+      "player": "Kyren Paris"
+    },
+    {
+      "date": "2025-05-26",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsselected the contract of CFJohn Ravefrom Omaha Storm Chasers.",
+      "player": "John Rave"
+    },
+    {
+      "date": "2025-05-26",
+      "team": "New York Mets",
+      "details": "New York Metssent LHPGénesis Cabreraoutright to Syracuse Mets.",
+      "player": "Génesis Cabrera"
+    },
+    {
+      "date": "2025-05-26",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPIsaac Mattsonto Indianapolis Indians.",
+      "player": "Isaac Mattson"
+    },
+    {
+      "date": "2025-05-26",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPJesse Hahnoutright to Tacoma Rainiers.",
+      "player": "Jesse Hahn"
     },
     {
       "date": "2025-05-26",
@@ -58,14 +100,14 @@
     {
       "date": "2025-05-26",
       "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned 2BKyren Paristo Salt Lake Bees.",
-      "player": "Kyren Paris"
+      "details": "Los Angeles Angelssent RHPShaun Andersonoutright to Salt Lake Bees.",
+      "player": "Shaun Anderson"
     },
     {
       "date": "2025-05-26",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled 1BBlaine Crimfrom Round Rock Express.",
-      "player": "Blaine Crim"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled CFVictor Mesa Jr.from Jacksonville Jumbo Shrimp.",
+      "player": "Victor Mesa Jr."
     },
     {
       "date": "2025-05-26",
@@ -75,15 +117,15 @@
     },
     {
       "date": "2025-05-26",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsselected the contract of CFJohn Ravefrom Omaha Storm Chasers.",
-      "player": "John Rave"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent 1BAustin Shentonoutright to Tacoma Rainiers.",
+      "player": "Austin Shenton"
     },
     {
       "date": "2025-05-26",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssent RHPJesse Hahnoutright to Tacoma Rainiers.",
-      "player": "Jesse Hahn"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled 1BBlaine Crimfrom Round Rock Express.",
+      "player": "Blaine Crim"
     }
   ]
 }
