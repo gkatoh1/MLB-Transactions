@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-05-26T16:30:46.458751",
+  "last_updated": "2025-05-26T17:21:27.655081",
   "transactions": [
     {
       "date": "2025-05-26",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersactivated LHPDL Hallfrom the 60-day injured list.",
       "player": "DL Hall"
+    },
+    {
+      "date": "2025-05-26",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsselected the contract of CFJohn Ravefrom Omaha Storm Chasers.",
+      "player": "John Rave"
     },
     {
       "date": "2025-05-26",
@@ -21,9 +27,9 @@
     },
     {
       "date": "2025-05-26",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsselected the contract of CFJohn Ravefrom Omaha Storm Chasers.",
-      "player": "John Rave"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled 1BBlaine Crimfrom Round Rock Express.",
+      "player": "Blaine Crim"
     }
   ]
 }
