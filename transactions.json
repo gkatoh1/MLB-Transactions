@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-26T19:19:30.692614",
+  "last_updated": "2025-05-26T20:27:06.689957",
   "transactions": [
     {
       "date": "2025-05-26",
@@ -9,21 +9,27 @@
     },
     {
       "date": "2025-05-26",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated LHPDL Hallfrom the 60-day injured list.",
-      "player": "DL Hall"
-    },
-    {
-      "date": "2025-05-26",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardianssent 1BDavid Fryon a rehab assignment to Columbus Clippers.",
       "player": "David Fry"
     },
     {
       "date": "2025-05-26",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned 1BCavan Biggioto Omaha Storm Chasers.",
-      "player": "Cavan Biggio"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated LHPDL Hallfrom the 60-day injured list.",
+      "player": "DL Hall"
+    },
+    {
+      "date": "2025-05-26",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent SSHa-Seong Kimon a rehab assignment to Durham Bulls.",
+      "player": "Ha-Seong Kim"
+    },
+    {
+      "date": "2025-05-26",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPLogan Hendersonto Nashville Sounds.",
+      "player": "Logan Henderson"
     },
     {
       "date": "2025-05-26",
@@ -33,9 +39,9 @@
     },
     {
       "date": "2025-05-26",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssent RHPJesse Hahnoutright to Tacoma Rainiers.",
-      "player": "Jesse Hahn"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned 1BCavan Biggioto Omaha Storm Chasers.",
+      "player": "Cavan Biggio"
     },
     {
       "date": "2025-05-26",
@@ -57,9 +63,9 @@
     },
     {
       "date": "2025-05-26",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPLogan Hendersonto Nashville Sounds.",
-      "player": "Logan Henderson"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPJesse Hahnoutright to Tacoma Rainiers.",
+      "player": "Jesse Hahn"
     }
   ]
 }
