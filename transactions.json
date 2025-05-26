@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-26T17:21:27.655081",
+  "last_updated": "2025-05-26T18:33:45.143345",
   "transactions": [
     {
       "date": "2025-05-26",
@@ -9,9 +9,27 @@
     },
     {
       "date": "2025-05-26",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled 1BBlaine Crimfrom Round Rock Express.",
+      "player": "Blaine Crim"
+    },
+    {
+      "date": "2025-05-26",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPJesse Hahnoutright to Tacoma Rainiers.",
+      "player": "Jesse Hahn"
+    },
+    {
+      "date": "2025-05-26",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsselected the contract of CFJohn Ravefrom Omaha Storm Chasers.",
       "player": "John Rave"
+    },
+    {
+      "date": "2025-05-26",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent 1BAustin Shentonoutright to Tacoma Rainiers.",
+      "player": "Austin Shenton"
     },
     {
       "date": "2025-05-26",
@@ -24,12 +42,6 @@
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsoptioned 1BCavan Biggioto Omaha Storm Chasers.",
       "player": "Cavan Biggio"
-    },
-    {
-      "date": "2025-05-26",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled 1BBlaine Crimfrom Round Rock Express.",
-      "player": "Blaine Crim"
     }
   ]
 }
