@@ -1,17 +1,29 @@
 {
-  "last_updated": "2025-05-27T18:34:41.678798",
+  "last_updated": "2025-05-27T19:20:10.519668",
   "transactions": [
+    {
+      "date": "2025-05-27",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent RHPDeclan Croninon a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Declan Cronin"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated RHPHunter Gaddisfrom the bereavement list.",
+      "player": "Hunter Gaddis"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated CKorey Leefrom the 10-day injured list.",
+      "player": "Korey Lee"
+    },
     {
       "date": "2025-05-27",
       "team": "Athletics",
       "details": "Athleticsdesignated LHPMatt Krookfor assignment.",
       "player": "Matt Krook"
-    },
-    {
-      "date": "2025-05-27",
-      "team": "Athletics",
-      "details": "Athleticsdesignated RHPRyan Cusickfor assignment.",
-      "player": "Ryan Cusick"
     },
     {
       "date": "2025-05-27",
@@ -27,15 +39,15 @@
     },
     {
       "date": "2025-05-27",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent RHPDeclan Croninon a rehab assignment to Jacksonville Jumbo Shrimp.",
-      "player": "Declan Cronin"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced CFJonny DeLucaon the 60-day injured list. Right shoulder strain.",
+      "player": "Jonny DeLuca"
     },
     {
       "date": "2025-05-27",
       "team": "Athletics",
-      "details": "Athleticsselected the contract of CFDrew Avansfrom Las Vegas Aviators.",
-      "player": "Drew Avans"
+      "details": "Athleticsdesignated RHPRyan Cusickfor assignment.",
+      "player": "Ryan Cusick"
     },
     {
       "date": "2025-05-27",
@@ -45,9 +57,39 @@
     },
     {
       "date": "2025-05-27",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned LHPJoey Cantilloto Columbus Clippers.",
+      "player": "Joey Cantillo"
+    },
+    {
+      "date": "2025-05-27",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesoptioned RHPAngel Chivillito Albuquerque Isotopes.",
       "player": "Angel Chivilli"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent 2BTerrin Vavraoutright to Norfolk Tides.",
+      "player": "Terrin Vavra"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxtraded CMatt ThaisstoTampa Bay Raysfor CF Dru Baker.",
+      "player": "Matt Thaiss"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxtraded C Matt Thaiss toTampa Bay Raysfor CFDru Baker.",
+      "player": "Dru Baker"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Athletics",
+      "details": "Athleticsselected the contract of CFDrew Avansfrom Las Vegas Aviators.",
+      "player": "Drew Avans"
     }
   ]
 }
