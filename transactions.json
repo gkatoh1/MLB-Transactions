@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-27T22:24:43.242128",
+  "last_updated": "2025-05-27T23:23:15.883899",
   "transactions": [
     {
       "date": "2025-05-27",
@@ -21,6 +21,24 @@
     },
     {
       "date": "2025-05-27",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent CFDane Myerson a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Dane Myers"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Athletics",
+      "details": "Athleticsplaced 1BNick Kurtzon the 10-day injured list retroactive to May 25, 2025. Strained left hip flexor.",
+      "player": "Nick Kurtz"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent SSAlan Trejoto a minor league contract.",
+      "player": "Alan Trejo"
+    },
+    {
+      "date": "2025-05-27",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersplaced CFMatt Vierlingon the 10-day injured list. Right shoulder inflammation.",
       "player": "Matt Vierling"
@@ -30,6 +48,12 @@
       "team": "Texas Rangers",
       "details": "Texas Rangerssigned free agent LFBilly McKinneyto a minor league contract.",
       "player": "Billy McKinney"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent LHPChris Murphyon a rehab assignment to Greenville Drive.",
+      "player": "Chris Murphy"
     },
     {
       "date": "2025-05-27",
@@ -51,12 +75,6 @@
     },
     {
       "date": "2025-05-27",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent LHPJose Quintanaon a rehab assignment to Wisconsin Timber Rattlers.",
-      "player": "Jose Quintana"
-    },
-    {
-      "date": "2025-05-27",
       "team": "Athletics",
       "details": "Athleticsdesignated RHPRyan Cusickfor assignment.",
       "player": "Ryan Cusick"
@@ -69,21 +87,9 @@
     },
     {
       "date": "2025-05-27",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent CFDane Myerson a rehab assignment to Jacksonville Jumbo Shrimp.",
-      "player": "Dane Myers"
-    },
-    {
-      "date": "2025-05-27",
-      "team": "Athletics",
-      "details": "Athleticsplaced 1BNick Kurtzon the 10-day injured list retroactive to May 25, 2025. Strained left hip flexor.",
-      "player": "Nick Kurtz"
-    },
-    {
-      "date": "2025-05-27",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssigned free agent SSAlan Trejoto a minor league contract.",
-      "player": "Alan Trejo"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPJose Quintanaon a rehab assignment to Wisconsin Timber Rattlers.",
+      "player": "Jose Quintana"
     },
     {
       "date": "2025-05-27",
@@ -111,24 +117,6 @@
     },
     {
       "date": "2025-05-27",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxtraded CMatt ThaisstoTampa Bay Raysfor CF Dru Baker.",
-      "player": "Matt Thaiss"
-    },
-    {
-      "date": "2025-05-27",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxtraded C Matt Thaiss toTampa Bay Raysfor CFDru Baker.",
-      "player": "Dru Baker"
-    },
-    {
-      "date": "2025-05-27",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPAngel Chivillito Albuquerque Isotopes.",
-      "player": "Angel Chivilli"
-    },
-    {
-      "date": "2025-05-27",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned RHPZack Kellyto Worcester Red Sox.",
       "player": "Zack Kelly"
@@ -147,9 +135,21 @@
     },
     {
       "date": "2025-05-27",
-      "team": "Athletics",
-      "details": "Athleticsselected the contract of CFDrew Avansfrom Las Vegas Aviators.",
-      "player": "Drew Avans"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtraded LHPSean NewcombtoAthleticsfor cash.",
+      "player": "Sean Newcomb"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxtraded CMatt ThaisstoTampa Bay Raysfor CF Dru Baker.",
+      "player": "Matt Thaiss"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxtraded C Matt Thaiss toTampa Bay Raysfor CFDru Baker.",
+      "player": "Dru Baker"
     },
     {
       "date": "2025-05-27",
@@ -159,15 +159,21 @@
     },
     {
       "date": "2025-05-27",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxtraded LHPSean NewcombtoAthleticsfor cash.",
-      "player": "Sean Newcomb"
-    },
-    {
-      "date": "2025-05-27",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansoptioned LHPJoey Cantilloto Columbus Clippers.",
       "player": "Joey Cantillo"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Athletics",
+      "details": "Athleticsselected the contract of CFDrew Avansfrom Las Vegas Aviators.",
+      "player": "Drew Avans"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPAngel Chivillito Albuquerque Isotopes.",
+      "player": "Angel Chivilli"
     }
   ]
 }
