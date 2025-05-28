@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-05-28T14:27:17.302118",
+  "last_updated": "2025-05-28T15:28:10.570045",
   "transactions": [
+    {
+      "date": "2025-05-28",
+      "team": "Athletics",
+      "details": "Athleticsactivated LHPSean Newcomb.",
+      "player": "Sean Newcomb"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated 1BAndrés Chaparrofrom the 10-day injured list.",
+      "player": "Andrés Chaparro"
+    },
     {
       "date": "2025-05-28",
       "team": "Tampa Bay Rays",
@@ -21,15 +33,33 @@
     },
     {
       "date": "2025-05-28",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned RHPNic Enrightto Columbus Clippers.",
-      "player": "Nic Enright"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPBrandon Woodruffon a rehab assignment to Wisconsin Timber Rattlers.",
+      "player": "Brandon Woodruff"
     },
     {
       "date": "2025-05-28",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansrecalled RHPAndrew Waltersfrom Columbus Clippers.",
       "player": "Andrew Walters"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPMichel Otañezto Las Vegas Aviators.",
+      "player": "Michel Otañez"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPNic Enrightto Columbus Clippers.",
+      "player": "Nic Enright"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned 1BAndrés Chaparroto Rochester Red Wings.",
+      "player": "Andrés Chaparro"
     }
   ]
 }
