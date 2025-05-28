@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-05-28T18:34:49.746077",
+  "last_updated": "2025-05-28T19:20:36.157465",
   "transactions": [
     {
       "date": "2025-05-28",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated 1BAndrés Chaparrofrom the 10-day injured list.",
-      "player": "Andrés Chaparro"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced CJoey Barton the 7-day injured list. Concussion.",
+      "player": "Joey Bart"
     },
     {
       "date": "2025-05-28",
@@ -21,15 +21,27 @@
     },
     {
       "date": "2025-05-28",
+      "team": "Athletics",
+      "details": "Athleticsactivated LHPSean Newcomb.",
+      "player": "Sean Newcomb"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated 1BAndrés Chaparrofrom the 10-day injured list.",
+      "player": "Andrés Chaparro"
+    },
+    {
+      "date": "2025-05-28",
       "team": "San Diego Padres",
       "details": "San Diego Padressent RHPMatt Waldronon a rehab assignment to El Paso Chihuahuas.",
       "player": "Matt Waldron"
     },
     {
       "date": "2025-05-28",
-      "team": "Athletics",
-      "details": "Athleticsactivated LHPSean Newcomb.",
-      "player": "Sean Newcomb"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated 1BEndy Rodríguezfrom the 10-day injured list.",
+      "player": "Endy Rodríguez"
     },
     {
       "date": "2025-05-28",
@@ -39,9 +51,15 @@
     },
     {
       "date": "2025-05-28",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled LHPKyle Hartfrom El Paso Chihuahuas.",
-      "player": "Kyle Hart"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of RHPMatt Bowmanfrom Norfolk Tides.",
+      "player": "Matt Bowman"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPMichel Otañezto Las Vegas Aviators.",
+      "player": "Michel Otañez"
     },
     {
       "date": "2025-05-28",
@@ -57,6 +75,18 @@
     },
     {
       "date": "2025-05-28",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned LHPOmar Cruzto El Paso Chihuahuas.",
+      "player": "Omar Cruz"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled LHPKyle Hartfrom El Paso Chihuahuas.",
+      "player": "Kyle Hart"
+    },
+    {
+      "date": "2025-05-28",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansrecalled RHPAndrew Waltersfrom Columbus Clippers.",
       "player": "Andrew Walters"
@@ -66,24 +96,6 @@
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned 1BAndrés Chaparroto Rochester Red Wings.",
       "player": "Andrés Chaparro"
-    },
-    {
-      "date": "2025-05-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of RHPMatt Bowmanfrom Norfolk Tides.",
-      "player": "Matt Bowman"
-    },
-    {
-      "date": "2025-05-28",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned LHPOmar Cruzto El Paso Chihuahuas.",
-      "player": "Omar Cruz"
-    },
-    {
-      "date": "2025-05-28",
-      "team": "Athletics",
-      "details": "Athleticsoptioned RHPMichel Otañezto Las Vegas Aviators.",
-      "player": "Michel Otañez"
     }
   ]
 }
