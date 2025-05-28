@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-05-28T17:23:00.008536",
+  "last_updated": "2025-05-28T18:34:49.746077",
   "transactions": [
-    {
-      "date": "2025-05-28",
-      "team": "Athletics",
-      "details": "Athleticsactivated LHPSean Newcomb.",
-      "player": "Sean Newcomb"
-    },
     {
       "date": "2025-05-28",
       "team": "Washington Nationals",
@@ -27,9 +21,51 @@
     },
     {
       "date": "2025-05-28",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent RHPMatt Waldronon a rehab assignment to El Paso Chihuahuas.",
+      "player": "Matt Waldron"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Athletics",
+      "details": "Athleticsactivated LHPSean Newcomb.",
+      "player": "Sean Newcomb"
+    },
+    {
+      "date": "2025-05-28",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerssent RHPBrandon Woodruffon a rehab assignment to Wisconsin Timber Rattlers.",
       "player": "Brandon Woodruff"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled LHPKyle Hartfrom El Paso Chihuahuas.",
+      "player": "Kyle Hart"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPNic Enrightto Columbus Clippers.",
+      "player": "Nic Enright"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPYaramil Hiraldoto Norfolk Tides.",
+      "player": "Yaramil Hiraldo"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPAndrew Waltersfrom Columbus Clippers.",
+      "player": "Andrew Walters"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned 1BAndrés Chaparroto Rochester Red Wings.",
+      "player": "Andrés Chaparro"
     },
     {
       "date": "2025-05-28",
@@ -48,36 +84,6 @@
       "team": "Athletics",
       "details": "Athleticsoptioned RHPMichel Otañezto Las Vegas Aviators.",
       "player": "Michel Otañez"
-    },
-    {
-      "date": "2025-05-28",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RHPAndrew Waltersfrom Columbus Clippers.",
-      "player": "Andrew Walters"
-    },
-    {
-      "date": "2025-05-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPYaramil Hiraldoto Norfolk Tides.",
-      "player": "Yaramil Hiraldo"
-    },
-    {
-      "date": "2025-05-28",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned RHPNic Enrightto Columbus Clippers.",
-      "player": "Nic Enright"
-    },
-    {
-      "date": "2025-05-28",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled LHPKyle Hartfrom El Paso Chihuahuas.",
-      "player": "Kyle Hart"
-    },
-    {
-      "date": "2025-05-28",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned 1BAndrés Chaparroto Rochester Red Wings.",
-      "player": "Andrés Chaparro"
     }
   ]
 }
