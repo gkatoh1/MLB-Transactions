@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-28T15:28:10.570045",
+  "last_updated": "2025-05-28T16:31:37.030161",
   "transactions": [
     {
       "date": "2025-05-28",
@@ -9,9 +9,15 @@
     },
     {
       "date": "2025-05-28",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated 1BAndrés Chaparrofrom the 10-day injured list.",
-      "player": "Andrés Chaparro"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPBrandon Woodruffon a rehab assignment to Wisconsin Timber Rattlers.",
+      "player": "Brandon Woodruff"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated CMatt Thaiss.",
+      "player": "Matt Thaiss"
     },
     {
       "date": "2025-05-28",
@@ -27,15 +33,15 @@
     },
     {
       "date": "2025-05-28",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated CMatt Thaiss.",
-      "player": "Matt Thaiss"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated 1BAndrés Chaparrofrom the 10-day injured list.",
+      "player": "Andrés Chaparro"
     },
     {
       "date": "2025-05-28",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent RHPBrandon Woodruffon a rehab assignment to Wisconsin Timber Rattlers.",
-      "player": "Brandon Woodruff"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled LHPKyle Hartfrom El Paso Chihuahuas.",
+      "player": "Kyle Hart"
     },
     {
       "date": "2025-05-28",
@@ -45,9 +51,9 @@
     },
     {
       "date": "2025-05-28",
-      "team": "Athletics",
-      "details": "Athleticsoptioned RHPMichel Otañezto Las Vegas Aviators.",
-      "player": "Michel Otañez"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned 1BAndrés Chaparroto Rochester Red Wings.",
+      "player": "Andrés Chaparro"
     },
     {
       "date": "2025-05-28",
@@ -57,9 +63,15 @@
     },
     {
       "date": "2025-05-28",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned 1BAndrés Chaparroto Rochester Red Wings.",
-      "player": "Andrés Chaparro"
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPMichel Otañezto Las Vegas Aviators.",
+      "player": "Michel Otañez"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned LHPOmar Cruzto El Paso Chihuahuas.",
+      "player": "Omar Cruz"
     }
   ]
 }
