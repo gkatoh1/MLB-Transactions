@@ -1,59 +1,11 @@
 {
-  "last_updated": "2025-05-28T20:28:15.731031",
+  "last_updated": "2025-05-28T21:23:29.109243",
   "transactions": [
     {
       "date": "2025-05-28",
-      "team": "Athletics",
-      "details": "Athleticsactivated LHPSean Newcomb.",
-      "player": "Sean Newcomb"
-    },
-    {
-      "date": "2025-05-28",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated SSCorey Seagerfrom the 10-day injured list.",
-      "player": "Corey Seager"
-    },
-    {
-      "date": "2025-05-28",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesactivated 1BEndy Rodríguezfrom the 10-day injured list.",
-      "player": "Endy Rodríguez"
-    },
-    {
-      "date": "2025-05-28",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysdesignated CBen Rortvedtfor assignment.",
-      "player": "Ben Rortvedt"
-    },
-    {
-      "date": "2025-05-28",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent RHPBrandon Woodruffon a rehab assignment to Wisconsin Timber Rattlers.",
-      "player": "Brandon Woodruff"
-    },
-    {
-      "date": "2025-05-28",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated 1BAndrés Chaparrofrom the 10-day injured list.",
-      "player": "Andrés Chaparro"
-    },
-    {
-      "date": "2025-05-28",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessigned free agent SSOrlando Arcia.",
-      "player": "Orlando Arcia"
-    },
-    {
-      "date": "2025-05-28",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressent RHPMatt Waldronon a rehab assignment to El Paso Chihuahuas.",
-      "player": "Matt Waldron"
-    },
-    {
-      "date": "2025-05-28",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssigned free agent 3BCaleb McNeelyto a minor league contract.",
-      "player": "Caleb McNeely"
+      "details": "Tampa Bay Rayssent RFTravis Jankowskion a rehab assignment to Durham Bulls.",
+      "player": "Travis Jankowski"
     },
     {
       "date": "2025-05-28",
@@ -82,20 +34,74 @@
     {
       "date": "2025-05-28",
       "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled LHPKyle Hartfrom El Paso Chihuahuas.",
-      "player": "Kyle Hart"
+      "details": "San Diego Padressent RHPMatt Waldronon a rehab assignment to El Paso Chihuahuas.",
+      "player": "Matt Waldron"
     },
     {
       "date": "2025-05-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of RHPMatt Bowmanfrom Norfolk Tides.",
-      "player": "Matt Bowman"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent 3BCaleb McNeelyto a minor league contract.",
+      "player": "Caleb McNeely"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated SSCorey Seagerfrom the 10-day injured list.",
+      "player": "Corey Seager"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssigned free agent RHPShaun Andersonto a minor league contract.",
+      "player": "Shaun Anderson"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Athletics",
+      "details": "Athleticsactivated LHPSean Newcomb.",
+      "player": "Sean Newcomb"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated CBen Rortvedtfor assignment.",
+      "player": "Ben Rortvedt"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPBrandon Woodruffon a rehab assignment to Wisconsin Timber Rattlers.",
+      "player": "Brandon Woodruff"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent 2BAndrés Giménezon a rehab assignment to Dunedin Blue Jays.",
+      "player": "Andrés Giménez"
     },
     {
       "date": "2025-05-28",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned 1BAndrés Chaparroto Rochester Red Wings.",
+      "details": "Washington Nationalsactivated 1BAndrés Chaparrofrom the 10-day injured list.",
       "player": "Andrés Chaparro"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessigned free agent SSOrlando Arcia.",
+      "player": "Orlando Arcia"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated 1BEndy Rodríguezfrom the 10-day injured list.",
+      "player": "Endy Rodríguez"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled LHPKyle Hartfrom El Paso Chihuahuas.",
+      "player": "Kyle Hart"
     },
     {
       "date": "2025-05-28",
@@ -111,9 +117,9 @@
     },
     {
       "date": "2025-05-28",
-      "team": "Athletics",
-      "details": "Athleticsoptioned RHPMichel Otañezto Las Vegas Aviators.",
-      "player": "Michel Otañez"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned LHPEvan Siskto Omaha Storm Chasers.",
+      "player": "Evan Sisk"
     },
     {
       "date": "2025-05-28",
@@ -129,27 +135,39 @@
     },
     {
       "date": "2025-05-28",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsselected the contract of RHPAndrew Hoffmannfrom Omaha Storm Chasers.",
-      "player": "Andrew Hoffmann"
-    },
-    {
-      "date": "2025-05-28",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesoptioned SSAaron Schunkto Albuquerque Isotopes.",
       "player": "Aaron Schunk"
     },
     {
       "date": "2025-05-28",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned LHPOmar Cruzto El Paso Chihuahuas.",
-      "player": "Omar Cruz"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of RHPMatt Bowmanfrom Norfolk Tides.",
+      "player": "Matt Bowman"
     },
     {
       "date": "2025-05-28",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned LHPEvan Siskto Omaha Storm Chasers.",
-      "player": "Evan Sisk"
+      "details": "Kansas City Royalsselected the contract of RHPAndrew Hoffmannfrom Omaha Storm Chasers.",
+      "player": "Andrew Hoffmann"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned 1BAndrés Chaparroto Rochester Red Wings.",
+      "player": "Andrés Chaparro"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPMichel Otañezto Las Vegas Aviators.",
+      "player": "Michel Otañez"
+    },
+    {
+      "date": "2025-05-28",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned LHPOmar Cruzto El Paso Chihuahuas.",
+      "player": "Omar Cruz"
     }
   ]
 }
