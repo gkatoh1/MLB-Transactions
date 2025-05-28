@@ -1,23 +1,65 @@
 {
-  "last_updated": "2025-05-27T23:23:15.883899",
+  "last_updated": "2025-05-28T02:04:53.102462",
   "transactions": [
     {
       "date": "2025-05-27",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent RHPDeclan Croninon a rehab assignment to Jacksonville Jumbo Shrimp.",
-      "player": "Declan Cronin"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned free agent RHPJorge Juanto a minor league contract.",
+      "player": "Jorge Juan"
     },
     {
       "date": "2025-05-27",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesactivated RHPVictor Vodnikfrom the 15-day injured list.",
-      "player": "Victor Vodnik"
+      "team": "Athletics",
+      "details": "Athleticsdesignated RHPRyan Cusickfor assignment.",
+      "player": "Ryan Cusick"
     },
     {
       "date": "2025-05-27",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated RHPHunter Gaddisfrom the bereavement list.",
-      "player": "Hunter Gaddis"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPRichard Fittsfrom the 15-day injured list.",
+      "player": "Richard Fitts"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced CFMatt Vierlingon the 10-day injured list. Right shoulder inflammation.",
+      "player": "Matt Vierling"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent LHPGarrett McDanielson a rehab assignment to ACL Angels.",
+      "player": "Garrett McDaniels"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated CKorey Leefrom the 10-day injured list.",
+      "player": "Korey Lee"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated LHPZach Penrodfrom the 60-day injured list.",
+      "player": "Zach Penrod"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent SSAlan Trejoto a minor league contract.",
+      "player": "Alan Trejo"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Athletics",
+      "details": "Athleticsdesignated LHPMatt Krookfor assignment.",
+      "player": "Matt Krook"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPErik Swansonon a rehab assignment to Buffalo Bisons.",
+      "player": "Erik Swanson"
     },
     {
       "date": "2025-05-27",
@@ -39,9 +81,27 @@
     },
     {
       "date": "2025-05-27",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersplaced CFMatt Vierlingon the 10-day injured list. Right shoulder inflammation.",
-      "player": "Matt Vierling"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPJose Quintanaon a rehab assignment to Wisconsin Timber Rattlers.",
+      "player": "Jose Quintana"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent RHPDeclan Croninon a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Declan Cronin"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated RHPVictor Vodnikfrom the 15-day injured list.",
+      "player": "Victor Vodnik"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated RHPHunter Gaddisfrom the bereavement list.",
+      "player": "Hunter Gaddis"
     },
     {
       "date": "2025-05-27",
@@ -69,51 +129,15 @@
     },
     {
       "date": "2025-05-27",
-      "team": "Athletics",
-      "details": "Athleticsdesignated LHPMatt Krookfor assignment.",
-      "player": "Matt Krook"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned free agent 3BNicky Lopezto a minor league contract.",
+      "player": "Nicky Lopez"
     },
     {
       "date": "2025-05-27",
-      "team": "Athletics",
-      "details": "Athleticsdesignated RHPRyan Cusickfor assignment.",
-      "player": "Ryan Cusick"
-    },
-    {
-      "date": "2025-05-27",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated RHPRichard Fittsfrom the 15-day injured list.",
-      "player": "Richard Fitts"
-    },
-    {
-      "date": "2025-05-27",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent LHPJose Quintanaon a rehab assignment to Wisconsin Timber Rattlers.",
-      "player": "Jose Quintana"
-    },
-    {
-      "date": "2025-05-27",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated CKorey Leefrom the 10-day injured list.",
-      "player": "Korey Lee"
-    },
-    {
-      "date": "2025-05-27",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated LHPZach Penrodfrom the 60-day injured list.",
-      "player": "Zach Penrod"
-    },
-    {
-      "date": "2025-05-27",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssigned free agent SSAlan Trejoto a minor league contract.",
-      "player": "Alan Trejo"
-    },
-    {
-      "date": "2025-05-27",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsigned free agent RHPJorge Juanto a minor league contract.",
-      "player": "Jorge Juan"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned LHPJoey Cantilloto Columbus Clippers.",
+      "player": "Joey Cantillo"
     },
     {
       "date": "2025-05-27",
@@ -141,6 +165,18 @@
     },
     {
       "date": "2025-05-27",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPAngel Chivillito Albuquerque Isotopes.",
+      "player": "Angel Chivilli"
+    },
+    {
+      "date": "2025-05-27",
+      "team": "Athletics",
+      "details": "Athleticsselected the contract of CFDrew Avansfrom Las Vegas Aviators.",
+      "player": "Drew Avans"
+    },
+    {
+      "date": "2025-05-27",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxtraded CMatt ThaisstoTampa Bay Raysfor CF Dru Baker.",
       "player": "Matt Thaiss"
@@ -156,24 +192,6 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent 2BTerrin Vavraoutright to Norfolk Tides.",
       "player": "Terrin Vavra"
-    },
-    {
-      "date": "2025-05-27",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned LHPJoey Cantilloto Columbus Clippers.",
-      "player": "Joey Cantillo"
-    },
-    {
-      "date": "2025-05-27",
-      "team": "Athletics",
-      "details": "Athleticsselected the contract of CFDrew Avansfrom Las Vegas Aviators.",
-      "player": "Drew Avans"
-    },
-    {
-      "date": "2025-05-27",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPAngel Chivillito Albuquerque Isotopes.",
-      "player": "Angel Chivilli"
     }
   ]
 }
