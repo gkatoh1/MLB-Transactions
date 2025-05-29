@@ -1,17 +1,35 @@
 {
-  "last_updated": "2025-05-29T14:25:23.802730",
+  "last_updated": "2025-05-29T15:27:18.693416",
   "transactions": [
     {
       "date": "2025-05-29",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesselected the contract of RHPBrett de Geusfrom Lehigh Valley IronPigs.",
-      "player": "Brett de Geus"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LFColton Cowseron a rehab assignment to Norfolk Tides.",
+      "player": "Colton Cowser"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent 3BJordan Westburgon a rehab assignment to Norfolk Tides.",
+      "player": "Jordan Westburg"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled LHPDylan Doddfrom Gwinnett Stripers.",
+      "player": "Dylan Dodd"
     },
     {
       "date": "2025-05-29",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsoptioned LFCarson McCuskerto St. Paul Saints.",
       "player": "Carson McCusker"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPBrett de Geusfrom Lehigh Valley IronPigs.",
+      "player": "Brett de Geus"
     }
   ]
 }
