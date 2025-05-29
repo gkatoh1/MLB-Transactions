@@ -1,11 +1,41 @@
 {
-  "last_updated": "2025-05-29T21:23:36.794119",
+  "last_updated": "2025-05-29T22:24:55.056009",
   "transactions": [
+    {
+      "date": "2025-05-29",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPLogan Gilberton a rehab assignment to Tacoma Rainiers.",
+      "player": "Logan Gilbert"
+    },
     {
       "date": "2025-05-29",
       "team": "Miami Marlins",
       "details": "Miami Marlinssent SSXavier Edwardson a rehab assignment to Jacksonville Jumbo Shrimp.",
       "player": "Xavier Edwards"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent LHPGénesis Cabrera.",
+      "player": "Génesis Cabrera"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LFColton Cowseron a rehab assignment to Norfolk Tides.",
+      "player": "Colton Cowser"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RHPKevin Kellyfrom the 15-day injured list.",
+      "player": "Kevin Kelly"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent 3BJordan Westburgon a rehab assignment to Norfolk Tides.",
+      "player": "Jordan Westburg"
     },
     {
       "date": "2025-05-29",
@@ -39,39 +69,51 @@
     },
     {
       "date": "2025-05-29",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent 3BJordan Westburgon a rehab assignment to Norfolk Tides.",
-      "player": "Jordan Westburg"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated CBlake Huntfor assignment.",
+      "player": "Blake Hunt"
     },
     {
       "date": "2025-05-29",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated RHPKevin Kellyfrom the 15-day injured list.",
-      "player": "Kevin Kelly"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent LFColton Cowseron a rehab assignment to Norfolk Tides.",
-      "player": "Colton Cowser"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled LHPDylan Doddfrom Gwinnett Stripers.",
-      "player": "Dylan Dodd"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated RHPBrooks Kriskefor assignment.",
+      "player": "Brooks Kriske"
     },
     {
       "date": "2025-05-29",
       "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned RHPBlas Castañoto Tacoma Rainiers.",
-      "player": "Blas Castaño"
+      "details": "Seattle Marinersselected the contract of RHPCasey Lawrencefrom ACL Mariners.",
+      "player": "Casey Lawrence"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPConnor Seaboldto Durham Bulls.",
+      "player": "Connor Seabold"
     },
     {
       "date": "2025-05-29",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsoptioned LFCarson McCuskerto St. Paul Saints.",
       "player": "Carson McCusker"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPLuis Meyto Louisville Bats.",
+      "player": "Luis Mey"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPMichael Petersenfrom Gwinnett Stripers.",
+      "player": "Michael Petersen"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled LHPDylan Doddfrom Gwinnett Stripers.",
+      "player": "Dylan Dodd"
     },
     {
       "date": "2025-05-29",
@@ -87,33 +129,15 @@
     },
     {
       "date": "2025-05-29",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of RHPCasey Lawrencefrom ACL Mariners.",
-      "player": "Casey Lawrence"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPMichael Petersenfrom Gwinnett Stripers.",
-      "player": "Michael Petersen"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPLuis Meyto Louisville Bats.",
-      "player": "Luis Mey"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPConnor Seaboldto Durham Bulls.",
-      "player": "Connor Seabold"
-    },
-    {
-      "date": "2025-05-29",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesrecalled RHPBrett de Geusfrom Lehigh Valley IronPigs.",
       "player": "Brett de Geus"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPBlas Castañoto Tacoma Rainiers.",
+      "player": "Blas Castaño"
     }
   ]
 }
