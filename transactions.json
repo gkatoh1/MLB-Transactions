@@ -1,17 +1,53 @@
 {
-  "last_updated": "2025-05-30T20:27:37.067131",
+  "last_updated": "2025-05-30T21:22:36.823093",
   "transactions": [
     {
       "date": "2025-05-30",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent LFCooper Hummel.",
-      "player": "Cooper Hummel"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RFJake Mangumfrom the 10-day injured list.",
+      "player": "Jake Mangum"
+    },
+    {
+      "date": "2025-05-30",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced RFStuart Fairchildon the 10-day injured list. Left pinky finger dislocation.",
+      "player": "Stuart Fairchild"
+    },
+    {
+      "date": "2025-05-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated CFDane Myersfrom the 10-day injured list.",
+      "player": "Dane Myers"
+    },
+    {
+      "date": "2025-05-30",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent OFJustin Connellto a minor league contract.",
+      "player": "Justin Connell"
+    },
+    {
+      "date": "2025-05-30",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesdesignated RFNick Martinifor assignment.",
+      "player": "Nick Martini"
+    },
+    {
+      "date": "2025-05-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RFJake Fraleyfrom the 10-day injured list.",
+      "player": "Jake Fraley"
     },
     {
       "date": "2025-05-30",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinssigned free agent RHPNick Trabacchito a minor league contract.",
       "player": "Nick Trabacchi"
+    },
+    {
+      "date": "2025-05-30",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated CFByron Buxtonfrom the 7-day injured list.",
+      "player": "Byron Buxton"
     },
     {
       "date": "2025-05-30",
@@ -33,57 +69,15 @@
     },
     {
       "date": "2025-05-30",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent LFCooper Hummel.",
+      "player": "Cooper Hummel"
+    },
+    {
+      "date": "2025-05-30",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesactivated 2BThairo Estradafrom the 60-day injured list.",
       "player": "Thairo Estrada"
-    },
-    {
-      "date": "2025-05-30",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsactivated CFDane Myersfrom the 10-day injured list.",
-      "player": "Dane Myers"
-    },
-    {
-      "date": "2025-05-30",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssigned free agent OFJustin Connellto a minor league contract.",
-      "player": "Justin Connell"
-    },
-    {
-      "date": "2025-05-30",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated RFJake Fraleyfrom the 10-day injured list.",
-      "player": "Jake Fraley"
-    },
-    {
-      "date": "2025-05-30",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced RFAnthony Santanderon the 10-day injured list. Left shoulder inflammation.",
-      "player": "Anthony Santander"
-    },
-    {
-      "date": "2025-05-30",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated RFJake Mangumfrom the 10-day injured list.",
-      "player": "Jake Mangum"
-    },
-    {
-      "date": "2025-05-30",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated CFByron Buxtonfrom the 7-day injured list.",
-      "player": "Byron Buxton"
-    },
-    {
-      "date": "2025-05-30",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesdesignated RFNick Martinifor assignment.",
-      "player": "Nick Martini"
-    },
-    {
-      "date": "2025-05-30",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced RFStuart Fairchildon the 10-day injured list. Left pinky finger dislocation.",
-      "player": "Stuart Fairchild"
     },
     {
       "date": "2025-05-30",
@@ -123,6 +117,12 @@
     },
     {
       "date": "2025-05-30",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RFAnthony Santanderon the 10-day injured list. Left shoulder inflammation.",
+      "player": "Anthony Santander"
+    },
+    {
+      "date": "2025-05-30",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsactivated RHPSeth Lugofrom the 15-day injured list.",
       "player": "Seth Lugo"
@@ -136,8 +136,14 @@
     {
       "date": "2025-05-30",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of LFJosé Azocarfrom Gwinnett Stripers.",
-      "player": "José Azocar"
+      "details": "Atlanta Bravesoptioned RHPMichael Petersento Gwinnett Stripers.",
+      "player": "Michael Petersen"
+    },
+    {
+      "date": "2025-05-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of RFHeriberto Hernandezfrom Jacksonville Jumbo Shrimp.",
+      "player": "Heriberto Hernandez"
     },
     {
       "date": "2025-05-30",
@@ -147,15 +153,15 @@
     },
     {
       "date": "2025-05-30",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned LHPBrandon Waddellto Syracuse Mets.",
-      "player": "Brandon Waddell"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of LFJosé Azocarfrom Gwinnett Stripers.",
+      "player": "José Azocar"
     },
     {
       "date": "2025-05-30",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPNick Burdifrom Worcester Red Sox.",
-      "player": "Nick Burdi"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned LHPBrandon Waddellto Syracuse Mets.",
+      "player": "Brandon Waddell"
     },
     {
       "date": "2025-05-30",
@@ -171,9 +177,15 @@
     },
     {
       "date": "2025-05-30",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPLyon Richardsonfrom Louisville Bats.",
-      "player": "Lyon Richardson"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPBrett de Geusto Lehigh Valley IronPigs.",
+      "player": "Brett de Geus"
+    },
+    {
+      "date": "2025-05-30",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPNick Burdifrom Worcester Red Sox.",
+      "player": "Nick Burdi"
     },
     {
       "date": "2025-05-30",
@@ -189,15 +201,9 @@
     },
     {
       "date": "2025-05-30",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPMichael Petersento Gwinnett Stripers.",
-      "player": "Michael Petersen"
-    },
-    {
-      "date": "2025-05-30",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsselected the contract of RFHeriberto Hernandezfrom Jacksonville Jumbo Shrimp.",
-      "player": "Heriberto Hernandez"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPLyon Richardsonfrom Louisville Bats.",
+      "player": "Lyon Richardson"
     },
     {
       "date": "2025-05-30",
