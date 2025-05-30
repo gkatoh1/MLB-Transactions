@@ -1,35 +1,17 @@
 {
-  "last_updated": "2025-05-30T02:02:28.767319",
+  "last_updated": "2025-05-30T03:45:56.898187",
   "transactions": [
     {
       "date": "2025-05-29",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RFPedro Leónon a rehab assignment to Sugar Land Space Cowboys.",
-      "player": "Pedro León"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerstransferred RHPEvan Phillipsfrom the 15-day injured list to the 60-day injured list. Right forearm discomfort.",
+      "player": "Evan Phillips"
     },
     {
       "date": "2025-05-29",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent LFColton Cowseron a rehab assignment to Norfolk Tides.",
-      "player": "Colton Cowser"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated RHPKevin Kellyfrom the 15-day injured list.",
-      "player": "Kevin Kelly"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsreleased SSTim Anderson.",
-      "player": "Tim Anderson"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsdesignated RHPBrooks Kriskefor assignment.",
-      "player": "Brooks Kriske"
+      "team": "Cincinnati Reds",
+      "details": "RHPMike Villaniroster status changed byCincinnati Reds.",
+      "player": "Mike Villani"
     },
     {
       "date": "2025-05-29",
@@ -48,30 +30,6 @@
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardianssent LHPErik Sabrowskion a rehab assignment to ACL Guardians.",
       "player": "Erik Sabrowski"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent SSXavier Edwardson a rehab assignment to Jacksonville Jumbo Shrimp.",
-      "player": "Xavier Edwards"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerstransferred RHPEvan Phillipsfrom the 15-day injured list to the 60-day injured list. Right forearm discomfort.",
-      "player": "Evan Phillips"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Cincinnati Reds",
-      "details": "RHPMike Villaniroster status changed byCincinnati Reds.",
-      "player": "Mike Villani"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssent RHPEdgardo Henriquezon a rehab assignment to Oklahoma City Comets.",
-      "player": "Edgardo Henriquez"
     },
     {
       "date": "2025-05-29",
@@ -100,8 +58,20 @@
     {
       "date": "2025-05-29",
       "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated RHPBrooks Kriskefor assignment.",
+      "player": "Brooks Kriske"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Chicago Cubs",
       "details": "Chicago Cubssigned free agent LHPGénesis Cabrera.",
       "player": "Génesis Cabrera"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RHPEdgardo Henriquezon a rehab assignment to Oklahoma City Comets.",
+      "player": "Edgardo Henriquez"
     },
     {
       "date": "2025-05-29",
@@ -117,92 +87,38 @@
     },
     {
       "date": "2025-05-29",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of RHPCasey Lawrencefrom ACL Mariners.",
-      "player": "Casey Lawrence"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redstraded RHPAlexis DíaztoLos Angeles Dodgersfor RHP Mike Villani.",
-      "player": "Alexis Díaz"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned 2BAdael Amadorto Albuquerque Isotopes.",
-      "player": "Adael Amador"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redstraded RHP Alexis Díaz toLos Angeles Dodgersfor RHPMike Villani.",
-      "player": "Mike Villani"
-    },
-    {
-      "date": "2025-05-29",
       "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned LFMatthew Lugoto Salt Lake Bees.",
-      "player": "Matthew Lugo"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled LHPDylan Doddfrom Gwinnett Stripers.",
-      "player": "Dylan Dodd"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPConnor Seaboldto Durham Bulls.",
-      "player": "Connor Seabold"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPLuis Meyto Louisville Bats.",
-      "player": "Luis Mey"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned LFCarson McCuskerto St. Paul Saints.",
-      "player": "Carson McCusker"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPBrett de Geusfrom Lehigh Valley IronPigs.",
-      "player": "Brett de Geus"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned RHPBlas Castañoto Tacoma Rainiers.",
-      "player": "Blas Castaño"
+      "details": "Los Angeles Angelsreleased SSTim Anderson.",
+      "player": "Tim Anderson"
     },
     {
       "date": "2025-05-29",
       "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned 3BGraham Pauleyto Jacksonville Jumbo Shrimp.",
-      "player": "Graham Pauley"
+      "details": "Miami Marlinssent SSXavier Edwardson a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Xavier Edwards"
     },
     {
       "date": "2025-05-29",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent RHPJoel Payampsoutright to Nashville Sounds.",
-      "player": "Joel Payamps"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RFPedro Leónon a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Pedro León"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LFColton Cowseron a rehab assignment to Norfolk Tides.",
+      "player": "Colton Cowser"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RHPKevin Kellyfrom the 15-day injured list.",
+      "player": "Kevin Kelly"
     },
     {
       "date": "2025-05-29",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansclaimed LHPMatt Krookoff waivers fromAthletics.",
-      "player": "Matt Krook"
-    },
-    {
-      "date": "2025-05-29",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned LHPMatt Krookto Columbus Clippers.",
       "player": "Matt Krook"
     },
     {
@@ -213,15 +129,105 @@
     },
     {
       "date": "2025-05-29",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent LFCooper Hummeloutright to Norfolk Tides.",
-      "player": "Cooper Hummel"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of RHPCasey Lawrencefrom ACL Mariners.",
+      "player": "Casey Lawrence"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled LHPDylan Doddfrom Gwinnett Stripers.",
+      "player": "Dylan Dodd"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPLuis Meyto Louisville Bats.",
+      "player": "Luis Mey"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystraded LHPJosh WalkertoPhiladelphia Phillies.",
+      "player": "Josh Walker"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned LHPMatt Krookto Columbus Clippers.",
+      "player": "Matt Krook"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPJoel Payampsoutright to Nashville Sounds.",
+      "player": "Joel Payamps"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPBrett de Geusfrom Lehigh Valley IronPigs.",
+      "player": "Brett de Geus"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned 2BAdael Amadorto Albuquerque Isotopes.",
+      "player": "Adael Amador"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPBlas Castañoto Tacoma Rainiers.",
+      "player": "Blas Castaño"
     },
     {
       "date": "2025-05-29",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesrecalled RHPMichael Petersenfrom Gwinnett Stripers.",
       "player": "Michael Petersen"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redstraded RHPAlexis DíaztoLos Angeles Dodgersfor RHP Mike Villani.",
+      "player": "Alexis Díaz"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned LFCarson McCuskerto St. Paul Saints.",
+      "player": "Carson McCusker"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned 3BGraham Pauleyto Jacksonville Jumbo Shrimp.",
+      "player": "Graham Pauley"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redstraded RHP Alexis Díaz toLos Angeles Dodgersfor RHPMike Villani.",
+      "player": "Mike Villani"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LFCooper Hummeloutright to Norfolk Tides.",
+      "player": "Cooper Hummel"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned LFMatthew Lugoto Salt Lake Bees.",
+      "player": "Matthew Lugo"
+    },
+    {
+      "date": "2025-05-29",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPConnor Seaboldto Durham Bulls.",
+      "player": "Connor Seabold"
     }
   ]
 }
