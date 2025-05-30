@@ -1,11 +1,41 @@
 {
-  "last_updated": "2025-05-30T17:22:30.418744",
+  "last_updated": "2025-05-30T18:35:06.148502",
   "transactions": [
     {
       "date": "2025-05-30",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessigned free agent LFCooper Hummel.",
       "player": "Cooper Hummel"
+    },
+    {
+      "date": "2025-05-30",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent RHPDan Altavilla.",
+      "player": "Dan Altavilla"
+    },
+    {
+      "date": "2025-05-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated CFDane Myersfrom the 10-day injured list.",
+      "player": "Dane Myers"
+    },
+    {
+      "date": "2025-05-30",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RFJake Mangumfrom the 10-day injured list.",
+      "player": "Jake Mangum"
+    },
+    {
+      "date": "2025-05-30",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated CFByron Buxtonfrom the 7-day injured list.",
+      "player": "Byron Buxton"
+    },
+    {
+      "date": "2025-05-30",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesdesignated RFNick Martinifor assignment.",
+      "player": "Nick Martini"
     },
     {
       "date": "2025-05-30",
@@ -21,9 +51,21 @@
     },
     {
       "date": "2025-05-30",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned free agent RHPDan Altavilla.",
-      "player": "Dan Altavilla"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsdesignated 1BMatt Mervisfor assignment.",
+      "player": "Matt Mervis"
+    },
+    {
+      "date": "2025-05-30",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated 2BThairo Estradafrom the 60-day injured list.",
+      "player": "Thairo Estrada"
+    },
+    {
+      "date": "2025-05-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsdesignated LFRonny Simonfor assignment.",
+      "player": "Ronny Simon"
     },
     {
       "date": "2025-05-30",
@@ -39,21 +81,33 @@
     },
     {
       "date": "2025-05-30",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated RFJake Mangumfrom the 10-day injured list.",
-      "player": "Jake Mangum"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesselected the contract of LFSam Hilliardfrom Albuquerque Isotopes.",
+      "player": "Sam Hilliard"
     },
     {
       "date": "2025-05-30",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned CFChandler Simpsonto Durham Bulls.",
-      "player": "Chandler Simpson"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of RFHeriberto Hernandezfrom Jacksonville Jumbo Shrimp.",
+      "player": "Heriberto Hernandez"
+    },
+    {
+      "date": "2025-05-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of SSJack Winklerfrom Jacksonville Jumbo Shrimp.",
+      "player": "Jack Winkler"
     },
     {
       "date": "2025-05-30",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsrecalled RHPLyon Richardsonfrom Louisville Bats.",
       "player": "Lyon Richardson"
+    },
+    {
+      "date": "2025-05-30",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned CFChandler Simpsonto Durham Bulls.",
+      "player": "Chandler Simpson"
     }
   ]
 }
