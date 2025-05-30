@@ -1,4 +1,23 @@
 {
-  "last_updated": "2025-05-30T14:25:53.998057",
-  "transactions": []
+  "last_updated": "2025-05-30T15:26:54.370723",
+  "transactions": [
+    {
+      "date": "2025-05-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RFJake Fraleyfrom the 10-day injured list.",
+      "player": "Jake Fraley"
+    },
+    {
+      "date": "2025-05-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced LFAustin Hayson the 10-day injured list retroactive to May 29, 2025. Left foot contusion.",
+      "player": "Austin Hays"
+    },
+    {
+      "date": "2025-05-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPLyon Richardsonfrom Louisville Bats.",
+      "player": "Lyon Richardson"
+    }
+  ]
 }
