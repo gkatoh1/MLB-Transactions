@@ -1,65 +1,17 @@
 {
-  "last_updated": "2025-05-31T21:21:51.262462",
+  "last_updated": "2025-05-31T22:23:29.594068",
   "transactions": [
     {
       "date": "2025-05-31",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsdesignated RHPJorge Lópezfor assignment.",
+      "player": "Jorge López"
+    },
+    {
+      "date": "2025-05-31",
       "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansdesignated RHPCody Boltonfor assignment.",
-      "player": "Cody Bolton"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent 1BRomy Gonzalezon a rehab assignment to Worcester Red Sox.",
-      "player": "Romy Gonzalez"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent CTyler Heinemanon a rehab assignment to Buffalo Bisons.",
-      "player": "Tyler Heineman"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesdesignated SSAaron Schunkfor assignment.",
-      "player": "Aaron Schunk"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated RHPBryce Millerfrom the 15-day injured list.",
-      "player": "Bryce Miller"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersdesignated RHPWill Kleinfor assignment.",
-      "player": "Will Klein"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysdesignated RHPJosé Ureñafor assignment.",
-      "player": "José Ureña"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced CFChas McCormickon the 10-day injured list retroactive to May 30, 2025. Left oblique strain.",
-      "player": "Chas McCormick"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RFMatt Wallnerfrom the 10-day injured list.",
-      "player": "Matt Wallner"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated CChadwick Trompfor assignment.",
-      "player": "Chadwick Tromp"
+      "details": "Cleveland Guardiansplaced RHPAndrew Walterson the 15-day injured list. Right lat strain.",
+      "player": "Andrew Walters"
     },
     {
       "date": "2025-05-31",
@@ -69,15 +21,21 @@
     },
     {
       "date": "2025-05-31",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsactivated SSXavier Edwardsfrom the 10-day injured list.",
-      "player": "Xavier Edwards"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPJosé Ferminon a rehab assignment to ACL Angels.",
+      "player": "José Fermin"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated RHPWill Kleinfor assignment.",
+      "player": "Will Klein"
     },
     {
       "date": "2025-05-31",
       "team": "Miami Marlins",
-      "details": "Miami Marlinsactivated RHPDeclan Croninfrom the 15-day injured list.",
-      "player": "Declan Cronin"
+      "details": "Miami Marlinsactivated SSXavier Edwardsfrom the 10-day injured list.",
+      "player": "Xavier Edwards"
     },
     {
       "date": "2025-05-31",
@@ -87,15 +45,9 @@
     },
     {
       "date": "2025-05-31",
-      "team": "Minnesota Twins",
-      "details": "RHPTeague Conradassigned toMinnesota Twins.",
-      "player": "Teague Conrad"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerstransferred RHPTyler Glasnowfrom the 15-day injured list to the 60-day injured list. Right shoulder inflammation.",
-      "player": "Tyler Glasnow"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent 1BRomy Gonzalezon a rehab assignment to Worcester Red Sox.",
+      "player": "Romy Gonzalez"
     },
     {
       "date": "2025-05-31",
@@ -111,21 +63,69 @@
     },
     {
       "date": "2025-05-31",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent CTyler Heinemanon a rehab assignment to Buffalo Bisons.",
+      "player": "Tyler Heineman"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansdesignated RHPCody Boltonfor assignment.",
+      "player": "Cody Bolton"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesdesignated SSAaron Schunkfor assignment.",
+      "player": "Aaron Schunk"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated RHPDeclan Croninfrom the 15-day injured list.",
+      "player": "Declan Cronin"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RHPBryce Millerfrom the 15-day injured list.",
+      "player": "Bryce Miller"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Minnesota Twins",
+      "details": "RHPTeague Conradassigned toMinnesota Twins.",
+      "player": "Teague Conrad"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated RHPJosé Ureñafor assignment.",
+      "player": "José Ureña"
+    },
+    {
+      "date": "2025-05-31",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinssigned free agent RHPTeague Conradto a minor league contract.",
       "player": "Teague Conrad"
     },
     {
       "date": "2025-05-31",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansplaced RHPAndrew Walterson the 15-day injured list. Right lat strain.",
-      "player": "Andrew Walters"
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced CFChas McCormickon the 10-day injured list retroactive to May 30, 2025. Left oblique strain.",
+      "player": "Chas McCormick"
     },
     {
       "date": "2025-05-31",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent RHPJosé Ferminon a rehab assignment to ACL Angels.",
-      "player": "José Fermin"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerstransferred RHPTyler Glasnowfrom the 15-day injured list to the 60-day injured list. Right shoulder inflammation.",
+      "player": "Tyler Glasnow"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated CChadwick Trompfor assignment.",
+      "player": "Chadwick Tromp"
     },
     {
       "date": "2025-05-31",
@@ -135,21 +135,33 @@
     },
     {
       "date": "2025-05-31",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RFMatt Wallnerfrom the 10-day injured list.",
+      "player": "Matt Wallner"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPNic Enrightfrom Columbus Clippers.",
+      "player": "Nic Enright"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LHPEaston Lucasfrom Buffalo Bisons.",
+      "player": "Easton Lucas"
+    },
+    {
+      "date": "2025-05-31",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesoptioned 1BMichael Togliato Albuquerque Isotopes.",
       "player": "Michael Toglia"
     },
     {
       "date": "2025-05-31",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsselected the contract of LFRyan Viladefrom Memphis Redbirds.",
-      "player": "Ryan Vilade"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned 2BLeo Rivasto Tacoma Rainiers.",
-      "player": "Leo Rivas"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPEduardo Salazarfrom Rochester Red Wings.",
+      "player": "Eduardo Salazar"
     },
     {
       "date": "2025-05-31",
@@ -162,24 +174,6 @@
       "team": "Athletics",
       "details": "Athleticsoptioned RHPAnthony Maldonadoto Las Vegas Aviators.",
       "player": "Anthony Maldonado"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersclaimed CChuckie Robinsonoff waivers fromLos Angeles Angels.",
-      "player": "Chuckie Robinson"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled LHPEaston Lucasfrom Buffalo Bisons.",
-      "player": "Easton Lucas"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPGordon Graceffoto Memphis Redbirds.",
-      "player": "Gordon Graceffo"
     },
     {
       "date": "2025-05-31",
@@ -201,15 +195,33 @@
     },
     {
       "date": "2025-05-31",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersclaimed CChuckie Robinsonoff waivers fromLos Angeles Angels.",
+      "player": "Chuckie Robinson"
+    },
+    {
+      "date": "2025-05-31",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesselected the contract of RFJordyn Adamsfrom Norfolk Tides.",
       "player": "Jordyn Adams"
     },
     {
       "date": "2025-05-31",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RHPNic Enrightfrom Columbus Clippers.",
-      "player": "Nic Enright"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsselected the contract of LFRyan Viladefrom Memphis Redbirds.",
+      "player": "Ryan Vilade"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned 2BLeo Rivasto Tacoma Rainiers.",
+      "player": "Leo Rivas"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPGordon Graceffoto Memphis Redbirds.",
+      "player": "Gordon Graceffo"
     },
     {
       "date": "2025-05-31",
