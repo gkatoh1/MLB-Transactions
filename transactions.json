@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-05-31T16:29:32.059080",
+  "last_updated": "2025-05-31T17:20:29.634225",
   "transactions": [
     {
       "date": "2025-05-31",
@@ -9,21 +9,15 @@
     },
     {
       "date": "2025-05-31",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced CFChas McCormickon the 10-day injured list retroactive to May 30, 2025. Left oblique strain.",
-      "player": "Chas McCormick"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated RHPDeclan Croninfrom the 15-day injured list.",
+      "player": "Declan Cronin"
     },
     {
       "date": "2025-05-31",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated CChadwick Trompfor assignment.",
-      "player": "Chadwick Tromp"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced 1BRyan Mountcastleon the 10-day injured list. Right hamstring strain.",
-      "player": "Ryan Mountcastle"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated SSXavier Edwardsfrom the 10-day injured list.",
+      "player": "Xavier Edwards"
     },
     {
       "date": "2025-05-31",
@@ -39,27 +33,63 @@
     },
     {
       "date": "2025-05-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated CChadwick Trompfor assignment.",
+      "player": "Chadwick Tromp"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent 1BRomy Gonzalezon a rehab assignment to Worcester Red Sox.",
+      "player": "Romy Gonzalez"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated RHPJosé Ureñafor assignment.",
+      "player": "José Ureña"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RFMatt Wallnerfrom the 10-day injured list.",
+      "player": "Matt Wallner"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced 1BRyan Mountcastleon the 10-day injured list. Right hamstring strain.",
+      "player": "Ryan Mountcastle"
+    },
+    {
+      "date": "2025-05-31",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinssigned free agent RHPTeague Conradto a minor league contract.",
       "player": "Teague Conrad"
     },
     {
       "date": "2025-05-31",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsselected the contract of LFRyan Viladefrom Memphis Redbirds.",
-      "player": "Ryan Vilade"
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced CFChas McCormickon the 10-day injured list retroactive to May 30, 2025. Left oblique strain.",
+      "player": "Chas McCormick"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LHPEaston Lucasfrom Buffalo Bisons.",
+      "player": "Easton Lucas"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled 3BCoby Mayofrom Norfolk Tides.",
+      "player": "Coby Mayo"
     },
     {
       "date": "2025-05-31",
       "team": "Athletics",
       "details": "Athleticsoptioned RHPAnthony Maldonadoto Las Vegas Aviators.",
       "player": "Anthony Maldonado"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled SSShay Whitcombfrom Sugar Land Space Cowboys.",
-      "player": "Shay Whitcomb"
     },
     {
       "date": "2025-05-31",
@@ -76,8 +106,26 @@
     {
       "date": "2025-05-31",
       "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPGordon Graceffoto Memphis Redbirds.",
-      "player": "Gordon Graceffo"
+      "details": "St. Louis Cardinalsselected the contract of LFRyan Viladefrom Memphis Redbirds.",
+      "player": "Ryan Vilade"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled SSShay Whitcombfrom Sugar Land Space Cowboys.",
+      "player": "Shay Whitcomb"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RFDaShawn Keirsey Jr.to St. Paul Saints.",
+      "player": "DaShawn Keirsey Jr."
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPDeclan Croninto Jacksonville Jumbo Shrimp.",
+      "player": "Declan Cronin"
     },
     {
       "date": "2025-05-31",
@@ -87,9 +135,15 @@
     },
     {
       "date": "2025-05-31",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled 3BCoby Mayofrom Norfolk Tides.",
-      "player": "Coby Mayo"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned CFVictor Mesa Jr.to Jacksonville Jumbo Shrimp.",
+      "player": "Victor Mesa Jr."
+    },
+    {
+      "date": "2025-05-31",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPGordon Graceffoto Memphis Redbirds.",
+      "player": "Gordon Graceffo"
     }
   ]
 }
