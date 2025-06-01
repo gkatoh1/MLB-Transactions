@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-06-01T13:31:27.554824",
+  "last_updated": "2025-06-01T14:22:21.751448",
   "transactions": [
     {
       "date": "2025-06-01",
       "team": "San Diego Padres",
       "details": "San Diego Padressigned free agent CMathews Sosato a minor league contract.",
       "player": "Mathews Sosa"
+    },
+    {
+      "date": "2025-06-01",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned LHPDylan Doddto Gwinnett Stripers.",
+      "player": "Dylan Dodd"
+    },
+    {
+      "date": "2025-06-01",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPBryce Elderfrom Gwinnett Stripers.",
+      "player": "Bryce Elder"
     }
   ]
 }
