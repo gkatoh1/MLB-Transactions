@@ -1,17 +1,23 @@
 {
-  "last_updated": "2025-06-01T18:32:57.431328",
+  "last_updated": "2025-06-01T19:19:11.412194",
   "transactions": [
-    {
-      "date": "2025-06-01",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced CFDaulton Varshoon the 10-day injured list. Left hamstring strain.",
-      "player": "Daulton Varsho"
-    },
     {
       "date": "2025-06-01",
       "team": "Texas Rangers",
       "details": "Texas Rangersdesignated CTucker Barnhartfor assignment.",
       "player": "Tucker Barnhart"
+    },
+    {
+      "date": "2025-06-01",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent CMathews Sosato a minor league contract.",
+      "player": "Mathews Sosa"
+    },
+    {
+      "date": "2025-06-01",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RHPEmmet Sheehanon a rehab assignment to Oklahoma City Comets.",
+      "player": "Emmet Sheehan"
     },
     {
       "date": "2025-06-01",
@@ -39,12 +45,6 @@
     },
     {
       "date": "2025-06-01",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressigned free agent CMathews Sosato a minor league contract.",
-      "player": "Mathews Sosa"
-    },
-    {
-      "date": "2025-06-01",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxdesignated CBlake Sabolfor assignment.",
       "player": "Blake Sabol"
@@ -57,15 +57,15 @@
     },
     {
       "date": "2025-06-01",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssent RHPEmmet Sheehanon a rehab assignment to Oklahoma City Comets.",
-      "player": "Emmet Sheehan"
-    },
-    {
-      "date": "2025-06-01",
       "team": "Houston Astros",
       "details": "Houston Astrostransferred RHPRonel Blancofrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
       "player": "Ronel Blanco"
+    },
+    {
+      "date": "2025-06-01",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced CFDaulton Varshoon the 10-day injured list. Left hamstring strain.",
+      "player": "Daulton Varsho"
     },
     {
       "date": "2025-06-01",
@@ -81,12 +81,6 @@
     },
     {
       "date": "2025-06-01",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxselected the contract of RFNate Eatonfrom Worcester Red Sox.",
-      "player": "Nate Eaton"
-    },
-    {
-      "date": "2025-06-01",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesrecalled RHPBryce Elderfrom Gwinnett Stripers.",
       "player": "Bryce Elder"
@@ -99,27 +93,39 @@
     },
     {
       "date": "2025-06-01",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned RHPScott McGoughto Reno Aces.",
-      "player": "Scott McGough"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
+      "player": "Seth Johnson"
     },
     {
       "date": "2025-06-01",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned LHPDylan Doddto Gwinnett Stripers.",
-      "player": "Dylan Dodd"
-    },
-    {
-      "date": "2025-06-01",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPLuis Guerrerofrom Worcester Red Sox.",
-      "player": "Luis Guerrero"
+      "team": "Houston Astros",
+      "details": "Houston Astrosselected the contract of CFJacob Meltonfrom Sugar Land Space Cowboys.",
+      "player": "Jacob Melton"
     },
     {
       "date": "2025-06-01",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysrecalled LFDavis Schneiderfrom Buffalo Bisons.",
       "player": "Davis Schneider"
+    },
+    {
+      "date": "2025-06-01",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned 1BNick Sogardto Worcester Red Sox.",
+      "player": "Nick Sogard"
+    },
+    {
+      "date": "2025-06-01",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of RFNate Eatonfrom Worcester Red Sox.",
+      "player": "Nate Eaton"
+    },
+    {
+      "date": "2025-06-01",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPScott McGoughto Reno Aces.",
+      "player": "Scott McGough"
     },
     {
       "date": "2025-06-01",
@@ -135,21 +141,15 @@
     },
     {
       "date": "2025-06-01",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned LHPDylan Doddto Gwinnett Stripers.",
+      "player": "Dylan Dodd"
+    },
+    {
+      "date": "2025-06-01",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned 1BNick Sogardto Worcester Red Sox.",
-      "player": "Nick Sogard"
-    },
-    {
-      "date": "2025-06-01",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
-      "player": "Seth Johnson"
-    },
-    {
-      "date": "2025-06-01",
-      "team": "Houston Astros",
-      "details": "Houston Astrosselected the contract of CFJacob Meltonfrom Sugar Land Space Cowboys.",
-      "player": "Jacob Melton"
+      "details": "Boston Red Soxrecalled RHPLuis Guerrerofrom Worcester Red Sox.",
+      "player": "Luis Guerrero"
     }
   ]
 }
