@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-05-31T23:23:56.229112",
+  "last_updated": "2025-06-01T02:29:44.143117",
   "transactions": [
+    {
+      "date": "2025-05-31",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated RHPWill Kleinfor assignment.",
+      "player": "Will Klein"
+    },
     {
       "date": "2025-05-31",
       "team": "Minnesota Twins",
@@ -45,15 +51,15 @@
     },
     {
       "date": "2025-05-31",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesdesignated SSAaron Schunkfor assignment.",
-      "player": "Aaron Schunk"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RHPBryce Millerfrom the 15-day injured list.",
+      "player": "Bryce Miller"
     },
     {
       "date": "2025-05-31",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysdesignated RHPJosé Ureñafor assignment.",
-      "player": "José Ureña"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned RHPTayler Scott.",
+      "player": "Tayler Scott"
     },
     {
       "date": "2025-05-31",
@@ -63,27 +69,9 @@
     },
     {
       "date": "2025-05-31",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsdesignated RHPJorge Lópezfor assignment.",
-      "player": "Jorge López"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent 1BRomy Gonzalezon a rehab assignment to Worcester Red Sox.",
-      "player": "Romy Gonzalez"
-    },
-    {
-      "date": "2025-05-31",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssent CTyler Heinemanon a rehab assignment to Buffalo Bisons.",
       "player": "Tyler Heineman"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated CChadwick Trompfor assignment.",
-      "player": "Chadwick Tromp"
     },
     {
       "date": "2025-05-31",
@@ -93,9 +81,21 @@
     },
     {
       "date": "2025-05-31",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersdesignated RHPWill Kleinfor assignment.",
-      "player": "Will Klein"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPJosé Ferminon a rehab assignment to ACL Angels.",
+      "player": "José Fermin"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent 1BRomy Gonzalezon a rehab assignment to Worcester Red Sox.",
+      "player": "Romy Gonzalez"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsdesignated RHPJorge Lópezfor assignment.",
+      "player": "Jorge López"
     },
     {
       "date": "2025-05-31",
@@ -129,129 +129,21 @@
     },
     {
       "date": "2025-05-31",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent RHPJosé Ferminon a rehab assignment to ACL Angels.",
-      "player": "José Fermin"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated RHPBryce Millerfrom the 15-day injured list.",
-      "player": "Bryce Miller"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssigned RHPTayler Scott.",
-      "player": "Tayler Scott"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesdesignated SSAaron Schunkfor assignment.",
+      "player": "Aaron Schunk"
     },
     {
       "date": "2025-05-31",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled LHPEaston Lucasfrom Buffalo Bisons.",
-      "player": "Easton Lucas"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of SSCole Youngfrom Tacoma Rainiers.",
-      "player": "Cole Young"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPOsvaldo Bidofrom Las Vegas Aviators.",
-      "player": "Osvaldo Bido"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPGordon Graceffoto Memphis Redbirds.",
-      "player": "Gordon Graceffo"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned 2BLeo Rivasto Tacoma Rainiers.",
-      "player": "Leo Rivas"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled SSShay Whitcombfrom Sugar Land Space Cowboys.",
-      "player": "Shay Whitcomb"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RFDaShawn Keirsey Jr.to St. Paul Saints.",
-      "player": "DaShawn Keirsey Jr."
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPDeclan Croninto Jacksonville Jumbo Shrimp.",
-      "player": "Declan Cronin"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned RHPCasey Leguminato Tacoma Rainiers.",
-      "player": "Casey Legumina"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsselected the contract of LFRyan Viladefrom Memphis Redbirds.",
-      "player": "Ryan Vilade"
+      "details": "Toronto Blue Jaysdesignated RHPJosé Ureñafor assignment.",
+      "player": "José Ureña"
     },
     {
       "date": "2025-05-31",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of RFJordyn Adamsfrom Norfolk Tides.",
-      "player": "Jordyn Adams"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned CFVictor Mesa Jr.to Jacksonville Jumbo Shrimp.",
-      "player": "Victor Mesa Jr."
-    },
-    {
-      "date": "2025-05-31",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPRoddery Muñozfrom Memphis Redbirds.",
-      "player": "Roddery Muñoz"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned 1BMichael Togliato Albuquerque Isotopes.",
-      "player": "Michael Toglia"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesselected the contract of 2BKeston Hiurafrom Albuquerque Isotopes.",
-      "player": "Keston Hiura"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersclaimed CChuckie Robinsonoff waivers fromLos Angeles Angels.",
-      "player": "Chuckie Robinson"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPEduardo Salazarfrom Rochester Red Wings.",
-      "player": "Eduardo Salazar"
-    },
-    {
-      "date": "2025-05-31",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RHPNic Enrightfrom Columbus Clippers.",
-      "player": "Nic Enright"
+      "details": "Baltimore Oriolesdesignated CChadwick Trompfor assignment.",
+      "player": "Chadwick Tromp"
     },
     {
       "date": "2025-05-31",
@@ -264,6 +156,120 @@
       "team": "Athletics",
       "details": "Athleticsoptioned RHPAnthony Maldonadoto Las Vegas Aviators.",
       "player": "Anthony Maldonado"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LHPEaston Lucasfrom Buffalo Bisons.",
+      "player": "Easton Lucas"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of RFJordyn Adamsfrom Norfolk Tides.",
+      "player": "Jordyn Adams"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsselected the contract of LFRyan Viladefrom Memphis Redbirds.",
+      "player": "Ryan Vilade"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPDeclan Croninto Jacksonville Jumbo Shrimp.",
+      "player": "Declan Cronin"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned 1BMichael Togliato Albuquerque Isotopes.",
+      "player": "Michael Toglia"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPEduardo Salazarfrom Rochester Red Wings.",
+      "player": "Eduardo Salazar"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LHPCionel Pérezoutright to Norfolk Tides.",
+      "player": "Cionel Pérez"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersclaimed CChuckie Robinsonoff waivers fromLos Angeles Angels.",
+      "player": "Chuckie Robinson"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPNic Enrightfrom Columbus Clippers.",
+      "player": "Nic Enright"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned 2BLeo Rivasto Tacoma Rainiers.",
+      "player": "Leo Rivas"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPOsvaldo Bidofrom Las Vegas Aviators.",
+      "player": "Osvaldo Bido"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of SSCole Youngfrom Tacoma Rainiers.",
+      "player": "Cole Young"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled SSShay Whitcombfrom Sugar Land Space Cowboys.",
+      "player": "Shay Whitcomb"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPRoddery Muñozfrom Memphis Redbirds.",
+      "player": "Roddery Muñoz"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RFDaShawn Keirsey Jr.to St. Paul Saints.",
+      "player": "DaShawn Keirsey Jr."
+    },
+    {
+      "date": "2025-05-31",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPGordon Graceffoto Memphis Redbirds.",
+      "player": "Gordon Graceffo"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned CFVictor Mesa Jr.to Jacksonville Jumbo Shrimp.",
+      "player": "Victor Mesa Jr."
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesselected the contract of 2BKeston Hiurafrom Albuquerque Isotopes.",
+      "player": "Keston Hiura"
+    },
+    {
+      "date": "2025-05-31",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPCasey Leguminato Tacoma Rainiers.",
+      "player": "Casey Legumina"
     }
   ]
 }
