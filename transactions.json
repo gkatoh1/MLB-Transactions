@@ -1,11 +1,47 @@
 {
-  "last_updated": "2025-06-02T20:28:30.919197",
+  "last_updated": "2025-06-02T21:26:31.996966",
   "transactions": [
+    {
+      "date": "2025-06-02",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated 1BRomy Gonzalezfrom the 10-day injured list.",
+      "player": "Romy Gonzalez"
+    },
     {
       "date": "2025-06-02",
       "team": "Unknown Team",
       "details": "RHPJosé Ureñaelected free agency.",
       "player": "José Ureña"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesreassigned 2BRonny Simonto the minor leagues.",
+      "player": "Ronny Simon"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent 3BJeimer Candelarioon a rehab assignment to ACL Reds.",
+      "player": "Jeimer Candelario"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced 3BYoán Moncadaon the 10-day injured list. Right knee inflammation.",
+      "player": "Yoán Moncada"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated CFParker Meadowsfrom the 60-day injured list.",
+      "player": "Parker Meadows"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated RHPRyan Cusickfor assignment.",
+      "player": "Ryan Cusick"
     },
     {
       "date": "2025-06-02",
@@ -21,45 +57,15 @@
     },
     {
       "date": "2025-06-02",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent 3BJeimer Candelarioon a rehab assignment to ACL Reds.",
-      "player": "Jeimer Candelario"
-    },
-    {
-      "date": "2025-06-02",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsplaced RHPRobert Stephensonon the 15-day injured list retroactive to May 31, 2025. Right biceps inflammation.",
       "player": "Robert Stephenson"
     },
     {
       "date": "2025-06-02",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesreassigned 2BRonny Simonto the minor leagues.",
-      "player": "Ronny Simon"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated CFParker Meadowsfrom the 60-day injured list.",
-      "player": "Parker Meadows"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsplaced 3BYoán Moncadaon the 10-day injured list. Right knee inflammation.",
-      "player": "Yoán Moncada"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated 1BRomy Gonzalezfrom the 10-day injured list.",
-      "player": "Romy Gonzalez"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersdesignated RHPRyan Cusickfor assignment.",
-      "player": "Ryan Cusick"
+      "team": "New York Mets",
+      "details": "New York Metsactivated RHPPaul Blackburnfrom the 15-day injured list.",
+      "player": "Paul Blackburn"
     },
     {
       "date": "2025-06-02",
@@ -69,15 +75,15 @@
     },
     {
       "date": "2025-06-02",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RFNate Eatonto Worcester Red Sox.",
-      "player": "Nate Eaton"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled LHPSam Aldegherifrom Rocket City Trash Pandas.",
+      "player": "Sam Aldegheri"
     },
     {
       "date": "2025-06-02",
       "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsrecalled LHPSam Aldegherifrom Rocket City Trash Pandas.",
-      "player": "Sam Aldegheri"
+      "details": "Los Angeles Angelsrecalled LFMatthew Lugofrom Salt Lake Bees.",
+      "player": "Matthew Lugo"
     },
     {
       "date": "2025-06-02",
@@ -93,9 +99,15 @@
     },
     {
       "date": "2025-06-02",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsrecalled LFMatthew Lugofrom Salt Lake Bees.",
-      "player": "Matthew Lugo"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RFNate Eatonto Worcester Red Sox.",
+      "player": "Nate Eaton"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPChris Devenskito Syracuse Mets.",
+      "player": "Chris Devenski"
     }
   ]
 }
