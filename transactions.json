@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-06-02T22:25:09.915526",
+  "last_updated": "2025-06-02T23:25:18.180922",
   "transactions": [
+    {
+      "date": "2025-06-02",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced 3BYoán Moncadaon the 10-day injured list. Right knee inflammation.",
+      "player": "Yoán Moncada"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated RHPChris Strattonfor assignment.",
+      "player": "Chris Stratton"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated CFParker Meadowsfrom the 60-day injured list.",
+      "player": "Parker Meadows"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated RHPRyan Cusickfor assignment.",
+      "player": "Ryan Cusick"
+    },
     {
       "date": "2025-06-02",
       "team": "New York Mets",
@@ -21,21 +45,15 @@
     },
     {
       "date": "2025-06-02",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesreassigned 2BRonny Simonto the minor leagues.",
-      "player": "Ronny Simon"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated RFJerar Encarnacionfrom the 60-day injured list.",
+      "player": "Jerar Encarnacion"
     },
     {
       "date": "2025-06-02",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated 1BRomy Gonzalezfrom the 10-day injured list.",
-      "player": "Romy Gonzalez"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Athletics",
-      "details": "Athleticsplaced LFMiguel Andujaron the 10-day injured list. Strained right oblique.",
-      "player": "Miguel Andujar"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent LFTaylor Trammellon a rehab assignment to FCL Astros.",
+      "player": "Taylor Trammell"
     },
     {
       "date": "2025-06-02",
@@ -46,14 +64,8 @@
     {
       "date": "2025-06-02",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesdesignated RHPTanner Raineyfor assignment.",
-      "player": "Tanner Rainey"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsplaced RHPRobert Stephensonon the 15-day injured list retroactive to May 31, 2025. Right biceps inflammation.",
-      "player": "Robert Stephenson"
+      "details": "Pittsburgh Piratesreassigned 2BRonny Simonto the minor leagues.",
+      "player": "Ronny Simon"
     },
     {
       "date": "2025-06-02",
@@ -75,45 +87,33 @@
     },
     {
       "date": "2025-06-02",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersdesignated RHPRyan Cusickfor assignment.",
-      "player": "Ryan Cusick"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent LFTaylor Trammellon a rehab assignment to FCL Astros.",
-      "player": "Taylor Trammell"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsplaced 3BYoán Moncadaon the 10-day injured list. Right knee inflammation.",
-      "player": "Yoán Moncada"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersdesignated RHPChris Strattonfor assignment.",
-      "player": "Chris Stratton"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated CFParker Meadowsfrom the 60-day injured list.",
-      "player": "Parker Meadows"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled RHPRyan Loutosfrom Oklahoma City Comets.",
-      "player": "Ryan Loutos"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated 1BRomy Gonzalezfrom the 10-day injured list.",
+      "player": "Romy Gonzalez"
     },
     {
       "date": "2025-06-02",
       "team": "Athletics",
-      "details": "Athleticsrecalled RHPElvis Alvaradofrom Las Vegas Aviators.",
-      "player": "Elvis Alvarado"
+      "details": "Athleticsplaced LFMiguel Andujaron the 10-day injured list. Strained right oblique.",
+      "player": "Miguel Andujar"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RHPEmmet Sheehanon a rehab assignment to ACL Dodgers.",
+      "player": "Emmet Sheehan"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated RHPTanner Raineyfor assignment.",
+      "player": "Tanner Rainey"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced RHPRobert Stephensonon the 15-day injured list retroactive to May 31, 2025. Right biceps inflammation.",
+      "player": "Robert Stephenson"
     },
     {
       "date": "2025-06-02",
@@ -123,21 +123,15 @@
     },
     {
       "date": "2025-06-02",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent 1BMatt Mervisoutright to Jacksonville Jumbo Shrimp.",
-      "player": "Matt Mervis"
-    },
-    {
-      "date": "2025-06-02",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesclaimed 2BRonny Simonoff waivers fromMiami Marlins.",
       "player": "Ronny Simon"
     },
     {
       "date": "2025-06-02",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersoptioned RHPNoah Davisto Oklahoma City Comets.",
-      "player": "Noah Davis"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent 1BMatt Mervisoutright to Jacksonville Jumbo Shrimp.",
+      "player": "Matt Mervis"
     },
     {
       "date": "2025-06-02",
@@ -147,33 +141,9 @@
     },
     {
       "date": "2025-06-02",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned RFJustyn-Henry Malloyto Toledo Mud Hens.",
-      "player": "Justyn-Henry Malloy"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RFNate Eatonto Worcester Red Sox.",
-      "player": "Nate Eaton"
-    },
-    {
-      "date": "2025-06-02",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsoptioned CFDairon Blancoto Omaha Storm Chasers.",
       "player": "Dairon Blanco"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPChris Devenskito Syracuse Mets.",
-      "player": "Chris Devenski"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned 2BRonny Simonto Indianapolis Indians.",
-      "player": "Ronny Simon"
     },
     {
       "date": "2025-06-02",
@@ -201,15 +171,63 @@
     },
     {
       "date": "2025-06-02",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent CChadwick Trompoutright to Norfolk Tides.",
+      "player": "Chadwick Tromp"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RFLuis Matosto Sacramento River Cats.",
+      "player": "Luis Matos"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned 2BRonny Simonto Indianapolis Indians.",
+      "player": "Ronny Simon"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RFJustyn-Henry Malloyto Toledo Mud Hens.",
+      "player": "Justyn-Henry Malloy"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RFNate Eatonto Worcester Red Sox.",
+      "player": "Nate Eaton"
+    },
+    {
+      "date": "2025-06-02",
       "team": "Athletics",
       "details": "Athleticsrecalled CFJJ Bledayfrom Las Vegas Aviators.",
       "player": "JJ Bleday"
     },
     {
       "date": "2025-06-02",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent CChadwick Trompoutright to Norfolk Tides.",
-      "player": "Chadwick Tromp"
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPElvis Alvaradofrom Las Vegas Aviators.",
+      "player": "Elvis Alvarado"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPNoah Davisto Oklahoma City Comets.",
+      "player": "Noah Davis"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPRyan Loutosfrom Oklahoma City Comets.",
+      "player": "Ryan Loutos"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPChris Devenskito Syracuse Mets.",
+      "player": "Chris Devenski"
     }
   ]
 }
