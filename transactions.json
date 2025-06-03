@@ -1,30 +1,6 @@
 {
-  "last_updated": "2025-06-03T19:20:13.259510",
+  "last_updated": "2025-06-03T20:28:59.189711",
   "transactions": [
-    {
-      "date": "2025-06-03",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced RHPLuke Weaveron the 15-day injured list retroactive to June 1, 2025. Left hamstring strain.",
-      "player": "Luke Weaver"
-    },
-    {
-      "date": "2025-06-03",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced RHPZach Agnoson the bereavement list.",
-      "player": "Zach Agnos"
-    },
-    {
-      "date": "2025-06-03",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated 2BJazz Chisholm Jr.from the 10-day injured list.",
-      "player": "Jazz Chisholm Jr."
-    },
-    {
-      "date": "2025-06-03",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent RHPJake Cousinson a rehab assignment to Hudson Valley Renegades.",
-      "player": "Jake Cousins"
-    },
     {
       "date": "2025-06-03",
       "team": "Arizona Diamondbacks",
@@ -40,6 +16,12 @@
     {
       "date": "2025-06-03",
       "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPZach Agnoson the bereavement list.",
+      "player": "Zach Agnos"
+    },
+    {
+      "date": "2025-06-03",
+      "team": "Colorado Rockies",
       "details": "Colorado Rockiesactivated RHPChase Dollanderfrom the 15-day injured list.",
       "player": "Chase Dollander"
     },
@@ -48,6 +30,12 @@
       "team": "New York Yankees",
       "details": "New York Yankeesdesignated RHPCarlos Carrascofor assignment.",
       "player": "Carlos Carrasco"
+    },
+    {
+      "date": "2025-06-03",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated CAli Sánchezfor assignment.",
+      "player": "Ali Sánchez"
     },
     {
       "date": "2025-06-03",
@@ -69,6 +57,12 @@
     },
     {
       "date": "2025-06-03",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPJake Cousinson a rehab assignment to Hudson Valley Renegades.",
+      "player": "Jake Cousins"
+    },
+    {
+      "date": "2025-06-03",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsreassigned LHPJoe La Sorsato the minor leagues.",
       "player": "Joe La Sorsa"
@@ -81,27 +75,51 @@
     },
     {
       "date": "2025-06-03",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated 2BMichael Stefanicfor assignment.",
+      "player": "Michael Stefanic"
+    },
+    {
+      "date": "2025-06-03",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesactivated 2BNick Gonzalesfrom the 60-day injured list.",
       "player": "Nick Gonzales"
     },
     {
       "date": "2025-06-03",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPAngel Chivillifrom Albuquerque Isotopes.",
-      "player": "Angel Chivilli"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated CTyler Heinemanfrom the 7-day injured list.",
+      "player": "Tyler Heineman"
     },
     {
       "date": "2025-06-03",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent 1BNick Solakoutright to Indianapolis Indians.",
-      "player": "Nick Solak"
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced RHPLuke Weaveron the 15-day injured list retroactive to June 1, 2025. Left hamstring strain.",
+      "player": "Luke Weaver"
     },
     {
       "date": "2025-06-03",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled LHPTommy Henryfrom Reno Aces.",
-      "player": "Tommy Henry"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced RHPMax Meyeron the 15-day injured list. Left hip impingement.",
+      "player": "Max Meyer"
+    },
+    {
+      "date": "2025-06-03",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RHPJonathan Cannonon the 15-day injured list. Lower back strain.",
+      "player": "Jonathan Cannon"
+    },
+    {
+      "date": "2025-06-03",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated 2BAndrés Giménezfrom the 10-day injured list.",
+      "player": "Andrés Giménez"
+    },
+    {
+      "date": "2025-06-03",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated 2BJazz Chisholm Jr.from the 10-day injured list.",
+      "player": "Jazz Chisholm Jr."
     },
     {
       "date": "2025-06-03",
@@ -111,9 +129,9 @@
     },
     {
       "date": "2025-06-03",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPKyle Nicolasfrom Indianapolis Indians.",
-      "player": "Kyle Nicolas"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPAngel Chivillifrom Albuquerque Isotopes.",
+      "player": "Angel Chivilli"
     },
     {
       "date": "2025-06-03",
@@ -126,6 +144,48 @@
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned 2BJorbit Vivasto Scranton/Wilkes-Barre RailRiders.",
       "player": "Jorbit Vivas"
+    },
+    {
+      "date": "2025-06-03",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPKyle Nicolasfrom Indianapolis Indians.",
+      "player": "Kyle Nicolas"
+    },
+    {
+      "date": "2025-06-03",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled LHPTommy Henryfrom Reno Aces.",
+      "player": "Tommy Henry"
+    },
+    {
+      "date": "2025-06-03",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPCaleb Freemanfrom Charlotte Knights.",
+      "player": "Caleb Freeman"
+    },
+    {
+      "date": "2025-06-03",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPGeorge Sorianofrom Jacksonville Jumbo Shrimp.",
+      "player": "George Soriano"
+    },
+    {
+      "date": "2025-06-03",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent 1BNick Solakoutright to Indianapolis Indians.",
+      "player": "Nick Solak"
+    },
+    {
+      "date": "2025-06-03",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned CFDairon Blancoto Omaha Storm Chasers.",
+      "player": "Dairon Blanco"
+    },
+    {
+      "date": "2025-06-03",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsselected the contract of 1BJac Caglianonefrom Omaha Storm Chasers.",
+      "player": "Jac Caglianone"
     }
   ]
 }
