@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-06-03T02:06:42.084921",
+  "last_updated": "2025-06-03T03:49:31.190998",
   "transactions": [
-    {
-      "date": "2025-06-02",
-      "team": "Unknown Team",
-      "details": "RHPJosé Ureñaelected free agency.",
-      "player": "José Ureña"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated LFColton Cowserfrom the 60-day injured list.",
-      "player": "Colton Cowser"
-    },
     {
       "date": "2025-06-02",
       "team": "Los Angeles Angels",
@@ -36,6 +24,12 @@
       "team": "Detroit Tigers",
       "details": "Detroit Tigersdesignated RHPRyan Cusickfor assignment.",
       "player": "Ryan Cusick"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "New York Mets",
+      "details": "New York Metsactivated RHPPaul Blackburnfrom the 15-day injured list.",
+      "player": "Paul Blackburn"
     },
     {
       "date": "2025-06-02",
@@ -69,33 +63,9 @@
     },
     {
       "date": "2025-06-02",
-      "team": "New York Mets",
-      "details": "New York Metsactivated RHPPaul Blackburnfrom the 15-day injured list.",
-      "player": "Paul Blackburn"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsactivated RFJerar Encarnacionfrom the 60-day injured list.",
-      "player": "Jerar Encarnacion"
-    },
-    {
-      "date": "2025-06-02",
       "team": "Houston Astros",
       "details": "Houston Astrossent LFTaylor Trammellon a rehab assignment to FCL Astros.",
       "player": "Taylor Trammell"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesdesignated RHPTanner Raineyfor assignment.",
-      "player": "Tanner Rainey"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsplaced RHPRobert Stephensonon the 15-day injured list retroactive to May 31, 2025. Right biceps inflammation.",
-      "player": "Robert Stephenson"
     },
     {
       "date": "2025-06-02",
@@ -111,21 +81,57 @@
     },
     {
       "date": "2025-06-02",
+      "team": "Unknown Team",
+      "details": "RHPJosé Ureñaelected free agency.",
+      "player": "José Ureña"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated LFColton Cowserfrom the 60-day injured list.",
+      "player": "Colton Cowser"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated RFJerar Encarnacionfrom the 60-day injured list.",
+      "player": "Jerar Encarnacion"
+    },
+    {
+      "date": "2025-06-02",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesdesignated RFCooper Hummelfor assignment.",
       "player": "Cooper Hummel"
     },
     {
       "date": "2025-06-02",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled RHPRyan Loutosfrom Oklahoma City Comets.",
-      "player": "Ryan Loutos"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated RHPTanner Raineyfor assignment.",
+      "player": "Tanner Rainey"
     },
     {
       "date": "2025-06-02",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent CChadwick Trompoutright to Norfolk Tides.",
-      "player": "Chadwick Tromp"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced RHPRobert Stephensonon the 15-day injured list retroactive to May 31, 2025. Right biceps inflammation.",
+      "player": "Robert Stephenson"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesclaimed 2BRonny Simonoff waivers fromMiami Marlins.",
+      "player": "Ronny Simon"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RFNate Eatonto Worcester Red Sox.",
+      "player": "Nate Eaton"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPNoah Davisto Oklahoma City Comets.",
+      "player": "Noah Davis"
     },
     {
       "date": "2025-06-02",
@@ -136,20 +142,14 @@
     {
       "date": "2025-06-02",
       "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsrecalled LHPSam Aldegherifrom Rocket City Trash Pandas.",
-      "player": "Sam Aldegheri"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned CFDairon Blancoto Omaha Storm Chasers.",
-      "player": "Dairon Blanco"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsrecalled LFMatthew Lugofrom Salt Lake Bees.",
       "player": "Matthew Lugo"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent CChadwick Trompoutright to Norfolk Tides.",
+      "player": "Chadwick Tromp"
     },
     {
       "date": "2025-06-02",
@@ -165,8 +165,26 @@
     },
     {
       "date": "2025-06-02",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPRyan Loutosfrom Oklahoma City Comets.",
+      "player": "Ryan Loutos"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned CFDairon Blancoto Omaha Storm Chasers.",
+      "player": "Dairon Blanco"
+    },
+    {
+      "date": "2025-06-02",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RFLuis Matosto Sacramento River Cats.",
+      "player": "Luis Matos"
+    },
+    {
+      "date": "2025-06-02",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesclaimed 2BRonny Simonoff waivers fromMiami Marlins.",
+      "details": "Pittsburgh Piratesoptioned 2BRonny Simonto Indianapolis Indians.",
       "player": "Ronny Simon"
     },
     {
@@ -177,9 +195,9 @@
     },
     {
       "date": "2025-06-02",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned RFLuis Matosto Sacramento River Cats.",
-      "player": "Luis Matos"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled LHPSam Aldegherifrom Rocket City Trash Pandas.",
+      "player": "Sam Aldegheri"
     },
     {
       "date": "2025-06-02",
@@ -210,24 +228,6 @@
       "team": "Colorado Rockies",
       "details": "Colorado Rockiessent RFNick Martinioutright to Albuquerque Isotopes.",
       "player": "Nick Martini"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RFNate Eatonto Worcester Red Sox.",
-      "player": "Nate Eaton"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned 2BRonny Simonto Indianapolis Indians.",
-      "player": "Ronny Simon"
-    },
-    {
-      "date": "2025-06-02",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersoptioned RHPNoah Davisto Oklahoma City Comets.",
-      "player": "Noah Davis"
     }
   ]
 }
