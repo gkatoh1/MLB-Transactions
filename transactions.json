@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-06-03T15:29:32.615189",
+  "last_updated": "2025-06-03T16:34:44.231561",
   "transactions": [
+    {
+      "date": "2025-06-03",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsreassigned LHPJoe La Sorsato the minor leagues.",
+      "player": "Joe La Sorsa"
+    },
     {
       "date": "2025-06-03",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssent RHPNick Sandlinon a rehab assignment to FCL Blue Jays.",
       "player": "Nick Sandlin"
+    },
+    {
+      "date": "2025-06-03",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of LHPJoe La Sorsafrom Louisville Bats.",
+      "player": "Joe La Sorsa"
     }
   ]
 }
