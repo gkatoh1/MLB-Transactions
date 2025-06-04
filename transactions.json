@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-06-04T20:22:29.695106",
+  "last_updated": "2025-06-04T21:20:00.976019",
   "transactions": [
-    {
-      "date": "2025-06-04",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxtransferred RHPMiguel Castrofrom the 15-day injured list to the 60-day injured list. Patellar tendon tear in his right knee.",
-      "player": "Miguel Castro"
-    },
     {
       "date": "2025-06-04",
       "team": "St. Louis Cardinals",
@@ -15,27 +9,21 @@
     },
     {
       "date": "2025-06-04",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesplaced RHPZack Wheeleron the paternity list.",
-      "player": "Zack Wheeler"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced 2BLenyn Sosaon the 10-day injured list. Right hip flexor strain.",
+      "player": "Lenyn Sosa"
     },
     {
       "date": "2025-06-04",
       "team": "Texas Rangers",
-      "details": "Texas Rangersactivated RHPKumar Rockerfrom the 15-day injured list.",
-      "player": "Kumar Rocker"
+      "details": "Texas Rangerssigned free agent CTucker Barnhartto a minor league contract.",
+      "player": "Tucker Barnhart"
     },
     {
       "date": "2025-06-04",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent LHPAustin Gomberon a rehab assignment to Hartford Yard Goats.",
-      "player": "Austin Gomber"
-    },
-    {
-      "date": "2025-06-04",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated RHPKumar Rockerfrom the 15-day injured list.",
-      "player": "Kumar Rocker"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssigned free agent 1BDominic Smith.",
+      "player": "Dominic Smith"
     },
     {
       "date": "2025-06-04",
@@ -51,15 +39,21 @@
     },
     {
       "date": "2025-06-04",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssigned free agent CTucker Barnhartto a minor league contract.",
-      "player": "Tucker Barnhart"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent CGary Sánchezon a rehab assignment to Norfolk Tides.",
+      "player": "Gary Sánchez"
     },
     {
       "date": "2025-06-04",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced 2BLenyn Sosaon the 10-day injured list. Right hip flexor strain.",
-      "player": "Lenyn Sosa"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced RHPZack Wheeleron the paternity list.",
+      "player": "Zack Wheeler"
+    },
+    {
+      "date": "2025-06-04",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated RHPKumar Rockerfrom the 15-day injured list.",
+      "player": "Kumar Rocker"
     },
     {
       "date": "2025-06-04",
@@ -69,9 +63,21 @@
     },
     {
       "date": "2025-06-04",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned free agent 1BDominic Smith.",
-      "player": "Dominic Smith"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LFRamón Laureanoon a rehab assignment to Norfolk Tides.",
+      "player": "Ramón Laureano"
+    },
+    {
+      "date": "2025-06-04",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent LHPAustin Gomberon a rehab assignment to Hartford Yard Goats.",
+      "player": "Austin Gomber"
+    },
+    {
+      "date": "2025-06-04",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated RHPKumar Rockerfrom the 15-day injured list.",
+      "player": "Kumar Rocker"
     },
     {
       "date": "2025-06-04",
@@ -81,9 +87,15 @@
     },
     {
       "date": "2025-06-04",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent RHPCarlos Carrascooutright to Scranton/Wilkes-Barre RailRiders.",
-      "player": "Carlos Carrasco"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPSawyer Gipson-Longfrom the 60-day injured list.",
+      "player": "Sawyer Gipson-Long"
+    },
+    {
+      "date": "2025-06-04",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxtransferred RHPMiguel Castrofrom the 15-day injured list to the 60-day injured list. Patellar tendon tear in his right knee.",
+      "player": "Miguel Castro"
     },
     {
       "date": "2025-06-04",
@@ -93,27 +105,33 @@
     },
     {
       "date": "2025-06-04",
+      "team": "Athletics",
+      "details": "Athleticsrecalled 2BMax Muncyfrom Las Vegas Aviators.",
+      "player": "Max Muncy"
+    },
+    {
+      "date": "2025-06-04",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsoptioned 2BChristian Kossto Sacramento River Cats.",
       "player": "Christian Koss"
     },
     {
       "date": "2025-06-04",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPMick Abelfrom Lehigh Valley IronPigs.",
-      "player": "Mick Abel"
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPCarlos Carrascooutright to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Carlos Carrasco"
+    },
+    {
+      "date": "2025-06-04",
+      "team": "Athletics",
+      "details": "Athleticsoptioned 1BCJ Alexanderto Las Vegas Aviators.",
+      "player": "CJ Alexander"
     },
     {
       "date": "2025-06-04",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxclaimed RHPRyan Cusickoff waivers fromDetroit Tigers.",
       "player": "Ryan Cusick"
-    },
-    {
-      "date": "2025-06-04",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned RHPCodi Heuerto Round Rock Express.",
-      "player": "Codi Heuer"
     },
     {
       "date": "2025-06-04",
@@ -124,14 +142,26 @@
     {
       "date": "2025-06-04",
       "team": "San Francisco Giants",
+      "details": "San Francisco Giantsselected the contract of OFDaniel Johnsonfrom Sacramento River Cats.",
+      "player": "Daniel Johnson"
+    },
+    {
+      "date": "2025-06-04",
+      "team": "San Francisco Giants",
       "details": "San Francisco Giantsselected the contract of CAndrew Kniznerfrom Sacramento River Cats.",
       "player": "Andrew Knizner"
     },
     {
       "date": "2025-06-04",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsselected the contract of OFDaniel Johnsonfrom Sacramento River Cats.",
-      "player": "Daniel Johnson"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPCodi Heuerto Round Rock Express.",
+      "player": "Codi Heuer"
+    },
+    {
+      "date": "2025-06-04",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPMick Abelfrom Lehigh Valley IronPigs.",
+      "player": "Mick Abel"
     }
   ]
 }
