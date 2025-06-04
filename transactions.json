@@ -1,11 +1,53 @@
 {
-  "last_updated": "2025-06-04T18:36:02.492410",
+  "last_updated": "2025-06-04T19:20:20.681316",
   "transactions": [
+    {
+      "date": "2025-06-04",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssigned free agent 1BDominic Smith.",
+      "player": "Dominic Smith"
+    },
+    {
+      "date": "2025-06-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced RHPRhett Lowderon the 60-day injured list.",
+      "player": "Rhett Lowder"
+    },
     {
       "date": "2025-06-04",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalssigned free agent RHPBriam Reyesto a minor league contract.",
       "player": "Briam Reyes"
+    },
+    {
+      "date": "2025-06-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent LHPWade Miley.",
+      "player": "Wade Miley"
+    },
+    {
+      "date": "2025-06-04",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxtransferred RHPMiguel Castrofrom the 15-day injured list to the 60-day injured list. Patellar tendon tear in his right knee.",
+      "player": "Miguel Castro"
+    },
+    {
+      "date": "2025-06-04",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxreassigned RHPRyan Cusickto the minor leagues.",
+      "player": "Ryan Cusick"
+    },
+    {
+      "date": "2025-06-04",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent LHPAustin Gomberon a rehab assignment to Hartford Yard Goats.",
+      "player": "Austin Gomber"
+    },
+    {
+      "date": "2025-06-04",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced 2BLenyn Sosaon the 10-day injured list. Right hip flexor strain.",
+      "player": "Lenyn Sosa"
     },
     {
       "date": "2025-06-04",
@@ -21,33 +63,33 @@
     },
     {
       "date": "2025-06-04",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent LHPAustin Gomberon a rehab assignment to Hartford Yard Goats.",
-      "player": "Austin Gomber"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced RHPZack Wheeleron the paternity list.",
+      "player": "Zack Wheeler"
+    },
+    {
+      "date": "2025-06-04",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled 1BTim Elkofrom Charlotte Knights.",
+      "player": "Tim Elko"
+    },
+    {
+      "date": "2025-06-04",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPRyan Cusickto Charlotte Knights.",
+      "player": "Ryan Cusick"
+    },
+    {
+      "date": "2025-06-04",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxclaimed RHPRyan Cusickoff waivers fromDetroit Tigers.",
+      "player": "Ryan Cusick"
     },
     {
       "date": "2025-06-04",
       "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned free agent 1BDominic Smith.",
-      "player": "Dominic Smith"
-    },
-    {
-      "date": "2025-06-04",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced RHPRhett Lowderon the 60-day injured list.",
-      "player": "Rhett Lowder"
-    },
-    {
-      "date": "2025-06-04",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssigned free agent LHPWade Miley.",
-      "player": "Wade Miley"
-    },
-    {
-      "date": "2025-06-04",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsselected the contract of OFDaniel Johnsonfrom Sacramento River Cats.",
-      "player": "Daniel Johnson"
+      "details": "San Francisco Giantsoptioned 2BChristian Kossto Sacramento River Cats.",
+      "player": "Christian Koss"
     },
     {
       "date": "2025-06-04",
@@ -63,9 +105,15 @@
     },
     {
       "date": "2025-06-04",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPMick Abelfrom Lehigh Valley IronPigs.",
+      "player": "Mick Abel"
+    },
+    {
+      "date": "2025-06-04",
       "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned 2BChristian Kossto Sacramento River Cats.",
-      "player": "Christian Koss"
+      "details": "San Francisco Giantsselected the contract of OFDaniel Johnsonfrom Sacramento River Cats.",
+      "player": "Daniel Johnson"
     }
   ]
 }
