@@ -1,41 +1,17 @@
 {
-  "last_updated": "2025-06-05T22:24:11.143591",
+  "last_updated": "2025-06-05T23:26:35.636194",
   "transactions": [
     {
       "date": "2025-06-05",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesreassigned LHPDylan Doddto the minor leagues.",
-      "player": "Dylan Dodd"
+      "team": "Athletics",
+      "details": "Athleticssigned free agent RFNick Martinito a minor league contract.",
+      "player": "Nick Martini"
     },
     {
       "date": "2025-06-05",
       "team": "Athletics",
       "details": "Athleticsactivated RHPMichael Kelly.",
       "player": "Michael Kelly"
-    },
-    {
-      "date": "2025-06-05",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent 3BJeimer Candelarioon a rehab assignment to Louisville Bats.",
-      "player": "Jeimer Candelario"
-    },
-    {
-      "date": "2025-06-05",
-      "team": "Athletics",
-      "details": "Athleticsdesignated 1BCJ Alexanderfor assignment.",
-      "player": "CJ Alexander"
-    },
-    {
-      "date": "2025-06-05",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated RHPChris Martinfrom the 15-day injured list.",
-      "player": "Chris Martin"
-    },
-    {
-      "date": "2025-06-05",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalstransferred RHPHunter Harveyfrom the 15-day injured list to the 60-day injured list. Right teres major strain.",
-      "player": "Hunter Harvey"
     },
     {
       "date": "2025-06-05",
@@ -57,15 +33,27 @@
     },
     {
       "date": "2025-06-05",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated RHPTyson Millerfor assignment.",
+      "player": "Tyson Miller"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPTyson Millerfrom the 60-day injured list.",
+      "player": "Tyson Miller"
+    },
+    {
+      "date": "2025-06-05",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksdesignated RHPScott McGoughfor assignment.",
       "player": "Scott McGough"
     },
     {
       "date": "2025-06-05",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced RHPPablo Lópezon the 15-day injured list retroactive to June 4, 2025. Right shoulder strain.",
-      "player": "Pablo López"
+      "team": "Unknown Team",
+      "details": "SSJosé Rodríguezelected free agency.",
+      "player": "José Rodríguez"
     },
     {
       "date": "2025-06-05",
@@ -81,9 +69,45 @@
     },
     {
       "date": "2025-06-05",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent 3BJeimer Candelarioon a rehab assignment to Louisville Bats.",
+      "player": "Jeimer Candelario"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesreassigned LHPDylan Doddto the minor leagues.",
+      "player": "Dylan Dodd"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPPablo Lópezon the 15-day injured list retroactive to June 4, 2025. Right shoulder strain.",
+      "player": "Pablo López"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated SSJosé Rodríguez.",
+      "player": "José Rodríguez"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalstransferred RHPHunter Harveyfrom the 15-day injured list to the 60-day injured list. Right teres major strain.",
+      "player": "Hunter Harvey"
+    },
+    {
+      "date": "2025-06-05",
       "team": "Athletics",
-      "details": "Athleticssigned free agent RFNick Martinito a minor league contract.",
-      "player": "Nick Martini"
+      "details": "Athleticsdesignated 1BCJ Alexanderfor assignment.",
+      "player": "CJ Alexander"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated RHPChris Martinfrom the 15-day injured list.",
+      "player": "Chris Martin"
     },
     {
       "date": "2025-06-05",
@@ -99,15 +123,15 @@
     },
     {
       "date": "2025-06-05",
-      "team": "Athletics",
-      "details": "Athleticsoptioned RHPJustin Sternerto Las Vegas Aviators.",
-      "player": "Justin Sterner"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPAngel Chivillito Albuquerque Isotopes.",
+      "player": "Angel Chivilli"
     },
     {
       "date": "2025-06-05",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPCaleb Freemanto Charlotte Knights.",
-      "player": "Caleb Freeman"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned LHPSam Aldegherito Salt Lake Bees.",
+      "player": "Sam Aldegheri"
     },
     {
       "date": "2025-06-05",
@@ -117,21 +141,9 @@
     },
     {
       "date": "2025-06-05",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned RHPKumar Rockerto Round Rock Express.",
-      "player": "Kumar Rocker"
-    },
-    {
-      "date": "2025-06-05",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxsent CBlake Saboloutright to Worcester Red Sox.",
       "player": "Blake Sabol"
-    },
-    {
-      "date": "2025-06-05",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPAndrew Hoffmannfrom Omaha Storm Chasers.",
-      "player": "Andrew Hoffmann"
     },
     {
       "date": "2025-06-05",
@@ -141,9 +153,27 @@
     },
     {
       "date": "2025-06-05",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPRiley O'Brienfrom Memphis Redbirds.",
+      "player": "Riley O'Brien"
+    },
+    {
+      "date": "2025-06-05",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsrecalled RHPDavid Festafrom St. Paul Saints.",
       "player": "David Festa"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RHPChris Strattonoutright to Oklahoma City Comets.",
+      "player": "Chris Stratton"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPKumar Rockerto Round Rock Express.",
+      "player": "Kumar Rocker"
     },
     {
       "date": "2025-06-05",
@@ -153,9 +183,21 @@
     },
     {
       "date": "2025-06-05",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPAngel Chivillito Albuquerque Isotopes.",
-      "player": "Angel Chivilli"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RFCooper Hummeloutright to Norfolk Tides.",
+      "player": "Cooper Hummel"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPBrooks Kriskeoutright to Iowa Cubs.",
+      "player": "Brooks Kriske"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPAndrew Hoffmannfrom Omaha Storm Chasers.",
+      "player": "Andrew Hoffmann"
     },
     {
       "date": "2025-06-05",
@@ -165,15 +207,21 @@
     },
     {
       "date": "2025-06-05",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPJustin Sternerto Las Vegas Aviators.",
+      "player": "Justin Sterner"
+    },
+    {
+      "date": "2025-06-05",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgerssent CChuckie Robinsonoutright to Oklahoma City Comets.",
       "player": "Chuckie Robinson"
     },
     {
       "date": "2025-06-05",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPRiley O'Brienfrom Memphis Redbirds.",
-      "player": "Riley O'Brien"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPCaleb Freemanto Charlotte Knights.",
+      "player": "Caleb Freeman"
     }
   ]
 }
