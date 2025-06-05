@@ -1,17 +1,11 @@
 {
-  "last_updated": "2025-06-05T16:32:58.789570",
+  "last_updated": "2025-06-05T17:19:05.700488",
   "transactions": [
     {
       "date": "2025-06-05",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned free agent RHPAlexander Martinezto a minor league contract.",
-      "player": "Alexander Martinez"
-    },
-    {
-      "date": "2025-06-05",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksactivated LHPAndrew Saalfrank.",
-      "player": "Andrew Saalfrank"
+      "team": "Athletics",
+      "details": "Athleticsdesignated 1BCJ Alexanderfor assignment.",
+      "player": "CJ Alexander"
     },
     {
       "date": "2025-06-05",
@@ -27,9 +21,39 @@
     },
     {
       "date": "2025-06-05",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent RHPAlexander Martinezto a minor league contract.",
+      "player": "Alexander Martinez"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Athletics",
+      "details": "Athleticsactivated RHPMichael Kelly.",
+      "player": "Michael Kelly"
+    },
+    {
+      "date": "2025-06-05",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned LHPAndrew Saalfrankto ACL D-backs.",
+      "details": "Arizona Diamondbacksactivated LHPAndrew Saalfrank.",
       "player": "Andrew Saalfrank"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Athletics",
+      "details": "Athleticsactivated LHPT.J. McFarlandfrom the 15-day injured list.",
+      "player": "T.J. McFarland"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPPablo Lópezon the 15-day injured list retroactive to June 4, 2025. Right shoulder strain.",
+      "player": "Pablo López"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPRiley O'Brienfrom Memphis Redbirds.",
+      "player": "Riley O'Brien"
     },
     {
       "date": "2025-06-05",
@@ -51,15 +75,33 @@
     },
     {
       "date": "2025-06-05",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPRiley O'Brienfrom Memphis Redbirds.",
-      "player": "Riley O'Brien"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned LHPAndrew Saalfrankto ACL D-backs.",
+      "player": "Andrew Saalfrank"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPJustin Sternerto Las Vegas Aviators.",
+      "player": "Justin Sterner"
     },
     {
       "date": "2025-06-05",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsselected the contract of RHPThomas Hatchfrom Omaha Storm Chasers.",
       "player": "Thomas Hatch"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPElvis Alvaradoto Las Vegas Aviators.",
+      "player": "Elvis Alvarado"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPDavid Festafrom St. Paul Saints.",
+      "player": "David Festa"
     }
   ]
 }
