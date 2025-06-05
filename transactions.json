@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-05T14:26:28.147351",
+  "last_updated": "2025-06-05T15:28:05.249474",
   "transactions": [
     {
       "date": "2025-06-05",
@@ -9,9 +9,39 @@
     },
     {
       "date": "2025-06-05",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalstransferred RHPHunter Harveyfrom the 15-day injured list to the 60-day injured list. Right teres major strain.",
+      "player": "Hunter Harvey"
+    },
+    {
+      "date": "2025-06-05",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsrecalled RHPRiley O'Brienfrom Memphis Redbirds.",
       "player": "Riley O'Brien"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPCaleb Freemanto Charlotte Knights.",
+      "player": "Caleb Freeman"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPAndrew Hoffmannfrom Omaha Storm Chasers.",
+      "player": "Andrew Hoffmann"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPOwen Whitefrom Charlotte Knights.",
+      "player": "Owen White"
+    },
+    {
+      "date": "2025-06-05",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsselected the contract of RHPThomas Hatchfrom Omaha Storm Chasers.",
+      "player": "Thomas Hatch"
     }
   ]
 }
