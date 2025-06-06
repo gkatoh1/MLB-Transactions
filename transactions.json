@@ -1,11 +1,35 @@
 {
-  "last_updated": "2025-06-06T18:35:49.168819",
+  "last_updated": "2025-06-06T19:20:49.053383",
   "transactions": [
+    {
+      "date": "2025-06-06",
+      "team": "New York Mets",
+      "details": "New York Metssent LHPSean Manaeaon a rehab assignment to Brooklyn Cyclones.",
+      "player": "Sean Manaea"
+    },
+    {
+      "date": "2025-06-06",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent LHPDanny Coulombeon a rehab assignment to St. Paul Saints.",
+      "player": "Danny Coulombe"
+    },
     {
       "date": "2025-06-06",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsdesignated CAustin Wynnsfor assignment.",
       "player": "Austin Wynns"
+    },
+    {
+      "date": "2025-06-06",
+      "team": "Unknown Team",
+      "details": "SSOrlando Arciachanged number to 11.",
+      "player": "Orlando Arcia"
+    },
+    {
+      "date": "2025-06-06",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated 1BChristian Encarnacion-Strandfrom the 10-day injured list.",
+      "player": "Christian Encarnacion-Strand"
     },
     {
       "date": "2025-06-06",
@@ -21,30 +45,6 @@
     },
     {
       "date": "2025-06-06",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated 1BChristian Encarnacion-Strandfrom the 10-day injured list.",
-      "player": "Christian Encarnacion-Strand"
-    },
-    {
-      "date": "2025-06-06",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of CKyle Teelfrom Charlotte Knights.",
-      "player": "Kyle Teel"
-    },
-    {
-      "date": "2025-06-06",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPTravis Adamsfrom St. Paul Saints.",
-      "player": "Travis Adams"
-    },
-    {
-      "date": "2025-06-06",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPAndrew Hoffmannto Omaha Storm Chasers.",
-      "player": "Andrew Hoffmann"
-    },
-    {
-      "date": "2025-06-06",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersrecalled LHPJustin Wrobleskifrom Oklahoma City Comets.",
       "player": "Justin Wrobleski"
@@ -57,15 +57,21 @@
     },
     {
       "date": "2025-06-06",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RFDaylen Lileto Rochester Red Wings.",
-      "player": "Daylen Lile"
-    },
-    {
-      "date": "2025-06-06",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned CKorey Leeto Charlotte Knights.",
       "player": "Korey Lee"
+    },
+    {
+      "date": "2025-06-06",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPTravis Adamsfrom St. Paul Saints.",
+      "player": "Travis Adams"
+    },
+    {
+      "date": "2025-06-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RFDaylen Lileto Rochester Red Wings.",
+      "player": "Daylen Lile"
     },
     {
       "date": "2025-06-06",
@@ -75,15 +81,39 @@
     },
     {
       "date": "2025-06-06",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPRiley O'Briento Memphis Redbirds.",
-      "player": "Riley O'Brien"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of CKyle Teelfrom Charlotte Knights.",
+      "player": "Kyle Teel"
+    },
+    {
+      "date": "2025-06-06",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPAndrew Hoffmannto Omaha Storm Chasers.",
+      "player": "Andrew Hoffmann"
+    },
+    {
+      "date": "2025-06-06",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPSeth Johnsonto Lehigh Valley IronPigs.",
+      "player": "Seth Johnson"
     },
     {
       "date": "2025-06-06",
       "team": "Miami Marlins",
       "details": "Miami Marlinsrecalled LHPAnthony Venezianofrom Jacksonville Jumbo Shrimp.",
       "player": "Anthony Veneziano"
+    },
+    {
+      "date": "2025-06-06",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPAlan Rangelfrom Lehigh Valley IronPigs.",
+      "player": "Alan Rangel"
+    },
+    {
+      "date": "2025-06-06",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPRiley O'Briento Memphis Redbirds.",
+      "player": "Riley O'Brien"
     }
   ]
 }
