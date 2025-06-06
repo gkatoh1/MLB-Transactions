@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-06-06T17:23:59.948688",
+  "last_updated": "2025-06-06T18:35:49.168819",
   "transactions": [
+    {
+      "date": "2025-06-06",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsdesignated CAustin Wynnsfor assignment.",
+      "player": "Austin Wynns"
+    },
     {
       "date": "2025-06-06",
       "team": "Miami Marlins",
@@ -9,9 +15,51 @@
     },
     {
       "date": "2025-06-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated CFJacob Youngfrom the 10-day injured list.",
+      "player": "Jacob Young"
+    },
+    {
+      "date": "2025-06-06",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated 1BChristian Encarnacion-Strandfrom the 10-day injured list.",
+      "player": "Christian Encarnacion-Strand"
+    },
+    {
+      "date": "2025-06-06",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxselected the contract of CKyle Teelfrom Charlotte Knights.",
       "player": "Kyle Teel"
+    },
+    {
+      "date": "2025-06-06",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPTravis Adamsfrom St. Paul Saints.",
+      "player": "Travis Adams"
+    },
+    {
+      "date": "2025-06-06",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPAndrew Hoffmannto Omaha Storm Chasers.",
+      "player": "Andrew Hoffmann"
+    },
+    {
+      "date": "2025-06-06",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled LHPJustin Wrobleskifrom Oklahoma City Comets.",
+      "player": "Justin Wrobleski"
+    },
+    {
+      "date": "2025-06-06",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPLandon Knackto Oklahoma City Comets.",
+      "player": "Landon Knack"
+    },
+    {
+      "date": "2025-06-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RFDaylen Lileto Rochester Red Wings.",
+      "player": "Daylen Lile"
     },
     {
       "date": "2025-06-06",
@@ -27,27 +75,15 @@
     },
     {
       "date": "2025-06-06",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPAndrew Hoffmannto Omaha Storm Chasers.",
-      "player": "Andrew Hoffmann"
-    },
-    {
-      "date": "2025-06-06",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPTravis Adamsfrom St. Paul Saints.",
-      "player": "Travis Adams"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPRiley O'Briento Memphis Redbirds.",
+      "player": "Riley O'Brien"
     },
     {
       "date": "2025-06-06",
       "team": "Miami Marlins",
       "details": "Miami Marlinsrecalled LHPAnthony Venezianofrom Jacksonville Jumbo Shrimp.",
       "player": "Anthony Veneziano"
-    },
-    {
-      "date": "2025-06-06",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPRiley O'Briento Memphis Redbirds.",
-      "player": "Riley O'Brien"
     }
   ]
 }
