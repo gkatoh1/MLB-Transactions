@@ -1,24 +1,6 @@
 {
-  "last_updated": "2025-06-07T22:23:50.571665",
+  "last_updated": "2025-06-07T23:25:08.189191",
   "transactions": [
-    {
-      "date": "2025-06-07",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersplaced RHPTony Gonsolinon the 15-day injured list. Right elbow discomfort.",
-      "player": "Tony Gonsolin"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated RHPMichael Kopechfrom the 60-day injured list.",
-      "player": "Michael Kopech"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssigned free agent RHPTrevor Gottto a minor league contract.",
-      "player": "Trevor Gott"
-    },
     {
       "date": "2025-06-07",
       "team": "Colorado Rockies",
@@ -27,63 +9,9 @@
     },
     {
       "date": "2025-06-07",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated RHPCraig Kimbrelfor assignment.",
-      "player": "Craig Kimbrel"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Houston Astros",
-      "details": "Houston Astrossigned free agent RFCooper Hummelto a minor league contract.",
-      "player": "Cooper Hummel"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssent RHPEmmet Sheehanon a rehab assignment to Oklahoma City Comets.",
-      "player": "Emmet Sheehan"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent RHPMichael Tonkinon a rehab assignment to St. Paul Saints.",
-      "player": "Michael Tonkin"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated RHPTrent Thorntonfrom the 15-day injured list.",
-      "player": "Trent Thornton"
-    },
-    {
-      "date": "2025-06-07",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersdesignated RHPChris Strattonfor assignment.",
       "player": "Chris Stratton"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesdesignated LHPJoey Wentzfor assignment.",
-      "player": "Joey Wentz"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced 1BEndy Rodríguezon the 10-day injured list. Right elbow inflammation.",
-      "player": "Endy Rodríguez"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssigned free agent RFBen Gamelto a minor league contract.",
-      "player": "Ben Gamel"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesplaced 1BBryce Harperon the 10-day injured list retroactive to June 6, 2025. Right wrist inflammation.",
-      "player": "Bryce Harper"
     },
     {
       "date": "2025-06-07",
@@ -117,33 +45,93 @@
     },
     {
       "date": "2025-06-07",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RFSean Bouchardfrom Albuquerque Isotopes.",
-      "player": "Sean Bouchard"
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned free agent RFCooper Hummelto a minor league contract.",
+      "player": "Cooper Hummel"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RHPEmmet Sheehanon a rehab assignment to Oklahoma City Comets.",
+      "player": "Emmet Sheehan"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RHPTrent Thorntonfrom the 15-day injured list.",
+      "player": "Trent Thornton"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Athletics",
+      "details": "Athleticssent 1BNick Kurtzon a rehab assignment to Stockton Ports.",
+      "player": "Nick Kurtz"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced 1BEndy Rodríguezon the 10-day injured list. Right elbow inflammation.",
+      "player": "Endy Rodríguez"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated 2BMason McCoyfrom the 10-day injured list.",
+      "player": "Mason McCoy"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssigned free agent RFBen Gamelto a minor league contract.",
+      "player": "Ben Gamel"
     },
     {
       "date": "2025-06-07",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPDaniel Robertfrom Lehigh Valley IronPigs.",
-      "player": "Daniel Robert"
+      "details": "Philadelphia Philliesplaced 1BBryce Harperon the 10-day injured list retroactive to June 6, 2025. Right wrist inflammation.",
+      "player": "Bryce Harper"
     },
     {
       "date": "2025-06-07",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPAlan Rangelto Lehigh Valley IronPigs.",
-      "player": "Alan Rangel"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated LHPJoey Wentzfor assignment.",
+      "player": "Joey Wentz"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPCraig Kimbrelfor assignment.",
+      "player": "Craig Kimbrel"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced RHPTony Gonsolinon the 15-day injured list. Right elbow discomfort.",
+      "player": "Tony Gonsolin"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPMichael Kopechfrom the 60-day injured list.",
+      "player": "Michael Kopech"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssigned free agent RHPTrevor Gottto a minor league contract.",
+      "player": "Trevor Gott"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPMichael Tonkinon a rehab assignment to St. Paul Saints.",
+      "player": "Michael Tonkin"
     },
     {
       "date": "2025-06-07",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled RHPChristian Montes De Ocafrom Reno Aces.",
-      "player": "Christian Montes De Oca"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPCooper Criswellto Worcester Red Sox.",
-      "player": "Cooper Criswell"
+      "details": "Arizona Diamondbacksselected the contract of CAramis Garciafrom Reno Aces.",
+      "player": "Aramis Garcia"
     },
     {
       "date": "2025-06-07",
@@ -153,15 +141,15 @@
     },
     {
       "date": "2025-06-07",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesselected the contract of CBrett Sullivanfrom Indianapolis Indians.",
-      "player": "Brett Sullivan"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of RHPRobert Stockfrom Worcester Red Sox.",
+      "player": "Robert Stock"
     },
     {
       "date": "2025-06-07",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksselected the contract of CAramis Garciafrom Reno Aces.",
-      "player": "Aramis Garcia"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RFSean Bouchardfrom Albuquerque Isotopes.",
+      "player": "Sean Bouchard"
     },
     {
       "date": "2025-06-07",
@@ -177,15 +165,45 @@
     },
     {
       "date": "2025-06-07",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPDaniel Robertfrom Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
+    },
+    {
+      "date": "2025-06-07",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesrecalled RHPIsaac Mattsonfrom Indianapolis Indians.",
       "player": "Isaac Mattson"
     },
     {
       "date": "2025-06-07",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled LHPJoe La Sorsafrom Louisville Bats.",
-      "player": "Joe La Sorsa"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPChristian Montes De Ocafrom Reno Aces.",
+      "player": "Christian Montes De Oca"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent 2BMichael Stefanicoutright to Buffalo Bisons.",
+      "player": "Michael Stefanic"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed RHPJosé Ruizoff waivers fromPhiladelphia Phillies.",
+      "player": "José Ruiz"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesselected the contract of CBrett Sullivanfrom Indianapolis Indians.",
+      "player": "Brett Sullivan"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled LHPAustin Coxfrom Gwinnett Stripers.",
+      "player": "Austin Cox"
     },
     {
       "date": "2025-06-07",
@@ -195,9 +213,33 @@
     },
     {
       "date": "2025-06-07",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPAlan Rangelto Lehigh Valley IronPigs.",
+      "player": "Alan Rangel"
+    },
+    {
+      "date": "2025-06-07",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxselected the contract of RHPRobert Stockfrom Worcester Red Sox.",
-      "player": "Robert Stock"
+      "details": "Boston Red Soxoptioned RHPCooper Criswellto Worcester Red Sox.",
+      "player": "Cooper Criswell"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned 2BMason McCoyto El Paso Chihuahuas.",
+      "player": "Mason McCoy"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled LHPJoe La Sorsafrom Louisville Bats.",
+      "player": "Joe La Sorsa"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent CSam Huffoutright to Sacramento River Cats.",
+      "player": "Sam Huff"
     },
     {
       "date": "2025-06-07",
@@ -210,18 +252,6 @@
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsselected the contract of RHPTrevor Richardsfrom Omaha Storm Chasers.",
       "player": "Trevor Richards"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssent CSam Huffoutright to Sacramento River Cats.",
-      "player": "Sam Huff"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled LHPAustin Coxfrom Gwinnett Stripers.",
-      "player": "Austin Cox"
     }
   ]
 }
