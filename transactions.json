@@ -1,17 +1,35 @@
 {
-  "last_updated": "2025-06-07T17:20:54.276324",
+  "last_updated": "2025-06-07T18:32:58.179621",
   "transactions": [
     {
       "date": "2025-06-07",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesplaced 1BBryce Harperon the 10-day injured list retroactive to June 6, 2025. Right wrist inflammation.",
-      "player": "Bryce Harper"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated RHPChris Strattonfor assignment.",
+      "player": "Chris Stratton"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPKirby Yatesfrom the 15-day injured list.",
+      "player": "Kirby Yates"
     },
     {
       "date": "2025-06-07",
       "team": "Unknown Team",
       "details": "3BEvan Longoriaretired.",
       "player": "Evan Longoria"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced RHPTony Gonsolinon the 15-day injured list. Right elbow discomfort.",
+      "player": "Tony Gonsolin"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPMichael Kopechfrom the 60-day injured list.",
+      "player": "Michael Kopech"
     },
     {
       "date": "2025-06-07",
@@ -22,14 +40,38 @@
     {
       "date": "2025-06-07",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPAlan Rangelto Lehigh Valley IronPigs.",
-      "player": "Alan Rangel"
+      "details": "Philadelphia Philliesplaced 1BBryce Harperon the 10-day injured list retroactive to June 6, 2025. Right wrist inflammation.",
+      "player": "Bryce Harper"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent CSam Huffoutright to Sacramento River Cats.",
+      "player": "Sam Huff"
     },
     {
       "date": "2025-06-07",
       "team": "Miami Marlins",
       "details": "Miami Marlinsrecalled RHPConnor Gillispiefrom Jacksonville Jumbo Shrimp.",
       "player": "Connor Gillispie"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPDaniel Robertfrom Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPAlan Rangelto Lehigh Valley IronPigs.",
+      "player": "Alan Rangel"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled LHPAustin Coxfrom Gwinnett Stripers.",
+      "player": "Austin Cox"
     },
     {
       "date": "2025-06-07",
@@ -54,18 +96,6 @@
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsselected the contract of RHPTrevor Richardsfrom Omaha Storm Chasers.",
       "player": "Trevor Richards"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled LHPAustin Coxfrom Gwinnett Stripers.",
-      "player": "Austin Cox"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPDaniel Robertfrom Lehigh Valley IronPigs.",
-      "player": "Daniel Robert"
     }
   ]
 }
