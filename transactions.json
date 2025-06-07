@@ -1,47 +1,29 @@
 {
-  "last_updated": "2025-06-07T19:18:55.980982",
+  "last_updated": "2025-06-07T20:26:16.367567",
   "transactions": [
     {
       "date": "2025-06-07",
-      "team": "Unknown Team",
-      "details": "3BEvan Longoriaretired.",
-      "player": "Evan Longoria"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersplaced RHPTony Gonsolinon the 15-day injured list. Right elbow discomfort.",
-      "player": "Tony Gonsolin"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated RHPMichael Kopechfrom the 60-day injured list.",
-      "player": "Michael Kopech"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesplaced 1BBryce Harperon the 10-day injured list retroactive to June 6, 2025. Right wrist inflammation.",
-      "player": "Bryce Harper"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated RHPKirby Yatesfrom the 15-day injured list.",
-      "player": "Kirby Yates"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated RHPTrent Thorntonfrom the 15-day injured list.",
-      "player": "Trent Thornton"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced 1BEndy Rodríguezon the 10-day injured list. Right elbow inflammation.",
+      "player": "Endy Rodríguez"
     },
     {
       "date": "2025-06-07",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersdesignated RHPChris Strattonfor assignment.",
       "player": "Chris Stratton"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated LHPJoey Wentzfor assignment.",
+      "player": "Joey Wentz"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced 1BBryce Harperon the 10-day injured list retroactive to June 6, 2025. Right wrist inflammation.",
+      "player": "Bryce Harper"
     },
     {
       "date": "2025-06-07",
@@ -57,9 +39,105 @@
     },
     {
       "date": "2025-06-07",
+      "team": "Unknown Team",
+      "details": "3BEvan Longoriaretired.",
+      "player": "Evan Longoria"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced RHPCristian Menaon the 15-day injured list. Right shoulder strain.",
+      "player": "Cristian Mena"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RHPTrent Thorntonfrom the 15-day injured list.",
+      "player": "Trent Thornton"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackstransferred RHPCorbin Burnesfrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
+      "player": "Corbin Burnes"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPKirby Yatesfrom the 15-day injured list.",
+      "player": "Kirby Yates"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced RHPTony Gonsolinon the 15-day injured list. Right elbow discomfort.",
+      "player": "Tony Gonsolin"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPMichael Kopechfrom the 60-day injured list.",
+      "player": "Michael Kopech"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RFMickey Moniakon the bereavement list.",
+      "player": "Mickey Moniak"
+    },
+    {
+      "date": "2025-06-07",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersdesignated RHPCasey Lawrencefor assignment.",
       "player": "Casey Lawrence"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled LHPJoe La Sorsafrom Louisville Bats.",
+      "player": "Joe La Sorsa"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPDaniel Robertfrom Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent CSam Huffoutright to Sacramento River Cats.",
+      "player": "Sam Huff"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled LHPAustin Coxfrom Gwinnett Stripers.",
+      "player": "Austin Cox"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesselected the contract of CBrett Sullivanfrom Indianapolis Indians.",
+      "player": "Brett Sullivan"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPChristian Montes De Ocafrom Reno Aces.",
+      "player": "Christian Montes De Oca"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksselected the contract of CAramis Garciafrom Reno Aces.",
+      "player": "Aramis Garcia"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RFSean Bouchardfrom Albuquerque Isotopes.",
+      "player": "Sean Bouchard"
     },
     {
       "date": "2025-06-07",
@@ -69,9 +147,21 @@
     },
     {
       "date": "2025-06-07",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPJonathan Bowlanto Omaha Storm Chasers.",
-      "player": "Jonathan Bowlan"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesselected the contract of 3BOtto Kempfrom Lehigh Valley IronPigs.",
+      "player": "Otto Kemp"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPGeorge Sorianoto Jacksonville Jumbo Shrimp.",
+      "player": "George Soriano"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPIsaac Mattsonfrom Indianapolis Indians.",
+      "player": "Isaac Mattson"
     },
     {
       "date": "2025-06-07",
@@ -82,38 +172,14 @@
     {
       "date": "2025-06-07",
       "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPJonathan Bowlanto Omaha Storm Chasers.",
+      "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Kansas City Royals",
       "details": "Kansas City Royalsselected the contract of RHPTrevor Richardsfrom Omaha Storm Chasers.",
       "player": "Trevor Richards"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled LHPAustin Coxfrom Gwinnett Stripers.",
-      "player": "Austin Cox"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPDaniel Robertfrom Lehigh Valley IronPigs.",
-      "player": "Daniel Robert"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesselected the contract of 3BOtto Kempfrom Lehigh Valley IronPigs.",
-      "player": "Otto Kemp"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssent CSam Huffoutright to Sacramento River Cats.",
-      "player": "Sam Huff"
-    },
-    {
-      "date": "2025-06-07",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPGeorge Sorianoto Jacksonville Jumbo Shrimp.",
-      "player": "George Soriano"
     }
   ]
 }
