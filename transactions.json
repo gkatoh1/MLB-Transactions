@@ -1,11 +1,35 @@
 {
-  "last_updated": "2025-06-07T15:24:37.957443",
+  "last_updated": "2025-06-07T16:29:43.797160",
   "transactions": [
+    {
+      "date": "2025-06-07",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced 1BBryce Harperon the 10-day injured list retroactive to June 6, 2025. Right wrist inflammation.",
+      "player": "Bryce Harper"
+    },
     {
       "date": "2025-06-07",
       "team": "Unknown Team",
       "details": "3BEvan Longoriaretired.",
       "player": "Evan Longoria"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesselected the contract of 3BOtto Kempfrom Lehigh Valley IronPigs.",
+      "player": "Otto Kemp"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPDaniel Robertfrom Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
+    },
+    {
+      "date": "2025-06-07",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPAlan Rangelto Lehigh Valley IronPigs.",
+      "player": "Alan Rangel"
     }
   ]
 }
