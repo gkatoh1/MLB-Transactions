@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-06-08T14:22:05.812447",
+  "last_updated": "2025-06-08T15:27:13.890391",
   "transactions": [
+    {
+      "date": "2025-06-08",
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated RHPForrest Whitleyfor assignment.",
+      "player": "Forrest Whitley"
+    },
     {
       "date": "2025-06-08",
       "team": "Minnesota Twins",
@@ -15,15 +21,45 @@
     },
     {
       "date": "2025-06-08",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RFJohnathan Rodríguezfrom Columbus Clippers.",
+      "player": "Johnathan Rodríguez"
+    },
+    {
+      "date": "2025-06-08",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysrecalled LHPIan Seymourfrom Durham Bulls.",
       "player": "Ian Seymour"
     },
     {
       "date": "2025-06-08",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned LHPJoe La Sorsato Louisville Bats.",
+      "player": "Joe La Sorsa"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPChristian Montes De Ocato Reno Aces.",
+      "player": "Christian Montes De Oca"
+    },
+    {
+      "date": "2025-06-08",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysoptioned RHPCole Sulserto Durham Bulls.",
       "player": "Cole Sulser"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RFJhonkensy Noelto Columbus Clippers.",
+      "player": "Jhonkensy Noel"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled LHPBrandon Walterfrom Sugar Land Space Cowboys.",
+      "player": "Brandon Walter"
     }
   ]
 }
