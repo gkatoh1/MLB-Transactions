@@ -1,4 +1,29 @@
 {
-  "last_updated": "2025-06-08T13:31:20.252744",
-  "transactions": []
+  "last_updated": "2025-06-08T14:22:05.812447",
+  "transactions": [
+    {
+      "date": "2025-06-08",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated LHPDanny Coulombefrom the 15-day injured list.",
+      "player": "Danny Coulombe"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPZebby Matthewson the 15-day injured list retroactive to June 5, 2025. Right shoulder strain.",
+      "player": "Zebby Matthews"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled LHPIan Seymourfrom Durham Bulls.",
+      "player": "Ian Seymour"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPCole Sulserto Durham Bulls.",
+      "player": "Cole Sulser"
+    }
+  ]
 }
