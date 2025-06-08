@@ -1,23 +1,23 @@
 {
-  "last_updated": "2025-06-08T18:32:21.839672",
+  "last_updated": "2025-06-08T19:19:14.337723",
   "transactions": [
     {
       "date": "2025-06-08",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned free agent LHPTyler Alexander.",
-      "player": "Tyler Alexander"
+      "team": "Athletics",
+      "details": "Athleticssent LHPBrady Bassoon a rehab assignment to Stockton Ports.",
+      "player": "Brady Basso"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPMatt Bowmanfor assignment.",
+      "player": "Matt Bowman"
     },
     {
       "date": "2025-06-08",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksdesignated CAramis Garciafor assignment.",
       "player": "Aramis Garcia"
-    },
-    {
-      "date": "2025-06-08",
-      "team": "Houston Astros",
-      "details": "Houston Astrosdesignated RHPForrest Whitleyfor assignment.",
-      "player": "Forrest Whitley"
     },
     {
       "date": "2025-06-08",
@@ -39,27 +39,9 @@
     },
     {
       "date": "2025-06-08",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPJosé Ruiz.",
-      "player": "José Ruiz"
-    },
-    {
-      "date": "2025-06-08",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssigned free agent RHPZach Plesacto a minor league contract.",
-      "player": "Zach Plesac"
-    },
-    {
-      "date": "2025-06-08",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPMatt Bowmanfor assignment.",
-      "player": "Matt Bowman"
-    },
-    {
-      "date": "2025-06-08",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced RHPZebby Matthewson the 15-day injured list retroactive to June 5, 2025. Right shoulder strain.",
-      "player": "Zebby Matthews"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent LHPTyler Alexander.",
+      "player": "Tyler Alexander"
     },
     {
       "date": "2025-06-08",
@@ -81,27 +63,27 @@
     },
     {
       "date": "2025-06-08",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPJosé Ruiz.",
+      "player": "José Ruiz"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated RHPForrest Whitleyfor assignment.",
+      "player": "Forrest Whitley"
+    },
+    {
+      "date": "2025-06-08",
       "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPRoddery Muñozto Memphis Redbirds.",
-      "player": "Roddery Muñoz"
+      "details": "St. Louis Cardinalssigned free agent RHPZach Plesacto a minor league contract.",
+      "player": "Zach Plesac"
     },
     {
       "date": "2025-06-08",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RFJohnathan Rodríguezfrom Columbus Clippers.",
-      "player": "Johnathan Rodríguez"
-    },
-    {
-      "date": "2025-06-08",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksselected the contract of LHPKyle Backhusfrom Reno Aces.",
-      "player": "Kyle Backhus"
-    },
-    {
-      "date": "2025-06-08",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned LHPJoe La Sorsato Louisville Bats.",
-      "player": "Joe La Sorsa"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPZebby Matthewson the 15-day injured list retroactive to June 5, 2025. Right shoulder strain.",
+      "player": "Zebby Matthews"
     },
     {
       "date": "2025-06-08",
@@ -123,21 +105,9 @@
     },
     {
       "date": "2025-06-08",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPCole Sulserto Durham Bulls.",
-      "player": "Cole Sulser"
-    },
-    {
-      "date": "2025-06-08",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned LHPAustin Coxto Gwinnett Stripers.",
-      "player": "Austin Cox"
-    },
-    {
-      "date": "2025-06-08",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redstraded CAustin WynnstoAthleticsfor cash.",
-      "player": "Austin Wynns"
+      "team": "New York Yankees",
+      "details": "New York Yankeesclaimed 1BCJ Alexanderoff waivers fromAthletics.",
+      "player": "CJ Alexander"
     },
     {
       "date": "2025-06-08",
@@ -147,9 +117,45 @@
     },
     {
       "date": "2025-06-08",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent RHPThomas Hatchoutright to Omaha Storm Chasers.",
+      "player": "Thomas Hatch"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RFJohnathan Rodríguezfrom Columbus Clippers.",
+      "player": "Johnathan Rodríguez"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPCole Sulserto Durham Bulls.",
+      "player": "Cole Sulser"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redstraded CAustin WynnstoAthleticsfor cash.",
+      "player": "Austin Wynns"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned LHPAustin Coxto Gwinnett Stripers.",
+      "player": "Austin Cox"
+    },
+    {
+      "date": "2025-06-08",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksoptioned RHPChristian Montes De Ocato Reno Aces.",
       "player": "Christian Montes De Oca"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned 1BCJ Alexanderto Scranton/Wilkes-Barre RailRiders.",
+      "player": "CJ Alexander"
     },
     {
       "date": "2025-06-08",
@@ -159,9 +165,27 @@
     },
     {
       "date": "2025-06-08",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned LHPJoe La Sorsato Louisville Bats.",
+      "player": "Joe La Sorsa"
+    },
+    {
+      "date": "2025-06-08",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersoptioned LFDrew Avansto Nashville Sounds.",
       "player": "Drew Avans"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksselected the contract of LHPKyle Backhusfrom Reno Aces.",
+      "player": "Kyle Backhus"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPRoddery Muñozto Memphis Redbirds.",
+      "player": "Roddery Muñoz"
     }
   ]
 }
