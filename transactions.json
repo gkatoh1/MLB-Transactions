@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-06-09T17:23:05.729603",
+  "last_updated": "2025-06-09T18:34:37.086531",
   "transactions": [
+    {
+      "date": "2025-06-09",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RHPSpencer Turnbull.",
+      "player": "Spencer Turnbull"
+    },
     {
       "date": "2025-06-09",
       "team": "Atlanta Braves",
@@ -9,9 +15,9 @@
     },
     {
       "date": "2025-06-09",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated RHPSpencer Turnbull.",
-      "player": "Spencer Turnbull"
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPJustin Garzafrom Syracuse Mets.",
+      "player": "Justin Garza"
     },
     {
       "date": "2025-06-09",
@@ -22,14 +28,20 @@
     {
       "date": "2025-06-09",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPPaxton Schultzto Buffalo Bisons.",
-      "player": "Paxton Schultz"
+      "details": "Toronto Blue Jaysrecalled RHPSpencer Turnbullfrom Buffalo Bisons.",
+      "player": "Spencer Turnbull"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned LHPBrandon Waddellto Syracuse Mets.",
+      "player": "Brandon Waddell"
     },
     {
       "date": "2025-06-09",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled RHPSpencer Turnbullfrom Buffalo Bisons.",
-      "player": "Spencer Turnbull"
+      "details": "Toronto Blue Jaysoptioned RHPPaxton Schultzto Buffalo Bisons.",
+      "player": "Paxton Schultz"
     }
   ]
 }
