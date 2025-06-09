@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-06-09T20:29:12.425928",
+  "last_updated": "2025-06-09T21:24:39.903817",
   "transactions": [
     {
       "date": "2025-06-09",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated RHPSpencer Turnbull.",
-      "player": "Spencer Turnbull"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated CFLane Thomasfrom the 10-day injured list.",
+      "player": "Lane Thomas"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated RHPZack Wheelerfrom the paternity list.",
+      "player": "Zack Wheeler"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced RFWilyer Abreuon the 10-day injured list. Left oblique strain.",
+      "player": "Wilyer Abreu"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxdesignated 1BRyan Nodafor assignment.",
+      "player": "Ryan Noda"
     },
     {
       "date": "2025-06-09",
@@ -21,15 +39,9 @@
     },
     {
       "date": "2025-06-09",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated CFLane Thomasfrom the 10-day injured list.",
-      "player": "Lane Thomas"
-    },
-    {
-      "date": "2025-06-09",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated RHPZack Wheelerfrom the paternity list.",
-      "player": "Zack Wheeler"
+      "team": "Unknown Team",
+      "details": "LHPDylan Doddchanged number to 46.",
+      "player": "Dylan Dodd"
     },
     {
       "date": "2025-06-09",
@@ -39,9 +51,21 @@
     },
     {
       "date": "2025-06-09",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RHPSpencer Turnbull.",
+      "player": "Spencer Turnbull"
+    },
+    {
+      "date": "2025-06-09",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
       "player": "Travis Adams"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPRiley O'Brienfrom Memphis Redbirds.",
+      "player": "Riley O'Brien"
     },
     {
       "date": "2025-06-09",
@@ -57,15 +81,45 @@
     },
     {
       "date": "2025-06-09",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RFSean Bouchardto Albuquerque Isotopes.",
-      "player": "Sean Bouchard"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned 3BWill Wilsonto Columbus Clippers.",
+      "player": "Will Wilson"
     },
     {
       "date": "2025-06-09",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPPaxton Schultzto Buffalo Bisons.",
-      "player": "Paxton Schultz"
+      "details": "Toronto Blue Jaysrecalled RHPSpencer Turnbullfrom Buffalo Bisons.",
+      "player": "Spencer Turnbull"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPMatt Svansonto Memphis Redbirds.",
+      "player": "Matt Svanson"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of CFRoman Anthonyfrom Worcester Red Sox.",
+      "player": "Roman Anthony"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned LHPBrandon Waddellto Syracuse Mets.",
+      "player": "Brandon Waddell"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RHPCraig Kimbreloutright to Gwinnett Stripers.",
+      "player": "Craig Kimbrel"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPChris Roycroftfrom Memphis Redbirds.",
+      "player": "Chris Roycroft"
     },
     {
       "date": "2025-06-09",
@@ -81,45 +135,21 @@
     },
     {
       "date": "2025-06-09",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned LHPBrandon Waddellto Syracuse Mets.",
-      "player": "Brandon Waddell"
-    },
-    {
-      "date": "2025-06-09",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPChris Roycroftfrom Memphis Redbirds.",
-      "player": "Chris Roycroft"
-    },
-    {
-      "date": "2025-06-09",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPRiley O'Brienfrom Memphis Redbirds.",
-      "player": "Riley O'Brien"
-    },
-    {
-      "date": "2025-06-09",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned 3BWill Wilsonto Columbus Clippers.",
-      "player": "Will Wilson"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RFSean Bouchardto Albuquerque Isotopes.",
+      "player": "Sean Bouchard"
     },
     {
       "date": "2025-06-09",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled RHPSpencer Turnbullfrom Buffalo Bisons.",
-      "player": "Spencer Turnbull"
+      "details": "Toronto Blue Jaysoptioned RHPPaxton Schultzto Buffalo Bisons.",
+      "player": "Paxton Schultz"
     },
     {
       "date": "2025-06-09",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersrecalled RFDominic Canzonefrom Tacoma Rainiers.",
       "player": "Dominic Canzone"
-    },
-    {
-      "date": "2025-06-09",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPMatt Svansonto Memphis Redbirds.",
-      "player": "Matt Svanson"
     }
   ]
 }
