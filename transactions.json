@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-06-09T18:34:37.086531",
+  "last_updated": "2025-06-09T19:20:56.734629",
   "transactions": [
     {
       "date": "2025-06-09",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated RHPSpencer Turnbull.",
-      "player": "Spencer Turnbull"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated CFLane Thomasfrom the 10-day injured list.",
+      "player": "Lane Thomas"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated RHPZack Wheelerfrom the paternity list.",
+      "player": "Zack Wheeler"
     },
     {
       "date": "2025-06-09",
@@ -15,9 +21,33 @@
     },
     {
       "date": "2025-06-09",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RHPSpencer Turnbull.",
+      "player": "Spencer Turnbull"
+    },
+    {
+      "date": "2025-06-09",
       "team": "New York Mets",
       "details": "New York Metsselected the contract of RHPJustin Garzafrom Syracuse Mets.",
       "player": "Justin Garza"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPRiley O'Brienfrom Memphis Redbirds.",
+      "player": "Riley O'Brien"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPPaxton Schultzto Buffalo Bisons.",
+      "player": "Paxton Schultz"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPMichael McGreevyto Memphis Redbirds.",
+      "player": "Michael McGreevy"
     },
     {
       "date": "2025-06-09",
@@ -27,9 +57,21 @@
     },
     {
       "date": "2025-06-09",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned 3BWill Wilsonto Columbus Clippers.",
+      "player": "Will Wilson"
+    },
+    {
+      "date": "2025-06-09",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysrecalled RHPSpencer Turnbullfrom Buffalo Bisons.",
       "player": "Spencer Turnbull"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPMatt Svansonto Memphis Redbirds.",
+      "player": "Matt Svanson"
     },
     {
       "date": "2025-06-09",
@@ -39,9 +81,15 @@
     },
     {
       "date": "2025-06-09",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPPaxton Schultzto Buffalo Bisons.",
-      "player": "Paxton Schultz"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPChris Roycroftfrom Memphis Redbirds.",
+      "player": "Chris Roycroft"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPDaniel Robertto Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
     }
   ]
 }
