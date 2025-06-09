@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-06-08T23:23:26.095314",
+  "last_updated": "2025-06-09T02:18:12.231964",
   "transactions": [
-    {
-      "date": "2025-06-08",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksreassigned RHPChristian Montes De Ocato the minor leagues.",
-      "player": "Christian Montes De Oca"
-    },
     {
       "date": "2025-06-08",
       "team": "Atlanta Braves",
@@ -27,9 +21,15 @@
     },
     {
       "date": "2025-06-08",
-      "team": "Athletics",
-      "details": "CAustin Wynnsroster status changed byAthletics.",
-      "player": "Austin Wynns"
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated RHPForrest Whitleyfor assignment.",
+      "player": "Forrest Whitley"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssigned free agent RHPZach Plesacto a minor league contract.",
+      "player": "Zach Plesac"
     },
     {
       "date": "2025-06-08",
@@ -51,9 +51,15 @@
     },
     {
       "date": "2025-06-08",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned free agent LHPTyler Alexander.",
-      "player": "Tyler Alexander"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksreassigned RHPChristian Montes De Ocato the minor leagues.",
+      "player": "Christian Montes De Oca"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Athletics",
+      "details": "Athleticsdesignated RHPCarlos Duranfor assignment.",
+      "player": "Carlos Duran"
     },
     {
       "date": "2025-06-08",
@@ -69,15 +75,9 @@
     },
     {
       "date": "2025-06-08",
-      "team": "Houston Astros",
-      "details": "Houston Astrosdesignated RHPForrest Whitleyfor assignment.",
-      "player": "Forrest Whitley"
-    },
-    {
-      "date": "2025-06-08",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssigned free agent RHPZach Plesacto a minor league contract.",
-      "player": "Zach Plesac"
+      "team": "Athletics",
+      "details": "CAustin Wynnsroster status changed byAthletics.",
+      "player": "Austin Wynns"
     },
     {
       "date": "2025-06-08",
@@ -105,9 +105,15 @@
     },
     {
       "date": "2025-06-08",
-      "team": "Athletics",
-      "details": "Athleticsdesignated RHPCarlos Duranfor assignment.",
-      "player": "Carlos Duran"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated RHPMichael Darrell-Hicksfor assignment.",
+      "player": "Michael Darrell-Hicks"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent LHPTyler Alexander.",
+      "player": "Tyler Alexander"
     },
     {
       "date": "2025-06-08",
@@ -117,69 +123,9 @@
     },
     {
       "date": "2025-06-08",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned RFJhonkensy Noelto Columbus Clippers.",
-      "player": "Jhonkensy Noel"
-    },
-    {
-      "date": "2025-06-08",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPMichael McGreevyfrom Memphis Redbirds.",
-      "player": "Michael McGreevy"
-    },
-    {
-      "date": "2025-06-08",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned LHPAustin Coxto Gwinnett Stripers.",
-      "player": "Austin Cox"
-    },
-    {
-      "date": "2025-06-08",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersclaimed LFDrew Avansoff waivers fromAthletics.",
-      "player": "Drew Avans"
-    },
-    {
-      "date": "2025-06-08",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned RHPChristian Montes De Ocato Reno Aces.",
-      "player": "Christian Montes De Oca"
-    },
-    {
-      "date": "2025-06-08",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesclaimed RHPRyan Cusickoff waivers fromChicago White Sox.",
-      "player": "Ryan Cusick"
-    },
-    {
-      "date": "2025-06-08",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPRyan Cusickto FCL Phillies.",
-      "player": "Ryan Cusick"
-    },
-    {
-      "date": "2025-06-08",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned LHPJoe La Sorsato Louisville Bats.",
-      "player": "Joe La Sorsa"
-    },
-    {
-      "date": "2025-06-08",
       "team": "Houston Astros",
       "details": "Houston Astrosrecalled LHPBrandon Walterfrom Sugar Land Space Cowboys.",
       "player": "Brandon Walter"
-    },
-    {
-      "date": "2025-06-08",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned LFDrew Avansto Nashville Sounds.",
-      "player": "Drew Avans"
-    },
-    {
-      "date": "2025-06-08",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent RHPThomas Hatchoutright to Omaha Storm Chasers.",
-      "player": "Thomas Hatch"
     },
     {
       "date": "2025-06-08",
@@ -196,8 +142,44 @@
     {
       "date": "2025-06-08",
       "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPChristian Montes De Ocato Reno Aces.",
+      "player": "Christian Montes De Oca"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPRyan Cusickto FCL Phillies.",
+      "player": "Ryan Cusick"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LFDrew Avansto Nashville Sounds.",
+      "player": "Drew Avans"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksselected the contract of LHPKyle Backhusfrom Reno Aces.",
       "player": "Kyle Backhus"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned LHPAustin Coxto Gwinnett Stripers.",
+      "player": "Austin Cox"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RFJhonkensy Noelto Columbus Clippers.",
+      "player": "Jhonkensy Noel"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPMichael McGreevyfrom Memphis Redbirds.",
+      "player": "Michael McGreevy"
     },
     {
       "date": "2025-06-08",
@@ -213,9 +195,33 @@
     },
     {
       "date": "2025-06-08",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned 1BCJ Alexanderto Scranton/Wilkes-Barre RailRiders.",
+      "player": "CJ Alexander"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstraded 1BLaMonte Wade Jr.and cash toLos Angeles Angelsfor Player To Be Named Later.",
+      "player": "LaMonte Wade Jr."
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent RHPThomas Hatchoutright to Omaha Storm Chasers.",
+      "player": "Thomas Hatch"
+    },
+    {
+      "date": "2025-06-08",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysoptioned RHPCole Sulserto Durham Bulls.",
       "player": "Cole Sulser"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersclaimed LFDrew Avansoff waivers fromAthletics.",
+      "player": "Drew Avans"
     },
     {
       "date": "2025-06-08",
@@ -225,9 +231,15 @@
     },
     {
       "date": "2025-06-08",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned 1BCJ Alexanderto Scranton/Wilkes-Barre RailRiders.",
-      "player": "CJ Alexander"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesclaimed RHPRyan Cusickoff waivers fromChicago White Sox.",
+      "player": "Ryan Cusick"
+    },
+    {
+      "date": "2025-06-08",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned LHPJoe La Sorsato Louisville Bats.",
+      "player": "Joe La Sorsa"
     }
   ]
 }
