@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-10T17:23:08.275130",
+  "last_updated": "2025-06-10T18:36:14.451419",
   "transactions": [
     {
       "date": "2025-06-10",
@@ -15,27 +15,33 @@
     },
     {
       "date": "2025-06-10",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced LHPBrent Suteron the bereavement list.",
+      "player": "Brent Suter"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated CFCedric Mullinsfrom the 10-day injured list.",
+      "player": "Cedric Mullins"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated 3BEmmanuel Riverafor assignment.",
+      "player": "Emmanuel Rivera"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated 3BJordan Westburgfrom the 10-day injured list.",
+      "player": "Jordan Westburg"
+    },
+    {
+      "date": "2025-06-10",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxsent LHPChris Murphyon a rehab assignment to Worcester Red Sox.",
       "player": "Chris Murphy"
-    },
-    {
-      "date": "2025-06-10",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersrecalled RHPLogan Evansfrom Tacoma Rainiers.",
-      "player": "Logan Evans"
-    },
-    {
-      "date": "2025-06-10",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
-      "player": "Travis Adams"
-    },
-    {
-      "date": "2025-06-10",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPSimeon Woods Richardsonfrom St. Paul Saints.",
-      "player": "Simeon Woods Richardson"
     },
     {
       "date": "2025-06-10",
@@ -48,6 +54,42 @@
       "team": "Washington Nationals",
       "details": "Washington Nationalsrecalled 1BAndrés Chaparrofrom Rochester Red Wings.",
       "player": "Andrés Chaparro"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPSimeon Woods Richardsonfrom St. Paul Saints.",
+      "player": "Simeon Woods Richardson"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent CFJordyn Adamsoutright to Norfolk Tides.",
+      "player": "Jordyn Adams"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LFHeston Kjerstadto Norfolk Tides.",
+      "player": "Heston Kjerstad"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled LHPJoe La Sorsafrom Louisville Bats.",
+      "player": "Joe La Sorsa"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
+      "player": "Travis Adams"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled RHPLogan Evansfrom Tacoma Rainiers.",
+      "player": "Logan Evans"
     }
   ]
 }
