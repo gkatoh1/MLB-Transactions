@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-06-10T13:37:52.435496",
+  "last_updated": "2025-06-10T14:26:21.576281",
   "transactions": [
-    {
-      "date": "2025-06-10",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent LHPChris Murphyon a rehab assignment to Worcester Red Sox.",
-      "player": "Chris Murphy"
-    },
     {
       "date": "2025-06-10",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Rayssent LFRichie Palacioson a rehab assignment to FCL Rays.",
       "player": "Richie Palacios"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent LHPChris Murphyon a rehab assignment to Worcester Red Sox.",
+      "player": "Chris Murphy"
     }
   ]
 }
