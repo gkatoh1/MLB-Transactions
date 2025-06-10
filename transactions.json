@@ -1,6 +1,36 @@
 {
-  "last_updated": "2025-06-09T23:24:50.182083",
+  "last_updated": "2025-06-10T02:08:30.012947",
   "transactions": [
+    {
+      "date": "2025-06-09",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced RFWilyer Abreuon the 10-day injured list. Left oblique strain.",
+      "player": "Wilyer Abreu"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced LHPRyan Weatherson the 60-day injured list. Left lat strain.",
+      "player": "Ryan Weathers"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Athletics",
+      "details": "Athleticsactivated 1BNick Kurtzfrom the 10-day injured list.",
+      "player": "Nick Kurtz"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated LHPGarrett McDanielsfor assignment.",
+      "player": "Garrett McDaniels"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated RHPEury Pérezfrom the 60-day injured list.",
+      "player": "Eury Pérez"
+    },
     {
       "date": "2025-06-09",
       "team": "Atlanta Braves",
@@ -27,63 +57,15 @@
     },
     {
       "date": "2025-06-09",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsdesignated LHPGarrett McDanielsfor assignment.",
-      "player": "Garrett McDaniels"
-    },
-    {
-      "date": "2025-06-09",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsactivated RHPEury Pérezfrom the 60-day injured list.",
-      "player": "Eury Pérez"
-    },
-    {
-      "date": "2025-06-09",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated CFLane Thomasfrom the 10-day injured list.",
-      "player": "Lane Thomas"
-    },
-    {
-      "date": "2025-06-09",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated RHPZack Wheelerfrom the paternity list.",
-      "player": "Zack Wheeler"
-    },
-    {
-      "date": "2025-06-09",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced RFWilyer Abreuon the 10-day injured list. Left oblique strain.",
-      "player": "Wilyer Abreu"
-    },
-    {
-      "date": "2025-06-09",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsplaced LHPRyan Weatherson the 60-day injured list. Left lat strain.",
-      "player": "Ryan Weathers"
-    },
-    {
-      "date": "2025-06-09",
-      "team": "Athletics",
-      "details": "Athleticsactivated 1BNick Kurtzfrom the 10-day injured list.",
-      "player": "Nick Kurtz"
-    },
-    {
-      "date": "2025-06-09",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysactivated RHPSpencer Turnbull.",
       "player": "Spencer Turnbull"
     },
     {
       "date": "2025-06-09",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxdesignated RHPRobert Stockfor assignment.",
-      "player": "Robert Stock"
-    },
-    {
-      "date": "2025-06-09",
-      "team": "Athletics",
-      "details": "Athleticsactivated CAustin Wynns.",
-      "player": "Austin Wynns"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent LHPShota Imanagaon a rehab assignment to ACL Cubs.",
+      "player": "Shota Imanaga"
     },
     {
       "date": "2025-06-09",
@@ -99,45 +81,39 @@
     },
     {
       "date": "2025-06-09",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPDaniel Robertto Lehigh Valley IronPigs.",
-      "player": "Daniel Robert"
-    },
-    {
-      "date": "2025-06-09",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled RHPSpencer Turnbullfrom Buffalo Bisons.",
-      "player": "Spencer Turnbull"
-    },
-    {
-      "date": "2025-06-09",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPMatt Svansonto Memphis Redbirds.",
-      "player": "Matt Svanson"
-    },
-    {
-      "date": "2025-06-09",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxselected the contract of CFRoman Anthonyfrom Worcester Red Sox.",
-      "player": "Roman Anthony"
+      "details": "Boston Red Soxdesignated RHPRobert Stockfor assignment.",
+      "player": "Robert Stock"
     },
     {
       "date": "2025-06-09",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPChris Roycroftfrom Memphis Redbirds.",
-      "player": "Chris Roycroft"
+      "team": "Athletics",
+      "details": "Athleticsactivated CAustin Wynns.",
+      "player": "Austin Wynns"
     },
     {
       "date": "2025-06-09",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled RHPChristian Montes De Ocafrom Reno Aces.",
-      "player": "Christian Montes De Oca"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated CFLane Thomasfrom the 10-day injured list.",
+      "player": "Lane Thomas"
     },
     {
       "date": "2025-06-09",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned RHPJosé Ferminto Salt Lake Bees.",
-      "player": "José Fermin"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated RHPZack Wheelerfrom the paternity list.",
+      "player": "Zack Wheeler"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPConnor Gillispieto Jacksonville Jumbo Shrimp.",
+      "player": "Connor Gillispie"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
+      "player": "Travis Adams"
     },
     {
       "date": "2025-06-09",
@@ -153,45 +129,9 @@
     },
     {
       "date": "2025-06-09",
-      "team": "Athletics",
-      "details": "Athleticsoptioned 1BLogan Davidsonto Las Vegas Aviators.",
-      "player": "Logan Davidson"
-    },
-    {
-      "date": "2025-06-09",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPConnor Gillispieto Jacksonville Jumbo Shrimp.",
-      "player": "Connor Gillispie"
-    },
-    {
-      "date": "2025-06-09",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssent RHPCasey Lawrenceoutright to Tacoma Rainiers.",
-      "player": "Casey Lawrence"
-    },
-    {
-      "date": "2025-06-09",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned SSNasim Nuñezto Rochester Red Wings.",
-      "player": "Nasim Nuñez"
-    },
-    {
-      "date": "2025-06-09",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersrecalled RFDominic Canzonefrom Tacoma Rainiers.",
-      "player": "Dominic Canzone"
-    },
-    {
-      "date": "2025-06-09",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPPaxton Schultzto Buffalo Bisons.",
-      "player": "Paxton Schultz"
-    },
-    {
-      "date": "2025-06-09",
       "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPRiley O'Brienfrom Memphis Redbirds.",
-      "player": "Riley O'Brien"
+      "details": "St. Louis Cardinalsrecalled RHPChris Roycroftfrom Memphis Redbirds.",
+      "player": "Chris Roycroft"
     },
     {
       "date": "2025-06-09",
@@ -201,9 +141,9 @@
     },
     {
       "date": "2025-06-09",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
-      "player": "Travis Adams"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of RHPBrian Van Bellefrom Worcester Red Sox.",
+      "player": "Brian Van Belle"
     },
     {
       "date": "2025-06-09",
@@ -213,9 +153,15 @@
     },
     {
       "date": "2025-06-09",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPMichael McGreevyto Memphis Redbirds.",
-      "player": "Michael McGreevy"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPJosé Ferminto Salt Lake Bees.",
+      "player": "José Fermin"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned SSNasim Nuñezto Rochester Red Wings.",
+      "player": "Nasim Nuñez"
     },
     {
       "date": "2025-06-09",
@@ -225,15 +171,63 @@
     },
     {
       "date": "2025-06-09",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPJustin Garzafrom Syracuse Mets.",
-      "player": "Justin Garza"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPRiley O'Brienfrom Memphis Redbirds.",
+      "player": "Riley O'Brien"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPPaxton Schultzto Buffalo Bisons.",
+      "player": "Paxton Schultz"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPChristian Montes De Ocafrom Reno Aces.",
+      "player": "Christian Montes De Oca"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned 3BWill Wilsonto Columbus Clippers.",
+      "player": "Will Wilson"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPMichael McGreevyto Memphis Redbirds.",
+      "player": "Michael McGreevy"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPSpencer Turnbullfrom Buffalo Bisons.",
+      "player": "Spencer Turnbull"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled RFDominic Canzonefrom Tacoma Rainiers.",
+      "player": "Dominic Canzone"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPMatt Svansonto Memphis Redbirds.",
+      "player": "Matt Svanson"
     },
     {
       "date": "2025-06-09",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxselected the contract of RHPBrian Van Bellefrom Worcester Red Sox.",
-      "player": "Brian Van Belle"
+      "details": "Boston Red Soxselected the contract of CFRoman Anthonyfrom Worcester Red Sox.",
+      "player": "Roman Anthony"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPCasey Lawrenceoutright to Tacoma Rainiers.",
+      "player": "Casey Lawrence"
     },
     {
       "date": "2025-06-09",
@@ -243,9 +237,21 @@
     },
     {
       "date": "2025-06-09",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned 3BWill Wilsonto Columbus Clippers.",
-      "player": "Will Wilson"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPDaniel Robertto Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPJustin Garzafrom Syracuse Mets.",
+      "player": "Justin Garza"
+    },
+    {
+      "date": "2025-06-09",
+      "team": "Athletics",
+      "details": "Athleticsoptioned 1BLogan Davidsonto Las Vegas Aviators.",
+      "player": "Logan Davidson"
     }
   ]
 }
