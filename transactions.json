@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-06-10T21:24:34.550884",
+  "last_updated": "2025-06-10T22:25:10.013917",
   "transactions": [
     {
       "date": "2025-06-10",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated RHPBryse Wilsonfor assignment.",
-      "player": "Bryse Wilson"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent LHPErik Sabrowskion a rehab assignment to Columbus Clippers.",
+      "player": "Erik Sabrowski"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Athletics",
+      "details": "Athleticssigned free agent LHPJack Mahoneyto a minor league contract.",
+      "player": "Jack Mahoney"
     },
     {
       "date": "2025-06-10",
@@ -15,21 +21,15 @@
     },
     {
       "date": "2025-06-10",
-      "team": "New York Mets",
-      "details": "New York Metssigned free agent RFTravis Jankowskito a minor league contract.",
-      "player": "Travis Jankowski"
-    },
-    {
-      "date": "2025-06-10",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent RHPTrevor Stephanon a rehab assignment to ACL Guardians.",
-      "player": "Trevor Stephan"
-    },
-    {
-      "date": "2025-06-10",
       "team": "New York Yankees",
       "details": "New York Yankeessent DHGiancarlo Stantonon a rehab assignment to Somerset Patriots.",
       "player": "Giancarlo Stanton"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent RFTravis Jankowskito a minor league contract.",
+      "player": "Travis Jankowski"
     },
     {
       "date": "2025-06-10",
@@ -39,15 +39,15 @@
     },
     {
       "date": "2025-06-10",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent LFRichie Palacioson a rehab assignment to FCL Rays.",
-      "player": "Richie Palacios"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent LHPChris Murphyon a rehab assignment to Worcester Red Sox.",
+      "player": "Chris Murphy"
     },
     {
       "date": "2025-06-10",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced 2BMichael Masseyon the 10-day injured list retroactive to June 8, 2025. Left ankle sprain.",
-      "player": "Michael Massey"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RHPBryse Wilsonfor assignment.",
+      "player": "Bryse Wilson"
     },
     {
       "date": "2025-06-10",
@@ -57,15 +57,15 @@
     },
     {
       "date": "2025-06-10",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesactivated RFMickey Moniakfrom the bereavement list.",
-      "player": "Mickey Moniak"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned free agent RHPTanner Raineyto a minor league contract.",
+      "player": "Tanner Rainey"
     },
     {
       "date": "2025-06-10",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent LHPErik Sabrowskion a rehab assignment to Columbus Clippers.",
-      "player": "Erik Sabrowski"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated RFMickey Moniakfrom the bereavement list.",
+      "player": "Mickey Moniak"
     },
     {
       "date": "2025-06-10",
@@ -75,15 +75,57 @@
     },
     {
       "date": "2025-06-10",
-      "team": "New York Mets",
-      "details": "New York Metsplaced CFrancisco Alvarezon the paternity list.",
-      "player": "Francisco Alvarez"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced CFChris Tayloron the 10-day injured list. Left hand fracture.",
+      "player": "Chris Taylor"
     },
     {
       "date": "2025-06-10",
-      "team": "Athletics",
-      "details": "Athleticssigned free agent LHPJack Mahoneyto a minor league contract.",
-      "player": "Jack Mahoney"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent LFRichie Palacioson a rehab assignment to FCL Rays.",
+      "player": "Richie Palacios"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated CFRoman Anthony.",
+      "player": "Roman Anthony"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced 2BMichael Masseyon the 10-day injured list retroactive to June 8, 2025. Left ankle sprain.",
+      "player": "Michael Massey"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent LHPAustin Gomberon a rehab assignment to Albuquerque Isotopes.",
+      "player": "Austin Gomber"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPTrevor Stephanon a rehab assignment to ACL Guardians.",
+      "player": "Trevor Stephan"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated 1BLaMonte Wade Jr..",
+      "player": "LaMonte Wade Jr."
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated RHPJosé Ureñafor assignment.",
+      "player": "José Ureña"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "New York Mets",
+      "details": "New York Metsplaced CFrancisco Alvarezon the paternity list.",
+      "player": "Francisco Alvarez"
     },
     {
       "date": "2025-06-10",
@@ -99,57 +141,15 @@
     },
     {
       "date": "2025-06-10",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersdesignated RHPJosé Ureñafor assignment.",
-      "player": "José Ureña"
-    },
-    {
-      "date": "2025-06-10",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent LHPChris Murphyon a rehab assignment to Worcester Red Sox.",
-      "player": "Chris Murphy"
-    },
-    {
-      "date": "2025-06-10",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned SSNasim Nuñezto Rochester Red Wings.",
-      "player": "Nasim Nuñez"
-    },
-    {
-      "date": "2025-06-10",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of RHPGrant Taylorfrom Birmingham Barons.",
-      "player": "Grant Taylor"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPMason Englertfrom Durham Bulls.",
+      "player": "Mason Englert"
     },
     {
       "date": "2025-06-10",
       "team": "Washington Nationals",
       "details": "Washington Nationalsclaimed RHPRyan Loutosoff waivers fromLos Angeles Dodgers.",
       "player": "Ryan Loutos"
-    },
-    {
-      "date": "2025-06-10",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPEaston McGeefrom Nashville Sounds.",
-      "player": "Easton McGee"
-    },
-    {
-      "date": "2025-06-10",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPSimeon Woods Richardsonfrom St. Paul Saints.",
-      "player": "Simeon Woods Richardson"
-    },
-    {
-      "date": "2025-06-10",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled 1BAndrés Chaparrofrom Rochester Red Wings.",
-      "player": "Andrés Chaparro"
-    },
-    {
-      "date": "2025-06-10",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent CFJordyn Adamsoutright to Norfolk Tides.",
-      "player": "Jordyn Adams"
     },
     {
       "date": "2025-06-10",
@@ -171,21 +171,51 @@
     },
     {
       "date": "2025-06-10",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent CFJordyn Adamsoutright to Norfolk Tides.",
+      "player": "Jordyn Adams"
+    },
+    {
+      "date": "2025-06-10",
       "team": "New York Mets",
       "details": "New York Metsrecalled CHayden Sengerfrom Syracuse Mets.",
       "player": "Hayden Senger"
     },
     {
       "date": "2025-06-10",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPGrant Andersonto Nashville Sounds.",
-      "player": "Grant Anderson"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned SSNasim Nuñezto Rochester Red Wings.",
+      "player": "Nasim Nuñez"
     },
     {
       "date": "2025-06-10",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersrecalled RHPLogan Evansfrom Tacoma Rainiers.",
-      "player": "Logan Evans"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of RHPGrant Taylorfrom Birmingham Barons.",
+      "player": "Grant Taylor"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
+      "player": "Travis Adams"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPEaston McGeefrom Nashville Sounds.",
+      "player": "Easton McGee"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled 1BAndrés Chaparrofrom Rochester Red Wings.",
+      "player": "Andrés Chaparro"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled 2BChristian Kossfrom Sacramento River Cats.",
+      "player": "Christian Koss"
     },
     {
       "date": "2025-06-10",
@@ -195,9 +225,15 @@
     },
     {
       "date": "2025-06-10",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsrecalled 2BChristian Kossfrom Sacramento River Cats.",
-      "player": "Christian Koss"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPSimeon Woods Richardsonfrom St. Paul Saints.",
+      "player": "Simeon Woods Richardson"
+    },
+    {
+      "date": "2025-06-10",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled RHPLogan Evansfrom Tacoma Rainiers.",
+      "player": "Logan Evans"
     },
     {
       "date": "2025-06-10",
@@ -213,15 +249,9 @@
     },
     {
       "date": "2025-06-10",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
-      "player": "Travis Adams"
-    },
-    {
-      "date": "2025-06-10",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPMason Englertfrom Durham Bulls.",
-      "player": "Mason Englert"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPGrant Andersonto Nashville Sounds.",
+      "player": "Grant Anderson"
     }
   ]
 }
