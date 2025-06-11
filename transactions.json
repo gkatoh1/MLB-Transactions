@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-06-11T17:23:33.931702",
+  "last_updated": "2025-06-11T18:36:46.103439",
   "transactions": [
     {
       "date": "2025-06-11",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessigned free agent LHPSayer Diederichto a minor league contract.",
       "player": "Sayer Diederich"
+    },
+    {
+      "date": "2025-06-11",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RFNathan Lukeson the 7-day injured list retroactive to June 10, 2025. Concussion.",
+      "player": "Nathan Lukes"
     },
     {
       "date": "2025-06-11",
@@ -27,18 +33,6 @@
     },
     {
       "date": "2025-06-11",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced RFNathan Lukeson the 7-day injured list retroactive to June 10, 2025. Concussion.",
-      "player": "Nathan Lukes"
-    },
-    {
-      "date": "2025-06-11",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPKyle Nicolasto Indianapolis Indians.",
-      "player": "Kyle Nicolas"
-    },
-    {
-      "date": "2025-06-11",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesrecalled RHPCarmen Mlodzinskifrom Indianapolis Indians.",
       "player": "Carmen Mlodzinski"
@@ -54,6 +48,12 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysselected the contract of LFWill Robertsonfrom Buffalo Bisons.",
       "player": "Will Robertson"
+    },
+    {
+      "date": "2025-06-11",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPKyle Nicolasto Indianapolis Indians.",
+      "player": "Kyle Nicolas"
     }
   ]
 }
