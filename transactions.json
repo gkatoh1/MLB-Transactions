@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-11T20:27:44.628810",
+  "last_updated": "2025-06-11T21:24:35.054121",
   "transactions": [
     {
       "date": "2025-06-11",
@@ -9,45 +9,15 @@
     },
     {
       "date": "2025-06-11",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced RFNathan Lukeson the 7-day injured list retroactive to June 10, 2025. Concussion.",
-      "player": "Nathan Lukes"
-    },
-    {
-      "date": "2025-06-11",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratessent CJoey Barton a rehab assignment to Indianapolis Indians.",
       "player": "Joey Bart"
     },
     {
       "date": "2025-06-11",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated RHPLucas Ercegfrom the 15-day injured list.",
-      "player": "Lucas Erceg"
-    },
-    {
-      "date": "2025-06-11",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsdesignated RHPTrevor Richardsfor assignment.",
-      "player": "Trevor Richards"
-    },
-    {
-      "date": "2025-06-11",
       "team": "Houston Astros",
       "details": "Houston Astrossigned free agent RHPNate Wohlgemuthto a minor league contract.",
       "player": "Nate Wohlgemuth"
-    },
-    {
-      "date": "2025-06-11",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysplaced RHPManuel Rodríguezon the 15-day injured list retroactive to June 10, 2025. Right forearm strain.",
-      "player": "Manuel Rodríguez"
-    },
-    {
-      "date": "2025-06-11",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced LHPCole Raganson the 15-day injured list retroactive to June 8, 2025. Left rotator cuff strain.",
-      "player": "Cole Ragans"
     },
     {
       "date": "2025-06-11",
@@ -69,21 +39,39 @@
     },
     {
       "date": "2025-06-11",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent CJoey Barton a rehab assignment to Indianapolis Indians.",
-      "player": "Joey Bart"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RFNathan Lukeson the 7-day injured list retroactive to June 10, 2025. Concussion.",
+      "player": "Nathan Lukes"
+    },
+    {
+      "date": "2025-06-11",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced RHPManuel Rodríguezon the 15-day injured list retroactive to June 10, 2025. Right forearm strain.",
+      "player": "Manuel Rodríguez"
     },
     {
       "date": "2025-06-11",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
-      "player": "Jonathan Bowlan"
+      "details": "Kansas City Royalsplaced LHPCole Raganson the 15-day injured list retroactive to June 8, 2025. Left rotator cuff strain.",
+      "player": "Cole Ragans"
+    },
+    {
+      "date": "2025-06-11",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RHPLucas Ercegfrom the 15-day injured list.",
+      "player": "Lucas Erceg"
+    },
+    {
+      "date": "2025-06-11",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsdesignated RHPTrevor Richardsfor assignment.",
+      "player": "Trevor Richards"
     },
     {
       "date": "2025-06-11",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPCarmen Mlodzinskifrom Indianapolis Indians.",
-      "player": "Carmen Mlodzinski"
+      "details": "Pittsburgh Piratessent CJoey Barton a rehab assignment to Indianapolis Indians.",
+      "player": "Joey Bart"
     },
     {
       "date": "2025-06-11",
@@ -99,15 +87,21 @@
     },
     {
       "date": "2025-06-11",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of LFWill Robertsonfrom Buffalo Bisons.",
-      "player": "Will Robertson"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
+      "player": "Jonathan Bowlan"
     },
     {
       "date": "2025-06-11",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysrecalled RHPCole Sulserfrom Durham Bulls.",
       "player": "Cole Sulser"
+    },
+    {
+      "date": "2025-06-11",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPCarmen Mlodzinskifrom Indianapolis Indians.",
+      "player": "Carmen Mlodzinski"
     },
     {
       "date": "2025-06-11",
@@ -120,6 +114,12 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxsent RHPRobert Stockoutright to Worcester Red Sox.",
       "player": "Robert Stock"
+    },
+    {
+      "date": "2025-06-11",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of LFWill Robertsonfrom Buffalo Bisons.",
+      "player": "Will Robertson"
     }
   ]
 }
