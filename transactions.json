@@ -1,29 +1,11 @@
 {
-  "last_updated": "2025-06-11T21:24:35.054121",
+  "last_updated": "2025-06-11T22:24:56.569635",
   "transactions": [
     {
       "date": "2025-06-11",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinstransferred RHPPablo Lópezfrom the 15-day injured list to the 60-day injured list. Right shoulder strain.",
       "player": "Pablo López"
-    },
-    {
-      "date": "2025-06-11",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent CJoey Barton a rehab assignment to Indianapolis Indians.",
-      "player": "Joey Bart"
-    },
-    {
-      "date": "2025-06-11",
-      "team": "Houston Astros",
-      "details": "Houston Astrossigned free agent RHPNate Wohlgemuthto a minor league contract.",
-      "player": "Nate Wohlgemuth"
-    },
-    {
-      "date": "2025-06-11",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent LHPSayer Diederichto a minor league contract.",
-      "player": "Sayer Diederich"
     },
     {
       "date": "2025-06-11",
@@ -39,9 +21,45 @@
     },
     {
       "date": "2025-06-11",
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned free agent RHPNate Wohlgemuthto a minor league contract.",
+      "player": "Nate Wohlgemuth"
+    },
+    {
+      "date": "2025-06-11",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced CPatrick Baileyon the 10-day injured list retroactive to June 8, 2025. Neck strain.",
+      "player": "Patrick Bailey"
+    },
+    {
+      "date": "2025-06-11",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent LHPSayer Diederichto a minor league contract.",
+      "player": "Sayer Diederich"
+    },
+    {
+      "date": "2025-06-11",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPAlex Cobbon a rehab assignment to Toledo Mud Hens.",
+      "player": "Alex Cobb"
+    },
+    {
+      "date": "2025-06-11",
+      "team": "Athletics",
+      "details": "Athleticssent 3BGio Urshelaon a rehab assignment to Las Vegas Aviators.",
+      "player": "Gio Urshela"
+    },
+    {
+      "date": "2025-06-11",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysplaced RFNathan Lukeson the 7-day injured list retroactive to June 10, 2025. Concussion.",
       "player": "Nathan Lukes"
+    },
+    {
+      "date": "2025-06-11",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsdesignated SSOsleivis Basabefor assignment.",
+      "player": "Osleivis Basabe"
     },
     {
       "date": "2025-06-11",
@@ -69,6 +87,12 @@
     },
     {
       "date": "2025-06-11",
+      "team": "Athletics",
+      "details": "Athleticssent LHPBrady Bassoon a rehab assignment to Las Vegas Aviators.",
+      "player": "Brady Basso"
+    },
+    {
+      "date": "2025-06-11",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratessent CJoey Barton a rehab assignment to Indianapolis Indians.",
       "player": "Joey Bart"
@@ -76,20 +100,8 @@
     {
       "date": "2025-06-11",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPKyle Nicolasto Indianapolis Indians.",
-      "player": "Kyle Nicolas"
-    },
-    {
-      "date": "2025-06-11",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPMichael Mercadofrom Lehigh Valley IronPigs.",
-      "player": "Michael Mercado"
-    },
-    {
-      "date": "2025-06-11",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
-      "player": "Jonathan Bowlan"
+      "details": "Pittsburgh Piratessent CJoey Barton a rehab assignment to Indianapolis Indians.",
+      "player": "Joey Bart"
     },
     {
       "date": "2025-06-11",
@@ -99,9 +111,9 @@
     },
     {
       "date": "2025-06-11",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPCarmen Mlodzinskifrom Indianapolis Indians.",
-      "player": "Carmen Mlodzinski"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPRobert Stockoutright to Worcester Red Sox.",
+      "player": "Robert Stock"
     },
     {
       "date": "2025-06-11",
@@ -111,15 +123,57 @@
     },
     {
       "date": "2025-06-11",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of LFWill Robertsonfrom Buffalo Bisons.",
+      "player": "Will Robertson"
+    },
+    {
+      "date": "2025-06-11",
+      "team": "Athletics",
+      "details": "Athleticssent RHPCarlos Duranoutright to Las Vegas Aviators.",
+      "player": "Carlos Duran"
+    },
+    {
+      "date": "2025-06-11",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPMichael Mercadofrom Lehigh Valley IronPigs.",
+      "player": "Michael Mercado"
+    },
+    {
+      "date": "2025-06-11",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPKyle Nicolasto Indianapolis Indians.",
+      "player": "Kyle Nicolas"
+    },
+    {
+      "date": "2025-06-11",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxsent RHPRobert Stockoutright to Worcester Red Sox.",
       "player": "Robert Stock"
     },
     {
       "date": "2025-06-11",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of LFWill Robertsonfrom Buffalo Bisons.",
-      "player": "Will Robertson"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
+      "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2025-06-11",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPTyson Milleroutright to Iowa Cubs.",
+      "player": "Tyson Miller"
+    },
+    {
+      "date": "2025-06-11",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPCarmen Mlodzinskifrom Indianapolis Indians.",
+      "player": "Carmen Mlodzinski"
+    },
+    {
+      "date": "2025-06-11",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsselected the contract of CLogan Porterfrom Sacramento River Cats.",
+      "player": "Logan Porter"
     }
   ]
 }
