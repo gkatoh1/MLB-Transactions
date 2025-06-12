@@ -1,4 +1,23 @@
 {
-  "last_updated": "2025-06-12T14:26:42.972448",
-  "transactions": []
+  "last_updated": "2025-06-12T15:28:40.842484",
+  "transactions": [
+    {
+      "date": "2025-06-12",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
+      "player": "Hayden Senger"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned LHPBrent Headrickto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Brent Headrick"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned LHPJoe La Sorsato Louisville Bats.",
+      "player": "Joe La Sorsa"
+    }
+  ]
 }
