@@ -1,11 +1,83 @@
 {
-  "last_updated": "2025-06-12T16:32:56.410013",
+  "last_updated": "2025-06-12T17:23:36.132948",
   "transactions": [
+    {
+      "date": "2025-06-12",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent RHPDeivi Garciato a minor league contract.",
+      "player": "Deivi Garcia"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent RHPAnderson Riverato a minor league contract.",
+      "player": "Anderson Rivera"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned free agent LHPMichael Manjarresto a minor league contract.",
+      "player": "Michael Manjarres"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssigned free agent RHPDaniel Castroto a minor league contract.",
+      "player": "Daniel Castro"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssigned free agent SSDavid Shirleyto a minor league contract.",
+      "player": "David Shirley"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent RHPYusef Hananiato a minor league contract.",
+      "player": "Yusef Hanania"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent LHPAndy Peraltato a minor league contract.",
+      "player": "Andy Peralta"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent RHPYusef Hananiato a minor league contract.",
+      "player": "Yusef Hanania"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated LHPJoey Wentz.",
+      "player": "Joey Wentz"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessigned free agent RHPNetali Pinalesto a minor league contract.",
+      "player": "Netali Pinales"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent RHPJulio Gonzalezto a minor league contract.",
+      "player": "Julio Gonzalez"
+    },
     {
       "date": "2025-06-12",
       "team": "New York Mets",
       "details": "New York Metsactivated CFrancisco Alvarezfrom the paternity list.",
       "player": "Francisco Alvarez"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced RHPBrandon Woodruffon the 60-day injured list. Recovery of right shoulder surgery.",
+      "player": "Brandon Woodruff"
     },
     {
       "date": "2025-06-12",
@@ -15,15 +87,27 @@
     },
     {
       "date": "2025-06-12",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
-      "player": "Hayden Senger"
-    },
-    {
-      "date": "2025-06-12",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned LHPBrent Headrickto Scranton/Wilkes-Barre RailRiders.",
       "player": "Brent Headrick"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPEaston McGeeto Nashville Sounds.",
+      "player": "Easton McGee"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of RHPJacob Misiorowskifrom Nashville Sounds.",
+      "player": "Jacob Misiorowski"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPAnthony Molinafrom Albuquerque Isotopes.",
+      "player": "Anthony Molina"
     },
     {
       "date": "2025-06-12",
@@ -33,9 +117,9 @@
     },
     {
       "date": "2025-06-12",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPAnthony Molinafrom Albuquerque Isotopes.",
-      "player": "Anthony Molina"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
+      "player": "Hayden Senger"
     }
   ]
 }
