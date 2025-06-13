@@ -1,41 +1,23 @@
 {
-  "last_updated": "2025-06-12T23:24:49.640913",
+  "last_updated": "2025-06-13T02:07:33.119701",
   "transactions": [
     {
       "date": "2025-06-12",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessigned free agent RHPNetali Pinalesto a minor league contract.",
-      "player": "Netali Pinales"
-    },
-    {
-      "date": "2025-06-12",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssigned free agent RHPTanner Andrewsto a minor league contract.",
-      "player": "Tanner Andrews"
-    },
-    {
-      "date": "2025-06-12",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent RFStuart Fairchildon a rehab assignment to Gwinnett Stripers.",
-      "player": "Stuart Fairchild"
+      "details": "Atlanta Bravessent SSNacho Alvarez Jr.on a rehab assignment to Gwinnett Stripers.",
+      "player": "Nacho Alvarez Jr."
     },
     {
       "date": "2025-06-12",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssent RFLuke Raleyon a rehab assignment to Tacoma Rainiers.",
-      "player": "Luke Raley"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced RHPBrandon Woodruffon the 60-day injured list. Recovery of right shoulder surgery.",
+      "player": "Brandon Woodruff"
     },
     {
       "date": "2025-06-12",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsigned free agent LHPMichael Manjarresto a minor league contract.",
-      "player": "Michael Manjarres"
-    },
-    {
-      "date": "2025-06-12",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssigned free agent RHPDaniel Castroto a minor league contract.",
-      "player": "Daniel Castro"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent LFTaylor Trammellon a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Taylor Trammell"
     },
     {
       "date": "2025-06-12",
@@ -81,9 +63,15 @@
     },
     {
       "date": "2025-06-12",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerstransferred RHPJackson Jobefrom the 15-day injured list to the 60-day injured list. Right grade one flexor strain.",
-      "player": "Jackson Jobe"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RFLuke Raleyon a rehab assignment to Tacoma Rainiers.",
+      "player": "Luke Raley"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned free agent LHPMichael Manjarresto a minor league contract.",
+      "player": "Michael Manjarres"
     },
     {
       "date": "2025-06-12",
@@ -93,39 +81,27 @@
     },
     {
       "date": "2025-06-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent SSNacho Alvarez Jr.on a rehab assignment to Gwinnett Stripers.",
-      "player": "Nacho Alvarez Jr."
-    },
-    {
-      "date": "2025-06-12",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced RHPBrandon Woodruffon the 60-day injured list. Recovery of right shoulder surgery.",
-      "player": "Brandon Woodruff"
-    },
-    {
-      "date": "2025-06-12",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent LFTaylor Trammellon a rehab assignment to Sugar Land Space Cowboys.",
-      "player": "Taylor Trammell"
-    },
-    {
-      "date": "2025-06-12",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssent RFJordan Walkeron a rehab assignment to Memphis Redbirds.",
-      "player": "Jordan Walker"
-    },
-    {
-      "date": "2025-06-12",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsdesignated RFRyan Viladefor assignment.",
-      "player": "Ryan Vilade"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent RHPAnderson Riverato a minor league contract.",
+      "player": "Anderson Rivera"
     },
     {
       "date": "2025-06-12",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsactivated LHPJoey Wentz.",
       "player": "Joey Wentz"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPTanner Andrewsto a minor league contract.",
+      "player": "Tanner Andrews"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessigned free agent RHPNetali Pinalesto a minor league contract.",
+      "player": "Netali Pinales"
     },
     {
       "date": "2025-06-12",
@@ -141,15 +117,39 @@
     },
     {
       "date": "2025-06-12",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssigned free agent RHPDaniel Castroto a minor league contract.",
+      "player": "Daniel Castro"
+    },
+    {
+      "date": "2025-06-12",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssent RHPNick Sandlinon a rehab assignment to Buffalo Bisons.",
       "player": "Nick Sandlin"
     },
     {
       "date": "2025-06-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssigned free agent RHPAnderson Riverato a minor league contract.",
-      "player": "Anderson Rivera"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent RFJordan Walkeron a rehab assignment to Memphis Redbirds.",
+      "player": "Jordan Walker"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsdesignated RFRyan Viladefor assignment.",
+      "player": "Ryan Vilade"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RFStuart Fairchildon a rehab assignment to Gwinnett Stripers.",
+      "player": "Stuart Fairchild"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerstransferred RHPJackson Jobefrom the 15-day injured list to the 60-day injured list. Right grade one flexor strain.",
+      "player": "Jackson Jobe"
     },
     {
       "date": "2025-06-12",
@@ -159,21 +159,51 @@
     },
     {
       "date": "2025-06-12",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPScott Effrossfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Scott Effross"
-    },
-    {
-      "date": "2025-06-12",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesrecalled RHPAnthony Molinafrom Albuquerque Isotopes.",
       "player": "Anthony Molina"
     },
     {
       "date": "2025-06-12",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned LFMatthew Lugoto Salt Lake Bees.",
+      "player": "Matthew Lugo"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPScott Effrossfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Scott Effross"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
+      "player": "Hayden Senger"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPEaston McGeeto Nashville Sounds.",
+      "player": "Easton McGee"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned LHPBrent Headrickto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Brent Headrick"
+    },
+    {
+      "date": "2025-06-12",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsoptioned RHPChris Roycroftto Memphis Redbirds.",
       "player": "Chris Roycroft"
+    },
+    {
+      "date": "2025-06-12",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of RHPJacob Misiorowskifrom Nashville Sounds.",
+      "player": "Jacob Misiorowski"
     },
     {
       "date": "2025-06-12",
@@ -195,18 +225,6 @@
     },
     {
       "date": "2025-06-12",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent 3BEmmanuel Riveraoutright to Norfolk Tides.",
-      "player": "Emmanuel Rivera"
-    },
-    {
-      "date": "2025-06-12",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
-      "player": "Hayden Senger"
-    },
-    {
-      "date": "2025-06-12",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned LHPJoe La Sorsato Louisville Bats.",
       "player": "Joe La Sorsa"
@@ -219,33 +237,15 @@
     },
     {
       "date": "2025-06-12",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPEaston McGeeto Nashville Sounds.",
-      "player": "Easton McGee"
-    },
-    {
-      "date": "2025-06-12",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned LHPBrent Headrickto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Brent Headrick"
-    },
-    {
-      "date": "2025-06-12",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsrecalled CFMichael Sianifrom Memphis Redbirds.",
       "player": "Michael Siani"
     },
     {
       "date": "2025-06-12",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersselected the contract of RHPJacob Misiorowskifrom Nashville Sounds.",
-      "player": "Jacob Misiorowski"
-    },
-    {
-      "date": "2025-06-12",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned LFMatthew Lugoto Salt Lake Bees.",
-      "player": "Matthew Lugo"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent 3BEmmanuel Riveraoutright to Norfolk Tides.",
+      "player": "Emmanuel Rivera"
     }
   ]
 }
