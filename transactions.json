@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-13T16:32:50.428575",
+  "last_updated": "2025-06-13T17:23:25.906998",
   "transactions": [
     {
       "date": "2025-06-13",
@@ -15,15 +15,9 @@
     },
     {
       "date": "2025-06-13",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled LFDrew Avansfrom Nashville Sounds.",
-      "player": "Drew Avans"
-    },
-    {
-      "date": "2025-06-13",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPGrant Andersonfrom Nashville Sounds.",
-      "player": "Grant Anderson"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPMax Scherzeron a rehab assignment to Buffalo Bisons.",
+      "player": "Max Scherzer"
     },
     {
       "date": "2025-06-13",
@@ -42,6 +36,18 @@
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersoptioned 1BAndrew Vaughnto Nashville Sounds.",
       "player": "Andrew Vaughn"
+    },
+    {
+      "date": "2025-06-13",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled LFDrew Avansfrom Nashville Sounds.",
+      "player": "Drew Avans"
+    },
+    {
+      "date": "2025-06-13",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPGrant Andersonfrom Nashville Sounds.",
+      "player": "Grant Anderson"
     }
   ]
 }
