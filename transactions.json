@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-06-13T18:35:56.755795",
+  "last_updated": "2025-06-13T19:20:31.449561",
   "transactions": [
     {
       "date": "2025-06-13",
-      "team": "New York Mets",
-      "details": "New York Metsplaced RHPKodai Sengaon the 15-day injured list. Right hamstring strain.",
-      "player": "Kodai Senga"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated RHPShaun Andersonfor assignment.",
+      "player": "Shaun Anderson"
     },
     {
       "date": "2025-06-13",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent RHPNick Burdion a rehab assignment to Worcester Red Sox.",
-      "player": "Nick Burdi"
+      "team": "Unknown Team",
+      "details": "RHPJacob Misiorowskichanged number to 32.",
+      "player": "Jacob Misiorowski"
     },
     {
       "date": "2025-06-13",
@@ -33,15 +33,21 @@
     },
     {
       "date": "2025-06-13",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPGrant Andersonfrom Nashville Sounds.",
-      "player": "Grant Anderson"
+      "team": "New York Mets",
+      "details": "New York Metsplaced RHPKodai Sengaon the 15-day injured list. Right hamstring strain.",
+      "player": "Kodai Senga"
+    },
+    {
+      "date": "2025-06-13",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPNick Burdion a rehab assignment to Worcester Red Sox.",
+      "player": "Nick Burdi"
     },
     {
       "date": "2025-06-13",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled LFDrew Avansfrom Nashville Sounds.",
-      "player": "Drew Avans"
+      "details": "Milwaukee Brewersoptioned 1BAndrew Vaughnto Nashville Sounds.",
+      "player": "Andrew Vaughn"
     },
     {
       "date": "2025-06-13",
@@ -69,15 +75,33 @@
     },
     {
       "date": "2025-06-13",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsselected the contract of 2BChristian Moorefrom Salt Lake Bees.",
+      "player": "Christian Moore"
+    },
+    {
+      "date": "2025-06-13",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPGrant Andersonfrom Nashville Sounds.",
+      "player": "Grant Anderson"
+    },
+    {
+      "date": "2025-06-13",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled LFDrew Avansfrom Nashville Sounds.",
+      "player": "Drew Avans"
+    },
+    {
+      "date": "2025-06-13",
       "team": "Seattle Mariners",
       "details": "Seattle Marinerssent CFLeody Taverasoutright to Tacoma Rainiers.",
       "player": "Leody Taveras"
     },
     {
       "date": "2025-06-13",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned 1BAndrew Vaughnto Nashville Sounds.",
-      "player": "Andrew Vaughn"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled RHPSam Bachmanfrom Salt Lake Bees.",
+      "player": "Sam Bachman"
     }
   ]
 }
