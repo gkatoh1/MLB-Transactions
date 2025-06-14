@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-06-14T18:32:18.652274",
+  "last_updated": "2025-06-14T19:18:49.458697",
   "transactions": [
-    {
-      "date": "2025-06-14",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced CFJacob Meltonon the 10-day injured list. Right ankle sprain.",
-      "player": "Jacob Melton"
-    },
-    {
-      "date": "2025-06-14",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssigned free agent RHPMatt Fosterto a minor league contract.",
-      "player": "Matt Foster"
-    },
     {
       "date": "2025-06-14",
       "team": "Washington Nationals",
@@ -30,6 +18,30 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesactivated CGary Sánchezfrom the 10-day injured list.",
       "player": "Gary Sánchez"
+    },
+    {
+      "date": "2025-06-14",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced CFJacob Meltonon the 10-day injured list. Right ankle sprain.",
+      "player": "Jacob Melton"
+    },
+    {
+      "date": "2025-06-14",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned free agent RHPMatt Fosterto a minor league contract.",
+      "player": "Matt Foster"
+    },
+    {
+      "date": "2025-06-14",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsdesignated LFJacob Hurtubisefor assignment.",
+      "player": "Jacob Hurtubise"
+    },
+    {
+      "date": "2025-06-14",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated RFJordan Walkerfrom the 10-day injured list.",
+      "player": "Jordan Walker"
     },
     {
       "date": "2025-06-14",
@@ -64,32 +76,14 @@
     {
       "date": "2025-06-14",
       "team": "Houston Astros",
-      "details": "Houston Astrosselected the contract of 2BLuis Guillormefrom Sugar Land Space Cowboys.",
-      "player": "Luis Guillorme"
+      "details": "Houston Astrosoptioned LFShay Whitcombto Sugar Land Space Cowboys.",
+      "player": "Shay Whitcomb"
     },
     {
       "date": "2025-06-14",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxtraded RHPBrian Van BelletoCincinnati Redsfor cash.",
       "player": "Brian Van Belle"
-    },
-    {
-      "date": "2025-06-14",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned CMaverick Handleyto Norfolk Tides.",
-      "player": "Maverick Handley"
-    },
-    {
-      "date": "2025-06-14",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPBrian Van Belleto Louisville Bats.",
-      "player": "Brian Van Belle"
-    },
-    {
-      "date": "2025-06-14",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned 1BTim Elkoto Charlotte Knights.",
-      "player": "Tim Elko"
     },
     {
       "date": "2025-06-14",
@@ -105,9 +99,21 @@
     },
     {
       "date": "2025-06-14",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned LFShay Whitcombto Sugar Land Space Cowboys.",
-      "player": "Shay Whitcomb"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsclaimed RFRyan Viladeoff waivers fromSt. Louis Cardinals.",
+      "player": "Ryan Vilade"
+    },
+    {
+      "date": "2025-06-14",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned 1BTim Elkoto Charlotte Knights.",
+      "player": "Tim Elko"
+    },
+    {
+      "date": "2025-06-14",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned CMaverick Handleyto Norfolk Tides.",
+      "player": "Maverick Handley"
     },
     {
       "date": "2025-06-14",
@@ -120,6 +126,30 @@
       "team": "Houston Astros",
       "details": "Houston Astrosselected the contract of RFCooper Hummelfrom Sugar Land Space Cowboys.",
       "player": "Cooper Hummel"
+    },
+    {
+      "date": "2025-06-14",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPBrian Van Belleto Louisville Bats.",
+      "player": "Brian Van Belle"
+    },
+    {
+      "date": "2025-06-14",
+      "team": "Houston Astros",
+      "details": "Houston Astrosselected the contract of 2BLuis Guillormefrom Sugar Land Space Cowboys.",
+      "player": "Luis Guillorme"
+    },
+    {
+      "date": "2025-06-14",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RFRyan Viladeto Louisville Bats.",
+      "player": "Ryan Vilade"
+    },
+    {
+      "date": "2025-06-14",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned CFMichael Sianito Memphis Redbirds.",
+      "player": "Michael Siani"
     }
   ]
 }
