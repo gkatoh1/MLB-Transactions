@@ -1,4 +1,29 @@
 {
-  "last_updated": "2025-06-15T13:31:23.100433",
-  "transactions": []
+  "last_updated": "2025-06-15T14:22:07.279124",
+  "transactions": [
+    {
+      "date": "2025-06-15",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated RHPJohn Brebbiafor assignment.",
+      "player": "John Brebbia"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced 3BRoyce Lewison the 10-day injured list retroactive to June 14, 2025. Left hamstring strain.",
+      "player": "Royce Lewis"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPTyler Owensfrom Toledo Mud Hens.",
+      "player": "Tyler Owens"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RFDaShawn Keirsey Jr.from St. Paul Saints.",
+      "player": "DaShawn Keirsey Jr."
+    }
+  ]
 }
