@@ -1,24 +1,6 @@
 {
-  "last_updated": "2025-06-15T22:24:04.811599",
+  "last_updated": "2025-06-15T23:23:16.425310",
   "transactions": [
-    {
-      "date": "2025-06-15",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiestransferred RHPRyan Feltnerfrom the 15-day injured list to the 60-day injured list. Back spasms.",
-      "player": "Ryan Feltner"
-    },
-    {
-      "date": "2025-06-15",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced LHPKyle Freelandon the 15-day injured list retroactive to June 12, 2025. Low back stiffness.",
-      "player": "Kyle Freeland"
-    },
-    {
-      "date": "2025-06-15",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsdesignated RHPLuarbert Ariasfor assignment.",
-      "player": "Luarbert Arias"
-    },
     {
       "date": "2025-06-15",
       "team": "Detroit Tigers",
@@ -39,9 +21,9 @@
     },
     {
       "date": "2025-06-15",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersplaced RHPTyler Mahleon the 15-day injured list retroactive to June 12, 2025. Right shoulder fatigue.",
-      "player": "Tyler Mahle"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsdesignated RHPLuarbert Ariasfor assignment.",
+      "player": "Luarbert Arias"
     },
     {
       "date": "2025-06-15",
@@ -57,21 +39,51 @@
     },
     {
       "date": "2025-06-15",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresselected the contract of 1BTrenton Brooksfrom El Paso Chihuahuas.",
-      "player": "Trenton Brooks"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPTyler Mahleon the 15-day injured list retroactive to June 12, 2025. Right shoulder fatigue.",
+      "player": "Tyler Mahle"
     },
     {
       "date": "2025-06-15",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled RHPKumar Rockerfrom Round Rock Express.",
-      "player": "Kumar Rocker"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiestransferred RHPRyan Feltnerfrom the 15-day injured list to the 60-day injured list. Back spasms.",
+      "player": "Ryan Feltner"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced LHPKyle Freelandon the 15-day injured list retroactive to June 12, 2025. Low back stiffness.",
+      "player": "Kyle Freeland"
     },
     {
       "date": "2025-06-15",
       "team": "Miami Marlins",
-      "details": "Miami Marlinsselected the contract of RHPFreddy Tarnokfrom Jacksonville Jumbo Shrimp.",
-      "player": "Freddy Tarnok"
+      "details": "Miami Marlinsoptioned LHPAnthony Venezianoto Jacksonville Jumbo Shrimp.",
+      "player": "Anthony Veneziano"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled LHPCarson Palmquistfrom Albuquerque Isotopes.",
+      "player": "Carson Palmquist"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RFDaShawn Keirsey Jr.from St. Paul Saints.",
+      "player": "DaShawn Keirsey Jr."
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPTyler Owensfrom Toledo Mud Hens.",
+      "player": "Tyler Owens"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed RHPKyle Tyleroff waivers fromPhiladelphia Phillies.",
+      "player": "Kyle Tyler"
     },
     {
       "date": "2025-06-15",
@@ -93,21 +105,15 @@
     },
     {
       "date": "2025-06-15",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RFDaShawn Keirsey Jr.from St. Paul Saints.",
-      "player": "DaShawn Keirsey Jr."
-    },
-    {
-      "date": "2025-06-15",
       "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned LHPAnthony Venezianoto Jacksonville Jumbo Shrimp.",
-      "player": "Anthony Veneziano"
+      "details": "Miami Marlinsselected the contract of RHPFreddy Tarnokfrom Jacksonville Jumbo Shrimp.",
+      "player": "Freddy Tarnok"
     },
     {
       "date": "2025-06-15",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled LHPCarson Palmquistfrom Albuquerque Isotopes.",
-      "player": "Carson Palmquist"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresselected the contract of 1BTrenton Brooksfrom El Paso Chihuahuas.",
+      "player": "Trenton Brooks"
     },
     {
       "date": "2025-06-15",
@@ -117,15 +123,9 @@
     },
     {
       "date": "2025-06-15",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled RHPTyler Owensfrom Toledo Mud Hens.",
-      "player": "Tyler Owens"
-    },
-    {
-      "date": "2025-06-15",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesclaimed RHPKyle Tyleroff waivers fromPhiladelphia Phillies.",
-      "player": "Kyle Tyler"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPKumar Rockerfrom Round Rock Express.",
+      "player": "Kumar Rocker"
     }
   ]
 }
