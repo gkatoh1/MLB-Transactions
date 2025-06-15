@@ -1,17 +1,29 @@
 {
-  "last_updated": "2025-06-15T15:24:12.470661",
+  "last_updated": "2025-06-15T16:29:23.758758",
   "transactions": [
+    {
+      "date": "2025-06-15",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiestransferred RHPRyan Feltnerfrom the 15-day injured list to the 60-day injured list. Back spasms.",
+      "player": "Ryan Feltner"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPTyler Mahleon the 15-day injured list retroactive to June 12, 2025. Right shoulder fatigue.",
+      "player": "Tyler Mahle"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsdesignated RHPLuarbert Ariasfor assignment.",
+      "player": "Luarbert Arias"
+    },
     {
       "date": "2025-06-15",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersdesignated RHPJohn Brebbiafor assignment.",
       "player": "John Brebbia"
-    },
-    {
-      "date": "2025-06-15",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesreassigned RHPZach Agnosto the minor leagues.",
-      "player": "Zach Agnos"
     },
     {
       "date": "2025-06-15",
@@ -27,15 +39,9 @@
     },
     {
       "date": "2025-06-15",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiestransferred RHPRyan Feltnerfrom the 15-day injured list to the 60-day injured list. Back spasms.",
-      "player": "Ryan Feltner"
-    },
-    {
-      "date": "2025-06-15",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled RHPTyler Owensfrom Toledo Mud Hens.",
-      "player": "Tyler Owens"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RFDaShawn Keirsey Jr.from St. Paul Saints.",
+      "player": "DaShawn Keirsey Jr."
     },
     {
       "date": "2025-06-15",
@@ -57,9 +63,27 @@
     },
     {
       "date": "2025-06-15",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RFDaShawn Keirsey Jr.from St. Paul Saints.",
-      "player": "DaShawn Keirsey Jr."
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPKumar Rockerfrom Round Rock Express.",
+      "player": "Kumar Rocker"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned LHPAnthony Venezianoto Jacksonville Jumbo Shrimp.",
+      "player": "Anthony Veneziano"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of RHPFreddy Tarnokfrom Jacksonville Jumbo Shrimp.",
+      "player": "Freddy Tarnok"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPTyler Owensfrom Toledo Mud Hens.",
+      "player": "Tyler Owens"
     }
   ]
 }
