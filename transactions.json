@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-06-14T23:25:40.377798",
+  "last_updated": "2025-06-15T02:22:53.301662",
   "transactions": [
+    {
+      "date": "2025-06-14",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPMason Thompsonon a rehab assignment to FCL Nationals.",
+      "player": "Mason Thompson"
+    },
     {
       "date": "2025-06-14",
       "team": "Chicago Cubs",
@@ -12,24 +18,6 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesactivated CGary Sánchezfrom the 10-day injured list.",
       "player": "Gary Sánchez"
-    },
-    {
-      "date": "2025-06-14",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPMason Thompsonon a rehab assignment to FCL Nationals.",
-      "player": "Mason Thompson"
-    },
-    {
-      "date": "2025-06-14",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsdesignated LFJacob Hurtubisefor assignment.",
-      "player": "Jacob Hurtubise"
-    },
-    {
-      "date": "2025-06-14",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsactivated RFJordan Walkerfrom the 10-day injured list.",
-      "player": "Jordan Walker"
     },
     {
       "date": "2025-06-14",
@@ -87,6 +75,24 @@
     },
     {
       "date": "2025-06-14",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated RFJordan Walkerfrom the 10-day injured list.",
+      "player": "Jordan Walker"
+    },
+    {
+      "date": "2025-06-14",
+      "team": "Athletics",
+      "details": "Athleticssigned free agent RHPScott McGoughto a minor league contract.",
+      "player": "Scott McGough"
+    },
+    {
+      "date": "2025-06-14",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsdesignated LFJacob Hurtubisefor assignment.",
+      "player": "Jacob Hurtubise"
+    },
+    {
+      "date": "2025-06-14",
       "team": "Washington Nationals",
       "details": "Washington Nationalsplaced LHPAndrew Chafinon the 15-day injured list retroactive to June 11, 2025. Right hamstring strain.",
       "player": "Andrew Chafin"
@@ -99,21 +105,15 @@
     },
     {
       "date": "2025-06-14",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned LFShay Whitcombto Sugar Land Space Cowboys.",
-      "player": "Shay Whitcomb"
+      "team": "Los Angeles Dodgers",
+      "details": "LHPGarrett McDanielsreturned toLos Angeles DodgersfromLos Angeles Angels.",
+      "player": "Garrett McDaniels"
     },
     {
       "date": "2025-06-14",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned 1BTim Elkoto Charlotte Knights.",
-      "player": "Tim Elko"
-    },
-    {
-      "date": "2025-06-14",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPBrian Van Belleto Louisville Bats.",
-      "player": "Brian Van Belle"
+      "details": "Chicago White Soxsent RHPBryse Wilsonoutright to Charlotte Knights.",
+      "player": "Bryse Wilson"
     },
     {
       "date": "2025-06-14",
@@ -123,9 +123,15 @@
     },
     {
       "date": "2025-06-14",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned CFMichael Sianito Memphis Redbirds.",
-      "player": "Michael Siani"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPBrian Van Belleto Louisville Bats.",
+      "player": "Brian Van Belle"
+    },
+    {
+      "date": "2025-06-14",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsclaimed RFRyan Viladeoff waivers fromSt. Louis Cardinals.",
+      "player": "Ryan Vilade"
     },
     {
       "date": "2025-06-14",
@@ -136,26 +142,14 @@
     {
       "date": "2025-06-14",
       "team": "Houston Astros",
+      "details": "Houston Astrosselected the contract of 2BLuis Guillormefrom Sugar Land Space Cowboys.",
+      "player": "Luis Guillorme"
+    },
+    {
+      "date": "2025-06-14",
+      "team": "Houston Astros",
       "details": "Houston Astrosselected the contract of RFCooper Hummelfrom Sugar Land Space Cowboys.",
       "player": "Cooper Hummel"
-    },
-    {
-      "date": "2025-06-14",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent RHPBryse Wilsonoutright to Charlotte Knights.",
-      "player": "Bryse Wilson"
-    },
-    {
-      "date": "2025-06-14",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerstraded 3BNick DunntoPhiladelphia Philliesfor cash.",
-      "player": "Nick Dunn"
-    },
-    {
-      "date": "2025-06-14",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled 1BRyan Nodafrom Charlotte Knights.",
-      "player": "Ryan Noda"
     },
     {
       "date": "2025-06-14",
@@ -165,9 +159,9 @@
     },
     {
       "date": "2025-06-14",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned CMaverick Handleyto Norfolk Tides.",
-      "player": "Maverick Handley"
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LFShay Whitcombto Sugar Land Space Cowboys.",
+      "player": "Shay Whitcomb"
     },
     {
       "date": "2025-06-14",
@@ -177,21 +171,33 @@
     },
     {
       "date": "2025-06-14",
-      "team": "Los Angeles Dodgers",
-      "details": "LHPGarrett McDanielsreturned toLos Angeles DodgersfromLos Angeles Angels.",
-      "player": "Garrett McDaniels"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerstraded 3BNick DunntoPhiladelphia Philliesfor cash.",
+      "player": "Nick Dunn"
     },
     {
       "date": "2025-06-14",
-      "team": "Houston Astros",
-      "details": "Houston Astrosselected the contract of 2BLuis Guillormefrom Sugar Land Space Cowboys.",
-      "player": "Luis Guillorme"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned CMaverick Handleyto Norfolk Tides.",
+      "player": "Maverick Handley"
     },
     {
       "date": "2025-06-14",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsclaimed RFRyan Viladeoff waivers fromSt. Louis Cardinals.",
-      "player": "Ryan Vilade"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned CFMichael Sianito Memphis Redbirds.",
+      "player": "Michael Siani"
+    },
+    {
+      "date": "2025-06-14",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled 1BRyan Nodafrom Charlotte Knights.",
+      "player": "Ryan Noda"
+    },
+    {
+      "date": "2025-06-14",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned 1BTim Elkoto Charlotte Knights.",
+      "player": "Tim Elko"
     }
   ]
 }
