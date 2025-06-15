@@ -1,17 +1,35 @@
 {
-  "last_updated": "2025-06-15T18:33:23.315924",
+  "last_updated": "2025-06-15T19:19:33.021400",
   "transactions": [
-    {
-      "date": "2025-06-15",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiestransferred RHPRyan Feltnerfrom the 15-day injured list to the 60-day injured list. Back spasms.",
-      "player": "Ryan Feltner"
-    },
     {
       "date": "2025-06-15",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesplaced LHPKyle Freelandon the 15-day injured list retroactive to June 12, 2025. Low back stiffness.",
       "player": "Kyle Freeland"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned free agent RHPAnthony DeSclafani.",
+      "player": "Anthony DeSclafani"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated LHPAustin Gomberfrom the 60-day injured list.",
+      "player": "Austin Gomber"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPTyler Mahleon the 15-day injured list retroactive to June 12, 2025. Right shoulder fatigue.",
+      "player": "Tyler Mahle"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced 3BRoyce Lewison the 10-day injured list retroactive to June 14, 2025. Left hamstring strain.",
+      "player": "Royce Lewis"
     },
     {
       "date": "2025-06-15",
@@ -33,33 +51,9 @@
     },
     {
       "date": "2025-06-15",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersplaced RHPTyler Mahleon the 15-day injured list retroactive to June 12, 2025. Right shoulder fatigue.",
-      "player": "Tyler Mahle"
-    },
-    {
-      "date": "2025-06-15",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced 3BRoyce Lewison the 10-day injured list retroactive to June 14, 2025. Left hamstring strain.",
-      "player": "Royce Lewis"
-    },
-    {
-      "date": "2025-06-15",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssigned free agent RHPAnthony DeSclafani.",
-      "player": "Anthony DeSclafani"
-    },
-    {
-      "date": "2025-06-15",
       "team": "Colorado Rockies",
-      "details": "Colorado Rockiesactivated LHPAustin Gomberfrom the 60-day injured list.",
-      "player": "Austin Gomber"
-    },
-    {
-      "date": "2025-06-15",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled LHPCarson Palmquistfrom Albuquerque Isotopes.",
-      "player": "Carson Palmquist"
+      "details": "Colorado Rockiestransferred RHPRyan Feltnerfrom the 15-day injured list to the 60-day injured list. Back spasms.",
+      "player": "Ryan Feltner"
     },
     {
       "date": "2025-06-15",
@@ -69,15 +63,15 @@
     },
     {
       "date": "2025-06-15",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesclaimed RHPKyle Tyleroff waivers fromPhiladelphia Phillies.",
-      "player": "Kyle Tyler"
-    },
-    {
-      "date": "2025-06-15",
       "team": "New York Mets",
       "details": "New York Metsoptioned RHPJustin Garzato Syracuse Mets.",
       "player": "Justin Garza"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RFDaShawn Keirsey Jr.from St. Paul Saints.",
+      "player": "DaShawn Keirsey Jr."
     },
     {
       "date": "2025-06-15",
@@ -93,9 +87,9 @@
     },
     {
       "date": "2025-06-15",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled RHPKumar Rockerfrom Round Rock Express.",
-      "player": "Kumar Rocker"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed RHPKyle Tyleroff waivers fromPhiladelphia Phillies.",
+      "player": "Kyle Tyler"
     },
     {
       "date": "2025-06-15",
@@ -111,15 +105,21 @@
     },
     {
       "date": "2025-06-15",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RFDaShawn Keirsey Jr.from St. Paul Saints.",
-      "player": "DaShawn Keirsey Jr."
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled LHPCarson Palmquistfrom Albuquerque Isotopes.",
+      "player": "Carson Palmquist"
     },
     {
       "date": "2025-06-15",
       "team": "Miami Marlins",
       "details": "Miami Marlinsoptioned LHPAnthony Venezianoto Jacksonville Jumbo Shrimp.",
       "player": "Anthony Veneziano"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPKumar Rockerfrom Round Rock Express.",
+      "player": "Kumar Rocker"
     }
   ]
 }
