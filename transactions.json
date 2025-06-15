@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-15T20:26:27.831882",
+  "last_updated": "2025-06-15T21:22:35.172294",
   "transactions": [
     {
       "date": "2025-06-15",
@@ -15,15 +15,15 @@
     },
     {
       "date": "2025-06-15",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced 3BRoyce Lewison the 10-day injured list retroactive to June 14, 2025. Left hamstring strain.",
-      "player": "Royce Lewis"
-    },
-    {
-      "date": "2025-06-15",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbackstransferred RHPJustin Martinezfrom the 15-day injured list to the 60-day injured list. Right UCL sprain.",
       "player": "Justin Martinez"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated LHPAustin Gomberfrom the 60-day injured list.",
+      "player": "Austin Gomber"
     },
     {
       "date": "2025-06-15",
@@ -51,9 +51,9 @@
     },
     {
       "date": "2025-06-15",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesactivated LHPAustin Gomberfrom the 60-day injured list.",
-      "player": "Austin Gomber"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced 3BRoyce Lewison the 10-day injured list retroactive to June 14, 2025. Left hamstring strain.",
+      "player": "Royce Lewis"
     },
     {
       "date": "2025-06-15",
@@ -63,27 +63,21 @@
     },
     {
       "date": "2025-06-15",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned RHPBryce Jarvisto Reno Aces.",
-      "player": "Bryce Jarvis"
-    },
-    {
-      "date": "2025-06-15",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsselected the contract of RHPFreddy Tarnokfrom Jacksonville Jumbo Shrimp.",
-      "player": "Freddy Tarnok"
-    },
-    {
-      "date": "2025-06-15",
       "team": "Miami Marlins",
       "details": "Miami Marlinsoptioned LHPAnthony Venezianoto Jacksonville Jumbo Shrimp.",
       "player": "Anthony Veneziano"
     },
     {
       "date": "2025-06-15",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled RHPKumar Rockerfrom Round Rock Express.",
-      "player": "Kumar Rocker"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled LHPCarson Palmquistfrom Albuquerque Isotopes.",
+      "player": "Carson Palmquist"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPBryce Jarvisto Reno Aces.",
+      "player": "Bryce Jarvis"
     },
     {
       "date": "2025-06-15",
@@ -105,15 +99,9 @@
     },
     {
       "date": "2025-06-15",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled LHPCarson Palmquistfrom Albuquerque Isotopes.",
-      "player": "Carson Palmquist"
-    },
-    {
-      "date": "2025-06-15",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RFDaShawn Keirsey Jr.from St. Paul Saints.",
-      "player": "DaShawn Keirsey Jr."
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPKumar Rockerfrom Round Rock Express.",
+      "player": "Kumar Rocker"
     },
     {
       "date": "2025-06-15",
@@ -126,6 +114,18 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesclaimed RHPKyle Tyleroff waivers fromPhiladelphia Phillies.",
       "player": "Kyle Tyler"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of RHPFreddy Tarnokfrom Jacksonville Jumbo Shrimp.",
+      "player": "Freddy Tarnok"
+    },
+    {
+      "date": "2025-06-15",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RFDaShawn Keirsey Jr.from St. Paul Saints.",
+      "player": "DaShawn Keirsey Jr."
     }
   ]
 }
