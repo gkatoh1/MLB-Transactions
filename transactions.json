@@ -1,24 +1,6 @@
 {
-  "last_updated": "2025-06-16T20:28:44.935332",
+  "last_updated": "2025-06-16T21:24:49.346467",
   "transactions": [
-    {
-      "date": "2025-06-16",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated SSNacho Alvarez Jr.from the 60-day injured list.",
-      "player": "Nacho Alvarez Jr."
-    },
-    {
-      "date": "2025-06-16",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced RHPLance McCullers Jr.on the 15-day injured list retroactive to June 13, 2025. Right foot sprain.",
-      "player": "Lance McCullers Jr."
-    },
-    {
-      "date": "2025-06-16",
-      "team": "New York Yankees",
-      "details": "New York Yankeesdesignated RFPablo Reyesfor assignment.",
-      "player": "Pablo Reyes"
-    },
     {
       "date": "2025-06-16",
       "team": "Colorado Rockies",
@@ -30,24 +12,6 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesactivated RFStuart Fairchildfrom the 10-day injured list.",
       "player": "Stuart Fairchild"
-    },
-    {
-      "date": "2025-06-16",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated LFJosé Azocarfor assignment.",
-      "player": "José Azocar"
-    },
-    {
-      "date": "2025-06-16",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesdesignated CBrett Sullivanfor assignment.",
-      "player": "Brett Sullivan"
-    },
-    {
-      "date": "2025-06-16",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesdesignated 1BKeston Hiurafor assignment.",
-      "player": "Keston Hiura"
     },
     {
       "date": "2025-06-16",
@@ -63,9 +27,33 @@
     },
     {
       "date": "2025-06-16",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced RHPLance McCullers Jr.on the 15-day injured list retroactive to June 13, 2025. Right foot sprain.",
+      "player": "Lance McCullers Jr."
+    },
+    {
+      "date": "2025-06-16",
       "team": "Washington Nationals",
       "details": "Washington Nationalsdesignated 1BJuan Yepezfor assignment.",
       "player": "Juan Yepez"
+    },
+    {
+      "date": "2025-06-16",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated LFJosé Azocarfor assignment.",
+      "player": "José Azocar"
+    },
+    {
+      "date": "2025-06-16",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RHPForrest Whitley.",
+      "player": "Forrest Whitley"
+    },
+    {
+      "date": "2025-06-16",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesdesignated 1BKeston Hiurafor assignment.",
+      "player": "Keston Hiura"
     },
     {
       "date": "2025-06-16",
@@ -81,15 +69,39 @@
     },
     {
       "date": "2025-06-16",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsselected the contract of 3BBrady Housefrom Rochester Red Wings.",
-      "player": "Brady House"
+      "team": "New York Yankees",
+      "details": "New York Yankeesdesignated RFPablo Reyesfor assignment.",
+      "player": "Pablo Reyes"
+    },
+    {
+      "date": "2025-06-16",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated CBrett Sullivanfor assignment.",
+      "player": "Brett Sullivan"
+    },
+    {
+      "date": "2025-06-16",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated SSNacho Alvarez Jr.from the 60-day injured list.",
+      "player": "Nacho Alvarez Jr."
+    },
+    {
+      "date": "2025-06-16",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned SSNacho Alvarez Jr.to Gwinnett Stripers.",
+      "player": "Nacho Alvarez Jr."
     },
     {
       "date": "2025-06-16",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled RHPColin Selbyfrom Norfolk Tides.",
       "player": "Colin Selby"
+    },
+    {
+      "date": "2025-06-16",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned CFRobert Hassell IIIto Rochester Red Wings.",
+      "player": "Robert Hassell III"
     },
     {
       "date": "2025-06-16",
@@ -100,26 +112,8 @@
     {
       "date": "2025-06-16",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned 3BJosé Tenato Rochester Red Wings.",
-      "player": "José Tena"
-    },
-    {
-      "date": "2025-06-16",
-      "team": "Washington Nationals",
       "details": "Washington Nationalsrecalled RFDaylen Lilefrom Rochester Red Wings.",
       "player": "Daylen Lile"
-    },
-    {
-      "date": "2025-06-16",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPDauri Moretato Indianapolis Indians.",
-      "player": "Dauri Moreta"
-    },
-    {
-      "date": "2025-06-16",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned CFRobert Hassell IIIto Rochester Red Wings.",
-      "player": "Robert Hassell III"
     },
     {
       "date": "2025-06-16",
@@ -129,9 +123,9 @@
     },
     {
       "date": "2025-06-16",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned SSNacho Alvarez Jr.to Gwinnett Stripers.",
-      "player": "Nacho Alvarez Jr."
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPDauri Moretato Indianapolis Indians.",
+      "player": "Dauri Moreta"
     },
     {
       "date": "2025-06-16",
@@ -141,15 +135,27 @@
     },
     {
       "date": "2025-06-16",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPMason Englertto Durham Bulls.",
+      "player": "Mason Englert"
+    },
+    {
+      "date": "2025-06-16",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned 3BJosé Tenato Rochester Red Wings.",
+      "player": "José Tena"
+    },
+    {
+      "date": "2025-06-16",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesrecalled 1BMichael Togliafrom Albuquerque Isotopes.",
       "player": "Michael Toglia"
     },
     {
       "date": "2025-06-16",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPMason Englertto Durham Bulls.",
-      "player": "Mason Englert"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsselected the contract of 3BBrady Housefrom Rochester Red Wings.",
+      "player": "Brady House"
     }
   ]
 }
