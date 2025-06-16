@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-06-16T16:33:56.833199",
+  "last_updated": "2025-06-16T17:23:08.559549",
   "transactions": [
-    {
-      "date": "2025-06-16",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RFStuart Fairchildfrom the 10-day injured list.",
-      "player": "Stuart Fairchild"
-    },
     {
       "date": "2025-06-16",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesdesignated LFJosé Azocarfor assignment.",
       "player": "José Azocar"
+    },
+    {
+      "date": "2025-06-16",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesdesignated 1BKeston Hiurafor assignment.",
+      "player": "Keston Hiura"
     },
     {
       "date": "2025-06-16",
@@ -22,14 +22,26 @@
     {
       "date": "2025-06-16",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned SSNacho Alvarez Jr.to Gwinnett Stripers.",
-      "player": "Nacho Alvarez Jr."
+      "details": "Atlanta Bravesactivated RFStuart Fairchildfrom the 10-day injured list.",
+      "player": "Stuart Fairchild"
     },
     {
       "date": "2025-06-16",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysoptioned RHPMason Englertto Durham Bulls.",
       "player": "Mason Englert"
+    },
+    {
+      "date": "2025-06-16",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned SSNacho Alvarez Jr.to Gwinnett Stripers.",
+      "player": "Nacho Alvarez Jr."
+    },
+    {
+      "date": "2025-06-16",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled 1BMichael Togliafrom Albuquerque Isotopes.",
+      "player": "Michael Toglia"
     }
   ]
 }
