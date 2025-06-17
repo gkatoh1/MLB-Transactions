@@ -1,17 +1,35 @@
 {
-  "last_updated": "2025-06-17T22:24:55.603644",
+  "last_updated": "2025-06-17T23:24:11.006758",
   "transactions": [
     {
       "date": "2025-06-17",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent RFWilyer Abreuon a rehab assignment to Worcester Red Sox.",
-      "player": "Wilyer Abreu"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent CGabriel Teranto a minor league contract.",
+      "player": "Gabriel Teran"
     },
     {
       "date": "2025-06-17",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysdesignated RHPErik Swansonfor assignment.",
-      "player": "Erik Swanson"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced RHPGraham Ashcrafton the 15-day injured list retroactive to June 16, 2025. Right groin strain.",
+      "player": "Graham Ashcraft"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent LHPFraser Ellardon a rehab assignment to Charlotte Knights.",
+      "player": "Fraser Ellard"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "New York Mets",
+      "details": "New York Metssent LHPBrooks Raleyon a rehab assignment to St. Lucie Mets.",
+      "player": "Brooks Raley"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent CFGarrett Mitchellon a rehab assignment to Nashville Sounds.",
+      "player": "Garrett Mitchell"
     },
     {
       "date": "2025-06-17",
@@ -33,6 +51,12 @@
     },
     {
       "date": "2025-06-17",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPCarlos Hernández.",
+      "player": "Carlos Hernández"
+    },
+    {
+      "date": "2025-06-17",
       "team": "Athletics",
       "details": "Athleticssent 2BZack Gelofon a rehab assignment to Las Vegas Aviators.",
       "player": "Zack Gelof"
@@ -45,15 +69,33 @@
     },
     {
       "date": "2025-06-17",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressigned free agent CGabriel Teranto a minor league contract.",
-      "player": "Gabriel Teran"
+      "team": "Athletics",
+      "details": "Athleticsplaced LFSeth Brownon the 10-day injured list retroactive to June 13, 2025. Left elbow lateral epicondylitis.",
+      "player": "Seth Brown"
     },
     {
       "date": "2025-06-17",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced RHPGraham Ashcrafton the 15-day injured list retroactive to June 16, 2025. Right groin strain.",
-      "player": "Graham Ashcraft"
+      "team": "New York Mets",
+      "details": "New York Metsplaced RHPTylor Megillon the 15-day injured list retroactive to June 15, 2025. Right elbow sprain.",
+      "player": "Tylor Megill"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RHPBowden Francison the 15-day injured list retroactive to June 15, 2025. Right shoulder impingement.",
+      "player": "Bowden Francis"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Athletics",
+      "details": "Athleticsactivated 3BGio Urshelafrom the 10-day injured list.",
+      "player": "Gio Urshela"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssigned free agent RHPDwayne Matosto a minor league contract.",
+      "player": "Dwayne Matos"
     },
     {
       "date": "2025-06-17",
@@ -70,20 +112,20 @@
     {
       "date": "2025-06-17",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent LHPFraser Ellardon a rehab assignment to Charlotte Knights.",
-      "player": "Fraser Ellard"
+      "details": "Chicago White Soxactivated 2BLenyn Sosafrom the 10-day injured list.",
+      "player": "Lenyn Sosa"
     },
     {
       "date": "2025-06-17",
-      "team": "New York Mets",
-      "details": "New York Metssent LHPBrooks Raleyon a rehab assignment to St. Lucie Mets.",
-      "player": "Brooks Raley"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RFWilyer Abreuon a rehab assignment to Worcester Red Sox.",
+      "player": "Wilyer Abreu"
     },
     {
       "date": "2025-06-17",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent CFGarrett Mitchellon a rehab assignment to Nashville Sounds.",
-      "player": "Garrett Mitchell"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated RHPErik Swansonfor assignment.",
+      "player": "Erik Swanson"
     },
     {
       "date": "2025-06-17",
@@ -117,57 +159,21 @@
     },
     {
       "date": "2025-06-17",
-      "team": "Athletics",
-      "details": "Athleticsplaced LFSeth Brownon the 10-day injured list retroactive to June 13, 2025. Left elbow lateral epicondylitis.",
-      "player": "Seth Brown"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "New York Mets",
-      "details": "New York Metsplaced RHPTylor Megillon the 15-day injured list retroactive to June 15, 2025. Right elbow sprain.",
-      "player": "Tylor Megill"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced RHPBowden Francison the 15-day injured list retroactive to June 15, 2025. Right shoulder impingement.",
-      "player": "Bowden Francis"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "Athletics",
-      "details": "Athleticsactivated 3BGio Urshelafrom the 10-day injured list.",
-      "player": "Gio Urshela"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated 2BLenyn Sosafrom the 10-day injured list.",
-      "player": "Lenyn Sosa"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssigned free agent RHPDwayne Matosto a minor league contract.",
-      "player": "Dwayne Matos"
-    },
-    {
-      "date": "2025-06-17",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersclaimed LFJacob Hurtubiseoff waivers fromCincinnati Reds.",
       "player": "Jacob Hurtubise"
     },
     {
       "date": "2025-06-17",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned OFDaniel Johnsonto Sacramento River Cats.",
-      "player": "Daniel Johnson"
-    },
-    {
-      "date": "2025-06-17",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned RHPColin Selbyto Norfolk Tides.",
       "player": "Colin Selby"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LFBrooks Baldwinto Charlotte Knights.",
+      "player": "Brooks Baldwin"
     },
     {
       "date": "2025-06-17",
@@ -183,18 +189,6 @@
     },
     {
       "date": "2025-06-17",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPLuis Meyfrom Louisville Bats.",
-      "player": "Luis Mey"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned LFBrooks Baldwinto Charlotte Knights.",
-      "player": "Brooks Baldwin"
-    },
-    {
-      "date": "2025-06-17",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysselected the contract of LHPJustin Bruihlfrom Buffalo Bisons.",
       "player": "Justin Bruihl"
@@ -204,6 +198,24 @@
       "team": "New York Mets",
       "details": "New York Metsrecalled RHPJustin Garzafrom Syracuse Mets.",
       "player": "Justin Garza"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned OFDaniel Johnsonto Sacramento River Cats.",
+      "player": "Daniel Johnson"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPLuis Meyfrom Louisville Bats.",
+      "player": "Luis Mey"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPTyler Owensto Toledo Mud Hens.",
+      "player": "Tyler Owens"
     }
   ]
 }
