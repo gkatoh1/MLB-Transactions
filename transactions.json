@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-06-17T16:33:58.733475",
+  "last_updated": "2025-06-17T17:23:49.485481",
   "transactions": [
+    {
+      "date": "2025-06-17",
+      "team": "New York Mets",
+      "details": "New York Metssent LHPBrooks Raleyon a rehab assignment to St. Lucie Mets.",
+      "player": "Brooks Raley"
+    },
     {
       "date": "2025-06-17",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardianssigned free agent RHPDwayne Matosto a minor league contract.",
       "player": "Dwayne Matos"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled LHPGrant Wolframfrom Norfolk Tides.",
+      "player": "Grant Wolfram"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPColin Selbyto Norfolk Tides.",
+      "player": "Colin Selby"
     }
   ]
 }
