@@ -1,78 +1,6 @@
 {
-  "last_updated": "2025-06-17T21:25:04.839125",
+  "last_updated": "2025-06-17T22:24:55.603644",
   "transactions": [
-    {
-      "date": "2025-06-17",
-      "team": "New York Mets",
-      "details": "New York Metssent LHPBrooks Raleyon a rehab assignment to St. Lucie Mets.",
-      "player": "Brooks Raley"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent SSJonathan Alcantarato a minor league contract.",
-      "player": "Jonathan Alcantara"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessigned free agent RHPJack Nobleto a minor league contract.",
-      "player": "Jack Noble"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "New York Mets",
-      "details": "New York Metssent 3BMark Vientoson a rehab assignment to Syracuse Mets.",
-      "player": "Mark Vientos"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "New York Mets",
-      "details": "New York Metsplaced RHPTylor Megillon the 15-day injured list retroactive to June 15, 2025. Right elbow sprain.",
-      "player": "Tylor Megill"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced RHPBowden Francison the 15-day injured list retroactive to June 15, 2025. Right shoulder impingement.",
-      "player": "Bowden Francis"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated 2BLenyn Sosafrom the 10-day injured list.",
-      "player": "Lenyn Sosa"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssigned free agent RHPDwayne Matosto a minor league contract.",
-      "player": "Dwayne Matos"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressigned free agent CGabriel Teranto a minor league contract.",
-      "player": "Gabriel Teran"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced RHPGraham Ashcrafton the 15-day injured list retroactive to June 16, 2025. Right groin strain.",
-      "player": "Graham Ashcraft"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent CFGarrett Mitchellon a rehab assignment to Nashville Sounds.",
-      "player": "Garrett Mitchell"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent RHPTrevor Stephanon a rehab assignment to Columbus Clippers.",
-      "player": "Trevor Stephan"
-    },
     {
       "date": "2025-06-17",
       "team": "Boston Red Sox",
@@ -84,24 +12,6 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysdesignated RHPErik Swansonfor assignment.",
       "player": "Erik Swanson"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent CRob Brantlyon a rehab assignment to Jacksonville Jumbo Shrimp.",
-      "player": "Rob Brantly"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "Athletics",
-      "details": "Athleticssent 2BZack Gelofon a rehab assignment to Las Vegas Aviators.",
-      "player": "Zack Gelof"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent LHPFraser Ellardon a rehab assignment to Charlotte Knights.",
-      "player": "Fraser Ellard"
     },
     {
       "date": "2025-06-17",
@@ -123,15 +33,123 @@
     },
     {
       "date": "2025-06-17",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPJustin Garzafrom Syracuse Mets.",
-      "player": "Justin Garza"
+      "team": "Athletics",
+      "details": "Athleticssent 2BZack Gelofon a rehab assignment to Las Vegas Aviators.",
+      "player": "Zack Gelof"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated DHRafael Devers.",
+      "player": "Rafael Devers"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent CGabriel Teranto a minor league contract.",
+      "player": "Gabriel Teran"
     },
     {
       "date": "2025-06-17",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPLuis Meyfrom Louisville Bats.",
-      "player": "Luis Mey"
+      "details": "Cincinnati Redsplaced RHPGraham Ashcrafton the 15-day injured list retroactive to June 16, 2025. Right groin strain.",
+      "player": "Graham Ashcraft"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPTrevor Stephanon a rehab assignment to Columbus Clippers.",
+      "player": "Trevor Stephan"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated CJoey Bartfrom the 7-day injured list.",
+      "player": "Joey Bart"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent LHPFraser Ellardon a rehab assignment to Charlotte Knights.",
+      "player": "Fraser Ellard"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "New York Mets",
+      "details": "New York Metssent LHPBrooks Raleyon a rehab assignment to St. Lucie Mets.",
+      "player": "Brooks Raley"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent CFGarrett Mitchellon a rehab assignment to Nashville Sounds.",
+      "player": "Garrett Mitchell"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent CRob Brantlyon a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Rob Brantly"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssigned free agent RHPShaun Andersonto a minor league contract.",
+      "player": "Shaun Anderson"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent SSJonathan Alcantarato a minor league contract.",
+      "player": "Jonathan Alcantara"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned free agent RHPJack Nobleto a minor league contract.",
+      "player": "Jack Noble"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "New York Mets",
+      "details": "New York Metssent 3BMark Vientoson a rehab assignment to Syracuse Mets.",
+      "player": "Mark Vientos"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Athletics",
+      "details": "Athleticsplaced LFSeth Brownon the 10-day injured list retroactive to June 13, 2025. Left elbow lateral epicondylitis.",
+      "player": "Seth Brown"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "New York Mets",
+      "details": "New York Metsplaced RHPTylor Megillon the 15-day injured list retroactive to June 15, 2025. Right elbow sprain.",
+      "player": "Tylor Megill"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RHPBowden Francison the 15-day injured list retroactive to June 15, 2025. Right shoulder impingement.",
+      "player": "Bowden Francis"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Athletics",
+      "details": "Athleticsactivated 3BGio Urshelafrom the 10-day injured list.",
+      "player": "Gio Urshela"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated 2BLenyn Sosafrom the 10-day injured list.",
+      "player": "Lenyn Sosa"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssigned free agent RHPDwayne Matosto a minor league contract.",
+      "player": "Dwayne Matos"
     },
     {
       "date": "2025-06-17",
@@ -141,15 +159,21 @@
     },
     {
       "date": "2025-06-17",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled RHPPaxton Schultzfrom Buffalo Bisons.",
-      "player": "Paxton Schultz"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned OFDaniel Johnsonto Sacramento River Cats.",
+      "player": "Daniel Johnson"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPColin Selbyto Norfolk Tides.",
+      "player": "Colin Selby"
     },
     {
       "date": "2025-06-17",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of LHPJustin Bruihlfrom Buffalo Bisons.",
-      "player": "Justin Bruihl"
+      "details": "Toronto Blue Jaysrecalled RHPPaxton Schultzfrom Buffalo Bisons.",
+      "player": "Paxton Schultz"
     },
     {
       "date": "2025-06-17",
@@ -159,15 +183,27 @@
     },
     {
       "date": "2025-06-17",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPLuis Meyfrom Louisville Bats.",
+      "player": "Luis Mey"
+    },
+    {
+      "date": "2025-06-17",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned LFBrooks Baldwinto Charlotte Knights.",
       "player": "Brooks Baldwin"
     },
     {
       "date": "2025-06-17",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPColin Selbyto Norfolk Tides.",
-      "player": "Colin Selby"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of LHPJustin Bruihlfrom Buffalo Bisons.",
+      "player": "Justin Bruihl"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJustin Garzafrom Syracuse Mets.",
+      "player": "Justin Garza"
     }
   ]
 }
