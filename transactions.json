@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-06-17T18:36:48.642841",
+  "last_updated": "2025-06-17T19:20:24.812331",
   "transactions": [
-    {
-      "date": "2025-06-17",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressigned free agent CGabriel Teranto a minor league contract.",
-      "player": "Gabriel Teran"
-    },
-    {
-      "date": "2025-06-17",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent RFWilyer Abreuon a rehab assignment to Worcester Red Sox.",
-      "player": "Wilyer Abreu"
-    },
     {
       "date": "2025-06-17",
       "team": "Milwaukee Brewers",
@@ -21,9 +9,27 @@
     },
     {
       "date": "2025-06-17",
-      "team": "New York Mets",
-      "details": "New York Metssent LHPBrooks Raleyon a rehab assignment to St. Lucie Mets.",
-      "player": "Brooks Raley"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent CGabriel Teranto a minor league contract.",
+      "player": "Gabriel Teran"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent LHPFraser Ellardon a rehab assignment to Charlotte Knights.",
+      "player": "Fraser Ellard"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated 2BLenyn Sosafrom the 10-day injured list.",
+      "player": "Lenyn Sosa"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RFWilyer Abreuon a rehab assignment to Worcester Red Sox.",
+      "player": "Wilyer Abreu"
     },
     {
       "date": "2025-06-17",
@@ -39,9 +45,33 @@
     },
     {
       "date": "2025-06-17",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RHPBowden Francison the 15-day injured list retroactive to June 15, 2025. Right shoulder impingement.",
+      "player": "Bowden Francis"
+    },
+    {
+      "date": "2025-06-17",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardianssigned free agent RHPDwayne Matosto a minor league contract.",
       "player": "Dwayne Matos"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "New York Mets",
+      "details": "New York Metssent LHPBrooks Raleyon a rehab assignment to St. Lucie Mets.",
+      "player": "Brooks Raley"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPTrevor Stephanon a rehab assignment to Columbus Clippers.",
+      "player": "Trevor Stephan"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated RHPErik Swansonfor assignment.",
+      "player": "Erik Swanson"
     },
     {
       "date": "2025-06-17",
@@ -51,9 +81,27 @@
     },
     {
       "date": "2025-06-17",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LFBrooks Baldwinto Charlotte Knights.",
+      "player": "Brooks Baldwin"
+    },
+    {
+      "date": "2025-06-17",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned RHPColin Selbyto Norfolk Tides.",
       "player": "Colin Selby"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPPaxton Schultzfrom Buffalo Bisons.",
+      "player": "Paxton Schultz"
+    },
+    {
+      "date": "2025-06-17",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of LHPJustin Bruihlfrom Buffalo Bisons.",
+      "player": "Justin Bruihl"
     }
   ]
 }
