@@ -1,11 +1,35 @@
 {
-  "last_updated": "2025-06-18T22:24:56.549944",
+  "last_updated": "2025-06-18T23:24:10.244406",
   "transactions": [
     {
       "date": "2025-06-18",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsactivated CPatrick Baileyfrom the 10-day injured list.",
-      "player": "Patrick Bailey"
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced 2BBrendan Rodgerson the 10-day injured list retroactive to June 15, 2025. Left oblique strain.",
+      "player": "Brendan Rodgers"
+    },
+    {
+      "date": "2025-06-18",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPTanner Houckon a rehab assignment to Worcester Red Sox.",
+      "player": "Tanner Houck"
+    },
+    {
+      "date": "2025-06-18",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RHPJT Brubakerfrom the 60-day injured list.",
+      "player": "JT Brubaker"
+    },
+    {
+      "date": "2025-06-18",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPEmmet Sheehanfrom the 60-day injured list.",
+      "player": "Emmet Sheehan"
+    },
+    {
+      "date": "2025-06-18",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced RFBryan Reynoldson the paternity list.",
+      "player": "Bryan Reynolds"
     },
     {
       "date": "2025-06-18",
@@ -15,9 +39,9 @@
     },
     {
       "date": "2025-06-18",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent RHPTanner Houckon a rehab assignment to Worcester Red Sox.",
-      "player": "Tanner Houck"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated CPatrick Baileyfrom the 10-day injured list.",
+      "player": "Patrick Bailey"
     },
     {
       "date": "2025-06-18",
@@ -30,24 +54,6 @@
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsactivated RHPJustin Verlanderfrom the 15-day injured list.",
       "player": "Justin Verlander"
-    },
-    {
-      "date": "2025-06-18",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated RHPJT Brubakerfrom the 60-day injured list.",
-      "player": "JT Brubaker"
-    },
-    {
-      "date": "2025-06-18",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced RFBryan Reynoldson the paternity list.",
-      "player": "Bryan Reynolds"
-    },
-    {
-      "date": "2025-06-18",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated RHPEmmet Sheehanfrom the 60-day injured list.",
-      "player": "Emmet Sheehan"
     },
     {
       "date": "2025-06-18",
@@ -69,21 +75,15 @@
     },
     {
       "date": "2025-06-18",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled LFShay Whitcombfrom Sugar Land Space Cowboys.",
+      "player": "Shay Whitcomb"
+    },
+    {
+      "date": "2025-06-18",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned LHPGrant Wolframto Norfolk Tides.",
       "player": "Grant Wolfram"
-    },
-    {
-      "date": "2025-06-18",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled LHPTrevor Rogersfrom Norfolk Tides.",
-      "player": "Trevor Rogers"
-    },
-    {
-      "date": "2025-06-18",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned CLogan Porterto Sacramento River Cats.",
-      "player": "Logan Porter"
     },
     {
       "date": "2025-06-18",
@@ -99,6 +99,18 @@
     },
     {
       "date": "2025-06-18",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned CLogan Porterto Sacramento River Cats.",
+      "player": "Logan Porter"
+    },
+    {
+      "date": "2025-06-18",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPTristan Beckto Sacramento River Cats.",
+      "player": "Tristan Beck"
+    },
+    {
+      "date": "2025-06-18",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersoptioned RHPMatt Sauerto Oklahoma City Comets.",
       "player": "Matt Sauer"
@@ -111,27 +123,27 @@
     },
     {
       "date": "2025-06-18",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned RHPTristan Beckto Sacramento River Cats.",
-      "player": "Tristan Beck"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled OFBilly Cookfrom Indianapolis Indians.",
+      "player": "Billy Cook"
     },
     {
       "date": "2025-06-18",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPFreddy Tarnokto Jacksonville Jumbo Shrimp.",
-      "player": "Freddy Tarnok"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent 1BJuan Yepezoutright to Rochester Red Wings.",
+      "player": "Juan Yepez"
+    },
+    {
+      "date": "2025-06-18",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPJason Alexanderto Sugar Land Space Cowboys.",
+      "player": "Jason Alexander"
     },
     {
       "date": "2025-06-18",
       "team": "Miami Marlins",
       "details": "Miami Marlinsrecalled RHPAdam Mazurfrom Jacksonville Jumbo Shrimp.",
       "player": "Adam Mazur"
-    },
-    {
-      "date": "2025-06-18",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled OFBilly Cookfrom Indianapolis Indians.",
-      "player": "Billy Cook"
     },
     {
       "date": "2025-06-18",
@@ -147,9 +159,21 @@
     },
     {
       "date": "2025-06-18",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent 1BJuan Yepezoutright to Rochester Red Wings.",
-      "player": "Juan Yepez"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled LHPTrevor Rogersfrom Norfolk Tides.",
+      "player": "Trevor Rogers"
+    },
+    {
+      "date": "2025-06-18",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPNick Hernandezfrom Sugar Land Space Cowboys.",
+      "player": "Nick Hernandez"
+    },
+    {
+      "date": "2025-06-18",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPFreddy Tarnokto Jacksonville Jumbo Shrimp.",
+      "player": "Freddy Tarnok"
     }
   ]
 }
