@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-06-18T14:27:05.597231",
+  "last_updated": "2025-06-18T15:29:20.709150",
   "transactions": [
-    {
-      "date": "2025-06-18",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPScott Effrossto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Scott Effross"
-    },
     {
       "date": "2025-06-18",
       "team": "Texas Rangers",
@@ -18,6 +12,12 @@
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesoptioned RHPNolan Hoffmanto Lehigh Valley IronPigs.",
       "player": "Nolan Hoffman"
+    },
+    {
+      "date": "2025-06-18",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPScott Effrossto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Scott Effross"
     }
   ]
 }
