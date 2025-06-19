@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-19T14:25:55.586364",
+  "last_updated": "2025-06-19T15:27:42.425968",
   "transactions": [
     {
       "date": "2025-06-19",
@@ -9,9 +9,21 @@
     },
     {
       "date": "2025-06-19",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPDerek Lawon a rehab assignment to Harrisburg Senators.",
+      "player": "Derek Law"
+    },
+    {
+      "date": "2025-06-19",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxplaced RHPAdrian Houseron the paternity list.",
       "player": "Adrian Houser"
+    },
+    {
+      "date": "2025-06-19",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RHPYerry De los Santos.",
+      "player": "Yerry De los Santos"
     },
     {
       "date": "2025-06-19",
@@ -21,15 +33,21 @@
     },
     {
       "date": "2025-06-19",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPTyler Gilbertfrom Charlotte Knights.",
-      "player": "Tyler Gilbert"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RFJack Suwinskifrom Indianapolis Indians.",
+      "player": "Jack Suwinski"
     },
     {
       "date": "2025-06-19",
       "team": "New York Yankees",
       "details": "New York Yankeesselected the contract of LHPJayvien Sandridgefrom Scranton/Wilkes-Barre RailRiders.",
       "player": "Jayvien Sandridge"
+    },
+    {
+      "date": "2025-06-19",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPTyler Gilbertfrom Charlotte Knights.",
+      "player": "Tyler Gilbert"
     }
   ]
 }
