@@ -1,24 +1,6 @@
 {
-  "last_updated": "2025-06-19T16:32:44.036668",
+  "last_updated": "2025-06-19T17:24:33.946771",
   "transactions": [
-    {
-      "date": "2025-06-19",
-      "team": "New York Yankees",
-      "details": "New York Yankeestransferred 3BOswaldo Cabrerafrom the 10-day injured list to the 60-day injured list. Left ankle fracture.",
-      "player": "Oswaldo Cabrera"
-    },
-    {
-      "date": "2025-06-19",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPDerek Lawon a rehab assignment to Harrisburg Senators.",
-      "player": "Derek Law"
-    },
-    {
-      "date": "2025-06-19",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksplaced CGabriel Morenoon the 10-day injured list retroactive to June 16, 2025. Right hand contusion.",
-      "player": "Gabriel Moreno"
-    },
     {
       "date": "2025-06-19",
       "team": "Chicago White Sox",
@@ -27,9 +9,15 @@
     },
     {
       "date": "2025-06-19",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssigned free agent LHPTyler Matzekto a minor league contract.",
-      "player": "Tyler Matzek"
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RHPYerry De los Santos.",
+      "player": "Yerry De los Santos"
+    },
+    {
+      "date": "2025-06-19",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced CGabriel Morenoon the 10-day injured list retroactive to June 16, 2025. Right hand contusion.",
+      "player": "Gabriel Moreno"
     },
     {
       "date": "2025-06-19",
@@ -40,26 +28,20 @@
     {
       "date": "2025-06-19",
       "team": "New York Yankees",
-      "details": "New York Yankeesactivated RHPYerry De los Santos.",
-      "player": "Yerry De los Santos"
+      "details": "New York Yankeestransferred 3BOswaldo Cabrerafrom the 10-day injured list to the 60-day injured list. Left ankle fracture.",
+      "player": "Oswaldo Cabrera"
     },
     {
       "date": "2025-06-19",
-      "team": "New York Yankees",
-      "details": "New York Yankeesselected the contract of LHPJayvien Sandridgefrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jayvien Sandridge"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssigned free agent LHPTyler Matzekto a minor league contract.",
+      "player": "Tyler Matzek"
     },
     {
       "date": "2025-06-19",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPTyler Gilbertfrom Charlotte Knights.",
-      "player": "Tyler Gilbert"
-    },
-    {
-      "date": "2025-06-19",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksselected the contract of CAramis Garciafrom Reno Aces.",
-      "player": "Aramis Garcia"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPDerek Lawon a rehab assignment to Harrisburg Senators.",
+      "player": "Derek Law"
     },
     {
       "date": "2025-06-19",
@@ -75,15 +57,33 @@
     },
     {
       "date": "2025-06-19",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPMichael McGreevyfrom Memphis Redbirds.",
-      "player": "Michael McGreevy"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksselected the contract of CAramis Garciafrom Reno Aces.",
+      "player": "Aramis Garcia"
+    },
+    {
+      "date": "2025-06-19",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPTyler Gilbertfrom Charlotte Knights.",
+      "player": "Tyler Gilbert"
+    },
+    {
+      "date": "2025-06-19",
+      "team": "New York Yankees",
+      "details": "New York Yankeesselected the contract of LHPJayvien Sandridgefrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jayvien Sandridge"
     },
     {
       "date": "2025-06-19",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesrecalled RFJack Suwinskifrom Indianapolis Indians.",
       "player": "Jack Suwinski"
+    },
+    {
+      "date": "2025-06-19",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPMichael McGreevyfrom Memphis Redbirds.",
+      "player": "Michael McGreevy"
     }
   ]
 }
