@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-19T15:27:42.425968",
+  "last_updated": "2025-06-19T16:32:44.036668",
   "transactions": [
     {
       "date": "2025-06-19",
@@ -15,27 +15,33 @@
     },
     {
       "date": "2025-06-19",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced CGabriel Morenoon the 10-day injured list retroactive to June 16, 2025. Right hand contusion.",
+      "player": "Gabriel Moreno"
+    },
+    {
+      "date": "2025-06-19",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxplaced RHPAdrian Houseron the paternity list.",
       "player": "Adrian Houser"
     },
     {
       "date": "2025-06-19",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssigned free agent LHPTyler Matzekto a minor league contract.",
+      "player": "Tyler Matzek"
+    },
+    {
+      "date": "2025-06-19",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackstransferred RHPChristian Montes De Ocafrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
+      "player": "Christian Montes De Oca"
+    },
+    {
+      "date": "2025-06-19",
       "team": "New York Yankees",
       "details": "New York Yankeesactivated RHPYerry De los Santos.",
       "player": "Yerry De los Santos"
-    },
-    {
-      "date": "2025-06-19",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled RHPOwen Whitefrom Charlotte Knights.",
-      "player": "Owen White"
-    },
-    {
-      "date": "2025-06-19",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RFJack Suwinskifrom Indianapolis Indians.",
-      "player": "Jack Suwinski"
     },
     {
       "date": "2025-06-19",
@@ -48,6 +54,36 @@
       "team": "Chicago White Sox",
       "details": "Chicago White Soxrecalled LHPTyler Gilbertfrom Charlotte Knights.",
       "player": "Tyler Gilbert"
+    },
+    {
+      "date": "2025-06-19",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksselected the contract of CAramis Garciafrom Reno Aces.",
+      "player": "Aramis Garcia"
+    },
+    {
+      "date": "2025-06-19",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerstraded 1BWes ClarketoHouston Astrosfor cash.",
+      "player": "Wes Clarke"
+    },
+    {
+      "date": "2025-06-19",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPOwen Whitefrom Charlotte Knights.",
+      "player": "Owen White"
+    },
+    {
+      "date": "2025-06-19",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPMichael McGreevyfrom Memphis Redbirds.",
+      "player": "Michael McGreevy"
+    },
+    {
+      "date": "2025-06-19",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RFJack Suwinskifrom Indianapolis Indians.",
+      "player": "Jack Suwinski"
     }
   ]
 }
