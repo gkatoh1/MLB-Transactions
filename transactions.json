@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-19T17:24:33.946771",
+  "last_updated": "2025-06-19T18:35:11.590430",
   "transactions": [
     {
       "date": "2025-06-19",
@@ -9,15 +9,27 @@
     },
     {
       "date": "2025-06-19",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated RHPYerry De los Santos.",
-      "player": "Yerry De los Santos"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliestransferred RHPAaron Nolafrom the 15-day injured list to the 60-day injured list. Right ankle sprain.",
+      "player": "Aaron Nola"
     },
     {
       "date": "2025-06-19",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksplaced CGabriel Morenoon the 10-day injured list retroactive to June 16, 2025. Right hand contusion.",
-      "player": "Gabriel Moreno"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssigned free agent LHPTyler Matzekto a minor league contract.",
+      "player": "Tyler Matzek"
+    },
+    {
+      "date": "2025-06-19",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPDerek Lawon a rehab assignment to Harrisburg Senators.",
+      "player": "Derek Law"
+    },
+    {
+      "date": "2025-06-19",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RHPYerry De los Santos.",
+      "player": "Yerry De los Santos"
     },
     {
       "date": "2025-06-19",
@@ -33,15 +45,15 @@
     },
     {
       "date": "2025-06-19",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssigned free agent LHPTyler Matzekto a minor league contract.",
-      "player": "Tyler Matzek"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced CGabriel Morenoon the 10-day injured list retroactive to June 16, 2025. Right hand contusion.",
+      "player": "Gabriel Moreno"
     },
     {
       "date": "2025-06-19",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPDerek Lawon a rehab assignment to Harrisburg Senators.",
-      "player": "Derek Law"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPCole Sulserto Durham Bulls.",
+      "player": "Cole Sulser"
     },
     {
       "date": "2025-06-19",
@@ -63,9 +75,39 @@
     },
     {
       "date": "2025-06-19",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RFJack Suwinskifrom Indianapolis Indians.",
+      "player": "Jack Suwinski"
+    },
+    {
+      "date": "2025-06-19",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesselected the contract of 2BBuddy Kennedyfrom Lehigh Valley IronPigs.",
+      "player": "Buddy Kennedy"
+    },
+    {
+      "date": "2025-06-19",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPMichael McGreevyfrom Memphis Redbirds.",
+      "player": "Michael McGreevy"
+    },
+    {
+      "date": "2025-06-19",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned LFWeston Wilsonto Lehigh Valley IronPigs.",
+      "player": "Weston Wilson"
+    },
+    {
+      "date": "2025-06-19",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxrecalled LHPTyler Gilbertfrom Charlotte Knights.",
       "player": "Tyler Gilbert"
+    },
+    {
+      "date": "2025-06-19",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPDylan Smithfrom Toledo Mud Hens.",
+      "player": "Dylan Smith"
     },
     {
       "date": "2025-06-19",
@@ -75,15 +117,9 @@
     },
     {
       "date": "2025-06-19",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RFJack Suwinskifrom Indianapolis Indians.",
-      "player": "Jack Suwinski"
-    },
-    {
-      "date": "2025-06-19",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPMichael McGreevyfrom Memphis Redbirds.",
-      "player": "Michael McGreevy"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPConnor Seaboldfrom Durham Bulls.",
+      "player": "Connor Seabold"
     }
   ]
 }
