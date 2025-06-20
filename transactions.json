@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-06-20T13:35:51.949238",
+  "last_updated": "2025-06-20T14:25:37.519193",
   "transactions": [
+    {
+      "date": "2025-06-20",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPJosé Ruizfor assignment.",
+      "player": "José Ruiz"
+    },
     {
       "date": "2025-06-20",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsoptioned RHPJonathan Bowlanto Omaha Storm Chasers.",
       "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPOwen Whiteto Charlotte Knights.",
+      "player": "Owen White"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RFJack Suwinskito Indianapolis Indians.",
+      "player": "Jack Suwinski"
     },
     {
       "date": "2025-06-20",
@@ -15,9 +33,21 @@
     },
     {
       "date": "2025-06-20",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPOwen Whiteto Charlotte Knights.",
-      "player": "Owen White"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPMichael McGreevyto Memphis Redbirds.",
+      "player": "Michael McGreevy"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPDidier Fuentesfrom Gwinnett Stripers.",
+      "player": "Didier Fuentes"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPDylan Smithto Toledo Mud Hens.",
+      "player": "Dylan Smith"
     }
   ]
 }
