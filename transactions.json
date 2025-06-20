@@ -1,11 +1,35 @@
 {
-  "last_updated": "2025-06-20T14:25:37.519193",
+  "last_updated": "2025-06-20T15:27:03.248200",
   "transactions": [
     {
       "date": "2025-06-20",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesdesignated RHPJosé Ruizfor assignment.",
       "player": "José Ruiz"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated LHPSam Longfrom the 15-day injured list.",
+      "player": "Sam Long"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RFLuke Raleyfrom the 10-day injured list.",
+      "player": "Luke Raley"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated 1BRowdy Tellezfor assignment.",
+      "player": "Rowdy Tellez"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPMichael McGreevyto Memphis Redbirds.",
+      "player": "Michael McGreevy"
     },
     {
       "date": "2025-06-20",
@@ -27,18 +51,6 @@
     },
     {
       "date": "2025-06-20",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned LHPJayvien Sandridgeto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jayvien Sandridge"
-    },
-    {
-      "date": "2025-06-20",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPMichael McGreevyto Memphis Redbirds.",
-      "player": "Michael McGreevy"
-    },
-    {
-      "date": "2025-06-20",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesselected the contract of RHPDidier Fuentesfrom Gwinnett Stripers.",
       "player": "Didier Fuentes"
@@ -48,6 +60,12 @@
       "team": "Detroit Tigers",
       "details": "Detroit Tigersoptioned RHPDylan Smithto Toledo Mud Hens.",
       "player": "Dylan Smith"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned LHPJayvien Sandridgeto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jayvien Sandridge"
     }
   ]
 }
