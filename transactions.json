@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-06-20T15:27:03.248200",
+  "last_updated": "2025-06-20T16:32:06.352386",
   "transactions": [
-    {
-      "date": "2025-06-20",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated RHPJosé Ruizfor assignment.",
-      "player": "José Ruiz"
-    },
-    {
-      "date": "2025-06-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated LHPSam Longfrom the 15-day injured list.",
-      "player": "Sam Long"
-    },
     {
       "date": "2025-06-20",
       "team": "Seattle Mariners",
@@ -27,9 +15,15 @@
     },
     {
       "date": "2025-06-20",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPMichael McGreevyto Memphis Redbirds.",
-      "player": "Michael McGreevy"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPJosé Ruizfor assignment.",
+      "player": "José Ruiz"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated LHPSam Longfrom the 15-day injured list.",
+      "player": "Sam Long"
     },
     {
       "date": "2025-06-20",
@@ -39,21 +33,21 @@
     },
     {
       "date": "2025-06-20",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPMichael McGreevyto Memphis Redbirds.",
+      "player": "Michael McGreevy"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned LHPJayvien Sandridgeto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jayvien Sandridge"
+    },
+    {
+      "date": "2025-06-20",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned RHPOwen Whiteto Charlotte Knights.",
       "player": "Owen White"
-    },
-    {
-      "date": "2025-06-20",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RFJack Suwinskito Indianapolis Indians.",
-      "player": "Jack Suwinski"
-    },
-    {
-      "date": "2025-06-20",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPDidier Fuentesfrom Gwinnett Stripers.",
-      "player": "Didier Fuentes"
     },
     {
       "date": "2025-06-20",
@@ -63,9 +57,15 @@
     },
     {
       "date": "2025-06-20",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned LHPJayvien Sandridgeto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jayvien Sandridge"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPDidier Fuentesfrom Gwinnett Stripers.",
+      "player": "Didier Fuentes"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RFJack Suwinskito Indianapolis Indians.",
+      "player": "Jack Suwinski"
     }
   ]
 }
