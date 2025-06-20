@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-06-20T17:22:59.419044",
+  "last_updated": "2025-06-20T18:35:48.575633",
   "transactions": [
-    {
-      "date": "2025-06-20",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated RFLuke Raleyfrom the 10-day injured list.",
-      "player": "Luke Raley"
-    },
     {
       "date": "2025-06-20",
       "team": "Seattle Mariners",
@@ -15,9 +9,15 @@
     },
     {
       "date": "2025-06-20",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated RHPJosé Ruizfor assignment.",
-      "player": "José Ruiz"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RHPCaleb Freemanfor assignment.",
+      "player": "Caleb Freeman"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced LHPCam Booseron the 15-day injured list. Left shoulder strain.",
+      "player": "Cam Booser"
     },
     {
       "date": "2025-06-20",
@@ -27,9 +27,33 @@
     },
     {
       "date": "2025-06-20",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RHPDavis Martinon the 15-day injured list retroactive to June 17, 2025. Right forearm strain.",
+      "player": "Davis Martin"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPJosé Ruizfor assignment.",
+      "player": "José Ruiz"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RFLuke Raleyfrom the 10-day injured list.",
+      "player": "Luke Raley"
+    },
+    {
+      "date": "2025-06-20",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersoptioned RHPDylan Smithto Toledo Mud Hens.",
       "player": "Dylan Smith"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPWikelman Gonzálezfrom Charlotte Knights.",
+      "player": "Wikelman González"
     },
     {
       "date": "2025-06-20",
@@ -39,9 +63,9 @@
     },
     {
       "date": "2025-06-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPJonathan Bowlanto Omaha Storm Chasers.",
-      "player": "Jonathan Bowlan"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of LHPJake Palischfrom Birmingham Barons.",
+      "player": "Jake Palisch"
     },
     {
       "date": "2025-06-20",
@@ -51,15 +75,21 @@
     },
     {
       "date": "2025-06-20",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPMichael McGreevyto Memphis Redbirds.",
-      "player": "Michael McGreevy"
-    },
-    {
-      "date": "2025-06-20",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesselected the contract of RHPDidier Fuentesfrom Gwinnett Stripers.",
       "player": "Didier Fuentes"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPJonathan Bowlanto Omaha Storm Chasers.",
+      "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPMichael McGreevyto Memphis Redbirds.",
+      "player": "Michael McGreevy"
     },
     {
       "date": "2025-06-20",
