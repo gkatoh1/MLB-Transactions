@@ -1,23 +1,11 @@
 {
-  "last_updated": "2025-06-21T15:24:21.906499",
+  "last_updated": "2025-06-21T16:30:19.924952",
   "transactions": [
     {
       "date": "2025-06-21",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPChase Pettyfrom Louisville Bats.",
-      "player": "Chase Petty"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPConnor Seaboldto Durham Bulls.",
-      "player": "Connor Seabold"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPLuis Meyto Louisville Bats.",
-      "player": "Luis Mey"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated LHPGénesis Cabrerafor assignment.",
+      "player": "Génesis Cabrera"
     },
     {
       "date": "2025-06-21",
@@ -30,6 +18,30 @@
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysselected the contract of RHPPaul Gervasefrom Durham Bulls.",
       "player": "Paul Gervase"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPLuis Meyto Louisville Bats.",
+      "player": "Luis Mey"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPNate Pearsonfrom Iowa Cubs.",
+      "player": "Nate Pearson"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPConnor Seaboldto Durham Bulls.",
+      "player": "Connor Seabold"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPChase Pettyfrom Louisville Bats.",
+      "player": "Chase Petty"
     }
   ]
 }
