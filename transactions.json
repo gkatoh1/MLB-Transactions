@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-06-21T02:04:27.167375",
+  "last_updated": "2025-06-21T03:48:16.183754",
   "transactions": [
     {
       "date": "2025-06-20",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerstransferred RHPRoki Sasakifrom the 15-day injured list to the 60-day injured list. Right shoulder impingement.",
-      "player": "Roki Sasaki"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced RHPJustin Verlanderon the paternity list.",
+      "player": "Justin Verlander"
     },
     {
       "date": "2025-06-20",
@@ -33,6 +33,42 @@
     },
     {
       "date": "2025-06-20",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsplaced CIván Herreraon the 10-day injured list. Left hamstring strain.",
+      "player": "Iván Herrera"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RFWilyer Abreufrom the 10-day injured list.",
+      "player": "Wilyer Abreu"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced LHPWade Mileyon the 15-day injured list retroactive to June 17, 2025. Left flexor strain.",
+      "player": "Wade Miley"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerstransferred RHPRoki Sasakifrom the 15-day injured list to the 60-day injured list. Right shoulder impingement.",
+      "player": "Roki Sasaki"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent SSHa-Seong Kimon a rehab assignment to Durham Bulls.",
+      "player": "Ha-Seong Kim"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "New York Mets",
+      "details": "New York Metssent LHPSean Manaeaon a rehab assignment to Syracuse Mets.",
+      "player": "Sean Manaea"
+    },
+    {
+      "date": "2025-06-20",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxplaced LHPCam Booseron the 15-day injured list. Left shoulder strain.",
       "player": "Cam Booser"
@@ -54,12 +90,6 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysactivated RFNathan Lukesfrom the 7-day injured list.",
       "player": "Nathan Lukes"
-    },
-    {
-      "date": "2025-06-20",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated RFWilyer Abreufrom the 10-day injured list.",
-      "player": "Wilyer Abreu"
     },
     {
       "date": "2025-06-20",
@@ -93,39 +123,9 @@
     },
     {
       "date": "2025-06-20",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent SSHa-Seong Kimon a rehab assignment to Durham Bulls.",
-      "player": "Ha-Seong Kim"
-    },
-    {
-      "date": "2025-06-20",
       "team": "New York Yankees",
       "details": "New York Yankeesactivated RHPLuke Weaverfrom the 15-day injured list.",
       "player": "Luke Weaver"
-    },
-    {
-      "date": "2025-06-20",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsplaced RHPJustin Verlanderon the paternity list.",
-      "player": "Justin Verlander"
-    },
-    {
-      "date": "2025-06-20",
-      "team": "New York Mets",
-      "details": "New York Metssent LHPSean Manaeaon a rehab assignment to Syracuse Mets.",
-      "player": "Sean Manaea"
-    },
-    {
-      "date": "2025-06-20",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsplaced CIván Herreraon the 10-day injured list. Left hamstring strain.",
-      "player": "Iván Herrera"
-    },
-    {
-      "date": "2025-06-20",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced LHPWade Mileyon the 15-day injured list retroactive to June 17, 2025. Left flexor strain.",
-      "player": "Wade Miley"
     },
     {
       "date": "2025-06-20",
@@ -135,15 +135,27 @@
     },
     {
       "date": "2025-06-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPJonathan Bowlanto Omaha Storm Chasers.",
-      "player": "Jonathan Bowlan"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of LHPJake Palischfrom Birmingham Barons.",
+      "player": "Jake Palisch"
     },
     {
       "date": "2025-06-20",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPConnor Phillipsfrom Louisville Bats.",
-      "player": "Connor Phillips"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPMichael McGreevyto Memphis Redbirds.",
+      "player": "Michael McGreevy"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPDylan Smithfrom Toledo Mud Hens.",
+      "player": "Dylan Smith"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFWill Robertsonto Buffalo Bisons.",
+      "player": "Will Robertson"
     },
     {
       "date": "2025-06-20",
@@ -153,39 +165,9 @@
     },
     {
       "date": "2025-06-20",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersoptioned RHPJack Littleto Oklahoma City Comets.",
-      "player": "Jack Little"
-    },
-    {
-      "date": "2025-06-20",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPOwen Whiteto Charlotte Knights.",
-      "player": "Owen White"
-    },
-    {
-      "date": "2025-06-20",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned RHPDylan Smithto Toledo Mud Hens.",
-      "player": "Dylan Smith"
-    },
-    {
-      "date": "2025-06-20",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RFJack Suwinskito Indianapolis Indians.",
-      "player": "Jack Suwinski"
-    },
-    {
-      "date": "2025-06-20",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsrecalled 2BBrett Wiselyfrom Sacramento River Cats.",
-      "player": "Brett Wisely"
-    },
-    {
-      "date": "2025-06-20",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned RHPKeider Monteroto Toledo Mud Hens.",
-      "player": "Keider Montero"
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned LHPJayvien Sandridgeto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jayvien Sandridge"
     },
     {
       "date": "2025-06-20",
@@ -195,21 +177,9 @@
     },
     {
       "date": "2025-06-20",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent 1BKeston Hiuraoutright to Albuquerque Isotopes.",
-      "player": "Keston Hiura"
-    },
-    {
-      "date": "2025-06-20",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPDidier Fuentesfrom Gwinnett Stripers.",
-      "player": "Didier Fuentes"
-    },
-    {
-      "date": "2025-06-20",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned LHPJayvien Sandridgeto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jayvien Sandridge"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPOwen Whiteto Charlotte Knights.",
+      "player": "Owen White"
     },
     {
       "date": "2025-06-20",
@@ -231,21 +201,9 @@
     },
     {
       "date": "2025-06-20",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPMichael McGreevyto Memphis Redbirds.",
-      "player": "Michael McGreevy"
-    },
-    {
-      "date": "2025-06-20",
       "team": "New York Mets",
       "details": "New York Metsrecalled RHPBlade Tidwellfrom Syracuse Mets.",
       "player": "Blade Tidwell"
-    },
-    {
-      "date": "2025-06-20",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of LHPJake Palischfrom Birmingham Barons.",
-      "player": "Jake Palisch"
     },
     {
       "date": "2025-06-20",
@@ -255,9 +213,15 @@
     },
     {
       "date": "2025-06-20",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled RHPDylan Smithfrom Toledo Mud Hens.",
-      "player": "Dylan Smith"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent 1BKeston Hiuraoutright to Albuquerque Isotopes.",
+      "player": "Keston Hiura"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RFJack Suwinskito Indianapolis Indians.",
+      "player": "Jack Suwinski"
     },
     {
       "date": "2025-06-20",
@@ -267,9 +231,45 @@
     },
     {
       "date": "2025-06-20",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LFWill Robertsonto Buffalo Bisons.",
-      "player": "Will Robertson"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPJonathan Bowlanto Omaha Storm Chasers.",
+      "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPDidier Fuentesfrom Gwinnett Stripers.",
+      "player": "Didier Fuentes"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPDylan Smithto Toledo Mud Hens.",
+      "player": "Dylan Smith"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPConnor Phillipsfrom Louisville Bats.",
+      "player": "Connor Phillips"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPJack Littleto Oklahoma City Comets.",
+      "player": "Jack Little"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled 2BBrett Wiselyfrom Sacramento River Cats.",
+      "player": "Brett Wisely"
+    },
+    {
+      "date": "2025-06-20",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPKeider Monteroto Toledo Mud Hens.",
+      "player": "Keider Montero"
     }
   ]
 }
