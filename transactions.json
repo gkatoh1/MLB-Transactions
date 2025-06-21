@@ -1,35 +1,11 @@
 {
-  "last_updated": "2025-06-21T20:26:01.053363",
+  "last_updated": "2025-06-21T21:22:07.923192",
   "transactions": [
-    {
-      "date": "2025-06-21",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsdesignated RHPRobinson Piñafor assignment.",
-      "player": "Robinson Piña"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesactivated RFBryan Reynoldsfrom the paternity list.",
-      "player": "Bryan Reynolds"
-    },
     {
       "date": "2025-06-21",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesplaced CAdley Rutschmanon the 10-day injured list retroactive to June 20, 2025. Left oblique strain.",
       "player": "Adley Rutschman"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced LHPRyan Boruckion the 15-day injured list. Low back inflammation.",
-      "player": "Ryan Borucki"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsdesignated LHPGénesis Cabrerafor assignment.",
-      "player": "Génesis Cabrera"
     },
     {
       "date": "2025-06-21",
@@ -57,9 +33,45 @@
     },
     {
       "date": "2025-06-21",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPJustin Garzato Syracuse Mets.",
-      "player": "Justin Garza"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsdesignated RHPRobinson Piñafor assignment.",
+      "player": "Robinson Piña"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated LHPGénesis Cabrerafor assignment.",
+      "player": "Génesis Cabrera"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced LHPRyan Boruckion the 15-day injured list. Low back inflammation.",
+      "player": "Ryan Borucki"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RFBryan Reynoldsfrom the paternity list.",
+      "player": "Bryan Reynolds"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled LHPAustin Coxfrom Gwinnett Stripers.",
+      "player": "Austin Cox"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPLuis Meyto Louisville Bats.",
+      "player": "Luis Mey"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPChase Pettyfrom Louisville Bats.",
+      "player": "Chase Petty"
     },
     {
       "date": "2025-06-21",
@@ -75,39 +87,15 @@
     },
     {
       "date": "2025-06-21",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPBlade Tidwellto Syracuse Mets.",
+      "player": "Blade Tidwell"
+    },
+    {
+      "date": "2025-06-21",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsrecalled RHPNate Pearsonfrom Iowa Cubs.",
       "player": "Nate Pearson"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPConnor Seaboldto Durham Bulls.",
-      "player": "Connor Seabold"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPConnor Seaboldto Durham Bulls.",
-      "player": "Connor Seabold"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPHunter Strattonfrom Indianapolis Indians.",
-      "player": "Hunter Stratton"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPLuis Meyto Louisville Bats.",
-      "player": "Luis Mey"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsselected the contract of LHPJosh Simpsonfrom Jacksonville Jumbo Shrimp.",
-      "player": "Josh Simpson"
     },
     {
       "date": "2025-06-21",
@@ -117,27 +105,9 @@
     },
     {
       "date": "2025-06-21",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled 1BJustin Foscuefrom Round Rock Express.",
-      "player": "Justin Foscue"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled LHPAustin Coxfrom Gwinnett Stripers.",
-      "player": "Austin Cox"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPBlade Tidwellto Syracuse Mets.",
-      "player": "Blade Tidwell"
-    },
-    {
-      "date": "2025-06-21",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysselected the contract of RHPPaul Gervasefrom Durham Bulls.",
-      "player": "Paul Gervase"
+      "details": "Tampa Bay Raysoptioned RHPConnor Seaboldto Durham Bulls.",
+      "player": "Connor Seabold"
     },
     {
       "date": "2025-06-21",
@@ -147,9 +117,39 @@
     },
     {
       "date": "2025-06-21",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPChase Pettyfrom Louisville Bats.",
-      "player": "Chase Petty"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPHunter Strattonfrom Indianapolis Indians.",
+      "player": "Hunter Stratton"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPConnor Seaboldto Durham Bulls.",
+      "player": "Connor Seabold"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJustin Garzato Syracuse Mets.",
+      "player": "Justin Garza"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysselected the contract of RHPPaul Gervasefrom Durham Bulls.",
+      "player": "Paul Gervase"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of LHPJosh Simpsonfrom Jacksonville Jumbo Shrimp.",
+      "player": "Josh Simpson"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled 1BJustin Foscuefrom Round Rock Express.",
+      "player": "Justin Foscue"
     }
   ]
 }
