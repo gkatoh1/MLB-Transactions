@@ -1,23 +1,11 @@
 {
-  "last_updated": "2025-06-22T20:26:29.845762",
+  "last_updated": "2025-06-22T21:22:41.178771",
   "transactions": [
     {
       "date": "2025-06-22",
-      "team": "Athletics",
-      "details": "Athleticstransferred RHPGunnar Hoglundfrom the 15-day injured list to the 60-day injured list. Left hip impingement.",
-      "player": "Gunnar Hoglund"
-    },
-    {
-      "date": "2025-06-22",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssent RHPLuis Garcíaon a rehab assignment to Rancho Cucamonga Quakes.",
-      "player": "Luis García"
-    },
-    {
-      "date": "2025-06-22",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresactivated CFJackson Merrillfrom the 10-day injured list.",
-      "player": "Jackson Merrill"
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced LHPRyan Yarbroughon the 15-day injured list retroactive to June 20, 2025. Right oblique strain.",
+      "player": "Ryan Yarbrough"
     },
     {
       "date": "2025-06-22",
@@ -28,14 +16,14 @@
     {
       "date": "2025-06-22",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent RHPJordan Hickson a rehab assignment to Worcester Red Sox.",
-      "player": "Jordan Hicks"
+      "details": "Boston Red Soxplaced RHPHunter Dobbinson the 15-day injured list retroactive to June 21, 2025. Right elbow strain.",
+      "player": "Hunter Dobbins"
     },
     {
       "date": "2025-06-22",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated RHPAdrian Houserfrom the paternity list.",
-      "player": "Adrian Houser"
+      "team": "Athletics",
+      "details": "Athleticstransferred RHPGunnar Hoglundfrom the 15-day injured list to the 60-day injured list. Left hip impingement.",
+      "player": "Gunnar Hoglund"
     },
     {
       "date": "2025-06-22",
@@ -51,9 +39,15 @@
     },
     {
       "date": "2025-06-22",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced LHPRyan Yarbroughon the 15-day injured list retroactive to June 20, 2025. Right oblique strain.",
-      "player": "Ryan Yarbrough"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated CFJackson Merrillfrom the 10-day injured list.",
+      "player": "Jackson Merrill"
+    },
+    {
+      "date": "2025-06-22",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated RHPAdrian Houserfrom the paternity list.",
+      "player": "Adrian Houser"
     },
     {
       "date": "2025-06-22",
@@ -64,8 +58,14 @@
     {
       "date": "2025-06-22",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced RHPHunter Dobbinson the 15-day injured list retroactive to June 21, 2025. Right elbow strain.",
-      "player": "Hunter Dobbins"
+      "details": "Boston Red Soxsent RHPJordan Hickson a rehab assignment to Worcester Red Sox.",
+      "player": "Jordan Hicks"
+    },
+    {
+      "date": "2025-06-22",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RHPLuis Garcíaon a rehab assignment to Rancho Cucamonga Quakes.",
+      "player": "Luis García"
     },
     {
       "date": "2025-06-22",
@@ -81,51 +81,21 @@
     },
     {
       "date": "2025-06-22",
-      "team": "Athletics",
-      "details": "Athleticsoptioned RHPAnthony Maldonadoto Las Vegas Aviators.",
-      "player": "Anthony Maldonado"
-    },
-    {
-      "date": "2025-06-22",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled LHPJayvien Sandridgefrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jayvien Sandridge"
-    },
-    {
-      "date": "2025-06-22",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPMichael Mercadoto Lehigh Valley IronPigs.",
-      "player": "Michael Mercado"
-    },
-    {
-      "date": "2025-06-22",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned LHPJake Palischto Charlotte Knights.",
-      "player": "Jake Palisch"
-    },
-    {
-      "date": "2025-06-22",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPAlan Rangelfrom Lehigh Valley IronPigs.",
-      "player": "Alan Rangel"
-    },
-    {
-      "date": "2025-06-22",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned CFrancisco Alvarezto Syracuse Mets.",
-      "player": "Francisco Alvarez"
-    },
-    {
-      "date": "2025-06-22",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsrecalled RHPYosver Zuluetafrom Louisville Bats.",
       "player": "Yosver Zulueta"
     },
     {
       "date": "2025-06-22",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled CHayden Sengerfrom Syracuse Mets.",
-      "player": "Hayden Senger"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
+      "player": "Chase Petty"
+    },
+    {
+      "date": "2025-06-22",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RFRece Hindsfrom Louisville Bats.",
+      "player": "Rece Hinds"
     },
     {
       "date": "2025-06-22",
@@ -147,21 +117,21 @@
     },
     {
       "date": "2025-06-22",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPAngel Chivillifrom Albuquerque Isotopes.",
-      "player": "Angel Chivilli"
-    },
-    {
-      "date": "2025-06-22",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPRichard Fittsfrom Worcester Red Sox.",
-      "player": "Richard Fitts"
-    },
-    {
-      "date": "2025-06-22",
       "team": "Athletics",
       "details": "Athleticsselected the contract of RHPJack Perkinsfrom Las Vegas Aviators.",
       "player": "Jack Perkins"
+    },
+    {
+      "date": "2025-06-22",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled LHPJayvien Sandridgefrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jayvien Sandridge"
+    },
+    {
+      "date": "2025-06-22",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPAngel Chivillifrom Albuquerque Isotopes.",
+      "player": "Angel Chivilli"
     },
     {
       "date": "2025-06-22",
@@ -171,15 +141,45 @@
     },
     {
       "date": "2025-06-22",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
-      "player": "Chase Petty"
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPAnthony Maldonadoto Las Vegas Aviators.",
+      "player": "Anthony Maldonado"
     },
     {
       "date": "2025-06-22",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RFRece Hindsfrom Louisville Bats.",
-      "player": "Rece Hinds"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPAlan Rangelfrom Lehigh Valley IronPigs.",
+      "player": "Alan Rangel"
+    },
+    {
+      "date": "2025-06-22",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled CHayden Sengerfrom Syracuse Mets.",
+      "player": "Hayden Senger"
+    },
+    {
+      "date": "2025-06-22",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPMichael Mercadoto Lehigh Valley IronPigs.",
+      "player": "Michael Mercado"
+    },
+    {
+      "date": "2025-06-22",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPRichard Fittsfrom Worcester Red Sox.",
+      "player": "Richard Fitts"
+    },
+    {
+      "date": "2025-06-22",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned CFrancisco Alvarezto Syracuse Mets.",
+      "player": "Francisco Alvarez"
+    },
+    {
+      "date": "2025-06-22",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPJake Palischto Charlotte Knights.",
+      "player": "Jake Palisch"
     }
   ]
 }
