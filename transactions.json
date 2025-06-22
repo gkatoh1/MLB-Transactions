@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-21T23:23:50.077579",
+  "last_updated": "2025-06-22T02:22:42.560343",
   "transactions": [
     {
       "date": "2025-06-21",
@@ -9,9 +9,27 @@
     },
     {
       "date": "2025-06-21",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent RHPRyan Feltneron a rehab assignment to Albuquerque Isotopes.",
+      "player": "Ryan Feltner"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced LHPChris Saleon the 15-day injured list retroactive to June 19, 2025. Fractured left ribcage.",
+      "player": "Chris Sale"
+    },
+    {
+      "date": "2025-06-21",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced LHPRyan Boruckion the 15-day injured list. Low back inflammation.",
-      "player": "Ryan Borucki"
+      "details": "Pittsburgh Piratesactivated RFBryan Reynoldsfrom the paternity list.",
+      "player": "Bryan Reynolds"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent RHPLogan Gillaspieon a rehab assignment to El Paso Chihuahuas.",
+      "player": "Logan Gillaspie"
     },
     {
       "date": "2025-06-21",
@@ -34,26 +52,8 @@
     {
       "date": "2025-06-21",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesactivated RFBryan Reynoldsfrom the paternity list.",
-      "player": "Bryan Reynolds"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsdesignated RHPRobinson Piñafor assignment.",
-      "player": "Robinson Piña"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent RHPRyan Feltneron a rehab assignment to Albuquerque Isotopes.",
-      "player": "Ryan Feltner"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced LHPChris Saleon the 15-day injured list retroactive to June 19, 2025. Fractured left ribcage.",
-      "player": "Chris Sale"
+      "details": "Pittsburgh Piratesplaced LHPRyan Boruckion the 15-day injured list. Low back inflammation.",
+      "player": "Ryan Borucki"
     },
     {
       "date": "2025-06-21",
@@ -64,56 +64,26 @@
     {
       "date": "2025-06-21",
       "team": "San Diego Padres",
-      "details": "San Diego Padresactivated RHPBryan Hoeingfrom the 60-day injured list.",
-      "player": "Bryan Hoeing"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "San Diego Padres",
       "details": "San Diego Padresdesignated LFJason Heywardfor assignment.",
       "player": "Jason Heyward"
     },
     {
       "date": "2025-06-21",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPConnor Seaboldto Durham Bulls.",
-      "player": "Connor Seabold"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled 1BJustin Foscuefrom Round Rock Express.",
-      "player": "Justin Foscue"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled LHPAustin Coxfrom Gwinnett Stripers.",
-      "player": "Austin Cox"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPTyler Zuberfrom Syracuse Mets.",
-      "player": "Tyler Zuber"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPJustin Garzato Syracuse Mets.",
-      "player": "Justin Garza"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated RHPBryan Hoeingfrom the 60-day injured list.",
+      "player": "Bryan Hoeing"
     },
     {
       "date": "2025-06-21",
       "team": "Miami Marlins",
-      "details": "Miami Marlinsselected the contract of LHPJosh Simpsonfrom Jacksonville Jumbo Shrimp.",
-      "player": "Josh Simpson"
+      "details": "Miami Marlinsdesignated RHPRobinson Piñafor assignment.",
+      "player": "Robinson Piña"
     },
     {
       "date": "2025-06-21",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysselected the contract of RHPPaul Gervasefrom Durham Bulls.",
-      "player": "Paul Gervase"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPBlade Tidwellto Syracuse Mets.",
+      "player": "Blade Tidwell"
     },
     {
       "date": "2025-06-21",
@@ -123,9 +93,33 @@
     },
     {
       "date": "2025-06-21",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled RHPNate Pearsonfrom Iowa Cubs.",
-      "player": "Nate Pearson"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPConnor Seaboldto Durham Bulls.",
+      "player": "Connor Seabold"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPLuis Meyto Louisville Bats.",
+      "player": "Luis Mey"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled CMaverick Handleyfrom Norfolk Tides.",
+      "player": "Maverick Handley"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPChase Pettyfrom Louisville Bats.",
+      "player": "Chase Petty"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPTyler Zuberfrom Syracuse Mets.",
+      "player": "Tyler Zuber"
     },
     {
       "date": "2025-06-21",
@@ -141,27 +135,15 @@
     },
     {
       "date": "2025-06-21",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPLuis Meyto Louisville Bats.",
-      "player": "Luis Mey"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled 1BJustin Foscuefrom Round Rock Express.",
+      "player": "Justin Foscue"
     },
     {
       "date": "2025-06-21",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPBlade Tidwellto Syracuse Mets.",
-      "player": "Blade Tidwell"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPSean Reynoldsto El Paso Chihuahuas.",
-      "player": "Sean Reynolds"
-    },
-    {
-      "date": "2025-06-21",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled CMaverick Handleyfrom Norfolk Tides.",
-      "player": "Maverick Handley"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled LHPAustin Coxfrom Gwinnett Stripers.",
+      "player": "Austin Cox"
     },
     {
       "date": "2025-06-21",
@@ -171,9 +153,33 @@
     },
     {
       "date": "2025-06-21",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPChase Pettyfrom Louisville Bats.",
-      "player": "Chase Petty"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPNate Pearsonfrom Iowa Cubs.",
+      "player": "Nate Pearson"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJustin Garzato Syracuse Mets.",
+      "player": "Justin Garza"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of LHPJosh Simpsonfrom Jacksonville Jumbo Shrimp.",
+      "player": "Josh Simpson"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPSean Reynoldsto El Paso Chihuahuas.",
+      "player": "Sean Reynolds"
+    },
+    {
+      "date": "2025-06-21",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysselected the contract of RHPPaul Gervasefrom Durham Bulls.",
+      "player": "Paul Gervase"
     }
   ]
 }
