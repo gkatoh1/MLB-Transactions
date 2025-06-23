@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-06-23T21:24:51.190684",
+  "last_updated": "2025-06-23T22:26:02.663888",
   "transactions": [
-    {
-      "date": "2025-06-23",
-      "team": "New York Mets",
-      "details": "New York Metstransferred CFJose Sirifrom the 10-day injured list to the 60-day injured list. Left tibia fracture.",
-      "player": "Jose Siri"
-    },
-    {
-      "date": "2025-06-23",
-      "team": "New York Mets",
-      "details": "New York Metssigned free agent LHPRichard Lovelady.",
-      "player": "Richard Lovelady"
-    },
     {
       "date": "2025-06-23",
       "team": "Cincinnati Reds",
@@ -22,8 +10,20 @@
     {
       "date": "2025-06-23",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolestransferred 1BRyan Mountcastlefrom the 10-day injured list to the 60-day injured list. Right hamstring strain.",
-      "player": "Ryan Mountcastle"
+      "details": "Baltimore Oriolesplaced CMaverick Handleyon the 7-day injured list. Concussion.",
+      "player": "Maverick Handley"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced SSKevin Newmanon the paternity list.",
+      "player": "Kevin Newman"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsdesignated 3BJeimer Candelariofor assignment.",
+      "player": "Jeimer Candelario"
     },
     {
       "date": "2025-06-23",
@@ -39,33 +39,21 @@
     },
     {
       "date": "2025-06-23",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPMichael Fulmer.",
-      "player": "Michael Fulmer"
-    },
-    {
-      "date": "2025-06-23",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPYimi Garcíaon a rehab assignment to FCL Blue Jays.",
-      "player": "Yimi García"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RHPKyle Wrightfrom the 15-day injured list.",
+      "player": "Kyle Wright"
     },
     {
       "date": "2025-06-23",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced CMaverick Handleyon the 7-day injured list. Concussion.",
-      "player": "Maverick Handley"
+      "details": "Baltimore Oriolestransferred 1BRyan Mountcastlefrom the 10-day injured list to the 60-day injured list. Right hamstring strain.",
+      "player": "Ryan Mountcastle"
     },
     {
       "date": "2025-06-23",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsactivated RHPJustin Verlanderfrom the paternity list.",
-      "player": "Justin Verlander"
-    },
-    {
-      "date": "2025-06-23",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsdesignated 3BJeimer Candelariofor assignment.",
-      "player": "Jeimer Candelario"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysreleased RHPErik Swanson.",
+      "player": "Erik Swanson"
     },
     {
       "date": "2025-06-23",
@@ -75,75 +63,27 @@
     },
     {
       "date": "2025-06-23",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPYimi Garcíaon a rehab assignment to FCL Blue Jays.",
+      "player": "Yimi García"
+    },
+    {
+      "date": "2025-06-23",
       "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned 2BTyler Fitzgeraldto Sacramento River Cats.",
-      "player": "Tyler Fitzgerald"
+      "details": "San Francisco Giantsactivated RHPJustin Verlanderfrom the paternity list.",
+      "player": "Justin Verlander"
     },
     {
       "date": "2025-06-23",
       "team": "New York Mets",
-      "details": "New York Metsoptioned RHPTyler Zuberto Syracuse Mets.",
-      "player": "Tyler Zuber"
-    },
-    {
-      "date": "2025-06-23",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned LHPJayvien Sandridgeto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jayvien Sandridge"
-    },
-    {
-      "date": "2025-06-23",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned RHPNate Pearsonto Iowa Cubs.",
-      "player": "Nate Pearson"
+      "details": "New York Metssigned free agent LHPRichard Lovelady.",
+      "player": "Richard Lovelady"
     },
     {
       "date": "2025-06-23",
       "team": "New York Mets",
-      "details": "New York Metsoptioned 2BLuisangel Acuñato Syracuse Mets.",
-      "player": "Luisangel Acuña"
-    },
-    {
-      "date": "2025-06-23",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPAllan Winansfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Allan Winans"
-    },
-    {
-      "date": "2025-06-23",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of CChadwick Trompfrom Norfolk Tides.",
-      "player": "Chadwick Tromp"
-    },
-    {
-      "date": "2025-06-23",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned RHPCaleb Boushleyto Round Rock Express.",
-      "player": "Caleb Boushley"
-    },
-    {
-      "date": "2025-06-23",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersselected the contract of RHPDane Dunningfrom Round Rock Express.",
-      "player": "Dane Dunning"
-    },
-    {
-      "date": "2025-06-23",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPRoddery Muñozfrom Memphis Redbirds.",
-      "player": "Roddery Muñoz"
-    },
-    {
-      "date": "2025-06-23",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RFTravis Jankowskifrom Syracuse Mets.",
-      "player": "Travis Jankowski"
-    },
-    {
-      "date": "2025-06-23",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPGordon Graceffoto Memphis Redbirds.",
-      "player": "Gordon Graceffo"
+      "details": "New York Metstransferred CFJose Sirifrom the 10-day injured list to the 60-day injured list. Left tibia fracture.",
+      "player": "Jose Siri"
     },
     {
       "date": "2025-06-23",
@@ -159,9 +99,117 @@
     },
     {
       "date": "2025-06-23",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPCaleb Boushleyto Round Rock Express.",
+      "player": "Caleb Boushley"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersselected the contract of RHPDane Dunningfrom Round Rock Express.",
+      "player": "Dane Dunning"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPNate Pearsonto Iowa Cubs.",
+      "player": "Nate Pearson"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent LHPGénesis Cabreraoutright to Iowa Cubs.",
+      "player": "Génesis Cabrera"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPRoddery Muñozfrom Memphis Redbirds.",
+      "player": "Roddery Muñoz"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsclaimed RHPConnor Gillispieoff waivers fromMiami Marlins.",
+      "player": "Connor Gillispie"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of CChadwick Trompfrom Norfolk Tides.",
+      "player": "Chadwick Tromp"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPKyle Wrightto Omaha Storm Chasers.",
+      "player": "Kyle Wright"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPTyler Zuberto Syracuse Mets.",
+      "player": "Tyler Zuber"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPAllan Winansfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Allan Winans"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned 2BLuisangel Acuñato Syracuse Mets.",
+      "player": "Luisangel Acuña"
+    },
+    {
+      "date": "2025-06-23",
       "team": "Houston Astros",
       "details": "Houston Astrosoptioned LFShay Whitcombto Sugar Land Space Cowboys.",
       "player": "Shay Whitcomb"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPConnor Gillispieto St. Paul Saints.",
+      "player": "Connor Gillispie"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned 2BTyler Fitzgeraldto Sacramento River Cats.",
+      "player": "Tyler Fitzgerald"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent RHPCaleb Freemanoutright to Charlotte Knights.",
+      "player": "Caleb Freeman"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned LHPJayvien Sandridgeto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jayvien Sandridge"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned CFKameron Misnerto Durham Bulls.",
+      "player": "Kameron Misner"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RFTravis Jankowskifrom Syracuse Mets.",
+      "player": "Travis Jankowski"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPGordon Graceffoto Memphis Redbirds.",
+      "player": "Gordon Graceffo"
     }
   ]
 }
