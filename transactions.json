@@ -1,17 +1,23 @@
 {
-  "last_updated": "2025-06-23T19:20:34.533972",
+  "last_updated": "2025-06-23T20:29:00.060398",
   "transactions": [
-    {
-      "date": "2025-06-23",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated LFTaylor Trammellfrom the 10-day injured list.",
-      "player": "Taylor Trammell"
-    },
     {
       "date": "2025-06-23",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsactivated RHPJustin Verlanderfrom the paternity list.",
       "player": "Justin Verlander"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent LHPRichard Lovelady.",
+      "player": "Richard Lovelady"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "New York Mets",
+      "details": "New York Metstransferred CFJose Sirifrom the 10-day injured list to the 60-day injured list. Left tibia fracture.",
+      "player": "Jose Siri"
     },
     {
       "date": "2025-06-23",
@@ -21,9 +27,15 @@
     },
     {
       "date": "2025-06-23",
-      "team": "New York Mets",
-      "details": "New York Metssigned free agent LHPRichard Lovelady.",
-      "player": "Richard Lovelady"
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated LFTaylor Trammellfrom the 10-day injured list.",
+      "player": "Taylor Trammell"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsdesignated 3BJeimer Candelariofor assignment.",
+      "player": "Jeimer Candelario"
     },
     {
       "date": "2025-06-23",
@@ -39,18 +51,6 @@
     },
     {
       "date": "2025-06-23",
-      "team": "New York Mets",
-      "details": "New York Metstransferred CFJose Sirifrom the 10-day injured list to the 60-day injured list. Left tibia fracture.",
-      "player": "Jose Siri"
-    },
-    {
-      "date": "2025-06-23",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsdesignated 3BJeimer Candelariofor assignment.",
-      "player": "Jeimer Candelario"
-    },
-    {
-      "date": "2025-06-23",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssent RHPYimi Garcíaon a rehab assignment to FCL Blue Jays.",
       "player": "Yimi García"
@@ -63,21 +63,9 @@
     },
     {
       "date": "2025-06-23",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of CChadwick Trompfrom Norfolk Tides.",
-      "player": "Chadwick Tromp"
-    },
-    {
-      "date": "2025-06-23",
       "team": "New York Mets",
       "details": "New York Metsoptioned RHPTyler Zuberto Syracuse Mets.",
       "player": "Tyler Zuber"
-    },
-    {
-      "date": "2025-06-23",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPAllan Winansfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Allan Winans"
     },
     {
       "date": "2025-06-23",
@@ -93,6 +81,12 @@
     },
     {
       "date": "2025-06-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of CChadwick Trompfrom Norfolk Tides.",
+      "player": "Chadwick Tromp"
+    },
+    {
+      "date": "2025-06-23",
       "team": "New York Mets",
       "details": "New York Metsoptioned 2BLuisangel Acuñato Syracuse Mets.",
       "player": "Luisangel Acuña"
@@ -102,6 +96,24 @@
       "team": "Houston Astros",
       "details": "Houston Astrosoptioned LFShay Whitcombto Sugar Land Space Cowboys.",
       "player": "Shay Whitcomb"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPAllan Winansfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Allan Winans"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPCaleb Boushleyto Round Rock Express.",
+      "player": "Caleb Boushley"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersselected the contract of RHPDane Dunningfrom Round Rock Express.",
+      "player": "Dane Dunning"
     }
   ]
 }
