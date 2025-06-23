@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-06-23T16:34:18.660432",
+  "last_updated": "2025-06-23T17:24:31.910104",
   "transactions": [
-    {
-      "date": "2025-06-23",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPYimi Garcíaon a rehab assignment to FCL Blue Jays.",
-      "player": "Yimi García"
-    },
     {
       "date": "2025-06-23",
       "team": "Houston Astros",
@@ -15,15 +9,21 @@
     },
     {
       "date": "2025-06-23",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned LFShay Whitcombto Sugar Land Space Cowboys.",
-      "player": "Shay Whitcomb"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPYimi Garcíaon a rehab assignment to FCL Blue Jays.",
+      "player": "Yimi García"
     },
     {
       "date": "2025-06-23",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned LHPJayvien Sandridgeto Scranton/Wilkes-Barre RailRiders.",
       "player": "Jayvien Sandridge"
+    },
+    {
+      "date": "2025-06-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LFShay Whitcombto Sugar Land Space Cowboys.",
+      "player": "Shay Whitcomb"
     }
   ]
 }
