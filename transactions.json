@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-06-24T17:25:10.018899",
+  "last_updated": "2025-06-24T18:36:45.274039",
   "transactions": [
+    {
+      "date": "2025-06-24",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced RFCorbin Carrollon the 10-day injured list retroactive to June 21, 2025. Left wrist fracture.",
+      "player": "Corbin Carroll"
+    },
     {
       "date": "2025-06-24",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravessigned free agent RHPJohn Brebbiato a minor league contract.",
       "player": "John Brebbia"
+    },
+    {
+      "date": "2025-06-24",
+      "team": "New York Mets",
+      "details": "New York Metstransferred LFJesse Winkerfrom the 10-day injured list to the 60-day injured list. Right oblique strain.",
+      "player": "Jesse Winker"
     },
     {
       "date": "2025-06-24",
@@ -15,15 +27,33 @@
     },
     {
       "date": "2025-06-24",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPYosver Zuluetato Louisville Bats.",
-      "player": "Yosver Zulueta"
+      "team": "New York Mets",
+      "details": "New York Metsactivated RHPFrankie Montasfrom the 60-day injured list.",
+      "player": "Frankie Montas"
+    },
+    {
+      "date": "2025-06-24",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPChris Devenskito Syracuse Mets.",
+      "player": "Chris Devenski"
     },
     {
       "date": "2025-06-24",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsselected the contract of RHPChase Burnsfrom Louisville Bats.",
       "player": "Chase Burns"
+    },
+    {
+      "date": "2025-06-24",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled CFJake McCarthyfrom Reno Aces.",
+      "player": "Jake McCarthy"
+    },
+    {
+      "date": "2025-06-24",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPYosver Zuluetato Louisville Bats.",
+      "player": "Yosver Zulueta"
     }
   ]
 }
