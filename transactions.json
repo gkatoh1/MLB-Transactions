@@ -1,17 +1,35 @@
 {
-  "last_updated": "2025-06-24T21:25:05.067038",
+  "last_updated": "2025-06-24T22:25:19.213359",
   "transactions": [
     {
       "date": "2025-06-24",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced RHPShawn Dubinon the 15-day injured list retroactive to June 21, 2025. Right forearm strain.",
-      "player": "Shawn Dubin"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent RHPTanner Gordonon a rehab assignment to Albuquerque Isotopes.",
+      "player": "Tanner Gordon"
     },
     {
       "date": "2025-06-24",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsdesignated SSJose Barrerofor assignment.",
-      "player": "Jose Barrero"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPPorter Hodgefrom the 15-day injured list.",
+      "player": "Porter Hodge"
+    },
+    {
+      "date": "2025-06-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent CJacob Stallingsto a minor league contract.",
+      "player": "Jacob Stallings"
+    },
+    {
+      "date": "2025-06-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RFTyler O'Neillon a rehab assignment to Chesapeake Baysox.",
+      "player": "Tyler O'Neill"
+    },
+    {
+      "date": "2025-06-24",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPTrevor Stephanon a rehab assignment to Akron RubberDucks.",
+      "player": "Trevor Stephan"
     },
     {
       "date": "2025-06-24",
@@ -21,21 +39,15 @@
     },
     {
       "date": "2025-06-24",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent RHPJonathan Cannonon a rehab assignment to Charlotte Knights.",
-      "player": "Jonathan Cannon"
+      "team": "Athletics",
+      "details": "Athleticssent LHPKen Waldichukon a rehab assignment to Las Vegas Aviators.",
+      "player": "Ken Waldichuk"
     },
     {
       "date": "2025-06-24",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxsent RHPJonathan Cannonon a rehab assignment to Charlotte Knights.",
       "player": "Jonathan Cannon"
-    },
-    {
-      "date": "2025-06-24",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent RHPTanner Gordonon a rehab assignment to Albuquerque Isotopes.",
-      "player": "Tanner Gordon"
     },
     {
       "date": "2025-06-24",
@@ -63,33 +75,39 @@
     },
     {
       "date": "2025-06-24",
+      "team": "New York Mets",
+      "details": "New York Metsactivated RHPFrankie Montasfrom the 60-day injured list.",
+      "player": "Frankie Montas"
+    },
+    {
+      "date": "2025-06-24",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced RHPShawn Dubinon the 15-day injured list retroactive to June 21, 2025. Right forearm strain.",
+      "player": "Shawn Dubin"
+    },
+    {
+      "date": "2025-06-24",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsdesignated SSJose Barrerofor assignment.",
+      "player": "Jose Barrero"
+    },
+    {
+      "date": "2025-06-24",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksplaced RFCorbin Carrollon the 10-day injured list retroactive to June 21, 2025. Left wrist fracture.",
       "player": "Corbin Carroll"
     },
     {
       "date": "2025-06-24",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssigned free agent RHPZeke Woodto a minor league contract.",
+      "player": "Zeke Wood"
+    },
+    {
+      "date": "2025-06-24",
       "team": "New York Mets",
       "details": "New York Metstransferred LFJesse Winkerfrom the 10-day injured list to the 60-day injured list. Right oblique strain.",
       "player": "Jesse Winker"
-    },
-    {
-      "date": "2025-06-24",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent LFAustin Hayson a rehab assignment to Chattanooga Lookouts.",
-      "player": "Austin Hays"
-    },
-    {
-      "date": "2025-06-24",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent CJacob Stallingsto a minor league contract.",
-      "player": "Jacob Stallings"
-    },
-    {
-      "date": "2025-06-24",
-      "team": "New York Mets",
-      "details": "New York Metsactivated RHPFrankie Montasfrom the 60-day injured list.",
-      "player": "Frankie Montas"
     },
     {
       "date": "2025-06-24",
@@ -100,38 +118,26 @@
     {
       "date": "2025-06-24",
       "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent RHPTrevor Stephanon a rehab assignment to Akron RubberDucks.",
-      "player": "Trevor Stephan"
-    },
-    {
-      "date": "2025-06-24",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPPorter Hodgefrom the 15-day injured list.",
-      "player": "Porter Hodge"
-    },
-    {
-      "date": "2025-06-24",
-      "team": "Cleveland Guardians",
       "details": "Cleveland Guardianssent RHPPaul Sewaldon a rehab assignment to Akron RubberDucks.",
       "player": "Paul Sewald"
     },
     {
       "date": "2025-06-24",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsselected the contract of RHPChase Burnsfrom Louisville Bats.",
-      "player": "Chase Burns"
+      "details": "Cincinnati Redssent LFAustin Hayson a rehab assignment to Chattanooga Lookouts.",
+      "player": "Austin Hays"
     },
     {
       "date": "2025-06-24",
       "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsclaimed 2BGarrett Hampsonoff waivers fromCincinnati Reds.",
-      "player": "Garrett Hampson"
+      "details": "St. Louis Cardinalssigned free agent RHPDomenic Piconeto a minor league contract.",
+      "player": "Domenic Picone"
     },
     {
       "date": "2025-06-24",
-      "team": "Houston Astros",
-      "details": "Houston Astrosselected the contract of RHPJordan Weemsfrom Sugar Land Space Cowboys.",
-      "player": "Jordan Weems"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPMichael Darrell-Hicksfrom Indianapolis Indians.",
+      "player": "Michael Darrell-Hicks"
     },
     {
       "date": "2025-06-24",
@@ -141,15 +147,21 @@
     },
     {
       "date": "2025-06-24",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPChris Devenskito Syracuse Mets.",
-      "player": "Chris Devenski"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsclaimed 2BGarrett Hampsonoff waivers fromCincinnati Reds.",
+      "player": "Garrett Hampson"
     },
     {
       "date": "2025-06-24",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPMichael McGreevyfrom Memphis Redbirds.",
-      "player": "Michael McGreevy"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of RHPChase Burnsfrom Louisville Bats.",
+      "player": "Chase Burns"
+    },
+    {
+      "date": "2025-06-24",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPChris Devenskito Syracuse Mets.",
+      "player": "Chris Devenski"
     },
     {
       "date": "2025-06-24",
@@ -159,9 +171,21 @@
     },
     {
       "date": "2025-06-24",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPRoddery Muñozto Memphis Redbirds.",
-      "player": "Roddery Muñoz"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPHunter Strattonto Indianapolis Indians.",
+      "player": "Hunter Stratton"
+    },
+    {
+      "date": "2025-06-24",
+      "team": "Houston Astros",
+      "details": "Houston Astrosselected the contract of RHPJordan Weemsfrom Sugar Land Space Cowboys.",
+      "player": "Jordan Weems"
+    },
+    {
+      "date": "2025-06-24",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPYosver Zuluetato Louisville Bats.",
+      "player": "Yosver Zulueta"
     },
     {
       "date": "2025-06-24",
@@ -171,9 +195,15 @@
     },
     {
       "date": "2025-06-24",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPYosver Zuluetato Louisville Bats.",
-      "player": "Yosver Zulueta"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPMichael McGreevyfrom Memphis Redbirds.",
+      "player": "Michael McGreevy"
+    },
+    {
+      "date": "2025-06-24",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPRoddery Muñozto Memphis Redbirds.",
+      "player": "Roddery Muñoz"
     }
   ]
 }
