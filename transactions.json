@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-06-25T18:37:40.154169",
+  "last_updated": "2025-06-25T19:18:36.395001",
   "transactions": [
+    {
+      "date": "2025-06-25",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated LHPRichard Loveladyfor assignment.",
+      "player": "Richard Lovelady"
+    },
+    {
+      "date": "2025-06-25",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated LHPJosé Castillofor assignment.",
+      "player": "José Castillo"
+    },
     {
       "date": "2025-06-25",
       "team": "Toronto Blue Jays",
@@ -9,9 +21,9 @@
     },
     {
       "date": "2025-06-25",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksplaced 2BIldemaro Vargason the 10-day injured list. Fractured fifth metatarsal in right foot.",
-      "player": "Ildemaro Vargas"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresplaced RHPRyan Bergerton the 15-day injured list. Right forearm contusion.",
+      "player": "Ryan Bergert"
     },
     {
       "date": "2025-06-25",
@@ -27,21 +39,27 @@
     },
     {
       "date": "2025-06-25",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced 2BIldemaro Vargason the 10-day injured list. Fractured fifth metatarsal in right foot.",
+      "player": "Ildemaro Vargas"
+    },
+    {
+      "date": "2025-06-25",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled LHPBrandon Waddellfrom Syracuse Mets.",
+      "player": "Brandon Waddell"
+    },
+    {
+      "date": "2025-06-25",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPJonathan Pintarofrom Syracuse Mets.",
+      "player": "Jonathan Pintaro"
+    },
+    {
+      "date": "2025-06-25",
       "team": "San Diego Padres",
-      "details": "San Diego Padresplaced RHPRyan Bergerton the 15-day injured list. Right forearm contusion.",
-      "player": "Ryan Bergert"
-    },
-    {
-      "date": "2025-06-25",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Norfolk Tides.",
-      "player": "Brandon Young"
-    },
-    {
-      "date": "2025-06-25",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPYaramil Hiraldoto Norfolk Tides.",
-      "player": "Yaramil Hiraldo"
+      "details": "San Diego Padresrecalled RHPSean Reynoldsfrom El Paso Chihuahuas.",
+      "player": "Sean Reynolds"
     },
     {
       "date": "2025-06-25",
@@ -51,15 +69,21 @@
     },
     {
       "date": "2025-06-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPRobinson Piñato Buffalo Bisons.",
-      "player": "Robinson Piña"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPYaramil Hiraldoto Norfolk Tides.",
+      "player": "Yaramil Hiraldo"
     },
     {
       "date": "2025-06-25",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled RHPSean Reynoldsfrom El Paso Chihuahuas.",
-      "player": "Sean Reynolds"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Norfolk Tides.",
+      "player": "Brandon Young"
+    },
+    {
+      "date": "2025-06-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPRobinson Piñato Buffalo Bisons.",
+      "player": "Robinson Piña"
     }
   ]
 }
