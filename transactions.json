@@ -1,17 +1,11 @@
 {
-  "last_updated": "2025-06-25T15:29:40.859535",
+  "last_updated": "2025-06-25T16:34:47.315988",
   "transactions": [
     {
       "date": "2025-06-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysreassigned RHPRobinson Piñato the minor leagues.",
-      "player": "Robinson Piña"
-    },
-    {
-      "date": "2025-06-25",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPDerek Lawon a rehab assignment to Rochester Red Wings.",
-      "player": "Derek Law"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced 2BIldemaro Vargason the 10-day injured list. Fractured fifth metatarsal in right foot.",
+      "player": "Ildemaro Vargas"
     },
     {
       "date": "2025-06-25",
@@ -21,8 +15,14 @@
     },
     {
       "date": "2025-06-25",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPDerek Lawon a rehab assignment to Rochester Red Wings.",
+      "player": "Derek Law"
+    },
+    {
+      "date": "2025-06-25",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPRobinson Piñato Buffalo Bisons.",
+      "details": "Toronto Blue Jaysreassigned RHPRobinson Piñato the minor leagues.",
       "player": "Robinson Piña"
     },
     {
@@ -30,6 +30,12 @@
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksrecalled SSBlaze Alexanderfrom Reno Aces.",
       "player": "Blaze Alexander"
+    },
+    {
+      "date": "2025-06-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPRobinson Piñato Buffalo Bisons.",
+      "player": "Robinson Piña"
     }
   ]
 }
