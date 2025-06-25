@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-06-25T22:25:12.491865",
+  "last_updated": "2025-06-25T23:24:42.123148",
   "transactions": [
+    {
+      "date": "2025-06-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysreassigned RHPRobinson Piñato the minor leagues.",
+      "player": "Robinson Piña"
+    },
+    {
+      "date": "2025-06-25",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent 3BNoelvi Marteon a rehab assignment to Chattanooga Lookouts.",
+      "player": "Noelvi Marte"
+    },
+    {
+      "date": "2025-06-25",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresplaced RHPRyan Bergerton the 15-day injured list. Right forearm contusion.",
+      "player": "Ryan Bergert"
+    },
+    {
+      "date": "2025-06-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent SSJorge Mateoon a rehab assignment to Norfolk Tides.",
+      "player": "Jorge Mateo"
+    },
+    {
+      "date": "2025-06-25",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced 2BIldemaro Vargason the 10-day injured list. Fractured fifth metatarsal in right foot.",
+      "player": "Ildemaro Vargas"
+    },
+    {
+      "date": "2025-06-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RHPMax Scherzerfrom the 60-day injured list.",
+      "player": "Max Scherzer"
+    },
+    {
+      "date": "2025-06-25",
+      "team": "Unknown Team",
+      "details": "RHPRobert Suarezsuspended.",
+      "player": "Robert Suarez"
+    },
     {
       "date": "2025-06-25",
       "team": "New York Mets",
@@ -21,21 +63,9 @@
     },
     {
       "date": "2025-06-25",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent SSJorge Mateoon a rehab assignment to Norfolk Tides.",
-      "player": "Jorge Mateo"
-    },
-    {
-      "date": "2025-06-25",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksplaced 2BIldemaro Vargason the 10-day injured list. Fractured fifth metatarsal in right foot.",
-      "player": "Ildemaro Vargas"
-    },
-    {
-      "date": "2025-06-25",
-      "team": "Unknown Team",
-      "details": "RHPRobert Suarezsuspended.",
-      "player": "Robert Suarez"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPDerek Lawon a rehab assignment to Rochester Red Wings.",
+      "player": "Derek Law"
     },
     {
       "date": "2025-06-25",
@@ -45,45 +75,15 @@
     },
     {
       "date": "2025-06-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysreassigned RHPRobinson Piñato the minor leagues.",
-      "player": "Robinson Piña"
-    },
-    {
-      "date": "2025-06-25",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent 3BNoelvi Marteon a rehab assignment to Chattanooga Lookouts.",
-      "player": "Noelvi Marte"
-    },
-    {
-      "date": "2025-06-25",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPDerek Lawon a rehab assignment to Rochester Red Wings.",
-      "player": "Derek Law"
-    },
-    {
-      "date": "2025-06-25",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresplaced RHPRyan Bergerton the 15-day injured list. Right forearm contusion.",
-      "player": "Ryan Bergert"
-    },
-    {
-      "date": "2025-06-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated RHPMax Scherzerfrom the 60-day injured list.",
-      "player": "Max Scherzer"
-    },
-    {
-      "date": "2025-06-25",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsrecalled RHPMatt Svansonfrom Memphis Redbirds.",
       "player": "Matt Svanson"
     },
     {
       "date": "2025-06-25",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Norfolk Tides.",
-      "player": "Brandon Young"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled SSBlaze Alexanderfrom Reno Aces.",
+      "player": "Blaze Alexander"
     },
     {
       "date": "2025-06-25",
@@ -93,21 +93,27 @@
     },
     {
       "date": "2025-06-25",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPMichael McGreevyto Memphis Redbirds.",
-      "player": "Michael McGreevy"
-    },
-    {
-      "date": "2025-06-25",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned RHPYaramil Hiraldoto Norfolk Tides.",
       "player": "Yaramil Hiraldo"
     },
     {
       "date": "2025-06-25",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPMichael McGreevyto Memphis Redbirds.",
+      "player": "Michael McGreevy"
+    },
+    {
+      "date": "2025-06-25",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsrecalled RFRyan Viladefrom Louisville Bats.",
       "player": "Ryan Vilade"
+    },
+    {
+      "date": "2025-06-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPRobinson Piñato Buffalo Bisons.",
+      "player": "Robinson Piña"
     },
     {
       "date": "2025-06-25",
@@ -129,15 +135,9 @@
     },
     {
       "date": "2025-06-25",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled SSBlaze Alexanderfrom Reno Aces.",
-      "player": "Blaze Alexander"
-    },
-    {
-      "date": "2025-06-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPRobinson Piñato Buffalo Bisons.",
-      "player": "Robinson Piña"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Norfolk Tides.",
+      "player": "Brandon Young"
     }
   ]
 }
