@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-06-25T17:24:30.652145",
+  "last_updated": "2025-06-25T18:37:40.154169",
   "transactions": [
+    {
+      "date": "2025-06-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysreassigned RHPRobinson Piñato the minor leagues.",
+      "player": "Robinson Piña"
+    },
     {
       "date": "2025-06-25",
       "team": "Arizona Diamondbacks",
@@ -21,9 +27,21 @@
     },
     {
       "date": "2025-06-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysreassigned RHPRobinson Piñato the minor leagues.",
-      "player": "Robinson Piña"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresplaced RHPRyan Bergerton the 15-day injured list. Right forearm contusion.",
+      "player": "Ryan Bergert"
+    },
+    {
+      "date": "2025-06-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Norfolk Tides.",
+      "player": "Brandon Young"
+    },
+    {
+      "date": "2025-06-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPYaramil Hiraldoto Norfolk Tides.",
+      "player": "Yaramil Hiraldo"
     },
     {
       "date": "2025-06-25",
@@ -36,6 +54,12 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysoptioned RHPRobinson Piñato Buffalo Bisons.",
       "player": "Robinson Piña"
+    },
+    {
+      "date": "2025-06-25",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled RHPSean Reynoldsfrom El Paso Chihuahuas.",
+      "player": "Sean Reynolds"
     }
   ]
 }
