@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-06-26T13:37:40.276826",
+  "last_updated": "2025-06-26T14:26:03.191035",
   "transactions": [
     {
       "date": "2025-06-26",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPYimi Garcíaon a rehab assignment to Dunedin Blue Jays.",
+      "player": "Yimi García"
+    },
+    {
+      "date": "2025-06-26",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPMichael Petersenfrom Gwinnett Stripers.",
-      "player": "Michael Petersen"
+      "details": "Atlanta Bravesoptioned LHPAustin Coxto Gwinnett Stripers.",
+      "player": "Austin Cox"
     },
     {
       "date": "2025-06-26",
@@ -15,9 +21,15 @@
     },
     {
       "date": "2025-06-26",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersselected the contract of LHPDietrich Ennsfrom Toledo Mud Hens.",
+      "player": "Dietrich Enns"
+    },
+    {
+      "date": "2025-06-26",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned LHPAustin Coxto Gwinnett Stripers.",
-      "player": "Austin Cox"
+      "details": "Atlanta Bravesrecalled RHPMichael Petersenfrom Gwinnett Stripers.",
+      "player": "Michael Petersen"
     }
   ]
 }
