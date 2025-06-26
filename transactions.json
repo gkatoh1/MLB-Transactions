@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-06-26T21:25:11.816732",
+  "last_updated": "2025-06-26T22:25:35.402762",
   "transactions": [
     {
       "date": "2025-06-26",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent CFBlake Perkinson a rehab assignment to Nashville Sounds.",
+      "player": "Blake Perkins"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated 3BKevin Newmanfrom the paternity list.",
+      "player": "Kevin Newman"
+    },
+    {
+      "date": "2025-06-26",
       "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated LHPDietrich Enns.",
-      "player": "Dietrich Enns"
+      "details": "Detroit Tigersdesignated LHPMatt Gagefor assignment.",
+      "player": "Matt Gage"
     },
     {
       "date": "2025-06-26",
@@ -27,6 +39,30 @@
     },
     {
       "date": "2025-06-26",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPLuis Garcíafrom the 15-day injured list.",
+      "player": "Luis García"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated RHPHunter Strattonfor assignment.",
+      "player": "Hunter Stratton"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPYimi Garcíaon a rehab assignment to Dunedin Blue Jays.",
+      "player": "Yimi García"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersreleased 1BRowdy Tellez.",
+      "player": "Rowdy Tellez"
+    },
+    {
+      "date": "2025-06-26",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent LHPCade Povichon a rehab assignment to Norfolk Tides.",
       "player": "Cade Povich"
@@ -45,51 +81,21 @@
     },
     {
       "date": "2025-06-26",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersdesignated LHPMatt Gagefor assignment.",
-      "player": "Matt Gage"
-    },
-    {
-      "date": "2025-06-26",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPYimi Garcíaon a rehab assignment to Dunedin Blue Jays.",
-      "player": "Yimi García"
-    },
-    {
-      "date": "2025-06-26",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsdesignated RHPMichael Fulmerfor assignment.",
       "player": "Michael Fulmer"
     },
     {
       "date": "2025-06-26",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent CFBlake Perkinson a rehab assignment to Nashville Sounds.",
-      "player": "Blake Perkins"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated LHPDietrich Enns.",
+      "player": "Dietrich Enns"
     },
     {
       "date": "2025-06-26",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated RHPLuis Garcíafrom the 15-day injured list.",
-      "player": "Luis García"
-    },
-    {
-      "date": "2025-06-26",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
-      "player": "Austin Warren"
-    },
-    {
-      "date": "2025-06-26",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned LHPAustin Coxto Gwinnett Stripers.",
-      "player": "Austin Cox"
-    },
-    {
-      "date": "2025-06-26",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersoptioned RHPWill Kleinto Oklahoma City Comets.",
-      "player": "Will Klein"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned free agent LHPGénesis Cabrera.",
+      "player": "Génesis Cabrera"
     },
     {
       "date": "2025-06-26",
@@ -99,15 +105,27 @@
     },
     {
       "date": "2025-06-26",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RHPZak Kentfrom Columbus Clippers.",
-      "player": "Zak Kent"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPWill Kleinto Oklahoma City Comets.",
+      "player": "Will Klein"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned LHPAustin Coxto Gwinnett Stripers.",
+      "player": "Austin Cox"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPMichael Darrell-Hicksto Indianapolis Indians.",
+      "player": "Michael Darrell-Hicks"
     },
     {
       "date": "2025-06-26",
       "team": "New York Mets",
-      "details": "New York Metsoptioned RHPJonathan Pintaroto Syracuse Mets.",
-      "player": "Jonathan Pintaro"
+      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
+      "player": "Austin Warren"
     },
     {
       "date": "2025-06-26",
@@ -126,6 +144,18 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesrecalled RHPMichael Petersenfrom Gwinnett Stripers.",
       "player": "Michael Petersen"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPZak Kentfrom Columbus Clippers.",
+      "player": "Zak Kent"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJonathan Pintaroto Syracuse Mets.",
+      "player": "Jonathan Pintaro"
     }
   ]
 }
