@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-06-26T17:23:41.014860",
+  "last_updated": "2025-06-26T18:36:29.118190",
   "transactions": [
+    {
+      "date": "2025-06-26",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPLuis Garcíafrom the 15-day injured list.",
+      "player": "Luis García"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPYimi Garcíaon a rehab assignment to Dunedin Blue Jays.",
+      "player": "Yimi García"
+    },
     {
       "date": "2025-06-26",
       "team": "Baltimore Orioles",
@@ -12,12 +24,6 @@
       "team": "Chicago Cubs",
       "details": "Chicago Cubsactivated LHPShota Imanagafrom the 15-day injured list.",
       "player": "Shota Imanaga"
-    },
-    {
-      "date": "2025-06-26",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent CFBlake Perkinson a rehab assignment to Nashville Sounds.",
-      "player": "Blake Perkins"
     },
     {
       "date": "2025-06-26",
@@ -36,6 +42,12 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent LHPCade Povichon a rehab assignment to Norfolk Tides.",
       "player": "Cade Povich"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent CFBlake Perkinson a rehab assignment to Nashville Sounds.",
+      "player": "Blake Perkins"
     },
     {
       "date": "2025-06-26",
@@ -75,9 +87,15 @@
     },
     {
       "date": "2025-06-26",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPMichael Petersenfrom Gwinnett Stripers.",
-      "player": "Michael Petersen"
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
+      "player": "Austin Warren"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJonathan Pintaroto Syracuse Mets.",
+      "player": "Jonathan Pintaro"
     },
     {
       "date": "2025-06-26",
@@ -90,6 +108,12 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned LHPAustin Coxto Gwinnett Stripers.",
       "player": "Austin Cox"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPMichael Petersenfrom Gwinnett Stripers.",
+      "player": "Michael Petersen"
     }
   ]
 }
