@@ -1,17 +1,11 @@
 {
-  "last_updated": "2025-06-26T18:36:29.118190",
+  "last_updated": "2025-06-26T19:20:51.641102",
   "transactions": [
     {
       "date": "2025-06-26",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated RHPLuis Garcíafrom the 15-day injured list.",
-      "player": "Luis García"
-    },
-    {
-      "date": "2025-06-26",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPYimi Garcíaon a rehab assignment to Dunedin Blue Jays.",
-      "player": "Yimi García"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated LHPDietrich Enns.",
+      "player": "Dietrich Enns"
     },
     {
       "date": "2025-06-26",
@@ -27,6 +21,24 @@
     },
     {
       "date": "2025-06-26",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent CFBlake Perkinson a rehab assignment to Nashville Sounds.",
+      "player": "Blake Perkins"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPLuis Garcíafrom the 15-day injured list.",
+      "player": "Luis García"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LHPCade Povichon a rehab assignment to Norfolk Tides.",
+      "player": "Cade Povich"
+    },
+    {
+      "date": "2025-06-26",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersdesignated LHPMatt Gagefor assignment.",
       "player": "Matt Gage"
@@ -39,15 +51,9 @@
     },
     {
       "date": "2025-06-26",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent LHPCade Povichon a rehab assignment to Norfolk Tides.",
-      "player": "Cade Povich"
-    },
-    {
-      "date": "2025-06-26",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent CFBlake Perkinson a rehab assignment to Nashville Sounds.",
-      "player": "Blake Perkins"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent CFDerek Hillon a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Derek Hill"
     },
     {
       "date": "2025-06-26",
@@ -57,27 +63,33 @@
     },
     {
       "date": "2025-06-26",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated LHPDietrich Enns.",
-      "player": "Dietrich Enns"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPYimi Garcíaon a rehab assignment to Dunedin Blue Jays.",
+      "player": "Yimi García"
     },
     {
       "date": "2025-06-26",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned 2BKyren Paristo Salt Lake Bees.",
-      "player": "Kyren Paris"
-    },
-    {
-      "date": "2025-06-26",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned RHPNic Enrightto Columbus Clippers.",
-      "player": "Nic Enright"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPWill Kleinto Oklahoma City Comets.",
+      "player": "Will Klein"
     },
     {
       "date": "2025-06-26",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansrecalled RHPZak Kentfrom Columbus Clippers.",
       "player": "Zak Kent"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJonathan Pintaroto Syracuse Mets.",
+      "player": "Jonathan Pintaro"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned 2BKyren Paristo Salt Lake Bees.",
+      "player": "Kyren Paris"
     },
     {
       "date": "2025-06-26",
@@ -93,21 +105,15 @@
     },
     {
       "date": "2025-06-26",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPJonathan Pintaroto Syracuse Mets.",
-      "player": "Jonathan Pintaro"
-    },
-    {
-      "date": "2025-06-26",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersoptioned RHPWill Kleinto Oklahoma City Comets.",
-      "player": "Will Klein"
-    },
-    {
-      "date": "2025-06-26",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned LHPAustin Coxto Gwinnett Stripers.",
       "player": "Austin Cox"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPNic Enrightto Columbus Clippers.",
+      "player": "Nic Enright"
     },
     {
       "date": "2025-06-26",
