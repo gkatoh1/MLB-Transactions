@@ -1,4 +1,23 @@
 {
-  "last_updated": "2025-06-26T12:55:18.221463",
-  "transactions": []
+  "last_updated": "2025-06-26T13:37:40.276826",
+  "transactions": [
+    {
+      "date": "2025-06-26",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPMichael Petersenfrom Gwinnett Stripers.",
+      "player": "Michael Petersen"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned 2BKyren Paristo Salt Lake Bees.",
+      "player": "Kyren Paris"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned LHPAustin Coxto Gwinnett Stripers.",
+      "player": "Austin Cox"
+    }
+  ]
 }
