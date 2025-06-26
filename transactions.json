@@ -1,23 +1,23 @@
 {
-  "last_updated": "2025-06-26T16:32:53.865883",
+  "last_updated": "2025-06-26T17:23:41.014860",
   "transactions": [
     {
       "date": "2025-06-26",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated LHPDietrich Enns.",
-      "player": "Dietrich Enns"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LHPCade Povichon a rehab assignment to Norfolk Tides.",
+      "player": "Cade Povich"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated LHPShota Imanagafrom the 15-day injured list.",
+      "player": "Shota Imanaga"
     },
     {
       "date": "2025-06-26",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerssent CFBlake Perkinson a rehab assignment to Nashville Sounds.",
       "player": "Blake Perkins"
-    },
-    {
-      "date": "2025-06-26",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsdesignated RHPMichael Fulmerfor assignment.",
-      "player": "Michael Fulmer"
     },
     {
       "date": "2025-06-26",
@@ -39,15 +39,15 @@
     },
     {
       "date": "2025-06-26",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent LHPCade Povichon a rehab assignment to Norfolk Tides.",
-      "player": "Cade Povich"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated RHPMichael Fulmerfor assignment.",
+      "player": "Michael Fulmer"
     },
     {
       "date": "2025-06-26",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated LHPShota Imanagafrom the 15-day injured list.",
-      "player": "Shota Imanaga"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated LHPDietrich Enns.",
+      "player": "Dietrich Enns"
     },
     {
       "date": "2025-06-26",
@@ -63,27 +63,33 @@
     },
     {
       "date": "2025-06-26",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersselected the contract of LHPDietrich Ennsfrom Toledo Mud Hens.",
-      "player": "Dietrich Enns"
-    },
-    {
-      "date": "2025-06-26",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansrecalled RHPZak Kentfrom Columbus Clippers.",
       "player": "Zak Kent"
     },
     {
       "date": "2025-06-26",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned LHPAustin Coxto Gwinnett Stripers.",
-      "player": "Austin Cox"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersselected the contract of LHPDietrich Ennsfrom Toledo Mud Hens.",
+      "player": "Dietrich Enns"
     },
     {
       "date": "2025-06-26",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesrecalled RHPMichael Petersenfrom Gwinnett Stripers.",
       "player": "Michael Petersen"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPWill Kleinto Oklahoma City Comets.",
+      "player": "Will Klein"
+    },
+    {
+      "date": "2025-06-26",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned LHPAustin Coxto Gwinnett Stripers.",
+      "player": "Austin Cox"
     }
   ]
 }
