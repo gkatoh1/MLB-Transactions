@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-06-27T17:23:10.453317",
+  "last_updated": "2025-06-27T18:35:50.438792",
   "transactions": [
+    {
+      "date": "2025-06-27",
+      "team": "Athletics",
+      "details": "Athleticsdesignated LHPT.J. McFarlandfor assignment.",
+      "player": "T.J. McFarland"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RHPAlex Faedoon a rehab assignment to FCL Rays.",
+      "player": "Alex Faedo"
+    },
     {
       "date": "2025-06-27",
       "team": "San Francisco Giants",
@@ -9,9 +21,27 @@
     },
     {
       "date": "2025-06-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPKade Strowdfrom Norfolk Tides.",
+      "player": "Kade Strowd"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPElvis Alvaradofrom Las Vegas Aviators.",
+      "player": "Elvis Alvarado"
+    },
+    {
+      "date": "2025-06-27",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsoptioned RHPSean Hjelleto Sacramento River Cats.",
       "player": "Sean Hjelle"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPBrandon Youngto Norfolk Tides.",
+      "player": "Brandon Young"
     }
   ]
 }
