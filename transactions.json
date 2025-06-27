@@ -1,23 +1,11 @@
 {
-  "last_updated": "2025-06-27T19:18:34.418555",
+  "last_updated": "2025-06-27T20:28:12.783858",
   "transactions": [
     {
       "date": "2025-06-27",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent 3BRoyce Lewison a rehab assignment to St. Paul Saints.",
-      "player": "Royce Lewis"
-    },
-    {
-      "date": "2025-06-27",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced 3BMarcelo Mayeron the bereavement list.",
-      "player": "Marcelo Mayer"
-    },
-    {
-      "date": "2025-06-27",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent RHPAlex Faedoon a rehab assignment to FCL Rays.",
-      "player": "Alex Faedo"
+      "team": "New York Mets",
+      "details": "New York Metsplaced RHPGriffin Canningon the 60-day injured list. Left achilles rupture.",
+      "player": "Griffin Canning"
     },
     {
       "date": "2025-06-27",
@@ -33,21 +21,57 @@
     },
     {
       "date": "2025-06-27",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned RHPSean Hjelleto Sacramento River Cats.",
-      "player": "Sean Hjelle"
-    },
-    {
-      "date": "2025-06-27",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPElvis Alvaradofrom Las Vegas Aviators.",
-      "player": "Elvis Alvarado"
-    },
-    {
-      "date": "2025-06-27",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled 1BNick Sogardfrom Worcester Red Sox.",
-      "player": "Nick Sogard"
+      "details": "Boston Red Soxplaced 3BMarcelo Mayeron the bereavement list.",
+      "player": "Marcelo Mayer"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent RHPColin Holdermanon a rehab assignment to Bradenton Marauders.",
+      "player": "Colin Holderman"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent LFJosé Azocarto a minor league contract.",
+      "player": "José Azocar"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent 3BRoyce Lewison a rehab assignment to St. Paul Saints.",
+      "player": "Royce Lewis"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "New York Mets",
+      "details": "New York Metsactivated 3BMark Vientosfrom the 10-day injured list.",
+      "player": "Mark Vientos"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated LFAustin Haysfrom the 10-day injured list.",
+      "player": "Austin Hays"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced RFJake Fraleyon the 10-day injured list retroactive to June 24, 2025. Right shoulder sprain.",
+      "player": "Jake Fraley"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RHPAlex Faedoon a rehab assignment to FCL Rays.",
+      "player": "Alex Faedo"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPCarson Seymourfrom Sacramento River Cats.",
+      "player": "Carson Seymour"
     },
     {
       "date": "2025-06-27",
@@ -57,9 +81,21 @@
     },
     {
       "date": "2025-06-27",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPAnthony Molinato Albuquerque Isotopes.",
-      "player": "Anthony Molina"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled 1BNick Sogardfrom Worcester Red Sox.",
+      "player": "Nick Sogard"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPSean Hjelleto Sacramento River Cats.",
+      "player": "Sean Hjelle"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of LHPColin Pochefrom Syracuse Mets.",
+      "player": "Colin Poche"
     },
     {
       "date": "2025-06-27",
@@ -69,9 +105,39 @@
     },
     {
       "date": "2025-06-27",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsrecalled RHPCarson Seymourfrom Sacramento River Cats.",
-      "player": "Carson Seymour"
+      "team": "New York Mets",
+      "details": "New York Metssent LHPRichard Loveladyoutright to Syracuse Mets.",
+      "player": "Richard Lovelady"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
+      "player": "Austin Warren"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned LFJared Youngto Syracuse Mets.",
+      "player": "Jared Young"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPBlade Tidwellfrom Syracuse Mets.",
+      "player": "Blade Tidwell"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPElvis Alvaradofrom Las Vegas Aviators.",
+      "player": "Elvis Alvarado"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPAnthony Molinato Albuquerque Isotopes.",
+      "player": "Anthony Molina"
     }
   ]
 }
