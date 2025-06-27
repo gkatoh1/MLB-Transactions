@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-06-27T18:35:50.438792",
+  "last_updated": "2025-06-27T19:18:34.418555",
   "transactions": [
     {
       "date": "2025-06-27",
-      "team": "Athletics",
-      "details": "Athleticsdesignated LHPT.J. McFarlandfor assignment.",
-      "player": "T.J. McFarland"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent 3BRoyce Lewison a rehab assignment to St. Paul Saints.",
+      "player": "Royce Lewis"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced 3BMarcelo Mayeron the bereavement list.",
+      "player": "Marcelo Mayer"
     },
     {
       "date": "2025-06-27",
@@ -15,21 +21,15 @@
     },
     {
       "date": "2025-06-27",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsrecalled RHPCarson Seymourfrom Sacramento River Cats.",
-      "player": "Carson Seymour"
-    },
-    {
-      "date": "2025-06-27",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPKade Strowdfrom Norfolk Tides.",
-      "player": "Kade Strowd"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated LHPKyle Freelandfrom the 15-day injured list.",
+      "player": "Kyle Freeland"
     },
     {
       "date": "2025-06-27",
       "team": "Athletics",
-      "details": "Athleticsrecalled RHPElvis Alvaradofrom Las Vegas Aviators.",
-      "player": "Elvis Alvarado"
+      "details": "Athleticsdesignated LHPT.J. McFarlandfor assignment.",
+      "player": "T.J. McFarland"
     },
     {
       "date": "2025-06-27",
@@ -39,9 +39,39 @@
     },
     {
       "date": "2025-06-27",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPElvis Alvaradofrom Las Vegas Aviators.",
+      "player": "Elvis Alvarado"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled 1BNick Sogardfrom Worcester Red Sox.",
+      "player": "Nick Sogard"
+    },
+    {
+      "date": "2025-06-27",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned RHPBrandon Youngto Norfolk Tides.",
       "player": "Brandon Young"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPAnthony Molinato Albuquerque Isotopes.",
+      "player": "Anthony Molina"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPKade Strowdfrom Norfolk Tides.",
+      "player": "Kade Strowd"
+    },
+    {
+      "date": "2025-06-27",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPCarson Seymourfrom Sacramento River Cats.",
+      "player": "Carson Seymour"
     }
   ]
 }
