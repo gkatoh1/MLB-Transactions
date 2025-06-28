@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-06-28T15:24:46.593345",
+  "last_updated": "2025-06-28T16:30:06.565560",
   "transactions": [
+    {
+      "date": "2025-06-28",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated RHPForrest Whitleyfor assignment.",
+      "player": "Forrest Whitley"
+    },
+    {
+      "date": "2025-06-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPKyle Tylerfor assignment.",
+      "player": "Kyle Tyler"
+    },
+    {
+      "date": "2025-06-28",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated CFMatt Vierlingfrom the 10-day injured list.",
+      "player": "Matt Vierling"
+    },
+    {
+      "date": "2025-06-28",
+      "team": "New York Mets",
+      "details": "New York Metssent LHPBrooks Raleyon a rehab assignment to Binghamton Rumble Ponies.",
+      "player": "Brooks Raley"
+    },
     {
       "date": "2025-06-28",
       "team": "San Diego Padres",
@@ -9,9 +33,39 @@
     },
     {
       "date": "2025-06-28",
-      "team": "New York Mets",
-      "details": "New York Metssent LHPBrooks Raleyon a rehab assignment to Binghamton Rumble Ponies.",
-      "player": "Brooks Raley"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned SSTrey Sweeneyto Toledo Mud Hens.",
+      "player": "Trey Sweeney"
+    },
+    {
+      "date": "2025-06-28",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPMichael Petersento Gwinnett Stripers.",
+      "player": "Michael Petersen"
+    },
+    {
+      "date": "2025-06-28",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled LHPJoe Rockfrom Durham Bulls.",
+      "player": "Joe Rock"
+    },
+    {
+      "date": "2025-06-28",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPKevin Hergetfrom Gwinnett Stripers.",
+      "player": "Kevin Herget"
+    },
+    {
+      "date": "2025-06-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LFDylan Carlsonto Norfolk Tides.",
+      "player": "Dylan Carlson"
+    },
+    {
+      "date": "2025-06-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of 3BEmmanuel Riverafrom Norfolk Tides.",
+      "player": "Emmanuel Rivera"
     }
   ]
 }
