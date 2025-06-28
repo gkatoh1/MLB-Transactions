@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-06-28T17:21:28.452039",
+  "last_updated": "2025-06-28T18:33:23.023412",
   "transactions": [
     {
       "date": "2025-06-28",
@@ -10,8 +10,14 @@
     {
       "date": "2025-06-28",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced RHPLuis Guerreroon the 15-day injured list. Right elbow strain.",
-      "player": "Luis Guerrero"
+      "details": "Boston Red Soxactivated LHPChris Murphyfrom the 60-day injured list.",
+      "player": "Chris Murphy"
+    },
+    {
+      "date": "2025-06-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPKyle Tylerfor assignment.",
+      "player": "Kyle Tyler"
     },
     {
       "date": "2025-06-28",
@@ -21,21 +27,15 @@
     },
     {
       "date": "2025-06-28",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated RHPZach Popfor assignment.",
+      "player": "Zach Pop"
+    },
+    {
+      "date": "2025-06-28",
       "team": "San Diego Padres",
       "details": "San Diego Padresactivated RHPRobert Suarez.",
       "player": "Robert Suarez"
-    },
-    {
-      "date": "2025-06-28",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated LHPChris Murphyfrom the 60-day injured list.",
-      "player": "Chris Murphy"
-    },
-    {
-      "date": "2025-06-28",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxtransferred RHPJustin Slatenfrom the 15-day injured list to the 60-day injured list.",
-      "player": "Justin Slaten"
     },
     {
       "date": "2025-06-28",
@@ -51,33 +51,27 @@
     },
     {
       "date": "2025-06-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPKyle Tylerfor assignment.",
-      "player": "Kyle Tyler"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtransferred RHPJustin Slatenfrom the 15-day injured list to the 60-day injured list.",
+      "player": "Justin Slaten"
     },
     {
       "date": "2025-06-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned LFDylan Carlsonto Norfolk Tides.",
-      "player": "Dylan Carlson"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced RHPLuis Guerreroon the 15-day injured list. Right elbow strain.",
+      "player": "Luis Guerrero"
+    },
+    {
+      "date": "2025-06-28",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksselected the contract of RHPJohn Curtissfrom Reno Aces.",
+      "player": "John Curtiss"
     },
     {
       "date": "2025-06-28",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPMichael Petersento Gwinnett Stripers.",
       "player": "Michael Petersen"
-    },
-    {
-      "date": "2025-06-28",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled 3BWill Wagnerfrom Buffalo Bisons.",
-      "player": "Will Wagner"
-    },
-    {
-      "date": "2025-06-28",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LFAlan Rodento Buffalo Bisons.",
-      "player": "Alan Roden"
     },
     {
       "date": "2025-06-28",
@@ -93,21 +87,39 @@
     },
     {
       "date": "2025-06-28",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksselected the contract of RHPJohn Curtissfrom Reno Aces.",
-      "player": "John Curtiss"
-    },
-    {
-      "date": "2025-06-28",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesselected the contract of 3BEmmanuel Riverafrom Norfolk Tides.",
       "player": "Emmanuel Rivera"
     },
     {
       "date": "2025-06-28",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of RHPJuan Burgosfrom Tacoma Rainiers.",
+      "player": "Juan Burgos"
+    },
+    {
+      "date": "2025-06-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LFDylan Carlsonto Norfolk Tides.",
+      "player": "Dylan Carlson"
+    },
+    {
+      "date": "2025-06-28",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled 3BWill Wagnerfrom Buffalo Bisons.",
+      "player": "Will Wagner"
+    },
+    {
+      "date": "2025-06-28",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersoptioned SSTrey Sweeneyto Toledo Mud Hens.",
       "player": "Trey Sweeney"
+    },
+    {
+      "date": "2025-06-28",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFAlan Rodento Buffalo Bisons.",
+      "player": "Alan Roden"
     }
   ]
 }
