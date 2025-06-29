@@ -1,35 +1,17 @@
 {
-  "last_updated": "2025-06-29T15:25:02.211934",
+  "last_updated": "2025-06-29T16:30:02.962294",
   "transactions": [
     {
       "date": "2025-06-29",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated RHPJonathan Cannonfrom the 15-day injured list.",
-      "player": "Jonathan Cannon"
-    },
-    {
-      "date": "2025-06-29",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent RHPDaysbel Hernándezon a rehab assignment to Gwinnett Stripers.",
-      "player": "Daysbel Hernández"
-    },
-    {
-      "date": "2025-06-29",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPLuis F. Castillofor assignment.",
-      "player": "Luis F. Castillo"
-    },
-    {
-      "date": "2025-06-29",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced RHPPaxton Schultzon the 15-day injured list. Right middle finger inflammation.",
-      "player": "Paxton Schultz"
-    },
-    {
-      "date": "2025-06-29",
       "team": "New York Mets",
-      "details": "New York Metssigned free agent LHPRichard Lovelady.",
-      "player": "Richard Lovelady"
+      "details": "New York Metssent LFJesse Winkeron a rehab assignment to Brooklyn Cyclones.",
+      "player": "Jesse Winker"
+    },
+    {
+      "date": "2025-06-29",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated RHPLuis Garcíafor assignment.",
+      "player": "Luis García"
     },
     {
       "date": "2025-06-29",
@@ -45,15 +27,81 @@
     },
     {
       "date": "2025-06-29",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RHPDaysbel Hernándezon a rehab assignment to Gwinnett Stripers.",
+      "player": "Daysbel Hernández"
+    },
+    {
+      "date": "2025-06-29",
       "team": "New York Mets",
       "details": "New York Metsdesignated LHPColin Pochefor assignment.",
       "player": "Colin Poche"
     },
     {
       "date": "2025-06-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated RHPJonathan Cannonfrom the 15-day injured list.",
+      "player": "Jonathan Cannon"
+    },
+    {
+      "date": "2025-06-29",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPEdgardo Henriquezfrom the 60-day injured list.",
+      "player": "Edgardo Henriquez"
+    },
+    {
+      "date": "2025-06-29",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent LHPRichard Lovelady.",
+      "player": "Richard Lovelady"
+    },
+    {
+      "date": "2025-06-29",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsreleased 3BJeimer Candelario.",
+      "player": "Jeimer Candelario"
+    },
+    {
+      "date": "2025-06-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RHPPaxton Schultzon the 15-day injured list. Right middle finger inflammation.",
+      "player": "Paxton Schultz"
+    },
+    {
+      "date": "2025-06-29",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of RHPMatt Bowmanfrom Norfolk Tides.",
-      "player": "Matt Bowman"
+      "details": "Baltimore Oriolesdesignated RHPLuis F. Castillofor assignment.",
+      "player": "Luis F. Castillo"
+    },
+    {
+      "date": "2025-06-29",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPEdgardo Henriquezto Oklahoma City Comets.",
+      "player": "Edgardo Henriquez"
+    },
+    {
+      "date": "2025-06-29",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPKade Strowdto Norfolk Tides.",
+      "player": "Kade Strowd"
+    },
+    {
+      "date": "2025-06-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LHPJustin Bruihlfrom Buffalo Bisons.",
+      "player": "Justin Bruihl"
+    },
+    {
+      "date": "2025-06-29",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPNoah Davisfrom Oklahoma City Comets.",
+      "player": "Noah Davis"
+    },
+    {
+      "date": "2025-06-29",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPAllan Winansto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Allan Winans"
     },
     {
       "date": "2025-06-29",
@@ -64,20 +112,8 @@
     {
       "date": "2025-06-29",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPKade Strowdto Norfolk Tides.",
-      "player": "Kade Strowd"
-    },
-    {
-      "date": "2025-06-29",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPAllan Winansto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Allan Winans"
-    },
-    {
-      "date": "2025-06-29",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled LHPJustin Bruihlfrom Buffalo Bisons.",
-      "player": "Justin Bruihl"
+      "details": "Baltimore Oriolesselected the contract of RHPMatt Bowmanfrom Norfolk Tides.",
+      "player": "Matt Bowman"
     }
   ]
 }
