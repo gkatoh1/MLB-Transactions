@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-06-29T14:22:42.848443",
+  "last_updated": "2025-06-29T15:25:02.211934",
   "transactions": [
+    {
+      "date": "2025-06-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated RHPJonathan Cannonfrom the 15-day injured list.",
+      "player": "Jonathan Cannon"
+    },
+    {
+      "date": "2025-06-29",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RHPDaysbel Hernándezon a rehab assignment to Gwinnett Stripers.",
+      "player": "Daysbel Hernández"
+    },
+    {
+      "date": "2025-06-29",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPLuis F. Castillofor assignment.",
+      "player": "Luis F. Castillo"
+    },
+    {
+      "date": "2025-06-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RHPPaxton Schultzon the 15-day injured list. Right middle finger inflammation.",
+      "player": "Paxton Schultz"
+    },
     {
       "date": "2025-06-29",
       "team": "New York Mets",
@@ -21,21 +45,39 @@
     },
     {
       "date": "2025-06-29",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent RHPDaysbel Hernándezon a rehab assignment to Gwinnett Stripers.",
-      "player": "Daysbel Hernández"
-    },
-    {
-      "date": "2025-06-29",
       "team": "New York Mets",
       "details": "New York Metsdesignated LHPColin Pochefor assignment.",
       "player": "Colin Poche"
     },
     {
       "date": "2025-06-29",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of RHPMatt Bowmanfrom Norfolk Tides.",
+      "player": "Matt Bowman"
+    },
+    {
+      "date": "2025-06-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPWikelman Gonzálezto Charlotte Knights.",
+      "player": "Wikelman González"
+    },
+    {
+      "date": "2025-06-29",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPKade Strowdto Norfolk Tides.",
+      "player": "Kade Strowd"
+    },
+    {
+      "date": "2025-06-29",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPAllan Winansto Scranton/Wilkes-Barre RailRiders.",
       "player": "Allan Winans"
+    },
+    {
+      "date": "2025-06-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LHPJustin Bruihlfrom Buffalo Bisons.",
+      "player": "Justin Bruihl"
     }
   ]
 }
