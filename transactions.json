@@ -1,35 +1,29 @@
 {
-  "last_updated": "2025-06-30T21:24:24.259194",
+  "last_updated": "2025-06-30T22:25:41.309007",
   "transactions": [
+    {
+      "date": "2025-06-30",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesdesignated 1BBuddy Kennedyfor assignment.",
+      "player": "Buddy Kennedy"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent RHPJohan Oviedoon a rehab assignment to FCL Pirates.",
+      "player": "Johan Oviedo"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPJordan Hicksfrom the 15-day injured list.",
+      "player": "Jordan Hicks"
+    },
     {
       "date": "2025-06-30",
       "team": "Texas Rangers",
       "details": "Texas Rangerssigned free agent RHPMasahiro Fukudato a minor league contract.",
       "player": "Masahiro Fukuda"
-    },
-    {
-      "date": "2025-06-30",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated 3BMarcelo Mayerfrom the bereavement list.",
-      "player": "Marcelo Mayer"
-    },
-    {
-      "date": "2025-06-30",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresactivated RHPLogan Gillaspiefrom the 15-day injured list.",
-      "player": "Logan Gillaspie"
-    },
-    {
-      "date": "2025-06-30",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresdesignated RHPLogan Gillaspiefor assignment.",
-      "player": "Logan Gillaspie"
-    },
-    {
-      "date": "2025-06-30",
-      "team": "Athletics",
-      "details": "Athleticsactivated CShea Langeliersfrom the 10-day injured list.",
-      "player": "Shea Langeliers"
     },
     {
       "date": "2025-06-30",
@@ -51,33 +45,27 @@
     },
     {
       "date": "2025-06-30",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced RHPFernando Cruzon the 15-day injured list retroactive to June 28, 2025. Left oblique strain.",
-      "player": "Fernando Cruz"
-    },
-    {
-      "date": "2025-06-30",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesdesignated 1BBuddy Kennedyfor assignment.",
-      "player": "Buddy Kennedy"
-    },
-    {
-      "date": "2025-06-30",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced SSJeremy Peñaon the 10-day injured list retroactive to June 28, 2025. Small rib fracture on left side.",
-      "player": "Jeremy Peña"
-    },
-    {
-      "date": "2025-06-30",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesplaced RHPZach Eflinon the 15-day injured list retroactive to June 29, 2025. Low back discomfort.",
       "player": "Zach Eflin"
     },
     {
       "date": "2025-06-30",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent RHPJohan Oviedoon a rehab assignment to FCL Pirates.",
-      "player": "Johan Oviedo"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated 3BMarcelo Mayerfrom the bereavement list.",
+      "player": "Marcelo Mayer"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated RHPLogan Gillaspiefrom the 15-day injured list.",
+      "player": "Logan Gillaspie"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresdesignated RHPLogan Gillaspiefor assignment.",
+      "player": "Logan Gillaspie"
     },
     {
       "date": "2025-06-30",
@@ -87,27 +75,27 @@
     },
     {
       "date": "2025-06-30",
-      "team": "Athletics",
-      "details": "Athleticsoptioned CWillie MacIverto Las Vegas Aviators.",
-      "player": "Willie MacIver"
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced RHPFernando Cruzon the 15-day injured list retroactive to June 28, 2025. Left oblique strain.",
+      "player": "Fernando Cruz"
     },
     {
       "date": "2025-06-30",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPSean Reynoldsto El Paso Chihuahuas.",
-      "player": "Sean Reynolds"
+      "team": "Athletics",
+      "details": "Athleticsactivated CShea Langeliersfrom the 10-day injured list.",
+      "player": "Shea Langeliers"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced SSJeremy Peñaon the 10-day injured list retroactive to June 28, 2025. Small rib fracture on left side.",
+      "player": "Jeremy Peña"
     },
     {
       "date": "2025-06-30",
       "team": "Athletics",
       "details": "Athleticsrecalled RHPJustin Sternerfrom Las Vegas Aviators.",
       "player": "Justin Sterner"
-    },
-    {
-      "date": "2025-06-30",
-      "team": "New York Yankees",
-      "details": "New York Yankeesselected the contract of RHPGeoff Hartliebfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Geoff Hartlieb"
     },
     {
       "date": "2025-06-30",
@@ -123,27 +111,15 @@
     },
     {
       "date": "2025-06-30",
-      "team": "Athletics",
-      "details": "Athleticsoptioned CFJJ Bledayto Las Vegas Aviators.",
-      "player": "JJ Bleday"
-    },
-    {
-      "date": "2025-06-30",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Norfolk Tides.",
-      "player": "Brandon Young"
-    },
-    {
-      "date": "2025-06-30",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned 1BNick Sogardto Worcester Red Sox.",
       "player": "Nick Sogard"
     },
     {
       "date": "2025-06-30",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled RHPMatt Waldronfrom El Paso Chihuahuas.",
-      "player": "Matt Waldron"
+      "team": "Athletics",
+      "details": "Athleticsoptioned CWillie MacIverto Las Vegas Aviators.",
+      "player": "Willie MacIver"
     },
     {
       "date": "2025-06-30",
@@ -156,6 +132,36 @@
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsrecalled LHPJoe La Sorsafrom Louisville Bats.",
       "player": "Joe La Sorsa"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Norfolk Tides.",
+      "player": "Brandon Young"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "Athletics",
+      "details": "Athleticsoptioned CFJJ Bledayto Las Vegas Aviators.",
+      "player": "JJ Bleday"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPSean Reynoldsto El Paso Chihuahuas.",
+      "player": "Sean Reynolds"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled RHPMatt Waldronfrom El Paso Chihuahuas.",
+      "player": "Matt Waldron"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "New York Yankees",
+      "details": "New York Yankeesselected the contract of RHPGeoff Hartliebfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Geoff Hartlieb"
     }
   ]
 }
