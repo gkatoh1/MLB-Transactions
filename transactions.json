@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-06-30T19:20:06.390446",
+  "last_updated": "2025-06-30T20:28:00.706235",
   "transactions": [
+    {
+      "date": "2025-06-30",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced SSJeremy Peñaon the 10-day injured list retroactive to June 28, 2025. Small rib fracture on left side.",
+      "player": "Jeremy Peña"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated 1BBryce Harperfrom the 10-day injured list.",
+      "player": "Bryce Harper"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced RHPIan Gibauton the 15-day injured list retroactive to June 29, 2025. Right shoulder impingement.",
+      "player": "Ian Gibaut"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "New York Yankees",
+      "details": "New York Yankeesdesignated 1BCJ Alexanderfor assignment.",
+      "player": "CJ Alexander"
+    },
     {
       "date": "2025-06-30",
       "team": "Texas Rangers",
@@ -21,9 +45,15 @@
     },
     {
       "date": "2025-06-30",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced SSJeremy Peñaon the 10-day injured list retroactive to June 28, 2025. Small rib fracture on left side.",
-      "player": "Jeremy Peña"
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced RHPFernando Cruzon the 15-day injured list retroactive to June 28, 2025. Left oblique strain.",
+      "player": "Fernando Cruz"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "Athletics",
+      "details": "Athleticsactivated CShea Langeliersfrom the 10-day injured list.",
+      "player": "Shea Langeliers"
     },
     {
       "date": "2025-06-30",
@@ -45,33 +75,33 @@
     },
     {
       "date": "2025-06-30",
-      "team": "Athletics",
-      "details": "Athleticsactivated CShea Langeliersfrom the 10-day injured list.",
-      "player": "Shea Langeliers"
-    },
-    {
-      "date": "2025-06-30",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated 1BBryce Harperfrom the 10-day injured list.",
-      "player": "Bryce Harper"
-    },
-    {
-      "date": "2025-06-30",
       "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled RHPMatt Waldronfrom El Paso Chihuahuas.",
-      "player": "Matt Waldron"
+      "details": "San Diego Padresoptioned RHPSean Reynoldsto El Paso Chihuahuas.",
+      "player": "Sean Reynolds"
     },
     {
       "date": "2025-06-30",
-      "team": "Athletics",
-      "details": "Athleticsoptioned CFJJ Bledayto Las Vegas Aviators.",
-      "player": "JJ Bleday"
+      "team": "New York Yankees",
+      "details": "New York Yankeesselected the contract of RHPGeoff Hartliebfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Geoff Hartlieb"
     },
     {
       "date": "2025-06-30",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned 1BNick Sogardto Worcester Red Sox.",
       "player": "Nick Sogard"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPTyler Fergusonto Las Vegas Aviators.",
+      "player": "Tyler Ferguson"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled LHPJoe La Sorsafrom Louisville Bats.",
+      "player": "Joe La Sorsa"
     },
     {
       "date": "2025-06-30",
@@ -88,20 +118,20 @@
     {
       "date": "2025-06-30",
       "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPSean Reynoldsto El Paso Chihuahuas.",
-      "player": "Sean Reynolds"
+      "details": "San Diego Padresrecalled RHPMatt Waldronfrom El Paso Chihuahuas.",
+      "player": "Matt Waldron"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "Athletics",
+      "details": "Athleticsoptioned CFJJ Bledayto Las Vegas Aviators.",
+      "player": "JJ Bleday"
     },
     {
       "date": "2025-06-30",
       "team": "Athletics",
       "details": "Athleticsoptioned CWillie MacIverto Las Vegas Aviators.",
       "player": "Willie MacIver"
-    },
-    {
-      "date": "2025-06-30",
-      "team": "Athletics",
-      "details": "Athleticsoptioned RHPTyler Fergusonto Las Vegas Aviators.",
-      "player": "Tyler Ferguson"
     }
   ]
 }
