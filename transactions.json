@@ -1,17 +1,23 @@
 {
-  "last_updated": "2025-06-30T18:36:25.202429",
+  "last_updated": "2025-06-30T19:20:06.390446",
   "transactions": [
-    {
-      "date": "2025-06-30",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent RHPJohan Oviedoon a rehab assignment to FCL Pirates.",
-      "player": "Johan Oviedo"
-    },
     {
       "date": "2025-06-30",
       "team": "Texas Rangers",
       "details": "Texas Rangerssigned free agent RHPMasahiro Fukudato a minor league contract.",
       "player": "Masahiro Fukuda"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesdesignated 1BBuddy Kennedyfor assignment.",
+      "player": "Buddy Kennedy"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent RHPJohan Oviedoon a rehab assignment to FCL Pirates.",
+      "player": "Johan Oviedo"
     },
     {
       "date": "2025-06-30",
@@ -21,21 +27,51 @@
     },
     {
       "date": "2025-06-30",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated 3BMarcelo Mayerfrom the bereavement list.",
+      "player": "Marcelo Mayer"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated RHPLogan Gillaspiefrom the 15-day injured list.",
+      "player": "Logan Gillaspie"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresdesignated RHPLogan Gillaspiefor assignment.",
+      "player": "Logan Gillaspie"
+    },
+    {
+      "date": "2025-06-30",
       "team": "Athletics",
       "details": "Athleticsactivated CShea Langeliersfrom the 10-day injured list.",
       "player": "Shea Langeliers"
     },
     {
       "date": "2025-06-30",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated 1BBryce Harperfrom the 10-day injured list.",
+      "player": "Bryce Harper"
+    },
+    {
+      "date": "2025-06-30",
       "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPSean Reynoldsto El Paso Chihuahuas.",
-      "player": "Sean Reynolds"
+      "details": "San Diego Padresrecalled RHPMatt Waldronfrom El Paso Chihuahuas.",
+      "player": "Matt Waldron"
     },
     {
       "date": "2025-06-30",
       "team": "Athletics",
-      "details": "Athleticsoptioned RHPTyler Fergusonto Las Vegas Aviators.",
-      "player": "Tyler Ferguson"
+      "details": "Athleticsoptioned CFJJ Bledayto Las Vegas Aviators.",
+      "player": "JJ Bleday"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned 1BNick Sogardto Worcester Red Sox.",
+      "player": "Nick Sogard"
     },
     {
       "date": "2025-06-30",
@@ -46,26 +82,26 @@
     {
       "date": "2025-06-30",
       "team": "Athletics",
+      "details": "Athleticsselected the contract of RFColby Thomasfrom Las Vegas Aviators.",
+      "player": "Colby Thomas"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPSean Reynoldsto El Paso Chihuahuas.",
+      "player": "Sean Reynolds"
+    },
+    {
+      "date": "2025-06-30",
+      "team": "Athletics",
       "details": "Athleticsoptioned CWillie MacIverto Las Vegas Aviators.",
       "player": "Willie MacIver"
     },
     {
       "date": "2025-06-30",
       "team": "Athletics",
-      "details": "Athleticsselected the contract of RFColby Thomasfrom Las Vegas Aviators.",
-      "player": "Colby Thomas"
-    },
-    {
-      "date": "2025-06-30",
-      "team": "Athletics",
-      "details": "Athleticsoptioned CFJJ Bledayto Las Vegas Aviators.",
-      "player": "JJ Bleday"
-    },
-    {
-      "date": "2025-06-30",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled RHPMatt Waldronfrom El Paso Chihuahuas.",
-      "player": "Matt Waldron"
+      "details": "Athleticsoptioned RHPTyler Fergusonto Las Vegas Aviators.",
+      "player": "Tyler Ferguson"
     }
   ]
 }
