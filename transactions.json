@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-01T18:36:15.335153",
+  "last_updated": "2025-07-01T19:20:27.918610",
   "transactions": [
+    {
+      "date": "2025-07-01",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced LHPRob Zastryznyon the 15-day injured list retroactive to June 27, 2025. Ribs stress reaction.",
+      "player": "Rob Zastryzny"
+    },
     {
       "date": "2025-07-01",
       "team": "Boston Red Sox",
@@ -9,15 +15,21 @@
     },
     {
       "date": "2025-07-01",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesreassigned RFYanquiel Fernándezto the minor leagues.",
-      "player": "Yanquiel Fernández"
-    },
-    {
-      "date": "2025-07-01",
       "team": "New York Mets",
       "details": "New York Metssent LHPSean Manaeaon a rehab assignment to Binghamton Rumble Ponies.",
       "player": "Sean Manaea"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated RFJorge Solerfrom the 10-day injured list.",
+      "player": "Jorge Soler"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesreassigned RFYanquiel Fernándezto the minor leagues.",
+      "player": "Yanquiel Fernández"
     },
     {
       "date": "2025-07-01",
@@ -33,15 +45,45 @@
     },
     {
       "date": "2025-07-01",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LFJonatan Claseto Buffalo Bisons.",
-      "player": "Jonatan Clase"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated RFDaz Cameronfor assignment.",
+      "player": "Daz Cameron"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated 3BPaul DeJongfrom the 10-day injured list.",
+      "player": "Paul DeJong"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPEaston McGeefrom Nashville Sounds.",
+      "player": "Easton McGee"
     },
     {
       "date": "2025-07-01",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysrecalled SSLeo Jiménezfrom Buffalo Bisons.",
       "player": "Leo Jiménez"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned 1BAndrés Chaparroto Rochester Red Wings.",
+      "player": "Andrés Chaparro"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFJonatan Claseto Buffalo Bisons.",
+      "player": "Jonatan Clase"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of 2BAnthony Seiglerfrom Nashville Sounds.",
+      "player": "Anthony Seigler"
     }
   ]
 }
