@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-01T15:28:10.120007",
+  "last_updated": "2025-07-01T16:33:30.486414",
   "transactions": [
     {
       "date": "2025-07-01",
@@ -9,15 +9,27 @@
     },
     {
       "date": "2025-07-01",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LFJonatan Claseto Buffalo Bisons.",
-      "player": "Jonatan Clase"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated 3BRoyce Lewisfrom the 10-day injured list.",
+      "player": "Royce Lewis"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsdesignated 3BJonah Bridefor assignment.",
+      "player": "Jonah Bride"
     },
     {
       "date": "2025-07-01",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysrecalled SSLeo Jiménezfrom Buffalo Bisons.",
       "player": "Leo Jiménez"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFJonatan Claseto Buffalo Bisons.",
+      "player": "Jonatan Clase"
     }
   ]
 }
