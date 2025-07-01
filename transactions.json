@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-07-01T14:25:44.295213",
+  "last_updated": "2025-07-01T15:28:10.120007",
   "transactions": [
     {
       "date": "2025-07-01",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesreassigned RFYanquiel Fernándezto the minor leagues.",
       "player": "Yanquiel Fernández"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFJonatan Claseto Buffalo Bisons.",
+      "player": "Jonatan Clase"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled SSLeo Jiménezfrom Buffalo Bisons.",
+      "player": "Leo Jiménez"
     }
   ]
 }
