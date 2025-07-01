@@ -1,17 +1,41 @@
 {
-  "last_updated": "2025-07-01T19:20:27.918610",
+  "last_updated": "2025-07-01T20:28:59.318533",
   "transactions": [
     {
       "date": "2025-07-01",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced LHPRob Zastryznyon the 15-day injured list retroactive to June 27, 2025. Ribs stress reaction.",
-      "player": "Rob Zastryzny"
+      "details": "Milwaukee Brewersdesignated RFDaz Cameronfor assignment.",
+      "player": "Daz Cameron"
     },
     {
       "date": "2025-07-01",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent LFMasataka Yoshidaon a rehab assignment to Worcester Red Sox.",
-      "player": "Masataka Yoshida"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated 3BPaul DeJongfrom the 10-day injured list.",
+      "player": "Paul DeJong"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstransferred RHPMax Meyerfrom the 15-day injured list to the 60-day injured list. Left hip impingement.",
+      "player": "Max Meyer"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated RHPTanner Gordonfrom the 15-day injured list.",
+      "player": "Tanner Gordon"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesreassigned RFYanquiel Fernándezto the minor leagues.",
+      "player": "Yanquiel Fernández"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced CChadwick Trompon the 10-day injured list. Lower back strain.",
+      "player": "Chadwick Tromp"
     },
     {
       "date": "2025-07-01",
@@ -21,15 +45,15 @@
     },
     {
       "date": "2025-07-01",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsactivated RFJorge Solerfrom the 10-day injured list.",
-      "player": "Jorge Soler"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsreassigned RHPNick Nastrinito the minor leagues.",
+      "player": "Nick Nastrini"
     },
     {
       "date": "2025-07-01",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesreassigned RFYanquiel Fernándezto the minor leagues.",
-      "player": "Yanquiel Fernández"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced SSGabriel Ariason the 10-day injured list retroactive to June 30, 2025. Sprained left ankle.",
+      "player": "Gabriel Arias"
     },
     {
       "date": "2025-07-01",
@@ -45,27 +69,57 @@
     },
     {
       "date": "2025-07-01",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated CFDerek Hillfrom the 10-day injured list.",
+      "player": "Derek Hill"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated RFJorge Solerfrom the 10-day injured list.",
+      "player": "Jorge Soler"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent 3BNoelvi Marteon a rehab assignment to Louisville Bats.",
+      "player": "Noelvi Marte"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesdesignated LFSam Hilliardfor assignment.",
+      "player": "Sam Hilliard"
+    },
+    {
+      "date": "2025-07-01",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersdesignated RFDaz Cameronfor assignment.",
-      "player": "Daz Cameron"
+      "details": "Milwaukee Brewersplaced LHPRob Zastryznyon the 15-day injured list retroactive to June 27, 2025. Ribs stress reaction.",
+      "player": "Rob Zastryzny"
     },
     {
       "date": "2025-07-01",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated 3BPaul DeJongfrom the 10-day injured list.",
-      "player": "Paul DeJong"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent LFMasataka Yoshidaon a rehab assignment to Worcester Red Sox.",
+      "player": "Masataka Yoshida"
     },
     {
       "date": "2025-07-01",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPEaston McGeefrom Nashville Sounds.",
-      "player": "Easton McGee"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated 3BEmmanuel Riverafor assignment.",
+      "player": "Emmanuel Rivera"
     },
     {
       "date": "2025-07-01",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled SSLeo Jiménezfrom Buffalo Bisons.",
-      "player": "Leo Jiménez"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesselected the contract of CAustin Nolafrom Albuquerque Isotopes.",
+      "player": "Austin Nola"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned CBraxton Fulfordto Albuquerque Isotopes.",
+      "player": "Braxton Fulford"
     },
     {
       "date": "2025-07-01",
@@ -75,15 +129,99 @@
     },
     {
       "date": "2025-07-01",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPTanner Gordonto Albuquerque Isotopes.",
+      "player": "Tanner Gordon"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled LHPSam Mollfrom Louisville Bats.",
+      "player": "Sam Moll"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned LHPJoe La Sorsato Louisville Bats.",
+      "player": "Joe La Sorsa"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of CJacob Stallingsfrom Norfolk Tides.",
+      "player": "Jacob Stallings"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled SSBrayan Rocchiofrom Columbus Clippers.",
+      "player": "Brayan Rocchio"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPEaston McGeefrom Nashville Sounds.",
+      "player": "Easton McGee"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsclaimed RHPNick Nastrinioff waivers fromChicago White Sox.",
+      "player": "Nick Nastrini"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled LFDylan Carlsonfrom Norfolk Tides.",
+      "player": "Dylan Carlson"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPNick Nastrinito Jacksonville Jumbo Shrimp.",
+      "player": "Nick Nastrini"
+    },
+    {
+      "date": "2025-07-01",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysoptioned LFJonatan Claseto Buffalo Bisons.",
       "player": "Jonatan Clase"
     },
     {
       "date": "2025-07-01",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RFYanquiel Fernándezfrom Albuquerque Isotopes.",
+      "player": "Yanquiel Fernández"
+    },
+    {
+      "date": "2025-07-01",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersselected the contract of 2BAnthony Seiglerfrom Nashville Sounds.",
       "player": "Anthony Seigler"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPConnor Phillipsto Louisville Bats.",
+      "player": "Connor Phillips"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LFBrooks Baldwinfrom Charlotte Knights.",
+      "player": "Brooks Baldwin"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled SSLeo Jiménezfrom Buffalo Bisons.",
+      "player": "Leo Jiménez"
+    },
+    {
+      "date": "2025-07-01",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of RHPSam Benschoterfrom Louisville Bats.",
+      "player": "Sam Benschoter"
     }
   ]
 }
