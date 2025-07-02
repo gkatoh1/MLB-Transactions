@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-07-02T13:37:37.432313",
+  "last_updated": "2025-07-02T14:26:29.906800",
   "transactions": [
     {
       "date": "2025-07-02",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesactivated RHPDennis Santana.",
       "player": "Dennis Santana"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
+      "player": "Seth Johnson"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPAndry Larafrom Harrisburg Senators.",
+      "player": "Andry Lara"
     }
   ]
 }
