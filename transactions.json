@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-07-02T16:33:09.619697",
+  "last_updated": "2025-07-02T17:24:43.602151",
   "transactions": [
-    {
-      "date": "2025-07-02",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersplaced RHPSawyer Gipson-Longon the 15-day injured list retroactive to June 29, 2025. Neck stiffness.",
-      "player": "Sawyer Gipson-Long"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesactivated RHPDennis Santana.",
-      "player": "Dennis Santana"
-    },
     {
       "date": "2025-07-02",
       "team": "Milwaukee Brewers",
@@ -22,14 +10,44 @@
     {
       "date": "2025-07-02",
       "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced RHPSawyer Gipson-Longon the 15-day injured list retroactive to June 29, 2025. Neck stiffness.",
+      "player": "Sawyer Gipson-Long"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Detroit Tigers",
       "details": "Detroit Tigersplaced RFKerry Carpenteron the 10-day injured list retroactive to June 30, 2025. Right hamstring strain.",
       "player": "Kerry Carpenter"
     },
     {
       "date": "2025-07-02",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RHPDennis Santana.",
+      "player": "Dennis Santana"
+    },
+    {
+      "date": "2025-07-02",
       "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled RHPRon Marinacciofrom El Paso Chihuahuas.",
-      "player": "Ron Marinaccio"
+      "details": "San Diego Padresoptioned RHPMatt Waldronto El Paso Chihuahuas.",
+      "player": "Matt Waldron"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
+      "player": "Seth Johnson"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled SSTrey Sweeneyfrom Toledo Mud Hens.",
+      "player": "Trey Sweeney"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPAndry Larafrom Harrisburg Senators.",
+      "player": "Andry Lara"
     },
     {
       "date": "2025-07-02",
@@ -45,27 +63,9 @@
     },
     {
       "date": "2025-07-02",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
-      "player": "Seth Johnson"
-    },
-    {
-      "date": "2025-07-02",
       "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPMatt Waldronto El Paso Chihuahuas.",
-      "player": "Matt Waldron"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled SSTrey Sweeneyfrom Toledo Mud Hens.",
-      "player": "Trey Sweeney"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPAndry Larafrom Harrisburg Senators.",
-      "player": "Andry Lara"
+      "details": "San Diego Padresrecalled RHPRon Marinacciofrom El Paso Chihuahuas.",
+      "player": "Ron Marinaccio"
     },
     {
       "date": "2025-07-02",
