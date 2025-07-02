@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-02T18:36:47.029582",
+  "last_updated": "2025-07-02T19:20:44.678313",
   "transactions": [
     {
       "date": "2025-07-02",
@@ -9,9 +9,15 @@
     },
     {
       "date": "2025-07-02",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersplaced RHPSawyer Gipson-Longon the 15-day injured list retroactive to June 29, 2025. Neck stiffness.",
-      "player": "Sawyer Gipson-Long"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPNestor Corteson a rehab assignment to Nashville Sounds.",
+      "player": "Nestor Cortes"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Athletics",
+      "details": "Athleticssent LFMiguel Andujaron a rehab assignment to Las Vegas Aviators.",
+      "player": "Miguel Andujar"
     },
     {
       "date": "2025-07-02",
@@ -21,21 +27,21 @@
     },
     {
       "date": "2025-07-02",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent LHPNestor Corteson a rehab assignment to Nashville Sounds.",
-      "player": "Nestor Cortes"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPMatt Waldronto El Paso Chihuahuas.",
-      "player": "Matt Waldron"
-    },
-    {
-      "date": "2025-07-02",
       "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled RHPTyler Owensfrom Toledo Mud Hens.",
-      "player": "Tyler Owens"
+      "details": "Detroit Tigersplaced RHPSawyer Gipson-Longon the 15-day injured list retroactive to June 29, 2025. Neck stiffness.",
+      "player": "Sawyer Gipson-Long"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RHPYimi Garcíafrom the 15-day injured list.",
+      "player": "Yimi García"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPMason Thompsonon a rehab assignment to Rochester Red Wings.",
+      "player": "Mason Thompson"
     },
     {
       "date": "2025-07-02",
@@ -45,9 +51,15 @@
     },
     {
       "date": "2025-07-02",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresselected the contract of RHPEduarniel Núñezfrom El Paso Chihuahuas.",
-      "player": "Eduarniel Núñez"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
+      "player": "Seth Johnson"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled SSTrey Sweeneyfrom Toledo Mud Hens.",
+      "player": "Trey Sweeney"
     },
     {
       "date": "2025-07-02",
@@ -63,9 +75,21 @@
     },
     {
       "date": "2025-07-02",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPAndry Larafrom Harrisburg Senators.",
-      "player": "Andry Lara"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresselected the contract of RHPEduarniel Núñezfrom El Paso Chihuahuas.",
+      "player": "Eduarniel Núñez"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPMason Fluhartyto Buffalo Bisons.",
+      "player": "Mason Fluharty"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPMatt Waldronto El Paso Chihuahuas.",
+      "player": "Matt Waldron"
     },
     {
       "date": "2025-07-02",
@@ -75,15 +99,15 @@
     },
     {
       "date": "2025-07-02",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled SSTrey Sweeneyfrom Toledo Mud Hens.",
-      "player": "Trey Sweeney"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPAndry Larafrom Harrisburg Senators.",
+      "player": "Andry Lara"
     },
     {
       "date": "2025-07-02",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
-      "player": "Seth Johnson"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPTyler Owensfrom Toledo Mud Hens.",
+      "player": "Tyler Owens"
     }
   ]
 }
