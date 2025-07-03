@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-03T16:32:59.058466",
+  "last_updated": "2025-07-03T17:25:14.285782",
   "transactions": [
     {
       "date": "2025-07-03",
@@ -9,21 +9,9 @@
     },
     {
       "date": "2025-07-03",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPSeth Johnsonto Lehigh Valley IronPigs.",
-      "player": "Seth Johnson"
-    },
-    {
-      "date": "2025-07-03",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPAndry Larato Harrisburg Senators.",
-      "player": "Andry Lara"
-    },
-    {
-      "date": "2025-07-03",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
-      "player": "Austin Warren"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPCraig Yohoto Nashville Sounds.",
+      "player": "Craig Yoho"
     },
     {
       "date": "2025-07-03",
@@ -33,21 +21,45 @@
     },
     {
       "date": "2025-07-03",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPYosver Zuluetato Louisville Bats.",
-      "player": "Yosver Zulueta"
-    },
-    {
-      "date": "2025-07-03",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPCraig Yohoto Nashville Sounds.",
-      "player": "Craig Yoho"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
+      "player": "Austin Warren"
     },
     {
       "date": "2025-07-03",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned RHPCooper Criswellto Worcester Red Sox.",
       "player": "Cooper Criswell"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPAndry Larato Harrisburg Senators.",
+      "player": "Andry Lara"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPSeth Johnsonto Lehigh Valley IronPigs.",
+      "player": "Seth Johnson"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPZach Agnosfrom Albuquerque Isotopes.",
+      "player": "Zach Agnos"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPYosver Zuluetato Louisville Bats.",
+      "player": "Yosver Zulueta"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPAngel Chivillito Albuquerque Isotopes.",
+      "player": "Angel Chivilli"
     }
   ]
 }
