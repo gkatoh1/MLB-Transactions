@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-03T19:20:09.636516",
+  "last_updated": "2025-07-03T20:28:12.774855",
   "transactions": [
+    {
+      "date": "2025-07-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsreleased RHPHéctor Neris.",
+      "player": "Héctor Neris"
+    },
     {
       "date": "2025-07-03",
       "team": "Cincinnati Reds",
@@ -15,21 +21,39 @@
     },
     {
       "date": "2025-07-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced 2BChristian Mooreon the 10-day injured list. Left thumb sprain.",
+      "player": "Christian Moore"
+    },
+    {
+      "date": "2025-07-03",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansplaced RHPLuis L. Ortizon the restricted list.",
       "player": "Luis L. Ortiz"
     },
     {
       "date": "2025-07-03",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned RHPDylan Smithto Toledo Mud Hens.",
-      "player": "Dylan Smith"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent LFWyatt Langfordon a rehab assignment to Frisco RoughRiders.",
+      "player": "Wyatt Langford"
     },
     {
       "date": "2025-07-03",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPBlade Tidwellto Syracuse Mets.",
-      "player": "Blade Tidwell"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated LHPAndrew Chafinfrom the 15-day injured list.",
+      "player": "Andrew Chafin"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPAngel Chivillito Albuquerque Isotopes.",
+      "player": "Angel Chivilli"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPRon Marinaccioto El Paso Chihuahuas.",
+      "player": "Ron Marinaccio"
     },
     {
       "date": "2025-07-03",
@@ -51,9 +75,51 @@
     },
     {
       "date": "2025-07-03",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPRico Garciafrom Syracuse Mets.",
+      "player": "Rico Garcia"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LFDylan Carlsonto Norfolk Tides.",
+      "player": "Dylan Carlson"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPDylan Smithto Toledo Mud Hens.",
+      "player": "Dylan Smith"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPBlade Tidwellto Syracuse Mets.",
+      "player": "Blade Tidwell"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPZach Agnosfrom Albuquerque Isotopes.",
+      "player": "Zach Agnos"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPSeth Johnsonto Lehigh Valley IronPigs.",
+      "player": "Seth Johnson"
+    },
+    {
+      "date": "2025-07-03",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned RHPYosver Zuluetato Louisville Bats.",
       "player": "Yosver Zulueta"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
+      "player": "Austin Warren"
     },
     {
       "date": "2025-07-03",
@@ -69,45 +135,15 @@
     },
     {
       "date": "2025-07-03",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPSeth Johnsonto Lehigh Valley IronPigs.",
-      "player": "Seth Johnson"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPRyan Loutosto Rochester Red Wings.",
+      "player": "Ryan Loutos"
     },
     {
       "date": "2025-07-03",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned LFDylan Carlsonto Norfolk Tides.",
-      "player": "Dylan Carlson"
-    },
-    {
-      "date": "2025-07-03",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPZach Agnosfrom Albuquerque Isotopes.",
-      "player": "Zach Agnos"
-    },
-    {
-      "date": "2025-07-03",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPAngel Chivillito Albuquerque Isotopes.",
-      "player": "Angel Chivilli"
-    },
-    {
-      "date": "2025-07-03",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPRico Garciafrom Syracuse Mets.",
-      "player": "Rico Garcia"
-    },
-    {
-      "date": "2025-07-03",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
-      "player": "Austin Warren"
-    },
-    {
-      "date": "2025-07-03",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPRon Marinaccioto El Paso Chihuahuas.",
-      "player": "Ron Marinaccio"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsselected the contract of SSChad Stevensfrom Salt Lake Bees.",
+      "player": "Chad Stevens"
     }
   ]
 }
