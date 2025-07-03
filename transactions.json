@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-07-03T18:36:13.877284",
+  "last_updated": "2025-07-03T19:20:09.636516",
   "transactions": [
+    {
+      "date": "2025-07-03",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPCarson Spierson a rehab assignment to ACL Reds.",
+      "player": "Carson Spiers"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "New York Mets",
+      "details": "New York Metsplaced RHPPaul Blackburnon the 15-day injured list retroactive to June 30, 2025. Right shoulder impingement.",
+      "player": "Paul Blackburn"
+    },
     {
       "date": "2025-07-03",
       "team": "Cleveland Guardians",
@@ -9,15 +21,15 @@
     },
     {
       "date": "2025-07-03",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPAngel Chivillito Albuquerque Isotopes.",
-      "player": "Angel Chivilli"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPDylan Smithto Toledo Mud Hens.",
+      "player": "Dylan Smith"
     },
     {
       "date": "2025-07-03",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPAndry Larato Harrisburg Senators.",
-      "player": "Andry Lara"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPBlade Tidwellto Syracuse Mets.",
+      "player": "Blade Tidwell"
     },
     {
       "date": "2025-07-03",
@@ -27,27 +39,15 @@
     },
     {
       "date": "2025-07-03",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPSeth Johnsonto Lehigh Valley IronPigs.",
-      "player": "Seth Johnson"
-    },
-    {
-      "date": "2025-07-03",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPZach Agnosfrom Albuquerque Isotopes.",
-      "player": "Zach Agnos"
-    },
-    {
-      "date": "2025-07-03",
       "team": "New York Mets",
       "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
       "player": "Austin Warren"
     },
     {
       "date": "2025-07-03",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPRon Marinaccioto El Paso Chihuahuas.",
-      "player": "Ron Marinaccio"
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJustin Hagenmanfrom Syracuse Mets.",
+      "player": "Justin Hagenman"
     },
     {
       "date": "2025-07-03",
@@ -60,6 +60,54 @@
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersoptioned RHPCraig Yohoto Nashville Sounds.",
       "player": "Craig Yoho"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPAndry Larato Harrisburg Senators.",
+      "player": "Andry Lara"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPSeth Johnsonto Lehigh Valley IronPigs.",
+      "player": "Seth Johnson"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LFDylan Carlsonto Norfolk Tides.",
+      "player": "Dylan Carlson"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPZach Agnosfrom Albuquerque Isotopes.",
+      "player": "Zach Agnos"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPAngel Chivillito Albuquerque Isotopes.",
+      "player": "Angel Chivilli"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPRico Garciafrom Syracuse Mets.",
+      "player": "Rico Garcia"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
+      "player": "Austin Warren"
+    },
+    {
+      "date": "2025-07-03",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPRon Marinaccioto El Paso Chihuahuas.",
+      "player": "Ron Marinaccio"
     }
   ]
 }
