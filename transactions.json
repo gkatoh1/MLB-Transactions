@@ -1,42 +1,6 @@
 {
-  "last_updated": "2025-07-02T23:25:59.404133",
+  "last_updated": "2025-07-03T02:08:36.245162",
   "transactions": [
-    {
-      "date": "2025-07-02",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent LHPJared Shusteron a rehab assignment to Charlotte Knights.",
-      "player": "Jared Shuster"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPMason Thompsonon a rehab assignment to Rochester Red Wings.",
-      "player": "Mason Thompson"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersplaced RFKerry Carpenteron the 10-day injured list retroactive to June 30, 2025. Right hamstring strain.",
-      "player": "Kerry Carpenter"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced 3BLuis Guillormeon the 10-day injured list. Right hamstring strain.",
-      "player": "Luis Guillorme"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent RHPPaul Sewaldon a rehab assignment to Columbus Clippers.",
-      "player": "Paul Sewald"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated LFJurickson Profar.",
-      "player": "Jurickson Profar"
-    },
     {
       "date": "2025-07-02",
       "team": "Arizona Diamondbacks",
@@ -46,8 +10,32 @@
     {
       "date": "2025-07-02",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced RHPSpencer Schwellenbachon the 15-day injured list retroactive to June 29, 2025. Fractured right elbow.",
-      "player": "Spencer Schwellenbach"
+      "details": "Atlanta Bravesactivated RHPDaysbel Hernándezfrom the 15-day injured list.",
+      "player": "Daysbel Hernández"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated LFAlex Verdugofor assignment.",
+      "player": "Alex Verdugo"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced RHPSawyer Gipson-Longon the 15-day injured list retroactive to June 29, 2025. Neck stiffness.",
+      "player": "Sawyer Gipson-Long"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPMason Thompsonon a rehab assignment to Rochester Red Wings.",
+      "player": "Mason Thompson"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent RFJordan Walkeron a rehab assignment to Springfield Cardinals.",
+      "player": "Jordan Walker"
     },
     {
       "date": "2025-07-02",
@@ -63,57 +51,27 @@
     },
     {
       "date": "2025-07-02",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent LHPJared Shusteron a rehab assignment to Charlotte Knights.",
+      "player": "Jared Shuster"
+    },
+    {
+      "date": "2025-07-02",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsplaced RHPBailey Oberon the 15-day injured list retroactive to June 29, 2025. Left hip impingement .",
       "player": "Bailey Ober"
     },
     {
       "date": "2025-07-02",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssigned free agent RHPJake Woodford.",
-      "player": "Jake Woodford"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersplaced RHPSawyer Gipson-Longon the 15-day injured list retroactive to June 29, 2025. Neck stiffness.",
-      "player": "Sawyer Gipson-Long"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "New York Yankees",
-      "details": "New York Yankeesdesignated RHPGeoff Hartliebfor assignment.",
-      "player": "Geoff Hartlieb"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent SSJose Barreroto a minor league contract.",
-      "player": "Jose Barrero"
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced 3BLuis Guillormeon the 10-day injured list. Right hamstring strain.",
+      "player": "Luis Guillorme"
     },
     {
       "date": "2025-07-02",
       "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent RHPTrevor Stephanon a rehab assignment to Columbus Clippers.",
-      "player": "Trevor Stephan"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated LFAlex Verdugofor assignment.",
-      "player": "Alex Verdugo"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssent RFJordan Walkeron a rehab assignment to Springfield Cardinals.",
-      "player": "Jordan Walker"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesactivated RHPDennis Santana.",
-      "player": "Dennis Santana"
+      "details": "Cleveland Guardianssent RHPPaul Sewaldon a rehab assignment to Columbus Clippers.",
+      "player": "Paul Sewald"
     },
     {
       "date": "2025-07-02",
@@ -135,6 +93,48 @@
     },
     {
       "date": "2025-07-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced RHPSpencer Schwellenbachon the 15-day injured list retroactive to June 29, 2025. Fractured right elbow.",
+      "player": "Spencer Schwellenbach"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssigned LHPMatt Gage.",
+      "player": "Matt Gage"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned free agent RHPJake Woodford.",
+      "player": "Jake Woodford"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced RFKerry Carpenteron the 10-day injured list retroactive to June 30, 2025. Right hamstring strain.",
+      "player": "Kerry Carpenter"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RHPDennis Santana.",
+      "player": "Dennis Santana"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated LFJurickson Profar.",
+      "player": "Jurickson Profar"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "New York Yankees",
+      "details": "New York Yankeesdesignated RHPGeoff Hartliebfor assignment.",
+      "player": "Geoff Hartlieb"
+    },
+    {
+      "date": "2025-07-02",
       "team": "Texas Rangers",
       "details": "Texas Rangersactivated 1BJake Burgerfrom the 10-day injured list.",
       "player": "Jake Burger"
@@ -147,21 +147,57 @@
     },
     {
       "date": "2025-07-02",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPDaysbel Hernándezfrom the 15-day injured list.",
-      "player": "Daysbel Hernández"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent SSJose Barreroto a minor league contract.",
+      "player": "Jose Barrero"
     },
     {
       "date": "2025-07-02",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPYennier Canofrom Norfolk Tides.",
-      "player": "Yennier Cano"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPTrevor Stephanon a rehab assignment to Columbus Clippers.",
+      "player": "Trevor Stephan"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPCraig Yohofrom Nashville Sounds.",
+      "player": "Craig Yoho"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPZach Popoutright to Tacoma Rainiers.",
+      "player": "Zach Pop"
     },
     {
       "date": "2025-07-02",
       "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled LHPBailey Hornfrom Toledo Mud Hens.",
-      "player": "Bailey Horn"
+      "details": "Detroit Tigersrecalled RHPTyler Owensfrom Toledo Mud Hens.",
+      "player": "Tyler Owens"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPKevin Hergetto Gwinnett Stripers.",
+      "player": "Kevin Herget"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPCarson Seymourto Sacramento River Cats.",
+      "player": "Carson Seymour"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled RHPRon Marinacciofrom El Paso Chihuahuas.",
+      "player": "Ron Marinaccio"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPEmerson Hancockto Tacoma Rainiers.",
+      "player": "Emerson Hancock"
     },
     {
       "date": "2025-07-02",
@@ -171,21 +207,9 @@
     },
     {
       "date": "2025-07-02",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
-      "player": "Seth Johnson"
-    },
-    {
-      "date": "2025-07-02",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesrecalled LHPAustin Coxfrom Gwinnett Stripers.",
       "player": "Austin Cox"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of LHPJoe Jacquesfrom Tacoma Rainiers.",
-      "player": "Joe Jacques"
     },
     {
       "date": "2025-07-02",
@@ -195,21 +219,33 @@
     },
     {
       "date": "2025-07-02",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPCooper Criswellfrom Worcester Red Sox.",
-      "player": "Cooper Criswell"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled LHPKody Funderburkfrom St. Paul Saints.",
-      "player": "Kody Funderburk"
-    },
-    {
-      "date": "2025-07-02",
       "team": "Texas Rangers",
       "details": "Texas Rangersoptioned 3BJosh Jungto Round Rock Express.",
       "player": "Josh Jung"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RFJustyn-Henry Malloyfrom Toledo Mud Hens.",
+      "player": "Justyn-Henry Malloy"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPYennier Canofrom Norfolk Tides.",
+      "player": "Yennier Cano"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Houston Astros",
+      "details": "Houston Astrosselected the contract of 3BZack Shortfrom Sugar Land Space Cowboys.",
+      "player": "Zack Short"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPMason Blackfrom Sacramento River Cats.",
+      "player": "Mason Black"
     },
     {
       "date": "2025-07-02",
@@ -225,69 +261,9 @@
     },
     {
       "date": "2025-07-02",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
-      "player": "Austin Warren"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled RFJustyn-Henry Malloyfrom Toledo Mud Hens.",
-      "player": "Justyn-Henry Malloy"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPKevin Hergetto Gwinnett Stripers.",
-      "player": "Kevin Herget"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned RHPJuan Morilloto Reno Aces.",
-      "player": "Juan Morillo"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresselected the contract of RHPEduarniel Núñezfrom El Paso Chihuahuas.",
-      "player": "Eduarniel Núñez"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned RHPEmerson Hancockto Tacoma Rainiers.",
-      "player": "Emerson Hancock"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled RHPRon Marinacciofrom El Paso Chihuahuas.",
-      "player": "Ron Marinaccio"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPClayton Beeterfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Clayton Beeter"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPCraig Yohofrom Nashville Sounds.",
-      "player": "Craig Yoho"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPMatt Waldronto El Paso Chihuahuas.",
-      "player": "Matt Waldron"
-    },
-    {
-      "date": "2025-07-02",
-      "team": "Houston Astros",
-      "details": "Houston Astrosselected the contract of 3BZack Shortfrom Sugar Land Space Cowboys.",
-      "player": "Zack Short"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled LHPKody Funderburkfrom St. Paul Saints.",
+      "player": "Kody Funderburk"
     },
     {
       "date": "2025-07-02",
@@ -297,9 +273,33 @@
     },
     {
       "date": "2025-07-02",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsrecalled RHPMason Blackfrom Sacramento River Cats.",
-      "player": "Mason Black"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of LHPJoe Jacquesfrom Tacoma Rainiers.",
+      "player": "Joe Jacques"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
+      "player": "Austin Warren"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPMatt Waldronto El Paso Chihuahuas.",
+      "player": "Matt Waldron"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
+      "player": "Seth Johnson"
+    },
+    {
+      "date": "2025-07-02",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled SSTrey Sweeneyfrom Toledo Mud Hens.",
+      "player": "Trey Sweeney"
     }
   ]
 }
