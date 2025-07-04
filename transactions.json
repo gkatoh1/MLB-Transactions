@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-04T19:20:58.622188",
+  "last_updated": "2025-07-04T20:27:41.893156",
   "transactions": [
+    {
+      "date": "2025-07-04",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPJameson Taillonon the 15-day injured list retroactive to July 1, 2025. Right calf strain.",
+      "player": "Jameson Taillon"
+    },
     {
       "date": "2025-07-04",
       "team": "Baltimore Orioles",
@@ -9,15 +15,15 @@
     },
     {
       "date": "2025-07-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent 3BYoán Moncadaon a rehab assignment to ACL Angels.",
-      "player": "Yoán Moncada"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated RHPRyan Feltnerfrom the 60-day injured list.",
+      "player": "Ryan Feltner"
     },
     {
       "date": "2025-07-04",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsplaced RHPTrevor Williamson the 15-day injured list. Right elbow sprain.",
-      "player": "Trevor Williams"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPReese Olsonfrom the 15-day injured list.",
+      "player": "Reese Olson"
     },
     {
       "date": "2025-07-04",
@@ -33,15 +39,15 @@
     },
     {
       "date": "2025-07-04",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced RHPJameson Taillonon the 15-day injured list retroactive to July 1, 2025. Right calf strain.",
-      "player": "Jameson Taillon"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated 3BNoelvi Martefrom the 10-day injured list.",
+      "player": "Noelvi Marte"
     },
     {
       "date": "2025-07-04",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated CKeibert Ruizfrom the 10-day injured list.",
-      "player": "Keibert Ruiz"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystransferred RFAnthony Santanderfrom the 10-day injured list to the 60-day injured list. Left shoulder inflammation.",
+      "player": "Anthony Santander"
     },
     {
       "date": "2025-07-04",
@@ -51,21 +57,15 @@
     },
     {
       "date": "2025-07-04",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RFConnor Joeon a rehab assignment to Louisville Bats.",
-      "player": "Connor Joe"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced RHPTrevor Williamson the 15-day injured list. Right elbow sprain.",
+      "player": "Trevor Williams"
     },
     {
       "date": "2025-07-04",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated 3BNoelvi Martefrom the 10-day injured list.",
-      "player": "Noelvi Marte"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated RHPGraham Ashcraftfrom the 15-day injured list.",
-      "player": "Graham Ashcraft"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated CKeibert Ruizfrom the 10-day injured list.",
+      "player": "Keibert Ruiz"
     },
     {
       "date": "2025-07-04",
@@ -75,9 +75,99 @@
     },
     {
       "date": "2025-07-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPGraham Ashcraftfrom the 15-day injured list.",
+      "player": "Graham Ashcraft"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated CFEvan Carterfrom the bereavement list.",
+      "player": "Evan Carter"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned free agent RHPJoel Kuhnelto a minor league contract.",
+      "player": "Joel Kuhnel"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent 3BYoán Moncadaon a rehab assignment to ACL Angels.",
+      "player": "Yoán Moncada"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RFConnor Joeon a rehab assignment to Louisville Bats.",
+      "player": "Connor Joe"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled LHPJayvien Sandridgefrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jayvien Sandridge"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPSam Benschoterto Louisville Bats.",
+      "player": "Sam Benschoter"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPMick Abelto Lehigh Valley IronPigs.",
+      "player": "Mick Abel"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPJustin Bruihlto Buffalo Bisons.",
+      "player": "Justin Bruihl"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of RHPLazaro Estradafrom Buffalo Bisons.",
+      "player": "Lazaro Estrada"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPRyan Feltnerto Albuquerque Isotopes.",
+      "player": "Ryan Feltner"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPRyan Loutosfrom Rochester Red Wings.",
+      "player": "Ryan Loutos"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent LFSam Hilliardoutright to Albuquerque Isotopes.",
+      "player": "Sam Hilliard"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
+      "player": "Seth Johnson"
+    },
+    {
+      "date": "2025-07-04",
       "team": "New York Yankees",
       "details": "New York Yankeesrecalled RHPScott Effrossfrom Scranton/Wilkes-Barre RailRiders.",
       "player": "Scott Effross"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned LFBilly McKinneyto Round Rock Express.",
+      "player": "Billy McKinney"
     },
     {
       "date": "2025-07-04",
@@ -93,33 +183,21 @@
     },
     {
       "date": "2025-07-04",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned CDrew Millasto Rochester Red Wings.",
-      "player": "Drew Millas"
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPClayton Beeterto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Clayton Beeter"
     },
     {
       "date": "2025-07-04",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPSam Benschoterto Louisville Bats.",
-      "player": "Sam Benschoter"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled SSColson Montgomeryfrom Charlotte Knights.",
+      "player": "Colson Montgomery"
     },
     {
       "date": "2025-07-04",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
-      "player": "Seth Johnson"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPMick Abelto Lehigh Valley IronPigs.",
-      "player": "Mick Abel"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPRyan Loutosfrom Rochester Red Wings.",
-      "player": "Ryan Loutos"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RFJustyn-Henry Malloyto Toledo Mud Hens.",
+      "player": "Justyn-Henry Malloy"
     },
     {
       "date": "2025-07-04",
@@ -129,15 +207,15 @@
     },
     {
       "date": "2025-07-04",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPClayton Beeterto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Clayton Beeter"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPFraser Ellardto Charlotte Knights.",
+      "player": "Fraser Ellard"
     },
     {
       "date": "2025-07-04",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled LHPJayvien Sandridgefrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jayvien Sandridge"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned CDrew Millasto Rochester Red Wings.",
+      "player": "Drew Millas"
     }
   ]
 }
