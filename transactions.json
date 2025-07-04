@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-04T14:25:10.469397",
+  "last_updated": "2025-07-04T15:26:47.068675",
   "transactions": [
+    {
+      "date": "2025-07-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RFConnor Joeon a rehab assignment to Louisville Bats.",
+      "player": "Connor Joe"
+    },
     {
       "date": "2025-07-04",
       "team": "Washington Nationals",
@@ -15,15 +21,15 @@
     },
     {
       "date": "2025-07-04",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsplaced RHPTrevor Williamson the 15-day injured list. Right elbow sprain.",
-      "player": "Trevor Williams"
-    },
-    {
-      "date": "2025-07-04",
       "team": "New York Yankees",
       "details": "New York Yankeesplaced RHPClarke Schmidton the 15-day injured list. Right forearm tightness.",
       "player": "Clarke Schmidt"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced RHPTrevor Williamson the 15-day injured list. Right elbow sprain.",
+      "player": "Trevor Williams"
     },
     {
       "date": "2025-07-04",
@@ -33,33 +39,9 @@
     },
     {
       "date": "2025-07-04",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled LHPJayvien Sandridgefrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jayvien Sandridge"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPClayton Beeterto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Clayton Beeter"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPRyan Loutosfrom Rochester Red Wings.",
-      "player": "Ryan Loutos"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPScott Effrossfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Scott Effross"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
-      "player": "Seth Johnson"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPSam Benschoterto Louisville Bats.",
+      "player": "Sam Benschoter"
     },
     {
       "date": "2025-07-04",
@@ -75,15 +57,39 @@
     },
     {
       "date": "2025-07-04",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPSam Benschoterto Louisville Bats.",
-      "player": "Sam Benschoter"
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPClayton Beeterto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Clayton Beeter"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled LHPJayvien Sandridgefrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jayvien Sandridge"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPScott Effrossfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Scott Effross"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
+      "player": "Seth Johnson"
     },
     {
       "date": "2025-07-04",
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned CDrew Millasto Rochester Red Wings.",
       "player": "Drew Millas"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPRyan Loutosfrom Rochester Red Wings.",
+      "player": "Ryan Loutos"
     }
   ]
 }
