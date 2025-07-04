@@ -1,17 +1,29 @@
 {
-  "last_updated": "2025-07-04T15:26:47.068675",
+  "last_updated": "2025-07-04T16:31:58.475863",
   "transactions": [
     {
       "date": "2025-07-04",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RFConnor Joeon a rehab assignment to Louisville Bats.",
-      "player": "Connor Joe"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPJameson Taillonon the 15-day injured list retroactive to July 1, 2025. Right calf strain.",
+      "player": "Jameson Taillon"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced RHPTrevor Williamson the 15-day injured list. Right elbow sprain.",
+      "player": "Trevor Williams"
     },
     {
       "date": "2025-07-04",
       "team": "Washington Nationals",
       "details": "Washington Nationalsactivated CKeibert Ruizfrom the 10-day injured list.",
       "player": "Keibert Ruiz"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "New York Mets",
+      "details": "New York Metsplaced RHPJosé Buttóon the 15-day injured list retroactive to July 1, 2025. Illness.",
+      "player": "José Buttó"
     },
     {
       "date": "2025-07-04",
@@ -27,9 +39,9 @@
     },
     {
       "date": "2025-07-04",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsplaced RHPTrevor Williamson the 15-day injured list. Right elbow sprain.",
-      "player": "Trevor Williams"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RFConnor Joeon a rehab assignment to Louisville Bats.",
+      "player": "Connor Joe"
     },
     {
       "date": "2025-07-04",
@@ -40,8 +52,8 @@
     {
       "date": "2025-07-04",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPSam Benschoterto Louisville Bats.",
-      "player": "Sam Benschoter"
+      "details": "Cincinnati Redsoptioned RFRyan Viladeto Louisville Bats.",
+      "player": "Ryan Vilade"
     },
     {
       "date": "2025-07-04",
@@ -52,20 +64,8 @@
     {
       "date": "2025-07-04",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RFRyan Viladeto Louisville Bats.",
-      "player": "Ryan Vilade"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPClayton Beeterto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Clayton Beeter"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled LHPJayvien Sandridgefrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jayvien Sandridge"
+      "details": "Cincinnati Redsoptioned RHPSam Benschoterto Louisville Bats.",
+      "player": "Sam Benschoter"
     },
     {
       "date": "2025-07-04",
@@ -75,9 +75,33 @@
     },
     {
       "date": "2025-07-04",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPRyan Loutosfrom Rochester Red Wings.",
+      "player": "Ryan Loutos"
+    },
+    {
+      "date": "2025-07-04",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
       "player": "Seth Johnson"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled LHPJayvien Sandridgefrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jayvien Sandridge"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPChris Devenskifrom Syracuse Mets.",
+      "player": "Chris Devenski"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPJordan Wicksfrom Iowa Cubs.",
+      "player": "Jordan Wicks"
     },
     {
       "date": "2025-07-04",
@@ -87,9 +111,9 @@
     },
     {
       "date": "2025-07-04",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPRyan Loutosfrom Rochester Red Wings.",
-      "player": "Ryan Loutos"
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPClayton Beeterto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Clayton Beeter"
     }
   ]
 }
