@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-07-05T14:24:58.130882",
+  "last_updated": "2025-07-05T15:24:45.715822",
   "transactions": [
     {
       "date": "2025-07-05",
       "team": "New York Mets",
       "details": "New York Metssent RHPKodai Sengaon a rehab assignment to Binghamton Rumble Ponies.",
       "player": "Kodai Senga"
+    },
+    {
+      "date": "2025-07-05",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned LHPKody Funderburkto St. Paul Saints.",
+      "player": "Kody Funderburk"
+    },
+    {
+      "date": "2025-07-05",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPTravis Adamsfrom St. Paul Saints.",
+      "player": "Travis Adams"
     }
   ]
 }
