@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-07-05T18:32:59.986352",
+  "last_updated": "2025-07-05T19:19:43.611909",
   "transactions": [
-    {
-      "date": "2025-07-05",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced RHPYimi Garcíaon the 15-day injured list. Left ankle sprain.",
-      "player": "Yimi García"
-    },
-    {
-      "date": "2025-07-05",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated RHPTyler Zuberfor assignment.",
-      "player": "Tyler Zuber"
-    },
     {
       "date": "2025-07-05",
       "team": "New York Mets",
@@ -24,6 +12,18 @@
       "team": "Washington Nationals",
       "details": "Washington Nationalsactivated RHPMason Thompsonfrom the 60-day injured list.",
       "player": "Mason Thompson"
+    },
+    {
+      "date": "2025-07-05",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated RHPPaul Sewaldfrom the 15-day injured list.",
+      "player": "Paul Sewald"
+    },
+    {
+      "date": "2025-07-05",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPTyler Zuberfor assignment.",
+      "player": "Tyler Zuber"
     },
     {
       "date": "2025-07-05",
@@ -45,6 +45,12 @@
     },
     {
       "date": "2025-07-05",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RHPYimi Garcíaon the 15-day injured list. Left ankle sprain.",
+      "player": "Yimi García"
+    },
+    {
+      "date": "2025-07-05",
       "team": "New York Mets",
       "details": "New York Metsactivated RHPZach Pop.",
       "player": "Zach Pop"
@@ -54,6 +60,12 @@
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksoptioned 2BTim Tawato Reno Aces.",
       "player": "Tim Tawa"
+    },
+    {
+      "date": "2025-07-05",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned LHPDoug Nikhazyto Columbus Clippers.",
+      "player": "Doug Nikhazy"
     },
     {
       "date": "2025-07-05",
@@ -75,15 +87,15 @@
     },
     {
       "date": "2025-07-05",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned LHPKody Funderburkto St. Paul Saints.",
-      "player": "Kody Funderburk"
-    },
-    {
-      "date": "2025-07-05",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysrecalled RHPRobinson Piñafrom Buffalo Bisons.",
       "player": "Robinson Piña"
+    },
+    {
+      "date": "2025-07-05",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned LHPKody Funderburkto St. Paul Saints.",
+      "player": "Kody Funderburk"
     }
   ]
 }
