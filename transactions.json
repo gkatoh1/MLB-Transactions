@@ -1,23 +1,11 @@
 {
-  "last_updated": "2025-07-05T17:22:44.030254",
+  "last_updated": "2025-07-05T18:32:59.986352",
   "transactions": [
     {
       "date": "2025-07-05",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated RHPMason Thompsonfrom the 60-day injured list.",
-      "player": "Mason Thompson"
-    },
-    {
-      "date": "2025-07-05",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsplaced RHPDerek Lawon the 60-day injured list. Right forearm Inflammation.",
-      "player": "Derek Law"
-    },
-    {
-      "date": "2025-07-05",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPKodai Sengaon a rehab assignment to Binghamton Rumble Ponies.",
-      "player": "Kodai Senga"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RHPYimi Garcíaon the 15-day injured list. Left ankle sprain.",
+      "player": "Yimi García"
     },
     {
       "date": "2025-07-05",
@@ -28,8 +16,14 @@
     {
       "date": "2025-07-05",
       "team": "New York Mets",
-      "details": "New York Metsactivated RHPZach Pop.",
-      "player": "Zach Pop"
+      "details": "New York Metssent RHPKodai Sengaon a rehab assignment to Binghamton Rumble Ponies.",
+      "player": "Kodai Senga"
+    },
+    {
+      "date": "2025-07-05",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated RHPMason Thompsonfrom the 60-day injured list.",
+      "player": "Mason Thompson"
     },
     {
       "date": "2025-07-05",
@@ -45,21 +39,27 @@
     },
     {
       "date": "2025-07-05",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
-      "player": "Austin Warren"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced RHPDerek Lawon the 60-day injured list. Right forearm Inflammation.",
+      "player": "Derek Law"
     },
     {
       "date": "2025-07-05",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned LHPKody Funderburkto St. Paul Saints.",
-      "player": "Kody Funderburk"
+      "team": "New York Mets",
+      "details": "New York Metsactivated RHPZach Pop.",
+      "player": "Zach Pop"
     },
     {
       "date": "2025-07-05",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksoptioned 2BTim Tawato Reno Aces.",
       "player": "Tim Tawa"
+    },
+    {
+      "date": "2025-07-05",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
+      "player": "Austin Warren"
     },
     {
       "date": "2025-07-05",
@@ -72,6 +72,18 @@
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned RHPZach Brzykcyto Rochester Red Wings.",
       "player": "Zach Brzykcy"
+    },
+    {
+      "date": "2025-07-05",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned LHPKody Funderburkto St. Paul Saints.",
+      "player": "Kody Funderburk"
+    },
+    {
+      "date": "2025-07-05",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPRobinson Piñafrom Buffalo Bisons.",
+      "player": "Robinson Piña"
     }
   ]
 }
