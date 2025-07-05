@@ -1,66 +1,6 @@
 {
-  "last_updated": "2025-07-04T23:24:06.021319",
+  "last_updated": "2025-07-05T02:03:58.633327",
   "transactions": [
-    {
-      "date": "2025-07-04",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated 3BVinny Caprafor assignment.",
-      "player": "Vinny Capra"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersdesignated LFBilly McKinneyfor assignment.",
-      "player": "Billy McKinney"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent RHPTanner Houckon a rehab assignment to Portland Sea Dogs.",
-      "player": "Tanner Houck"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated LHPFraser Ellardfrom the 60-day injured list.",
-      "player": "Fraser Ellard"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent LFChas McCormickon a rehab assignment to Sugar Land Space Cowboys.",
-      "player": "Chas McCormick"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced RHPJameson Taillonon the 15-day injured list retroactive to July 1, 2025. Right calf strain.",
-      "player": "Jameson Taillon"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssigned free agent LFSeth Brownto a minor league contract.",
-      "player": "Seth Brown"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsplaced RHPTrevor Williamson the 15-day injured list. Right elbow sprain.",
-      "player": "Trevor Williams"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Athletics",
-      "details": "Athleticsplaced 2BLuis Uríason the 10-day injured list retroactive to July 3, 2025. Right hamstring strain.",
-      "player": "Luis Urías"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent LFMasataka Yoshidaon a rehab assignment to Portland Sea Dogs.",
-      "player": "Masataka Yoshida"
-    },
     {
       "date": "2025-07-04",
       "team": "Washington Nationals",
@@ -69,9 +9,15 @@
     },
     {
       "date": "2025-07-04",
-      "team": "Philadelphia Phillies",
-      "details": "RHPAdonis Medinaassigned toPhiladelphia Phillies.",
-      "player": "Adonis Medina"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersreleased RHPLuis García.",
+      "player": "Luis García"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPReese Olsonfrom the 15-day injured list.",
+      "player": "Reese Olson"
     },
     {
       "date": "2025-07-04",
@@ -82,14 +28,8 @@
     {
       "date": "2025-07-04",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated RHPGraham Ashcraftfrom the 15-day injured list.",
-      "player": "Graham Ashcraft"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "New York Mets",
-      "details": "New York Metssent LHPBrooks Raleyon a rehab assignment to Syracuse Mets.",
-      "player": "Brooks Raley"
+      "details": "Cincinnati Redsactivated 3BNoelvi Martefrom the 10-day injured list.",
+      "player": "Noelvi Marte"
     },
     {
       "date": "2025-07-04",
@@ -99,33 +39,15 @@
     },
     {
       "date": "2025-07-04",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated CFEvan Carterfrom the bereavement list.",
-      "player": "Evan Carter"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated 3BNoelvi Martefrom the 10-day injured list.",
-      "player": "Noelvi Marte"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersreleased RHPLuis García.",
-      "player": "Luis García"
-    },
-    {
-      "date": "2025-07-04",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaystransferred RFAnthony Santanderfrom the 10-day injured list to the 60-day injured list. Left shoulder inflammation.",
       "player": "Anthony Santander"
     },
     {
       "date": "2025-07-04",
-      "team": "Athletics",
-      "details": "Athleticsactivated 2BZack Geloffrom the 60-day injured list.",
-      "player": "Zack Gelof"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent 3BMatt Chapmanon a rehab assignment to Sacramento River Cats.",
+      "player": "Matt Chapman"
     },
     {
       "date": "2025-07-04",
@@ -147,6 +69,54 @@
     },
     {
       "date": "2025-07-04",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced RHPTrevor Williamson the 15-day injured list. Right elbow sprain.",
+      "player": "Trevor Williams"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Athletics",
+      "details": "Athleticsplaced 2BLuis Uríason the 10-day injured list retroactive to July 3, 2025. Right hamstring strain.",
+      "player": "Luis Urías"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated LHPFraser Ellardfrom the 60-day injured list.",
+      "player": "Fraser Ellard"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "New York Mets",
+      "details": "New York Metssent LHPBrooks Raleyon a rehab assignment to Syracuse Mets.",
+      "player": "Brooks Raley"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned free agent LFSeth Brownto a minor league contract.",
+      "player": "Seth Brown"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent LFChas McCormickon a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Chas McCormick"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersdesignated LFBilly McKinneyfor assignment.",
+      "player": "Billy McKinney"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated RHPRyan Feltnerfrom the 60-day injured list.",
+      "player": "Ryan Feltner"
+    },
+    {
+      "date": "2025-07-04",
       "team": "New York Yankees",
       "details": "New York Yankeesplaced RHPClarke Schmidton the 15-day injured list. Right forearm tightness.",
       "player": "Clarke Schmidt"
@@ -159,9 +129,15 @@
     },
     {
       "date": "2025-07-04",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated RHPReese Olsonfrom the 15-day injured list.",
-      "player": "Reese Olson"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated 3BVinny Caprafor assignment.",
+      "player": "Vinny Capra"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent LFMasataka Yoshidaon a rehab assignment to Portland Sea Dogs.",
+      "player": "Masataka Yoshida"
     },
     {
       "date": "2025-07-04",
@@ -171,33 +147,45 @@
     },
     {
       "date": "2025-07-04",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesactivated RHPRyan Feltnerfrom the 60-day injured list.",
-      "player": "Ryan Feltner"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RFRyan Viladeto Louisville Bats.",
-      "player": "Ryan Vilade"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPChris Devenskifrom Syracuse Mets.",
-      "player": "Chris Devenski"
+      "team": "Philadelphia Phillies",
+      "details": "RHPAdonis Medinaassigned toPhiladelphia Phillies.",
+      "player": "Adonis Medina"
     },
     {
       "date": "2025-07-04",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled LHPJordan Wicksfrom Iowa Cubs.",
-      "player": "Jordan Wicks"
+      "details": "Chicago Cubsplaced RHPJameson Taillonon the 15-day injured list retroactive to July 1, 2025. Right calf strain.",
+      "player": "Jameson Taillon"
     },
     {
       "date": "2025-07-04",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of RHPLazaro Estradafrom Buffalo Bisons.",
-      "player": "Lazaro Estrada"
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated RHPJordan Weemsfor assignment.",
+      "player": "Jordan Weems"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPGraham Ashcraftfrom the 15-day injured list.",
+      "player": "Graham Ashcraft"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPTanner Houckon a rehab assignment to Portland Sea Dogs.",
+      "player": "Tanner Houck"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Athletics",
+      "details": "Athleticsactivated 2BZack Geloffrom the 60-day injured list.",
+      "player": "Zack Gelof"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated CFEvan Carterfrom the bereavement list.",
+      "player": "Evan Carter"
     },
     {
       "date": "2025-07-04",
@@ -207,9 +195,27 @@
     },
     {
       "date": "2025-07-04",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPScott Effrossfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Scott Effross"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RFRyan Viladeto Louisville Bats.",
+      "player": "Ryan Vilade"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPJason Alexanderfrom Sugar Land Space Cowboys.",
+      "player": "Jason Alexander"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent 3BEmmanuel Riveraoutright to Norfolk Tides.",
+      "player": "Emmanuel Rivera"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPChris Devenskifrom Syracuse Mets.",
+      "player": "Chris Devenski"
     },
     {
       "date": "2025-07-04",
@@ -219,9 +225,9 @@
     },
     {
       "date": "2025-07-04",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent 3BEmmanuel Riveraoutright to Norfolk Tides.",
-      "player": "Emmanuel Rivera"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPFraser Ellardto Charlotte Knights.",
+      "player": "Fraser Ellard"
     },
     {
       "date": "2025-07-04",
@@ -237,51 +243,9 @@
     },
     {
       "date": "2025-07-04",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPClayton Beeterto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Clayton Beeter"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled LHPJayvien Sandridgefrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jayvien Sandridge"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LHPJustin Bruihlto Buffalo Bisons.",
-      "player": "Justin Bruihl"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPMick Abelto Lehigh Valley IronPigs.",
-      "player": "Mick Abel"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPRyan Loutosfrom Rochester Red Wings.",
-      "player": "Ryan Loutos"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned LHPFraser Ellardto Charlotte Knights.",
-      "player": "Fraser Ellard"
-    },
-    {
-      "date": "2025-07-04",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
       "player": "Seth Johnson"
-    },
-    {
-      "date": "2025-07-04",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned CDrew Millasto Rochester Red Wings.",
-      "player": "Drew Millas"
     },
     {
       "date": "2025-07-04",
@@ -297,9 +261,45 @@
     },
     {
       "date": "2025-07-04",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of RHPLazaro Estradafrom Buffalo Bisons.",
+      "player": "Lazaro Estrada"
+    },
+    {
+      "date": "2025-07-04",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersoptioned RFJustyn-Henry Malloyto Toledo Mud Hens.",
       "player": "Justyn-Henry Malloy"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPScott Effrossfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Scott Effross"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsselected the contract of CLuke Mailefrom Omaha Storm Chasers.",
+      "player": "Luke Maile"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPJordan Wicksfrom Iowa Cubs.",
+      "player": "Jordan Wicks"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned CDrew Millasto Rochester Red Wings.",
+      "player": "Drew Millas"
+    },
+    {
+      "date": "2025-07-04",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPClayton Beeterto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Clayton Beeter"
     }
   ]
 }
