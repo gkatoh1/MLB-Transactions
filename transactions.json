@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-07-06T15:24:58.611520",
+  "last_updated": "2025-07-06T16:30:20.860142",
   "transactions": [
+    {
+      "date": "2025-07-06",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned free agent RHPGeoff Hartlieb.",
+      "player": "Geoff Hartlieb"
+    },
     {
       "date": "2025-07-06",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansplaced CFLane Thomason the 10-day injured list retroactive to July 5, 2025. Right plantar fasciitis.",
       "player": "Lane Thomas"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced CFGarrett Mitchellon the 60-day injured list. Left oblique strain.",
-      "player": "Garrett Mitchell"
     },
     {
       "date": "2025-07-06",
@@ -27,6 +27,24 @@
     },
     {
       "date": "2025-07-06",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestransferred RHPSpencer Schwellenbachfrom the 15-day injured list to the 60-day injured list. Fractured right elbow.",
+      "player": "Spencer Schwellenbach"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned free agent RHPYohan Ramírezto a minor league contract.",
+      "player": "Yohan Ramírez"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced CFGarrett Mitchellon the 60-day injured list. Left oblique strain.",
+      "player": "Garrett Mitchell"
+    },
+    {
+      "date": "2025-07-06",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysdesignated LFWill Robertsonfor assignment.",
       "player": "Will Robertson"
@@ -39,15 +57,57 @@
     },
     {
       "date": "2025-07-06",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravestransferred RHPSpencer Schwellenbachfrom the 15-day injured list to the 60-day injured list. Fractured right elbow.",
-      "player": "Spencer Schwellenbach"
+      "team": "New York Yankees",
+      "details": "New York Yankeestraded CAlex JacksontoBaltimore Oriolesfor Player To Be Named Later and cash.",
+      "player": "Alex Jackson"
     },
     {
       "date": "2025-07-06",
       "team": "New York Yankees",
-      "details": "New York Yankeessigned free agent RHPGeoff Hartlieb.",
-      "player": "Geoff Hartlieb"
+      "details": "New York Yankeesoptioned LHPJayvien Sandridgeto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jayvien Sandridge"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPJesse Chavezfrom Gwinnett Stripers.",
+      "player": "Jesse Chavez"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of CAlex Jacksonfrom Norfolk Tides.",
+      "player": "Alex Jackson"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPJoe Boylefrom Durham Bulls.",
+      "player": "Joe Boyle"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LFJoey Loperfidofrom Buffalo Bisons.",
+      "player": "Joey Loperfido"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPRyan Loutosto Rochester Red Wings.",
+      "player": "Ryan Loutos"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPLazaro Estradato Buffalo Bisons.",
+      "player": "Lazaro Estrada"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned LHPJoe Rockto Durham Bulls.",
+      "player": "Joe Rock"
     },
     {
       "date": "2025-07-06",
@@ -63,57 +123,15 @@
     },
     {
       "date": "2025-07-06",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPRyan Loutosto Rochester Red Wings.",
-      "player": "Ryan Loutos"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled 3BWill Wilsonfrom Columbus Clippers.",
-      "player": "Will Wilson"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPJesse Chavezfrom Gwinnett Stripers.",
-      "player": "Jesse Chavez"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned LHPJayvien Sandridgeto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jayvien Sandridge"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPLazaro Estradato Buffalo Bisons.",
-      "player": "Lazaro Estrada"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled LFJoey Loperfidofrom Buffalo Bisons.",
-      "player": "Joey Loperfido"
-    },
-    {
-      "date": "2025-07-06",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersoptioned RHPChad Patrickto Nashville Sounds.",
       "player": "Chad Patrick"
     },
     {
       "date": "2025-07-06",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of CAlex Jacksonfrom Norfolk Tides.",
-      "player": "Alex Jackson"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "New York Yankees",
-      "details": "New York Yankeestraded CAlex JacksontoBaltimore Oriolesfor Player To Be Named Later and cash.",
-      "player": "Alex Jackson"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled 3BWill Wilsonfrom Columbus Clippers.",
+      "player": "Will Wilson"
     }
   ]
 }
