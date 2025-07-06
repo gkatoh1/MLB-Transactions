@@ -1,4 +1,23 @@
 {
-  "last_updated": "2025-07-06T11:21:14.984276",
-  "transactions": []
+  "last_updated": "2025-07-06T12:50:42.154255",
+  "transactions": [
+    {
+      "date": "2025-07-06",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestransferred RHPSpencer Schwellenbachfrom the 15-day injured list to the 60-day injured list. Fractured right elbow.",
+      "player": "Spencer Schwellenbach"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned LHPDylan Doddto Gwinnett Stripers.",
+      "player": "Dylan Dodd"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPJesse Chavezfrom Gwinnett Stripers.",
+      "player": "Jesse Chavez"
+    }
+  ]
 }
