@@ -1,17 +1,41 @@
 {
-  "last_updated": "2025-07-06T17:22:18.590719",
+  "last_updated": "2025-07-06T18:33:53.226627",
   "transactions": [
     {
       "date": "2025-07-06",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysdesignated LFWill Robertsonfor assignment.",
-      "player": "Will Robertson"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced CFLane Thomason the 10-day injured list retroactive to July 5, 2025. Right plantar fasciitis.",
+      "player": "Lane Thomas"
     },
     {
       "date": "2025-07-06",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysplaced 2BAndrés Giménezon the 10-day injured list retroactive to July 5, 2025. Left ankle sprain.",
       "player": "Andrés Giménez"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent CRob Brantlyon a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Rob Brantly"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced LHPDaniel Lynch IVon the 15-day injured list. Left elbow nerve irritation.",
+      "player": "Daniel Lynch IV"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced CFGarrett Mitchellon the 60-day injured list. Left oblique strain.",
+      "player": "Garrett Mitchell"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced RHPRyan Thompsonon the 15-day injured list retroactive to July 5, 2025. Right scapular strain.",
+      "player": "Ryan Thompson"
     },
     {
       "date": "2025-07-06",
@@ -39,81 +63,21 @@
     },
     {
       "date": "2025-07-06",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansplaced CFLane Thomason the 10-day injured list retroactive to July 5, 2025. Right plantar fasciitis.",
-      "player": "Lane Thomas"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced CFGarrett Mitchellon the 60-day injured list. Left oblique strain.",
-      "player": "Garrett Mitchell"
-    },
-    {
-      "date": "2025-07-06",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysactivated RHPRyan Burrfrom the 60-day injured list.",
       "player": "Ryan Burr"
     },
     {
       "date": "2025-07-06",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPJoe Boylefrom Durham Bulls.",
-      "player": "Joe Boyle"
-    },
-    {
-      "date": "2025-07-06",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled LFJoey Loperfidofrom Buffalo Bisons.",
-      "player": "Joey Loperfido"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled 3BWill Wilsonfrom Columbus Clippers.",
-      "player": "Will Wilson"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned LHPJayvien Sandridgeto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jayvien Sandridge"
+      "details": "Toronto Blue Jaysdesignated LFWill Robertsonfor assignment.",
+      "player": "Will Robertson"
     },
     {
       "date": "2025-07-06",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysoptioned RHPLazaro Estradato Buffalo Bisons.",
       "player": "Lazaro Estrada"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of CAlex Jacksonfrom Norfolk Tides.",
-      "player": "Alex Jackson"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "New York Yankees",
-      "details": "New York Yankeestraded CAlex JacksontoBaltimore Oriolesfor Player To Be Named Later and cash.",
-      "player": "Alex Jackson"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned LHPDylan Doddto Gwinnett Stripers.",
-      "player": "Dylan Dodd"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPJesse Chavezfrom Gwinnett Stripers.",
-      "player": "Jesse Chavez"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled LHPShinnosuke Ogasawarafrom Rochester Red Wings.",
-      "player": "Shinnosuke Ogasawara"
     },
     {
       "date": "2025-07-06",
@@ -132,6 +96,84 @@
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysoptioned LHPJoe Rockto Durham Bulls.",
       "player": "Joe Rock"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPBryce Jarvisfrom Reno Aces.",
+      "player": "Bryce Jarvis"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of CAlex Jacksonfrom Norfolk Tides.",
+      "player": "Alex Jackson"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "New York Yankees",
+      "details": "New York Yankeestraded CAlex JacksontoBaltimore Oriolesfor Player To Be Named Later and cash.",
+      "player": "Alex Jackson"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPJesse Chavezfrom Gwinnett Stripers.",
+      "player": "Jesse Chavez"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned LHPDylan Doddto Gwinnett Stripers.",
+      "player": "Dylan Dodd"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
+      "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled LHPShinnosuke Ogasawarafrom Rochester Red Wings.",
+      "player": "Shinnosuke Ogasawara"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LFJoey Loperfidofrom Buffalo Bisons.",
+      "player": "Joey Loperfido"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPJack Littleto Oklahoma City Comets.",
+      "player": "Jack Little"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPEmmet Sheehanfrom Oklahoma City Comets.",
+      "player": "Emmet Sheehan"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPJoe Boylefrom Durham Bulls.",
+      "player": "Joe Boyle"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled 3BWill Wilsonfrom Columbus Clippers.",
+      "player": "Will Wilson"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned LHPJayvien Sandridgeto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jayvien Sandridge"
     }
   ]
 }
