@@ -1,35 +1,23 @@
 {
-  "last_updated": "2025-07-06T22:25:30.123059",
+  "last_updated": "2025-07-06T23:24:14.681015",
   "transactions": [
     {
       "date": "2025-07-06",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressent RHPRyan Bergerton a rehab assignment to El Paso Chihuahuas.",
-      "player": "Ryan Bergert"
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned free agent RHPGeoff Hartlieb.",
+      "player": "Geoff Hartlieb"
     },
     {
       "date": "2025-07-06",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated RHPBrandon Woodrufffrom the 60-day injured list.",
-      "player": "Brandon Woodruff"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced LHPDaniel Lynch IVon the 15-day injured list. Left elbow nerve irritation.",
+      "player": "Daniel Lynch IV"
     },
     {
       "date": "2025-07-06",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravestransferred RHPSpencer Schwellenbachfrom the 15-day injured list to the 60-day injured list. Fractured right elbow.",
-      "player": "Spencer Schwellenbach"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent CRob Brantlyon a rehab assignment to Jacksonville Jumbo Shrimp.",
-      "player": "Rob Brantly"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated RHPRyan Burrfrom the 60-day injured list.",
-      "player": "Ryan Burr"
+      "team": "New York Mets",
+      "details": "New York Metssigned LHPColin Poche.",
+      "player": "Colin Poche"
     },
     {
       "date": "2025-07-06",
@@ -40,14 +28,44 @@
     {
       "date": "2025-07-06",
       "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RHPRyan Burrfrom the 60-day injured list.",
+      "player": "Ryan Burr"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced CFLane Thomason the 10-day injured list retroactive to July 5, 2025. Right plantar fasciitis.",
+      "player": "Lane Thomas"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysplaced 2BAndrés Giménezon the 10-day injured list retroactive to July 5, 2025. Left ankle sprain.",
       "player": "Andrés Giménez"
     },
     {
       "date": "2025-07-06",
-      "team": "New York Mets",
-      "details": "New York Metssigned LHPColin Poche.",
-      "player": "Colin Poche"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced CFGarrett Mitchellon the 60-day injured list. Left oblique strain.",
+      "player": "Garrett Mitchell"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent RHPRyan Bergerton a rehab assignment to El Paso Chihuahuas.",
+      "player": "Ryan Bergert"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced RHPRyan Thompsonon the 15-day injured list retroactive to July 5, 2025. Right scapular strain.",
+      "player": "Ryan Thompson"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestransferred RHPSpencer Schwellenbachfrom the 15-day injured list to the 60-day injured list. Fractured right elbow.",
+      "player": "Spencer Schwellenbach"
     },
     {
       "date": "2025-07-06",
@@ -58,38 +76,44 @@
     {
       "date": "2025-07-06",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced CFGarrett Mitchellon the 60-day injured list. Left oblique strain.",
-      "player": "Garrett Mitchell"
+      "details": "Milwaukee Brewersactivated RHPBrandon Woodrufffrom the 60-day injured list.",
+      "player": "Brandon Woodruff"
     },
     {
       "date": "2025-07-06",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced LHPDaniel Lynch IVon the 15-day injured list. Left elbow nerve irritation.",
-      "player": "Daniel Lynch IV"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansplaced CFLane Thomason the 10-day injured list retroactive to July 5, 2025. Right plantar fasciitis.",
-      "player": "Lane Thomas"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "New York Yankees",
-      "details": "New York Yankeessigned free agent RHPGeoff Hartlieb.",
-      "player": "Geoff Hartlieb"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent CRob Brantlyon a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Rob Brantly"
     },
     {
       "date": "2025-07-06",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksplaced RHPRyan Thompsonon the 15-day injured list retroactive to July 5, 2025. Right scapular strain.",
-      "player": "Ryan Thompson"
+      "details": "Arizona Diamondbackssent LHPKyle Nelsonoutright to Reno Aces.",
+      "player": "Kyle Nelson"
     },
     {
       "date": "2025-07-06",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssent LFBilly McKinneyoutright to Round Rock Express.",
-      "player": "Billy McKinney"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPJoe Boylefrom Durham Bulls.",
+      "player": "Joe Boyle"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned LHPJoe Rockto Durham Bulls.",
+      "player": "Joe Rock"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPLazaro Estradato Buffalo Bisons.",
+      "player": "Lazaro Estrada"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPStephen Kolekto El Paso Chihuahuas.",
+      "player": "Stephen Kolek"
     },
     {
       "date": "2025-07-06",
@@ -129,9 +153,27 @@
     },
     {
       "date": "2025-07-06",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LFJoey Loperfidofrom Buffalo Bisons.",
+      "player": "Joey Loperfido"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersselected the contract of LHPPJ Poulinfrom Toledo Mud Hens.",
+      "player": "PJ Poulin"
+    },
+    {
+      "date": "2025-07-06",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersoptioned RHPChad Patrickto Nashville Sounds.",
       "player": "Chad Patrick"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPRyan Loutosto Rochester Red Wings.",
+      "player": "Ryan Loutos"
     },
     {
       "date": "2025-07-06",
@@ -147,15 +189,9 @@
     },
     {
       "date": "2025-07-06",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent LHPKyle Nelsonoutright to Reno Aces.",
-      "player": "Kyle Nelson"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPStephen Kolekto El Paso Chihuahuas.",
-      "player": "Stephen Kolek"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of CAlex Jacksonfrom Norfolk Tides.",
+      "player": "Alex Jackson"
     },
     {
       "date": "2025-07-06",
@@ -183,27 +219,9 @@
     },
     {
       "date": "2025-07-06",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPJoe Boylefrom Durham Bulls.",
-      "player": "Joe Boyle"
-    },
-    {
-      "date": "2025-07-06",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersrecalled LHPSean Guentherfrom Toledo Mud Hens.",
       "player": "Sean Guenther"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled LFJoey Loperfidofrom Buffalo Bisons.",
-      "player": "Joey Loperfido"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPRyan Loutosto Rochester Red Wings.",
-      "player": "Ryan Loutos"
     },
     {
       "date": "2025-07-06",
@@ -213,27 +231,9 @@
     },
     {
       "date": "2025-07-06",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of CAlex Jacksonfrom Norfolk Tides.",
-      "player": "Alex Jackson"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPLazaro Estradato Buffalo Bisons.",
-      "player": "Lazaro Estrada"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersselected the contract of LHPPJ Poulinfrom Toledo Mud Hens.",
-      "player": "PJ Poulin"
-    },
-    {
-      "date": "2025-07-06",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned LHPJoe Rockto Durham Bulls.",
-      "player": "Joe Rock"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent LFBilly McKinneyoutright to Round Rock Express.",
+      "player": "Billy McKinney"
     }
   ]
 }
