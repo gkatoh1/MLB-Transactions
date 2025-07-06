@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-07-06T13:32:38.851576",
+  "last_updated": "2025-07-06T14:22:55.265180",
   "transactions": [
     {
       "date": "2025-07-06",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravestransferred RHPSpencer Schwellenbachfrom the 15-day injured list to the 60-day injured list. Fractured right elbow.",
       "player": "Spencer Schwellenbach"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "New York Yankees",
+      "details": "New York Yankeestraded CAlex JacksontoBaltimore Oriolesfor Player To Be Named Later and cash.",
+      "player": "Alex Jackson"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled LHPShinnosuke Ogasawarafrom Rochester Red Wings.",
+      "player": "Shinnosuke Ogasawara"
     },
     {
       "date": "2025-07-06",
@@ -18,6 +30,12 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesselected the contract of RHPJesse Chavezfrom Gwinnett Stripers.",
       "player": "Jesse Chavez"
+    },
+    {
+      "date": "2025-07-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPRyan Loutosto Rochester Red Wings.",
+      "player": "Ryan Loutos"
     }
   ]
 }
