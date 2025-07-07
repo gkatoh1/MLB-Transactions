@@ -1,6 +1,24 @@
 {
-  "last_updated": "2025-07-07T19:21:43.260851",
+  "last_updated": "2025-07-07T20:29:30.060516",
   "transactions": [
+    {
+      "date": "2025-07-07",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced 1BRyan Nodaon the 10-day injured list. Right quad strain.",
+      "player": "Ryan Noda"
+    },
+    {
+      "date": "2025-07-07",
+      "team": "Unknown Team",
+      "details": "RHPJordan Weemselected free agency.",
+      "player": "Jordan Weems"
+    },
+    {
+      "date": "2025-07-07",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced 1BRhys Hoskinson the 10-day injured list. Sprained left thumb.",
+      "player": "Rhys Hoskins"
+    },
     {
       "date": "2025-07-07",
       "team": "Philadelphia Phillies",
@@ -10,8 +28,8 @@
     {
       "date": "2025-07-07",
       "team": "Houston Astros",
-      "details": "Houston Astrossent RHPLuis Garciaon a rehab assignment to FCL Astros.",
-      "player": "Luis Garcia"
+      "details": "Houston Astrosplaced 1BChristian Walkeron the paternity list.",
+      "player": "Christian Walker"
     },
     {
       "date": "2025-07-07",
@@ -21,21 +39,21 @@
     },
     {
       "date": "2025-07-07",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled RHPKeider Monterofrom Toledo Mud Hens.",
-      "player": "Keider Montero"
-    },
-    {
-      "date": "2025-07-07",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPBradley Blalockfrom Albuquerque Isotopes.",
-      "player": "Bradley Blalock"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPLuis Garciaon a rehab assignment to FCL Astros.",
+      "player": "Luis Garcia"
     },
     {
       "date": "2025-07-07",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysoptioned LHPMason Montgomeryto Durham Bulls.",
       "player": "Mason Montgomery"
+    },
+    {
+      "date": "2025-07-07",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled 1BAndrew Vaughnfrom Nashville Sounds.",
+      "player": "Andrew Vaughn"
     },
     {
       "date": "2025-07-07",
@@ -54,6 +72,30 @@
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned RFRece Hindsto Louisville Bats.",
       "player": "Rece Hinds"
+    },
+    {
+      "date": "2025-07-07",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled CFKenedy Coronafrom Sugar Land Space Cowboys.",
+      "player": "Kenedy Corona"
+    },
+    {
+      "date": "2025-07-07",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled 3BTristan Grayfrom Charlotte Knights.",
+      "player": "Tristan Gray"
+    },
+    {
+      "date": "2025-07-07",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPKeider Monterofrom Toledo Mud Hens.",
+      "player": "Keider Montero"
+    },
+    {
+      "date": "2025-07-07",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPBradley Blalockfrom Albuquerque Isotopes.",
+      "player": "Bradley Blalock"
     }
   ]
 }
