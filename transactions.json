@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-07T17:24:04.819926",
+  "last_updated": "2025-07-07T18:37:12.161984",
   "transactions": [
+    {
+      "date": "2025-07-07",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPLuis Garciaon a rehab assignment to FCL Astros.",
+      "player": "Luis Garcia"
+    },
     {
       "date": "2025-07-07",
       "team": "Philadelphia Phillies",
@@ -9,9 +15,15 @@
     },
     {
       "date": "2025-07-07",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RHPLuis Garciaon a rehab assignment to FCL Astros.",
-      "player": "Luis Garcia"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPChase Dollanderto Albuquerque Isotopes.",
+      "player": "Chase Dollander"
+    },
+    {
+      "date": "2025-07-07",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPBradley Blalockfrom Albuquerque Isotopes.",
+      "player": "Bradley Blalock"
     }
   ]
 }
