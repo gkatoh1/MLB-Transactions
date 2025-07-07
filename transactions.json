@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-07-07T14:26:51.481579",
+  "last_updated": "2025-07-07T15:27:24.477557",
   "transactions": [
-    {
-      "date": "2025-07-07",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RHPLuis Garciaon a rehab assignment to FCL Astros.",
-      "player": "Luis Garcia"
-    },
     {
       "date": "2025-07-07",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliessigned free agent RHPMarkos  Sanchezto a minor league contract.",
       "player": "Markos  Sanchez"
+    },
+    {
+      "date": "2025-07-07",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPLuis Garciaon a rehab assignment to FCL Astros.",
+      "player": "Luis Garcia"
     }
   ]
 }
