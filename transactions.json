@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-07T18:37:12.161984",
+  "last_updated": "2025-07-07T19:21:43.260851",
   "transactions": [
+    {
+      "date": "2025-07-07",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent RHPMarkos  Sanchezto a minor league contract.",
+      "player": "Markos  Sanchez"
+    },
     {
       "date": "2025-07-07",
       "team": "Houston Astros",
@@ -9,9 +15,27 @@
     },
     {
       "date": "2025-07-07",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent RHPMarkos  Sanchezto a minor league contract.",
-      "player": "Markos  Sanchez"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RFConnor Joefrom the 10-day injured list.",
+      "player": "Connor Joe"
+    },
+    {
+      "date": "2025-07-07",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPKeider Monterofrom Toledo Mud Hens.",
+      "player": "Keider Montero"
+    },
+    {
+      "date": "2025-07-07",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPBradley Blalockfrom Albuquerque Isotopes.",
+      "player": "Bradley Blalock"
+    },
+    {
+      "date": "2025-07-07",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned LHPMason Montgomeryto Durham Bulls.",
+      "player": "Mason Montgomery"
     },
     {
       "date": "2025-07-07",
@@ -21,9 +45,15 @@
     },
     {
       "date": "2025-07-07",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPBradley Blalockfrom Albuquerque Isotopes.",
-      "player": "Bradley Blalock"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPMason Englertfrom Durham Bulls.",
+      "player": "Mason Englert"
+    },
+    {
+      "date": "2025-07-07",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RFRece Hindsto Louisville Bats.",
+      "player": "Rece Hinds"
     }
   ]
 }
