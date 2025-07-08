@@ -1,11 +1,41 @@
 {
-  "last_updated": "2025-07-08T19:20:55.889471",
+  "last_updated": "2025-07-08T20:29:17.481363",
   "transactions": [
     {
       "date": "2025-07-08",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent LHPDevin Smeltzerto a minor league contract.",
+      "player": "Devin Smeltzer"
+    },
+    {
+      "date": "2025-07-08",
       "team": "New York Mets",
-      "details": "New York Metsactivated LFJesse Winkerfrom the 60-day injured list.",
-      "player": "Jesse Winker"
+      "details": "New York Metstransferred RHPTylor Megillfrom the 15-day injured list to the 60-day injured list. Right elbow sprain.",
+      "player": "Tylor Megill"
+    },
+    {
+      "date": "2025-07-08",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RFJake Fraleyon a rehab assignment to Louisville Bats.",
+      "player": "Jake Fraley"
+    },
+    {
+      "date": "2025-07-08",
+      "team": "New York Mets",
+      "details": "New York Metssent LHPSean Manaeaon a rehab assignment to Syracuse Mets.",
+      "player": "Sean Manaea"
+    },
+    {
+      "date": "2025-07-08",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced LFMark Canhaon the 10-day injured list. Left elbow epicondylitis.",
+      "player": "Mark Canha"
+    },
+    {
+      "date": "2025-07-08",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced RHPMark Leiter Jr.on the 15-day injured list retroactive to July 7, 2025. Left fibular head stress fracture.",
+      "player": "Mark Leiter Jr."
     },
     {
       "date": "2025-07-08",
@@ -27,57 +57,21 @@
     },
     {
       "date": "2025-07-08",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPOrlando Ribaltaon a rehab assignment to Harrisburg Senators.",
+      "player": "Orlando Ribalta"
+    },
+    {
+      "date": "2025-07-08",
       "team": "New York Mets",
       "details": "New York Metsplaced LFStarling Marteon the 10-day injured list retroactive to July 7, 2025. Right knee bruise.",
       "player": "Starling Marte"
     },
     {
       "date": "2025-07-08",
-      "team": "New York Mets",
-      "details": "New York Metssent LHPSean Manaeaon a rehab assignment to Syracuse Mets.",
-      "player": "Sean Manaea"
-    },
-    {
-      "date": "2025-07-08",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced LFMark Canhaon the 10-day injured list. Left elbow epicondylitis.",
-      "player": "Mark Canha"
-    },
-    {
-      "date": "2025-07-08",
-      "team": "New York Mets",
-      "details": "New York Metssigned free agent RHPJunior Fernándezto a minor league contract.",
-      "player": "Junior Fernández"
-    },
-    {
-      "date": "2025-07-08",
-      "team": "New York Mets",
-      "details": "New York Metstransferred RHPTylor Megillfrom the 15-day injured list to the 60-day injured list. Right elbow sprain.",
-      "player": "Tylor Megill"
-    },
-    {
-      "date": "2025-07-08",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RFJake Fraleyon a rehab assignment to Louisville Bats.",
-      "player": "Jake Fraley"
-    },
-    {
-      "date": "2025-07-08",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravessigned free agent LHPVictor Duarteto a minor league contract.",
       "player": "Victor Duarte"
-    },
-    {
-      "date": "2025-07-08",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssigned free agent LHPDevin Smeltzerto a minor league contract.",
-      "player": "Devin Smeltzer"
-    },
-    {
-      "date": "2025-07-08",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPOrlando Ribaltaon a rehab assignment to Harrisburg Senators.",
-      "player": "Orlando Ribalta"
     },
     {
       "date": "2025-07-08",
@@ -105,21 +99,33 @@
     },
     {
       "date": "2025-07-08",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent RHPJunior Fernándezto a minor league contract.",
+      "player": "Junior Fernández"
+    },
+    {
+      "date": "2025-07-08",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPKendall Gravemanon a rehab assignment to ACL D-backs.",
+      "player": "Kendall Graveman"
+    },
+    {
+      "date": "2025-07-08",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated SSCam Devanney.",
+      "player": "Cam Devanney"
+    },
+    {
+      "date": "2025-07-08",
+      "team": "New York Mets",
+      "details": "New York Metsactivated LFJesse Winkerfrom the 60-day injured list.",
+      "player": "Jesse Winker"
+    },
+    {
+      "date": "2025-07-08",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxsent 3BVinny Capraoutright to Charlotte Knights.",
       "player": "Vinny Capra"
-    },
-    {
-      "date": "2025-07-08",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled LHPIan Seymourfrom Durham Bulls.",
-      "player": "Ian Seymour"
-    },
-    {
-      "date": "2025-07-08",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPRichard Fittsto Worcester Red Sox.",
-      "player": "Richard Fitts"
     },
     {
       "date": "2025-07-08",
@@ -129,15 +135,33 @@
     },
     {
       "date": "2025-07-08",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled LHPIan Seymourfrom Durham Bulls.",
+      "player": "Ian Seymour"
+    },
+    {
+      "date": "2025-07-08",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsselected the contract of SSCam Devanneyfrom Omaha Storm Chasers.",
       "player": "Cam Devanney"
     },
     {
       "date": "2025-07-08",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPClayton Beeterfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Clayton Beeter"
+    },
+    {
+      "date": "2025-07-08",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxselected the contract of RHPIsaiah Campbellfrom Worcester Red Sox.",
       "player": "Isaiah Campbell"
+    },
+    {
+      "date": "2025-07-08",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPRichard Fittsto Worcester Red Sox.",
+      "player": "Richard Fitts"
     },
     {
       "date": "2025-07-08",
