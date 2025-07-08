@@ -1,29 +1,11 @@
 {
-  "last_updated": "2025-07-08T16:34:29.187458",
+  "last_updated": "2025-07-08T17:24:21.412931",
   "transactions": [
-    {
-      "date": "2025-07-08",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssigned free agent LHPDevin Smeltzerto a minor league contract.",
-      "player": "Devin Smeltzer"
-    },
     {
       "date": "2025-07-08",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redssent RFJake Fraleyon a rehab assignment to Louisville Bats.",
       "player": "Jake Fraley"
-    },
-    {
-      "date": "2025-07-08",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssigned free agent LHPDanny Jimenezto a minor league contract.",
-      "player": "Danny Jimenez"
-    },
-    {
-      "date": "2025-07-08",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned free agent LHPVictor Duarteto a minor league contract.",
-      "player": "Victor Duarte"
     },
     {
       "date": "2025-07-08",
@@ -33,9 +15,33 @@
     },
     {
       "date": "2025-07-08",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent LHPDevin Smeltzerto a minor league contract.",
+      "player": "Devin Smeltzer"
+    },
+    {
+      "date": "2025-07-08",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPOrlando Ribaltaon a rehab assignment to Harrisburg Senators.",
+      "player": "Orlando Ribalta"
+    },
+    {
+      "date": "2025-07-08",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent LHPDanny Jimenezto a minor league contract.",
+      "player": "Danny Jimenez"
+    },
+    {
+      "date": "2025-07-08",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redssent RHPCarson Spierson a rehab assignment to Louisville Bats.",
       "player": "Carson Spiers"
+    },
+    {
+      "date": "2025-07-08",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent LHPVictor Duarteto a minor league contract.",
+      "player": "Victor Duarte"
     },
     {
       "date": "2025-07-08",
