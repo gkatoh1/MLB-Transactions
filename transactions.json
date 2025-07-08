@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-07-08T13:40:19.967203",
+  "last_updated": "2025-07-08T14:25:51.074727",
   "transactions": [
+    {
+      "date": "2025-07-08",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent LHPDevin Smeltzerto a minor league contract.",
+      "player": "Devin Smeltzer"
+    },
     {
       "date": "2025-07-08",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Rayssent LHPShane McClanahanon a rehab assignment to FCL Rays.",
       "player": "Shane McClanahan"
+    },
+    {
+      "date": "2025-07-08",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent 3BVinny Capraoutright to Charlotte Knights.",
+      "player": "Vinny Capra"
     }
   ]
 }
