@@ -1,4 +1,17 @@
 {
-  "last_updated": "2025-07-09T13:38:44.560939",
-  "transactions": []
+  "last_updated": "2025-07-09T14:26:39.884724",
+  "transactions": [
+    {
+      "date": "2025-07-09",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPTanner Houckon a rehab assignment to Worcester Red Sox.",
+      "player": "Tanner Houck"
+    },
+    {
+      "date": "2025-07-09",
+      "team": "New York Yankees",
+      "details": "New York Yankeesselected the contract of RHPCam Schlittlerfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Cam Schlittler"
+    }
+  ]
 }
