@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-07-09T19:21:24.956670",
+  "last_updated": "2025-07-09T20:29:14.525330",
   "transactions": [
-    {
-      "date": "2025-07-09",
-      "team": "New York Yankees",
-      "details": "New York Yankeesdesignated RHPGeoff Hartliebfor assignment.",
-      "player": "Geoff Hartlieb"
-    },
-    {
-      "date": "2025-07-09",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsdesignated LHPJoey Wentzfor assignment.",
-      "player": "Joey Wentz"
-    },
     {
       "date": "2025-07-09",
       "team": "Los Angeles Dodgers",
@@ -21,21 +9,9 @@
     },
     {
       "date": "2025-07-09",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced LFBrooks Baldwinon the 10-day injured list retroactive to July 8, 2025. Lower back strain.",
-      "player": "Brooks Baldwin"
-    },
-    {
-      "date": "2025-07-09",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsdesignated RHPNick Nastrinifor assignment.",
-      "player": "Nick Nastrini"
-    },
-    {
-      "date": "2025-07-09",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent RHPTanner Houckon a rehab assignment to Worcester Red Sox.",
-      "player": "Tanner Houck"
+      "details": "Boston Red Soxactivated LFMasataka Yoshidafrom the 60-day injured list.",
+      "player": "Masataka Yoshida"
     },
     {
       "date": "2025-07-09",
@@ -45,15 +21,63 @@
     },
     {
       "date": "2025-07-09",
+      "team": "New York Yankees",
+      "details": "New York Yankeesdesignated RHPGeoff Hartliebfor assignment.",
+      "player": "Geoff Hartlieb"
+    },
+    {
+      "date": "2025-07-09",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced LFBrooks Baldwinon the 10-day injured list retroactive to July 8, 2025. Lower back strain.",
+      "player": "Brooks Baldwin"
+    },
+    {
+      "date": "2025-07-09",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPTanner Houckon a rehab assignment to Worcester Red Sox.",
+      "player": "Tanner Houck"
+    },
+    {
+      "date": "2025-07-09",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsdesignated RHPNick Nastrinifor assignment.",
+      "player": "Nick Nastrini"
+    },
+    {
+      "date": "2025-07-09",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RHPBlake Treinenon a rehab assignment to Oklahoma City Comets.",
+      "player": "Blake Treinen"
+    },
+    {
+      "date": "2025-07-09",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated RHPElvin Rodriguezfor assignment.",
+      "player": "Elvin Rodriguez"
+    },
+    {
+      "date": "2025-07-09",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced RHPNick Burdion the 60-day injured list. Right foot contusion.",
+      "player": "Nick Burdi"
+    },
+    {
+      "date": "2025-07-09",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinsselected the contract of LHPAnthony Misiewiczfrom St. Paul Saints.",
-      "player": "Anthony Misiewicz"
+      "details": "Minnesota Twinsdesignated LHPJoey Wentzfor assignment.",
+      "player": "Joey Wentz"
     },
     {
       "date": "2025-07-09",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxrecalled 1BTim Elkofrom Charlotte Knights.",
       "player": "Tim Elko"
+    },
+    {
+      "date": "2025-07-09",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent 1BCJ Alexanderoutright to Oklahoma City Comets.",
+      "player": "CJ Alexander"
     },
     {
       "date": "2025-07-09",
@@ -72,6 +96,24 @@
       "team": "Miami Marlins",
       "details": "Miami Marlinsclaimed RHPTyler Zuberoff waivers fromNew York Mets.",
       "player": "Tyler Zuber"
+    },
+    {
+      "date": "2025-07-09",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerstraded RFSteward BerroatoMilwaukee Brewersfor cash.",
+      "player": "Steward Berroa"
+    },
+    {
+      "date": "2025-07-09",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned 3BNate Eatonto Worcester Red Sox.",
+      "player": "Nate Eaton"
+    },
+    {
+      "date": "2025-07-09",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsselected the contract of LHPAnthony Misiewiczfrom St. Paul Saints.",
+      "player": "Anthony Misiewicz"
     }
   ]
 }
