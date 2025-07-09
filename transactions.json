@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-07-09T15:29:16.811165",
+  "last_updated": "2025-07-09T16:33:29.943565",
   "transactions": [
     {
       "date": "2025-07-09",
-      "team": "New York Yankees",
-      "details": "New York Yankeesdesignated RHPGeoff Hartliebfor assignment.",
-      "player": "Geoff Hartlieb"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced LFBrooks Baldwinon the 10-day injured list retroactive to July 8, 2025. Lower back strain.",
+      "player": "Brooks Baldwin"
     },
     {
       "date": "2025-07-09",
@@ -16,8 +16,20 @@
     {
       "date": "2025-07-09",
       "team": "New York Yankees",
+      "details": "New York Yankeesdesignated RHPGeoff Hartliebfor assignment.",
+      "player": "Geoff Hartlieb"
+    },
+    {
+      "date": "2025-07-09",
+      "team": "New York Yankees",
       "details": "New York Yankeesselected the contract of RHPCam Schlittlerfrom Scranton/Wilkes-Barre RailRiders.",
       "player": "Cam Schlittler"
+    },
+    {
+      "date": "2025-07-09",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled 1BTim Elkofrom Charlotte Knights.",
+      "player": "Tim Elko"
     }
   ]
 }
