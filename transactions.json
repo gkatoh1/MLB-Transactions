@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-07-10T21:26:28.084717",
+  "last_updated": "2025-07-10T22:25:45.836568",
   "transactions": [
-    {
-      "date": "2025-07-10",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssent CIván Herreraon a rehab assignment to Memphis Redbirds.",
-      "player": "Iván Herrera"
-    },
     {
       "date": "2025-07-10",
       "team": "New York Mets",
       "details": "New York Metsdesignated RFTravis Jankowskifor assignment.",
       "player": "Travis Jankowski"
+    },
+    {
+      "date": "2025-07-10",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent CIván Herreraon a rehab assignment to Memphis Redbirds.",
+      "player": "Iván Herrera"
     },
     {
       "date": "2025-07-10",
@@ -40,7 +40,7 @@
     {
       "date": "2025-07-10",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned CDavid Bañuelosto Norfolk Tides.",
+      "details": "Baltimore Oriolesselected the contract of CDavid Bañuelosfrom Norfolk Tides.",
       "player": "David Bañuelos"
     },
     {
@@ -69,15 +69,15 @@
     },
     {
       "date": "2025-07-10",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolestraded RHPBryan BakertoTampa Bay Raysfor Draft Pick.",
-      "player": "Bryan Baker"
-    },
-    {
-      "date": "2025-07-10",
       "team": "New York Mets",
       "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
       "player": "Austin Warren"
+    },
+    {
+      "date": "2025-07-10",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestraded RHPBryan BakertoTampa Bay Raysfor Draft Pick.",
+      "player": "Bryan Baker"
     },
     {
       "date": "2025-07-10",
@@ -94,7 +94,7 @@
     {
       "date": "2025-07-10",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of CDavid Bañuelosfrom Norfolk Tides.",
+      "details": "Baltimore Oriolesoptioned CDavid Bañuelosto Norfolk Tides.",
       "player": "David Bañuelos"
     }
   ]
