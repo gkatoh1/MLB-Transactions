@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-10T19:21:13.483659",
+  "last_updated": "2025-07-10T20:29:28.056674",
   "transactions": [
+    {
+      "date": "2025-07-10",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent CIván Herreraon a rehab assignment to Memphis Redbirds.",
+      "player": "Iván Herrera"
+    },
     {
       "date": "2025-07-10",
       "team": "New York Yankees",
@@ -15,9 +21,21 @@
     },
     {
       "date": "2025-07-10",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaystraded LFWill RobertsontoChicago White Sox.",
-      "player": "Will Robertson"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPEric Orzeto Durham Bulls.",
+      "player": "Eric Orze"
+    },
+    {
+      "date": "2025-07-10",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
+      "player": "Austin Warren"
+    },
+    {
+      "date": "2025-07-10",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled LHPGrant Wolframfrom Norfolk Tides.",
+      "player": "Grant Wolfram"
     },
     {
       "date": "2025-07-10",
@@ -28,14 +46,14 @@
     {
       "date": "2025-07-10",
       "team": "New York Mets",
-      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
-      "player": "Austin Warren"
+      "details": "New York Metsrecalled 2BLuisangel Acuñafrom Syracuse Mets.",
+      "player": "Luisangel Acuña"
     },
     {
       "date": "2025-07-10",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled 2BLuisangel Acuñafrom Syracuse Mets.",
-      "player": "Luisangel Acuña"
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPOsvaldo Bidofrom Las Vegas Aviators.",
+      "player": "Osvaldo Bido"
     },
     {
       "date": "2025-07-10",
@@ -45,9 +63,15 @@
     },
     {
       "date": "2025-07-10",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled LHPGrant Wolframfrom Norfolk Tides.",
-      "player": "Grant Wolfram"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystraded LFWill RobertsontoChicago White Sox.",
+      "player": "Will Robertson"
+    },
+    {
+      "date": "2025-07-10",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPMitch Spenceto Las Vegas Aviators.",
+      "player": "Mitch Spence"
     }
   ]
 }
