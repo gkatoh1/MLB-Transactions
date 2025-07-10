@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-07-10T15:30:46.072374",
+  "last_updated": "2025-07-10T16:34:27.798322",
   "transactions": [
-    {
-      "date": "2025-07-10",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated RFTravis Jankowskifor assignment.",
-      "player": "Travis Jankowski"
-    },
     {
       "date": "2025-07-10",
       "team": "New York Yankees",
@@ -16,14 +10,20 @@
     {
       "date": "2025-07-10",
       "team": "New York Mets",
-      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
-      "player": "Austin Warren"
+      "details": "New York Metsdesignated RFTravis Jankowskifor assignment.",
+      "player": "Travis Jankowski"
     },
     {
       "date": "2025-07-10",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolestraded RHPBryan BakertoTampa Bay Raysfor Draft Pick.",
       "player": "Bryan Baker"
+    },
+    {
+      "date": "2025-07-10",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of CDavid Bañuelosfrom Norfolk Tides.",
+      "player": "David Bañuelos"
     },
     {
       "date": "2025-07-10",
@@ -36,6 +36,12 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled LHPGrant Wolframfrom Norfolk Tides.",
       "player": "Grant Wolfram"
+    },
+    {
+      "date": "2025-07-10",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
+      "player": "Austin Warren"
     },
     {
       "date": "2025-07-10",
