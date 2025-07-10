@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-10T14:27:34.414889",
+  "last_updated": "2025-07-10T15:30:46.072374",
   "transactions": [
     {
       "date": "2025-07-10",
@@ -9,21 +9,39 @@
     },
     {
       "date": "2025-07-10",
+      "team": "New York Yankees",
+      "details": "New York Yankeesreleased 2BDJ LeMahieu.",
+      "player": "DJ LeMahieu"
+    },
+    {
+      "date": "2025-07-10",
       "team": "New York Mets",
       "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
       "player": "Austin Warren"
     },
     {
       "date": "2025-07-10",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled 2BLuisangel Acuñafrom Syracuse Mets.",
-      "player": "Luisangel Acuña"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestraded RHPBryan BakertoTampa Bay Raysfor Draft Pick.",
+      "player": "Bryan Baker"
+    },
+    {
+      "date": "2025-07-10",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystraded LFWill RobertsontoChicago White Sox.",
+      "player": "Will Robertson"
     },
     {
       "date": "2025-07-10",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled LHPGrant Wolframfrom Norfolk Tides.",
       "player": "Grant Wolfram"
+    },
+    {
+      "date": "2025-07-10",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled 2BLuisangel Acuñafrom Syracuse Mets.",
+      "player": "Luisangel Acuña"
     }
   ]
 }
