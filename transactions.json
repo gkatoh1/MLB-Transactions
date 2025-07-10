@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-10T20:29:28.056674",
+  "last_updated": "2025-07-10T21:26:28.084717",
   "transactions": [
     {
       "date": "2025-07-10",
@@ -9,15 +9,39 @@
     },
     {
       "date": "2025-07-10",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RFTravis Jankowskifor assignment.",
+      "player": "Travis Jankowski"
+    },
+    {
+      "date": "2025-07-10",
       "team": "New York Yankees",
       "details": "New York Yankeesreleased 2BDJ LeMahieu.",
       "player": "DJ LeMahieu"
     },
     {
       "date": "2025-07-10",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated RFTravis Jankowskifor assignment.",
-      "player": "Travis Jankowski"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated 1BKyle Manzardo.",
+      "player": "Kyle Manzardo"
+    },
+    {
+      "date": "2025-07-10",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPOsvaldo Bidofrom Las Vegas Aviators.",
+      "player": "Osvaldo Bido"
+    },
+    {
+      "date": "2025-07-10",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RFJhonkensy Noelto Columbus Clippers.",
+      "player": "Jhonkensy Noel"
+    },
+    {
+      "date": "2025-07-10",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned CDavid Bañuelosto Norfolk Tides.",
+      "player": "David Bañuelos"
     },
     {
       "date": "2025-07-10",
@@ -27,15 +51,21 @@
     },
     {
       "date": "2025-07-10",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
-      "player": "Austin Warren"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPColin Selbyfrom Norfolk Tides.",
+      "player": "Colin Selby"
     },
     {
       "date": "2025-07-10",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled LHPGrant Wolframfrom Norfolk Tides.",
       "player": "Grant Wolfram"
+    },
+    {
+      "date": "2025-07-10",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystraded LFWill RobertsontoChicago White Sox.",
+      "player": "Will Robertson"
     },
     {
       "date": "2025-07-10",
@@ -46,32 +76,26 @@
     {
       "date": "2025-07-10",
       "team": "New York Mets",
+      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
+      "player": "Austin Warren"
+    },
+    {
+      "date": "2025-07-10",
+      "team": "New York Mets",
       "details": "New York Metsrecalled 2BLuisangel Acuñafrom Syracuse Mets.",
       "player": "Luisangel Acuña"
     },
     {
       "date": "2025-07-10",
       "team": "Athletics",
-      "details": "Athleticsrecalled RHPOsvaldo Bidofrom Las Vegas Aviators.",
-      "player": "Osvaldo Bido"
+      "details": "Athleticsoptioned RHPMitch Spenceto Las Vegas Aviators.",
+      "player": "Mitch Spence"
     },
     {
       "date": "2025-07-10",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesselected the contract of CDavid Bañuelosfrom Norfolk Tides.",
       "player": "David Bañuelos"
-    },
-    {
-      "date": "2025-07-10",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaystraded LFWill RobertsontoChicago White Sox.",
-      "player": "Will Robertson"
-    },
-    {
-      "date": "2025-07-10",
-      "team": "Athletics",
-      "details": "Athleticsoptioned RHPMitch Spenceto Las Vegas Aviators.",
-      "player": "Mitch Spence"
     }
   ]
 }
