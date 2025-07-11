@@ -1,17 +1,23 @@
 {
-  "last_updated": "2025-07-11T14:26:52.490227",
+  "last_updated": "2025-07-11T15:28:49.124858",
   "transactions": [
-    {
-      "date": "2025-07-11",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
-      "player": "Austin Warren"
-    },
     {
       "date": "2025-07-11",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned LHPGrant Wolframto Norfolk Tides.",
       "player": "Grant Wolfram"
+    },
+    {
+      "date": "2025-07-11",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPFraser Ellardfrom Charlotte Knights.",
+      "player": "Fraser Ellard"
+    },
+    {
+      "date": "2025-07-11",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
+      "player": "Austin Warren"
     }
   ]
 }
