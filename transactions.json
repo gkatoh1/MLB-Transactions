@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-07-11T17:24:42.255318",
+  "last_updated": "2025-07-11T18:37:05.133920",
   "transactions": [
+    {
+      "date": "2025-07-11",
+      "team": "Houston Astros",
+      "details": "Houston Astrosselected the contract of SSBrice Matthewsfrom Sugar Land Space Cowboys.",
+      "player": "Brice Matthews"
+    },
+    {
+      "date": "2025-07-11",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPNic Enrightfrom Columbus Clippers.",
+      "player": "Nic Enright"
+    },
     {
       "date": "2025-07-11",
       "team": "New York Mets",
@@ -18,12 +30,6 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned LHPGrant Wolframto Norfolk Tides.",
       "player": "Grant Wolfram"
-    },
-    {
-      "date": "2025-07-11",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RHPNic Enrightfrom Columbus Clippers.",
-      "player": "Nic Enright"
     }
   ]
 }
