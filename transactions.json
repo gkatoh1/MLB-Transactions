@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-11T16:33:47.576940",
+  "last_updated": "2025-07-11T17:24:42.255318",
   "transactions": [
+    {
+      "date": "2025-07-11",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
+      "player": "Austin Warren"
+    },
     {
       "date": "2025-07-11",
       "team": "Chicago White Sox",
@@ -15,9 +21,9 @@
     },
     {
       "date": "2025-07-11",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
-      "player": "Austin Warren"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPNic Enrightfrom Columbus Clippers.",
+      "player": "Nic Enright"
     }
   ]
 }
