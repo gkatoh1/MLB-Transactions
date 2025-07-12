@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-07-12T22:25:18.257002",
+  "last_updated": "2025-07-12T23:26:54.352162",
   "transactions": [
-    {
-      "date": "2025-07-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced 3BAustin Rileyon the 10-day injured list. Strained right abdomen.",
-      "player": "Austin Riley"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesreleased 1BMatt Gorski.",
-      "player": "Matt Gorski"
-    },
     {
       "date": "2025-07-12",
       "team": "Houston Astros",
@@ -27,45 +15,33 @@
     },
     {
       "date": "2025-07-12",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced RHPHunter Dobbinson the 15-day injured list. Right ACL tear.",
-      "player": "Hunter Dobbins"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated LHPJoey Wentz.",
-      "player": "Joey Wentz"
-    },
-    {
-      "date": "2025-07-12",
       "team": "Texas Rangers",
       "details": "Texas Rangerssent RHPJosh Sborzon a rehab assignment to Round Rock Express.",
       "player": "Josh Sborz"
     },
     {
       "date": "2025-07-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPNathan Wilesto Gwinnett Stripers.",
-      "player": "Nathan Wiles"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPRyan Bergertto El Paso Chihuahuas.",
-      "player": "Ryan Bergert"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPGordon Graceffofrom Memphis Redbirds.",
-      "player": "Gordon Graceffo"
-    },
-    {
-      "date": "2025-07-12",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPRichard Fittsfrom Worcester Red Sox.",
-      "player": "Richard Fitts"
+      "details": "Boston Red Soxplaced RHPHunter Dobbinson the 15-day injured list. Right ACL tear.",
+      "player": "Hunter Dobbins"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesreleased 1BMatt Gorski.",
+      "player": "Matt Gorski"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced 3BAustin Rileyon the 10-day injured list. Strained right abdomen.",
+      "player": "Austin Riley"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated LHPJoey Wentz.",
+      "player": "Joey Wentz"
     },
     {
       "date": "2025-07-12",
@@ -81,6 +57,12 @@
     },
     {
       "date": "2025-07-12",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPGordon Graceffofrom Memphis Redbirds.",
+      "player": "Gordon Graceffo"
+    },
+    {
+      "date": "2025-07-12",
       "team": "San Diego Padres",
       "details": "San Diego Padresrecalled RHPAlek Jacobfrom El Paso Chihuahuas.",
       "player": "Alek Jacob"
@@ -90,6 +72,24 @@
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansoptioned RHPNic Enrightto Columbus Clippers.",
       "player": "Nic Enright"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPRyan Bergertto El Paso Chihuahuas.",
+      "player": "Ryan Bergert"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPNathan Wilesto Gwinnett Stripers.",
+      "player": "Nathan Wiles"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled SSNacho Alvarez Jr.from Gwinnett Stripers.",
+      "player": "Nacho Alvarez Jr."
     },
     {
       "date": "2025-07-12",
@@ -105,9 +105,9 @@
     },
     {
       "date": "2025-07-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled SSNacho Alvarez Jr.from Gwinnett Stripers.",
-      "player": "Nacho Alvarez Jr."
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPRichard Fittsfrom Worcester Red Sox.",
+      "player": "Richard Fitts"
     },
     {
       "date": "2025-07-12",
