@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-07-12T19:20:04.943729",
+  "last_updated": "2025-07-12T20:27:16.192723",
   "transactions": [
     {
       "date": "2025-07-12",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RHPCristian Javieron a rehab assignment to FCL Astros.",
-      "player": "Cristian Javier"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced 3BAustin Rileyon the 10-day injured list. Strained right abdomen.",
+      "player": "Austin Riley"
     },
     {
       "date": "2025-07-12",
@@ -15,9 +15,9 @@
     },
     {
       "date": "2025-07-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated LHPJoey Wentz.",
-      "player": "Joey Wentz"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPCristian Javieron a rehab assignment to FCL Astros.",
+      "player": "Cristian Javier"
     },
     {
       "date": "2025-07-12",
@@ -28,44 +28,8 @@
     {
       "date": "2025-07-12",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced 3BAustin Rileyon the 10-day injured list. Strained right abdomen.",
-      "player": "Austin Riley"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPGordon Graceffofrom Memphis Redbirds.",
-      "player": "Gordon Graceffo"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled RHPAlek Jacobfrom El Paso Chihuahuas.",
-      "player": "Alek Jacob"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned LHPFraser Ellardto Charlotte Knights.",
-      "player": "Fraser Ellard"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned 1BChristian Encarnacion-Strandto Louisville Bats.",
-      "player": "Christian Encarnacion-Strand"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPNathan Wilesto Gwinnett Stripers.",
-      "player": "Nathan Wiles"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled SSNacho Alvarez Jr.from Gwinnett Stripers.",
-      "player": "Nacho Alvarez Jr."
+      "details": "Atlanta Bravesactivated LHPJoey Wentz.",
+      "player": "Joey Wentz"
     },
     {
       "date": "2025-07-12",
@@ -75,9 +39,27 @@
     },
     {
       "date": "2025-07-12",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPRichard Fittsfrom Worcester Red Sox.",
-      "player": "Richard Fitts"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPMatt Svansonto Memphis Redbirds.",
+      "player": "Matt Svanson"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPFraser Ellardto Charlotte Knights.",
+      "player": "Fraser Ellard"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPNathan Wilesto Gwinnett Stripers.",
+      "player": "Nathan Wiles"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned 1BChristian Encarnacion-Strandto Louisville Bats.",
+      "player": "Christian Encarnacion-Strand"
     },
     {
       "date": "2025-07-12",
@@ -93,6 +75,12 @@
     },
     {
       "date": "2025-07-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled SSNacho Alvarez Jr.from Gwinnett Stripers.",
+      "player": "Nacho Alvarez Jr."
+    },
+    {
+      "date": "2025-07-12",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsselected the contract of RHPBrooks Kriskefrom Iowa Cubs.",
       "player": "Brooks Kriske"
@@ -100,8 +88,20 @@
     {
       "date": "2025-07-12",
       "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPMatt Svansonto Memphis Redbirds.",
-      "player": "Matt Svanson"
+      "details": "St. Louis Cardinalsrecalled RHPGordon Graceffofrom Memphis Redbirds.",
+      "player": "Gordon Graceffo"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPRichard Fittsfrom Worcester Red Sox.",
+      "player": "Richard Fitts"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled RHPAlek Jacobfrom El Paso Chihuahuas.",
+      "player": "Alek Jacob"
     }
   ]
 }
