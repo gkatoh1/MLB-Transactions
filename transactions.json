@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-12T02:20:16.476590",
+  "last_updated": "2025-07-12T03:56:25.531678",
   "transactions": [
     {
       "date": "2025-07-11",
@@ -9,9 +9,33 @@
     },
     {
       "date": "2025-07-11",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated 3BAlex Bregmanfrom the 10-day injured list.",
+      "player": "Alex Bregman"
+    },
+    {
+      "date": "2025-07-11",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPKevin Hergetfor assignment.",
+      "player": "Kevin Herget"
+    },
+    {
+      "date": "2025-07-11",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksplaced LHPJalen Beekson the 15-day injured list retroactive to July 8, 2025. Lower back inflammation.",
       "player": "Jalen Beeks"
+    },
+    {
+      "date": "2025-07-11",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated 1BMatt Gorskifor assignment.",
+      "player": "Matt Gorski"
+    },
+    {
+      "date": "2025-07-11",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent LHPRyan Boruckion a rehab assignment to Indianapolis Indians.",
+      "player": "Ryan Borucki"
     },
     {
       "date": "2025-07-11",
@@ -21,9 +45,9 @@
     },
     {
       "date": "2025-07-11",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced 1BTim Elkoon the 10-day injured list. Right knee sprain.",
-      "player": "Tim Elko"
+      "team": "New York Mets",
+      "details": "New York Metsplaced LFJesse Winkeron the 10-day injured list. Back inflammation.",
+      "player": "Jesse Winker"
     },
     {
       "date": "2025-07-11",
@@ -42,12 +66,6 @@
       "team": "New York Mets",
       "details": "New York Metsdesignated RHPRico Garciafor assignment.",
       "player": "Rico Garcia"
-    },
-    {
-      "date": "2025-07-11",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced RHPRyan Burron the 60-day injured list. Right shoulder rotator cuff strain.",
-      "player": "Ryan Burr"
     },
     {
       "date": "2025-07-11",
@@ -75,21 +93,15 @@
     },
     {
       "date": "2025-07-11",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RHPRyan Burron the 60-day injured list. Right shoulder rotator cuff strain.",
+      "player": "Ryan Burr"
+    },
+    {
+      "date": "2025-07-11",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersplaced RHPCarlos Vargason the paternity list.",
       "player": "Carlos Vargas"
-    },
-    {
-      "date": "2025-07-11",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated 3BAlex Bregmanfrom the 10-day injured list.",
-      "player": "Alex Bregman"
-    },
-    {
-      "date": "2025-07-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated RHPKevin Hergetfor assignment.",
-      "player": "Kevin Herget"
     },
     {
       "date": "2025-07-11",
@@ -99,21 +111,9 @@
     },
     {
       "date": "2025-07-11",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesdesignated 1BMatt Gorskifor assignment.",
-      "player": "Matt Gorski"
-    },
-    {
-      "date": "2025-07-11",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent LHPRyan Boruckion a rehab assignment to Indianapolis Indians.",
-      "player": "Ryan Borucki"
-    },
-    {
-      "date": "2025-07-11",
-      "team": "New York Mets",
-      "details": "New York Metsplaced LFJesse Winkeron the 10-day injured list. Back inflammation.",
-      "player": "Jesse Winker"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced 1BTim Elkoon the 10-day injured list. Right knee sprain.",
+      "player": "Tim Elko"
     },
     {
       "date": "2025-07-11",
@@ -129,6 +129,60 @@
     },
     {
       "date": "2025-07-11",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPGrant Wolframto Norfolk Tides.",
+      "player": "Grant Wolfram"
+    },
+    {
+      "date": "2025-07-11",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesselected the contract of RHPYohan Ramírezfrom Indianapolis Indians.",
+      "player": "Yohan Ramírez"
+    },
+    {
+      "date": "2025-07-11",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LFWill Robertsonfrom Charlotte Knights.",
+      "player": "Will Robertson"
+    },
+    {
+      "date": "2025-07-11",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPTobias Myersfrom Nashville Sounds.",
+      "player": "Tobias Myers"
+    },
+    {
+      "date": "2025-07-11",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPEduarniel Núñezto El Paso Chihuahuas.",
+      "player": "Eduarniel Núñez"
+    },
+    {
+      "date": "2025-07-11",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPIsaiah Campbellto Worcester Red Sox.",
+      "player": "Isaiah Campbell"
+    },
+    {
+      "date": "2025-07-11",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPNic Enrightfrom Columbus Clippers.",
+      "player": "Nic Enright"
+    },
+    {
+      "date": "2025-07-11",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled 1BCurtis Meadfrom Durham Bulls.",
+      "player": "Curtis Mead"
+    },
+    {
+      "date": "2025-07-11",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPCaleb Boushleyfrom Round Rock Express.",
+      "player": "Caleb Boushley"
+    },
+    {
+      "date": "2025-07-11",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersrecalled LHPTayler Saucedofrom Tacoma Rainiers.",
       "player": "Tayler Saucedo"
@@ -141,27 +195,21 @@
     },
     {
       "date": "2025-07-11",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPEduarniel Núñezto El Paso Chihuahuas.",
-      "player": "Eduarniel Núñez"
-    },
-    {
-      "date": "2025-07-11",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesoptioned SSJared Trioloto Indianapolis Indians.",
       "player": "Jared Triolo"
     },
     {
       "date": "2025-07-11",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned RHPJack Kochanowiczto Salt Lake Bees.",
-      "player": "Jack Kochanowicz"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPDane Dunningto Round Rock Express.",
+      "player": "Dane Dunning"
     },
     {
       "date": "2025-07-11",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPFraser Ellardfrom Charlotte Knights.",
-      "player": "Fraser Ellard"
+      "team": "New York Mets",
+      "details": "New York Metsrecalled LFJared Youngfrom Syracuse Mets.",
+      "player": "Jared Young"
     },
     {
       "date": "2025-07-11",
@@ -177,87 +225,9 @@
     },
     {
       "date": "2025-07-11",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RHPNic Enrightfrom Columbus Clippers.",
-      "player": "Nic Enright"
-    },
-    {
-      "date": "2025-07-11",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LFWill Robertsonfrom Charlotte Knights.",
-      "player": "Will Robertson"
-    },
-    {
-      "date": "2025-07-11",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled 1BCurtis Meadfrom Durham Bulls.",
-      "player": "Curtis Mead"
-    },
-    {
-      "date": "2025-07-11",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned 2BDavid Hamiltonto Worcester Red Sox.",
-      "player": "David Hamilton"
-    },
-    {
-      "date": "2025-07-11",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsrecalled LHPJake Ederfrom Salt Lake Bees.",
-      "player": "Jake Eder"
-    },
-    {
-      "date": "2025-07-11",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned LHPGrant Wolframto Norfolk Tides.",
-      "player": "Grant Wolfram"
-    },
-    {
-      "date": "2025-07-11",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPTobias Myersfrom Nashville Sounds.",
-      "player": "Tobias Myers"
-    },
-    {
-      "date": "2025-07-11",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesselected the contract of RHPYohan Ramírezfrom Indianapolis Indians.",
-      "player": "Yohan Ramírez"
-    },
-    {
-      "date": "2025-07-11",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of RHPTommy Nancefrom Buffalo Bisons.",
-      "player": "Tommy Nance"
-    },
-    {
-      "date": "2025-07-11",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
-      "player": "Austin Warren"
-    },
-    {
-      "date": "2025-07-11",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled LFJared Youngfrom Syracuse Mets.",
-      "player": "Jared Young"
-    },
-    {
-      "date": "2025-07-11",
       "team": "Houston Astros",
       "details": "Houston Astrosselected the contract of SSBrice Matthewsfrom Sugar Land Space Cowboys.",
       "player": "Brice Matthews"
-    },
-    {
-      "date": "2025-07-11",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled RHPCaleb Boushleyfrom Round Rock Express.",
-      "player": "Caleb Boushley"
-    },
-    {
-      "date": "2025-07-11",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPIsaiah Campbellto Worcester Red Sox.",
-      "player": "Isaiah Campbell"
     },
     {
       "date": "2025-07-11",
@@ -267,9 +237,39 @@
     },
     {
       "date": "2025-07-11",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned RHPDane Dunningto Round Rock Express.",
-      "player": "Dane Dunning"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of RHPTommy Nancefrom Buffalo Bisons.",
+      "player": "Tommy Nance"
+    },
+    {
+      "date": "2025-07-11",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPJack Kochanowiczto Salt Lake Bees.",
+      "player": "Jack Kochanowicz"
+    },
+    {
+      "date": "2025-07-11",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPFraser Ellardfrom Charlotte Knights.",
+      "player": "Fraser Ellard"
+    },
+    {
+      "date": "2025-07-11",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned 2BDavid Hamiltonto Worcester Red Sox.",
+      "player": "David Hamilton"
+    },
+    {
+      "date": "2025-07-11",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
+      "player": "Austin Warren"
+    },
+    {
+      "date": "2025-07-11",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled LHPJake Ederfrom Salt Lake Bees.",
+      "player": "Jake Eder"
     }
   ]
 }
