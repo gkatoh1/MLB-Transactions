@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-12T15:25:59.424650",
+  "last_updated": "2025-07-12T16:31:06.256049",
   "transactions": [
+    {
+      "date": "2025-07-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced 3BAustin Rileyon the 10-day injured list. Strained right abdomen.",
+      "player": "Austin Riley"
+    },
     {
       "date": "2025-07-12",
       "team": "Atlanta Braves",
@@ -9,9 +15,15 @@
     },
     {
       "date": "2025-07-12",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced RHPHunter Dobbinson the 15-day injured list. Right ACL tear.",
+      "player": "Hunter Dobbins"
+    },
+    {
+      "date": "2025-07-12",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced 3BAustin Rileyon the 10-day injured list. Strained right abdomen.",
-      "player": "Austin Riley"
+      "details": "Atlanta Bravesactivated LHPJoey Wentz.",
+      "player": "Joey Wentz"
     },
     {
       "date": "2025-07-12",
@@ -21,21 +33,15 @@
     },
     {
       "date": "2025-07-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated LHPJoey Wentz.",
-      "player": "Joey Wentz"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RFJake Fraleyfrom the 10-day injured list.",
+      "player": "Jake Fraley"
     },
     {
       "date": "2025-07-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled SSNacho Alvarez Jr.from Gwinnett Stripers.",
-      "player": "Nacho Alvarez Jr."
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned RHPNic Enrightto Columbus Clippers.",
-      "player": "Nic Enright"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPGordon Graceffofrom Memphis Redbirds.",
+      "player": "Gordon Graceffo"
     },
     {
       "date": "2025-07-12",
@@ -45,9 +51,51 @@
     },
     {
       "date": "2025-07-12",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned 1BChristian Encarnacion-Strandto Louisville Bats.",
+      "player": "Christian Encarnacion-Strand"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPNic Enrightto Columbus Clippers.",
+      "player": "Nic Enright"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned LHPJordan Wicksto Iowa Cubs.",
+      "player": "Jordan Wicks"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPRichard Fittsfrom Worcester Red Sox.",
+      "player": "Richard Fitts"
+    },
+    {
+      "date": "2025-07-12",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPNathan Wilesto Gwinnett Stripers.",
       "player": "Nathan Wiles"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled SSNacho Alvarez Jr.from Gwinnett Stripers.",
+      "player": "Nacho Alvarez Jr."
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsselected the contract of RHPBrooks Kriskefrom Iowa Cubs.",
+      "player": "Brooks Kriske"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPMatt Svansonto Memphis Redbirds.",
+      "player": "Matt Svanson"
     }
   ]
 }
