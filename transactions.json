@@ -1,11 +1,35 @@
 {
-  "last_updated": "2025-07-12T14:23:47.637063",
+  "last_updated": "2025-07-12T15:25:59.424650",
   "transactions": [
+    {
+      "date": "2025-07-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated LHPJoey Wentz.",
+      "player": "Joey Wentz"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced 3BAustin Rileyon the 10-day injured list. Strained right abdomen.",
+      "player": "Austin Riley"
+    },
     {
       "date": "2025-07-12",
       "team": "Houston Astros",
       "details": "Houston Astrossent RHPCristian Javieron a rehab assignment to FCL Astros.",
       "player": "Cristian Javier"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated LHPJoey Wentz.",
+      "player": "Joey Wentz"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled SSNacho Alvarez Jr.from Gwinnett Stripers.",
+      "player": "Nacho Alvarez Jr."
     },
     {
       "date": "2025-07-12",
@@ -18,6 +42,12 @@
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned LHPFraser Ellardto Charlotte Knights.",
       "player": "Fraser Ellard"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPNathan Wilesto Gwinnett Stripers.",
+      "player": "Nathan Wiles"
     }
   ]
 }
