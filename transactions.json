@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-07-12T17:21:58.725207",
+  "last_updated": "2025-07-12T18:34:37.327712",
   "transactions": [
+    {
+      "date": "2025-07-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated LHPJoey Wentz.",
+      "player": "Joey Wentz"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced RHPHunter Dobbinson the 15-day injured list. Right ACL tear.",
+      "player": "Hunter Dobbins"
+    },
     {
       "date": "2025-07-12",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesplaced 3BAustin Rileyon the 10-day injured list. Strained right abdomen.",
       "player": "Austin Riley"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated LHPJoey Wentz.",
+      "player": "Joey Wentz"
     },
     {
       "date": "2025-07-12",
@@ -21,54 +39,6 @@
     },
     {
       "date": "2025-07-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated LHPJoey Wentz.",
-      "player": "Joey Wentz"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated LHPJoey Wentz.",
-      "player": "Joey Wentz"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced RHPHunter Dobbinson the 15-day injured list. Right ACL tear.",
-      "player": "Hunter Dobbins"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsselected the contract of RHPBrooks Kriskefrom Iowa Cubs.",
-      "player": "Brooks Kriske"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPRichard Fittsfrom Worcester Red Sox.",
-      "player": "Richard Fitts"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled SSNacho Alvarez Jr.from Gwinnett Stripers.",
-      "player": "Nacho Alvarez Jr."
-    },
-    {
-      "date": "2025-07-12",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPMatt Svansonto Memphis Redbirds.",
-      "player": "Matt Svanson"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPGordon Graceffofrom Memphis Redbirds.",
-      "player": "Gordon Graceffo"
-    },
-    {
-      "date": "2025-07-12",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned LHPFraser Ellardto Charlotte Knights.",
       "player": "Fraser Ellard"
@@ -81,9 +51,9 @@
     },
     {
       "date": "2025-07-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned LHPJordan Wicksto Iowa Cubs.",
-      "player": "Jordan Wicks"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled SSNacho Alvarez Jr.from Gwinnett Stripers.",
+      "player": "Nacho Alvarez Jr."
     },
     {
       "date": "2025-07-12",
@@ -93,9 +63,39 @@
     },
     {
       "date": "2025-07-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned LHPJordan Wicksto Iowa Cubs.",
+      "player": "Jordan Wicks"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPGordon Graceffofrom Memphis Redbirds.",
+      "player": "Gordon Graceffo"
+    },
+    {
+      "date": "2025-07-12",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPNathan Wilesto Gwinnett Stripers.",
       "player": "Nathan Wiles"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPRichard Fittsfrom Worcester Red Sox.",
+      "player": "Richard Fitts"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsselected the contract of RHPBrooks Kriskefrom Iowa Cubs.",
+      "player": "Brooks Kriske"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPMatt Svansonto Memphis Redbirds.",
+      "player": "Matt Svanson"
     }
   ]
 }
