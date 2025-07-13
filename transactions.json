@@ -1,6 +1,36 @@
 {
-  "last_updated": "2025-07-12T23:26:54.352162",
+  "last_updated": "2025-07-13T02:28:33.503414",
   "transactions": [
+    {
+      "date": "2025-07-12",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesreleased 1BMatt Gorski.",
+      "player": "Matt Gorski"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent RHPJosh Sborzon a rehab assignment to Round Rock Express.",
+      "player": "Josh Sborz"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced 3BAustin Rileyon the 10-day injured list. Strained right abdomen.",
+      "player": "Austin Riley"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced RHPHunter Dobbinson the 15-day injured list. Right ACL tear.",
+      "player": "Hunter Dobbins"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated LHPJoey Wentz.",
+      "player": "Joey Wentz"
+    },
     {
       "date": "2025-07-12",
       "team": "Houston Astros",
@@ -12,36 +42,6 @@
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsactivated RFJake Fraleyfrom the 10-day injured list.",
       "player": "Jake Fraley"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssent RHPJosh Sborzon a rehab assignment to Round Rock Express.",
-      "player": "Josh Sborz"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced RHPHunter Dobbinson the 15-day injured list. Right ACL tear.",
-      "player": "Hunter Dobbins"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesreleased 1BMatt Gorski.",
-      "player": "Matt Gorski"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced 3BAustin Rileyon the 10-day injured list. Strained right abdomen.",
-      "player": "Austin Riley"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated LHPJoey Wentz.",
-      "player": "Joey Wentz"
     },
     {
       "date": "2025-07-12",
@@ -57,6 +57,30 @@
     },
     {
       "date": "2025-07-12",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPNic Enrightto Columbus Clippers.",
+      "player": "Nic Enright"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPNathan Wilesto Gwinnett Stripers.",
+      "player": "Nathan Wiles"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsselected the contract of RHPBrooks Kriskefrom Iowa Cubs.",
+      "player": "Brooks Kriske"
+    },
+    {
+      "date": "2025-07-12",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPRichard Fittsfrom Worcester Red Sox.",
+      "player": "Richard Fitts"
+    },
+    {
+      "date": "2025-07-12",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsrecalled RHPGordon Graceffofrom Memphis Redbirds.",
       "player": "Gordon Graceffo"
@@ -69,21 +93,9 @@
     },
     {
       "date": "2025-07-12",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned RHPNic Enrightto Columbus Clippers.",
-      "player": "Nic Enright"
-    },
-    {
-      "date": "2025-07-12",
       "team": "San Diego Padres",
       "details": "San Diego Padresoptioned RHPRyan Bergertto El Paso Chihuahuas.",
       "player": "Ryan Bergert"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPNathan Wilesto Gwinnett Stripers.",
-      "player": "Nathan Wiles"
     },
     {
       "date": "2025-07-12",
@@ -94,26 +106,14 @@
     {
       "date": "2025-07-12",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsselected the contract of RHPBrooks Kriskefrom Iowa Cubs.",
-      "player": "Brooks Kriske"
+      "details": "Chicago Cubsoptioned LHPJordan Wicksto Iowa Cubs.",
+      "player": "Jordan Wicks"
     },
     {
       "date": "2025-07-12",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsoptioned RHPMatt Svansonto Memphis Redbirds.",
       "player": "Matt Svanson"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPRichard Fittsfrom Worcester Red Sox.",
-      "player": "Richard Fitts"
-    },
-    {
-      "date": "2025-07-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned LHPJordan Wicksto Iowa Cubs.",
-      "player": "Jordan Wicks"
     }
   ]
 }
