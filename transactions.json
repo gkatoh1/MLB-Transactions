@@ -1,35 +1,11 @@
 {
-  "last_updated": "2025-07-13T16:31:01.113267",
+  "last_updated": "2025-07-13T17:22:02.767464",
   "transactions": [
     {
       "date": "2025-07-13",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxreassigned LHPCam Booserto the minor leagues.",
-      "player": "Cam Booser"
-    },
-    {
-      "date": "2025-07-13",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent RHPZebby Matthewson a rehab assignment to St. Paul Saints.",
-      "player": "Zebby Matthews"
-    },
-    {
-      "date": "2025-07-13",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated RHPMichael Petersenfor assignment.",
-      "player": "Michael Petersen"
-    },
-    {
-      "date": "2025-07-13",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent RHPLuis Gilon a rehab assignment to Somerset Patriots.",
-      "player": "Luis Gil"
-    },
-    {
-      "date": "2025-07-13",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated LHPCam Booserfrom the 15-day injured list.",
-      "player": "Cam Booser"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsplaced LFLars Nootbaaron the 10-day injured list. Left costochondral sprain.",
+      "player": "Lars Nootbaar"
     },
     {
       "date": "2025-07-13",
@@ -45,9 +21,9 @@
     },
     {
       "date": "2025-07-13",
-      "team": "New York Mets",
-      "details": "New York Metsactivated LHPSean Manaeafrom the 60-day injured list.",
-      "player": "Sean Manaea"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPZebby Matthewson a rehab assignment to St. Paul Saints.",
+      "player": "Zebby Matthews"
     },
     {
       "date": "2025-07-13",
@@ -57,27 +33,63 @@
     },
     {
       "date": "2025-07-13",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxreassigned LHPCam Booserto the minor leagues.",
+      "player": "Cam Booser"
+    },
+    {
+      "date": "2025-07-13",
       "team": "New York Yankees",
       "details": "New York Yankeessent RHPLuis Gilon a rehab assignment to Somerset Patriots.",
       "player": "Luis Gil"
     },
     {
       "date": "2025-07-13",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent LHPShane McClanahanon a rehab assignment to Durham Bulls.",
+      "player": "Shane McClanahan"
+    },
+    {
+      "date": "2025-07-13",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated CIván Herrerafrom the 10-day injured list.",
+      "player": "Iván Herrera"
+    },
+    {
+      "date": "2025-07-13",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPLuis Gilon a rehab assignment to Somerset Patriots.",
+      "player": "Luis Gil"
+    },
+    {
+      "date": "2025-07-13",
+      "team": "New York Mets",
+      "details": "New York Metsactivated LHPSean Manaeafrom the 60-day injured list.",
+      "player": "Sean Manaea"
+    },
+    {
+      "date": "2025-07-13",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPMichael Petersenfor assignment.",
+      "player": "Michael Petersen"
+    },
+    {
+      "date": "2025-07-13",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPZach Eflinon a rehab assignment to Chesapeake Baysox.",
+      "player": "Zach Eflin"
+    },
+    {
+      "date": "2025-07-13",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned LHPCam Booserto Charlotte Knights.",
+      "details": "Chicago White Soxactivated LHPCam Booserfrom the 15-day injured list.",
       "player": "Cam Booser"
     },
     {
       "date": "2025-07-13",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPWander Suerofrom Gwinnett Stripers.",
-      "player": "Wander Suero"
-    },
-    {
-      "date": "2025-07-13",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPDaysbel Hernándezto Gwinnett Stripers.",
-      "player": "Daysbel Hernández"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned LHPShinnosuke Ogasawarato Rochester Red Wings.",
+      "player": "Shinnosuke Ogasawara"
     },
     {
       "date": "2025-07-13",
@@ -99,6 +111,30 @@
     },
     {
       "date": "2025-07-13",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPCam Booserto Charlotte Knights.",
+      "player": "Cam Booser"
+    },
+    {
+      "date": "2025-07-13",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPWander Suerofrom Gwinnett Stripers.",
+      "player": "Wander Suero"
+    },
+    {
+      "date": "2025-07-13",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled LHPGrant Wolframfrom Norfolk Tides.",
+      "player": "Grant Wolfram"
+    },
+    {
+      "date": "2025-07-13",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPDaysbel Hernándezto Gwinnett Stripers.",
+      "player": "Daysbel Hernández"
+    },
+    {
+      "date": "2025-07-13",
       "team": "Washington Nationals",
       "details": "Washington Nationalsrecalled RHPAndry Larafrom Harrisburg Senators.",
       "player": "Andry Lara"
@@ -111,21 +147,9 @@
     },
     {
       "date": "2025-07-13",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned LHPShinnosuke Ogasawarato Rochester Red Wings.",
-      "player": "Shinnosuke Ogasawara"
-    },
-    {
-      "date": "2025-07-13",
       "team": "New York Mets",
       "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
       "player": "Austin Warren"
-    },
-    {
-      "date": "2025-07-13",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled LHPGrant Wolframfrom Norfolk Tides.",
-      "player": "Grant Wolfram"
     }
   ]
 }
