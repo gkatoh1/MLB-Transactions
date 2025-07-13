@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-13T14:23:35.435758",
+  "last_updated": "2025-07-13T15:25:29.387424",
   "transactions": [
+    {
+      "date": "2025-07-13",
+      "team": "New York Mets",
+      "details": "New York Metsactivated LHPSean Manaeafrom the 60-day injured list.",
+      "player": "Sean Manaea"
+    },
     {
       "date": "2025-07-13",
       "team": "Minnesota Twins",
@@ -9,15 +15,51 @@
     },
     {
       "date": "2025-07-13",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated LHPCam Booserfrom the 15-day injured list.",
+      "player": "Cam Booser"
+    },
+    {
+      "date": "2025-07-13",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled LHPGrant Wolframfrom Norfolk Tides.",
-      "player": "Grant Wolfram"
+      "details": "Baltimore Oriolesdesignated RHPCorbin Martinfor assignment.",
+      "player": "Corbin Martin"
+    },
+    {
+      "date": "2025-07-13",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced 3BConnor Norbyon the 10-day injured list retroactive to July 12, 2025. Left wrist inflammation.",
+      "player": "Connor Norby"
     },
     {
       "date": "2025-07-13",
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned LHPShinnosuke Ogasawarato Rochester Red Wings.",
       "player": "Shinnosuke Ogasawara"
+    },
+    {
+      "date": "2025-07-13",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPCam Booserto Charlotte Knights.",
+      "player": "Cam Booser"
+    },
+    {
+      "date": "2025-07-13",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
+      "player": "Austin Warren"
+    },
+    {
+      "date": "2025-07-13",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled 3BGraham Pauleyfrom Jacksonville Jumbo Shrimp.",
+      "player": "Graham Pauley"
+    },
+    {
+      "date": "2025-07-13",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled LHPGrant Wolframfrom Norfolk Tides.",
+      "player": "Grant Wolfram"
     }
   ]
 }
