@@ -1,59 +1,11 @@
 {
-  "last_updated": "2025-07-14T15:30:04.602854",
+  "last_updated": "2025-07-14T16:34:55.585541",
   "transactions": [
-    {
-      "date": "2025-07-14",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPAlek Manoahon a rehab assignment to FCL Blue Jays.",
-      "player": "Alek Manoah"
-    },
-    {
-      "date": "2025-07-14",
-      "team": "Unknown Team",
-      "details": "LHPDavid Petersonassigned to National League All-Stars.",
-      "player": "David Peterson"
-    },
-    {
-      "date": "2025-07-14",
-      "team": "Unknown Team",
-      "details": "RHPCasey Mizeassigned to American League All-Stars.",
-      "player": "Casey Mize"
-    },
-    {
-      "date": "2025-07-14",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent RHPAlex Faedoon a rehab assignment to FCL Rays.",
-      "player": "Alex Faedo"
-    },
-    {
-      "date": "2025-07-14",
-      "team": "Unknown Team",
-      "details": "LHPCarlos Rodónassigned to American League All-Stars.",
-      "player": "Carlos Rodón"
-    },
-    {
-      "date": "2025-07-14",
-      "team": "Unknown Team",
-      "details": "American League All-Stars placed CFJulio Rodríguezon the reserve list.",
-      "player": "Julio Rodríguez"
-    },
-    {
-      "date": "2025-07-14",
-      "team": "Unknown Team",
-      "details": "American League All-Stars placed LHPGarrett Crocheton the reserve list.",
-      "player": "Garrett Crochet"
-    },
     {
       "date": "2025-07-14",
       "team": "Unknown Team",
       "details": "RHPDrew Rasmussenassigned to American League All-Stars.",
       "player": "Drew Rasmussen"
-    },
-    {
-      "date": "2025-07-14",
-      "team": "Unknown Team",
-      "details": "RHPJacob Misiorowskiassigned to National League All-Stars.",
-      "player": "Jacob Misiorowski"
     },
     {
       "date": "2025-07-14",
@@ -142,6 +94,96 @@
     {
       "date": "2025-07-14",
       "team": "Unknown Team",
+      "details": "National League All-Stars activated LHPChris Salefrom the 60-day injured list.",
+      "player": "Chris Sale"
+    },
+    {
+      "date": "2025-07-14",
+      "team": "Unknown Team",
+      "details": "National League All-Stars activated RHPRandy Rodríguez.",
+      "player": "Randy Rodríguez"
+    },
+    {
+      "date": "2025-07-14",
+      "team": "Unknown Team",
+      "details": "National League All-Stars activated RHPJason Adam.",
+      "player": "Jason Adam"
+    },
+    {
+      "date": "2025-07-14",
+      "team": "Unknown Team",
+      "details": "American League All-Stars activated SSBobby Witt Jr..",
+      "player": "Bobby Witt Jr."
+    },
+    {
+      "date": "2025-07-14",
+      "team": "Unknown Team",
+      "details": "American League All-Stars activated LHPMax Fried.",
+      "player": "Max Fried"
+    },
+    {
+      "date": "2025-07-14",
+      "team": "Unknown Team",
+      "details": "RHPJoe Ryanassigned to American League All-Stars.",
+      "player": "Joe Ryan"
+    },
+    {
+      "date": "2025-07-14",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPAlek Manoahon a rehab assignment to FCL Blue Jays.",
+      "player": "Alek Manoah"
+    },
+    {
+      "date": "2025-07-14",
+      "team": "Unknown Team",
+      "details": "3BIsaac Paredesassigned to American League All-Stars.",
+      "player": "Isaac Paredes"
+    },
+    {
+      "date": "2025-07-14",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPMichael Lorenzenon the 15-day injured list retroactive to July 11, 2025. Left oblique strain.",
+      "player": "Michael Lorenzen"
+    },
+    {
+      "date": "2025-07-14",
+      "team": "Unknown Team",
+      "details": "3BJunior Camineroassigned to American League All-Stars.",
+      "player": "Junior Caminero"
+    },
+    {
+      "date": "2025-07-14",
+      "team": "Unknown Team",
+      "details": "American League All-Stars activated LHPAroldis Chapman.",
+      "player": "Aroldis Chapman"
+    },
+    {
+      "date": "2025-07-14",
+      "team": "Unknown Team",
+      "details": "American League All-Stars activated LHPKris Bubic.",
+      "player": "Kris Bubic"
+    },
+    {
+      "date": "2025-07-14",
+      "team": "Unknown Team",
+      "details": "American League All-Stars activated RHPHunter Brown.",
+      "player": "Hunter Brown"
+    },
+    {
+      "date": "2025-07-14",
+      "team": "Unknown Team",
+      "details": "RHPJacob Misiorowskiassigned to National League All-Stars.",
+      "player": "Jacob Misiorowski"
+    },
+    {
+      "date": "2025-07-14",
+      "team": "Unknown Team",
+      "details": "RHPCarlos Estévezassigned to American League All-Stars.",
+      "player": "Carlos Estévez"
+    },
+    {
+      "date": "2025-07-14",
+      "team": "Unknown Team",
       "details": "American League All-Stars activated CFByron Buxton.",
       "player": "Byron Buxton"
     },
@@ -156,12 +198,6 @@
       "team": "Unknown Team",
       "details": "American League All-Stars placed 2BBrandon Loweon the reserve list.",
       "player": "Brandon Lowe"
-    },
-    {
-      "date": "2025-07-14",
-      "team": "Unknown Team",
-      "details": "3BIsaac Paredesassigned to American League All-Stars.",
-      "player": "Isaac Paredes"
     },
     {
       "date": "2025-07-14",
@@ -264,42 +300,6 @@
       "team": "Unknown Team",
       "details": "American League All-Stars activated LHPYusei Kikuchi.",
       "player": "Yusei Kikuchi"
-    },
-    {
-      "date": "2025-07-14",
-      "team": "Unknown Team",
-      "details": "American League All-Stars activated LHPJosh Hader.",
-      "player": "Josh Hader"
-    },
-    {
-      "date": "2025-07-14",
-      "team": "Unknown Team",
-      "details": "American League All-Stars activated RHPJacob deGrom.",
-      "player": "Jacob deGrom"
-    },
-    {
-      "date": "2025-07-14",
-      "team": "Unknown Team",
-      "details": "LFRandy Arozarenaassigned to American League All-Stars.",
-      "player": "Randy Arozarena"
-    },
-    {
-      "date": "2025-07-14",
-      "team": "Unknown Team",
-      "details": "RHPRobert Suarezassigned to National League All-Stars.",
-      "player": "Robert Suarez"
-    },
-    {
-      "date": "2025-07-14",
-      "team": "Unknown Team",
-      "details": "LHPAndrew Abbottassigned to National League All-Stars.",
-      "player": "Andrew Abbott"
-    },
-    {
-      "date": "2025-07-14",
-      "team": "Unknown Team",
-      "details": "3BZach McKinstryassigned to American League All-Stars.",
-      "player": "Zach McKinstry"
     }
   ]
 }
