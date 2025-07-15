@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-07-15T22:27:15.792392",
+  "last_updated": "2025-07-15T23:25:31.852494",
   "transactions": [
     {
       "date": "2025-07-15",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned 3BWyatt Henseler.",
-      "player": "Wyatt Henseler"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced RHPPaul Sewaldon the 15-day injured list retroactive to July 12, 2025. Right should strain.",
+      "player": "Paul Sewald"
     },
     {
       "date": "2025-07-15",
@@ -15,15 +15,15 @@
     },
     {
       "date": "2025-07-15",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned RHPJulian Tonghini.",
-      "player": "Julian Tonghini"
+      "team": "Athletics",
+      "details": "Athleticstransferred RHPGrant Holmanfrom the 15-day injured list to the 60-day injured list. Right shoulder rotator cuff tendinitis.",
+      "player": "Grant Holman"
     },
     {
       "date": "2025-07-15",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent RHPShane Bieberon a rehab assignment to ACL Guardians.",
-      "player": "Shane Bieber"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned RHPJulian Tonghini.",
+      "player": "Julian Tonghini"
     },
     {
       "date": "2025-07-15",
@@ -34,14 +34,32 @@
     {
       "date": "2025-07-15",
       "team": "Washington Nationals",
-      "details": "Washington Nationalssigned CBoston Smith.",
-      "player": "Boston Smith"
+      "details": "Washington Nationalssigned 3BWyatt Henseler.",
+      "player": "Wyatt Henseler"
+    },
+    {
+      "date": "2025-07-15",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPShane Bieberon a rehab assignment to ACL Guardians.",
+      "player": "Shane Bieber"
     },
     {
       "date": "2025-07-15",
       "team": "New York Mets",
       "details": "New York Metssent RHPJosé Buttóon a rehab assignment to FCL Mets.",
       "player": "José Buttó"
+    },
+    {
+      "date": "2025-07-15",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned CBoston Smith.",
+      "player": "Boston Smith"
+    },
+    {
+      "date": "2025-07-15",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned CLuis Campusanoto El Paso Chihuahuas.",
+      "player": "Luis Campusano"
     }
   ]
 }
