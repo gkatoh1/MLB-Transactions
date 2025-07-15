@@ -1,24 +1,6 @@
 {
-  "last_updated": "2025-07-15T20:30:13.945374",
+  "last_updated": "2025-07-15T21:26:09.150626",
   "transactions": [
-    {
-      "date": "2025-07-15",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned 1BHunter Hines.",
-      "player": "Hunter Hines"
-    },
-    {
-      "date": "2025-07-15",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned RHPRiley Maddox.",
-      "player": "Riley Maddox"
-    },
-    {
-      "date": "2025-07-15",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned RHPJulian Tonghini.",
-      "player": "Julian Tonghini"
-    },
     {
       "date": "2025-07-15",
       "team": "Washington Nationals",
@@ -27,9 +9,21 @@
     },
     {
       "date": "2025-07-15",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned 3BWyatt Henseler.",
+      "player": "Wyatt Henseler"
+    },
+    {
+      "date": "2025-07-15",
       "team": "New York Mets",
       "details": "New York Metssent RHPJosé Buttóon a rehab assignment to FCL Mets.",
       "player": "José Buttó"
+    },
+    {
+      "date": "2025-07-15",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned 1BHunter Hines.",
+      "player": "Hunter Hines"
     },
     {
       "date": "2025-07-15",
@@ -40,8 +34,14 @@
     {
       "date": "2025-07-15",
       "team": "Washington Nationals",
-      "details": "Washington Nationalssigned 3BWyatt Henseler.",
-      "player": "Wyatt Henseler"
+      "details": "Washington Nationalssigned RHPJulian Tonghini.",
+      "player": "Julian Tonghini"
+    },
+    {
+      "date": "2025-07-15",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned RHPRiley Maddox.",
+      "player": "Riley Maddox"
     }
   ]
 }
