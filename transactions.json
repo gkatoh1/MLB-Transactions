@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-15T19:23:05.775521",
+  "last_updated": "2025-07-15T20:30:13.945374",
   "transactions": [
+    {
+      "date": "2025-07-15",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned 1BHunter Hines.",
+      "player": "Hunter Hines"
+    },
     {
       "date": "2025-07-15",
       "team": "Washington Nationals",
@@ -12,18 +18,6 @@
       "team": "Washington Nationals",
       "details": "Washington Nationalssigned RHPJulian Tonghini.",
       "player": "Julian Tonghini"
-    },
-    {
-      "date": "2025-07-15",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned 1BHunter Hines.",
-      "player": "Hunter Hines"
-    },
-    {
-      "date": "2025-07-15",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned 3BWyatt Henseler.",
-      "player": "Wyatt Henseler"
     },
     {
       "date": "2025-07-15",
@@ -42,6 +36,12 @@
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardianssent RHPShane Bieberon a rehab assignment to ACL Guardians.",
       "player": "Shane Bieber"
+    },
+    {
+      "date": "2025-07-15",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned 3BWyatt Henseler.",
+      "player": "Wyatt Henseler"
     }
   ]
 }
