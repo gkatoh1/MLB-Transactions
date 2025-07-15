@@ -1,29 +1,11 @@
 {
-  "last_updated": "2025-07-15T17:25:17.439698",
+  "last_updated": "2025-07-15T18:39:59.045912",
   "transactions": [
     {
       "date": "2025-07-15",
       "team": "Washington Nationals",
-      "details": "Washington Nationalssigned RHPRiley Maddox.",
-      "player": "Riley Maddox"
-    },
-    {
-      "date": "2025-07-15",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned CBoston Smith.",
-      "player": "Boston Smith"
-    },
-    {
-      "date": "2025-07-15",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent RHPShane Bieberon a rehab assignment to ACL Guardians.",
-      "player": "Shane Bieber"
-    },
-    {
-      "date": "2025-07-15",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned 3BWyatt Henseler.",
-      "player": "Wyatt Henseler"
+      "details": "Washington Nationalssigned RHPJulian Tonghini.",
+      "player": "Julian Tonghini"
     },
     {
       "date": "2025-07-15",
@@ -40,8 +22,26 @@
     {
       "date": "2025-07-15",
       "team": "Washington Nationals",
-      "details": "Washington Nationalssigned RHPJulian Tonghini.",
-      "player": "Julian Tonghini"
+      "details": "Washington Nationalssigned RHPRiley Maddox.",
+      "player": "Riley Maddox"
+    },
+    {
+      "date": "2025-07-15",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPShane Bieberon a rehab assignment to ACL Guardians.",
+      "player": "Shane Bieber"
+    },
+    {
+      "date": "2025-07-15",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned 3BWyatt Henseler.",
+      "player": "Wyatt Henseler"
+    },
+    {
+      "date": "2025-07-15",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned CBoston Smith.",
+      "player": "Boston Smith"
     }
   ]
 }
