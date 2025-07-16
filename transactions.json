@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-16T18:39:22.516995",
+  "last_updated": "2025-07-16T19:22:48.045893",
   "transactions": [
     {
       "date": "2025-07-16",
@@ -10,20 +10,32 @@
     {
       "date": "2025-07-16",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratestraded 2BAdam FraziertoKansas City Royalsfor SS Cam Devanney.",
-      "player": "Adam Frazier"
+      "details": "Pittsburgh Piratestraded 2B Adam Frazier toKansas City Royalsfor SSCam Devanney.",
+      "player": "Cam Devanney"
     },
     {
       "date": "2025-07-16",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratestraded 2B Adam Frazier toKansas City Royalsfor SSCam Devanney.",
-      "player": "Cam Devanney"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPElvin Rodriguezto Norfolk Tides.",
+      "player": "Elvin Rodriguez"
     },
     {
       "date": "2025-07-16",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesoptioned SSCam Devanneyto Indianapolis Indians.",
       "player": "Cam Devanney"
+    },
+    {
+      "date": "2025-07-16",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratestraded 2BAdam FraziertoKansas City Royalsfor SS Cam Devanney.",
+      "player": "Adam Frazier"
+    },
+    {
+      "date": "2025-07-16",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed RHPElvin Rodriguezoff waivers fromMilwaukee Brewers.",
+      "player": "Elvin Rodriguez"
     }
   ]
 }
