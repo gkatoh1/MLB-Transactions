@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-07-16T20:30:23.165210",
+  "last_updated": "2025-07-16T21:26:26.772534",
   "transactions": [
     {
       "date": "2025-07-16",
       "team": "Houston Astros",
       "details": "Houston Astrossent LFChas McCormickon a rehab assignment to FCL Astros.",
       "player": "Chas McCormick"
+    },
+    {
+      "date": "2025-07-16",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed RHPElvin Rodriguezoff waivers fromMilwaukee Brewers.",
+      "player": "Elvin Rodriguez"
     },
     {
       "date": "2025-07-16",
@@ -21,21 +27,15 @@
     },
     {
       "date": "2025-07-16",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned SSCam Devanneyto Indianapolis Indians.",
-      "player": "Cam Devanney"
-    },
-    {
-      "date": "2025-07-16",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesclaimed RHPElvin Rodriguezoff waivers fromMilwaukee Brewers.",
-      "player": "Elvin Rodriguez"
-    },
-    {
-      "date": "2025-07-16",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned RHPElvin Rodriguezto Norfolk Tides.",
       "player": "Elvin Rodriguez"
+    },
+    {
+      "date": "2025-07-16",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned SSCam Devanneyto Indianapolis Indians.",
+      "player": "Cam Devanney"
     }
   ]
 }
