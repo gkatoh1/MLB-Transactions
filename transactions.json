@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-16T21:26:26.772534",
+  "last_updated": "2025-07-16T22:26:58.895582",
   "transactions": [
     {
       "date": "2025-07-16",
@@ -12,6 +12,12 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesclaimed RHPElvin Rodriguezoff waivers fromMilwaukee Brewers.",
       "player": "Elvin Rodriguez"
+    },
+    {
+      "date": "2025-07-16",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned SSCam Devanneyto Indianapolis Indians.",
+      "player": "Cam Devanney"
     },
     {
       "date": "2025-07-16",
@@ -30,12 +36,6 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned RHPElvin Rodriguezto Norfolk Tides.",
       "player": "Elvin Rodriguez"
-    },
-    {
-      "date": "2025-07-16",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned SSCam Devanneyto Indianapolis Indians.",
-      "player": "Cam Devanney"
     }
   ]
 }
