@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-17T13:43:06.957155",
+  "last_updated": "2025-07-17T14:26:07.706363",
   "transactions": [
+    {
+      "date": "2025-07-17",
+      "team": "New York Mets",
+      "details": "New York Metssigned TWPMitch Voit.",
+      "player": "Mitch Voit"
+    },
     {
       "date": "2025-07-17",
       "team": "Miami Marlins",
@@ -9,14 +15,14 @@
     },
     {
       "date": "2025-07-17",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPMichael Petersento Jacksonville Jumbo Shrimp.",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestraded RHPMichael PetersentoMiami Marlinsfor cash.",
       "player": "Michael Petersen"
     },
     {
       "date": "2025-07-17",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravestraded RHPMichael PetersentoMiami Marlinsfor cash.",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPMichael Petersento Jacksonville Jumbo Shrimp.",
       "player": "Michael Petersen"
     }
   ]
