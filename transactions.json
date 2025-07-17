@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-17T14:26:07.706363",
+  "last_updated": "2025-07-17T15:30:36.588372",
   "transactions": [
+    {
+      "date": "2025-07-17",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPPaxton Schultzon a rehab assignment to FCL Blue Jays.",
+      "player": "Paxton Schultz"
+    },
     {
       "date": "2025-07-17",
       "team": "New York Mets",
@@ -9,9 +15,27 @@
     },
     {
       "date": "2025-07-17",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPPaxton Schultzon a rehab assignment to FCL Blue Jays.",
+      "player": "Paxton Schultz"
+    },
+    {
+      "date": "2025-07-17",
       "team": "Miami Marlins",
       "details": "Miami Marlinstransferred RHPJesus Tinocofrom the 15-day injured list to the 60-day injured list. Right forearm strain.",
       "player": "Jesus Tinoco"
+    },
+    {
+      "date": "2025-07-17",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent CFDaulton Varshoon a rehab assignment to FCL Blue Jays.",
+      "player": "Daulton Varsho"
+    },
+    {
+      "date": "2025-07-17",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPPaul Blackburnon a rehab assignment to FCL Mets.",
+      "player": "Paul Blackburn"
     },
     {
       "date": "2025-07-17",
@@ -24,6 +48,12 @@
       "team": "Miami Marlins",
       "details": "Miami Marlinsoptioned RHPMichael Petersento Jacksonville Jumbo Shrimp.",
       "player": "Michael Petersen"
+    },
+    {
+      "date": "2025-07-17",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliestraded CAndrick NavatoMilwaukee Brewers.",
+      "player": "Andrick Nava"
     }
   ]
 }
