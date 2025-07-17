@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-17T21:26:08.479229",
+  "last_updated": "2025-07-17T22:26:43.249151",
   "transactions": [
+    {
+      "date": "2025-07-17",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPPaxton Schultzon a rehab assignment to FCL Blue Jays.",
+      "player": "Paxton Schultz"
+    },
     {
       "date": "2025-07-17",
       "team": "New York Mets",
@@ -16,18 +22,6 @@
     {
       "date": "2025-07-17",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPPaxton Schultzon a rehab assignment to FCL Blue Jays.",
-      "player": "Paxton Schultz"
-    },
-    {
-      "date": "2025-07-17",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinstransferred RHPJesus Tinocofrom the 15-day injured list to the 60-day injured list. Right forearm strain.",
-      "player": "Jesus Tinoco"
-    },
-    {
-      "date": "2025-07-17",
-      "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssent CFDaulton Varshoon a rehab assignment to FCL Blue Jays.",
       "player": "Daulton Varsho"
     },
@@ -39,9 +33,15 @@
     },
     {
       "date": "2025-07-17",
-      "team": "Unknown Team",
-      "details": "RHPCorbin Martinelected free agency.",
-      "player": "Corbin Martin"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystransferred RHPHunter Biggefrom the 15-day injured list to the 60-day injured list. Right lat strain.",
+      "player": "Hunter Bigge"
+    },
+    {
+      "date": "2025-07-17",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstransferred RHPJesus Tinocofrom the 15-day injured list to the 60-day injured list. Right forearm strain.",
+      "player": "Jesus Tinoco"
     },
     {
       "date": "2025-07-17",
@@ -51,15 +51,39 @@
     },
     {
       "date": "2025-07-17",
+      "team": "Unknown Team",
+      "details": "RHPCorbin Martinelected free agency.",
+      "player": "Corbin Martin"
+    },
+    {
+      "date": "2025-07-17",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned 2BThomas Saggeseto Memphis Redbirds.",
+      "player": "Thomas Saggese"
+    },
+    {
+      "date": "2025-07-17",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliestraded CAndrick NavatoMilwaukee Brewersfor cash.",
       "player": "Andrick Nava"
     },
     {
       "date": "2025-07-17",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravestraded RHPMichael PetersentoMiami Marlinsfor cash.",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPJoey Gerberto Durham Bulls.",
+      "player": "Joey Gerber"
+    },
+    {
+      "date": "2025-07-17",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPMichael Petersento Jacksonville Jumbo Shrimp.",
       "player": "Michael Petersen"
+    },
+    {
+      "date": "2025-07-17",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LFDrew Avansoutright to Nashville Sounds.",
+      "player": "Drew Avans"
     },
     {
       "date": "2025-07-17",
@@ -69,9 +93,27 @@
     },
     {
       "date": "2025-07-17",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPMichael Petersento Jacksonville Jumbo Shrimp.",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned CFMichael Helmanto Round Rock Express.",
+      "player": "Michael Helman"
+    },
+    {
+      "date": "2025-07-17",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestraded RHPMichael PetersentoMiami Marlinsfor cash.",
       "player": "Michael Petersen"
+    },
+    {
+      "date": "2025-07-17",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysselected the contract of RHPJoey Gerberfrom Durham Bulls.",
+      "player": "Joey Gerber"
+    },
+    {
+      "date": "2025-07-17",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled 1BJustin Foscuefrom Round Rock Express.",
+      "player": "Justin Foscue"
     }
   ]
 }
