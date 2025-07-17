@@ -1,17 +1,11 @@
 {
-  "last_updated": "2025-07-17T19:22:55.508460",
+  "last_updated": "2025-07-17T20:30:13.805917",
   "transactions": [
     {
       "date": "2025-07-17",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent CFDaulton Varshoon a rehab assignment to FCL Blue Jays.",
-      "player": "Daulton Varsho"
-    },
-    {
-      "date": "2025-07-17",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated RHPRico Garcia.",
-      "player": "Rico Garcia"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstransferred RHPJesus Tinocofrom the 15-day injured list to the 60-day injured list. Right forearm strain.",
+      "player": "Jesus Tinoco"
     },
     {
       "date": "2025-07-17",
@@ -27,9 +21,15 @@
     },
     {
       "date": "2025-07-17",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinstransferred RHPJesus Tinocofrom the 15-day injured list to the 60-day injured list. Right forearm strain.",
-      "player": "Jesus Tinoco"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent CFDaulton Varshoon a rehab assignment to FCL Blue Jays.",
+      "player": "Daulton Varsho"
+    },
+    {
+      "date": "2025-07-17",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RHPRico Garcia.",
+      "player": "Rico Garcia"
     },
     {
       "date": "2025-07-17",
@@ -57,15 +57,15 @@
     },
     {
       "date": "2025-07-17",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPMichael Petersento Jacksonville Jumbo Shrimp.",
-      "player": "Michael Petersen"
-    },
-    {
-      "date": "2025-07-17",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliestraded CAndrick NavatoMilwaukee Brewersfor cash.",
       "player": "Andrick Nava"
+    },
+    {
+      "date": "2025-07-17",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPMichael Petersento Jacksonville Jumbo Shrimp.",
+      "player": "Michael Petersen"
     }
   ]
 }
