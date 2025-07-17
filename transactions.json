@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-17T16:35:06.498218",
+  "last_updated": "2025-07-17T17:26:01.150739",
   "transactions": [
     {
       "date": "2025-07-17",
@@ -21,6 +21,12 @@
     },
     {
       "date": "2025-07-17",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPPaxton Schultzon a rehab assignment to FCL Blue Jays.",
+      "player": "Paxton Schultz"
+    },
+    {
+      "date": "2025-07-17",
       "team": "New York Mets",
       "details": "New York Metssigned TWPMitch Voit.",
       "player": "Mitch Voit"
@@ -33,9 +39,9 @@
     },
     {
       "date": "2025-07-17",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPPaxton Schultzon a rehab assignment to FCL Blue Jays.",
-      "player": "Paxton Schultz"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPMichael Petersento Jacksonville Jumbo Shrimp.",
+      "player": "Michael Petersen"
     },
     {
       "date": "2025-07-17",
@@ -48,12 +54,6 @@
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliestraded CAndrick NavatoMilwaukee Brewers.",
       "player": "Andrick Nava"
-    },
-    {
-      "date": "2025-07-17",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPMichael Petersento Jacksonville Jumbo Shrimp.",
-      "player": "Michael Petersen"
     }
   ]
 }
