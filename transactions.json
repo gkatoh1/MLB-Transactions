@@ -1,29 +1,11 @@
 {
-  "last_updated": "2025-07-17T17:26:01.150739",
+  "last_updated": "2025-07-17T18:40:03.705247",
   "transactions": [
     {
       "date": "2025-07-17",
       "team": "Miami Marlins",
       "details": "Miami Marlinstransferred RHPJesus Tinocofrom the 15-day injured list to the 60-day injured list. Right forearm strain.",
       "player": "Jesus Tinoco"
-    },
-    {
-      "date": "2025-07-17",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPPaul Blackburnon a rehab assignment to FCL Mets.",
-      "player": "Paul Blackburn"
-    },
-    {
-      "date": "2025-07-17",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent CFDaulton Varshoon a rehab assignment to FCL Blue Jays.",
-      "player": "Daulton Varsho"
-    },
-    {
-      "date": "2025-07-17",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPPaxton Schultzon a rehab assignment to FCL Blue Jays.",
-      "player": "Paxton Schultz"
     },
     {
       "date": "2025-07-17",
@@ -39,6 +21,42 @@
     },
     {
       "date": "2025-07-17",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent CFDaulton Varshoon a rehab assignment to FCL Blue Jays.",
+      "player": "Daulton Varsho"
+    },
+    {
+      "date": "2025-07-17",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RHPRico Garcia.",
+      "player": "Rico Garcia"
+    },
+    {
+      "date": "2025-07-17",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPPaxton Schultzon a rehab assignment to FCL Blue Jays.",
+      "player": "Paxton Schultz"
+    },
+    {
+      "date": "2025-07-17",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPPaul Blackburnon a rehab assignment to FCL Mets.",
+      "player": "Paul Blackburn"
+    },
+    {
+      "date": "2025-07-17",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliestraded CAndrick NavatoMilwaukee Brewersfor cash.",
+      "player": "Andrick Nava"
+    },
+    {
+      "date": "2025-07-17",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPClayton Beeterto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Clayton Beeter"
+    },
+    {
+      "date": "2025-07-17",
       "team": "Miami Marlins",
       "details": "Miami Marlinsoptioned RHPMichael Petersento Jacksonville Jumbo Shrimp.",
       "player": "Michael Petersen"
@@ -48,12 +66,6 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravestraded RHPMichael PetersentoMiami Marlinsfor cash.",
       "player": "Michael Petersen"
-    },
-    {
-      "date": "2025-07-17",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliestraded CAndrick NavatoMilwaukee Brewers.",
-      "player": "Andrick Nava"
     }
   ]
 }
