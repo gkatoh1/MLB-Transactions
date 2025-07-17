@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-07-17T02:20:58.995767",
+  "last_updated": "2025-07-17T04:00:29.505133",
   "transactions": [
-    {
-      "date": "2025-07-16",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersplaced 1BJake Burgeron the 10-day injured list retroactive to July 13, 2025. Left quadriceps injury.",
-      "player": "Jake Burger"
-    },
     {
       "date": "2025-07-16",
       "team": "Houston Astros",
@@ -21,21 +15,21 @@
     },
     {
       "date": "2025-07-16",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced 1BJake Burgeron the 10-day injured list retroactive to July 13, 2025. Left quadriceps injury.",
+      "player": "Jake Burger"
+    },
+    {
+      "date": "2025-07-16",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratestraded 2B Adam Frazier toKansas City Royalsfor SSCam Devanney.",
       "player": "Cam Devanney"
     },
     {
       "date": "2025-07-16",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesclaimed RHPElvin Rodriguezoff waivers fromMilwaukee Brewers.",
-      "player": "Elvin Rodriguez"
-    },
-    {
-      "date": "2025-07-16",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent CRob Brantlyoutright to Jacksonville Jumbo Shrimp.",
-      "player": "Rob Brantly"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratestraded 2BAdam FraziertoKansas City Royalsfor SS Cam Devanney.",
+      "player": "Adam Frazier"
     },
     {
       "date": "2025-07-16",
@@ -45,15 +39,21 @@
     },
     {
       "date": "2025-07-16",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent CRob Brantlyoutright to Jacksonville Jumbo Shrimp.",
+      "player": "Rob Brantly"
+    },
+    {
+      "date": "2025-07-16",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPElvin Rodriguezto Norfolk Tides.",
+      "details": "Baltimore Oriolesclaimed RHPElvin Rodriguezoff waivers fromMilwaukee Brewers.",
       "player": "Elvin Rodriguez"
     },
     {
       "date": "2025-07-16",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratestraded 2BAdam FraziertoKansas City Royalsfor SS Cam Devanney.",
-      "player": "Adam Frazier"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPElvin Rodriguezto Norfolk Tides.",
+      "player": "Elvin Rodriguez"
     }
   ]
 }
