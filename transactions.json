@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-16T23:26:50.685427",
+  "last_updated": "2025-07-17T02:20:58.995767",
   "transactions": [
+    {
+      "date": "2025-07-16",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced 1BJake Burgeron the 10-day injured list retroactive to July 13, 2025. Left quadriceps injury.",
+      "player": "Jake Burger"
+    },
     {
       "date": "2025-07-16",
       "team": "Houston Astros",
@@ -15,26 +21,8 @@
     },
     {
       "date": "2025-07-16",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersplaced 1BJake Burgeron the 10-day injured list retroactive to July 13, 2025. Left quadriceps injury.",
-      "player": "Jake Burger"
-    },
-    {
-      "date": "2025-07-16",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratestraded 2B Adam Frazier toKansas City Royalsfor SSCam Devanney.",
-      "player": "Cam Devanney"
-    },
-    {
-      "date": "2025-07-16",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPElvin Rodriguezto Norfolk Tides.",
-      "player": "Elvin Rodriguez"
-    },
-    {
-      "date": "2025-07-16",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned SSCam Devanneyto Indianapolis Indians.",
       "player": "Cam Devanney"
     },
     {
@@ -48,6 +36,18 @@
       "team": "Miami Marlins",
       "details": "Miami Marlinssent CRob Brantlyoutright to Jacksonville Jumbo Shrimp.",
       "player": "Rob Brantly"
+    },
+    {
+      "date": "2025-07-16",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned SSCam Devanneyto Indianapolis Indians.",
+      "player": "Cam Devanney"
+    },
+    {
+      "date": "2025-07-16",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPElvin Rodriguezto Norfolk Tides.",
+      "player": "Elvin Rodriguez"
     },
     {
       "date": "2025-07-16",
