@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-07-18T14:27:17.888502",
+  "last_updated": "2025-07-18T15:29:02.962230",
   "transactions": [
-    {
-      "date": "2025-07-18",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent RHPBailey Oberon a rehab assignment to St. Paul Saints.",
-      "player": "Bailey Ober"
-    },
     {
       "date": "2025-07-18",
       "team": "Minnesota Twins",
@@ -21,15 +15,27 @@
     },
     {
       "date": "2025-07-18",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerstraded RHPDane DunningtoAtlanta Bravesfor RHP José Ruiz and cash.",
-      "player": "Dane Dunning"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned CIke Irish.",
+      "player": "Ike Irish"
+    },
+    {
+      "date": "2025-07-18",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPBailey Oberon a rehab assignment to St. Paul Saints.",
+      "player": "Bailey Ober"
     },
     {
       "date": "2025-07-18",
       "team": "Texas Rangers",
       "details": "Texas Rangerstraded RHP Dane Dunning toAtlanta Bravesfor RHPJosé Ruizand cash.",
       "player": "José Ruiz"
+    },
+    {
+      "date": "2025-07-18",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerstraded RHPDane DunningtoAtlanta Bravesfor RHP José Ruiz and cash.",
+      "player": "Dane Dunning"
     }
   ]
 }
