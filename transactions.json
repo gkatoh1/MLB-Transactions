@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-18T20:29:41.255014",
+  "last_updated": "2025-07-18T21:26:22.629724",
   "transactions": [
+    {
+      "date": "2025-07-18",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent RHPCorbin Martin.",
+      "player": "Corbin Martin"
+    },
     {
       "date": "2025-07-18",
       "team": "Baltimore Orioles",
@@ -9,45 +15,33 @@
     },
     {
       "date": "2025-07-18",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsigned free agent CRonaldo Hernándezto a minor league contract.",
-      "player": "Ronaldo Hernández"
-    },
-    {
-      "date": "2025-07-18",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent RHPZach Eflinon a rehab assignment to FCL Orioles.",
       "player": "Zach Eflin"
     },
     {
       "date": "2025-07-18",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsactivated RFJordan Walkerfrom the 10-day injured list.",
-      "player": "Jordan Walker"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent RHPJosh Sborzon a rehab assignment to Frisco RoughRiders.",
+      "player": "Josh Sborz"
     },
     {
       "date": "2025-07-18",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated LHPRichard Loveladyfor assignment.",
-      "player": "Richard Lovelady"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent RHPJohan Oviedoon a rehab assignment to Altoona Curve.",
+      "player": "Johan Oviedo"
     },
     {
       "date": "2025-07-18",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent RHPZach Eflinon a rehab assignment to FCL Orioles.",
-      "player": "Zach Eflin"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPDane Dunning.",
+      "player": "Dane Dunning"
     },
     {
       "date": "2025-07-18",
-      "team": "Unknown Team",
-      "details": "RFJohn Ravechanged number to 16.",
-      "player": "John Rave"
-    },
-    {
-      "date": "2025-07-18",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent 2BMichael Masseyon a rehab assignment to Northwest Arkansas Naturals.",
-      "player": "Michael Massey"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPNestor Corteson a rehab assignment to Nashville Sounds.",
+      "player": "Nestor Cortes"
     },
     {
       "date": "2025-07-18",
@@ -57,9 +51,9 @@
     },
     {
       "date": "2025-07-18",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned CIke Irish.",
-      "player": "Ike Irish"
+      "team": "New York Mets",
+      "details": "New York Metssent RHPJosé Buttóon a rehab assignment to Syracuse Mets.",
+      "player": "José Buttó"
     },
     {
       "date": "2025-07-18",
@@ -87,27 +81,75 @@
     },
     {
       "date": "2025-07-18",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated RFJordan Walkerfrom the 10-day injured list.",
+      "player": "Jordan Walker"
+    },
+    {
+      "date": "2025-07-18",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated LHPRichard Loveladyfor assignment.",
+      "player": "Richard Lovelady"
+    },
+    {
+      "date": "2025-07-18",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinssent 2BLuke Keaschallon a rehab assignment to St. Paul Saints.",
       "player": "Luke Keaschall"
     },
     {
       "date": "2025-07-18",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent CFDaulton Varshoon a rehab assignment to Dunedin Blue Jays.",
+      "player": "Daulton Varsho"
+    },
+    {
+      "date": "2025-07-18",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPZach Eflinon a rehab assignment to FCL Orioles.",
+      "player": "Zach Eflin"
+    },
+    {
+      "date": "2025-07-18",
+      "team": "Unknown Team",
+      "details": "RFJohn Ravechanged number to 16.",
+      "player": "John Rave"
+    },
+    {
+      "date": "2025-07-18",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent 2BMichael Masseyon a rehab assignment to Northwest Arkansas Naturals.",
+      "player": "Michael Massey"
+    },
+    {
+      "date": "2025-07-18",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated SSEzequiel Tovarfrom the 10-day injured list.",
+      "player": "Ezequiel Tovar"
+    },
+    {
+      "date": "2025-07-18",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned CIke Irish.",
+      "player": "Ike Irish"
+    },
+    {
+      "date": "2025-07-18",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesactivated RHPDane Dunning.",
       "player": "Dane Dunning"
     },
     {
       "date": "2025-07-18",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPJosé Buttóon a rehab assignment to Syracuse Mets.",
-      "player": "José Buttó"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned free agent CRonaldo Hernándezto a minor league contract.",
+      "player": "Ronaldo Hernández"
     },
     {
       "date": "2025-07-18",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPDane Dunning.",
-      "player": "Dane Dunning"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent SSGabriel Ariason a rehab assignment to Columbus Clippers.",
+      "player": "Gabriel Arias"
     },
     {
       "date": "2025-07-18",
@@ -117,27 +159,21 @@
     },
     {
       "date": "2025-07-18",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent RHPCorbin Martin.",
-      "player": "Corbin Martin"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RHPBlake Treinenon a rehab assignment to Oklahoma City Comets.",
+      "player": "Blake Treinen"
     },
     {
       "date": "2025-07-18",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssent LHPScott Alexanderoutright to Sacramento River Cats.",
-      "player": "Scott Alexander"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPNic Enrightfrom Columbus Clippers.",
+      "player": "Nic Enright"
     },
     {
       "date": "2025-07-18",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned 1BCurtis Meadto Durham Bulls.",
-      "player": "Curtis Mead"
-    },
-    {
-      "date": "2025-07-18",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsselected the contract of LHPMatt Gagefrom Sacramento River Cats.",
-      "player": "Matt Gage"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersselected the contract of 1BRowdy Tellezfrom Round Rock Express.",
+      "player": "Rowdy Tellez"
     },
     {
       "date": "2025-07-18",
@@ -153,6 +189,18 @@
     },
     {
       "date": "2025-07-18",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent LHPScott Alexanderoutright to Sacramento River Cats.",
+      "player": "Scott Alexander"
+    },
+    {
+      "date": "2025-07-18",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned 1BCurtis Meadto Durham Bulls.",
+      "player": "Curtis Mead"
+    },
+    {
+      "date": "2025-07-18",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesrecalled SSLiover Peguerofrom Indianapolis Indians.",
       "player": "Liover Peguero"
@@ -165,9 +213,9 @@
     },
     {
       "date": "2025-07-18",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RHPNic Enrightfrom Columbus Clippers.",
-      "player": "Nic Enright"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsselected the contract of LHPMatt Gagefrom Sacramento River Cats.",
+      "player": "Matt Gage"
     }
   ]
 }
