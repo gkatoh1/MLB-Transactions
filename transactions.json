@@ -1,24 +1,6 @@
 {
-  "last_updated": "2025-07-18T18:38:10.006247",
+  "last_updated": "2025-07-18T19:22:15.554288",
   "transactions": [
-    {
-      "date": "2025-07-18",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated 2BAdam Frazier.",
-      "player": "Adam Frazier"
-    },
-    {
-      "date": "2025-07-18",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPJosé Buttóon a rehab assignment to Syracuse Mets.",
-      "player": "José Buttó"
-    },
-    {
-      "date": "2025-07-18",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPDane Dunning.",
-      "player": "Dane Dunning"
-    },
     {
       "date": "2025-07-18",
       "team": "St. Louis Cardinals",
@@ -33,9 +15,21 @@
     },
     {
       "date": "2025-07-18",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent RHPJohan Oviedoon a rehab assignment to Altoona Curve.",
+      "player": "Johan Oviedo"
+    },
+    {
+      "date": "2025-07-18",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesactivated RHPDane Dunning.",
       "player": "Dane Dunning"
+    },
+    {
+      "date": "2025-07-18",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated 2BAdam Frazier.",
+      "player": "Adam Frazier"
     },
     {
       "date": "2025-07-18",
@@ -51,15 +45,33 @@
     },
     {
       "date": "2025-07-18",
-      "team": "New York Mets",
-      "details": "New York Metsactivated LHPBrooks Raleyfrom the 60-day injured list.",
-      "player": "Brooks Raley"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPDane Dunning.",
+      "player": "Dane Dunning"
     },
     {
       "date": "2025-07-18",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinssent 2BLuke Keaschallon a rehab assignment to St. Paul Saints.",
       "player": "Luke Keaschall"
+    },
+    {
+      "date": "2025-07-18",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPJosé Buttóon a rehab assignment to Syracuse Mets.",
+      "player": "José Buttó"
+    },
+    {
+      "date": "2025-07-18",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated 2BBrandon Lowefrom the reserve list.",
+      "player": "Brandon Lowe"
+    },
+    {
+      "date": "2025-07-18",
+      "team": "New York Mets",
+      "details": "New York Metsactivated LHPBrooks Raleyfrom the 60-day injured list.",
+      "player": "Brooks Raley"
     },
     {
       "date": "2025-07-18",
@@ -75,9 +87,21 @@
     },
     {
       "date": "2025-07-18",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent LHPScott Alexanderoutright to Sacramento River Cats.",
+      "player": "Scott Alexander"
+    },
+    {
+      "date": "2025-07-18",
       "team": "Texas Rangers",
       "details": "Texas Rangerstraded RHPDane DunningtoAtlanta Bravesfor RHP José Ruiz and cash.",
       "player": "Dane Dunning"
+    },
+    {
+      "date": "2025-07-18",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerstraded RHP Dane Dunning toAtlanta Bravesfor RHPJosé Ruizand cash.",
+      "player": "José Ruiz"
     },
     {
       "date": "2025-07-18",
@@ -87,9 +111,21 @@
     },
     {
       "date": "2025-07-18",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerstraded RHP Dane Dunning toAtlanta Bravesfor RHPJosé Ruizand cash.",
-      "player": "José Ruiz"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsselected the contract of LHPMatt Gagefrom Sacramento River Cats.",
+      "player": "Matt Gage"
+    },
+    {
+      "date": "2025-07-18",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPNic Enrightfrom Columbus Clippers.",
+      "player": "Nic Enright"
+    },
+    {
+      "date": "2025-07-18",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled SSLiover Peguerofrom Indianapolis Indians.",
+      "player": "Liover Peguero"
     }
   ]
 }
