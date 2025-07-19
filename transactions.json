@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-07-19T16:31:57.656082",
+  "last_updated": "2025-07-19T17:24:36.206700",
   "transactions": [
+    {
+      "date": "2025-07-19",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent RHPJon Grayon a rehab assignment to Round Rock Express.",
+      "player": "Jon Gray"
+    },
     {
       "date": "2025-07-19",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessigned SSWehiwa Aloy.",
       "player": "Wehiwa Aloy"
+    },
+    {
+      "date": "2025-07-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned LHPJoseph Dzierwa.",
+      "player": "Joseph Dzierwa"
     },
     {
       "date": "2025-07-19",
@@ -15,15 +27,21 @@
     },
     {
       "date": "2025-07-19",
-      "team": "New York Yankees",
-      "details": "New York Yankeesdesignated RHPRico Garciafor assignment.",
-      "player": "Rico Garcia"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned RHPJT Quinn.",
+      "player": "JT Quinn"
+    },
+    {
+      "date": "2025-07-19",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPZebby Matthewsfrom the 15-day injured list.",
+      "player": "Zebby Matthews"
     },
     {
       "date": "2025-07-19",
       "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPAllan Winansfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Allan Winans"
+      "details": "New York Yankeesdesignated RHPRico Garciafor assignment.",
+      "player": "Rico Garcia"
     },
     {
       "date": "2025-07-19",
@@ -33,9 +51,21 @@
     },
     {
       "date": "2025-07-19",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
+      "player": "Travis Adams"
+    },
+    {
+      "date": "2025-07-19",
       "team": "New York Mets",
       "details": "New York Metsoptioned LHPBrandon Waddellto Syracuse Mets.",
       "player": "Brandon Waddell"
+    },
+    {
+      "date": "2025-07-19",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPAllan Winansfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Allan Winans"
     }
   ]
 }
