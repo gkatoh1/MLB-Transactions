@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-07-19T17:24:36.206700",
+  "last_updated": "2025-07-19T18:35:45.954005",
   "transactions": [
-    {
-      "date": "2025-07-19",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssent RHPJon Grayon a rehab assignment to Round Rock Express.",
-      "player": "Jon Gray"
-    },
-    {
-      "date": "2025-07-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned SSWehiwa Aloy.",
-      "player": "Wehiwa Aloy"
-    },
     {
       "date": "2025-07-19",
       "team": "Baltimore Orioles",
@@ -27,9 +15,21 @@
     },
     {
       "date": "2025-07-19",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssigned free agent LHPBruce Zimmermannto a minor league contract.",
+      "player": "Bruce Zimmermann"
+    },
+    {
+      "date": "2025-07-19",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent RHPJon Grayon a rehab assignment to Round Rock Express.",
+      "player": "Jon Gray"
+    },
+    {
+      "date": "2025-07-19",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned RHPJT Quinn.",
-      "player": "JT Quinn"
+      "details": "Baltimore Oriolessigned SSWehiwa Aloy.",
+      "player": "Wehiwa Aloy"
     },
     {
       "date": "2025-07-19",
@@ -45,9 +45,9 @@
     },
     {
       "date": "2025-07-19",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPKevin Hergetfrom Syracuse Mets.",
-      "player": "Kevin Herget"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned RHPJT Quinn.",
+      "player": "JT Quinn"
     },
     {
       "date": "2025-07-19",
@@ -57,15 +57,21 @@
     },
     {
       "date": "2025-07-19",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned LHPBrandon Waddellto Syracuse Mets.",
-      "player": "Brandon Waddell"
-    },
-    {
-      "date": "2025-07-19",
       "team": "New York Yankees",
       "details": "New York Yankeesrecalled RHPAllan Winansfrom Scranton/Wilkes-Barre RailRiders.",
       "player": "Allan Winans"
+    },
+    {
+      "date": "2025-07-19",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPKevin Hergetfrom Syracuse Mets.",
+      "player": "Kevin Herget"
+    },
+    {
+      "date": "2025-07-19",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned LHPBrandon Waddellto Syracuse Mets.",
+      "player": "Brandon Waddell"
     }
   ]
 }
