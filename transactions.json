@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-07-19T18:35:45.954005",
+  "last_updated": "2025-07-19T19:20:29.055173",
   "transactions": [
+    {
+      "date": "2025-07-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned RHPJT Quinn.",
+      "player": "JT Quinn"
+    },
     {
       "date": "2025-07-19",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessigned LHPJoseph Dzierwa.",
       "player": "Joseph Dzierwa"
+    },
+    {
+      "date": "2025-07-19",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated LFBrooks Baldwinfrom the 10-day injured list.",
+      "player": "Brooks Baldwin"
+    },
+    {
+      "date": "2025-07-19",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RHPShane Smithon the 15-day injured list retroactive to July 16, 2025. Left ankle sprain.",
+      "player": "Shane Smith"
     },
     {
       "date": "2025-07-19",
@@ -15,15 +33,15 @@
     },
     {
       "date": "2025-07-19",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssigned free agent LHPBruce Zimmermannto a minor league contract.",
-      "player": "Bruce Zimmermann"
+      "team": "Athletics",
+      "details": "Athleticsdesignated CJhonny Peredafor assignment.",
+      "player": "Jhonny Pereda"
     },
     {
       "date": "2025-07-19",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssent RHPJon Grayon a rehab assignment to Round Rock Express.",
-      "player": "Jon Gray"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsplaced 2BNolan Gormanon the 10-day injured list retroactive to July 13, 2025. Lower back pain.",
+      "player": "Nolan Gorman"
     },
     {
       "date": "2025-07-19",
@@ -33,33 +51,45 @@
     },
     {
       "date": "2025-07-19",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPZebby Matthewsfrom the 15-day injured list.",
-      "player": "Zebby Matthews"
-    },
-    {
-      "date": "2025-07-19",
       "team": "New York Yankees",
       "details": "New York Yankeesdesignated RHPRico Garciafor assignment.",
       "player": "Rico Garcia"
     },
     {
       "date": "2025-07-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned RHPJT Quinn.",
-      "player": "JT Quinn"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssigned free agent LHPBruce Zimmermannto a minor league contract.",
+      "player": "Bruce Zimmermann"
+    },
+    {
+      "date": "2025-07-19",
+      "team": "Athletics",
+      "details": "Athleticsactivated LHPKen Waldichukfrom the 60-day injured list.",
+      "player": "Ken Waldichuk"
+    },
+    {
+      "date": "2025-07-19",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent RHPJon Grayon a rehab assignment to Round Rock Express.",
+      "player": "Jon Gray"
     },
     {
       "date": "2025-07-19",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
-      "player": "Travis Adams"
+      "details": "Minnesota Twinsactivated RHPZebby Matthewsfrom the 15-day injured list.",
+      "player": "Zebby Matthews"
     },
     {
       "date": "2025-07-19",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPAllan Winansfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Allan Winans"
+      "team": "Athletics",
+      "details": "Athleticsoptioned LHPKen Waldichukto Las Vegas Aviators.",
+      "player": "Ken Waldichuk"
+    },
+    {
+      "date": "2025-07-19",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned LHPBrandon Waddellto Syracuse Mets.",
+      "player": "Brandon Waddell"
     },
     {
       "date": "2025-07-19",
@@ -69,9 +99,33 @@
     },
     {
       "date": "2025-07-19",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned LHPBrandon Waddellto Syracuse Mets.",
-      "player": "Brandon Waddell"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled 2BThomas Saggesefrom Memphis Redbirds.",
+      "player": "Thomas Saggese"
+    },
+    {
+      "date": "2025-07-19",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPAllan Winansfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Allan Winans"
+    },
+    {
+      "date": "2025-07-19",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
+      "player": "Travis Adams"
+    },
+    {
+      "date": "2025-07-19",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LFWill Robertsonto Charlotte Knights.",
+      "player": "Will Robertson"
+    },
+    {
+      "date": "2025-07-19",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPWikelman Gonzálezfrom Charlotte Knights.",
+      "player": "Wikelman González"
     }
   ]
 }
