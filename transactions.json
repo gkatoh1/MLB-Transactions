@@ -1,11 +1,41 @@
 {
-  "last_updated": "2025-07-19T15:26:33.964134",
+  "last_updated": "2025-07-19T16:31:57.656082",
   "transactions": [
+    {
+      "date": "2025-07-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned SSWehiwa Aloy.",
+      "player": "Wehiwa Aloy"
+    },
     {
       "date": "2025-07-19",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerssent LHPRobert Gasseron a rehab assignment to ACL Brewers.",
       "player": "Robert Gasser"
+    },
+    {
+      "date": "2025-07-19",
+      "team": "New York Yankees",
+      "details": "New York Yankeesdesignated RHPRico Garciafor assignment.",
+      "player": "Rico Garcia"
+    },
+    {
+      "date": "2025-07-19",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPAllan Winansfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Allan Winans"
+    },
+    {
+      "date": "2025-07-19",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPKevin Hergetfrom Syracuse Mets.",
+      "player": "Kevin Herget"
+    },
+    {
+      "date": "2025-07-19",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned LHPBrandon Waddellto Syracuse Mets.",
+      "player": "Brandon Waddell"
     }
   ]
 }
