@@ -1,6 +1,36 @@
 {
-  "last_updated": "2025-07-20T15:26:28.423479",
+  "last_updated": "2025-07-20T16:31:46.827837",
   "transactions": [
+    {
+      "date": "2025-07-20",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned OFCamden Troyer.",
+      "player": "Camden Troyer"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPAlek Manoahon a rehab assignment to Dunedin Blue Jays.",
+      "player": "Alek Manoah"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned SSJackson Lovich.",
+      "player": "Jackson Lovich"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned free agent RHPMac Heuerto a minor league contract.",
+      "player": "Mac Heuer"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced SSRyan Ritteron the 10-day injured list. Right middle finger laceration.",
+      "player": "Ryan Ritter"
+    },
     {
       "date": "2025-07-20",
       "team": "Houston Astros",
@@ -9,9 +39,27 @@
     },
     {
       "date": "2025-07-20",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPAlek Manoahon a rehab assignment to Dunedin Blue Jays.",
-      "player": "Alek Manoah"
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned RHPBrennan Stuprich.",
+      "player": "Brennan Stuprich"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "New York Yankees",
+      "details": "RHPBrennan Stuprichroster status changed byNew York Yankees.",
+      "player": "Brennan Stuprich"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent RHPHunter Harveyon a rehab assignment to Northwest Arkansas Naturals.",
+      "player": "Hunter Harvey"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled 2BAdael Amadorfrom Albuquerque Isotopes.",
+      "player": "Adael Amador"
     }
   ]
 }
