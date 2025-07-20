@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-07-20T20:29:03.075245",
+  "last_updated": "2025-07-20T21:24:55.568940",
   "transactions": [
-    {
-      "date": "2025-07-20",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced 2BBrendan Rodgerson the 60-day injured list. Left oblique strain.",
-      "player": "Brendan Rodgers"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced 3BIsaac Paredeson the 10-day injured list. Right hamstring strain.",
-      "player": "Isaac Paredes"
-    },
     {
       "date": "2025-07-20",
       "team": "Colorado Rockies",
@@ -33,51 +21,15 @@
     },
     {
       "date": "2025-07-20",
-      "team": "New York Yankees",
-      "details": "New York Yankeessigned RHPBrennan Stuprich.",
-      "player": "Brennan Stuprich"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "New York Yankees",
-      "details": "RHPBrennan Stuprichroster status changed byNew York Yankees.",
-      "player": "Brennan Stuprich"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced LFJake Bauerson the 10-day injured list retroactive to July 19, 2025. Left shoulder inflammation.",
-      "player": "Jake Bauers"
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced 2BBrendan Rodgerson the 60-day injured list. Left oblique strain.",
+      "player": "Brendan Rodgers"
     },
     {
       "date": "2025-07-20",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalssent RHPHunter Harveyon a rehab assignment to Northwest Arkansas Naturals.",
       "player": "Hunter Harvey"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksdesignated SSSergio Alcántarafor assignment.",
-      "player": "Sergio Alcántara"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced LFJake Bauerson the 10-day injured list retroactive to July 19, 2025. Left shoulder impingement.",
-      "player": "Jake Bauers"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RHPLuis Garciaon a rehab assignment to Fayetteville Woodpeckers.",
-      "player": "Luis Garcia"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "New York Yankees",
-      "details": "New York Yankeessigned SSJackson Lovich.",
-      "player": "Jackson Lovich"
     },
     {
       "date": "2025-07-20",
@@ -93,6 +45,18 @@
     },
     {
       "date": "2025-07-20",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksdesignated SSSergio Alcántarafor assignment.",
+      "player": "Sergio Alcántara"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced LFJake Bauerson the 10-day injured list retroactive to July 19, 2025. Left shoulder impingement.",
+      "player": "Jake Bauers"
+    },
+    {
+      "date": "2025-07-20",
       "team": "New York Yankees",
       "details": "New York Yankeessigned OFCamden Troyer.",
       "player": "Camden Troyer"
@@ -105,9 +69,51 @@
     },
     {
       "date": "2025-07-20",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced 3BIsaac Paredeson the 10-day injured list. Right hamstring strain.",
+      "player": "Isaac Paredes"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPLuis Garciaon a rehab assignment to Fayetteville Woodpeckers.",
+      "player": "Luis Garcia"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned SSJackson Lovich.",
+      "player": "Jackson Lovich"
+    },
+    {
+      "date": "2025-07-20",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled 3BTyler Blackfrom Nashville Sounds.",
-      "player": "Tyler Black"
+      "details": "Milwaukee Brewersplaced LFJake Bauerson the 10-day injured list retroactive to July 19, 2025. Left shoulder inflammation.",
+      "player": "Jake Bauers"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPAlex Langeon a rehab assignment to Toledo Mud Hens.",
+      "player": "Alex Lange"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned RHPBrennan Stuprich.",
+      "player": "Brennan Stuprich"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "New York Yankees",
+      "details": "RHPBrennan Stuprichroster status changed byNew York Yankees.",
+      "player": "Brennan Stuprich"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled 2BAdael Amadorfrom Albuquerque Isotopes.",
+      "player": "Adael Amador"
     },
     {
       "date": "2025-07-20",
@@ -118,20 +124,20 @@
     {
       "date": "2025-07-20",
       "team": "Houston Astros",
-      "details": "Houston Astrosrecalled LFShay Whitcombfrom Sugar Land Space Cowboys.",
-      "player": "Shay Whitcomb"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "Houston Astros",
       "details": "Houston Astrosoptioned CCésar Salazarto Sugar Land Space Cowboys.",
       "player": "César Salazar"
     },
     {
       "date": "2025-07-20",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled 2BAdael Amadorfrom Albuquerque Isotopes.",
-      "player": "Adael Amador"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled 3BTyler Blackfrom Nashville Sounds.",
+      "player": "Tyler Black"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled LFShay Whitcombfrom Sugar Land Space Cowboys.",
+      "player": "Shay Whitcomb"
     }
   ]
 }
