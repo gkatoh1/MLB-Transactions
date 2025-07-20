@@ -1,42 +1,6 @@
 {
-  "last_updated": "2025-07-20T22:26:02.125431",
+  "last_updated": "2025-07-20T23:26:51.330559",
   "transactions": [
-    {
-      "date": "2025-07-20",
-      "team": "New York Yankees",
-      "details": "New York Yankeessigned RHPBrennan Stuprich.",
-      "player": "Brennan Stuprich"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced SSRyan Ritteron the 10-day injured list. Right middle finger laceration.",
-      "player": "Ryan Ritter"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPAlek Manoahon a rehab assignment to Dunedin Blue Jays.",
-      "player": "Alek Manoah"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "New York Yankees",
-      "details": "New York Yankeessigned free agent RHPMac Heuerto a minor league contract.",
-      "player": "Mac Heuer"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced 2BBrendan Rodgerson the 60-day injured list. Left oblique strain.",
-      "player": "Brendan Rodgers"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent RHPHunter Harveyon a rehab assignment to Northwest Arkansas Naturals.",
-      "player": "Hunter Harvey"
-    },
     {
       "date": "2025-07-20",
       "team": "Los Angeles Dodgers",
@@ -45,27 +9,9 @@
     },
     {
       "date": "2025-07-20",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced LFJake Bauerson the 10-day injured list retroactive to July 19, 2025. Left shoulder impingement.",
-      "player": "Jake Bauers"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced LFJake Bauerson the 10-day injured list retroactive to July 19, 2025. Left shoulder inflammation.",
-      "player": "Jake Bauers"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksactivated 2BKetel Martefrom the restricted list.",
-      "player": "Ketel Marte"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent RHPHunter Harveyon a rehab assignment to Northwest Arkansas Naturals.",
-      "player": "Hunter Harvey"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPLuis Garciaon a rehab assignment to Fayetteville Woodpeckers.",
+      "player": "Luis Garcia"
     },
     {
       "date": "2025-07-20",
@@ -75,9 +21,9 @@
     },
     {
       "date": "2025-07-20",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RHPLuis Garciaon a rehab assignment to Fayetteville Woodpeckers.",
-      "player": "Luis Garcia"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced SSRyan Ritteron the 10-day injured list. Right middle finger laceration.",
+      "player": "Ryan Ritter"
     },
     {
       "date": "2025-07-20",
@@ -100,20 +46,68 @@
     {
       "date": "2025-07-20",
       "team": "New York Yankees",
-      "details": "RHPBrennan Stuprichroster status changed byNew York Yankees.",
-      "player": "Brennan Stuprich"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "New York Yankees",
       "details": "New York Yankeessigned OFCamden Troyer.",
       "player": "Camden Troyer"
     },
     {
       "date": "2025-07-20",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent RHPHunter Harveyon a rehab assignment to Northwest Arkansas Naturals.",
+      "player": "Hunter Harvey"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPAlek Manoahon a rehab assignment to Dunedin Blue Jays.",
+      "player": "Alek Manoah"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned free agent RHPMac Heuerto a minor league contract.",
+      "player": "Mac Heuer"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced 2BBrendan Rodgerson the 60-day injured list. Left oblique strain.",
+      "player": "Brendan Rodgers"
+    },
+    {
+      "date": "2025-07-20",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled 3BTyler Blackfrom Nashville Sounds.",
-      "player": "Tyler Black"
+      "details": "Milwaukee Brewersplaced LFJake Bauerson the 10-day injured list retroactive to July 19, 2025. Left shoulder inflammation.",
+      "player": "Jake Bauers"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent RHPHunter Harveyon a rehab assignment to Northwest Arkansas Naturals.",
+      "player": "Hunter Harvey"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated 2BKetel Martefrom the restricted list.",
+      "player": "Ketel Marte"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced LFJake Bauerson the 10-day injured list retroactive to July 19, 2025. Left shoulder impingement.",
+      "player": "Jake Bauers"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned RHPBrennan Stuprich.",
+      "player": "Brennan Stuprich"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "New York Yankees",
+      "details": "RHPBrennan Stuprichroster status changed byNew York Yankees.",
+      "player": "Brennan Stuprich"
     },
     {
       "date": "2025-07-20",
@@ -124,8 +118,14 @@
     {
       "date": "2025-07-20",
       "team": "Houston Astros",
-      "details": "Houston Astrosrecalled LFShay Whitcombfrom Sugar Land Space Cowboys.",
-      "player": "Shay Whitcomb"
+      "details": "Houston Astrosselected the contract of 1BJon Singletonfrom Sugar Land Space Cowboys.",
+      "player": "Jon Singleton"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled 3BTyler Blackfrom Nashville Sounds.",
+      "player": "Tyler Black"
     },
     {
       "date": "2025-07-20",
@@ -136,8 +136,8 @@
     {
       "date": "2025-07-20",
       "team": "Houston Astros",
-      "details": "Houston Astrosselected the contract of 1BJon Singletonfrom Sugar Land Space Cowboys.",
-      "player": "Jon Singleton"
+      "details": "Houston Astrosrecalled LFShay Whitcombfrom Sugar Land Space Cowboys.",
+      "player": "Shay Whitcomb"
     },
     {
       "date": "2025-07-20",
