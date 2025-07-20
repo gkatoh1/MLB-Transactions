@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-07-20T16:31:46.827837",
+  "last_updated": "2025-07-20T17:23:24.230293",
   "transactions": [
     {
       "date": "2025-07-20",
-      "team": "New York Yankees",
-      "details": "New York Yankeessigned OFCamden Troyer.",
-      "player": "Camden Troyer"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced SSRyan Ritteron the 10-day injured list. Right middle finger laceration.",
+      "player": "Ryan Ritter"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced LFJake Bauerson the 10-day injured list retroactive to July 19, 2025. Left shoulder inflammation.",
+      "player": "Jake Bauers"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced LFJake Bauerson the 10-day injured list retroactive to July 19, 2025. Left shoulder impingement.",
+      "player": "Jake Bauers"
     },
     {
       "date": "2025-07-20",
@@ -16,26 +28,8 @@
     {
       "date": "2025-07-20",
       "team": "New York Yankees",
-      "details": "New York Yankeessigned SSJackson Lovich.",
-      "player": "Jackson Lovich"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "New York Yankees",
       "details": "New York Yankeessigned free agent RHPMac Heuerto a minor league contract.",
       "player": "Mac Heuer"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced SSRyan Ritteron the 10-day injured list. Right middle finger laceration.",
-      "player": "Ryan Ritter"
-    },
-    {
-      "date": "2025-07-20",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RHPLuis Garciaon a rehab assignment to Fayetteville Woodpeckers.",
-      "player": "Luis Garcia"
     },
     {
       "date": "2025-07-20",
@@ -51,9 +45,33 @@
     },
     {
       "date": "2025-07-20",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned OFCamden Troyer.",
+      "player": "Camden Troyer"
+    },
+    {
+      "date": "2025-07-20",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalssent RHPHunter Harveyon a rehab assignment to Northwest Arkansas Naturals.",
       "player": "Hunter Harvey"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPLuis Garciaon a rehab assignment to Fayetteville Woodpeckers.",
+      "player": "Luis Garcia"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned SSJackson Lovich.",
+      "player": "Jackson Lovich"
+    },
+    {
+      "date": "2025-07-20",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled 3BTyler Blackfrom Nashville Sounds.",
+      "player": "Tyler Black"
     },
     {
       "date": "2025-07-20",
