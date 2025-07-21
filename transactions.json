@@ -1,29 +1,23 @@
 {
-  "last_updated": "2025-07-21T17:27:02.341420",
+  "last_updated": "2025-07-21T18:40:06.976002",
   "transactions": [
     {
       "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPShane Van Dam.",
-      "player": "Shane Van Dam"
+      "team": "New York Mets",
+      "details": "New York Metstransferred RHPDedniel Núñezfrom the 15-day injured list to the 60-day injured list. Right elbow sprain.",
+      "player": "Dedniel Núñez"
     },
     {
       "date": "2025-07-21",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned 1BJC Vanek.",
-      "player": "JC Vanek"
+      "details": "LHPRyan Ureassigned toKansas City Royals.",
+      "player": "Ryan Ure"
     },
     {
       "date": "2025-07-21",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent RHPMax Poirierto a minor league contract.",
-      "player": "Max Poirier"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned SSJosh Hammond.",
-      "player": "Josh Hammond"
+      "details": "Kansas City Royalssigned CBrooks Bryan.",
+      "player": "Brooks Bryan"
     },
     {
       "date": "2025-07-21",
@@ -34,56 +28,20 @@
     {
       "date": "2025-07-21",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPMax Martin.",
-      "player": "Max Martin"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPHunter Alberini.",
-      "player": "Hunter Alberini"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPAiden Jimenez.",
-      "player": "Aiden Jimenez"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPBryson Dudley.",
-      "player": "Bryson Dudley"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent LHPKeegan Akinon a rehab assignment to FCL Orioles.",
-      "player": "Keegan Akin"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned SSConnor Rasmussen.",
-      "player": "Connor Rasmussen"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
       "details": "Kansas City Royalssigned free agent LHPCory Ronanto a minor league contract.",
       "player": "Cory Ronan"
     },
     {
       "date": "2025-07-21",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPRandy Ramnarace.",
-      "player": "Randy Ramnarace"
+      "details": "Kansas City Royalssigned free agent OFHunter Ensleyto a minor league contract.",
+      "player": "Hunter Ensley"
     },
     {
       "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "LHPRyan Ureassigned toKansas City Royals.",
-      "player": "Ryan Ure"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPJ.P. Franceon a rehab assignment to FCL Astros.",
+      "player": "J.P. France"
     },
     {
       "date": "2025-07-21",
@@ -100,26 +58,8 @@
     {
       "date": "2025-07-21",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent LHPRyan Ureto a minor league contract.",
-      "player": "Ryan Ure"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPCameron Millar.",
-      "player": "Cameron Millar"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent OFHunter Ensleyto a minor league contract.",
-      "player": "Hunter Ensley"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RHPJ.P. Franceon a rehab assignment to FCL Astros.",
-      "player": "J.P. France"
+      "details": "Kansas City Royalssigned RHPMax Martin.",
+      "player": "Max Martin"
     },
     {
       "date": "2025-07-21",
@@ -160,8 +100,86 @@
     {
       "date": "2025-07-21",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned CBrooks Bryan.",
-      "player": "Brooks Bryan"
+      "details": "Kansas City Royalssigned free agent LHPRyan Ureto a minor league contract.",
+      "player": "Ryan Ure"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned RHPCameron Millar.",
+      "player": "Cameron Millar"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned RHPHunter Alberini.",
+      "player": "Hunter Alberini"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned RHPAiden Jimenez.",
+      "player": "Aiden Jimenez"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned RHPBryson Dudley.",
+      "player": "Bryson Dudley"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LHPKeegan Akinon a rehab assignment to FCL Orioles.",
+      "player": "Keegan Akin"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned SSConnor Rasmussen.",
+      "player": "Connor Rasmussen"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned RHPShane Van Dam.",
+      "player": "Shane Van Dam"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned 1BJC Vanek.",
+      "player": "JC Vanek"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned RHPRandy Ramnarace.",
+      "player": "Randy Ramnarace"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent RHPMax Poirierto a minor league contract.",
+      "player": "Max Poirier"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned SSJosh Hammond.",
+      "player": "Josh Hammond"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "New York Mets",
+      "details": "New York Metsclaimed RHPRico Garciaoff waivers fromNew York Yankees.",
+      "player": "Rico Garcia"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPDavid Robertsonto Lehigh Valley IronPigs.",
+      "player": "David Robertson"
     },
     {
       "date": "2025-07-21",
@@ -171,9 +189,21 @@
     },
     {
       "date": "2025-07-21",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPDavid Robertsonto Lehigh Valley IronPigs.",
-      "player": "David Robertson"
+      "team": "New York Mets",
+      "details": "New York Metsrecalled CFrancisco Alvarezfrom Syracuse Mets.",
+      "player": "Francisco Alvarez"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "New York Mets",
+      "details": "New York Metssent LHPRichard Loveladyoutright to Syracuse Mets.",
+      "player": "Richard Lovelady"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
+      "player": "Hayden Senger"
     }
   ]
 }
