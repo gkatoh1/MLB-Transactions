@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-07-21T16:35:18.609282",
+  "last_updated": "2025-07-21T17:27:02.341420",
   "transactions": [
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned OFSean Gamble.",
-      "player": "Sean Gamble"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPMichael Lombardi.",
-      "player": "Michael Lombardi"
-    },
     {
       "date": "2025-07-21",
       "team": "Kansas City Royals",
@@ -28,8 +16,20 @@
     {
       "date": "2025-07-21",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned SSConnor Rasmussen.",
-      "player": "Connor Rasmussen"
+      "details": "Kansas City Royalssigned free agent RHPMax Poirierto a minor league contract.",
+      "player": "Max Poirier"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned SSJosh Hammond.",
+      "player": "Josh Hammond"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned RHPMatthew Hoskins.",
+      "player": "Matthew Hoskins"
     },
     {
       "date": "2025-07-21",
@@ -63,63 +63,15 @@
     },
     {
       "date": "2025-07-21",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent RHPDavid Robertson.",
-      "player": "David Robertson"
-    },
-    {
-      "date": "2025-07-21",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned OFLuke Nowak.",
-      "player": "Luke Nowak"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent RHPMax Poirierto a minor league contract.",
-      "player": "Max Poirier"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned SSJosh Hammond.",
-      "player": "Josh Hammond"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent LHPRyan Ureto a minor league contract.",
-      "player": "Ryan Ure"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPCameron Millar.",
-      "player": "Cameron Millar"
+      "details": "Kansas City Royalssigned SSConnor Rasmussen.",
+      "player": "Connor Rasmussen"
     },
     {
       "date": "2025-07-21",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalssigned free agent LHPCory Ronanto a minor league contract.",
       "player": "Cory Ronan"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent OFHunter Ensleyto a minor league contract.",
-      "player": "Hunter Ensley"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RHPJ.P. Franceon a rehab assignment to FCL Astros.",
-      "player": "J.P. France"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned SSTyson Moran.",
-      "player": "Tyson Moran"
     },
     {
       "date": "2025-07-21",
@@ -148,14 +100,74 @@
     {
       "date": "2025-07-21",
       "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent LHPRyan Ureto a minor league contract.",
+      "player": "Ryan Ure"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned RHPCameron Millar.",
+      "player": "Cameron Millar"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent OFHunter Ensleyto a minor league contract.",
+      "player": "Hunter Ensley"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPJ.P. Franceon a rehab assignment to FCL Astros.",
+      "player": "J.P. France"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned OFSean Gamble.",
+      "player": "Sean Gamble"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned RHPMichael Lombardi.",
+      "player": "Michael Lombardi"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RFStuart Fairchildfor assignment.",
+      "player": "Stuart Fairchild"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned SSTyson Moran.",
+      "player": "Tyson Moran"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent RHPDavid Robertson.",
+      "player": "David Robertson"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned OFLuke Nowak.",
+      "player": "Luke Nowak"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
       "details": "Kansas City Royalssigned CBrooks Bryan.",
       "player": "Brooks Bryan"
     },
     {
       "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPMatthew Hoskins.",
-      "player": "Matthew Hoskins"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of CSandy Leónfrom Gwinnett Stripers.",
+      "player": "Sandy León"
     },
     {
       "date": "2025-07-21",
