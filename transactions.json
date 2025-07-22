@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-07-22T16:36:05.887295",
+  "last_updated": "2025-07-22T17:27:16.579133",
   "transactions": [
+    {
+      "date": "2025-07-22",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPChris Devenskifor assignment.",
+      "player": "Chris Devenski"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "New York Mets",
+      "details": "New York Metsactivated RHPRico Garcia.",
+      "player": "Rico Garcia"
+    },
     {
       "date": "2025-07-22",
       "team": "Baltimore Orioles",
@@ -9,9 +21,57 @@
     },
     {
       "date": "2025-07-22",
+      "team": "New York Mets",
+      "details": "New York Metsactivated LFStarling Martefrom the 10-day injured list.",
+      "player": "Starling Marte"
+    },
+    {
+      "date": "2025-07-22",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent CAdley Rutschmanon a rehab assignment to Norfolk Tides.",
       "player": "Adley Rutschman"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPSean Hjellefrom Sacramento River Cats.",
+      "player": "Sean Hjelle"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPCarson Seymourfrom Sacramento River Cats.",
+      "player": "Carson Seymour"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPTristan Beckto Sacramento River Cats.",
+      "player": "Tristan Beck"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJustin Garzafrom Syracuse Mets.",
+      "player": "Justin Garza"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned LFJared Youngto Syracuse Mets.",
+      "player": "Jared Young"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPHayden Birdsongto Sacramento River Cats.",
+      "player": "Hayden Birdsong"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPKevin Hergetto Syracuse Mets.",
+      "player": "Kevin Herget"
     }
   ]
 }
