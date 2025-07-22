@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-07-22T21:26:54.865916",
+  "last_updated": "2025-07-22T22:26:45.595118",
   "transactions": [
+    {
+      "date": "2025-07-22",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced RHPManuel Rodríguezon the 60-day injured list. Right forearm strain.",
+      "player": "Manuel Rodríguez"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPShane Bieberon a rehab assignment to Lake County Captains.",
+      "player": "Shane Bieber"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent CAdley Rutschmanon a rehab assignment to Norfolk Tides.",
+      "player": "Adley Rutschman"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated RHPDavis Martinfrom the 15-day injured list.",
+      "player": "Davis Martin"
+    },
     {
       "date": "2025-07-22",
       "team": "Athletics",
@@ -9,51 +33,33 @@
     },
     {
       "date": "2025-07-22",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsdesignated RFTyler Gentryfor assignment.",
-      "player": "Tyler Gentry"
+      "team": "New York Mets",
+      "details": "New York Metsactivated LFStarling Martefrom the 10-day injured list.",
+      "player": "Starling Marte"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstransferred RFDylan Crewsfrom the 10-day injured list to the 60-day injured list. Left oblique strain.",
+      "player": "Dylan Crews"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent CChadwick Trompon a rehab assignment to Aberdeen IronBirds.",
+      "player": "Chadwick Tromp"
     },
     {
       "date": "2025-07-22",
       "team": "New York Mets",
-      "details": "New York Metsdesignated RHPChris Devenskifor assignment.",
-      "player": "Chris Devenski"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent CAdley Rutschmanon a rehab assignment to Norfolk Tides.",
-      "player": "Adley Rutschman"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated RFStuart Fairchild.",
-      "player": "Stuart Fairchild"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent CAdley Rutschmanon a rehab assignment to Norfolk Tides.",
-      "player": "Adley Rutschman"
+      "details": "New York Metssent RHPPaul Blackburnon a rehab assignment to Syracuse Mets.",
+      "player": "Paul Blackburn"
     },
     {
       "date": "2025-07-22",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalssent 2BMichael Masseyon a rehab assignment to Omaha Storm Chasers.",
       "player": "Michael Massey"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsigned SSHenry Godbout.",
-      "player": "Henry Godbout"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent RHPShane Bieberon a rehab assignment to Lake County Captains.",
-      "player": "Shane Bieber"
     },
     {
       "date": "2025-07-22",
@@ -81,57 +87,15 @@
     },
     {
       "date": "2025-07-22",
-      "team": "New York Mets",
-      "details": "New York Metsactivated LFStarling Martefrom the 10-day injured list.",
-      "player": "Starling Marte"
-    },
-    {
-      "date": "2025-07-22",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerssent LHPRob Zastryznyon a rehab assignment to Nashville Sounds.",
       "player": "Rob Zastryzny"
     },
     {
       "date": "2025-07-22",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent LHPRob Zastryznyon a rehab assignment to Nashville Sounds.",
-      "player": "Rob Zastryzny"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstransferred RFDylan Crewsfrom the 10-day injured list to the 60-day injured list. Left oblique strain.",
-      "player": "Dylan Crews"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent CChadwick Trompon a rehab assignment to Aberdeen IronBirds.",
-      "player": "Chadwick Tromp"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated RHPDavis Martinfrom the 15-day injured list.",
-      "player": "Davis Martin"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsigned LHPDylan Brown.",
-      "player": "Dylan Brown"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "Athletics",
-      "details": "Athleticsplaced 3BMax Muncyon the 10-day injured list. Right hand fracture.",
-      "player": "Max Muncy"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysplaced RHPManuel Rodríguezon the 60-day injured list. Right forearm strain.",
-      "player": "Manuel Rodríguez"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced CFDerek Hillon the 10-day injured list. Left middle finger sprain.",
+      "player": "Derek Hill"
     },
     {
       "date": "2025-07-22",
@@ -171,105 +135,69 @@
     },
     {
       "date": "2025-07-22",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned RHPHayden Birdsongto Sacramento River Cats.",
-      "player": "Hayden Birdsong"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsdesignated RFTyler Gentryfor assignment.",
+      "player": "Tyler Gentry"
     },
     {
       "date": "2025-07-22",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPWikelman Gonzálezto Charlotte Knights.",
-      "player": "Wikelman González"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent CAdley Rutschmanon a rehab assignment to Norfolk Tides.",
+      "player": "Adley Rutschman"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned SSHenry Godbout.",
+      "player": "Henry Godbout"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced RHPLance McCullers Jr.on the 10-day injured list retroactive to July 20, 2025. Right finger blister.",
+      "player": "Lance McCullers Jr."
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPRob Zastryznyon a rehab assignment to Nashville Sounds.",
+      "player": "Rob Zastryzny"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPYerry De los Santoson a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Yerry De los Santos"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPChris Devenskifor assignment.",
+      "player": "Chris Devenski"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RFStuart Fairchild.",
+      "player": "Stuart Fairchild"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned LHPDylan Brown.",
+      "player": "Dylan Brown"
     },
     {
       "date": "2025-07-22",
       "team": "Athletics",
-      "details": "Athleticsrecalled RFColby Thomasfrom Las Vegas Aviators.",
-      "player": "Colby Thomas"
+      "details": "Athleticsplaced 3BMax Muncyon the 10-day injured list. Right hand fracture.",
+      "player": "Max Muncy"
     },
     {
       "date": "2025-07-22",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravestraded RFStuart FairchildtoTampa Bay Raysfor cash.",
       "player": "Stuart Fairchild"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPKevin Hergetto Syracuse Mets.",
-      "player": "Kevin Herget"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsrecalled RHPCarson Seymourfrom Sacramento River Cats.",
-      "player": "Carson Seymour"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPAndrew Hoffmannto Omaha Storm Chasers.",
-      "player": "Andrew Hoffmann"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsselected the contract of LHPRich Hillfrom Omaha Storm Chasers.",
-      "player": "Rich Hill"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsselected the contract of LHPKonnor Pilkingtonfrom Rochester Red Wings.",
-      "player": "Konnor Pilkington"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerstraded CJulio E. RodrigueztoKansas City Royalsfor cash.",
-      "player": "Julio E. Rodriguez"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned LFJared Youngto Syracuse Mets.",
-      "player": "Jared Young"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned RHPTristan Beckto Sacramento River Cats.",
-      "player": "Tristan Beck"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsrecalled RHPSean Hjellefrom Sacramento River Cats.",
-      "player": "Sean Hjelle"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPAlan Rangelfrom Lehigh Valley IronPigs.",
-      "player": "Alan Rangel"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPMason Thompsonto Rochester Red Wings.",
-      "player": "Mason Thompson"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "Athletics",
-      "details": "Athleticsrecalled LFCarlos Cortesfrom Las Vegas Aviators.",
-      "player": "Carlos Cortes"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled RHPStephen Kolekfrom El Paso Chihuahuas.",
-      "player": "Stephen Kolek"
     },
     {
       "date": "2025-07-22",
@@ -285,6 +213,54 @@
     },
     {
       "date": "2025-07-22",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled 2BJack Winklerfrom Jacksonville Jumbo Shrimp.",
+      "player": "Jack Winkler"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPCarson Seymourfrom Sacramento River Cats.",
+      "player": "Carson Seymour"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPTristan Beckto Sacramento River Cats.",
+      "player": "Tristan Beck"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerstraded CJulio E. RodrigueztoKansas City Royalsfor cash.",
+      "player": "Julio E. Rodriguez"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPSean Hjellefrom Sacramento River Cats.",
+      "player": "Sean Hjelle"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPAndrew Hoffmannto Omaha Storm Chasers.",
+      "player": "Andrew Hoffmann"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPHayden Birdsongto Sacramento River Cats.",
+      "player": "Hayden Birdsong"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPNick Hernandezfrom Sugar Land Space Cowboys.",
+      "player": "Nick Hernandez"
+    },
+    {
+      "date": "2025-07-22",
       "team": "San Diego Padres",
       "details": "San Diego Padresoptioned RHPAlek Jacobto El Paso Chihuahuas.",
       "player": "Alek Jacob"
@@ -294,6 +270,36 @@
       "team": "San Diego Padres",
       "details": "San Diego Padresoptioned RHPBryan Hoeingto El Paso Chihuahuas.",
       "player": "Bryan Hoeing"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPWikelman Gonzálezto Charlotte Knights.",
+      "player": "Wikelman González"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsselected the contract of LHPKonnor Pilkingtonfrom Rochester Red Wings.",
+      "player": "Konnor Pilkington"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RFColby Thomasfrom Las Vegas Aviators.",
+      "player": "Colby Thomas"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPKevin Hergetto Syracuse Mets.",
+      "player": "Kevin Herget"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPAlan Rangelfrom Lehigh Valley IronPigs.",
+      "player": "Alan Rangel"
     }
   ]
 }
