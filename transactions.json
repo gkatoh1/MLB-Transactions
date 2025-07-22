@@ -1,6 +1,24 @@
 {
-  "last_updated": "2025-07-22T17:27:16.579133",
+  "last_updated": "2025-07-22T18:40:10.348528",
   "transactions": [
+    {
+      "date": "2025-07-22",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated RHPDavis Martinfrom the 15-day injured list.",
+      "player": "Davis Martin"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent CAdley Rutschmanon a rehab assignment to Norfolk Tides.",
+      "player": "Adley Rutschman"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned SSHenry Godbout.",
+      "player": "Henry Godbout"
+    },
     {
       "date": "2025-07-22",
       "team": "New York Mets",
@@ -15,9 +33,27 @@
     },
     {
       "date": "2025-07-22",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent CAdley Rutschmanon a rehab assignment to Norfolk Tides.",
-      "player": "Adley Rutschman"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned SSMason White.",
+      "player": "Mason White"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned LHPMyles Patton.",
+      "player": "Myles Patton"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "New York Mets",
+      "details": "New York Metsplaced LHPBrandon Waddellon the 15-day injured list retroactive to July 19, 2025. Right hip impingement.",
+      "player": "Brandon Waddell"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent RHPCarl Edwards Jr.to a minor league contract.",
+      "player": "Carl Edwards Jr."
     },
     {
       "date": "2025-07-22",
@@ -27,9 +63,33 @@
     },
     {
       "date": "2025-07-22",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned LHPDylan Brown.",
+      "player": "Dylan Brown"
+    },
+    {
+      "date": "2025-07-22",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent CAdley Rutschmanon a rehab assignment to Norfolk Tides.",
       "player": "Adley Rutschman"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPTristan Beckto Sacramento River Cats.",
+      "player": "Tristan Beck"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPKevin Hergetto Syracuse Mets.",
+      "player": "Kevin Herget"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJustin Garzafrom Syracuse Mets.",
+      "player": "Justin Garza"
     },
     {
       "date": "2025-07-22",
@@ -46,14 +106,8 @@
     {
       "date": "2025-07-22",
       "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned RHPTristan Beckto Sacramento River Cats.",
-      "player": "Tristan Beck"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPJustin Garzafrom Syracuse Mets.",
-      "player": "Justin Garza"
+      "details": "San Francisco Giantsoptioned RHPHayden Birdsongto Sacramento River Cats.",
+      "player": "Hayden Birdsong"
     },
     {
       "date": "2025-07-22",
@@ -63,15 +117,9 @@
     },
     {
       "date": "2025-07-22",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned RHPHayden Birdsongto Sacramento River Cats.",
-      "player": "Hayden Birdsong"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPKevin Hergetto Syracuse Mets.",
-      "player": "Kevin Herget"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPWikelman Gonzálezto Charlotte Knights.",
+      "player": "Wikelman González"
     }
   ]
 }
