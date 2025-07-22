@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-07-21T23:27:03.012682",
+  "last_updated": "2025-07-22T02:21:50.718492",
   "transactions": [
+    {
+      "date": "2025-07-21",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated CFChris Taylorfrom the 10-day injured list.",
+      "player": "Chris Taylor"
+    },
     {
       "date": "2025-07-21",
       "team": "Washington Nationals",
       "details": "Washington Nationalssigned OFJack Moroknek.",
       "player": "Jack Moroknek"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent LHP Enmanuel Polo to a minor league contract.",
+      "player": "Unknown Player"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssigned 2BIsaiah Barkett.",
+      "player": "Isaiah Barkett"
     },
     {
       "date": "2025-07-21",
@@ -15,75 +33,27 @@
     },
     {
       "date": "2025-07-21",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned LHPJordan Gottesman.",
-      "player": "Jordan Gottesman"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent LHPRyan Ureto a minor league contract.",
+      "player": "Ryan Ure"
     },
     {
       "date": "2025-07-21",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned CBrooks Bryan.",
-      "player": "Brooks Bryan"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPMatthew Hoskins.",
-      "player": "Matthew Hoskins"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned SSGavin Kilen.",
-      "player": "Gavin Kilen"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned OFTrevor Cohen.",
-      "player": "Trevor Cohen"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned RHPBen Bybee.",
-      "player": "Ben Bybee"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPMax Martin.",
-      "player": "Max Martin"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPAiden Jimenez.",
-      "player": "Aiden Jimenez"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPBryson Dudley.",
-      "player": "Bryson Dudley"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent LHPKeegan Akinon a rehab assignment to FCL Orioles.",
-      "player": "Keegan Akin"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessigned RHPJack Anker.",
-      "player": "Jack Anker"
+      "details": "Kansas City Royalssigned RHPCameron Millar.",
+      "player": "Cameron Millar"
     },
     {
       "date": "2025-07-21",
       "team": "Washington Nationals",
-      "details": "Washington Nationalssigned 1BJacob Walsh.",
-      "player": "Jacob Walsh"
+      "details": "Washington Nationalssigned CNIck Hollifield.",
+      "player": "NIck Hollifield"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssigned RHPTrey Seeley.",
+      "player": "Trey Seeley"
     },
     {
       "date": "2025-07-21",
@@ -96,6 +66,78 @@
       "team": "San Francisco Giants",
       "details": "San Francisco Giantssigned CBroedy Poppell.",
       "player": "Broedy Poppell"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned RHPJack Anker.",
+      "player": "Jack Anker"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned SSConnor Rasmussen.",
+      "player": "Connor Rasmussen"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssigned RHPReid Worley.",
+      "player": "Reid Worley"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned 1BJacob Walsh.",
+      "player": "Jacob Walsh"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned LHPLevi Huesman.",
+      "player": "Levi Huesman"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssigned CDaniel Rogers.",
+      "player": "Daniel Rogers"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated RHPLou Trivinofor assignment.",
+      "player": "Lou Trivino"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned LHPCaden Hunter.",
+      "player": "Caden Hunter"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned OFLuke Nowak.",
+      "player": "Luke Nowak"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned OFCam Lee.",
+      "player": "Cam Lee"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssigned LHPBraydon Risley.",
+      "player": "Braydon Risley"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned CBrooks Bryan.",
+      "player": "Brooks Bryan"
     },
     {
       "date": "2025-07-21",
@@ -117,15 +159,51 @@
     },
     {
       "date": "2025-07-21",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersdesignated RHPLou Trivinofor assignment.",
-      "player": "Lou Trivino"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned RHPOwen Puk.",
+      "player": "Owen Puk"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssigned SSLorenzo Meola.",
+      "player": "Lorenzo Meola"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned SSTyson Moran.",
+      "player": "Tyson Moran"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned SSMatt King.",
+      "player": "Matt King"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned RHPTucker Biven.",
+      "player": "Tucker Biven"
     },
     {
       "date": "2025-07-21",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantssigned CRod Barajas Jr..",
       "player": "Rod Barajas Jr."
+    },
+    {
+      "date": "2025-07-21",
+      "team": "New York Mets",
+      "details": "New York Metstransferred RHPDedniel Núñezfrom the 15-day injured list to the 60-day injured list. Right elbow sprain.",
+      "player": "Dedniel Núñez"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned free agent OFJordan Williamsto a minor league contract.",
+      "player": "Jordan Williams"
     },
     {
       "date": "2025-07-21",
@@ -147,6 +225,18 @@
     },
     {
       "date": "2025-07-21",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent RHPDavid Robertson.",
+      "player": "David Robertson"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned OFRJ Austin.",
+      "player": "RJ Austin"
+    },
+    {
+      "date": "2025-07-21",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalssigned RHPRandy Ramnarace.",
       "player": "Randy Ramnarace"
@@ -154,20 +244,26 @@
     {
       "date": "2025-07-21",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned OFLuke Nowak.",
-      "player": "Luke Nowak"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned OFCam Lee.",
-      "player": "Cam Lee"
+      "details": "LHPRyan Ureassigned toKansas City Royals.",
+      "player": "Ryan Ure"
     },
     {
       "date": "2025-07-21",
       "team": "Texas Rangers",
       "details": "Texas Rangersplaced RHPChris Martinon the 15-day injured list. Left calf strain.",
       "player": "Chris Martin"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned SSColin Yeaman.",
+      "player": "Colin Yeaman"
+    },
+    {
+      "date": "2025-07-21",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssigned 3BHayden Jatczak.",
+      "player": "Hayden Jatczak"
     },
     {
       "date": "2025-07-21",
@@ -204,102 +300,6 @@
       "team": "San Francisco Giants",
       "details": "San Francisco Giantssigned OFCameron Maldonado.",
       "player": "Cameron Maldonado"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned RHPCooper McGrath.",
-      "player": "Cooper McGrath"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned LHPJustin Lamkin.",
-      "player": "Justin Lamkin"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPKamden Edge.",
-      "player": "Kamden Edge"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned OFDamian Bravo.",
-      "player": "Damian Bravo"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent LHPRyan Ureto a minor league contract.",
-      "player": "Ryan Ure"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPCameron Millar.",
-      "player": "Cameron Millar"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned CNIck Hollifield.",
-      "player": "NIck Hollifield"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned RHPTrey Seeley.",
-      "player": "Trey Seeley"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPHunter Alberini.",
-      "player": "Hunter Alberini"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned RHPCody Delvecchio.",
-      "player": "Cody Delvecchio"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent OFHunter Ensleyto a minor league contract.",
-      "player": "Hunter Ensley"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RHPJ.P. Franceon a rehab assignment to FCL Astros.",
-      "player": "J.P. France"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned RHPGarrett Langrell.",
-      "player": "Garrett Langrell"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned SSConnor Rasmussen.",
-      "player": "Connor Rasmussen"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned RHPReid Worley.",
-      "player": "Reid Worley"
-    },
-    {
-      "date": "2025-07-21",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned LHPLevi Huesman.",
-      "player": "Levi Huesman"
     }
   ]
 }
