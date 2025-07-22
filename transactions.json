@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-22T18:40:10.348528",
+  "last_updated": "2025-07-22T19:22:55.825000",
   "transactions": [
+    {
+      "date": "2025-07-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent CAdley Rutschmanon a rehab assignment to Norfolk Tides.",
+      "player": "Adley Rutschman"
+    },
     {
       "date": "2025-07-22",
       "team": "Chicago White Sox",
@@ -21,9 +27,9 @@
     },
     {
       "date": "2025-07-22",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated RHPChris Devenskifor assignment.",
-      "player": "Chris Devenski"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstransferred RFDylan Crewsfrom the 10-day injured list to the 60-day injured list. Left oblique strain.",
+      "player": "Dylan Crews"
     },
     {
       "date": "2025-07-22",
@@ -57,9 +63,21 @@
     },
     {
       "date": "2025-07-22",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned RHPSeth Hernandez.",
+      "player": "Seth Hernandez"
+    },
+    {
+      "date": "2025-07-22",
       "team": "New York Mets",
       "details": "New York Metsactivated LFStarling Martefrom the 10-day injured list.",
       "player": "Starling Marte"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPChris Devenskifor assignment.",
+      "player": "Chris Devenski"
     },
     {
       "date": "2025-07-22",
@@ -69,39 +87,15 @@
     },
     {
       "date": "2025-07-22",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent CAdley Rutschmanon a rehab assignment to Norfolk Tides.",
-      "player": "Adley Rutschman"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned RHPTristan Beckto Sacramento River Cats.",
-      "player": "Tristan Beck"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPKevin Hergetto Syracuse Mets.",
-      "player": "Kevin Herget"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPJustin Garzafrom Syracuse Mets.",
-      "player": "Justin Garza"
-    },
-    {
-      "date": "2025-07-22",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsrecalled RHPSean Hjellefrom Sacramento River Cats.",
-      "player": "Sean Hjelle"
-    },
-    {
-      "date": "2025-07-22",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsrecalled RHPCarson Seymourfrom Sacramento River Cats.",
       "player": "Carson Seymour"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsselected the contract of LHPKonnor Pilkingtonfrom Rochester Red Wings.",
+      "player": "Konnor Pilkington"
     },
     {
       "date": "2025-07-22",
@@ -117,9 +111,39 @@
     },
     {
       "date": "2025-07-22",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPTristan Beckto Sacramento River Cats.",
+      "player": "Tristan Beck"
+    },
+    {
+      "date": "2025-07-22",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned RHPWikelman Gonzálezto Charlotte Knights.",
       "player": "Wikelman González"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPKevin Hergetto Syracuse Mets.",
+      "player": "Kevin Herget"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPSean Hjellefrom Sacramento River Cats.",
+      "player": "Sean Hjelle"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPMason Thompsonto Rochester Red Wings.",
+      "player": "Mason Thompson"
+    },
+    {
+      "date": "2025-07-22",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJustin Garzafrom Syracuse Mets.",
+      "player": "Justin Garza"
     }
   ]
 }
