@@ -1,35 +1,35 @@
 {
-  "last_updated": "2025-07-23T17:27:36.773164",
+  "last_updated": "2025-07-23T18:39:55.828523",
   "transactions": [
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned SSBilly Carlson.",
+      "player": "Billy Carlson"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned 3BAnthony DePino.",
+      "player": "Anthony DePino"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned OFJaden Fauske.",
+      "player": "Jaden Fauske"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned OFDerek Cerda.",
+      "player": "Derek Cerda"
+    },
     {
       "date": "2025-07-23",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsplaced LFNick Loftinon the 7-day injured list. Concussion.",
       "player": "Nick Loftin"
-    },
-    {
-      "date": "2025-07-23",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced RHPGermán Márquezon the 15-day injured list retroactive to July 21, 2025. Right bicep tendinitis.",
-      "player": "Germán Márquez"
-    },
-    {
-      "date": "2025-07-23",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsdesignated RHPErick Feddefor assignment.",
-      "player": "Erick Fedde"
-    },
-    {
-      "date": "2025-07-23",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced RHPDavid Festaon the 15-day injured list retroactive to July 22, 2025. Right shoulder inflammation.",
-      "player": "David Festa"
-    },
-    {
-      "date": "2025-07-23",
-      "team": "New York Mets",
-      "details": "New York Metsactivated RHPJosé Buttófrom the 15-day injured list.",
-      "player": "José Buttó"
     },
     {
       "date": "2025-07-23",
@@ -39,9 +39,123 @@
     },
     {
       "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned RHPMax Banks.",
+      "player": "Max Banks"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent LHPJackson Noveto a minor league contract.",
+      "player": "Jackson Nove"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned RHPDaniel Wright.",
+      "player": "Daniel Wright"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned CRylan Galvan.",
+      "player": "Rylan Galvan"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "New York Mets",
+      "details": "New York Metsactivated RHPJosé Buttófrom the 15-day injured list.",
+      "player": "José Buttó"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPGermán Márquezon the 15-day injured list retroactive to July 21, 2025. Right bicep tendinitis.",
+      "player": "Germán Márquez"
+    },
+    {
+      "date": "2025-07-23",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersdesignated CFBrewer Hicklenfor assignment.",
       "player": "Brewer Hicklen"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent CJames Taussigto a minor league contract.",
+      "player": "James Taussig"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned SSColby Shelton.",
+      "player": "Colby Shelton"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned SSMatthew Boughton.",
+      "player": "Matthew Boughton"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned OFEly Brown.",
+      "player": "Ely Brown"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned RHPCaedmon Parker.",
+      "player": "Caedmon Parker"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsdesignated RHPErick Feddefor assignment.",
+      "player": "Erick Fedde"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned RHPGabe Davis.",
+      "player": "Gabe Davis"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned RHPLanden Payne.",
+      "player": "Landen Payne"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPDavid Festaon the 15-day injured list retroactive to July 22, 2025. Right shoulder inflammation.",
+      "player": "David Festa"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent CSteven Lanciato a minor league contract.",
+      "player": "Steven Lancia"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned LHPAndrew Sentlinger.",
+      "player": "Andrew Sentlinger"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned CLandon Hodge.",
+      "player": "Landon Hodge"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned RHPBlaine Wynk.",
+      "player": "Blaine Wynk"
     },
     {
       "date": "2025-07-23",
@@ -51,9 +165,27 @@
     },
     {
       "date": "2025-07-23",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPTanner Gordonfrom Albuquerque Isotopes.",
-      "player": "Tanner Gordon"
+      "team": "Chicago White Sox",
+      "details": "CSteven Lanciaroster status changed byChicago White Sox.",
+      "player": "Steven Lancia"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned UTKaleb Freeman.",
+      "player": "Kaleb Freeman"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned RHPRiley Eikhoff.",
+      "player": "Riley Eikhoff"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned SSKyle Lodise.",
+      "player": "Kyle Lodise"
     },
     {
       "date": "2025-07-23",
@@ -69,6 +201,12 @@
     },
     {
       "date": "2025-07-23",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled LFMJ Melendezfrom Omaha Storm Chasers.",
+      "player": "MJ Melendez"
+    },
+    {
+      "date": "2025-07-23",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsrecalled RHPAndre Granillofrom Memphis Redbirds.",
       "player": "Andre Granillo"
@@ -78,12 +216,6 @@
       "team": "Detroit Tigers",
       "details": "Detroit Tigersselected the contract of RHPTroy Meltonfrom Toledo Mud Hens.",
       "player": "Troy Melton"
-    },
-    {
-      "date": "2025-07-23",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPJustin Garzato Syracuse Mets.",
-      "player": "Justin Garza"
     },
     {
       "date": "2025-07-23",
@@ -99,15 +231,21 @@
     },
     {
       "date": "2025-07-23",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled LFMJ Melendezfrom Omaha Storm Chasers.",
-      "player": "MJ Melendez"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJustin Garzato Syracuse Mets.",
+      "player": "Justin Garza"
     },
     {
       "date": "2025-07-23",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsrecalled RHPTravis Adamsfrom St. Paul Saints.",
       "player": "Travis Adams"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPTanner Gordonfrom Albuquerque Isotopes.",
+      "player": "Tanner Gordon"
     }
   ]
 }
