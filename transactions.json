@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-07-23T13:45:34.780482",
+  "last_updated": "2025-07-23T14:29:36.398885",
   "transactions": [
     {
       "date": "2025-07-23",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPDavis Danielto Gwinnett Stripers.",
-      "player": "Davis Daniel"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced LHPTarik Skubalon the paternity list.",
+      "player": "Tarik Skubal"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated CFBrewer Hicklenfor assignment.",
+      "player": "Brewer Hicklen"
     },
     {
       "date": "2025-07-23",
@@ -15,15 +21,27 @@
     },
     {
       "date": "2025-07-23",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersselected the contract of RHPTroy Meltonfrom Toledo Mud Hens.",
+      "player": "Troy Melton"
+    },
+    {
+      "date": "2025-07-23",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled LHPDylan Doddfrom Gwinnett Stripers.",
-      "player": "Dylan Dodd"
+      "details": "Atlanta Bravesoptioned RHPDavis Danielto Gwinnett Stripers.",
+      "player": "Davis Daniel"
     },
     {
       "date": "2025-07-23",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPWander Sueroto Gwinnett Stripers.",
       "player": "Wander Suero"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled LHPDylan Doddfrom Gwinnett Stripers.",
+      "player": "Dylan Dodd"
     }
   ]
 }
