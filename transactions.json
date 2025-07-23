@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-23T14:29:36.398885",
+  "last_updated": "2025-07-23T15:31:15.395890",
   "transactions": [
     {
       "date": "2025-07-23",
@@ -16,14 +16,8 @@
     {
       "date": "2025-07-23",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPHunter Strattonfrom Gwinnett Stripers.",
-      "player": "Hunter Stratton"
-    },
-    {
-      "date": "2025-07-23",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersselected the contract of RHPTroy Meltonfrom Toledo Mud Hens.",
-      "player": "Troy Melton"
+      "details": "Atlanta Bravesoptioned RHPWander Sueroto Gwinnett Stripers.",
+      "player": "Wander Suero"
     },
     {
       "date": "2025-07-23",
@@ -34,14 +28,20 @@
     {
       "date": "2025-07-23",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPWander Sueroto Gwinnett Stripers.",
-      "player": "Wander Suero"
+      "details": "Atlanta Bravesrecalled LHPDylan Doddfrom Gwinnett Stripers.",
+      "player": "Dylan Dodd"
     },
     {
       "date": "2025-07-23",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled LHPDylan Doddfrom Gwinnett Stripers.",
-      "player": "Dylan Dodd"
+      "details": "Atlanta Bravesrecalled RHPHunter Strattonfrom Gwinnett Stripers.",
+      "player": "Hunter Stratton"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersselected the contract of RHPTroy Meltonfrom Toledo Mud Hens.",
+      "player": "Troy Melton"
     }
   ]
 }
