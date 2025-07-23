@@ -1,6 +1,24 @@
 {
-  "last_updated": "2025-07-23T15:31:15.395890",
+  "last_updated": "2025-07-23T16:36:09.816667",
   "transactions": [
+    {
+      "date": "2025-07-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPDavid Festaon the 15-day injured list retroactive to July 22, 2025. Right shoulder inflammation.",
+      "player": "David Festa"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "New York Mets",
+      "details": "New York Metsactivated RHPJosé Buttófrom the 15-day injured list.",
+      "player": "José Buttó"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPGermán Márquezon the 15-day injured list retroactive to July 21, 2025. Right bicep tendinitis.",
+      "player": "Germán Márquez"
+    },
     {
       "date": "2025-07-23",
       "team": "Detroit Tigers",
@@ -15,15 +33,39 @@
     },
     {
       "date": "2025-07-23",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPWander Sueroto Gwinnett Stripers.",
-      "player": "Wander Suero"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced LFNick Loftinon the 7-day injured list. Concussion.",
+      "player": "Nick Loftin"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsdesignated RHPErick Feddefor assignment.",
+      "player": "Erick Fedde"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPAndre Granillofrom Memphis Redbirds.",
+      "player": "Andre Granillo"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersselected the contract of RHPTroy Meltonfrom Toledo Mud Hens.",
+      "player": "Troy Melton"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPTanner Gordonfrom Albuquerque Isotopes.",
+      "player": "Tanner Gordon"
     },
     {
       "date": "2025-07-23",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPDavis Danielto Gwinnett Stripers.",
-      "player": "Davis Daniel"
+      "details": "Atlanta Bravesoptioned RHPWander Sueroto Gwinnett Stripers.",
+      "player": "Wander Suero"
     },
     {
       "date": "2025-07-23",
@@ -39,9 +81,27 @@
     },
     {
       "date": "2025-07-23",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersselected the contract of RHPTroy Meltonfrom Toledo Mud Hens.",
-      "player": "Troy Melton"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPDavis Danielto Gwinnett Stripers.",
+      "player": "Davis Daniel"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJustin Garzato Syracuse Mets.",
+      "player": "Justin Garza"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled LFMJ Melendezfrom Omaha Storm Chasers.",
+      "player": "MJ Melendez"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPTravis Adamsfrom St. Paul Saints.",
+      "player": "Travis Adams"
     }
   ]
 }
