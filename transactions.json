@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-24T16:33:16.012092",
+  "last_updated": "2025-07-24T17:26:42.342975",
   "transactions": [
     {
       "date": "2025-07-24",
@@ -9,15 +9,27 @@
     },
     {
       "date": "2025-07-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPOrlando Ribaltato Rochester Red Wings.",
-      "player": "Orlando Ribalta"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned OFSlater de Brun.",
+      "player": "Slater de Brun"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPJavier Assadon a rehab assignment to ACL Cubs.",
+      "player": "Javier Assad"
     },
     {
       "date": "2025-07-24",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled RHPKade Strowdfrom Norfolk Tides.",
       "player": "Kade Strowd"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPOrlando Ribaltato Rochester Red Wings.",
+      "player": "Orlando Ribalta"
     }
   ]
 }
