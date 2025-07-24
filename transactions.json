@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-07-24T14:29:24.573947",
+  "last_updated": "2025-07-24T15:28:12.602268",
   "transactions": [
+    {
+      "date": "2025-07-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPFélix Bautistaon the 15-day injured list retroactive to July 21, 2025. Right shoulder discomfort.",
+      "player": "Félix Bautista"
+    },
     {
       "date": "2025-07-24",
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned RHPOrlando Ribaltato Rochester Red Wings.",
       "player": "Orlando Ribalta"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPKade Strowdfrom Norfolk Tides.",
+      "player": "Kade Strowd"
     }
   ]
 }
