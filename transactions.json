@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-24T18:40:06.216449",
+  "last_updated": "2025-07-24T19:23:17.598083",
   "transactions": [
+    {
+      "date": "2025-07-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPRobert Gasseron a rehab assignment to Wisconsin Timber Rattlers.",
+      "player": "Robert Gasser"
+    },
     {
       "date": "2025-07-24",
       "team": "Baltimore Orioles",
@@ -21,9 +27,9 @@
     },
     {
       "date": "2025-07-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPOrlando Ribaltato Rochester Red Wings.",
-      "player": "Orlando Ribalta"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled RHPJackson Kowarfrom Tacoma Rainiers.",
+      "player": "Jackson Kowar"
     },
     {
       "date": "2025-07-24",
@@ -34,14 +40,14 @@
     {
       "date": "2025-07-24",
       "team": "Seattle Mariners",
-      "details": "Seattle Marinersrecalled RHPJackson Kowarfrom Tacoma Rainiers.",
-      "player": "Jackson Kowar"
+      "details": "Seattle Marinersoptioned LHPBrandyn Garciato Tacoma Rainiers.",
+      "player": "Brandyn Garcia"
     },
     {
       "date": "2025-07-24",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned LHPBrandyn Garciato Tacoma Rainiers.",
-      "player": "Brandyn Garcia"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPOrlando Ribaltato Rochester Red Wings.",
+      "player": "Orlando Ribalta"
     }
   ]
 }
