@@ -1,23 +1,17 @@
 {
-  "last_updated": "2025-07-24T19:23:17.598083",
+  "last_updated": "2025-07-24T20:28:51.371476",
   "transactions": [
+    {
+      "date": "2025-07-24",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned SSCoy James.",
+      "player": "Coy James"
+    },
     {
       "date": "2025-07-24",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerssent LHPRobert Gasseron a rehab assignment to Wisconsin Timber Rattlers.",
       "player": "Robert Gasser"
-    },
-    {
-      "date": "2025-07-24",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced RHPFélix Bautistaon the 15-day injured list retroactive to July 21, 2025. Right shoulder discomfort.",
-      "player": "Félix Bautista"
-    },
-    {
-      "date": "2025-07-24",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned OFSlater de Brun.",
-      "player": "Slater de Brun"
     },
     {
       "date": "2025-07-24",
@@ -27,15 +21,75 @@
     },
     {
       "date": "2025-07-24",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent RHPCaden Woosterto a minor league contract.",
+      "player": "Caden Wooster"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned RHPLandon Harmon.",
+      "player": "Landon Harmon"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent 3BAJ Salgadoto a minor league contract.",
+      "player": "AJ Salgado"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent RHPColby Friedato a minor league contract.",
+      "player": "Colby Frieda"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned OFSlater de Brun.",
+      "player": "Slater de Brun"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "New York Mets",
+      "details": "New York Metssigned RHPTyler McLoughlin.",
+      "player": "Tyler McLoughlin"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated RHPCarlos Hernándezfor assignment.",
+      "player": "Carlos Hernández"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPFélix Bautistaon the 15-day injured list retroactive to July 21, 2025. Right shoulder discomfort.",
+      "player": "Félix Bautista"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersselected the contract of RHPGeoff Hartliebfrom Toledo Mud Hens.",
+      "player": "Geoff Hartlieb"
+    },
+    {
+      "date": "2025-07-24",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersrecalled RHPJackson Kowarfrom Tacoma Rainiers.",
       "player": "Jackson Kowar"
     },
     {
       "date": "2025-07-24",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPKade Strowdfrom Norfolk Tides.",
-      "player": "Kade Strowd"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPOrlando Ribaltato Rochester Red Wings.",
+      "player": "Orlando Ribalta"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPTaj Bradleyto Durham Bulls.",
+      "player": "Taj Bradley"
     },
     {
       "date": "2025-07-24",
@@ -45,9 +99,21 @@
     },
     {
       "date": "2025-07-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPOrlando Ribaltato Rochester Red Wings.",
-      "player": "Orlando Ribalta"
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPNick Hernandezto Sugar Land Space Cowboys.",
+      "player": "Nick Hernandez"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPKade Strowdfrom Norfolk Tides.",
+      "player": "Kade Strowd"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPJason Alexanderfrom Sugar Land Space Cowboys.",
+      "player": "Jason Alexander"
     }
   ]
 }
