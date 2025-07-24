@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-24T17:26:42.342975",
+  "last_updated": "2025-07-24T18:40:06.216449",
   "transactions": [
     {
       "date": "2025-07-24",
@@ -21,15 +21,27 @@
     },
     {
       "date": "2025-07-24",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPOrlando Ribaltato Rochester Red Wings.",
+      "player": "Orlando Ribalta"
+    },
+    {
+      "date": "2025-07-24",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled RHPKade Strowdfrom Norfolk Tides.",
       "player": "Kade Strowd"
     },
     {
       "date": "2025-07-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPOrlando Ribaltato Rochester Red Wings.",
-      "player": "Orlando Ribalta"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled RHPJackson Kowarfrom Tacoma Rainiers.",
+      "player": "Jackson Kowar"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned LHPBrandyn Garciato Tacoma Rainiers.",
+      "player": "Brandyn Garcia"
     }
   ]
 }
