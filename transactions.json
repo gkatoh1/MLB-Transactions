@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-07-23T23:27:09.527018",
+  "last_updated": "2025-07-24T02:22:09.906899",
   "transactions": [
     {
       "date": "2025-07-23",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent RHPLuis Gilon a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
-      "player": "Luis Gil"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned 3BAnthony DePino.",
+      "player": "Anthony DePino"
     },
     {
       "date": "2025-07-23",
@@ -15,9 +15,15 @@
     },
     {
       "date": "2025-07-23",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessigned RHPBrandon Cain.",
-      "player": "Brandon Cain"
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned OFJustin Thomas.",
+      "player": "Justin Thomas"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned free agent RHPRyan Petrovitchto a minor league contract.",
+      "player": "Ryan Petrovitch"
     },
     {
       "date": "2025-07-23",
@@ -27,39 +33,57 @@
     },
     {
       "date": "2025-07-23",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated RHPOrlando Ribaltafrom the 15-day injured list.",
+      "player": "Orlando Ribalta"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned TWPDJ Newman.",
+      "player": "DJ Newman"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned RHPGrayson Saunier.",
+      "player": "Grayson Saunier"
+    },
+    {
+      "date": "2025-07-23",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned RHPRiley Eikhoff.",
-      "player": "Riley Eikhoff"
+      "details": "Chicago White Soxsigned free agent CJames Taussigto a minor league contract.",
+      "player": "James Taussig"
     },
     {
       "date": "2025-07-23",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessigned CAdonys Guzman.",
-      "player": "Adonys Guzman"
+      "details": "Pittsburgh Piratessigned SSGustavo Melendez.",
+      "player": "Gustavo Melendez"
     },
     {
       "date": "2025-07-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned SSKyle Lodise.",
-      "player": "Kyle Lodise"
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned RHPNick Potter.",
+      "player": "Nick Potter"
     },
     {
       "date": "2025-07-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned RHPDaniel Wright.",
-      "player": "Daniel Wright"
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned free agent RHPColeman MacRaeto a minor league contract.",
+      "player": "Coleman MacRae"
     },
     {
       "date": "2025-07-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned OFJaden Fauske.",
-      "player": "Jaden Fauske"
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned free agent RHPCharlie Weberto a minor league contract.",
+      "player": "Charlie Weber"
     },
     {
       "date": "2025-07-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned OFDerek Cerda.",
-      "player": "Derek Cerda"
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned free agent CAugust Cuneoto a minor league contract.",
+      "player": "August Cuneo"
     },
     {
       "date": "2025-07-23",
@@ -81,27 +105,63 @@
     },
     {
       "date": "2025-07-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned SSMatthew Boughton.",
-      "player": "Matthew Boughton"
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned CJase Mitchell.",
+      "player": "Jase Mitchell"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned OFEddie King Jr..",
+      "player": "Eddie King Jr."
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced LHPTarik Skubalon the paternity list.",
+      "player": "Tarik Skubal"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned RHPGabel Pentecost.",
+      "player": "Gabel Pentecost"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned RHPBrandon Cain.",
+      "player": "Brandon Cain"
     },
     {
       "date": "2025-07-23",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned OFEly Brown.",
-      "player": "Ely Brown"
+      "details": "Chicago White Soxsigned SSKyle Lodise.",
+      "player": "Kyle Lodise"
     },
     {
       "date": "2025-07-23",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned RHPCaedmon Parker.",
-      "player": "Caedmon Parker"
+      "details": "Chicago White Soxsigned OFJaden Fauske.",
+      "player": "Jaden Fauske"
     },
     {
       "date": "2025-07-23",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated RHPJon Grayfrom the 60-day injured list.",
-      "player": "Jon Gray"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned OFDerek Cerda.",
+      "player": "Derek Cerda"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPLuis Gilon a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Luis Gil"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned RHPCameron Keshock.",
+      "player": "Cameron Keshock"
     },
     {
       "date": "2025-07-23",
@@ -148,20 +208,26 @@
     {
       "date": "2025-07-23",
       "team": "Houston Astros",
-      "details": "Houston Astrossent 3BLuis Guillormeon a rehab assignment to Sugar Land Space Cowboys.",
-      "player": "Luis Guillorme"
+      "details": "Houston Astrossigned 2BKyle Walker.",
+      "player": "Kyle Walker"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned SSZach Daudet.",
+      "player": "Zach Daudet"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned free agent OFMason Lytleto a minor league contract.",
+      "player": "Mason Lytle"
     },
     {
       "date": "2025-07-23",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesplaced RHPGermán Márquezon the 15-day injured list retroactive to July 21, 2025. Right bicep tendinitis.",
       "player": "Germán Márquez"
-    },
-    {
-      "date": "2025-07-23",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersplaced LHPTarik Skubalon the paternity list.",
-      "player": "Tarik Skubal"
     },
     {
       "date": "2025-07-23",
@@ -195,21 +261,33 @@
     },
     {
       "date": "2025-07-23",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated RHPOrlando Ribaltafrom the 15-day injured list.",
-      "player": "Orlando Ribalta"
-    },
-    {
-      "date": "2025-07-23",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned free agent CJames Taussigto a minor league contract.",
-      "player": "James Taussig"
+      "details": "Chicago White Soxsigned RHPRiley Eikhoff.",
+      "player": "Riley Eikhoff"
     },
     {
       "date": "2025-07-23",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessigned SSGustavo Melendez.",
-      "player": "Gustavo Melendez"
+      "details": "Pittsburgh Piratessigned CAdonys Guzman.",
+      "player": "Adonys Guzman"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned SSCurtis Hebert.",
+      "player": "Curtis Hebert"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned RHPDaniel Wright.",
+      "player": "Daniel Wright"
+    },
+    {
+      "date": "2025-07-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned OFJosh Wakefield.",
+      "player": "Josh Wakefield"
     },
     {
       "date": "2025-07-23",
@@ -219,87 +297,9 @@
     },
     {
       "date": "2025-07-23",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent LHPKeegan Akinon a rehab assignment to Norfolk Tides.",
-      "player": "Keegan Akin"
-    },
-    {
-      "date": "2025-07-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned 3BAnthony DePino.",
-      "player": "Anthony DePino"
-    },
-    {
-      "date": "2025-07-23",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessigned OFEddie King Jr..",
-      "player": "Eddie King Jr."
-    },
-    {
-      "date": "2025-07-23",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessigned RHPCameron Keshock.",
-      "player": "Cameron Keshock"
-    },
-    {
-      "date": "2025-07-23",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsdesignated RHPErick Feddefor assignment.",
-      "player": "Erick Fedde"
-    },
-    {
-      "date": "2025-07-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned RHPGabe Davis.",
-      "player": "Gabe Davis"
-    },
-    {
-      "date": "2025-07-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned RHPLanden Payne.",
-      "player": "Landen Payne"
-    },
-    {
-      "date": "2025-07-23",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessigned free agent RHPDraven Zeiglerto a minor league contract.",
-      "player": "Draven Zeigler"
-    },
-    {
-      "date": "2025-07-23",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent RHPVinny Nittolito a minor league contract.",
-      "player": "Vinny Nittoli"
-    },
-    {
-      "date": "2025-07-23",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessigned OFCanon Reeder.",
-      "player": "Canon Reeder"
-    },
-    {
-      "date": "2025-07-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned CRylan Galvan.",
-      "player": "Rylan Galvan"
-    },
-    {
-      "date": "2025-07-23",
-      "team": "New York Mets",
-      "details": "New York Metsactivated RHPJosé Buttófrom the 15-day injured list.",
-      "player": "José Buttó"
-    },
-    {
-      "date": "2025-07-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned CLandon Hodge.",
-      "player": "Landon Hodge"
-    },
-    {
-      "date": "2025-07-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned RHPBlaine Wynk.",
-      "player": "Blaine Wynk"
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned RHPAubrey Smith.",
+      "player": "Aubrey Smith"
     }
   ]
 }
