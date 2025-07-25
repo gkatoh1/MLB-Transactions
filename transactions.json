@@ -1,29 +1,47 @@
 {
-  "last_updated": "2025-07-24T23:27:15.264845",
+  "last_updated": "2025-07-25T02:21:40.757950",
   "transactions": [
     {
       "date": "2025-07-24",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent RHPZack Kellyon a rehab assignment to Greenville Drive.",
-      "player": "Zack Kelly"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned LHPKruz Schoolcraft.",
+      "player": "Kruz Schoolcraft"
     },
     {
       "date": "2025-07-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned SSCoy James.",
-      "player": "Coy James"
-    },
-    {
-      "date": "2025-07-24",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessigned RHPDylan Mathiesen.",
-      "player": "Dylan Mathiesen"
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent RHPCaden Woosterto a minor league contract.",
+      "player": "Caden Wooster"
     },
     {
       "date": "2025-07-24",
       "team": "San Diego Padres",
-      "details": "San Diego Padressigned 1BLuke Cantwell.",
-      "player": "Luke Cantwell"
+      "details": "San Diego Padressigned RHPTyler Schmitt.",
+      "player": "Tyler Schmitt"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent 1BRyan Mountcastleon a rehab assignment to Norfolk Tides.",
+      "player": "Ryan Mountcastle"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent RHPColby Friedato a minor league contract.",
+      "player": "Colby Frieda"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent CJake Boldto a minor league contract.",
+      "player": "Jake Bold"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent LFJacob Meltonon a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Jacob Melton"
     },
     {
       "date": "2025-07-24",
@@ -57,6 +75,12 @@
     },
     {
       "date": "2025-07-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPFélix Bautistaon the 15-day injured list retroactive to July 21, 2025. Right shoulder discomfort.",
+      "player": "Félix Bautista"
+    },
+    {
+      "date": "2025-07-24",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratessigned 3BBrent Iredale.",
       "player": "Brent Iredale"
@@ -66,36 +90,6 @@
       "team": "San Diego Padres",
       "details": "San Diego Padressigned CTy Harvey.",
       "player": "Ty Harvey"
-    },
-    {
-      "date": "2025-07-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned RHPLandon Harmon.",
-      "player": "Landon Harmon"
-    },
-    {
-      "date": "2025-07-24",
-      "team": "New York Mets",
-      "details": "New York Metssigned free agent RHPColby Friedato a minor league contract.",
-      "player": "Colby Frieda"
-    },
-    {
-      "date": "2025-07-24",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressigned free agent CJake Boldto a minor league contract.",
-      "player": "Jake Bold"
-    },
-    {
-      "date": "2025-07-24",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent LFJacob Meltonon a rehab assignment to Sugar Land Space Cowboys.",
-      "player": "Jacob Melton"
-    },
-    {
-      "date": "2025-07-24",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressigned free agent SSDawson Willisto a minor league contract.",
-      "player": "Dawson Willis"
     },
     {
       "date": "2025-07-24",
@@ -111,63 +105,51 @@
     },
     {
       "date": "2025-07-24",
-      "team": "New York Mets",
-      "details": "New York Metssigned free agent RHPCaden Woosterto a minor league contract.",
-      "player": "Caden Wooster"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent 2BChristian Kosson a rehab assignment to ACL Giants.",
+      "player": "Christian Koss"
     },
     {
       "date": "2025-07-24",
       "team": "San Diego Padres",
-      "details": "San Diego Padressigned RHPTyler Schmitt.",
-      "player": "Tyler Schmitt"
+      "details": "San Diego Padressigned RHPClay Edmondson.",
+      "player": "Clay Edmondson"
     },
     {
       "date": "2025-07-24",
       "team": "San Diego Padres",
-      "details": "San Diego Padressigned SSJonathan Vastine.",
-      "player": "Jonathan Vastine"
+      "details": "San Diego Padressigned LHPRyan Reed.",
+      "player": "Ryan Reed"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned RHPLandon Harmon.",
+      "player": "Landon Harmon"
     },
     {
       "date": "2025-07-24",
       "team": "San Diego Padres",
-      "details": "San Diego Padressigned free agent RHPTyler Dietzto a minor league contract.",
-      "player": "Tyler Dietz"
+      "details": "San Diego Padressigned OFGeorge Bilecki.",
+      "player": "George Bilecki"
     },
     {
       "date": "2025-07-24",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersdesignated RHPCarlos Hernándezfor assignment.",
-      "player": "Carlos Hernández"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned SSCoy James.",
+      "player": "Coy James"
     },
     {
       "date": "2025-07-24",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessigned 1BJared Jones.",
-      "player": "Jared Jones"
-    },
-    {
-      "date": "2025-07-24",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessigned CEaston Carmichael.",
-      "player": "Easton Carmichael"
+      "details": "Pittsburgh Piratessigned RHPDylan Mathiesen.",
+      "player": "Dylan Mathiesen"
     },
     {
       "date": "2025-07-24",
       "team": "San Diego Padres",
-      "details": "San Diego Padressigned free agent LHPCal Riehlto a minor league contract.",
-      "player": "Cal Riehl"
-    },
-    {
-      "date": "2025-07-24",
-      "team": "New York Mets",
-      "details": "New York Metssigned free agent 3BAJ Salgadoto a minor league contract.",
-      "player": "AJ Salgado"
-    },
-    {
-      "date": "2025-07-24",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent 1BRyan Mountcastleon a rehab assignment to Norfolk Tides.",
-      "player": "Ryan Mountcastle"
+      "details": "San Diego Padressigned 1BLuke Cantwell.",
+      "player": "Luke Cantwell"
     },
     {
       "date": "2025-07-24",
@@ -195,6 +177,12 @@
     },
     {
       "date": "2025-07-24",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPZack Kellyon a rehab assignment to Greenville Drive.",
+      "player": "Zack Kelly"
+    },
+    {
+      "date": "2025-07-24",
       "team": "San Diego Padres",
       "details": "San Diego Padressigned OFRyan Wideman.",
       "player": "Ryan Wideman"
@@ -208,8 +196,8 @@
     {
       "date": "2025-07-24",
       "team": "San Diego Padres",
-      "details": "San Diego Padressigned LHPKruz Schoolcraft.",
-      "player": "Kruz Schoolcraft"
+      "details": "San Diego Padressigned free agent SSDawson Willisto a minor league contract.",
+      "player": "Dawson Willis"
     },
     {
       "date": "2025-07-24",
@@ -262,44 +250,56 @@
     {
       "date": "2025-07-24",
       "team": "San Diego Padres",
-      "details": "San Diego Padressigned RHPClay Edmondson.",
-      "player": "Clay Edmondson"
+      "details": "San Diego Padressigned SSJonathan Vastine.",
+      "player": "Jonathan Vastine"
     },
     {
       "date": "2025-07-24",
       "team": "San Diego Padres",
-      "details": "San Diego Padressigned LHPRyan Reed.",
-      "player": "Ryan Reed"
-    },
-    {
-      "date": "2025-07-24",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressigned OFGeorge Bilecki.",
-      "player": "George Bilecki"
-    },
-    {
-      "date": "2025-07-24",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced RHPFélix Bautistaon the 15-day injured list retroactive to July 21, 2025. Right shoulder discomfort.",
-      "player": "Félix Bautista"
+      "details": "San Diego Padressigned free agent RHPTyler Dietzto a minor league contract.",
+      "player": "Tyler Dietz"
     },
     {
       "date": "2025-07-24",
       "team": "Detroit Tigers",
-      "details": "Detroit Tigersselected the contract of RHPGeoff Hartliebfrom Toledo Mud Hens.",
-      "player": "Geoff Hartlieb"
+      "details": "Detroit Tigersdesignated RHPCarlos Hernándezfor assignment.",
+      "player": "Carlos Hernández"
     },
     {
       "date": "2025-07-24",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned LHPJake Ederto Salt Lake Bees.",
-      "player": "Jake Eder"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned 1BJared Jones.",
+      "player": "Jared Jones"
     },
     {
       "date": "2025-07-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPOrlando Ribaltato Rochester Red Wings.",
-      "player": "Orlando Ribalta"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned CEaston Carmichael.",
+      "player": "Easton Carmichael"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent LHPCal Riehlto a minor league contract.",
+      "player": "Cal Riehl"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent 3BAJ Salgadoto a minor league contract.",
+      "player": "AJ Salgado"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPJason Alexanderfrom Sugar Land Space Cowboys.",
+      "player": "Jason Alexander"
+    },
+    {
+      "date": "2025-07-24",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPNick Hernandezto Sugar Land Space Cowboys.",
+      "player": "Nick Hernandez"
     }
   ]
 }
