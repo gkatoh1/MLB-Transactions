@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-07-25T13:42:15.294159",
+  "last_updated": "2025-07-25T14:26:39.731158",
   "transactions": [
-    {
-      "date": "2025-07-25",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled OFTristin Englishfrom Reno Aces.",
-      "player": "Tristin English"
-    },
     {
       "date": "2025-07-25",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksoptioned LHPBrandyn Garciato Reno Aces.",
       "player": "Brandyn Garcia"
+    },
+    {
+      "date": "2025-07-25",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled OFTristin Englishfrom Reno Aces.",
+      "player": "Tristin English"
     }
   ]
 }
