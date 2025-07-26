@@ -1,53 +1,11 @@
 {
-  "last_updated": "2025-07-26T20:28:19.060088",
+  "last_updated": "2025-07-26T21:24:56.179764",
   "transactions": [
-    {
-      "date": "2025-07-26",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysdesignated 2BCoco Montesfor assignment.",
-      "player": "Coco Montes"
-    },
     {
       "date": "2025-07-26",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersactivated LHPTarik Skubalfrom the paternity list.",
       "player": "Tarik Skubal"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated 3BRyan McMahon.",
-      "player": "Ryan McMahon"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated RHPYerry De los Santosfrom the 15-day injured list.",
-      "player": "Yerry De los Santos"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced CRyan Jefferson the paternity list.",
-      "player": "Ryan Jeffers"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersdesignated RHPGeoff Hartliebfor assignment.",
-      "player": "Geoff Hartlieb"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated RFSal Frelickfrom the 10-day injured list.",
-      "player": "Sal Frelick"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated 3BTristan Gray.",
-      "player": "Tristan Gray"
     },
     {
       "date": "2025-07-26",
@@ -57,9 +15,69 @@
     },
     {
       "date": "2025-07-26",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated 3BTristan Gray.",
+      "player": "Tristan Gray"
+    },
+    {
+      "date": "2025-07-26",
       "team": "Detroit Tigers",
       "details": "Detroit Tigerssigned free agent RHPLuke Jackson.",
       "player": "Luke Jackson"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated RHPGeoff Hartliebfor assignment.",
+      "player": "Geoff Hartlieb"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent LHPDaniel Lynch IVon a rehab assignment to Northwest Arkansas Naturals.",
+      "player": "Daniel Lynch IV"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated 2BCoco Montesfor assignment.",
+      "player": "Coco Montes"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RFSal Frelickfrom the 10-day injured list.",
+      "player": "Sal Frelick"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated 3BRyan McMahon.",
+      "player": "Ryan McMahon"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced CRyan Jefferson the paternity list.",
+      "player": "Ryan Jeffers"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated 3BTristan Gray.",
+      "player": "Tristan Gray"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RHPYerry De los Santosfrom the 15-day injured list.",
+      "player": "Yerry De los Santos"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced 3BWill Wagneron the restricted list.",
+      "player": "Will Wagner"
     },
     {
       "date": "2025-07-26",
@@ -75,81 +93,9 @@
     },
     {
       "date": "2025-07-26",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent LHPDaniel Lynch IVon a rehab assignment to Northwest Arkansas Naturals.",
-      "player": "Daniel Lynch IV"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced 3BWill Wagneron the restricted list.",
-      "player": "Will Wagner"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled LFAlan Rodenfrom Buffalo Bisons.",
-      "player": "Alan Roden"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned 2BJeremiah Jacksonto Norfolk Tides.",
-      "player": "Jeremiah Jackson"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled RHPLuis Contrerasfrom Sugar Land Space Cowboys.",
-      "player": "Luis Contreras"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled 2BMickey Gasperfrom St. Paul Saints.",
-      "player": "Mickey Gasper"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned 2BJorbit Vivasto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jorbit Vivas"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned RHPNick Hernandezto Sugar Land Space Cowboys.",
-      "player": "Nick Hernandez"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPLuis Meyto Louisville Bats.",
-      "player": "Luis Mey"
-    },
-    {
-      "date": "2025-07-26",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersoptioned RHPKeider Monteroto Toledo Mud Hens.",
       "player": "Keider Montero"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RHPZak Kentfrom Columbus Clippers.",
-      "player": "Zak Kent"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled LHPBrandyn Garciafrom Reno Aces.",
-      "player": "Brandyn Garcia"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPScott Effrossto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Scott Effross"
     },
     {
       "date": "2025-07-26",
@@ -171,6 +117,42 @@
     },
     {
       "date": "2025-07-26",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned 2BJeremiah Jacksonto Norfolk Tides.",
+      "player": "Jeremiah Jackson"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPLuis Contrerasfrom Sugar Land Space Cowboys.",
+      "player": "Luis Contreras"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPScott Effrossto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Scott Effross"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled 2BMickey Gasperfrom St. Paul Saints.",
+      "player": "Mickey Gasper"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPNick Hernandezto Sugar Land Space Cowboys.",
+      "player": "Nick Hernandez"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned 2BJorbit Vivasto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jorbit Vivas"
+    },
+    {
+      "date": "2025-07-26",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxtraded 3BTristan GraytoTampa Bay Raysfor cash.",
       "player": "Tristan Gray"
@@ -180,6 +162,30 @@
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesselected the contract of SSWarming Bernabelfrom Albuquerque Isotopes.",
       "player": "Warming Bernabel"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPLuis Meyto Louisville Bats.",
+      "player": "Luis Mey"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled LHPBrandyn Garciafrom Reno Aces.",
+      "player": "Brandyn Garcia"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LFAlan Rodenfrom Buffalo Bisons.",
+      "player": "Alan Roden"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPZak Kentfrom Columbus Clippers.",
+      "player": "Zak Kent"
     }
   ]
 }
