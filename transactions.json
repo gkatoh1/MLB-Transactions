@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-26T14:25:18.448227",
+  "last_updated": "2025-07-26T15:27:18.108758",
   "transactions": [
     {
       "date": "2025-07-26",
@@ -16,14 +16,20 @@
     {
       "date": "2025-07-26",
       "team": "New York Yankees",
+      "details": "New York Yankeesoptioned 2BJorbit Vivasto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jorbit Vivas"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPScott Effrossto Scranton/Wilkes-Barre RailRiders.",
       "player": "Scott Effross"
     },
     {
       "date": "2025-07-26",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned 2BJorbit Vivasto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jorbit Vivas"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
+      "player": "Jonathan Bowlan"
     }
   ]
 }
