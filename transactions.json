@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-26T15:27:18.108758",
+  "last_updated": "2025-07-26T16:32:05.373970",
   "transactions": [
     {
       "date": "2025-07-26",
@@ -12,6 +12,12 @@
       "team": "New York Yankees",
       "details": "New York Yankeesactivated RHPYerry De los Santosfrom the 15-day injured list.",
       "player": "Yerry De los Santos"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned RHPGrayson Boles.",
+      "player": "Grayson Boles"
     },
     {
       "date": "2025-07-26",
@@ -30,6 +36,12 @@
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
       "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPZak Kentfrom Columbus Clippers.",
+      "player": "Zak Kent"
     }
   ]
 }
