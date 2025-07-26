@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-26T17:25:43.977083",
+  "last_updated": "2025-07-26T18:36:29.703620",
   "transactions": [
+    {
+      "date": "2025-07-26",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated LHPTarik Skubalfrom the paternity list.",
+      "player": "Tarik Skubal"
+    },
     {
       "date": "2025-07-26",
       "team": "New York Yankees",
@@ -15,9 +21,27 @@
     },
     {
       "date": "2025-07-26",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksdesignated RHPTrevor Richardsfor assignment.",
+      "player": "Trevor Richards"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced 3BWill Wagneron the restricted list.",
+      "player": "Will Wagner"
+    },
+    {
+      "date": "2025-07-26",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalssigned RHPGrayson Boles.",
       "player": "Grayson Boles"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated 2BCoco Montesfor assignment.",
+      "player": "Coco Montes"
     },
     {
       "date": "2025-07-26",
@@ -27,15 +51,9 @@
     },
     {
       "date": "2025-07-26",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPScott Effrossto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Scott Effross"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
-      "player": "Jonathan Bowlan"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesselected the contract of SSWarming Bernabelfrom Albuquerque Isotopes.",
+      "player": "Warming Bernabel"
     },
     {
       "date": "2025-07-26",
@@ -45,9 +63,33 @@
     },
     {
       "date": "2025-07-26",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LFAlan Rodenfrom Buffalo Bisons.",
+      "player": "Alan Roden"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPScott Effrossto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Scott Effross"
+    },
+    {
+      "date": "2025-07-26",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned 2BJorbit Vivasto Scranton/Wilkes-Barre RailRiders.",
       "player": "Jorbit Vivas"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled LHPBrandyn Garciafrom Reno Aces.",
+      "player": "Brandyn Garcia"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
+      "player": "Jonathan Bowlan"
     }
   ]
 }
