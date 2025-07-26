@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-07-26T18:36:29.703620",
+  "last_updated": "2025-07-26T19:20:35.358062",
   "transactions": [
     {
       "date": "2025-07-26",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersactivated LHPTarik Skubalfrom the paternity list.",
       "player": "Tarik Skubal"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated 2BCoco Montesfor assignment.",
+      "player": "Coco Montes"
     },
     {
       "date": "2025-07-26",
@@ -39,12 +45,6 @@
     },
     {
       "date": "2025-07-26",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysdesignated 2BCoco Montesfor assignment.",
-      "player": "Coco Montes"
-    },
-    {
-      "date": "2025-07-26",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxtraded 3BTristan GraytoTampa Bay Raysfor cash.",
       "player": "Tristan Gray"
@@ -63,9 +63,45 @@
     },
     {
       "date": "2025-07-26",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled LHPBrandyn Garciafrom Reno Aces.",
+      "player": "Brandyn Garcia"
+    },
+    {
+      "date": "2025-07-26",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysrecalled LFAlan Rodenfrom Buffalo Bisons.",
       "player": "Alan Roden"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned 2BJeremiah Jacksonto Norfolk Tides.",
+      "player": "Jeremiah Jackson"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPLuis Contrerasfrom Sugar Land Space Cowboys.",
+      "player": "Luis Contreras"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
+      "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPYaramil Hiraldofrom Norfolk Tides.",
+      "player": "Yaramil Hiraldo"
+    },
+    {
+      "date": "2025-07-26",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPNick Hernandezto Sugar Land Space Cowboys.",
+      "player": "Nick Hernandez"
     },
     {
       "date": "2025-07-26",
@@ -78,18 +114,6 @@
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned 2BJorbit Vivasto Scranton/Wilkes-Barre RailRiders.",
       "player": "Jorbit Vivas"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled LHPBrandyn Garciafrom Reno Aces.",
-      "player": "Brandyn Garcia"
-    },
-    {
-      "date": "2025-07-26",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
-      "player": "Jonathan Bowlan"
     }
   ]
 }
