@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-27T19:22:31.855744",
+  "last_updated": "2025-07-27T20:29:22.089686",
   "transactions": [
+    {
+      "date": "2025-07-27",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced RFAaron Judgeon the 10-day injured list retroactive to July 26, 2025. Right flexor strain.",
+      "player": "Aaron Judge"
+    },
     {
       "date": "2025-07-27",
       "team": "Atlanta Braves",
@@ -9,9 +15,15 @@
     },
     {
       "date": "2025-07-27",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent RHPShane Bieberon a rehab assignment to Columbus Clippers.",
-      "player": "Shane Bieber"
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated 3BAmed Rosario.",
+      "player": "Amed Rosario"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated 3BAmed Rosario.",
+      "player": "Amed Rosario"
     },
     {
       "date": "2025-07-27",
@@ -45,15 +57,27 @@
     },
     {
       "date": "2025-07-27",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced RFAaron Judgeon the 10-day injured list retroactive to July 26, 2025. Right flexor strain.",
-      "player": "Aaron Judge"
+      "team": "New York Mets",
+      "details": "New York Metsdesignated LHPJosé Castillofor assignment.",
+      "player": "José Castillo"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "New York Mets",
+      "details": "New York Metsactivated LHPGregory Soto.",
+      "player": "Gregory Soto"
     },
     {
       "date": "2025-07-27",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersactivated RHPBlake Treinenfrom the 60-day injured list.",
       "player": "Blake Treinen"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPJ.P. Franceon a rehab assignment to Corpus Christi Hooks.",
+      "player": "J.P. France"
     },
     {
       "date": "2025-07-27",
@@ -81,27 +105,15 @@
     },
     {
       "date": "2025-07-27",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPShane Bieberon a rehab assignment to Columbus Clippers.",
+      "player": "Shane Bieber"
+    },
+    {
+      "date": "2025-07-27",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksactivated CFAlek Thomasfrom the bereavement list.",
       "player": "Alek Thomas"
-    },
-    {
-      "date": "2025-07-27",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated 3BAmed Rosario.",
-      "player": "Amed Rosario"
-    },
-    {
-      "date": "2025-07-27",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated 3BAmed Rosario.",
-      "player": "Amed Rosario"
-    },
-    {
-      "date": "2025-07-27",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled LHPJustin Wrobleskifrom Oklahoma City Comets.",
-      "player": "Justin Wrobleski"
     },
     {
       "date": "2025-07-27",
@@ -117,15 +129,9 @@
     },
     {
       "date": "2025-07-27",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of CAli Sánchezfrom Buffalo Bisons.",
-      "player": "Ali Sánchez"
-    },
-    {
-      "date": "2025-07-27",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPClayton Beeterto Rochester Red Wings.",
-      "player": "Clayton Beeter"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned LHPRyan Rolisonto Albuquerque Isotopes.",
+      "player": "Ryan Rolison"
     },
     {
       "date": "2025-07-27",
@@ -141,15 +147,9 @@
     },
     {
       "date": "2025-07-27",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPAngel Chivillifrom Albuquerque Isotopes.",
-      "player": "Angel Chivilli"
-    },
-    {
-      "date": "2025-07-27",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled LHPBrent Headrickfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Brent Headrick"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of CAli Sánchezfrom Buffalo Bisons.",
+      "player": "Ali Sánchez"
     },
     {
       "date": "2025-07-27",
@@ -165,21 +165,27 @@
     },
     {
       "date": "2025-07-27",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned LHPRyan Rolisonto Albuquerque Isotopes.",
-      "player": "Ryan Rolison"
-    },
-    {
-      "date": "2025-07-27",
       "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPAllan Winansto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Allan Winans"
+      "details": "New York Yankeesrecalled LHPBrent Headrickfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Brent Headrick"
     },
     {
       "date": "2025-07-27",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned RHPZak Kentto Columbus Clippers.",
-      "player": "Zak Kent"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled LHPJustin Wrobleskifrom Oklahoma City Comets.",
+      "player": "Justin Wrobleski"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPClayton Beeterto Rochester Red Wings.",
+      "player": "Clayton Beeter"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPAngel Chivillifrom Albuquerque Isotopes.",
+      "player": "Angel Chivilli"
     },
     {
       "date": "2025-07-27",
@@ -195,9 +201,21 @@
     },
     {
       "date": "2025-07-27",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPAllan Winansto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Allan Winans"
+    },
+    {
+      "date": "2025-07-27",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
       "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPZak Kentto Columbus Clippers.",
+      "player": "Zak Kent"
     }
   ]
 }
