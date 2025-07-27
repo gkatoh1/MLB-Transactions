@@ -1,6 +1,90 @@
 {
-  "last_updated": "2025-07-27T22:26:26.169286",
+  "last_updated": "2025-07-27T23:26:52.640041",
   "transactions": [
+    {
+      "date": "2025-07-27",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RFKerry Carpenterfrom the 10-day injured list.",
+      "player": "Kerry Carpenter"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "Unknown Team",
+      "details": "CLuke Mailechanged number to 17.",
+      "player": "Luke Maile"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced RHPGrant Holmeson the 15-day injured list. Right elbow inflammation.",
+      "player": "Grant Holmes"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPShane Bieberon a rehab assignment to Columbus Clippers.",
+      "player": "Shane Bieber"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated 3BAmed Rosario.",
+      "player": "Amed Rosario"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPZach Agnoson the 15-day injured list. Right flexor strain.",
+      "player": "Zach Agnos"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated 3BAmed Rosario.",
+      "player": "Amed Rosario"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced CAlejandro Kirkon the 7-day injured list. Concussion.",
+      "player": "Alejandro Kirk"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced RHPGrant Holmeson the 60-day injured list.",
+      "player": "Grant Holmes"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced RFAaron Judgeon the 10-day injured list retroactive to July 26, 2025. Right flexor strain.",
+      "player": "Aaron Judge"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated CFAlek Thomasfrom the bereavement list.",
+      "player": "Alek Thomas"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced LHPKris Bubicon the 15-day injured list. Left rotator cuff strain.",
+      "player": "Kris Bubic"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysreleased RHPJacob Waguespack.",
+      "player": "Jacob Waguespack"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPJ.P. Franceon a rehab assignment to Corpus Christi Hooks.",
+      "player": "J.P. France"
+    },
     {
       "date": "2025-07-27",
       "team": "Cleveland Guardians",
@@ -39,18 +123,6 @@
     },
     {
       "date": "2025-07-27",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced RHPGrant Holmeson the 15-day injured list. Right elbow inflammation.",
-      "player": "Grant Holmes"
-    },
-    {
-      "date": "2025-07-27",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysreleased RHPJacob Waguespack.",
-      "player": "Jacob Waguespack"
-    },
-    {
-      "date": "2025-07-27",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsplaced RFJac Caglianoneon the 10-day injured list. Left hamstring strain.",
       "player": "Jac Caglianone"
@@ -63,75 +135,39 @@
     },
     {
       "date": "2025-07-27",
-      "team": "Unknown Team",
-      "details": "CLuke Mailechanged number to 17.",
-      "player": "Luke Maile"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled LHPJustin Wrobleskifrom Oklahoma City Comets.",
+      "player": "Justin Wrobleski"
     },
     {
       "date": "2025-07-27",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced RHPZach Agnoson the 15-day injured list. Right flexor strain.",
-      "player": "Zach Agnos"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalstraded RHPErick Feddeand cash toAtlanta Bravesfor Future Considerations.",
+      "player": "Erick Fedde"
     },
     {
       "date": "2025-07-27",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced LHPKris Bubicon the 15-day injured list. Left rotator cuff strain.",
-      "player": "Kris Bubic"
-    },
-    {
-      "date": "2025-07-27",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced RFAaron Judgeon the 10-day injured list retroactive to July 26, 2025. Right flexor strain.",
-      "player": "Aaron Judge"
-    },
-    {
-      "date": "2025-07-27",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksactivated CFAlek Thomasfrom the bereavement list.",
-      "player": "Alek Thomas"
-    },
-    {
-      "date": "2025-07-27",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RHPJ.P. Franceon a rehab assignment to Corpus Christi Hooks.",
-      "player": "J.P. France"
-    },
-    {
-      "date": "2025-07-27",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated RFKerry Carpenterfrom the 10-day injured list.",
-      "player": "Kerry Carpenter"
-    },
-    {
-      "date": "2025-07-27",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated 3BAmed Rosario.",
-      "player": "Amed Rosario"
-    },
-    {
-      "date": "2025-07-27",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated 3BAmed Rosario.",
-      "player": "Amed Rosario"
-    },
-    {
-      "date": "2025-07-27",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced CAlejandro Kirkon the 7-day injured list. Concussion.",
-      "player": "Alejandro Kirk"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPTobias Myersto Nashville Sounds.",
+      "player": "Tobias Myers"
     },
     {
       "date": "2025-07-27",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced RHPGrant Holmeson the 60-day injured list.",
-      "player": "Grant Holmes"
+      "details": "Atlanta Bravesrecalled RHPDaysbel Hernándezfrom Gwinnett Stripers.",
+      "player": "Daysbel Hernández"
     },
     {
       "date": "2025-07-27",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent RHPShane Bieberon a rehab assignment to Columbus Clippers.",
-      "player": "Shane Bieber"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent RFTyler Gentryoutright to Omaha Storm Chasers.",
+      "player": "Tyler Gentry"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of CAli Sánchezfrom Buffalo Bisons.",
+      "player": "Ali Sánchez"
     },
     {
       "date": "2025-07-27",
@@ -148,8 +184,8 @@
     {
       "date": "2025-07-27",
       "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPAngel Chivillifrom Albuquerque Isotopes.",
-      "player": "Angel Chivilli"
+      "details": "Colorado Rockiesoptioned LHPRyan Rolisonto Albuquerque Isotopes.",
+      "player": "Ryan Rolison"
     },
     {
       "date": "2025-07-27",
@@ -159,57 +195,15 @@
     },
     {
       "date": "2025-07-27",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPClayton Beeterto Rochester Red Wings.",
-      "player": "Clayton Beeter"
-    },
-    {
-      "date": "2025-07-27",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned SSTrey Sweeneyto Toledo Mud Hens.",
-      "player": "Trey Sweeney"
-    },
-    {
-      "date": "2025-07-27",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansoptioned RHPZak Kentto Columbus Clippers.",
       "player": "Zak Kent"
     },
     {
       "date": "2025-07-27",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersoptioned RHPEdgardo Henriquezto Oklahoma City Comets.",
-      "player": "Edgardo Henriquez"
-    },
-    {
-      "date": "2025-07-27",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled 3BJosé Tenafrom Rochester Red Wings.",
-      "player": "José Tena"
-    },
-    {
-      "date": "2025-07-27",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent RFTyler Gentryoutright to Omaha Storm Chasers.",
-      "player": "Tyler Gentry"
-    },
-    {
-      "date": "2025-07-27",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled LHPBrent Headrickfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Brent Headrick"
-    },
-    {
-      "date": "2025-07-27",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled LHPJustin Wrobleskifrom Oklahoma City Comets.",
-      "player": "Justin Wrobleski"
-    },
-    {
-      "date": "2025-07-27",
       "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned LHPRyan Rolisonto Albuquerque Isotopes.",
-      "player": "Ryan Rolison"
+      "details": "Colorado Rockiesrecalled RHPAngel Chivillifrom Albuquerque Isotopes.",
+      "player": "Angel Chivilli"
     },
     {
       "date": "2025-07-27",
@@ -225,9 +219,21 @@
     },
     {
       "date": "2025-07-27",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPDaysbel Hernándezfrom Gwinnett Stripers.",
-      "player": "Daysbel Hernández"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPClayton Beeterto Rochester Red Wings.",
+      "player": "Clayton Beeter"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned SSTrey Sweeneyto Toledo Mud Hens.",
+      "player": "Trey Sweeney"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled 3BJosé Tenafrom Rochester Red Wings.",
+      "player": "José Tena"
     },
     {
       "date": "2025-07-27",
@@ -237,15 +243,15 @@
     },
     {
       "date": "2025-07-27",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPTobias Myersto Nashville Sounds.",
-      "player": "Tobias Myers"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPEdgardo Henriquezto Oklahoma City Comets.",
+      "player": "Edgardo Henriquez"
     },
     {
       "date": "2025-07-27",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of CAli Sánchezfrom Buffalo Bisons.",
-      "player": "Ali Sánchez"
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled LHPBrent Headrickfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Brent Headrick"
     }
   ]
 }
