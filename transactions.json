@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-27T13:35:47.607944",
+  "last_updated": "2025-07-27T14:24:43.716330",
   "transactions": [
+    {
+      "date": "2025-07-27",
+      "team": "Unknown Team",
+      "details": "CLuke Mailechanged number to 17.",
+      "player": "Luke Maile"
+    },
     {
       "date": "2025-07-27",
       "team": "Kansas City Royals",
@@ -9,9 +15,21 @@
     },
     {
       "date": "2025-07-27",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPAllan Winansto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Allan Winans"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced RHPGrant Holmeson the 15-day injured list. Right elbow inflammation.",
+      "player": "Grant Holmes"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RFRandal Grichuk.",
+      "player": "Randal Grichuk"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPDaysbel Hernándezfrom Gwinnett Stripers.",
+      "player": "Daysbel Hernández"
     },
     {
       "date": "2025-07-27",
@@ -24,6 +42,12 @@
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned RHPClayton Beeterto Rochester Red Wings.",
       "player": "Clayton Beeter"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPAllan Winansto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Allan Winans"
     }
   ]
 }
