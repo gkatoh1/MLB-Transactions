@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-07-27T12:54:23.091829",
+  "last_updated": "2025-07-27T13:35:47.607944",
   "transactions": [
     {
       "date": "2025-07-27",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsplaced RFJac Caglianoneon the 10-day injured list. Left hamstring strain.",
       "player": "Jac Caglianone"
+    },
+    {
+      "date": "2025-07-27",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPAllan Winansto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Allan Winans"
     },
     {
       "date": "2025-07-27",
@@ -18,12 +24,6 @@
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned RHPClayton Beeterto Rochester Red Wings.",
       "player": "Clayton Beeter"
-    },
-    {
-      "date": "2025-07-27",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPAllan Winansto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Allan Winans"
     }
   ]
 }
