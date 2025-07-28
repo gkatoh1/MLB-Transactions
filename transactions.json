@@ -1,24 +1,6 @@
 {
-  "last_updated": "2025-07-28T22:28:55.887718",
+  "last_updated": "2025-07-28T23:28:43.883432",
   "transactions": [
-    {
-      "date": "2025-07-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned RHPBrayan Orrantia.",
-      "player": "Brayan Orrantia"
-    },
-    {
-      "date": "2025-07-28",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersplaced RHPReese Olsonon the 60-day injured list. Right shoulder strain.",
-      "player": "Reese Olson"
-    },
-    {
-      "date": "2025-07-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated CJacob Stallingsfor assignment.",
-      "player": "Jacob Stallings"
-    },
     {
       "date": "2025-07-28",
       "team": "Baltimore Orioles",
@@ -33,21 +15,9 @@
     },
     {
       "date": "2025-07-28",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPErick Fedde.",
-      "player": "Erick Fedde"
-    },
-    {
-      "date": "2025-07-28",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssigned free agent 1BTrace Phillipsto a minor league contract.",
-      "player": "Trace Phillips"
-    },
-    {
-      "date": "2025-07-28",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesactivated RHPVictor Vodnikfrom the paternity list.",
-      "player": "Victor Vodnik"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated 3BWill Wagnerfrom the restricted list.",
+      "player": "Will Wagner"
     },
     {
       "date": "2025-07-28",
@@ -63,9 +33,39 @@
     },
     {
       "date": "2025-07-28",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssigned SSMeridian Leffew.",
-      "player": "Meridian Leffew"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent RHPTodd Kniebbeto a minor league contract.",
+      "player": "Todd Kniebbe"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned RHPBrayan Orrantia.",
+      "player": "Brayan Orrantia"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssigned free agent 1BTrace Phillipsto a minor league contract.",
+      "player": "Trace Phillips"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated RHPVictor Vodnikfrom the paternity list.",
+      "player": "Victor Vodnik"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsdesignated RHPConnor Gillispiefor assignment.",
+      "player": "Connor Gillispie"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced RHPEmmanuel Claseon administrative leave.",
+      "player": "Emmanuel Clase"
     },
     {
       "date": "2025-07-28",
@@ -105,6 +105,24 @@
     },
     {
       "date": "2025-07-28",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPErick Fedde.",
+      "player": "Erick Fedde"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned SSMeridian Leffew.",
+      "player": "Meridian Leffew"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced RHPReese Olsonon the 60-day injured list. Right shoulder strain.",
+      "player": "Reese Olson"
+    },
+    {
+      "date": "2025-07-28",
       "team": "Miami Marlins",
       "details": "Miami Marlinsactivated RHPLake Bacharfrom the paternity list.",
       "player": "Lake Bachar"
@@ -117,33 +135,21 @@
     },
     {
       "date": "2025-07-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated CJacob Stallingsfor assignment.",
+      "player": "Jacob Stallings"
+    },
+    {
+      "date": "2025-07-28",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerssigned RHPLuke Roupe.",
       "player": "Luke Roupe"
     },
     {
       "date": "2025-07-28",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated 3BWill Wagnerfrom the restricted list.",
-      "player": "Will Wagner"
-    },
-    {
-      "date": "2025-07-28",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsdesignated RHPConnor Gillispiefor assignment.",
-      "player": "Connor Gillispie"
-    },
-    {
-      "date": "2025-07-28",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansplaced RHPEmmanuel Claseon administrative leave.",
-      "player": "Emmanuel Clase"
-    },
-    {
-      "date": "2025-07-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent RHPTodd Kniebbeto a minor league contract.",
-      "player": "Todd Kniebbe"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPMatt Svansonfrom Memphis Redbirds.",
+      "player": "Matt Svanson"
     },
     {
       "date": "2025-07-28",
@@ -153,45 +159,15 @@
     },
     {
       "date": "2025-07-28",
-      "team": "New York Yankees",
-      "details": "New York Yankeestraded RHPCarlos CarrascotoAtlanta Bravesfor cash.",
-      "player": "Carlos Carrasco"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled 3BAndy Ibáñezfrom Toledo Mud Hens.",
+      "player": "Andy Ibáñez"
     },
     {
       "date": "2025-07-28",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinstraded RHPChris Paddackand RHP Randy Dobnak toDetroit Tigersfor C Enrique Jimenez.",
-      "player": "Chris Paddack"
-    },
-    {
-      "date": "2025-07-28",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinstraded RHP Chris Paddack and RHP Randy Dobnak toDetroit Tigersfor CEnrique Jimenez.",
-      "player": "Enrique Jimenez"
-    },
-    {
-      "date": "2025-07-28",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinstraded RHP Chris Paddack and RHPRandy DobnaktoDetroit Tigersfor C Enrique Jimenez.",
-      "player": "Randy Dobnak"
-    },
-    {
-      "date": "2025-07-28",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
-      "player": "Hunter Stratton"
-    },
-    {
-      "date": "2025-07-28",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPFreddy Tarnokto Jacksonville Jumbo Shrimp.",
-      "player": "Freddy Tarnok"
-    },
-    {
-      "date": "2025-07-28",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPNick Andersonto Albuquerque Isotopes.",
-      "player": "Nick Anderson"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPJosé Ferminto Salt Lake Bees.",
+      "player": "José Fermin"
     },
     {
       "date": "2025-07-28",
@@ -201,9 +177,57 @@
     },
     {
       "date": "2025-07-28",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPNick Andersonto Albuquerque Isotopes.",
+      "player": "Nick Anderson"
+    },
+    {
+      "date": "2025-07-28",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
-      "player": "Travis Adams"
+      "details": "Minnesota Twinsselected the contract of RHPMichael Tonkinfrom St. Paul Saints.",
+      "player": "Michael Tonkin"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "New York Yankees",
+      "details": "New York Yankeestraded RHPCarlos CarrascotoAtlanta Bravesfor cash.",
+      "player": "Carlos Carrasco"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPCraig Yohofrom Nashville Sounds.",
+      "player": "Craig Yoho"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled RHPJack Kochanowiczfrom Salt Lake Bees.",
+      "player": "Jack Kochanowicz"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent 2BCoco Montesoutright to Durham Bulls.",
+      "player": "Coco Montes"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPSean Hjelleto Sacramento River Cats.",
+      "player": "Sean Hjelle"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFAlan Rodento Buffalo Bisons.",
+      "player": "Alan Roden"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstraded RHPChris Paddackand RHP Randy Dobnak toDetroit Tigersfor C Enrique Jimenez.",
+      "player": "Chris Paddack"
     },
     {
       "date": "2025-07-28",
@@ -219,15 +243,21 @@
     },
     {
       "date": "2025-07-28",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPMatt Svansonfrom Memphis Redbirds.",
-      "player": "Matt Svanson"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstraded RHP Chris Paddack and RHP Randy Dobnak toDetroit Tigersfor CEnrique Jimenez.",
+      "player": "Enrique Jimenez"
     },
     {
       "date": "2025-07-28",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled 3BAndy Ibáñezfrom Toledo Mud Hens.",
-      "player": "Andy Ibáñez"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstraded RHP Chris Paddack and RHPRandy DobnaktoDetroit Tigersfor C Enrique Jimenez.",
+      "player": "Randy Dobnak"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPTrevor Richardsoutright to Reno Aces.",
+      "player": "Trevor Richards"
     },
     {
       "date": "2025-07-28",
@@ -238,32 +268,32 @@
     {
       "date": "2025-07-28",
       "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned RHPSean Hjelleto Sacramento River Cats.",
-      "player": "Sean Hjelle"
+      "details": "San Francisco Giantsselected the contract of LHPCarson Whisenhuntfrom Sacramento River Cats.",
+      "player": "Carson Whisenhunt"
     },
     {
       "date": "2025-07-28",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPCraig Yohofrom Nashville Sounds.",
-      "player": "Craig Yoho"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent RHPRyan Cusickoutright to Lehigh Valley IronPigs.",
+      "player": "Ryan Cusick"
     },
     {
       "date": "2025-07-28",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinsselected the contract of RHPMichael Tonkinfrom St. Paul Saints.",
-      "player": "Michael Tonkin"
+      "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
+      "player": "Travis Adams"
     },
     {
       "date": "2025-07-28",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LFAlan Rodento Buffalo Bisons.",
-      "player": "Alan Roden"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPFreddy Tarnokto Jacksonville Jumbo Shrimp.",
+      "player": "Freddy Tarnok"
     },
     {
       "date": "2025-07-28",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsselected the contract of LHPCarson Whisenhuntfrom Sacramento River Cats.",
-      "player": "Carson Whisenhunt"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
+      "player": "Hunter Stratton"
     }
   ]
 }
