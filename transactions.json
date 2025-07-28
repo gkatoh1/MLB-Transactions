@@ -1,4 +1,23 @@
 {
-  "last_updated": "2025-07-28T13:48:37.697086",
-  "transactions": []
+  "last_updated": "2025-07-28T14:30:18.638387",
+  "transactions": [
+    {
+      "date": "2025-07-28",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
+      "player": "Travis Adams"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
+      "player": "Hunter Stratton"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPSean Hjelleto Sacramento River Cats.",
+      "player": "Sean Hjelle"
+    }
+  ]
 }
