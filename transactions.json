@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-07-28T18:41:27.363577",
+  "last_updated": "2025-07-28T19:24:04.244869",
   "transactions": [
-    {
-      "date": "2025-07-28",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesactivated RHPVictor Vodnikfrom the paternity list.",
-      "player": "Victor Vodnik"
-    },
-    {
-      "date": "2025-07-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated LHPKeegan Akinfrom the 15-day injured list.",
-      "player": "Keegan Akin"
-    },
     {
       "date": "2025-07-28",
       "team": "Baltimore Orioles",
@@ -27,9 +15,21 @@
     },
     {
       "date": "2025-07-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated LHPKeegan Akinfrom the 15-day injured list.",
+      "player": "Keegan Akin"
+    },
+    {
+      "date": "2025-07-28",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesactivated RHPErick Fedde.",
       "player": "Erick Fedde"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated RHPVictor Vodnikfrom the paternity list.",
+      "player": "Victor Vodnik"
     },
     {
       "date": "2025-07-28",
@@ -45,15 +45,21 @@
     },
     {
       "date": "2025-07-28",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPNick Andersonto Albuquerque Isotopes.",
-      "player": "Nick Anderson"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPCraig Yohofrom Nashville Sounds.",
+      "player": "Craig Yoho"
     },
     {
       "date": "2025-07-28",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
-      "player": "Travis Adams"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
+      "player": "Hunter Stratton"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPNick Andersonto Albuquerque Isotopes.",
+      "player": "Nick Anderson"
     },
     {
       "date": "2025-07-28",
@@ -69,21 +75,27 @@
     },
     {
       "date": "2025-07-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPYaramil Hiraldoto Norfolk Tides.",
-      "player": "Yaramil Hiraldo"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsselected the contract of RHPMichael Tonkinfrom St. Paul Saints.",
+      "player": "Michael Tonkin"
     },
     {
       "date": "2025-07-28",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
-      "player": "Hunter Stratton"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled LHPTim Herrinfrom Columbus Clippers.",
+      "player": "Tim Herrin"
     },
     {
       "date": "2025-07-28",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinsselected the contract of RHPMichael Tonkinfrom St. Paul Saints.",
-      "player": "Michael Tonkin"
+      "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
+      "player": "Travis Adams"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPYaramil Hiraldoto Norfolk Tides.",
+      "player": "Yaramil Hiraldo"
     }
   ]
 }
