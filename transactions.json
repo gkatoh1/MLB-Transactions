@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-07-28T14:30:18.638387",
+  "last_updated": "2025-07-28T15:31:00.388277",
   "transactions": [
+    {
+      "date": "2025-07-28",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPErick Fedde.",
+      "player": "Erick Fedde"
+    },
+    {
+      "date": "2025-07-28",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPSean Hjelleto Sacramento River Cats.",
+      "player": "Sean Hjelle"
+    },
     {
       "date": "2025-07-28",
       "team": "Minnesota Twins",
@@ -12,12 +24,6 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
       "player": "Hunter Stratton"
-    },
-    {
-      "date": "2025-07-28",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned RHPSean Hjelleto Sacramento River Cats.",
-      "player": "Sean Hjelle"
     }
   ]
 }
