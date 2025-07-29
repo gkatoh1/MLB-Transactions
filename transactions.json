@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-07-29T17:28:01.688284",
+  "last_updated": "2025-07-29T18:41:54.927493",
   "transactions": [
+    {
+      "date": "2025-07-29",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent 2BNolan Gormanon a rehab assignment to Springfield Cardinals.",
+      "player": "Nolan Gorman"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPHunter Greeneon a rehab assignment to Louisville Bats.",
+      "player": "Hunter Greene"
+    },
     {
       "date": "2025-07-29",
       "team": "Baltimore Orioles",
@@ -21,15 +33,15 @@
     },
     {
       "date": "2025-07-29",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RHPHunter Greeneon a rehab assignment to Louisville Bats.",
-      "player": "Hunter Greene"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPYaramil Hiraldofrom Norfolk Tides.",
+      "player": "Yaramil Hiraldo"
     },
     {
       "date": "2025-07-29",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssent 2BNolan Gormanon a rehab assignment to Springfield Cardinals.",
-      "player": "Nolan Gorman"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded CNick FortestoTampa Bay Raysfor LF Matthew Etzel.",
+      "player": "Nick Fortes"
     },
     {
       "date": "2025-07-29",
@@ -40,26 +52,8 @@
     {
       "date": "2025-07-29",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LHPJustin Bruihlto Buffalo Bisons.",
-      "player": "Justin Bruihl"
-    },
-    {
-      "date": "2025-07-29",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPYaramil Hiraldofrom Norfolk Tides.",
-      "player": "Yaramil Hiraldo"
-    },
-    {
-      "date": "2025-07-29",
-      "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysrecalled LHPEaston Lucasfrom Buffalo Bisons.",
       "player": "Easton Lucas"
-    },
-    {
-      "date": "2025-07-29",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled RHPLazaro Estradafrom Buffalo Bisons.",
-      "player": "Lazaro Estrada"
     },
     {
       "date": "2025-07-29",
@@ -69,9 +63,15 @@
     },
     {
       "date": "2025-07-29",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinstraded CNick FortestoTampa Bay Raysfor LF Matthew Etzel.",
-      "player": "Nick Fortes"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPLazaro Estradafrom Buffalo Bisons.",
+      "player": "Lazaro Estrada"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPJustin Bruihlto Buffalo Bisons.",
+      "player": "Justin Bruihl"
     }
   ]
 }
