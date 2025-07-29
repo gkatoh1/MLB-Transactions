@@ -1,6 +1,24 @@
 {
-  "last_updated": "2025-07-29T14:31:44.156976",
+  "last_updated": "2025-07-29T15:32:16.957360",
   "transactions": [
+    {
+      "date": "2025-07-29",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPColin Selbyon the 15-day injured list. Left hamstring strain.",
+      "player": "Colin Selby"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPTrevor Stephanon a rehab assignment to Akron RubberDucks.",
+      "player": "Trevor Stephan"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPShane Bieberon a rehab assignment to Akron RubberDucks.",
+      "player": "Shane Bieber"
+    },
     {
       "date": "2025-07-29",
       "team": "Baltimore Orioles",
@@ -10,14 +28,38 @@
     {
       "date": "2025-07-29",
       "team": "Miami Marlins",
-      "details": "Miami Marlinstraded CNick FortestoTampa Bay Raysfor LF Matthew Etzel.",
-      "player": "Nick Fortes"
+      "details": "Miami Marlinstraded C Nick Fortes toTampa Bay Raysfor LFMatthew Etzel.",
+      "player": "Matthew Etzel"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPYaramil Hiraldofrom Norfolk Tides.",
+      "player": "Yaramil Hiraldo"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LHPEaston Lucasfrom Buffalo Bisons.",
+      "player": "Easton Lucas"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPLazaro Estradafrom Buffalo Bisons.",
+      "player": "Lazaro Estrada"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPJustin Bruihlto Buffalo Bisons.",
+      "player": "Justin Bruihl"
     },
     {
       "date": "2025-07-29",
       "team": "Miami Marlins",
-      "details": "Miami Marlinstraded C Nick Fortes toTampa Bay Raysfor LFMatthew Etzel.",
-      "player": "Matthew Etzel"
+      "details": "Miami Marlinstraded CNick FortestoTampa Bay Raysfor LF Matthew Etzel.",
+      "player": "Nick Fortes"
     }
   ]
 }
