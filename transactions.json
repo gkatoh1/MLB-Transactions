@@ -1,4 +1,23 @@
 {
-  "last_updated": "2025-07-29T13:00:35.399085",
-  "transactions": []
+  "last_updated": "2025-07-29T14:31:44.156976",
+  "transactions": [
+    {
+      "date": "2025-07-29",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Aberdeen IronBirds.",
+      "player": "Brandon Young"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded CNick FortestoTampa Bay Raysfor LF Matthew Etzel.",
+      "player": "Nick Fortes"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded C Nick Fortes toTampa Bay Raysfor LFMatthew Etzel.",
+      "player": "Matthew Etzel"
+    }
+  ]
 }
