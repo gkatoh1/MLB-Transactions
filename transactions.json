@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-29T16:35:31.220538",
+  "last_updated": "2025-07-29T17:28:01.688284",
   "transactions": [
     {
       "date": "2025-07-29",
@@ -21,27 +21,15 @@
     },
     {
       "date": "2025-07-29",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssent 2BNolan Gormanon a rehab assignment to Springfield Cardinals.",
-      "player": "Nolan Gorman"
-    },
-    {
-      "date": "2025-07-29",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redssent RHPHunter Greeneon a rehab assignment to Louisville Bats.",
       "player": "Hunter Greene"
     },
     {
       "date": "2025-07-29",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LHPJustin Bruihlto Buffalo Bisons.",
-      "player": "Justin Bruihl"
-    },
-    {
-      "date": "2025-07-29",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinstraded CNick FortestoTampa Bay Raysfor LF Matthew Etzel.",
-      "player": "Nick Fortes"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent 2BNolan Gormanon a rehab assignment to Springfield Cardinals.",
+      "player": "Nolan Gorman"
     },
     {
       "date": "2025-07-29",
@@ -52,14 +40,20 @@
     {
       "date": "2025-07-29",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled LHPEaston Lucasfrom Buffalo Bisons.",
-      "player": "Easton Lucas"
+      "details": "Toronto Blue Jaysoptioned LHPJustin Bruihlto Buffalo Bisons.",
+      "player": "Justin Bruihl"
     },
     {
       "date": "2025-07-29",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled RHPYaramil Hiraldofrom Norfolk Tides.",
       "player": "Yaramil Hiraldo"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LHPEaston Lucasfrom Buffalo Bisons.",
+      "player": "Easton Lucas"
     },
     {
       "date": "2025-07-29",
@@ -72,6 +66,12 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Aberdeen IronBirds.",
       "player": "Brandon Young"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded CNick FortestoTampa Bay Raysfor LF Matthew Etzel.",
+      "player": "Nick Fortes"
     }
   ]
 }
