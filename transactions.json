@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-07-29T18:41:54.927493",
+  "last_updated": "2025-07-29T19:25:36.084512",
   "transactions": [
-    {
-      "date": "2025-07-29",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssent 2BNolan Gormanon a rehab assignment to Springfield Cardinals.",
-      "player": "Nolan Gorman"
-    },
     {
       "date": "2025-07-29",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redssent RHPHunter Greeneon a rehab assignment to Louisville Bats.",
       "player": "Hunter Greene"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent 2BNolan Gormanon a rehab assignment to Springfield Cardinals.",
+      "player": "Nolan Gorman"
     },
     {
       "date": "2025-07-29",
@@ -27,15 +27,33 @@
     },
     {
       "date": "2025-07-29",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent LHPDaniel Lynch IVon a rehab assignment to Omaha Storm Chasers.",
+      "player": "Daniel Lynch IV"
+    },
+    {
+      "date": "2025-07-29",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardianssent RHPShane Bieberon a rehab assignment to Akron RubberDucks.",
       "player": "Shane Bieber"
     },
     {
       "date": "2025-07-29",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPYaramil Hiraldofrom Norfolk Tides.",
-      "player": "Yaramil Hiraldo"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated CDanny Jansen.",
+      "player": "Danny Jansen"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPAlex Cobbon a rehab assignment to West Michigan Whitecaps.",
+      "player": "Alex Cobb"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPJustin Bruihlto Buffalo Bisons.",
+      "player": "Justin Bruihl"
     },
     {
       "date": "2025-07-29",
@@ -57,21 +75,33 @@
     },
     {
       "date": "2025-07-29",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPEaston McGeefrom Nashville Sounds.",
+      "player": "Easton McGee"
+    },
+    {
+      "date": "2025-07-29",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Aberdeen IronBirds.",
       "player": "Brandon Young"
     },
     {
       "date": "2025-07-29",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled RHPLazaro Estradafrom Buffalo Bisons.",
-      "player": "Lazaro Estrada"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPCraig Yohoto Nashville Sounds.",
+      "player": "Craig Yoho"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPYaramil Hiraldofrom Norfolk Tides.",
+      "player": "Yaramil Hiraldo"
     },
     {
       "date": "2025-07-29",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LHPJustin Bruihlto Buffalo Bisons.",
-      "player": "Justin Bruihl"
+      "details": "Toronto Blue Jaysrecalled RHPLazaro Estradafrom Buffalo Bisons.",
+      "player": "Lazaro Estrada"
     }
   ]
 }
