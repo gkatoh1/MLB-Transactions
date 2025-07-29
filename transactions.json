@@ -1,17 +1,41 @@
 {
-  "last_updated": "2025-07-29T19:25:36.084512",
+  "last_updated": "2025-07-29T20:31:38.977303",
   "transactions": [
     {
       "date": "2025-07-29",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RHPHunter Greeneon a rehab assignment to Louisville Bats.",
-      "player": "Hunter Greene"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsdesignated LHPRich Hillfor assignment.",
+      "player": "Rich Hill"
     },
     {
       "date": "2025-07-29",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssent 2BNolan Gormanon a rehab assignment to Springfield Cardinals.",
-      "player": "Nolan Gorman"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated CDanny Jansen.",
+      "player": "Danny Jansen"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPAlex Cobbon a rehab assignment to West Michigan Whitecaps.",
+      "player": "Alex Cobb"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPShane Bieberon a rehab assignment to Akron RubberDucks.",
+      "player": "Shane Bieber"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced 2BHyeseong Kimon the 10-day injured list. Left shoulder bursitis.",
+      "player": "Hyeseong Kim"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent 3BMax Muncyon a rehab assignment to Oklahoma City Comets.",
+      "player": "Max Muncy"
     },
     {
       "date": "2025-07-29",
@@ -33,63 +57,57 @@
     },
     {
       "date": "2025-07-29",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent RHPShane Bieberon a rehab assignment to Akron RubberDucks.",
-      "player": "Shane Bieber"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent 2BNolan Gormanon a rehab assignment to Springfield Cardinals.",
+      "player": "Nolan Gorman"
     },
     {
       "date": "2025-07-29",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated CDanny Jansen.",
-      "player": "Danny Jansen"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPHunter Greeneon a rehab assignment to Louisville Bats.",
+      "player": "Hunter Greene"
     },
     {
       "date": "2025-07-29",
       "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RHPAlex Cobbon a rehab assignment to West Michigan Whitecaps.",
-      "player": "Alex Cobb"
+      "details": "Detroit Tigersactivated RHPChris Paddack.",
+      "player": "Chris Paddack"
     },
     {
       "date": "2025-07-29",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LHPJustin Bruihlto Buffalo Bisons.",
-      "player": "Justin Bruihl"
-    },
-    {
-      "date": "2025-07-29",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinstraded CNick FortestoTampa Bay Raysfor LF Matthew Etzel.",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated CNick Fortes.",
       "player": "Nick Fortes"
     },
     {
       "date": "2025-07-29",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated SSAlex Freeland.",
+      "player": "Alex Freeland"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPShawn Dubinon a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Shawn Dubin"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned CFRyan Kreidlerto Toledo Mud Hens.",
+      "player": "Ryan Kreidler"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersselected the contract of SSAlex Freelandfrom Oklahoma City Comets.",
+      "player": "Alex Freeland"
+    },
+    {
+      "date": "2025-07-29",
       "team": "Miami Marlins",
-      "details": "Miami Marlinstraded C Nick Fortes toTampa Bay Raysfor LFMatthew Etzel.",
-      "player": "Matthew Etzel"
-    },
-    {
-      "date": "2025-07-29",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled LHPEaston Lucasfrom Buffalo Bisons.",
-      "player": "Easton Lucas"
-    },
-    {
-      "date": "2025-07-29",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPEaston McGeefrom Nashville Sounds.",
-      "player": "Easton McGee"
-    },
-    {
-      "date": "2025-07-29",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Aberdeen IronBirds.",
-      "player": "Brandon Young"
-    },
-    {
-      "date": "2025-07-29",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPCraig Yohoto Nashville Sounds.",
-      "player": "Craig Yoho"
+      "details": "Miami Marlinsselected the contract of OFTroy Johnstonfrom Jacksonville Jumbo Shrimp.",
+      "player": "Troy Johnston"
     },
     {
       "date": "2025-07-29",
@@ -100,8 +118,56 @@
     {
       "date": "2025-07-29",
       "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LHPEaston Lucasfrom Buffalo Bisons.",
+      "player": "Easton Lucas"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPJustin Bruihlto Buffalo Bisons.",
+      "player": "Justin Bruihl"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysrecalled RHPLazaro Estradafrom Buffalo Bisons.",
       "player": "Lazaro Estrada"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPEaston McGeefrom Nashville Sounds.",
+      "player": "Easton McGee"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded CNick FortestoTampa Bay Raysfor LF Matthew Etzel.",
+      "player": "Nick Fortes"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Aberdeen IronBirds.",
+      "player": "Brandon Young"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded C Nick Fortes toTampa Bay Raysfor LFMatthew Etzel.",
+      "player": "Matthew Etzel"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsselected the contract of RHPThomas Hatchfrom Omaha Storm Chasers.",
+      "player": "Thomas Hatch"
+    },
+    {
+      "date": "2025-07-29",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPCraig Yohoto Nashville Sounds.",
+      "player": "Craig Yoho"
     }
   ]
 }
