@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-30T17:27:41.828411",
+  "last_updated": "2025-07-30T18:40:39.034151",
   "transactions": [
     {
       "date": "2025-07-30",
@@ -10,14 +10,14 @@
     {
       "date": "2025-07-30",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPPorter Hodgefrom the 15-day injured list.",
-      "player": "Porter Hodge"
+      "details": "Chicago Cubssent RHPJavier Assadon a rehab assignment to Iowa Cubs.",
+      "player": "Javier Assad"
     },
     {
       "date": "2025-07-30",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssent RHPJavier Assadon a rehab assignment to Iowa Cubs.",
-      "player": "Javier Assad"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned LHPJake Ederto Rochester Red Wings.",
+      "player": "Jake Eder"
     },
     {
       "date": "2025-07-30",
@@ -27,15 +27,33 @@
     },
     {
       "date": "2025-07-30",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsdesignated 3BVidal Brujánfor assignment.",
-      "player": "Vidal Bruján"
+      "team": "Colorado Rockies",
+      "details": "RHPAustin Smithroster status changed byColorado Rockies.",
+      "player": "Austin Smith"
     },
     {
       "date": "2025-07-30",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent RHPTyler Wellson a rehab assignment to Chesapeake Baysox.",
       "player": "Tyler Wells"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated LHPJosé Quijadafor assignment.",
+      "player": "José Quijada"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPTyler Wellson a rehab assignment to Chesapeake Baysox.",
+      "player": "Tyler Wells"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPPorter Hodgefrom the 15-day injured list.",
+      "player": "Porter Hodge"
     },
     {
       "date": "2025-07-30",
@@ -45,15 +63,9 @@
     },
     {
       "date": "2025-07-30",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent RHPTyler Wellson a rehab assignment to Chesapeake Baysox.",
-      "player": "Tyler Wells"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxtraded LF Austin Slater toNew York Yankeesfor RHPGage Ziehl.",
-      "player": "Gage Ziehl"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated 3BVidal Brujánfor assignment.",
+      "player": "Vidal Bruján"
     },
     {
       "date": "2025-07-30",
@@ -63,21 +75,27 @@
     },
     {
       "date": "2025-07-30",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RFJarred Kelenicfrom Gwinnett Stripers.",
-      "player": "Jarred Kelenic"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded LHPAndrew Chafinand RHP Luis García toLos Angeles Angelsfor LHP Jake Eder and 1B Sam Brown.",
+      "player": "Andrew Chafin"
     },
     {
       "date": "2025-07-30",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPBrandon Youngto Chesapeake Baysox.",
-      "player": "Brandon Young"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded LHP Andrew Chafin and RHP Luis García toLos Angeles Angelsfor LHPJake Ederand 1B Sam Brown.",
+      "player": "Jake Eder"
     },
     {
       "date": "2025-07-30",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxtraded LFAustin SlatertoNew York Yankeesfor RHP Gage Ziehl.",
-      "player": "Austin Slater"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded LHP Andrew Chafin and RHPLuis GarcíatoLos Angeles Angelsfor LHP Jake Eder and 1B Sam Brown.",
+      "player": "Luis García"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded LHP Andrew Chafin and RHP Luis García toLos Angeles Angelsfor LHP Jake Eder and 1BSam Brown.",
+      "player": "Sam Brown"
     },
     {
       "date": "2025-07-30",
@@ -87,21 +105,27 @@
     },
     {
       "date": "2025-07-30",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RFJarred Kelenicfrom Gwinnett Stripers.",
+      "player": "Jarred Kelenic"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPZach Brzykcyfrom Rochester Red Wings.",
+      "player": "Zach Brzykcy"
+    },
+    {
+      "date": "2025-07-30",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxrecalled LFWill Robertsonfrom Charlotte Knights.",
       "player": "Will Robertson"
     },
     {
       "date": "2025-07-30",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiestraded RHPTyler KinleytoAtlanta Braves.",
-      "player": "Tyler Kinley"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned RHPPorter Hodgeto Iowa Cubs.",
-      "player": "Porter Hodge"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPBrandon Youngto Chesapeake Baysox.",
+      "player": "Brandon Young"
     },
     {
       "date": "2025-07-30",
@@ -114,6 +138,36 @@
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsoptioned RHPPierson Ohlto St. Paul Saints.",
       "player": "Pierson Ohl"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiestraded RHP Tyler Kinley toAtlanta Bravesfor RHPAustin Smith.",
+      "player": "Austin Smith"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiestraded RHPTyler KinleytoAtlanta Bravesfor RHP Austin Smith.",
+      "player": "Tyler Kinley"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxtraded LFAustin SlatertoNew York Yankeesfor RHP Gage Ziehl.",
+      "player": "Austin Slater"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxtraded LF Austin Slater toNew York Yankeesfor RHPGage Ziehl.",
+      "player": "Gage Ziehl"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPPorter Hodgeto Iowa Cubs.",
+      "player": "Porter Hodge"
     }
   ]
 }
