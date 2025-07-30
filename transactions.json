@@ -1,11 +1,65 @@
 {
-  "last_updated": "2025-07-30T15:30:48.917718",
+  "last_updated": "2025-07-30T16:34:29.246108",
   "transactions": [
+    {
+      "date": "2025-07-30",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPPorter Hodgefrom the 15-day injured list.",
+      "player": "Porter Hodge"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPTyler Wellson a rehab assignment to Chesapeake Baysox.",
+      "player": "Tyler Wells"
+    },
     {
       "date": "2025-07-30",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesplaced RFRonald Acuña Jr.on the 10-day injured list. Right achilles tendon inflammation.",
       "player": "Ronald Acuña Jr."
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPTyler Wellson a rehab assignment to Chesapeake Baysox.",
+      "player": "Tyler Wells"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated 3BVidal Brujánfor assignment.",
+      "player": "Vidal Bruján"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "New York Yankees",
+      "details": "New York Yankeestransferred RHPClarke Schmidtfrom the 15-day injured list to the 60-day injured list. Right forearm tightness.",
+      "player": "Clarke Schmidt"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPPorter Hodgeto Iowa Cubs.",
+      "player": "Porter Hodge"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxtraded LFAustin SlatertoNew York Yankeesfor RHP Gage Ziehl.",
+      "player": "Austin Slater"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxtraded LF Austin Slater toNew York Yankeesfor RHPGage Ziehl.",
+      "player": "Gage Ziehl"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled CMoisés Ballesterosfrom Iowa Cubs.",
+      "player": "Moisés Ballesteros"
     },
     {
       "date": "2025-07-30",
@@ -21,6 +75,18 @@
     },
     {
       "date": "2025-07-30",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPPierson Ohlto St. Paul Saints.",
+      "player": "Pierson Ohl"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LFWill Robertsonfrom Charlotte Knights.",
+      "player": "Will Robertson"
+    },
+    {
+      "date": "2025-07-30",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned RHPBrandon Youngto Chesapeake Baysox.",
       "player": "Brandon Young"
@@ -30,12 +96,6 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysoptioned RHPLazaro Estradato Buffalo Bisons.",
       "player": "Lazaro Estrada"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPPierson Ohlto St. Paul Saints.",
-      "player": "Pierson Ohl"
     }
   ]
 }
