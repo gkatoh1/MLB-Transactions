@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-07-30T14:28:34.477359",
+  "last_updated": "2025-07-30T15:30:48.917718",
   "transactions": [
+    {
+      "date": "2025-07-30",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced RFRonald Acuña Jr.on the 10-day injured list. Right achilles tendon inflammation.",
+      "player": "Ronald Acuña Jr."
+    },
     {
       "date": "2025-07-30",
       "team": "Minnesota Twins",
@@ -9,15 +15,21 @@
     },
     {
       "date": "2025-07-30",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPLazaro Estradato Buffalo Bisons.",
-      "player": "Lazaro Estrada"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RFJarred Kelenicfrom Gwinnett Stripers.",
+      "player": "Jarred Kelenic"
     },
     {
       "date": "2025-07-30",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned RHPBrandon Youngto Chesapeake Baysox.",
       "player": "Brandon Young"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPLazaro Estradato Buffalo Bisons.",
+      "player": "Lazaro Estrada"
     },
     {
       "date": "2025-07-30",
