@@ -1,4 +1,29 @@
 {
-  "last_updated": "2025-07-30T13:00:12.745650",
-  "transactions": []
+  "last_updated": "2025-07-30T14:28:34.477359",
+  "transactions": [
+    {
+      "date": "2025-07-30",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPNoah Davisfrom St. Paul Saints.",
+      "player": "Noah Davis"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPLazaro Estradato Buffalo Bisons.",
+      "player": "Lazaro Estrada"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPBrandon Youngto Chesapeake Baysox.",
+      "player": "Brandon Young"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPPierson Ohlto St. Paul Saints.",
+      "player": "Pierson Ohl"
+    }
+  ]
 }
