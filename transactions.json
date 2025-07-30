@@ -1,23 +1,11 @@
 {
-  "last_updated": "2025-07-30T22:27:18.835108",
+  "last_updated": "2025-07-30T23:27:23.882684",
   "transactions": [
     {
       "date": "2025-07-30",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent 2BChristian Mooreon a rehab assignment to Inland Empire 66ers.",
-      "player": "Christian Moore"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssent RHPJavier Assadon a rehab assignment to Iowa Cubs.",
-      "player": "Javier Assad"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsdesignated LHPJosé Quijadafor assignment.",
-      "player": "José Quijada"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent 1BTim Elkoon a rehab assignment to Charlotte Knights.",
+      "player": "Tim Elko"
     },
     {
       "date": "2025-07-30",
@@ -27,63 +15,9 @@
     },
     {
       "date": "2025-07-30",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPPorter Hodgefrom the 15-day injured list.",
-      "player": "Porter Hodge"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersplaced RFLuke Raleyon the 10-day injured list retroactive to July 27, 2025. Back spasm.",
-      "player": "Luke Raley"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced RFRonald Acuña Jr.on the 10-day injured list. Right achilles tendon inflammation.",
-      "player": "Ronald Acuña Jr."
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent RHPTyler Wellson a rehab assignment to Chesapeake Baysox.",
-      "player": "Tyler Wells"
-    },
-    {
-      "date": "2025-07-30",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansactivated RHPTrevor Stephanfrom the 60-day injured list.",
       "player": "Trevor Stephan"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "New York Yankees",
-      "details": "New York Yankeestransferred RHPClarke Schmidtfrom the 15-day injured list to the 60-day injured list. Right forearm tightness.",
-      "player": "Clarke Schmidt"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsplaced LHPJohn Kingon the 15-day injured list. Left oblique strain.",
-      "player": "John King"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Houston Astros",
-      "details": "Houston Astrossigned free agent 3BLuis Guillormeto a minor league contract.",
-      "player": "Luis Guillorme"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent RHPTyler Wellson a rehab assignment to Chesapeake Baysox.",
-      "player": "Tyler Wells"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Colorado Rockies",
-      "details": "RHPAustin Smithroster status changed byColorado Rockies.",
-      "player": "Austin Smith"
     },
     {
       "date": "2025-07-30",
@@ -99,21 +33,111 @@
     },
     {
       "date": "2025-07-30",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPNoah Davisfrom St. Paul Saints.",
-      "player": "Noah Davis"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxtraded LFAustin SlatertoNew York Yankeesfor RHP Gage Ziehl.",
-      "player": "Austin Slater"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated 2BBrandon Lowefrom the 10-day injured list.",
+      "player": "Brandon Lowe"
     },
     {
       "date": "2025-07-30",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled CMoisés Ballesterosfrom Iowa Cubs.",
-      "player": "Moisés Ballesteros"
+      "details": "Chicago Cubssent RHPJavier Assadon a rehab assignment to Iowa Cubs.",
+      "player": "Javier Assad"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated LHPJosé Quijadafor assignment.",
+      "player": "José Quijada"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPJacob Webbon the 15-day injured list retroactive to July 29, 2025. Back spasm.",
+      "player": "Jacob Webb"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsreleased 1BCavan Biggio.",
+      "player": "Cavan Biggio"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersplaced RFLuke Raleyon the 10-day injured list retroactive to July 27, 2025. Back spasm.",
+      "player": "Luke Raley"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "New York Yankees",
+      "details": "New York Yankeestransferred RHPClarke Schmidtfrom the 15-day injured list to the 60-day injured list. Right forearm tightness.",
+      "player": "Clarke Schmidt"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPPorter Hodgefrom the 15-day injured list.",
+      "player": "Porter Hodge"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsplaced LHPJohn Kingon the 15-day injured list. Left oblique strain.",
+      "player": "John King"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned free agent 3BLuis Guillormeto a minor league contract.",
+      "player": "Luis Guillorme"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPEnyel De Los Santosfor assignment.",
+      "player": "Enyel De Los Santos"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPTyler Wellson a rehab assignment to Chesapeake Baysox.",
+      "player": "Tyler Wells"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Colorado Rockies",
+      "details": "RHPAustin Smithroster status changed byColorado Rockies.",
+      "player": "Austin Smith"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced RFRonald Acuña Jr.on the 10-day injured list. Right achilles tendon inflammation.",
+      "player": "Ronald Acuña Jr."
+    },
+    {
+      "date": "2025-07-30",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsdesignated RHPSean Hjellefor assignment.",
+      "player": "Sean Hjelle"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPTyler Wellson a rehab assignment to Chesapeake Baysox.",
+      "player": "Tyler Wells"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent 2BChristian Mooreon a rehab assignment to Inland Empire 66ers.",
+      "player": "Christian Moore"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated RHPCollin Sniderfor assignment.",
+      "player": "Collin Snider"
     },
     {
       "date": "2025-07-30",
@@ -123,39 +147,9 @@
     },
     {
       "date": "2025-07-30",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxtraded LF Austin Slater toNew York Yankeesfor RHPGage Ziehl.",
-      "player": "Gage Ziehl"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RFJarred Kelenicfrom Gwinnett Stripers.",
-      "player": "Jarred Kelenic"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPZach Brzykcyfrom Rochester Red Wings.",
-      "player": "Zach Brzykcy"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersrecalled 1BTyler Locklearfrom Tacoma Rainiers.",
-      "player": "Tyler Locklear"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned LHPIan Seymourto Durham Bulls.",
-      "player": "Ian Seymour"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPLuis Meyfrom Louisville Bats.",
-      "player": "Luis Mey"
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LFShay Whitcombto Sugar Land Space Cowboys.",
+      "player": "Shay Whitcomb"
     },
     {
       "date": "2025-07-30",
@@ -183,15 +177,9 @@
     },
     {
       "date": "2025-07-30",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiestraded RHP Tyler Kinley toAtlanta Bravesfor RHPAustin Smith.",
-      "player": "Austin Smith"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiestraded RHPTyler KinleytoAtlanta Bravesfor RHP Austin Smith.",
-      "player": "Tyler Kinley"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPPaul Gervasefrom Durham Bulls.",
+      "player": "Paul Gervase"
     },
     {
       "date": "2025-07-30",
@@ -201,9 +189,9 @@
     },
     {
       "date": "2025-07-30",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantstraded RHPTyler RogerstoNew York Metsfor RHP Blade Tidwell, RHP José Buttó and CF Drew Gilbert.",
-      "player": "Tyler Rogers"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RFJarred Kelenicfrom Gwinnett Stripers.",
+      "player": "Jarred Kelenic"
     },
     {
       "date": "2025-07-30",
@@ -225,6 +213,60 @@
     },
     {
       "date": "2025-07-30",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LFWill Robertsonfrom Charlotte Knights.",
+      "player": "Will Robertson"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPBrandon Youngto Chesapeake Baysox.",
+      "player": "Brandon Young"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPLazaro Estradato Buffalo Bisons.",
+      "player": "Lazaro Estrada"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPPierson Ohlto St. Paul Saints.",
+      "player": "Pierson Ohl"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled 1BTyler Locklearfrom Tacoma Rainiers.",
+      "player": "Tyler Locklear"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratestraded LHPCaleb FergusontoSeattle Marinersfor RHP Jeter Martinez.",
+      "player": "Caleb Ferguson"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratestraded LHP Caleb Ferguson toSeattle Marinersfor RHPJeter Martinez.",
+      "player": "Jeter Martinez"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPConnor Gillispieoutright to St. Paul Saints.",
+      "player": "Connor Gillispie"
+    },
+    {
+      "date": "2025-07-30",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstraded RHPTyler RogerstoNew York Metsfor RHP Blade Tidwell, RHP José Buttó and CF Drew Gilbert.",
+      "player": "Tyler Rogers"
+    },
+    {
+      "date": "2025-07-30",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantstraded RHP Tyler Rogers toNew York Metsfor RHPBlade Tidwell, RHP José Buttó and CF Drew Gilbert.",
       "player": "Blade Tidwell"
@@ -243,45 +285,21 @@
     },
     {
       "date": "2025-07-30",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned RHPTrevor Stephanto Columbus Clippers.",
-      "player": "Trevor Stephan"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPLuis Curvelofrom Round Rock Express.",
+      "player": "Luis Curvelo"
     },
     {
       "date": "2025-07-30",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPGordon Graceffofrom Memphis Redbirds.",
-      "player": "Gordon Graceffo"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled CMoisés Ballesterosfrom Iowa Cubs.",
+      "player": "Moisés Ballesteros"
     },
     {
       "date": "2025-07-30",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LFWill Robertsonfrom Charlotte Knights.",
-      "player": "Will Robertson"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPBrandon Youngto Chesapeake Baysox.",
-      "player": "Brandon Young"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPPaul Gervasefrom Durham Bulls.",
-      "player": "Paul Gervase"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPLazaro Estradato Buffalo Bisons.",
-      "player": "Lazaro Estrada"
-    },
-    {
-      "date": "2025-07-30",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPPierson Ohlto St. Paul Saints.",
-      "player": "Pierson Ohl"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPZach Brzykcyfrom Rochester Red Wings.",
+      "player": "Zach Brzykcy"
     }
   ]
 }
