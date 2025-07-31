@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-07-31T20:31:20.722213",
+  "last_updated": "2025-07-31T21:27:05.201910",
   "transactions": [
+    {
+      "date": "2025-07-31",
+      "team": "Philadelphia Phillies",
+      "details": "LFHarrison Baderroster status changed byPhiladelphia Phillies.",
+      "player": "Harrison Bader"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated 3BKe'Bryan Hayes.",
+      "player": "Ke'Bryan Hayes"
+    },
     {
       "date": "2025-07-31",
       "team": "Athletics",
@@ -21,6 +33,18 @@
     },
     {
       "date": "2025-07-31",
+      "team": "New York Mets",
+      "details": "New York Metstransferred LFJesse Winkerfrom the 10-day injured list to the 60-day injured list. Back inflammation.",
+      "player": "Jesse Winker"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "New York Mets",
+      "details": "New York Metsactivated RHPTyler Rogers.",
+      "player": "Tyler Rogers"
+    },
+    {
+      "date": "2025-07-31",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesactivated RHPTyler Kinley.",
       "player": "Tyler Kinley"
@@ -28,92 +52,8 @@
     {
       "date": "2025-07-31",
       "team": "Philadelphia Phillies",
-      "details": "LFHarrison Baderroster status changed byPhiladelphia Phillies.",
-      "player": "Harrison Bader"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated 3BKe'Bryan Hayes.",
-      "player": "Ke'Bryan Hayes"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesdesignated RHPBrett de Geusfor assignment.",
       "player": "Brett de Geus"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalstraded C Freddy Fermin toSan Diego Padresfor RHP Ryan Bergert and RHPStephen Kolek.",
-      "player": "Stephen Kolek"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalstraded C Freddy Fermin toSan Diego Padresfor RHPRyan Bergertand RHP Stephen Kolek.",
-      "player": "Ryan Bergert"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianstraded RHPShane BiebertoToronto Blue Jaysfor RHP Khal Stephen.",
-      "player": "Shane Bieber"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianstraded RHP Shane Bieber toToronto Blue Jaysfor RHPKhal Stephen.",
-      "player": "Khal Stephen"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Chesapeake Baysox.",
-      "player": "Brandon Young"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalstraded LHPSteven MatztoBoston Red Soxfor 1B Blaze Jordan.",
-      "player": "Steven Matz"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalstraded LHP Steven Matz toBoston Red Soxfor 1BBlaze Jordan.",
-      "player": "Blaze Jordan"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianstraded RHPPaul SewaldtoDetroit Tigersfor Future Considerations.",
-      "player": "Paul Sewald"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RFRece Hindsto Louisville Bats.",
-      "player": "Rece Hinds"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolestraded RHPAndrew KittredgetoChicago Cubsfor SS Wilfri De La Cruz.",
-      "player": "Andrew Kittredge"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolestraded RHP Andrew Kittredge toChicago Cubsfor SSWilfri De La Cruz.",
-      "player": "Wilfri De La Cruz"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravestraded RHP Rafael Montero toDetroit Tigersfor SSJim Jarvis.",
-      "player": "Jim Jarvis"
     },
     {
       "date": "2025-07-31",
@@ -135,21 +75,33 @@
     },
     {
       "date": "2025-07-31",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded RHPMichael SorokatoChicago Cubsfor SS Ronny Cruz and LF Christian Franklin.",
-      "player": "Michael Soroka"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalstraded C Freddy Fermin toSan Diego Padresfor RHP Ryan Bergert and RHPStephen Kolek.",
+      "player": "Stephen Kolek"
     },
     {
       "date": "2025-07-31",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded RHP Michael Soroka toChicago Cubsfor SSRonny Cruzand LF Christian Franklin.",
-      "player": "Ronny Cruz"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstraded LHP Danny Coulombe toTexas Rangersfor LHPGarrett Horn.",
+      "player": "Garrett Horn"
     },
     {
       "date": "2025-07-31",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded RHP Michael Soroka toChicago Cubsfor SS Ronny Cruz and LFChristian Franklin.",
-      "player": "Christian Franklin"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstraded LHPDanny CoulombetoTexas Rangersfor LHP Garrett Horn.",
+      "player": "Danny Coulombe"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianstraded RHPShane BiebertoToronto Blue Jaysfor RHP Khal Stephen.",
+      "player": "Shane Bieber"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianstraded RHP Shane Bieber toToronto Blue Jaysfor RHPKhal Stephen.",
+      "player": "Khal Stephen"
     },
     {
       "date": "2025-07-31",
@@ -165,9 +117,27 @@
     },
     {
       "date": "2025-07-31",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent 1BJon Singletonoutright to Sugar Land Space Cowboys.",
+      "player": "Jon Singleton"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Chesapeake Baysox.",
+      "player": "Brandon Young"
+    },
+    {
+      "date": "2025-07-31",
       "team": "Athletics",
       "details": "Athleticstraded RHP Mason Miller and LHP JP Sears toSan Diego Padresfor RHP Henry Baez, RHPEduarniel Núñez, SS Leo De Vries and RHP Braden Nett.",
       "player": "Eduarniel Núñez"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPChris Devenskito Syracuse Mets.",
+      "player": "Chris Devenski"
     },
     {
       "date": "2025-07-31",
@@ -183,9 +153,21 @@
     },
     {
       "date": "2025-07-31",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned 3BBen Williamsonto Tacoma Rainiers.",
+      "player": "Ben Williamson"
+    },
+    {
+      "date": "2025-07-31",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbackstraded 3BEugenio SuáreztoSeattle Marinersfor 1B Tyler Locklear, RHP Hunter Cranton and RHP Juan Burgos.",
       "player": "Eugenio Suárez"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RFRece Hindsto Louisville Bats.",
+      "player": "Rece Hinds"
     },
     {
       "date": "2025-07-31",
@@ -213,51 +195,39 @@
     },
     {
       "date": "2025-07-31",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled LHPJoe Rockfrom Durham Bulls.",
-      "player": "Joe Rock"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestraded CF Cedric Mullins toNew York Metsfor RHP Raimon Gomez, RHP Anthony Nunez and RHPChandler Marsh.",
+      "player": "Chandler Marsh"
     },
     {
       "date": "2025-07-31",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled LHPIan Seymourfrom Durham Bulls.",
-      "player": "Ian Seymour"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestraded CF Cedric Mullins toNew York Metsfor RHPRaimon Gomez, RHP Anthony Nunez and RHP Chandler Marsh.",
+      "player": "Raimon Gomez"
     },
     {
       "date": "2025-07-31",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RHP Paul Gervase, LHPAdam Serwinowskiand C Ben Rortvedt toLos Angeles Dodgersfor 1B Hunter Feduccia.",
-      "player": "Adam Serwinowski"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalstraded LHPSteven MatztoBoston Red Soxfor 1B Blaze Jordan.",
+      "player": "Steven Matz"
     },
     {
       "date": "2025-07-31",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RHP Paul Gervase, LHP Adam Serwinowski and CBen RortvedttoLos Angeles Dodgersfor 1B Hunter Feduccia.",
-      "player": "Ben Rortvedt"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RHP Paul Gervase, LHP Adam Serwinowski and C Ben Rortvedt toLos Angeles Dodgersfor 1BHunter Feduccia.",
-      "player": "Hunter Feduccia"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RHPPaul Gervase, LHP Adam Serwinowski and C Ben Rortvedt toLos Angeles Dodgersfor 1B Hunter Feduccia.",
-      "player": "Paul Gervase"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned 1BRyan Nodato Charlotte Knights.",
-      "player": "Ryan Noda"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalstraded LHP Steven Matz toBoston Red Soxfor 1BBlaze Jordan.",
+      "player": "Blaze Jordan"
     },
     {
       "date": "2025-07-31",
       "team": "Washington Nationals",
       "details": "Washington Nationalstraded RHPKyle FinnegantoDetroit Tigersfor RHP R.J. Sales and RHP Josh Randall.",
       "player": "Kyle Finnegan"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianstraded RHPPaul SewaldtoDetroit Tigersfor Future Considerations.",
+      "player": "Paul Sewald"
     },
     {
       "date": "2025-07-31",
@@ -285,15 +255,51 @@
     },
     {
       "date": "2025-07-31",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestraded RHP Rafael Montero toDetroit Tigersfor SSJim Jarvis.",
+      "player": "Jim Jarvis"
+    },
+    {
+      "date": "2025-07-31",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinstraded LF Harrison Bader toPhiladelphia Philliesfor RHP Geremy Villoria and OFHendry Mendez.",
       "player": "Hendry Mendez"
     },
     {
       "date": "2025-07-31",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalstraded CFreddy FermintoSan Diego Padresfor RHP Ryan Bergert and RHP Stephen Kolek.",
-      "player": "Freddy Fermin"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled LHPJoe Rockfrom Durham Bulls.",
+      "player": "Joe Rock"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled LHPIan Seymourfrom Durham Bulls.",
+      "player": "Ian Seymour"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHP Paul Gervase, LHPAdam Serwinowskiand C Ben Rortvedt toLos Angeles Dodgersfor 1B Hunter Feduccia.",
+      "player": "Adam Serwinowski"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent CJason Delayoutright to Gwinnett Stripers.",
+      "player": "Jason Delay"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHP Paul Gervase, LHP Adam Serwinowski and CBen RortvedttoLos Angeles Dodgersfor 1B Hunter Feduccia.",
+      "player": "Ben Rortvedt"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHP Paul Gervase, LHP Adam Serwinowski and C Ben Rortvedt toLos Angeles Dodgersfor 1BHunter Feduccia.",
+      "player": "Hunter Feduccia"
     }
   ]
 }
