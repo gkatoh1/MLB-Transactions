@@ -1,17 +1,11 @@
 {
-  "last_updated": "2025-07-31T14:29:27.227423",
+  "last_updated": "2025-07-31T15:30:42.206330",
   "transactions": [
     {
       "date": "2025-07-31",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravestraded RHPRafael MonterotoDetroit Tigersfor SS Jim Jarvis.",
-      "player": "Rafael Montero"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianstraded RHPShane BiebertoToronto Blue Jaysfor RHP Khal Stephen.",
-      "player": "Shane Bieber"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPZach Eflinon the 15-day injured list retroactive to July 29, 2025. Low back discomfort.",
+      "player": "Zach Eflin"
     },
     {
       "date": "2025-07-31",
@@ -27,15 +21,21 @@
     },
     {
       "date": "2025-07-31",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianstraded RHP Shane Bieber toToronto Blue Jaysfor RHPKhal Stephen.",
-      "player": "Khal Stephen"
-    },
-    {
-      "date": "2025-07-31",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalstraded LHPSteven MatztoBoston Red Soxfor 1B Blaze Jordan.",
       "player": "Steven Matz"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianstraded RHPShane BiebertoToronto Blue Jaysfor RHP Khal Stephen.",
+      "player": "Shane Bieber"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianstraded RHP Shane Bieber toToronto Blue Jaysfor RHPKhal Stephen.",
+      "player": "Khal Stephen"
     },
     {
       "date": "2025-07-31",
@@ -45,33 +45,9 @@
     },
     {
       "date": "2025-07-31",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RHP Zack Littell toCincinnati Redsfor LHP Adam Serwinowski and RHPBrian Van Belle.",
-      "player": "Brian Van Belle"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RHPZack LittelltoCincinnati Redsfor LHP Adam Serwinowski and RHP Brian Van Belle.",
-      "player": "Zack Littell"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianstraded RHPPaul SewaldtoDetroit Tigersfor Future Considerations.",
-      "player": "Paul Sewald"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RHP Zack Littell toCincinnati Redsfor LHPAdam Serwinowskiand RHP Brian Van Belle.",
-      "player": "Adam Serwinowski"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravestraded RHP Rafael Montero toDetroit Tigersfor SSJim Jarvis.",
-      "player": "Jim Jarvis"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Chesapeake Baysox.",
+      "player": "Brandon Young"
     },
     {
       "date": "2025-07-31",
@@ -90,6 +66,60 @@
       "team": "Washington Nationals",
       "details": "Washington Nationalstraded RHP Michael Soroka toChicago Cubsfor SS Ronny Cruz and LFChristian Franklin.",
       "player": "Christian Franklin"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackstraded 3BEugenio SuáreztoSeattle Marinersfor 1B Tyler Locklear, RHP Hunter Cranton and RHP Juan Burgos.",
+      "player": "Eugenio Suárez"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackstraded 3B Eugenio Suárez toSeattle Marinersfor 1B Tyler Locklear, RHPHunter Crantonand RHP Juan Burgos.",
+      "player": "Hunter Cranton"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackstraded 3B Eugenio Suárez toSeattle Marinersfor 1B Tyler Locklear, RHP Hunter Cranton and RHPJuan Burgos.",
+      "player": "Juan Burgos"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestraded RHPAndrew KittredgetoChicago Cubsfor SS Wilfri De La Cruz.",
+      "player": "Andrew Kittredge"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestraded RHP Andrew Kittredge toChicago Cubsfor SSWilfri De La Cruz.",
+      "player": "Wilfri De La Cruz"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackstraded 3B Eugenio Suárez toSeattle Marinersfor 1BTyler Locklear, RHP Hunter Cranton and RHP Juan Burgos.",
+      "player": "Tyler Locklear"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianstraded RHPPaul SewaldtoDetroit Tigersfor Future Considerations.",
+      "player": "Paul Sewald"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestraded RHP Rafael Montero toDetroit Tigersfor SSJim Jarvis.",
+      "player": "Jim Jarvis"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestraded RHPRafael MonterotoDetroit Tigersfor SS Jim Jarvis.",
+      "player": "Rafael Montero"
     }
   ]
 }
