@@ -1,29 +1,11 @@
 {
-  "last_updated": "2025-07-31T15:30:42.206330",
+  "last_updated": "2025-07-31T16:35:58.205541",
   "transactions": [
     {
       "date": "2025-07-31",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesplaced RHPZach Eflinon the 15-day injured list retroactive to July 29, 2025. Low back discomfort.",
       "player": "Zach Eflin"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolestraded 3BRamón UríastoHouston Astrosfor RHP Twine Palmer.",
-      "player": "Ramón Urías"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolestraded 3B Ramón Urías toHouston Astrosfor RHPTwine Palmer.",
-      "player": "Twine Palmer"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalstraded LHPSteven MatztoBoston Red Soxfor 1B Blaze Jordan.",
-      "player": "Steven Matz"
     },
     {
       "date": "2025-07-31",
@@ -39,15 +21,51 @@
     },
     {
       "date": "2025-07-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Chesapeake Baysox.",
+      "player": "Brandon Young"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalstraded LHPSteven MatztoBoston Red Soxfor 1B Blaze Jordan.",
+      "player": "Steven Matz"
+    },
+    {
+      "date": "2025-07-31",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalstraded LHP Steven Matz toBoston Red Soxfor 1BBlaze Jordan.",
       "player": "Blaze Jordan"
     },
     {
       "date": "2025-07-31",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianstraded RHPPaul SewaldtoDetroit Tigersfor Future Considerations.",
+      "player": "Paul Sewald"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestraded RHP Rafael Montero toDetroit Tigersfor SSJim Jarvis.",
+      "player": "Jim Jarvis"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestraded RHPRafael MonterotoDetroit Tigersfor SS Jim Jarvis.",
+      "player": "Rafael Montero"
+    },
+    {
+      "date": "2025-07-31",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Chesapeake Baysox.",
-      "player": "Brandon Young"
+      "details": "Baltimore Oriolestraded 3BRamón UríastoHouston Astrosfor RHP Twine Palmer.",
+      "player": "Ramón Urías"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestraded 3B Ramón Urías toHouston Astrosfor RHPTwine Palmer.",
+      "player": "Twine Palmer"
     },
     {
       "date": "2025-07-31",
@@ -69,6 +87,18 @@
     },
     {
       "date": "2025-07-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestraded RHPAndrew KittredgetoChicago Cubsfor SS Wilfri De La Cruz.",
+      "player": "Andrew Kittredge"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestraded RHP Andrew Kittredge toChicago Cubsfor SSWilfri De La Cruz.",
+      "player": "Wilfri De La Cruz"
+    },
+    {
+      "date": "2025-07-31",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbackstraded 3BEugenio SuáreztoSeattle Marinersfor 1B Tyler Locklear, RHP Hunter Cranton and RHP Juan Burgos.",
       "player": "Eugenio Suárez"
@@ -87,39 +117,45 @@
     },
     {
       "date": "2025-07-31",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolestraded RHPAndrew KittredgetoChicago Cubsfor SS Wilfri De La Cruz.",
-      "player": "Andrew Kittredge"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolestraded RHP Andrew Kittredge toChicago Cubsfor SSWilfri De La Cruz.",
-      "player": "Wilfri De La Cruz"
-    },
-    {
-      "date": "2025-07-31",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbackstraded 3B Eugenio Suárez toSeattle Marinersfor 1BTyler Locklear, RHP Hunter Cranton and RHP Juan Burgos.",
       "player": "Tyler Locklear"
     },
     {
       "date": "2025-07-31",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianstraded RHPPaul SewaldtoDetroit Tigersfor Future Considerations.",
-      "player": "Paul Sewald"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled LHPJoe Rockfrom Durham Bulls.",
+      "player": "Joe Rock"
     },
     {
       "date": "2025-07-31",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravestraded RHP Rafael Montero toDetroit Tigersfor SSJim Jarvis.",
-      "player": "Jim Jarvis"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled LHPIan Seymourfrom Durham Bulls.",
+      "player": "Ian Seymour"
     },
     {
       "date": "2025-07-31",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravestraded RHPRafael MonterotoDetroit Tigersfor SS Jim Jarvis.",
-      "player": "Rafael Montero"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHP Paul Gervase, LHPAdam Serwinowskiand C Ben Rortvedt toLos Angeles Dodgersfor 1B Hunter Feduccia.",
+      "player": "Adam Serwinowski"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHP Paul Gervase, LHP Adam Serwinowski and CBen RortvedttoLos Angeles Dodgersfor 1B Hunter Feduccia.",
+      "player": "Ben Rortvedt"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHP Paul Gervase, LHP Adam Serwinowski and C Ben Rortvedt toLos Angeles Dodgersfor 1BHunter Feduccia.",
+      "player": "Hunter Feduccia"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHPPaul Gervase, LHP Adam Serwinowski and C Ben Rortvedt toLos Angeles Dodgersfor 1B Hunter Feduccia.",
+      "player": "Paul Gervase"
     }
   ]
 }
