@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-07-31T05:34:12.516050",
+  "last_updated": "2025-07-31T06:41:45.253231",
   "transactions": [
+    {
+      "date": "2025-07-31",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestraded RHP Rafael Montero toDetroit Tigersfor SSJim Jarvis.",
+      "player": "Jim Jarvis"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestraded RHPRafael MonterotoDetroit Tigersfor SS Jim Jarvis.",
+      "player": "Rafael Montero"
+    },
     {
       "date": "2025-07-31",
       "team": "Tampa Bay Rays",
@@ -36,18 +48,6 @@
       "team": "Washington Nationals",
       "details": "Washington Nationalstraded RHP Michael Soroka toChicago Cubsfor SS Ronny Cruz and LFChristian Franklin.",
       "player": "Christian Franklin"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravestraded RHP Rafael Montero toDetroit Tigersfor SSJim Jarvis.",
-      "player": "Jim Jarvis"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravestraded RHPRafael MonterotoDetroit Tigersfor SS Jim Jarvis.",
-      "player": "Rafael Montero"
     }
   ]
 }
