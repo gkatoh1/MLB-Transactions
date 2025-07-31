@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-07-31T16:35:58.205541",
+  "last_updated": "2025-07-31T17:26:29.152354",
   "transactions": [
+    {
+      "date": "2025-07-31",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated 1BRyan Nodafrom the 10-day injured list.",
+      "player": "Ryan Noda"
+    },
     {
       "date": "2025-07-31",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesplaced RHPZach Eflinon the 15-day injured list retroactive to July 29, 2025. Low back discomfort.",
       "player": "Zach Eflin"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Athletics",
+      "details": "Athleticstraded RHP Mason Miller and LHP JP Sears toSan Diego Padresfor RHP Henry Baez, RHP Eduarniel Núñez, SSLeo De Vriesand RHP Braden Nett.",
+      "player": "Leo De Vries"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHP Paul Gervase, LHPAdam Serwinowskiand C Ben Rortvedt toLos Angeles Dodgersfor 1B Hunter Feduccia.",
+      "player": "Adam Serwinowski"
     },
     {
       "date": "2025-07-31",
@@ -18,6 +36,24 @@
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardianstraded RHP Shane Bieber toToronto Blue Jaysfor RHPKhal Stephen.",
       "player": "Khal Stephen"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHP Paul Gervase, LHP Adam Serwinowski and CBen RortvedttoLos Angeles Dodgersfor 1B Hunter Feduccia.",
+      "player": "Ben Rortvedt"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHP Paul Gervase, LHP Adam Serwinowski and C Ben Rortvedt toLos Angeles Dodgersfor 1BHunter Feduccia.",
+      "player": "Hunter Feduccia"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHPPaul Gervase, LHP Adam Serwinowski and C Ben Rortvedt toLos Angeles Dodgersfor 1B Hunter Feduccia.",
+      "player": "Paul Gervase"
     },
     {
       "date": "2025-07-31",
@@ -39,9 +75,33 @@
     },
     {
       "date": "2025-07-31",
+      "team": "Athletics",
+      "details": "Athleticstraded RHP Mason Miller and LHP JP Sears toSan Diego Padresfor RHPHenry Baez, RHP Eduarniel Núñez, SS Leo De Vries and RHP Braden Nett.",
+      "player": "Henry Baez"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestraded RHPAndrew KittredgetoChicago Cubsfor SS Wilfri De La Cruz.",
+      "player": "Andrew Kittredge"
+    },
+    {
+      "date": "2025-07-31",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardianstraded RHPPaul SewaldtoDetroit Tigersfor Future Considerations.",
       "player": "Paul Sewald"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestraded RHP Andrew Kittredge toChicago Cubsfor SSWilfri De La Cruz.",
+      "player": "Wilfri De La Cruz"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned 1BRyan Nodato Charlotte Knights.",
+      "player": "Ryan Noda"
     },
     {
       "date": "2025-07-31",
@@ -57,6 +117,12 @@
     },
     {
       "date": "2025-07-31",
+      "team": "Athletics",
+      "details": "Athleticstraded RHP Mason Miller and LHP JP Sears toSan Diego Padresfor RHP Henry Baez, RHPEduarniel Núñez, SS Leo De Vries and RHP Braden Nett.",
+      "player": "Eduarniel Núñez"
+    },
+    {
+      "date": "2025-07-31",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolestraded 3BRamón UríastoHouston Astrosfor RHP Twine Palmer.",
       "player": "Ramón Urías"
@@ -69,33 +135,15 @@
     },
     {
       "date": "2025-07-31",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded RHPMichael SorokatoChicago Cubsfor SS Ronny Cruz and LF Christian Franklin.",
-      "player": "Michael Soroka"
+      "team": "Athletics",
+      "details": "Athleticstraded RHPMason Millerand LHP JP Sears toSan Diego Padresfor RHP Henry Baez, RHP Eduarniel Núñez, SS Leo De Vries and RHP Braden Nett.",
+      "player": "Mason Miller"
     },
     {
       "date": "2025-07-31",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded RHP Michael Soroka toChicago Cubsfor SSRonny Cruzand LF Christian Franklin.",
-      "player": "Ronny Cruz"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded RHP Michael Soroka toChicago Cubsfor SS Ronny Cruz and LFChristian Franklin.",
-      "player": "Christian Franklin"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolestraded RHPAndrew KittredgetoChicago Cubsfor SS Wilfri De La Cruz.",
-      "player": "Andrew Kittredge"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolestraded RHP Andrew Kittredge toChicago Cubsfor SSWilfri De La Cruz.",
-      "player": "Wilfri De La Cruz"
+      "team": "Athletics",
+      "details": "Athleticstraded RHP Mason Miller and LHP JP Sears toSan Diego Padresfor RHP Henry Baez, RHP Eduarniel Núñez, SS Leo De Vries and RHPBraden Nett.",
+      "player": "Braden Nett"
     },
     {
       "date": "2025-07-31",
@@ -117,9 +165,33 @@
     },
     {
       "date": "2025-07-31",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded RHPMichael SorokatoChicago Cubsfor SS Ronny Cruz and LF Christian Franklin.",
+      "player": "Michael Soroka"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded RHP Michael Soroka toChicago Cubsfor SSRonny Cruzand LF Christian Franklin.",
+      "player": "Ronny Cruz"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded RHP Michael Soroka toChicago Cubsfor SS Ronny Cruz and LFChristian Franklin.",
+      "player": "Christian Franklin"
+    },
+    {
+      "date": "2025-07-31",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbackstraded 3B Eugenio Suárez toSeattle Marinersfor 1BTyler Locklear, RHP Hunter Cranton and RHP Juan Burgos.",
       "player": "Tyler Locklear"
+    },
+    {
+      "date": "2025-07-31",
+      "team": "Athletics",
+      "details": "Athleticstraded RHP Mason Miller and LHPJP SearstoSan Diego Padresfor RHP Henry Baez, RHP Eduarniel Núñez, SS Leo De Vries and RHP Braden Nett.",
+      "player": "JP Sears"
     },
     {
       "date": "2025-07-31",
@@ -132,30 +204,6 @@
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysrecalled LHPIan Seymourfrom Durham Bulls.",
       "player": "Ian Seymour"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RHP Paul Gervase, LHPAdam Serwinowskiand C Ben Rortvedt toLos Angeles Dodgersfor 1B Hunter Feduccia.",
-      "player": "Adam Serwinowski"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RHP Paul Gervase, LHP Adam Serwinowski and CBen RortvedttoLos Angeles Dodgersfor 1B Hunter Feduccia.",
-      "player": "Ben Rortvedt"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RHP Paul Gervase, LHP Adam Serwinowski and C Ben Rortvedt toLos Angeles Dodgersfor 1BHunter Feduccia.",
-      "player": "Hunter Feduccia"
-    },
-    {
-      "date": "2025-07-31",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RHPPaul Gervase, LHP Adam Serwinowski and C Ben Rortvedt toLos Angeles Dodgersfor 1B Hunter Feduccia.",
-      "player": "Paul Gervase"
     }
   ]
 }
