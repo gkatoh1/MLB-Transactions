@@ -1,24 +1,6 @@
 {
-  "last_updated": "2025-08-01T19:23:03.743959",
+  "last_updated": "2025-08-01T20:30:18.595196",
   "transactions": [
-    {
-      "date": "2025-08-01",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated RFMike Yastrzemski.",
-      "player": "Mike Yastrzemski"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced CFTJ Friedlon the restricted list.",
-      "player": "TJ Friedl"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksactivated LHPJalen Beeksfrom the 15-day injured list.",
-      "player": "Jalen Beeks"
-    },
     {
       "date": "2025-08-01",
       "team": "Milwaukee Brewers",
@@ -27,9 +9,9 @@
     },
     {
       "date": "2025-08-01",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated LFNick Loftinfrom the 7-day injured list.",
-      "player": "Nick Loftin"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsdesignated LHPAnthony Venezianofor assignment.",
+      "player": "Anthony Veneziano"
     },
     {
       "date": "2025-08-01",
@@ -39,15 +21,51 @@
     },
     {
       "date": "2025-08-01",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated LFAlan Roden.",
+      "player": "Alan Roden"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced CFTJ Friedlon the restricted list.",
+      "player": "TJ Friedl"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced RHPDaniel Roberton the 15-day injured list retroactive to July 30, 2025. Right middle finger blister.",
+      "player": "Daniel Robert"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated 3BZack Shortfor assignment.",
+      "player": "Zack Short"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPBrock Stewart.",
+      "player": "Brock Stewart"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated LFHarrison Bader.",
+      "player": "Harrison Bader"
+    },
+    {
+      "date": "2025-08-01",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersplaced CFJackson Chourioon the 10-day injured list retroactive to July 30, 2025. Strained right hamstring.",
       "player": "Jackson Chourio"
     },
     {
       "date": "2025-08-01",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated RHPJake Bird.",
-      "player": "Jake Bird"
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated SSJeremy Peña.",
+      "player": "Jeremy Peña"
     },
     {
       "date": "2025-08-01",
@@ -57,9 +75,39 @@
     },
     {
       "date": "2025-08-01",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPNick Burdion a rehab assignment to Worcester Red Sox.",
+      "player": "Nick Burdi"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated RHPJhoan Duran.",
+      "player": "Jhoan Duran"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent RHPJoe Rosson a rehab assignment to Lehigh Valley IronPigs.",
+      "player": "Joe Ross"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RFMike Yastrzemski.",
+      "player": "Mike Yastrzemski"
+    },
+    {
+      "date": "2025-08-01",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsactivated RHPAndrew Kittredge.",
       "player": "Andrew Kittredge"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated LHPJalen Beeksfrom the 15-day injured list.",
+      "player": "Jalen Beeks"
     },
     {
       "date": "2025-08-01",
@@ -69,21 +117,33 @@
     },
     {
       "date": "2025-08-01",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RHPDavid Bednar.",
+      "player": "David Bednar"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Unknown Team",
+      "details": "LHPRich Hillelected free agency.",
+      "player": "Rich Hill"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated LFNick Loftinfrom the 7-day injured list.",
+      "player": "Nick Loftin"
+    },
+    {
+      "date": "2025-08-01",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsactivated LFWilli Castro.",
       "player": "Willi Castro"
     },
     {
       "date": "2025-08-01",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessent RHPAaron Nolaon a rehab assignment to Lehigh Valley IronPigs.",
-      "player": "Aaron Nola"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated SSJosé Caballero.",
-      "player": "José Caballero"
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated RFJesús Sánchez.",
+      "player": "Jesús Sánchez"
     },
     {
       "date": "2025-08-01",
@@ -99,6 +159,42 @@
     },
     {
       "date": "2025-08-01",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent RHPAaron Nolaon a rehab assignment to Lehigh Valley IronPigs.",
+      "player": "Aaron Nola"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated SSCarlos Correa.",
+      "player": "Carlos Correa"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated 3BRamón Urías.",
+      "player": "Ramón Urías"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated SSJosé Caballero.",
+      "player": "José Caballero"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RFAlex Call.",
+      "player": "Alex Call"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RHPJake Bird.",
+      "player": "Jake Bird"
+    },
+    {
+      "date": "2025-08-01",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsactivated LHPTaylor Rogers.",
       "player": "Taylor Rogers"
@@ -106,14 +202,8 @@
     {
       "date": "2025-08-01",
       "team": "New York Yankees",
-      "details": "New York Yankeesactivated RHPDavid Bednar.",
-      "player": "David Bednar"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent RHPNick Burdion a rehab assignment to Worcester Red Sox.",
-      "player": "Nick Burdi"
+      "details": "New York Yankeesactivated RHPCamilo Doval.",
+      "player": "Camilo Doval"
     },
     {
       "date": "2025-08-01",
@@ -129,15 +219,63 @@
     },
     {
       "date": "2025-08-01",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated RHPCamilo Doval.",
-      "player": "Camilo Doval"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPRafael Montero.",
+      "player": "Rafael Montero"
     },
     {
       "date": "2025-08-01",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated LFAlan Roden.",
-      "player": "Alan Roden"
+      "details": "Minnesota Twinsselected the contract of RHPJosé Ureñafrom St. Paul Saints.",
+      "player": "José Ureña"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsselected the contract of RHPErasmo Ramírezfrom St. Paul Saints.",
+      "player": "Erasmo Ramírez"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned LHPBrandyn Garciato Reno Aces.",
+      "player": "Brandyn Garcia"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPGavin Hollowellto Iowa Cubs.",
+      "player": "Gavin Hollowell"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPBrennan Bernardinoto Worcester Red Sox.",
+      "player": "Brennan Bernardino"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPTravis Adamsfrom St. Paul Saints.",
+      "player": "Travis Adams"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of CFJakob Marseefrom Jacksonville Jumbo Shrimp.",
+      "player": "Jakob Marsee"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPMick Abelto St. Paul Saints.",
+      "player": "Mick Abel"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPPaxton Schultzto Buffalo Bisons.",
+      "player": "Paxton Schultz"
     },
     {
       "date": "2025-08-01",
@@ -159,147 +297,9 @@
     },
     {
       "date": "2025-08-01",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled SSLuis Vázquezfrom Norfolk Tides.",
-      "player": "Luis Vázquez"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of CFJordyn Adamsfrom Chesapeake Baysox.",
-      "player": "Jordyn Adams"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPPierson Ohlfrom St. Paul Saints.",
-      "player": "Pierson Ohl"
-    },
-    {
-      "date": "2025-08-01",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksselected the contract of LHPKyle Nelsonfrom Reno Aces.",
       "player": "Kyle Nelson"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPDane Dunningto Gwinnett Stripers.",
-      "player": "Dane Dunning"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPOrlando Ribaltafrom Rochester Red Wings.",
-      "player": "Orlando Ribalta"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned OFTristin Englishto Reno Aces.",
-      "player": "Tristin English"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned RHPGavin Hollowellto Iowa Cubs.",
-      "player": "Gavin Hollowell"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPBrennan Bernardinoto Worcester Red Sox.",
-      "player": "Brennan Bernardino"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of 2BTerrin Vavrafrom Chesapeake Baysox.",
-      "player": "Terrin Vavra"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled 3BRyan Fitzgeraldfrom St. Paul Saints.",
-      "player": "Ryan Fitzgerald"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled 2BEdouard Julienfrom St. Paul Saints.",
-      "player": "Edouard Julien"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsselected the contract of RHPErasmo Ramírezfrom St. Paul Saints.",
-      "player": "Erasmo Ramírez"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned LHPBrandyn Garciato Reno Aces.",
-      "player": "Brandyn Garcia"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled CFAustin Martinfrom St. Paul Saints.",
-      "player": "Austin Martin"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled LHPShinnosuke Ogasawarafrom Rochester Red Wings.",
-      "player": "Shinnosuke Ogasawara"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned CMoisés Ballesterosto Iowa Cubs.",
-      "player": "Moisés Ballesteros"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksselected the contract of SSConnor Kaiserfrom Reno Aces.",
-      "player": "Connor Kaiser"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned LFMJ Melendezto Omaha Storm Chasers.",
-      "player": "MJ Melendez"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsselected the contract of RHPJosé Ureñafrom St. Paul Saints.",
-      "player": "José Ureña"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPYerry De los Santosto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Yerry De los Santos"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPTravis Adamsfrom St. Paul Saints.",
-      "player": "Travis Adams"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPPaxton Schultzto Buffalo Bisons.",
-      "player": "Paxton Schultz"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled CFRobert Hassell IIIfrom Rochester Red Wings.",
-      "player": "Robert Hassell III"
     }
   ]
 }
