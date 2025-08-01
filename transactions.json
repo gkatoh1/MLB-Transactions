@@ -1,11 +1,35 @@
 {
-  "last_updated": "2025-08-01T14:29:07.266524",
+  "last_updated": "2025-08-01T15:30:36.812365",
   "transactions": [
+    {
+      "date": "2025-08-01",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPAndrew Kittredge.",
+      "player": "Andrew Kittredge"
+    },
     {
       "date": "2025-08-01",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsplaced CFTJ Friedlon the restricted list.",
       "player": "TJ Friedl"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated LFWilli Castro.",
+      "player": "Willi Castro"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated LHPTaylor Rogers.",
+      "player": "Taylor Rogers"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPGavin Hollowellto Iowa Cubs.",
+      "player": "Gavin Hollowell"
     },
     {
       "date": "2025-08-01",
@@ -30,6 +54,12 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesrecalled LHPAustin Coxfrom Gwinnett Stripers.",
       "player": "Austin Cox"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned CMoisés Ballesterosto Iowa Cubs.",
+      "player": "Moisés Ballesteros"
     }
   ]
 }
