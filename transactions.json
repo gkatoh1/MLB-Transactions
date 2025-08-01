@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-08-01T11:24:49.183210",
+  "last_updated": "2025-08-01T12:59:06.728137",
   "transactions": [
-    {
-      "date": "2025-08-01",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPIan Hamiltonto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Ian Hamilton"
-    },
     {
       "date": "2025-08-01",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPYerry De los Santosto Scranton/Wilkes-Barre RailRiders.",
       "player": "Yerry De los Santos"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPIan Hamiltonto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Ian Hamilton"
     }
   ]
 }
