@@ -1,6 +1,24 @@
 {
-  "last_updated": "2025-08-01T13:46:22.933501",
+  "last_updated": "2025-08-01T14:29:07.266524",
   "transactions": [
+    {
+      "date": "2025-08-01",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced CFTJ Friedlon the restricted list.",
+      "player": "TJ Friedl"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPDane Dunningto Gwinnett Stripers.",
+      "player": "Dane Dunning"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPYerry De los Santosto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Yerry De los Santos"
+    },
     {
       "date": "2025-08-01",
       "team": "New York Yankees",
@@ -9,9 +27,9 @@
     },
     {
       "date": "2025-08-01",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPYerry De los Santosto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Yerry De los Santos"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled LHPAustin Coxfrom Gwinnett Stripers.",
+      "player": "Austin Cox"
     }
   ]
 }
