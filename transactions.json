@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-02T13:35:45.235311",
+  "last_updated": "2025-08-02T14:25:31.251624",
   "transactions": [
     {
       "date": "2025-08-02",
@@ -9,9 +9,39 @@
     },
     {
       "date": "2025-08-02",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RHPAdrian Houser.",
+      "player": "Adrian Houser"
+    },
+    {
+      "date": "2025-08-02",
       "team": "Washington Nationals",
       "details": "Washington Nationalssigned free agent RHPCarson Fischerto a minor league contract.",
       "player": "Carson Fischer"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPBailey Oberfrom the 15-day injured list.",
+      "player": "Bailey Ober"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated LHPDietrich Enns.",
+      "player": "Dietrich Enns"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled SSJonathan Ornelasfrom Gwinnett Stripers.",
+      "player": "Jonathan Ornelas"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPKevin Kellyto Durham Bulls.",
+      "player": "Kevin Kelly"
     }
   ]
 }
