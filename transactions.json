@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-08-02T21:25:08.004095",
+  "last_updated": "2025-08-02T22:26:21.488542",
   "transactions": [
+    {
+      "date": "2025-08-02",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RHPDan Altavillaon the 15-day injured list. Right lat strain.",
+      "player": "Dan Altavilla"
+    },
     {
       "date": "2025-08-02",
       "team": "Cincinnati Reds",
@@ -12,6 +18,12 @@
       "team": "Unknown Team",
       "details": "LHPCaleb Thielbarchanged number to 23.",
       "player": "Caleb Thielbar"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPRob Zastryznyon a rehab assignment to Nashville Sounds.",
+      "player": "Rob Zastryzny"
     },
     {
       "date": "2025-08-02",
@@ -39,33 +51,33 @@
     },
     {
       "date": "2025-08-02",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned free agent RHPCarson Fischerto a minor league contract.",
-      "player": "Carson Fischer"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsdesignated RHPThomas Hatchfor assignment.",
+      "player": "Thomas Hatch"
     },
     {
       "date": "2025-08-02",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPBailey Oberfrom the 15-day injured list.",
-      "player": "Bailey Ober"
-    },
-    {
-      "date": "2025-08-02",
-      "team": "New York Mets",
-      "details": "New York Metssent LHPBrandon Waddellon a rehab assignment to Binghamton Rumble Ponies.",
-      "player": "Brandon Waddell"
-    },
-    {
-      "date": "2025-08-02",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated RHPDustin May.",
-      "player": "Dustin May"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPAntonio Senzatelaon the 15-day injured list. Right middle finger blister.",
+      "player": "Antonio Senzatela"
     },
     {
       "date": "2025-08-02",
       "team": "Unknown Team",
-      "details": "3BJon Bertichanged number to 23.",
-      "player": "Jon Berti"
+      "details": "1BMichael Buschchanged number to 23.",
+      "player": "Michael Busch"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Unknown Team",
+      "details": "RHPDaniel Palenciachanged number to 23.",
+      "player": "Daniel Palencia"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Unknown Team",
+      "details": "LHPTaylor Rogerschanged number to 23.",
+      "player": "Taylor Rogers"
     },
     {
       "date": "2025-08-02",
@@ -75,57 +87,39 @@
     },
     {
       "date": "2025-08-02",
+      "team": "Unknown Team",
+      "details": "LFWilli Castrochanged number to 23.",
+      "player": "Willi Castro"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Unknown Team",
+      "details": "RFSeiya Suzukichanged number to 23.",
+      "player": "Seiya Suzuki"
+    },
+    {
+      "date": "2025-08-02",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated CFTJ Friedlfrom the restricted list.",
-      "player": "TJ Friedl"
+      "details": "Cincinnati Redsactivated LFMiguel Andujar.",
+      "player": "Miguel Andujar"
     },
     {
       "date": "2025-08-02",
       "team": "Unknown Team",
-      "details": "RHPAndrew Kittredgechanged number to 23.",
-      "player": "Andrew Kittredge"
-    },
-    {
-      "date": "2025-08-02",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssent 1BJake Burgeron a rehab assignment to Frisco RoughRiders.",
-      "player": "Jake Burger"
-    },
-    {
-      "date": "2025-08-02",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated LHPBailey Falter.",
-      "player": "Bailey Falter"
-    },
-    {
-      "date": "2025-08-02",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent RHPMark Leiter Jr.on a rehab assignment to Somerset Patriots.",
-      "player": "Mark Leiter Jr."
-    },
-    {
-      "date": "2025-08-02",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated RHPRyan Bergert.",
-      "player": "Ryan Bergert"
-    },
-    {
-      "date": "2025-08-02",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent CFDerek Hillon a rehab assignment to Jacksonville Jumbo Shrimp.",
-      "player": "Derek Hill"
+      "details": "2BNico Hoernerchanged number to 23.",
+      "player": "Nico Hoerner"
     },
     {
       "date": "2025-08-02",
       "team": "Unknown Team",
-      "details": "RHPBen Brownchanged number to 23.",
-      "player": "Ben Brown"
+      "details": "RFKyle Tuckerchanged number to 23.",
+      "player": "Kyle Tucker"
     },
     {
       "date": "2025-08-02",
-      "team": "Unknown Team",
-      "details": "RHPCade Hortonchanged number to 23.",
-      "player": "Cade Horton"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated LFLars Nootbaarfrom the 10-day injured list.",
+      "player": "Lars Nootbaar"
     },
     {
       "date": "2025-08-02",
@@ -135,21 +129,9 @@
     },
     {
       "date": "2025-08-02",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsdesignated RHPBrooks Kriskefor assignment.",
-      "player": "Brooks Kriske"
-    },
-    {
-      "date": "2025-08-02",
       "team": "Unknown Team",
-      "details": "RHPRyan Brasierchanged number to 23.",
-      "player": "Ryan Brasier"
-    },
-    {
-      "date": "2025-08-02",
-      "team": "Unknown Team",
-      "details": "RHPBrad Kellerchanged number to 23.",
-      "player": "Brad Keller"
+      "details": "LHPMatthew Boydchanged number to 23.",
+      "player": "Matthew Boyd"
     },
     {
       "date": "2025-08-02",
@@ -195,33 +177,39 @@
     },
     {
       "date": "2025-08-02",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsdesignated RHPThomas Hatchfor assignment.",
-      "player": "Thomas Hatch"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned free agent RHPCarson Fischerto a minor league contract.",
+      "player": "Carson Fischer"
     },
     {
       "date": "2025-08-02",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced RHPAntonio Senzatelaon the 15-day injured list. Right middle finger blister.",
-      "player": "Antonio Senzatela"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPBailey Oberfrom the 15-day injured list.",
+      "player": "Bailey Ober"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "New York Mets",
+      "details": "New York Metssent LHPBrandon Waddellon a rehab assignment to Binghamton Rumble Ponies.",
+      "player": "Brandon Waddell"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPDustin May.",
+      "player": "Dustin May"
     },
     {
       "date": "2025-08-02",
       "team": "Unknown Team",
-      "details": "1BMichael Buschchanged number to 23.",
-      "player": "Michael Busch"
+      "details": "3BJon Bertichanged number to 23.",
+      "player": "Jon Berti"
     },
     {
       "date": "2025-08-02",
-      "team": "Unknown Team",
-      "details": "RHPDaniel Palenciachanged number to 23.",
-      "player": "Daniel Palencia"
-    },
-    {
-      "date": "2025-08-02",
-      "team": "Unknown Team",
-      "details": "LHPTaylor Rogerschanged number to 23.",
-      "player": "Taylor Rogers"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent LHPMartín Pérezon a rehab assignment to Charlotte Knights.",
+      "player": "Martín Pérez"
     },
     {
       "date": "2025-08-02",
@@ -237,21 +225,27 @@
     },
     {
       "date": "2025-08-02",
-      "team": "Unknown Team",
-      "details": "LFWilli Castrochanged number to 23.",
-      "player": "Willi Castro"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent 1BJake Burgeron a rehab assignment to Frisco RoughRiders.",
+      "player": "Jake Burger"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated RHPBrooks Kriskefor assignment.",
+      "player": "Brooks Kriske"
     },
     {
       "date": "2025-08-02",
       "team": "Unknown Team",
-      "details": "RFSeiya Suzukichanged number to 23.",
-      "player": "Seiya Suzuki"
+      "details": "RHPRyan Brasierchanged number to 23.",
+      "player": "Ryan Brasier"
     },
     {
       "date": "2025-08-02",
       "team": "Unknown Team",
-      "details": "LHPMatthew Boydchanged number to 23.",
-      "player": "Matthew Boyd"
+      "details": "RHPBrad Kellerchanged number to 23.",
+      "player": "Brad Keller"
     },
     {
       "date": "2025-08-02",
@@ -279,27 +273,33 @@
     },
     {
       "date": "2025-08-02",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced RHPDan Altavillaon the 15-day injured list. Right lat strain.",
-      "player": "Dan Altavilla"
-    },
-    {
-      "date": "2025-08-02",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated LFMiguel Andujar.",
-      "player": "Miguel Andujar"
+      "details": "Cincinnati Redsactivated CFTJ Friedlfrom the restricted list.",
+      "player": "TJ Friedl"
     },
     {
       "date": "2025-08-02",
       "team": "Unknown Team",
-      "details": "2BNico Hoernerchanged number to 23.",
-      "player": "Nico Hoerner"
+      "details": "RHPAndrew Kittredgechanged number to 23.",
+      "player": "Andrew Kittredge"
     },
     {
       "date": "2025-08-02",
-      "team": "Unknown Team",
-      "details": "RFKyle Tuckerchanged number to 23.",
-      "player": "Kyle Tucker"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated LHPBailey Falter.",
+      "player": "Bailey Falter"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPMark Leiter Jr.on a rehab assignment to Somerset Patriots.",
+      "player": "Mark Leiter Jr."
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RHPRyan Bergert.",
+      "player": "Ryan Bergert"
     }
   ]
 }
