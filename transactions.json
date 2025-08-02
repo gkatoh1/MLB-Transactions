@@ -1,6 +1,66 @@
 {
-  "last_updated": "2025-08-02T16:32:53.769017",
+  "last_updated": "2025-08-02T17:24:39.377171",
   "transactions": [
+    {
+      "date": "2025-08-02",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPZack Littell.",
+      "player": "Zack Littell"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated LFMiguel Andujar.",
+      "player": "Miguel Andujar"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated LHPDietrich Enns.",
+      "player": "Dietrich Enns"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated RHPCarlos Hernández.",
+      "player": "Carlos Hernández"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated LHPBailey Falter.",
+      "player": "Bailey Falter"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RHPRyan Bergert.",
+      "player": "Ryan Bergert"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RHPAdrian Houser.",
+      "player": "Adrian Houser"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated RHPBrooks Kriskefor assignment.",
+      "player": "Brooks Kriske"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPMichael Soroka.",
+      "player": "Michael Soroka"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "New York Mets",
+      "details": "New York Metssent LHPBrandon Waddellon a rehab assignment to Binghamton Rumble Ponies.",
+      "player": "Brandon Waddell"
+    },
     {
       "date": "2025-08-02",
       "team": "Washington Nationals",
@@ -16,20 +76,8 @@
     {
       "date": "2025-08-02",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated RHPRyan Bergert.",
-      "player": "Ryan Bergert"
-    },
-    {
-      "date": "2025-08-02",
-      "team": "New York Mets",
-      "details": "New York Metssent LHPBrandon Waddellon a rehab assignment to Binghamton Rumble Ponies.",
-      "player": "Brandon Waddell"
-    },
-    {
-      "date": "2025-08-02",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsdesignated RHPBrooks Kriskefor assignment.",
-      "player": "Brooks Kriske"
+      "details": "Kansas City Royalsdesignated RHPThomas Hatchfor assignment.",
+      "player": "Thomas Hatch"
     },
     {
       "date": "2025-08-02",
@@ -39,33 +87,21 @@
     },
     {
       "date": "2025-08-02",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated RHPAdrian Houser.",
-      "player": "Adrian Houser"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPAntonio Senzatelaon the 15-day injured list. Right middle finger blister.",
+      "player": "Antonio Senzatela"
     },
     {
       "date": "2025-08-02",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated LHPBailey Falter.",
-      "player": "Bailey Falter"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated CFTJ Friedlfrom the restricted list.",
+      "player": "TJ Friedl"
     },
     {
       "date": "2025-08-02",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPMichael Soroka.",
-      "player": "Michael Soroka"
-    },
-    {
-      "date": "2025-08-02",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsdesignated RHPThomas Hatchfor assignment.",
-      "player": "Thomas Hatch"
-    },
-    {
-      "date": "2025-08-02",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated LHPDietrich Enns.",
-      "player": "Dietrich Enns"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent CFDerek Hillon a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Derek Hill"
     },
     {
       "date": "2025-08-02",
@@ -75,9 +111,33 @@
     },
     {
       "date": "2025-08-02",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPCooper Criswellto Worcester Red Sox.",
-      "player": "Cooper Criswell"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPThomas Harringtonto Indianapolis Indians.",
+      "player": "Thomas Harrington"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansselected the contract of 1BC.J. Kayfusfrom Columbus Clippers.",
+      "player": "C.J. Kayfus"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled LHPRyan Rolisonfrom Albuquerque Isotopes.",
+      "player": "Ryan Rolison"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned LHPTim Herrinto Columbus Clippers.",
+      "player": "Tim Herrin"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RFJohnathan Rodríguezto Columbus Clippers.",
+      "player": "Johnathan Rodríguez"
     },
     {
       "date": "2025-08-02",
@@ -93,9 +153,33 @@
     },
     {
       "date": "2025-08-02",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPLyon Richardsonto Louisville Bats.",
+      "player": "Lyon Richardson"
+    },
+    {
+      "date": "2025-08-02",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysoptioned RHPKevin Kellyto Durham Bulls.",
       "player": "Kevin Kelly"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPDauri Moretafrom Indianapolis Indians.",
+      "player": "Dauri Moreta"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPCooper Criswellto Worcester Red Sox.",
+      "player": "Cooper Criswell"
+    },
+    {
+      "date": "2025-08-02",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RFConnor Joeto Louisville Bats.",
+      "player": "Connor Joe"
     }
   ]
 }
