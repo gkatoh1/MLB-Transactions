@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-08-02T02:18:48.139605",
+  "last_updated": "2025-08-02T03:58:56.944699",
   "transactions": [
     {
       "date": "2025-08-01",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresdesignated CFTyler Wadefor assignment.",
-      "player": "Tyler Wade"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated 3BOswald Peraza.",
+      "player": "Oswald Peraza"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated LFBrandon Lockridge.",
+      "player": "Brandon Lockridge"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RHPLouis Varland.",
+      "player": "Louis Varland"
     },
     {
       "date": "2025-08-01",
@@ -15,27 +27,9 @@
     },
     {
       "date": "2025-08-01",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated LFHarrison Bader.",
-      "player": "Harrison Bader"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated LFNick Loftinfrom the 7-day injured list.",
-      "player": "Nick Loftin"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated RHPDavid Bednar.",
-      "player": "David Bednar"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated RHPBrock Stewart.",
-      "player": "Brock Stewart"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated RHPPhil Maton.",
+      "player": "Phil Maton"
     },
     {
       "date": "2025-08-01",
@@ -51,9 +45,9 @@
     },
     {
       "date": "2025-08-01",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated RHPPhil Maton.",
-      "player": "Phil Maton"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPBrock Stewart.",
+      "player": "Brock Stewart"
     },
     {
       "date": "2025-08-01",
@@ -81,15 +75,21 @@
     },
     {
       "date": "2025-08-01",
-      "team": "New York Mets",
-      "details": "New York Metsactivated CFCedric Mullins.",
-      "player": "Cedric Mullins"
-    },
-    {
-      "date": "2025-08-01",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysdesignated CMatt Thaissfor assignment.",
       "player": "Matt Thaiss"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated SSJosé Caballero.",
+      "player": "José Caballero"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "New York Mets",
+      "details": "New York Metsactivated CFCedric Mullins.",
+      "player": "Cedric Mullins"
     },
     {
       "date": "2025-08-01",
@@ -99,39 +99,21 @@
     },
     {
       "date": "2025-08-01",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPAndrew Kittredge.",
-      "player": "Andrew Kittredge"
-    },
-    {
-      "date": "2025-08-01",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersactivated RHPPaul Gervase.",
       "player": "Paul Gervase"
     },
     {
       "date": "2025-08-01",
-      "team": "New York Yankees",
-      "details": "New York Yankeesreleased RHPMarcus Stroman.",
-      "player": "Marcus Stroman"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced CFJackson Chourioon the 10-day injured list retroactive to July 30, 2025. Strained right hamstring.",
+      "player": "Jackson Chourio"
     },
     {
       "date": "2025-08-01",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsactivated LHPAndrew Chafin.",
       "player": "Andrew Chafin"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Unknown Team",
-      "details": "LHPRich Hillelected free agency.",
-      "player": "Rich Hill"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated LFBrandon Lockridge.",
-      "player": "Brandon Lockridge"
     },
     {
       "date": "2025-08-01",
@@ -147,36 +129,6 @@
     },
     {
       "date": "2025-08-01",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersplaced RHPTrent Thorntonon the 15-day injured list. Left achilles tear.",
-      "player": "Trent Thornton"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Houston Astros",
-      "details": "Houston Astrosdesignated 3BZack Shortfor assignment.",
-      "player": "Zack Short"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated LFWilli Castro.",
-      "player": "Willi Castro"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced CFJackson Chourioon the 10-day injured list retroactive to July 30, 2025. Strained right hamstring.",
-      "player": "Jackson Chourio"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated RHPLouis Varland.",
-      "player": "Louis Varland"
-    },
-    {
-      "date": "2025-08-01",
       "team": "San Diego Padres",
       "details": "San Diego Padresactivated 1BRyan O'Hearn.",
       "player": "Ryan O'Hearn"
@@ -189,9 +141,15 @@
     },
     {
       "date": "2025-08-01",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessent RHPAaron Nolaon a rehab assignment to Lehigh Valley IronPigs.",
-      "player": "Aaron Nola"
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated SSJeremy Peña.",
+      "player": "Jeremy Peña"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersplaced RHPTrent Thorntonon the 15-day injured list. Left achilles tear.",
+      "player": "Trent Thornton"
     },
     {
       "date": "2025-08-01",
@@ -201,27 +159,63 @@
     },
     {
       "date": "2025-08-01",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated SSCarlos Correa.",
-      "player": "Carlos Correa"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated LHPDanny Coulombe.",
+      "player": "Danny Coulombe"
     },
     {
       "date": "2025-08-01",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated SSJeremy Peña.",
-      "player": "Jeremy Peña"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated CHunter Feduccia.",
-      "player": "Hunter Feduccia"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPAndrew Kittredge.",
+      "player": "Andrew Kittredge"
     },
     {
       "date": "2025-08-01",
       "team": "Seattle Mariners",
       "details": "Seattle Marinerssent RHPBryce Milleron a rehab assignment to Tacoma Rainiers.",
       "player": "Bryce Miller"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "New York Yankees",
+      "details": "New York Yankeesreleased RHPMarcus Stroman.",
+      "player": "Marcus Stroman"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Unknown Team",
+      "details": "LHPRich Hillelected free agency.",
+      "player": "Rich Hill"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RHPDavid Bednar.",
+      "player": "David Bednar"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPNick Burdion a rehab assignment to Worcester Red Sox.",
+      "player": "Nick Burdi"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated RHPJhoan Duran.",
+      "player": "Jhoan Duran"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent RHPJoe Rosson a rehab assignment to Lehigh Valley IronPigs.",
+      "player": "Joe Ross"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated LFWilli Castro.",
+      "player": "Willi Castro"
     },
     {
       "date": "2025-08-01",
@@ -237,15 +231,33 @@
     },
     {
       "date": "2025-08-01",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated LHPDanny Coulombe.",
-      "player": "Danny Coulombe"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated LHPRyan Boruckifrom the 15-day injured list.",
+      "player": "Ryan Borucki"
     },
     {
       "date": "2025-08-01",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersreleased RHPTyler Owens.",
-      "player": "Tyler Owens"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent RHPAaron Nolaon a rehab assignment to Lehigh Valley IronPigs.",
+      "player": "Aaron Nola"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated LHPJP Sears.",
+      "player": "JP Sears"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated SSCarlos Correa.",
+      "player": "Carlos Correa"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent CAlejandro Kirkon a rehab assignment to Buffalo Bisons.",
+      "player": "Alejandro Kirk"
     },
     {
       "date": "2025-08-01",
@@ -255,9 +267,21 @@
     },
     {
       "date": "2025-08-01",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated CHunter Feduccia.",
+      "player": "Hunter Feduccia"
+    },
+    {
+      "date": "2025-08-01",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersactivated RFAlex Call.",
       "player": "Alex Call"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersreleased RHPTyler Owens.",
+      "player": "Tyler Owens"
     },
     {
       "date": "2025-08-01",
@@ -267,39 +291,15 @@
     },
     {
       "date": "2025-08-01",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated RHPGriffin Jax.",
-      "player": "Griffin Jax"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated SSJosé Caballero.",
-      "player": "José Caballero"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsreleased RHPRyan Pressly.",
-      "player": "Ryan Pressly"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated RHPMerrill Kelly.",
-      "player": "Merrill Kelly"
-    },
-    {
-      "date": "2025-08-01",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated LHPTaylor Rogers.",
-      "player": "Taylor Rogers"
-    },
-    {
-      "date": "2025-08-01",
       "team": "San Diego Padres",
-      "details": "San Diego Padresactivated RHPMason Miller.",
-      "player": "Mason Miller"
+      "details": "San Diego Padresdesignated CFTyler Wadefor assignment.",
+      "player": "Tyler Wade"
+    },
+    {
+      "date": "2025-08-01",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated 2BChristian Kossfrom the 10-day injured list.",
+      "player": "Christian Koss"
     }
   ]
 }
