@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-08-03T12:56:42.097120",
+  "last_updated": "2025-08-03T13:37:43.923732",
   "transactions": [
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "RHPMichael Sorokachanged number to 41.",
+      "player": "Michael Soroka"
+    },
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
@@ -10,8 +16,14 @@
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "LHPShota Imanagachanged number to 18.",
-      "player": "Shota Imanaga"
+      "details": "RHPRyan Brasierchanged number to 54.",
+      "player": "Ryan Brasier"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "RHPBen Brownchanged number to 32.",
+      "player": "Ben Brown"
     },
     {
       "date": "2025-08-03",
@@ -24,6 +36,30 @@
       "team": "Unknown Team",
       "details": "1BMichael Buschchanged number to 29.",
       "player": "Michael Busch"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "2BNico Hoernerchanged number to 2.",
+      "player": "Nico Hoerner"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "LHPMatthew Boydchanged number to 16.",
+      "player": "Matthew Boyd"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "CCarson Kellychanged number to 15.",
+      "player": "Carson Kelly"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "CFPete Crow-Armstrongchanged number to 4.",
+      "player": "Pete Crow-Armstrong"
     },
     {
       "date": "2025-08-03",
@@ -58,20 +94,20 @@
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "RHPRyan Brasierchanged number to 54.",
-      "player": "Ryan Brasier"
+      "details": "LHPCaleb Thielbarchanged number to 24.",
+      "player": "Caleb Thielbar"
     },
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "RHPBen Brownchanged number to 32.",
-      "player": "Ben Brown"
+      "details": "RFKyle Tuckerchanged number to 30.",
+      "player": "Kyle Tucker"
     },
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "2BNico Hoernerchanged number to 2.",
-      "player": "Nico Hoerner"
+      "details": "1BJustin Turnerchanged number to 3.",
+      "player": "Justin Turner"
     },
     {
       "date": "2025-08-03",
@@ -112,56 +148,32 @@
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "3BJon Bertichanged number to 5.",
-      "player": "Jon Berti"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "LHPMatthew Boydchanged number to 16.",
-      "player": "Matthew Boyd"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "CCarson Kellychanged number to 15.",
-      "player": "Carson Kelly"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "CFPete Crow-Armstrongchanged number to 4.",
-      "player": "Pete Crow-Armstrong"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "RHPMichael Sorokachanged number to 41.",
-      "player": "Michael Soroka"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
       "details": "SSDansby Swansonchanged number to 7.",
       "player": "Dansby Swanson"
     },
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "LHPCaleb Thielbarchanged number to 24.",
-      "player": "Caleb Thielbar"
+      "details": "LHPShota Imanagachanged number to 18.",
+      "player": "Shota Imanaga"
     },
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "RFKyle Tuckerchanged number to 30.",
-      "player": "Kyle Tucker"
+      "details": "3BJon Bertichanged number to 5.",
+      "player": "Jon Berti"
     },
     {
       "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "1BJustin Turnerchanged number to 3.",
-      "player": "Justin Turner"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded LHPJohn RooneytoHouston Astrosfor cash.",
+      "player": "John Rooney"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPLuis Contrerasto Sugar Land Space Cowboys.",
+      "player": "Luis Contreras"
     }
   ]
 }
