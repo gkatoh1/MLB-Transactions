@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-03T08:33:38.320755",
+  "last_updated": "2025-08-03T09:27:47.956514",
   "transactions": [
     {
       "date": "2025-08-03",
@@ -24,12 +24,6 @@
       "team": "Unknown Team",
       "details": "1BMichael Buschchanged number to 29.",
       "player": "Michael Busch"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "2BNico Hoernerchanged number to 2.",
-      "player": "Nico Hoerner"
     },
     {
       "date": "2025-08-03",
@@ -64,48 +58,6 @@
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "LHPCaleb Thielbarchanged number to 24.",
-      "player": "Caleb Thielbar"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "RFKyle Tuckerchanged number to 30.",
-      "player": "Kyle Tucker"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "1BJustin Turnerchanged number to 3.",
-      "player": "Justin Turner"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "CFPete Crow-Armstrongchanged number to 4.",
-      "player": "Pete Crow-Armstrong"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "RHPMichael Sorokachanged number to 41.",
-      "player": "Michael Soroka"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "RHPDaniel Palenciachanged number to 48.",
-      "player": "Daniel Palencia"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "SSDansby Swansonchanged number to 7.",
-      "player": "Dansby Swanson"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
       "details": "RHPRyan Brasierchanged number to 54.",
       "player": "Ryan Brasier"
     },
@@ -118,6 +70,12 @@
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
+      "details": "2BNico Hoernerchanged number to 2.",
+      "player": "Nico Hoerner"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
       "details": "CReese McGuirechanged number to 20.",
       "player": "Reese McGuire"
     },
@@ -126,6 +84,12 @@
       "team": "Unknown Team",
       "details": "LHPDrew Pomeranzchanged number to 45.",
       "player": "Drew Pomeranz"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "RHPDaniel Palenciachanged number to 48.",
+      "player": "Daniel Palencia"
     },
     {
       "date": "2025-08-03",
@@ -162,6 +126,42 @@
       "team": "Unknown Team",
       "details": "CCarson Kellychanged number to 15.",
       "player": "Carson Kelly"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "CFPete Crow-Armstrongchanged number to 4.",
+      "player": "Pete Crow-Armstrong"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "RHPMichael Sorokachanged number to 41.",
+      "player": "Michael Soroka"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "SSDansby Swansonchanged number to 7.",
+      "player": "Dansby Swanson"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "LHPCaleb Thielbarchanged number to 24.",
+      "player": "Caleb Thielbar"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "RFKyle Tuckerchanged number to 30.",
+      "player": "Kyle Tucker"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "1BJustin Turnerchanged number to 3.",
+      "player": "Justin Turner"
     }
   ]
 }
