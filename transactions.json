@@ -1,29 +1,23 @@
 {
-  "last_updated": "2025-08-03T13:37:43.923732",
+  "last_updated": "2025-08-03T14:24:40.874493",
   "transactions": [
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "RHPMichael Sorokachanged number to 41.",
-      "player": "Michael Soroka"
+      "details": "LHPTaylor Rogerschanged number to 17.",
+      "player": "Taylor Rogers"
     },
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "LFIan Happchanged number to 8.",
-      "player": "Ian Happ"
+      "details": "LHPShota Imanagachanged number to 18.",
+      "player": "Shota Imanaga"
     },
     {
       "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "RHPRyan Brasierchanged number to 54.",
-      "player": "Ryan Brasier"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "RHPBen Brownchanged number to 32.",
-      "player": "Ben Brown"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced RHPJacob Misiorowskion the 15-day injured list retroactive to July 31, 2025. Left tibia contusion.",
+      "player": "Jacob Misiorowski"
     },
     {
       "date": "2025-08-03",
@@ -39,6 +33,12 @@
     },
     {
       "date": "2025-08-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated 2BTerrin Vavrafor assignment.",
+      "player": "Terrin Vavra"
+    },
+    {
+      "date": "2025-08-03",
       "team": "Unknown Team",
       "details": "2BNico Hoernerchanged number to 2.",
       "player": "Nico Hoerner"
@@ -46,38 +46,8 @@
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "LHPMatthew Boydchanged number to 16.",
-      "player": "Matthew Boyd"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "CCarson Kellychanged number to 15.",
-      "player": "Carson Kelly"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "CFPete Crow-Armstrongchanged number to 4.",
-      "player": "Pete Crow-Armstrong"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "LFWilli Castrochanged number to 1.",
-      "player": "Willi Castro"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "RHPCade Hortonchanged number to 22.",
-      "player": "Cade Horton"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "LHPTaylor Rogerschanged number to 17.",
-      "player": "Taylor Rogers"
+      "details": "LFIan Happchanged number to 8.",
+      "player": "Ian Happ"
     },
     {
       "date": "2025-08-03",
@@ -112,14 +82,14 @@
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "CReese McGuirechanged number to 20.",
-      "player": "Reese McGuire"
+      "details": "RHPColin Reachanged number to 53.",
+      "player": "Colin Rea"
     },
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "LHPDrew Pomeranzchanged number to 45.",
-      "player": "Drew Pomeranz"
+      "details": "SSDansby Swansonchanged number to 7.",
+      "player": "Dansby Swanson"
     },
     {
       "date": "2025-08-03",
@@ -130,8 +100,26 @@
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "RHPColin Reachanged number to 53.",
-      "player": "Colin Rea"
+      "details": "CFPete Crow-Armstrongchanged number to 4.",
+      "player": "Pete Crow-Armstrong"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "RHPMichael Sorokachanged number to 41.",
+      "player": "Michael Soroka"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "CReese McGuirechanged number to 20.",
+      "player": "Reese McGuire"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "LHPDrew Pomeranzchanged number to 45.",
+      "player": "Drew Pomeranz"
     },
     {
       "date": "2025-08-03",
@@ -148,20 +136,50 @@
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "SSDansby Swansonchanged number to 7.",
-      "player": "Dansby Swanson"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "LHPShota Imanagachanged number to 18.",
-      "player": "Shota Imanaga"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
       "details": "3BJon Bertichanged number to 5.",
       "player": "Jon Berti"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "LHPMatthew Boydchanged number to 16.",
+      "player": "Matthew Boyd"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "CCarson Kellychanged number to 15.",
+      "player": "Carson Kelly"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPJosé Urquidyon a rehab assignment to Lakeland Flying Tigers.",
+      "player": "José Urquidy"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "RHPRyan Brasierchanged number to 54.",
+      "player": "Ryan Brasier"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "RHPBen Brownchanged number to 32.",
+      "player": "Ben Brown"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "LFWilli Castrochanged number to 1.",
+      "player": "Willi Castro"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "RHPCade Hortonchanged number to 22.",
+      "player": "Cade Horton"
     },
     {
       "date": "2025-08-03",
@@ -171,9 +189,33 @@
     },
     {
       "date": "2025-08-03",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned LFWill Bensonto Louisville Bats.",
+      "player": "Will Benson"
+    },
+    {
+      "date": "2025-08-03",
       "team": "Houston Astros",
       "details": "Houston Astrosoptioned RHPLuis Contrerasto Sugar Land Space Cowboys.",
       "player": "Luis Contreras"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPLogan Hendersonfrom Nashville Sounds.",
+      "player": "Logan Henderson"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled 1BRyan Nodafrom Norfolk Tides.",
+      "player": "Ryan Noda"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPLyon Richardsonfrom Louisville Bats.",
+      "player": "Lyon Richardson"
     }
   ]
 }
