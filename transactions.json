@@ -1,17 +1,23 @@
 {
-  "last_updated": "2025-08-03T18:38:11.476662",
+  "last_updated": "2025-08-03T19:21:54.917243",
   "transactions": [
-    {
-      "date": "2025-08-03",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced RHPSteven Cruzon the 15-day injured list. Right shoulder impingement.",
-      "player": "Steven Cruz"
-    },
     {
       "date": "2025-08-03",
       "team": "Chicago Cubs",
       "details": "Chicago Cubssent RHPJameson Taillonon a rehab assignment to Iowa Cubs.",
       "player": "Jameson Taillon"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "LFWilli Castrochanged number to 1.",
+      "player": "Willi Castro"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "RHPCade Hortonchanged number to 22.",
+      "player": "Cade Horton"
     },
     {
       "date": "2025-08-03",
@@ -48,6 +54,30 @@
       "team": "Unknown Team",
       "details": "1BJustin Turnerchanged number to 3.",
       "player": "Justin Turner"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "CReese McGuirechanged number to 20.",
+      "player": "Reese McGuire"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "LHPDrew Pomeranzchanged number to 45.",
+      "player": "Drew Pomeranz"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPSteven Cruzon the 15-day injured list. Right shoulder impingement.",
+      "player": "Steven Cruz"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "RHPDaniel Palenciachanged number to 48.",
+      "player": "Daniel Palencia"
     },
     {
       "date": "2025-08-03",
@@ -111,39 +141,27 @@
     },
     {
       "date": "2025-08-03",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated 2BTerrin Vavrafor assignment.",
-      "player": "Terrin Vavra"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPSeth Halvorsenon the 15-day injured list. Right elbow strain.",
+      "player": "Seth Halvorsen"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated LHPNestor Cortesfrom the 60-day injured list.",
+      "player": "Nestor Cortes"
     },
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "CReese McGuirechanged number to 20.",
-      "player": "Reese McGuire"
+      "details": "2BNico Hoernerchanged number to 2.",
+      "player": "Nico Hoerner"
     },
     {
       "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "LHPDrew Pomeranzchanged number to 45.",
-      "player": "Drew Pomeranz"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "LHPShota Imanagachanged number to 18.",
-      "player": "Shota Imanaga"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced RHPJacob Misiorowskion the 15-day injured list retroactive to July 31, 2025. Left tibia contusion.",
-      "player": "Jacob Misiorowski"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "RHPDaniel Palenciachanged number to 48.",
-      "player": "Daniel Palencia"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated CAlejandro Kirkfrom the 7-day injured list.",
+      "player": "Alejandro Kirk"
     },
     {
       "date": "2025-08-03",
@@ -162,60 +180,6 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent RHPKyle Bradishon a rehab assignment to Norfolk Tides.",
       "player": "Kyle Bradish"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced RHPSeth Halvorsenon the 15-day injured list. Right elbow strain.",
-      "player": "Seth Halvorsen"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresactivated LHPNestor Cortesfrom the 60-day injured list.",
-      "player": "Nestor Cortes"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "LFIan Happchanged number to 8.",
-      "player": "Ian Happ"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "RHPRyan Brasierchanged number to 54.",
-      "player": "Ryan Brasier"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "RHPBen Brownchanged number to 32.",
-      "player": "Ben Brown"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated RHPRico Garciafor assignment.",
-      "player": "Rico Garcia"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "CFPete Crow-Armstrongchanged number to 4.",
-      "player": "Pete Crow-Armstrong"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "RHPMichael Sorokachanged number to 41.",
-      "player": "Michael Soroka"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced 3BMiguel Vargason the 10-day injured list retroactive to August 2, 2025. Left oblique strain.",
-      "player": "Miguel Vargas"
     },
     {
       "date": "2025-08-03",
@@ -244,14 +208,62 @@
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "2BNico Hoernerchanged number to 2.",
-      "player": "Nico Hoerner"
+      "details": "LFIan Happchanged number to 8.",
+      "player": "Ian Happ"
     },
     {
       "date": "2025-08-03",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated CAlejandro Kirkfrom the 7-day injured list.",
-      "player": "Alejandro Kirk"
+      "team": "Unknown Team",
+      "details": "RHPRyan Brasierchanged number to 54.",
+      "player": "Ryan Brasier"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "RHPBen Brownchanged number to 32.",
+      "player": "Ben Brown"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPRico Garciafor assignment.",
+      "player": "Rico Garcia"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "LHPShota Imanagachanged number to 18.",
+      "player": "Shota Imanaga"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced RHPJacob Misiorowskion the 15-day injured list retroactive to July 31, 2025. Left tibia contusion.",
+      "player": "Jacob Misiorowski"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "CFPete Crow-Armstrongchanged number to 4.",
+      "player": "Pete Crow-Armstrong"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "RHPMichael Sorokachanged number to 41.",
+      "player": "Michael Soroka"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced 3BMiguel Vargason the 10-day injured list retroactive to August 2, 2025. Left oblique strain.",
+      "player": "Miguel Vargas"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated 2BTerrin Vavrafor assignment.",
+      "player": "Terrin Vavra"
     },
     {
       "date": "2025-08-03",
@@ -261,45 +273,33 @@
     },
     {
       "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "LFWilli Castrochanged number to 1.",
-      "player": "Willi Castro"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "RHPCade Hortonchanged number to 22.",
-      "player": "Cade Horton"
-    },
-    {
-      "date": "2025-08-03",
       "team": "Washington Nationals",
       "details": "Washington Nationalsclaimed LHPPJ Poulinoff waivers fromDetroit Tigers.",
       "player": "PJ Poulin"
     },
     {
       "date": "2025-08-03",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxclaimed RHPElvis Peguerooff waivers fromMilwaukee Brewers.",
-      "player": "Elvis Peguero"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned 1BMichael Togliato Albuquerque Isotopes.",
-      "player": "Michael Toglia"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPElvis Pegueroto Charlotte Knights.",
-      "player": "Elvis Peguero"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed RHPCarson Ragsdaleoff waivers fromSan Francisco Giants.",
+      "player": "Carson Ragsdale"
     },
     {
       "date": "2025-08-03",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned LFWill Bensonto Louisville Bats.",
-      "player": "Will Benson"
+      "details": "Cincinnati Redsrecalled RHPLyon Richardsonfrom Louisville Bats.",
+      "player": "Lyon Richardson"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded LHPJohn RooneytoHouston Astrosfor cash.",
+      "player": "John Rooney"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
+      "player": "Austin Warren"
     }
   ]
 }
