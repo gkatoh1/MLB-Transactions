@@ -1,77 +1,35 @@
 {
-  "last_updated": "2025-08-03T15:27:09.091727",
+  "last_updated": "2025-08-03T16:33:06.984218",
   "transactions": [
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "RHPBrad Kellerchanged number to 40.",
-      "player": "Brad Keller"
+      "details": "CFPete Crow-Armstrongchanged number to 4.",
+      "player": "Pete Crow-Armstrong"
     },
     {
       "date": "2025-08-03",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced RHPJacob Misiorowskion the 15-day injured list retroactive to July 31, 2025. Left tibia contusion.",
-      "player": "Jacob Misiorowski"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "CReese McGuirechanged number to 20.",
-      "player": "Reese McGuire"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPShane Bieberon a rehab assignment to Buffalo Bisons.",
+      "player": "Shane Bieber"
     },
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "LHPDrew Pomeranzchanged number to 45.",
-      "player": "Drew Pomeranz"
+      "details": "1BMichael Buschchanged number to 29.",
+      "player": "Michael Busch"
     },
     {
       "date": "2025-08-03",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent RHPChase Shugarton a rehab assignment to Bradenton Marauders.",
-      "player": "Chase Shugart"
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RHPLuis Gilfrom the 60-day injured list.",
+      "player": "Luis Gil"
     },
     {
       "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "SSDansby Swansonchanged number to 7.",
-      "player": "Dansby Swanson"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced RHPSteven Cruzon the 15-day injured list. Right shoulder impingement.",
-      "player": "Steven Cruz"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "3BJon Bertichanged number to 5.",
-      "player": "Jon Berti"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "LHPMatthew Boydchanged number to 16.",
-      "player": "Matthew Boyd"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "CCarson Kellychanged number to 15.",
-      "player": "Carson Kelly"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RHPJosé Urquidyon a rehab assignment to Lakeland Flying Tigers.",
-      "player": "José Urquidy"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "LFIan Happchanged number to 8.",
-      "player": "Ian Happ"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPSeth Halvorsenon the 15-day injured list. Right elbow strain.",
+      "player": "Seth Halvorsen"
     },
     {
       "date": "2025-08-03",
@@ -93,33 +51,75 @@
     },
     {
       "date": "2025-08-03",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated LHPDaniel Lynch IVfrom the 15-day injured list.",
+      "player": "Daniel Lynch IV"
+    },
+    {
+      "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "CFPete Crow-Armstrongchanged number to 4.",
-      "player": "Pete Crow-Armstrong"
+      "details": "RHPBrad Kellerchanged number to 40.",
+      "player": "Brad Keller"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "RHPAndrew Kittredgechanged number to 59.",
+      "player": "Andrew Kittredge"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent RHPChase Shugarton a rehab assignment to Bradenton Marauders.",
+      "player": "Chase Shugart"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "RHPDaniel Palenciachanged number to 48.",
+      "player": "Daniel Palencia"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "SSDansby Swansonchanged number to 7.",
+      "player": "Dansby Swanson"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPKyle Bradishon a rehab assignment to Norfolk Tides.",
+      "player": "Kyle Bradish"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "LFIan Happchanged number to 8.",
+      "player": "Ian Happ"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Unknown Team",
+      "details": "LHPShota Imanagachanged number to 18.",
+      "player": "Shota Imanaga"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced RHPJacob Misiorowskion the 15-day injured list retroactive to July 31, 2025. Left tibia contusion.",
+      "player": "Jacob Misiorowski"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPSteven Cruzon the 15-day injured list. Right shoulder impingement.",
+      "player": "Steven Cruz"
     },
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
       "details": "RHPMichael Sorokachanged number to 41.",
       "player": "Michael Soroka"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPShane Bieberon a rehab assignment to Buffalo Bisons.",
-      "player": "Shane Bieber"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Unknown Team",
-      "details": "1BMichael Buschchanged number to 29.",
-      "player": "Michael Busch"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated RHPLuis Gilfrom the 60-day injured list.",
-      "player": "Luis Gil"
     },
     {
       "date": "2025-08-03",
@@ -184,14 +184,14 @@
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "RHPDaniel Palenciachanged number to 48.",
-      "player": "Daniel Palencia"
+      "details": "CReese McGuirechanged number to 20.",
+      "player": "Reese McGuire"
     },
     {
       "date": "2025-08-03",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated LHPDaniel Lynch IVfrom the 15-day injured list.",
-      "player": "Daniel Lynch IV"
+      "team": "Unknown Team",
+      "details": "LHPDrew Pomeranzchanged number to 45.",
+      "player": "Drew Pomeranz"
     },
     {
       "date": "2025-08-03",
@@ -208,20 +208,32 @@
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "LHPShota Imanagachanged number to 18.",
-      "player": "Shota Imanaga"
+      "details": "3BJon Bertichanged number to 5.",
+      "player": "Jon Berti"
     },
     {
       "date": "2025-08-03",
       "team": "Unknown Team",
-      "details": "RHPAndrew Kittredgechanged number to 59.",
-      "player": "Andrew Kittredge"
+      "details": "LHPMatthew Boydchanged number to 16.",
+      "player": "Matthew Boyd"
     },
     {
       "date": "2025-08-03",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPHurston Waldrepfrom Gwinnett Stripers.",
-      "player": "Hurston Waldrep"
+      "team": "Unknown Team",
+      "details": "CCarson Kellychanged number to 15.",
+      "player": "Carson Kelly"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPJosé Urquidyon a rehab assignment to Lakeland Flying Tigers.",
+      "player": "José Urquidy"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPNick Andersonfrom Albuquerque Isotopes.",
+      "player": "Nick Anderson"
     },
     {
       "date": "2025-08-03",
@@ -232,20 +244,20 @@
     {
       "date": "2025-08-03",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPLyon Richardsonfrom Louisville Bats.",
-      "player": "Lyon Richardson"
-    },
-    {
-      "date": "2025-08-03",
-      "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned LFWill Bensonto Louisville Bats.",
       "player": "Will Benson"
     },
     {
       "date": "2025-08-03",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled 1BRyan Nodafrom Norfolk Tides.",
-      "player": "Ryan Noda"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPLyon Richardsonfrom Louisville Bats.",
+      "player": "Lyon Richardson"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned 1BMichael Togliato Albuquerque Isotopes.",
+      "player": "Michael Toglia"
     },
     {
       "date": "2025-08-03",
@@ -261,6 +273,18 @@
     },
     {
       "date": "2025-08-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPHurston Waldrepfrom Gwinnett Stripers.",
+      "player": "Hurston Waldrep"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled CBraxton Fulfordfrom Albuquerque Isotopes.",
+      "player": "Braxton Fulford"
+    },
+    {
+      "date": "2025-08-03",
       "team": "Houston Astros",
       "details": "Houston Astrosoptioned RHPLuis Contrerasto Sugar Land Space Cowboys.",
       "player": "Luis Contreras"
@@ -270,6 +294,12 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned SSJonathan Ornelasto Gwinnett Stripers.",
       "player": "Jonathan Ornelas"
+    },
+    {
+      "date": "2025-08-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled 1BRyan Nodafrom Norfolk Tides.",
+      "player": "Ryan Noda"
     }
   ]
 }
