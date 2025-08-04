@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-08-04T15:32:11.584078",
+  "last_updated": "2025-08-04T16:38:23.564690",
   "transactions": [
-    {
-      "date": "2025-08-04",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPLyon Richardsonto Louisville Bats.",
-      "player": "Lyon Richardson"
-    },
     {
       "date": "2025-08-04",
       "team": "Miami Marlins",
@@ -18,6 +12,12 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPHurston Waldrepto Gwinnett Stripers.",
       "player": "Hurston Waldrep"
+    },
+    {
+      "date": "2025-08-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPLyon Richardsonto Louisville Bats.",
+      "player": "Lyon Richardson"
     }
   ]
 }
