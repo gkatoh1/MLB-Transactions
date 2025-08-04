@@ -1,17 +1,23 @@
 {
-  "last_updated": "2025-08-04T22:28:37.898595",
+  "last_updated": "2025-08-04T23:27:36.800385",
   "transactions": [
+    {
+      "date": "2025-08-04",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated CFDerek Hillfrom the 10-day injured list.",
+      "player": "Derek Hill"
+    },
+    {
+      "date": "2025-08-04",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated RFJerar Encarnacionfrom the 10-day injured list.",
+      "player": "Jerar Encarnacion"
+    },
     {
       "date": "2025-08-04",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksplaced RHPKevin Ginkelon the 15-day injured list retroactive to August 3, 2025. Right shoulder sprain.",
       "player": "Kevin Ginkel"
-    },
-    {
-      "date": "2025-08-04",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced RHPSimeon Woods Richardsonon the 15-day injured list retroactive to August 1, 2025. Illness.",
-      "player": "Simeon Woods Richardson"
     },
     {
       "date": "2025-08-04",
@@ -58,26 +64,32 @@
     {
       "date": "2025-08-04",
       "team": "Miami Marlins",
-      "details": "Miami Marlinsactivated CFDerek Hillfrom the 10-day injured list.",
-      "player": "Derek Hill"
-    },
-    {
-      "date": "2025-08-04",
-      "team": "Miami Marlins",
       "details": "Miami Marlinsdesignated 2BJack Winklerfor assignment.",
       "player": "Jack Winkler"
-    },
-    {
-      "date": "2025-08-04",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsactivated RFJerar Encarnacionfrom the 10-day injured list.",
-      "player": "Jerar Encarnacion"
     },
     {
       "date": "2025-08-04",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesdesignated LHPGénesis Cabrerafor assignment.",
       "player": "Génesis Cabrera"
+    },
+    {
+      "date": "2025-08-04",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPSimeon Woods Richardsonon the 15-day injured list retroactive to August 1, 2025. Illness.",
+      "player": "Simeon Woods Richardson"
+    },
+    {
+      "date": "2025-08-04",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPHurston Waldrepto Gwinnett Stripers.",
+      "player": "Hurston Waldrep"
+    },
+    {
+      "date": "2025-08-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPLyon Richardsonto Louisville Bats.",
+      "player": "Lyon Richardson"
     },
     {
       "date": "2025-08-04",
@@ -93,33 +105,21 @@
     },
     {
       "date": "2025-08-04",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RFJarred Kelenicto Gwinnett Stripers.",
-      "player": "Jarred Kelenic"
-    },
-    {
-      "date": "2025-08-04",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPLyon Richardsonto Louisville Bats.",
-      "player": "Lyon Richardson"
-    },
-    {
-      "date": "2025-08-04",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned RHPHouston Rothto Norfolk Tides.",
       "player": "Houston Roth"
     },
     {
       "date": "2025-08-04",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysclaimed RHPJesse Scholtensoff waivers fromChicago White Sox.",
-      "player": "Jesse Scholtens"
-    },
-    {
-      "date": "2025-08-04",
       "team": "Miami Marlins",
       "details": "Miami Marlinsoptioned LFJoey Wiemerto Jacksonville Jumbo Shrimp.",
       "player": "Joey Wiemer"
+    },
+    {
+      "date": "2025-08-04",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysclaimed RHPJesse Scholtensoff waivers fromChicago White Sox.",
+      "player": "Jesse Scholtens"
     },
     {
       "date": "2025-08-04",
@@ -144,6 +144,12 @@
       "team": "New York Mets",
       "details": "New York Metsselected the contract of RHPDom Hamelfrom Syracuse Mets.",
       "player": "Dom Hamel"
+    },
+    {
+      "date": "2025-08-04",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RFJarred Kelenicto Gwinnett Stripers.",
+      "player": "Jarred Kelenic"
     },
     {
       "date": "2025-08-04",
@@ -177,12 +183,6 @@
     },
     {
       "date": "2025-08-04",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsselected the contract of RHPDarren McCaughanfrom St. Paul Saints.",
-      "player": "Darren McCaughan"
-    },
-    {
-      "date": "2025-08-04",
       "team": "Miami Marlins",
       "details": "Miami Marlinsclaimed LFJoey Wiemeroff waivers fromKansas City Royals.",
       "player": "Joey Wiemer"
@@ -192,6 +192,12 @@
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsoptioned RFLuis Matosto Sacramento River Cats.",
       "player": "Luis Matos"
+    },
+    {
+      "date": "2025-08-04",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent CMatt Thaissoutright to Durham Bulls.",
+      "player": "Matt Thaiss"
     },
     {
       "date": "2025-08-04",
@@ -207,21 +213,27 @@
     },
     {
       "date": "2025-08-04",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPHurston Waldrepto Gwinnett Stripers.",
-      "player": "Hurston Waldrep"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsclaimed LHPAnthony Venezianooff waivers fromMiami Marlins.",
+      "player": "Anthony Veneziano"
     },
     {
       "date": "2025-08-04",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent CMatt Thaissoutright to Durham Bulls.",
-      "player": "Matt Thaiss"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded RHPAustin RobertstoMilwaukee Brewersfor cash.",
+      "player": "Austin Roberts"
     },
     {
       "date": "2025-08-04",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsoptioned LHPAnthony Venezianoto Memphis Redbirds.",
       "player": "Anthony Veneziano"
+    },
+    {
+      "date": "2025-08-04",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsselected the contract of RHPDarren McCaughanfrom St. Paul Saints.",
+      "player": "Darren McCaughan"
     },
     {
       "date": "2025-08-04",
@@ -234,18 +246,6 @@
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelssent LHPJosé Quijadaoutright to Salt Lake Bees.",
       "player": "José Quijada"
-    },
-    {
-      "date": "2025-08-04",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinstraded RHPAustin RobertstoMilwaukee Brewersfor cash.",
-      "player": "Austin Roberts"
-    },
-    {
-      "date": "2025-08-04",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsclaimed LHPAnthony Venezianooff waivers fromMiami Marlins.",
-      "player": "Anthony Veneziano"
     }
   ]
 }
