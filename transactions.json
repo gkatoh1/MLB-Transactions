@@ -1,17 +1,23 @@
 {
-  "last_updated": "2025-08-04T14:32:17.419300",
+  "last_updated": "2025-08-04T15:32:11.584078",
   "transactions": [
-    {
-      "date": "2025-08-04",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPHurston Waldrepto Gwinnett Stripers.",
-      "player": "Hurston Waldrep"
-    },
     {
       "date": "2025-08-04",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned RHPLyon Richardsonto Louisville Bats.",
       "player": "Lyon Richardson"
+    },
+    {
+      "date": "2025-08-04",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded RHPAustin RobertstoMilwaukee Brewersfor cash.",
+      "player": "Austin Roberts"
+    },
+    {
+      "date": "2025-08-04",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPHurston Waldrepto Gwinnett Stripers.",
+      "player": "Hurston Waldrep"
     }
   ]
 }
