@@ -1,35 +1,11 @@
 {
-  "last_updated": "2025-08-05T22:28:42.191915",
+  "last_updated": "2025-08-05T23:28:07.233419",
   "transactions": [
     {
       "date": "2025-08-05",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsdesignated RHPDarren McCaughanfor assignment.",
-      "player": "Darren McCaughan"
-    },
-    {
-      "date": "2025-08-05",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced RHPMichael Sorokaon the 15-day injured list. Right shoulder strain.",
-      "player": "Michael Soroka"
-    },
-    {
-      "date": "2025-08-05",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxdesignated RHPJorge Alcalafor assignment.",
-      "player": "Jorge Alcala"
-    },
-    {
-      "date": "2025-08-05",
       "team": "New York Yankees",
-      "details": "New York Yankeesdesignated RHPJT Brubakerfor assignment.",
-      "player": "JT Brubaker"
-    },
-    {
-      "date": "2025-08-05",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent RHPChase Shugarton a rehab assignment to Indianapolis Indians.",
-      "player": "Chase Shugart"
+      "details": "New York Yankeesactivated RHPMark Leiter Jr.from the 15-day injured list.",
+      "player": "Mark Leiter Jr."
     },
     {
       "date": "2025-08-05",
@@ -39,21 +15,39 @@
     },
     {
       "date": "2025-08-05",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated LHPPJ Poulin.",
-      "player": "PJ Poulin"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent RHPMatt Stilto a minor league contract.",
+      "player": "Matt Stil"
     },
     {
       "date": "2025-08-05",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent RHPChase Shugarton a rehab assignment to Indianapolis Indians.",
-      "player": "Chase Shugart"
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RFAaron Judgefrom the 10-day injured list.",
+      "player": "Aaron Judge"
     },
     {
       "date": "2025-08-05",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent RHPShelby Milleron a rehab assignment to Nashville Sounds.",
-      "player": "Shelby Miller"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent RHPMichael Lorenzenon a rehab assignment to Northwest Arkansas Naturals.",
+      "player": "Michael Lorenzen"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPMichael Sorokaon the 15-day injured list. Right shoulder strain.",
+      "player": "Michael Soroka"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Athletics",
+      "details": "Athleticsplaced CAustin Wynnson the 10-day injured list retroactive to August 4, 2025. Abdominal strain.",
+      "player": "Austin Wynns"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced LFAustin Slateron the 10-day injured list. Left hamstring strain.",
+      "player": "Austin Slater"
     },
     {
       "date": "2025-08-05",
@@ -69,12 +63,6 @@
     },
     {
       "date": "2025-08-05",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated RHPMark Leiter Jr.from the 15-day injured list.",
-      "player": "Mark Leiter Jr."
-    },
-    {
-      "date": "2025-08-05",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsplaced LHPNick Lodoloon the 15-day injured list. Left finger blister.",
       "player": "Nick Lodolo"
@@ -87,15 +75,15 @@
     },
     {
       "date": "2025-08-05",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent 2BAndrés Giménezon a rehab assignment to Buffalo Bisons.",
-      "player": "Andrés Giménez"
-    },
-    {
-      "date": "2025-08-05",
       "team": "Texas Rangers",
       "details": "Texas Rangerssent 1BJake Burgeron a rehab assignment to Round Rock Express.",
       "player": "Jake Burger"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxdesignated RHPJorge Alcalafor assignment.",
+      "player": "Jorge Alcala"
     },
     {
       "date": "2025-08-05",
@@ -111,6 +99,36 @@
     },
     {
       "date": "2025-08-05",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated LHPPJ Poulin.",
+      "player": "PJ Poulin"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "New York Yankees",
+      "details": "New York Yankeesdesignated RHPJT Brubakerfor assignment.",
+      "player": "JT Brubaker"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPShelby Milleron a rehab assignment to Nashville Sounds.",
+      "player": "Shelby Miller"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent 2BAndrés Giménezon a rehab assignment to Buffalo Bisons.",
+      "player": "Andrés Giménez"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsdesignated RHPDarren McCaughanfor assignment.",
+      "player": "Darren McCaughan"
+    },
+    {
+      "date": "2025-08-05",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysdesignated CAli Sánchezfor assignment.",
       "player": "Ali Sánchez"
@@ -123,27 +141,69 @@
     },
     {
       "date": "2025-08-05",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated RFAaron Judgefrom the 10-day injured list.",
-      "player": "Aaron Judge"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent RHPChase Shugarton a rehab assignment to Indianapolis Indians.",
+      "player": "Chase Shugart"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPShelby Milleron a rehab assignment to Nashville Sounds.",
+      "player": "Shelby Miller"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent RHPChase Shugarton a rehab assignment to Indianapolis Indians.",
+      "player": "Chase Shugart"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled RHPSean Reynoldsfrom El Paso Chihuahuas.",
+      "player": "Sean Reynolds"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsclaimed RHPBrooks Kriskeoff waivers fromChicago Cubs.",
+      "player": "Brooks Kriske"
     },
     {
       "date": "2025-08-05",
       "team": "New York Yankees",
-      "details": "New York Yankeesplaced LFAustin Slateron the 10-day injured list. Left hamstring strain.",
-      "player": "Austin Slater"
+      "details": "New York Yankeesrecalled RHPYerry De los Santosfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Yerry De los Santos"
     },
     {
       "date": "2025-08-05",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssigned free agent RHPMatt Stilto a minor league contract.",
-      "player": "Matt Stil"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPYosver Zuluetafrom Louisville Bats.",
+      "player": "Yosver Zulueta"
     },
     {
       "date": "2025-08-05",
-      "team": "Athletics",
-      "details": "Athleticsplaced CAustin Wynnson the 10-day injured list retroactive to August 4, 2025. Abdominal strain.",
-      "player": "Austin Wynns"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPSeth Johnsonto Lehigh Valley IronPigs.",
+      "player": "Seth Johnson"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LHPJohn Rooneyto Sugar Land Space Cowboys.",
+      "player": "John Rooney"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPNate Pearsonfrom Iowa Cubs.",
+      "player": "Nate Pearson"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled OFNiko Kavadasfrom Salt Lake Bees.",
+      "player": "Niko Kavadas"
     },
     {
       "date": "2025-08-05",
@@ -159,69 +219,15 @@
     },
     {
       "date": "2025-08-05",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned LHPCarson Palmquistto Albuquerque Isotopes.",
-      "player": "Carson Palmquist"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned LHPJP Searsto El Paso Chihuahuas.",
+      "player": "JP Sears"
     },
     {
       "date": "2025-08-05",
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned RHPRyan Loutosto Rochester Red Wings.",
       "player": "Ryan Loutos"
-    },
-    {
-      "date": "2025-08-05",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPJohan Oviedoto Indianapolis Indians.",
-      "player": "Johan Oviedo"
-    },
-    {
-      "date": "2025-08-05",
-      "team": "Athletics",
-      "details": "Athleticsrecalled CWillie MacIverfrom Las Vegas Aviators.",
-      "player": "Willie MacIver"
-    },
-    {
-      "date": "2025-08-05",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPIsaiah Campbellfrom Worcester Red Sox.",
-      "player": "Isaiah Campbell"
-    },
-    {
-      "date": "2025-08-05",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled RHPAJ Blubaughfrom Sugar Land Space Cowboys.",
-      "player": "AJ Blubaugh"
-    },
-    {
-      "date": "2025-08-05",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPJake Birdto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jake Bird"
-    },
-    {
-      "date": "2025-08-05",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned CFDaShawn Keirsey Jr.to St. Paul Saints.",
-      "player": "DaShawn Keirsey Jr."
-    },
-    {
-      "date": "2025-08-05",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsrecalled OFNiko Kavadasfrom Salt Lake Bees.",
-      "player": "Niko Kavadas"
-    },
-    {
-      "date": "2025-08-05",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPAnthony Molinafrom Albuquerque Isotopes.",
-      "player": "Anthony Molina"
-    },
-    {
-      "date": "2025-08-05",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsclaimed RHPBrooks Kriskeoff waivers fromChicago Cubs.",
-      "player": "Brooks Kriske"
     },
     {
       "date": "2025-08-05",
@@ -243,6 +249,12 @@
     },
     {
       "date": "2025-08-05",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPAnthony Molinafrom Albuquerque Isotopes.",
+      "player": "Anthony Molina"
+    },
+    {
+      "date": "2025-08-05",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesselected the contract of RHPCam Sandersfrom Indianapolis Indians.",
       "player": "Cam Sanders"
@@ -255,15 +267,21 @@
     },
     {
       "date": "2025-08-05",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPYerry De los Santosfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Yerry De los Santos"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPIsaiah Campbellfrom Worcester Red Sox.",
+      "player": "Isaiah Campbell"
     },
     {
       "date": "2025-08-05",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPYosver Zuluetafrom Louisville Bats.",
-      "player": "Yosver Zulueta"
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPAJ Blubaughfrom Sugar Land Space Cowboys.",
+      "player": "AJ Blubaugh"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPJake Birdto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jake Bird"
     },
     {
       "date": "2025-08-05",
@@ -279,21 +297,9 @@
     },
     {
       "date": "2025-08-05",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPSeth Johnsonto Lehigh Valley IronPigs.",
-      "player": "Seth Johnson"
-    },
-    {
-      "date": "2025-08-05",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned LHPJohn Rooneyto Sugar Land Space Cowboys.",
-      "player": "John Rooney"
-    },
-    {
-      "date": "2025-08-05",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled RHPNate Pearsonfrom Iowa Cubs.",
-      "player": "Nate Pearson"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned CFDaShawn Keirsey Jr.to St. Paul Saints.",
+      "player": "DaShawn Keirsey Jr."
     }
   ]
 }
