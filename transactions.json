@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-08-05T17:27:04.300945",
+  "last_updated": "2025-08-05T18:44:05.415889",
   "transactions": [
+    {
+      "date": "2025-08-05",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPShelby Milleron a rehab assignment to Nashville Sounds.",
+      "player": "Shelby Miller"
+    },
     {
       "date": "2025-08-05",
       "team": "New York Yankees",
@@ -10,14 +16,14 @@
     {
       "date": "2025-08-05",
       "team": "New York Yankees",
-      "details": "New York Yankeesdesignated RHPJT Brubakerfor assignment.",
-      "player": "JT Brubaker"
+      "details": "New York Yankeesactivated RFAaron Judgefrom the 10-day injured list.",
+      "player": "Aaron Judge"
     },
     {
       "date": "2025-08-05",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated RFAaron Judgefrom the 10-day injured list.",
-      "player": "Aaron Judge"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated LHPPJ Poulin.",
+      "player": "PJ Poulin"
     },
     {
       "date": "2025-08-05",
@@ -28,14 +34,68 @@
     {
       "date": "2025-08-05",
       "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPYerry De los Santosfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Yerry De los Santos"
+      "details": "New York Yankeesdesignated RHPJT Brubakerfor assignment.",
+      "player": "JT Brubaker"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced LHPNick Lodoloon the 15-day injured list. Left finger blister.",
+      "player": "Nick Lodolo"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated RHPJoe Rossfrom the 15-day injured list.",
+      "player": "Joe Ross"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPYosver Zuluetafrom Louisville Bats.",
+      "player": "Yosver Zulueta"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPSeth Johnsonto Lehigh Valley IronPigs.",
+      "player": "Seth Johnson"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPRyan Loutosto Rochester Red Wings.",
+      "player": "Ryan Loutos"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Athletics",
+      "details": "Athleticsrecalled CWillie MacIverfrom Las Vegas Aviators.",
+      "player": "Willie MacIver"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPZach Brzykcyto Rochester Red Wings.",
+      "player": "Zach Brzykcy"
     },
     {
       "date": "2025-08-05",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPJake Birdto Scranton/Wilkes-Barre RailRiders.",
       "player": "Jake Bird"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPClayton Beeterfrom Rochester Red Wings.",
+      "player": "Clayton Beeter"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPYerry De los Santosfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Yerry De los Santos"
     }
   ]
 }
