@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-05T18:44:05.415889",
+  "last_updated": "2025-08-05T19:26:54.118349",
   "transactions": [
     {
       "date": "2025-08-05",
@@ -10,14 +10,32 @@
     {
       "date": "2025-08-05",
       "team": "New York Yankees",
-      "details": "New York Yankeesplaced LFAustin Slateron the 10-day injured list. Left hamstring strain.",
-      "player": "Austin Slater"
+      "details": "New York Yankeesactivated RFAaron Judgefrom the 10-day injured list.",
+      "player": "Aaron Judge"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced LHPNick Lodoloon the 15-day injured list. Left finger blister.",
+      "player": "Nick Lodolo"
     },
     {
       "date": "2025-08-05",
       "team": "New York Yankees",
-      "details": "New York Yankeesactivated RFAaron Judgefrom the 10-day injured list.",
-      "player": "Aaron Judge"
+      "details": "New York Yankeesdesignated RHPJT Brubakerfor assignment.",
+      "player": "JT Brubaker"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxdesignated RHPJorge Alcalafor assignment.",
+      "player": "Jorge Alcala"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated RHPJoe Rossfrom the 15-day injured list.",
+      "player": "Joe Ross"
     },
     {
       "date": "2025-08-05",
@@ -28,32 +46,32 @@
     {
       "date": "2025-08-05",
       "team": "New York Yankees",
+      "details": "New York Yankeesplaced LFAustin Slateron the 10-day injured list. Left hamstring strain.",
+      "player": "Austin Slater"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Athletics",
+      "details": "Athleticsplaced CAustin Wynnson the 10-day injured list retroactive to August 4, 2025. Abdominal strain.",
+      "player": "Austin Wynns"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "New York Yankees",
       "details": "New York Yankeesactivated RHPMark Leiter Jr.from the 15-day injured list.",
       "player": "Mark Leiter Jr."
     },
     {
       "date": "2025-08-05",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPRyan Loutosto Rochester Red Wings.",
+      "player": "Ryan Loutos"
+    },
+    {
+      "date": "2025-08-05",
       "team": "New York Yankees",
-      "details": "New York Yankeesdesignated RHPJT Brubakerfor assignment.",
-      "player": "JT Brubaker"
-    },
-    {
-      "date": "2025-08-05",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced LHPNick Lodoloon the 15-day injured list. Left finger blister.",
-      "player": "Nick Lodolo"
-    },
-    {
-      "date": "2025-08-05",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated RHPJoe Rossfrom the 15-day injured list.",
-      "player": "Joe Ross"
-    },
-    {
-      "date": "2025-08-05",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPYosver Zuluetafrom Louisville Bats.",
-      "player": "Yosver Zulueta"
+      "details": "New York Yankeesoptioned RHPJake Birdto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jake Bird"
     },
     {
       "date": "2025-08-05",
@@ -63,9 +81,9 @@
     },
     {
       "date": "2025-08-05",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPRyan Loutosto Rochester Red Wings.",
-      "player": "Ryan Loutos"
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LHPJohn Rooneyto Sugar Land Space Cowboys.",
+      "player": "John Rooney"
     },
     {
       "date": "2025-08-05",
@@ -81,12 +99,6 @@
     },
     {
       "date": "2025-08-05",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPJake Birdto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jake Bird"
-    },
-    {
-      "date": "2025-08-05",
       "team": "Washington Nationals",
       "details": "Washington Nationalsrecalled RHPClayton Beeterfrom Rochester Red Wings.",
       "player": "Clayton Beeter"
@@ -96,6 +108,24 @@
       "team": "New York Yankees",
       "details": "New York Yankeesrecalled RHPYerry De los Santosfrom Scranton/Wilkes-Barre RailRiders.",
       "player": "Yerry De los Santos"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPYosver Zuluetafrom Louisville Bats.",
+      "player": "Yosver Zulueta"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPIsaiah Campbellfrom Worcester Red Sox.",
+      "player": "Isaiah Campbell"
+    },
+    {
+      "date": "2025-08-05",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPAJ Blubaughfrom Sugar Land Space Cowboys.",
+      "player": "AJ Blubaugh"
     }
   ]
 }
