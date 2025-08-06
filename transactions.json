@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-08-06T18:40:13.384934",
+  "last_updated": "2025-08-06T19:24:51.349775",
   "transactions": [
-    {
-      "date": "2025-08-06",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPBrooks Kriske.",
-      "player": "Brooks Kriske"
-    },
     {
       "date": "2025-08-06",
       "team": "New York Mets",
       "details": "New York Metssent LHPBrandon Waddellon a rehab assignment to Syracuse Mets.",
       "player": "Brandon Waddell"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Athletics",
+      "details": "Athleticssent LHPBrady Bassoon a rehab assignment to Las Vegas Aviators.",
+      "player": "Brady Basso"
     },
     {
       "date": "2025-08-06",
@@ -21,9 +21,21 @@
     },
     {
       "date": "2025-08-06",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPBrooks Kriske.",
+      "player": "Brooks Kriske"
+    },
+    {
+      "date": "2025-08-06",
       "team": "Houston Astros",
       "details": "Houston Astrosactivated RHPSpencer Arrighettifrom the 60-day injured list.",
       "player": "Spencer Arrighetti"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPJack Littleto Indianapolis Indians.",
+      "player": "Jack Little"
     },
     {
       "date": "2025-08-06",
@@ -39,9 +51,9 @@
     },
     {
       "date": "2025-08-06",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPTyler Fergusonfrom Las Vegas Aviators.",
-      "player": "Tyler Ferguson"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled 2BAdael Amadorfrom Albuquerque Isotopes.",
+      "player": "Adael Amador"
     },
     {
       "date": "2025-08-06",
@@ -52,14 +64,20 @@
     {
       "date": "2025-08-06",
       "team": "Athletics",
+      "details": "Athleticsrecalled RHPTyler Fergusonfrom Las Vegas Aviators.",
+      "player": "Tyler Ferguson"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Athletics",
       "details": "Athleticsoptioned RHPEduarniel Núñezto Las Vegas Aviators.",
       "player": "Eduarniel Núñez"
     },
     {
       "date": "2025-08-06",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled 2BAdael Amadorfrom Albuquerque Isotopes.",
-      "player": "Adael Amador"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesclaimed RHPJack Littleoff waivers fromLos Angeles Dodgers.",
+      "player": "Jack Little"
     }
   ]
 }
