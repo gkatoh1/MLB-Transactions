@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-08-06T14:32:04.225904",
+  "last_updated": "2025-08-06T15:32:12.461557",
   "transactions": [
     {
       "date": "2025-08-06",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsactivated RHPBrooks Kriske.",
       "player": "Brooks Kriske"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "New York Mets",
+      "details": "New York Metssent LHPBrandon Waddellon a rehab assignment to Syracuse Mets.",
+      "player": "Brandon Waddell"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJustin Hagenmanfrom Syracuse Mets.",
+      "player": "Justin Hagenman"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPDom Hamelto Syracuse Mets.",
+      "player": "Dom Hamel"
     }
   ]
 }
