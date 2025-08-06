@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-08-06T22:28:35.876317",
+  "last_updated": "2025-08-06T23:27:43.672851",
   "transactions": [
     {
       "date": "2025-08-06",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresreleased CMartín Maldonado.",
-      "player": "Martín Maldonado"
+      "team": "Houston Astros",
+      "details": "Houston Astrostransferred 3BIsaac Paredesfrom the 10-day injured list to the 60-day injured list. Right hamstring strain.",
+      "player": "Isaac Paredes"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackstransferred RHPKevin Ginkelfrom the 15-day injured list to the 60-day injured list. Right shoulder sprain.",
+      "player": "Kevin Ginkel"
     },
     {
       "date": "2025-08-06",
@@ -39,45 +45,15 @@
     },
     {
       "date": "2025-08-06",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackstransferred RHPKevin Ginkelfrom the 15-day injured list to the 60-day injured list. Right shoulder sprain.",
-      "player": "Kevin Ginkel"
-    },
-    {
-      "date": "2025-08-06",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesclaimed RHPJack Littleoff waivers fromLos Angeles Dodgers.",
-      "player": "Jack Little"
-    },
-    {
-      "date": "2025-08-06",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPJack Littleto Indianapolis Indians.",
-      "player": "Jack Little"
-    },
-    {
-      "date": "2025-08-06",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPCade Cavallifrom Rochester Red Wings.",
-      "player": "Cade Cavalli"
-    },
-    {
-      "date": "2025-08-06",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPAndry Larato Rochester Red Wings.",
-      "player": "Andry Lara"
-    },
-    {
-      "date": "2025-08-06",
       "team": "San Diego Padres",
-      "details": "San Diego Padressent CFTyler Wadeoutright to El Paso Chihuahuas.",
-      "player": "Tyler Wade"
+      "details": "San Diego Padresreleased CMartín Maldonado.",
+      "player": "Martín Maldonado"
     },
     {
       "date": "2025-08-06",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksselected the contract of RHPCasey Kellyfrom Reno Aces.",
-      "player": "Casey Kelly"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent 2BJack Winkleroutright to Jacksonville Jumbo Shrimp.",
+      "player": "Jack Winkler"
     },
     {
       "date": "2025-08-06",
@@ -105,9 +81,39 @@
     },
     {
       "date": "2025-08-06",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent CFTyler Wadeoutright to El Paso Chihuahuas.",
+      "player": "Tyler Wade"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesclaimed RHPJack Littleoff waivers fromLos Angeles Dodgers.",
+      "player": "Jack Little"
+    },
+    {
+      "date": "2025-08-06",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesrecalled 2BAdael Amadorfrom Albuquerque Isotopes.",
       "player": "Adael Amador"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPJack Littleto Indianapolis Indians.",
+      "player": "Jack Little"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksselected the contract of RHPCasey Kellyfrom Reno Aces.",
+      "player": "Casey Kelly"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPCade Cavallifrom Rochester Red Wings.",
+      "player": "Cade Cavalli"
     },
     {
       "date": "2025-08-06",
@@ -120,6 +126,12 @@
       "team": "Houston Astros",
       "details": "Houston Astrosoptioned RHPAJ Blubaughto Sugar Land Space Cowboys.",
       "player": "AJ Blubaugh"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPAndry Larato Rochester Red Wings.",
+      "player": "Andry Lara"
     }
   ]
 }
