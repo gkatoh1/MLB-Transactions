@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-06T21:25:28.194686",
+  "last_updated": "2025-08-06T22:28:35.876317",
   "transactions": [
     {
       "date": "2025-08-06",
@@ -39,6 +39,12 @@
     },
     {
       "date": "2025-08-06",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackstransferred RHPKevin Ginkelfrom the 15-day injured list to the 60-day injured list. Right shoulder sprain.",
+      "player": "Kevin Ginkel"
+    },
+    {
+      "date": "2025-08-06",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesclaimed RHPJack Littleoff waivers fromLos Angeles Dodgers.",
       "player": "Jack Little"
@@ -57,27 +63,21 @@
     },
     {
       "date": "2025-08-06",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled 2BAdael Amadorfrom Albuquerque Isotopes.",
-      "player": "Adael Amador"
-    },
-    {
-      "date": "2025-08-06",
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned RHPAndry Larato Rochester Red Wings.",
       "player": "Andry Lara"
     },
     {
       "date": "2025-08-06",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned RHPAJ Blubaughto Sugar Land Space Cowboys.",
-      "player": "AJ Blubaugh"
-    },
-    {
-      "date": "2025-08-06",
       "team": "San Diego Padres",
       "details": "San Diego Padressent CFTyler Wadeoutright to El Paso Chihuahuas.",
       "player": "Tyler Wade"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksselected the contract of RHPCasey Kellyfrom Reno Aces.",
+      "player": "Casey Kelly"
     },
     {
       "date": "2025-08-06",
@@ -102,6 +102,24 @@
       "team": "New York Mets",
       "details": "New York Metsoptioned RHPDom Hamelto Syracuse Mets.",
       "player": "Dom Hamel"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled 2BAdael Amadorfrom Albuquerque Isotopes.",
+      "player": "Adael Amador"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned LHPKyle Nelsonto Reno Aces.",
+      "player": "Kyle Nelson"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPAJ Blubaughto Sugar Land Space Cowboys.",
+      "player": "AJ Blubaugh"
     }
   ]
 }
