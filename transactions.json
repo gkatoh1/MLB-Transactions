@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-06T16:36:42.256160",
+  "last_updated": "2025-08-06T17:28:12.391082",
   "transactions": [
     {
       "date": "2025-08-06",
@@ -9,9 +9,27 @@
     },
     {
       "date": "2025-08-06",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced 2BThairo Estradaon the 10-day injured list. Right hamstring strain.",
+      "player": "Thairo Estrada"
+    },
+    {
+      "date": "2025-08-06",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsactivated RHPBrooks Kriske.",
       "player": "Brooks Kriske"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated RHPSpencer Arrighettifrom the 60-day injured list.",
+      "player": "Spencer Arrighetti"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPAJ Blubaughto Sugar Land Space Cowboys.",
+      "player": "AJ Blubaugh"
     },
     {
       "date": "2025-08-06",
@@ -24,6 +42,12 @@
       "team": "New York Mets",
       "details": "New York Metsoptioned RHPDom Hamelto Syracuse Mets.",
       "player": "Dom Hamel"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled 2BAdael Amadorfrom Albuquerque Isotopes.",
+      "player": "Adael Amador"
     }
   ]
 }
