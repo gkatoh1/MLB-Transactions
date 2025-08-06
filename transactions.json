@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-08-06T20:30:50.862229",
+  "last_updated": "2025-08-06T21:25:28.194686",
   "transactions": [
     {
       "date": "2025-08-06",
-      "team": "Athletics",
-      "details": "Athleticssent LHPBrady Bassoon a rehab assignment to Las Vegas Aviators.",
-      "player": "Brady Basso"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresreleased CMartín Maldonado.",
+      "player": "Martín Maldonado"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPBrooks Kriske.",
+      "player": "Brooks Kriske"
     },
     {
       "date": "2025-08-06",
@@ -21,51 +27,15 @@
     },
     {
       "date": "2025-08-06",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPBrooks Kriske.",
-      "player": "Brooks Kriske"
-    },
-    {
-      "date": "2025-08-06",
       "team": "Houston Astros",
       "details": "Houston Astrosactivated RHPSpencer Arrighettifrom the 60-day injured list.",
       "player": "Spencer Arrighetti"
     },
     {
       "date": "2025-08-06",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPJustin Hagenmanfrom Syracuse Mets.",
-      "player": "Justin Hagenman"
-    },
-    {
-      "date": "2025-08-06",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPDom Hamelto Syracuse Mets.",
-      "player": "Dom Hamel"
-    },
-    {
-      "date": "2025-08-06",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled 2BAdael Amadorfrom Albuquerque Isotopes.",
-      "player": "Adael Amador"
-    },
-    {
-      "date": "2025-08-06",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned RHPAJ Blubaughto Sugar Land Space Cowboys.",
-      "player": "AJ Blubaugh"
-    },
-    {
-      "date": "2025-08-06",
       "team": "Athletics",
-      "details": "Athleticsrecalled RHPTyler Fergusonfrom Las Vegas Aviators.",
-      "player": "Tyler Ferguson"
-    },
-    {
-      "date": "2025-08-06",
-      "team": "Athletics",
-      "details": "Athleticsoptioned RHPEduarniel Núñezto Las Vegas Aviators.",
-      "player": "Eduarniel Núñez"
+      "details": "Athleticssent LHPBrady Bassoon a rehab assignment to Las Vegas Aviators.",
+      "player": "Brady Basso"
     },
     {
       "date": "2025-08-06",
@@ -87,9 +57,51 @@
     },
     {
       "date": "2025-08-06",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled 2BAdael Amadorfrom Albuquerque Isotopes.",
+      "player": "Adael Amador"
+    },
+    {
+      "date": "2025-08-06",
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned RHPAndry Larato Rochester Red Wings.",
       "player": "Andry Lara"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPAJ Blubaughto Sugar Land Space Cowboys.",
+      "player": "AJ Blubaugh"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent CFTyler Wadeoutright to El Paso Chihuahuas.",
+      "player": "Tyler Wade"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPTyler Fergusonfrom Las Vegas Aviators.",
+      "player": "Tyler Ferguson"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPEduarniel Núñezto Las Vegas Aviators.",
+      "player": "Eduarniel Núñez"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJustin Hagenmanfrom Syracuse Mets.",
+      "player": "Justin Hagenman"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPDom Hamelto Syracuse Mets.",
+      "player": "Dom Hamel"
     }
   ]
 }
