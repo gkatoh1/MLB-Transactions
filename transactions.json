@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-08-06T19:24:51.349775",
+  "last_updated": "2025-08-06T20:30:50.862229",
   "transactions": [
-    {
-      "date": "2025-08-06",
-      "team": "New York Mets",
-      "details": "New York Metssent LHPBrandon Waddellon a rehab assignment to Syracuse Mets.",
-      "player": "Brandon Waddell"
-    },
     {
       "date": "2025-08-06",
       "team": "Athletics",
       "details": "Athleticssent LHPBrady Bassoon a rehab assignment to Las Vegas Aviators.",
       "player": "Brady Basso"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "New York Mets",
+      "details": "New York Metssent LHPBrandon Waddellon a rehab assignment to Syracuse Mets.",
+      "player": "Brandon Waddell"
     },
     {
       "date": "2025-08-06",
@@ -30,12 +30,6 @@
       "team": "Houston Astros",
       "details": "Houston Astrosactivated RHPSpencer Arrighettifrom the 60-day injured list.",
       "player": "Spencer Arrighetti"
-    },
-    {
-      "date": "2025-08-06",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPJack Littleto Indianapolis Indians.",
-      "player": "Jack Little"
     },
     {
       "date": "2025-08-06",
@@ -78,6 +72,24 @@
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesclaimed RHPJack Littleoff waivers fromLos Angeles Dodgers.",
       "player": "Jack Little"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPJack Littleto Indianapolis Indians.",
+      "player": "Jack Little"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPCade Cavallifrom Rochester Red Wings.",
+      "player": "Cade Cavalli"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPAndry Larato Rochester Red Wings.",
+      "player": "Andry Lara"
     }
   ]
 }
