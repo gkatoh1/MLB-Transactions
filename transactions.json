@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-08-07T15:31:38.964298",
+  "last_updated": "2025-08-07T16:37:04.122986",
   "transactions": [
+    {
+      "date": "2025-08-07",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPRico Garcia.",
+      "player": "Rico Garcia"
+    },
     {
       "date": "2025-08-07",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerssigned free agent LHPRaúl Alcantarato a minor league contract.",
       "player": "Raúl Alcantara"
+    },
+    {
+      "date": "2025-08-07",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPEaston McGeeto Nashville Sounds.",
+      "player": "Easton McGee"
+    },
+    {
+      "date": "2025-08-07",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPElvin Rodríguezto Norfolk Tides.",
+      "player": "Elvin Rodríguez"
     }
   ]
 }
