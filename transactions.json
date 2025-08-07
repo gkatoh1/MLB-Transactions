@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-08-07T16:37:04.122986",
+  "last_updated": "2025-08-07T17:28:39.554767",
   "transactions": [
-    {
-      "date": "2025-08-07",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RHPRico Garcia.",
-      "player": "Rico Garcia"
-    },
     {
       "date": "2025-08-07",
       "team": "Milwaukee Brewers",
@@ -15,15 +9,45 @@
     },
     {
       "date": "2025-08-07",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPEaston McGeeto Nashville Sounds.",
-      "player": "Easton McGee"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RHPGus Varlandfor assignment.",
+      "player": "Gus Varland"
+    },
+    {
+      "date": "2025-08-07",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPRico Garcia.",
+      "player": "Rico Garcia"
+    },
+    {
+      "date": "2025-08-07",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPAlek Manoahon a rehab assignment to New Hampshire Fisher Cats.",
+      "player": "Alek Manoah"
+    },
+    {
+      "date": "2025-08-07",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced SSChase Meidrothon the 10-day injured list retroactive to August 4, 2025. Right thumb contusion.",
+      "player": "Chase Meidroth"
     },
     {
       "date": "2025-08-07",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned RHPElvin Rodríguezto Norfolk Tides.",
       "player": "Elvin Rodríguez"
+    },
+    {
+      "date": "2025-08-07",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of SSJacob Amayafrom Charlotte Knights.",
+      "player": "Jacob Amaya"
+    },
+    {
+      "date": "2025-08-07",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPEaston McGeeto Nashville Sounds.",
+      "player": "Easton McGee"
     }
   ]
 }
