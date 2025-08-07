@@ -1,23 +1,11 @@
 {
-  "last_updated": "2025-08-07T20:31:38.451944",
+  "last_updated": "2025-08-07T21:25:54.536437",
   "transactions": [
     {
       "date": "2025-08-07",
-      "team": "Houston Astros",
-      "details": "Houston Astrosdesignated RHPLuis Contrerasfor assignment.",
-      "player": "Luis Contreras"
-    },
-    {
-      "date": "2025-08-07",
-      "team": "Houston Astros",
-      "details": "Houston Astrossigned free agent RHPEnyel De Los Santos.",
-      "player": "Enyel De Los Santos"
-    },
-    {
-      "date": "2025-08-07",
-      "team": "New York Yankees",
-      "details": "New York Yankeesreleased RHPJT Brubaker.",
-      "player": "JT Brubaker"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPAlek Manoahon a rehab assignment to New Hampshire Fisher Cats.",
+      "player": "Alek Manoah"
     },
     {
       "date": "2025-08-07",
@@ -33,21 +21,33 @@
     },
     {
       "date": "2025-08-07",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPAlek Manoahon a rehab assignment to New Hampshire Fisher Cats.",
-      "player": "Alek Manoah"
-    },
-    {
-      "date": "2025-08-07",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesactivated RHPRico Garcia.",
       "player": "Rico Garcia"
     },
     {
       "date": "2025-08-07",
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated RHPLuis Contrerasfor assignment.",
+      "player": "Luis Contreras"
+    },
+    {
+      "date": "2025-08-07",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerssigned free agent LHPRaúl Alcantarato a minor league contract.",
       "player": "Raúl Alcantara"
+    },
+    {
+      "date": "2025-08-07",
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned free agent RHPEnyel De Los Santos.",
+      "player": "Enyel De Los Santos"
+    },
+    {
+      "date": "2025-08-07",
+      "team": "New York Yankees",
+      "details": "New York Yankeesreleased RHPJT Brubaker.",
+      "player": "JT Brubaker"
     },
     {
       "date": "2025-08-07",
@@ -63,15 +63,9 @@
     },
     {
       "date": "2025-08-07",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsclaimed RHPJorge Alcalaoff waivers fromBoston Red Sox.",
-      "player": "Jorge Alcala"
-    },
-    {
-      "date": "2025-08-07",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned RHPNick Hernandezto Sugar Land Space Cowboys.",
-      "player": "Nick Hernandez"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPElvin Rodríguezto Norfolk Tides.",
+      "player": "Elvin Rodríguez"
     },
     {
       "date": "2025-08-07",
@@ -81,9 +75,15 @@
     },
     {
       "date": "2025-08-07",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPElvin Rodríguezto Norfolk Tides.",
-      "player": "Elvin Rodríguez"
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPNick Hernandezto Sugar Land Space Cowboys.",
+      "player": "Nick Hernandez"
+    },
+    {
+      "date": "2025-08-07",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsclaimed RHPJorge Alcalaoff waivers fromBoston Red Sox.",
+      "player": "Jorge Alcala"
     }
   ]
 }
