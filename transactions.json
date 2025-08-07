@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-08-06T23:27:43.672851",
+  "last_updated": "2025-08-07T02:26:11.349830",
   "transactions": [
     {
       "date": "2025-08-06",
-      "team": "Houston Astros",
-      "details": "Houston Astrostransferred 3BIsaac Paredesfrom the 10-day injured list to the 60-day injured list. Right hamstring strain.",
-      "player": "Isaac Paredes"
+      "team": "New York Mets",
+      "details": "New York Metssent LHPBrandon Waddellon a rehab assignment to Syracuse Mets.",
+      "player": "Brandon Waddell"
     },
     {
       "date": "2025-08-06",
@@ -15,21 +15,21 @@
     },
     {
       "date": "2025-08-06",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced 2BThairo Estradaon the 10-day injured list. Right hamstring strain.",
+      "player": "Thairo Estrada"
+    },
+    {
+      "date": "2025-08-06",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsactivated RHPBrooks Kriske.",
       "player": "Brooks Kriske"
     },
     {
       "date": "2025-08-06",
-      "team": "New York Mets",
-      "details": "New York Metssent LHPBrandon Waddellon a rehab assignment to Syracuse Mets.",
-      "player": "Brandon Waddell"
-    },
-    {
-      "date": "2025-08-06",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced 2BThairo Estradaon the 10-day injured list. Right hamstring strain.",
-      "player": "Thairo Estrada"
+      "team": "Athletics",
+      "details": "Athleticssent LHPBrady Bassoon a rehab assignment to Las Vegas Aviators.",
+      "player": "Brady Basso"
     },
     {
       "date": "2025-08-06",
@@ -39,9 +39,15 @@
     },
     {
       "date": "2025-08-06",
-      "team": "Athletics",
-      "details": "Athleticssent LHPBrady Bassoon a rehab assignment to Las Vegas Aviators.",
-      "player": "Brady Basso"
+      "team": "Houston Astros",
+      "details": "Houston Astrostransferred 3BIsaac Paredesfrom the 10-day injured list to the 60-day injured list. Right hamstring strain.",
+      "player": "Isaac Paredes"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssigned free agent 1BCavan Biggioto a minor league contract.",
+      "player": "Cavan Biggio"
     },
     {
       "date": "2025-08-06",
@@ -57,18 +63,6 @@
     },
     {
       "date": "2025-08-06",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPTyler Fergusonfrom Las Vegas Aviators.",
-      "player": "Tyler Ferguson"
-    },
-    {
-      "date": "2025-08-06",
-      "team": "Athletics",
-      "details": "Athleticsoptioned RHPEduarniel Núñezto Las Vegas Aviators.",
-      "player": "Eduarniel Núñez"
-    },
-    {
-      "date": "2025-08-06",
       "team": "New York Mets",
       "details": "New York Metsrecalled RHPJustin Hagenmanfrom Syracuse Mets.",
       "player": "Justin Hagenman"
@@ -81,27 +75,21 @@
     },
     {
       "date": "2025-08-06",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressent CFTyler Wadeoutright to El Paso Chihuahuas.",
-      "player": "Tyler Wade"
-    },
-    {
-      "date": "2025-08-06",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesclaimed RHPJack Littleoff waivers fromLos Angeles Dodgers.",
-      "player": "Jack Little"
-    },
-    {
-      "date": "2025-08-06",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesrecalled 2BAdael Amadorfrom Albuquerque Isotopes.",
       "player": "Adael Amador"
     },
     {
       "date": "2025-08-06",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPJack Littleto Indianapolis Indians.",
-      "player": "Jack Little"
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPAJ Blubaughto Sugar Land Space Cowboys.",
+      "player": "AJ Blubaugh"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent CFTyler Wadeoutright to El Paso Chihuahuas.",
+      "player": "Tyler Wade"
     },
     {
       "date": "2025-08-06",
@@ -111,21 +99,39 @@
     },
     {
       "date": "2025-08-06",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPCade Cavallifrom Rochester Red Wings.",
-      "player": "Cade Cavalli"
-    },
-    {
-      "date": "2025-08-06",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksoptioned LHPKyle Nelsonto Reno Aces.",
       "player": "Kyle Nelson"
     },
     {
       "date": "2025-08-06",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned RHPAJ Blubaughto Sugar Land Space Cowboys.",
-      "player": "AJ Blubaugh"
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPTyler Fergusonfrom Las Vegas Aviators.",
+      "player": "Tyler Ferguson"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPEduarniel Núñezto Las Vegas Aviators.",
+      "player": "Eduarniel Núñez"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesclaimed RHPJack Littleoff waivers fromLos Angeles Dodgers.",
+      "player": "Jack Little"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPJack Littleto Indianapolis Indians.",
+      "player": "Jack Little"
+    },
+    {
+      "date": "2025-08-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPCade Cavallifrom Rochester Red Wings.",
+      "player": "Cade Cavalli"
     },
     {
       "date": "2025-08-06",
