@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-07T17:28:39.554767",
+  "last_updated": "2025-08-07T18:43:01.267840",
   "transactions": [
     {
       "date": "2025-08-07",
@@ -15,9 +15,9 @@
     },
     {
       "date": "2025-08-07",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RHPRico Garcia.",
-      "player": "Rico Garcia"
+      "team": "New York Yankees",
+      "details": "New York Yankeesreleased RHPJT Brubaker.",
+      "player": "JT Brubaker"
     },
     {
       "date": "2025-08-07",
@@ -34,20 +34,32 @@
     {
       "date": "2025-08-07",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPElvin Rodríguezto Norfolk Tides.",
-      "player": "Elvin Rodríguez"
+      "details": "Baltimore Oriolesactivated RHPRico Garcia.",
+      "player": "Rico Garcia"
     },
     {
       "date": "2025-08-07",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of SSJacob Amayafrom Charlotte Knights.",
-      "player": "Jacob Amaya"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPElvin Rodríguezto Norfolk Tides.",
+      "player": "Elvin Rodríguez"
     },
     {
       "date": "2025-08-07",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersoptioned RHPEaston McGeeto Nashville Sounds.",
       "player": "Easton McGee"
+    },
+    {
+      "date": "2025-08-07",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsclaimed RHPJorge Alcalaoff waivers fromBoston Red Sox.",
+      "player": "Jorge Alcala"
+    },
+    {
+      "date": "2025-08-07",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of SSJacob Amayafrom Charlotte Knights.",
+      "player": "Jacob Amaya"
     }
   ]
 }
