@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-08-07T21:25:54.536437",
+  "last_updated": "2025-08-07T22:28:31.192330",
   "transactions": [
-    {
-      "date": "2025-08-07",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPAlek Manoahon a rehab assignment to New Hampshire Fisher Cats.",
-      "player": "Alek Manoah"
-    },
     {
       "date": "2025-08-07",
       "team": "Toronto Blue Jays",
@@ -39,9 +33,9 @@
     },
     {
       "date": "2025-08-07",
-      "team": "Houston Astros",
-      "details": "Houston Astrossigned free agent RHPEnyel De Los Santos.",
-      "player": "Enyel De Los Santos"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RHPGus Varlandfor assignment.",
+      "player": "Gus Varland"
     },
     {
       "date": "2025-08-07",
@@ -51,15 +45,21 @@
     },
     {
       "date": "2025-08-07",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated RHPGus Varlandfor assignment.",
-      "player": "Gus Varland"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPAlek Manoahon a rehab assignment to New Hampshire Fisher Cats.",
+      "player": "Alek Manoah"
     },
     {
       "date": "2025-08-07",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPEaston McGeeto Nashville Sounds.",
-      "player": "Easton McGee"
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned free agent RHPEnyel De Los Santos.",
+      "player": "Enyel De Los Santos"
+    },
+    {
+      "date": "2025-08-07",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent LHPGénesis Cabreraoutright to Indianapolis Indians.",
+      "player": "Génesis Cabrera"
     },
     {
       "date": "2025-08-07",
@@ -69,9 +69,21 @@
     },
     {
       "date": "2025-08-07",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of SSJacob Amayafrom Charlotte Knights.",
-      "player": "Jacob Amaya"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPDarren McCaughanoutright to St. Paul Saints.",
+      "player": "Darren McCaughan"
+    },
+    {
+      "date": "2025-08-07",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPEaston McGeeto Nashville Sounds.",
+      "player": "Easton McGee"
+    },
+    {
+      "date": "2025-08-07",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned OFNiko Kavadasto Salt Lake Bees.",
+      "player": "Niko Kavadas"
     },
     {
       "date": "2025-08-07",
@@ -84,6 +96,18 @@
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsclaimed RHPJorge Alcalaoff waivers fromBoston Red Sox.",
       "player": "Jorge Alcala"
+    },
+    {
+      "date": "2025-08-07",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned LFEsteury Ruizto Oklahoma City Comets.",
+      "player": "Esteury Ruiz"
+    },
+    {
+      "date": "2025-08-07",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of SSJacob Amayafrom Charlotte Knights.",
+      "player": "Jacob Amaya"
     }
   ]
 }
