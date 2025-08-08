@@ -1,6 +1,24 @@
 {
-  "last_updated": "2025-08-08T20:30:00.585912",
+  "last_updated": "2025-08-08T21:24:57.460151",
   "transactions": [
+    {
+      "date": "2025-08-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RHPShelby Millerfrom the 15-day injured list.",
+      "player": "Shelby Miller"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPRobert Gasseron a rehab assignment to Nashville Sounds.",
+      "player": "Robert Gasser"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent LFMark Canhaon a rehab assignment to Northwest Arkansas Naturals.",
+      "player": "Mark Canha"
+    },
     {
       "date": "2025-08-08",
       "team": "Minnesota Twins",
@@ -9,9 +27,27 @@
     },
     {
       "date": "2025-08-08",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated 1BJake Burgerfrom the 10-day injured list.",
-      "player": "Jake Burger"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced LFColton Cowseron the 7-day injured list retroactive to August 7, 2025. Concussion.",
+      "player": "Colton Cowser"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent 1BBobby Dalbecto a minor league contract.",
+      "player": "Bobby Dalbec"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced SSOrlando Arciaon the 10-day injured list retroactive to August 6, 2025. Right elbow inflammation.",
+      "player": "Orlando Arcia"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent CMaverick Handleyon a rehab assignment to Norfolk Tides.",
+      "player": "Maverick Handley"
     },
     {
       "date": "2025-08-08",
@@ -28,20 +64,8 @@
     {
       "date": "2025-08-08",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced RFTyler O'Neillon the 10-day injured list retroactive to August 6, 2025. Right wrist inflammation.",
-      "player": "Tyler O'Neill"
-    },
-    {
-      "date": "2025-08-08",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated RHPShelby Millerfrom the 15-day injured list.",
-      "player": "Shelby Miller"
-    },
-    {
-      "date": "2025-08-08",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent LHPRobert Gasseron a rehab assignment to Nashville Sounds.",
-      "player": "Robert Gasser"
+      "details": "Baltimore Oriolessent CMaverick Handleyon a rehab assignment to Norfolk Tides.",
+      "player": "Maverick Handley"
     },
     {
       "date": "2025-08-08",
@@ -51,21 +75,15 @@
     },
     {
       "date": "2025-08-08",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced LFColton Cowseron the 7-day injured list retroactive to August 7, 2025. Concussion.",
-      "player": "Colton Cowser"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated RHPLuke Jacksonfor assignment.",
+      "player": "Luke Jackson"
     },
     {
       "date": "2025-08-08",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent 1BBobby Dalbecto a minor league contract.",
-      "player": "Bobby Dalbec"
-    },
-    {
-      "date": "2025-08-08",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated 1BRyan Mountcastlefrom the 60-day injured list.",
-      "player": "Ryan Mountcastle"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated RHPConnor Seaboldfor assignment.",
+      "player": "Connor Seabold"
     },
     {
       "date": "2025-08-08",
@@ -75,9 +93,105 @@
     },
     {
       "date": "2025-08-08",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated 1BJake Burgerfrom the 10-day injured list.",
+      "player": "Jake Burger"
+    },
+    {
+      "date": "2025-08-08",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersdesignated 1BLuken Bakerfor assignment.",
       "player": "Luken Baker"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated 1BRyan Mountcastlefrom the 60-day injured list.",
+      "player": "Ryan Mountcastle"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiestransferred 2BThairo Estradafrom the 10-day injured list to the 60-day injured list. Right hamstring strain.",
+      "player": "Thairo Estrada"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RFTyler O'Neillon the 10-day injured list retroactive to August 6, 2025. Right wrist inflammation.",
+      "player": "Tyler O'Neill"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPAngel Chivillion the restricted list.",
+      "player": "Angel Chivilli"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced CFJonny DeLucaon the 10-day injured list retroactive to August 7, 2025. Left hamstring strain.",
+      "player": "Jonny DeLuca"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPCodi Heuerfrom Toledo Mud Hens.",
+      "player": "Codi Heuer"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesselected the contract of 3BKyle Karrosfrom Albuquerque Isotopes.",
+      "player": "Kyle Karros"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPTobias Myersfrom Nashville Sounds.",
+      "player": "Tobias Myers"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned LFAlejandro Osunato Round Rock Express.",
+      "player": "Alejandro Osuna"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPYosver Zuluetato Louisville Bats.",
+      "player": "Yosver Zulueta"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPSam Benschoterfrom Louisville Bats.",
+      "player": "Sam Benschoter"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesselected the contract of SSAaron Schunkfrom Albuquerque Isotopes.",
+      "player": "Aaron Schunk"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed 3BVidal Brujánoff waivers fromBaltimore Orioles.",
+      "player": "Vidal Bruján"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPGeorge Sorianofrom Jacksonville Jumbo Shrimp.",
+      "player": "George Soriano"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPWikelman Gonzálezfrom Charlotte Knights.",
+      "player": "Wikelman González"
     },
     {
       "date": "2025-08-08",
@@ -99,9 +213,15 @@
     },
     {
       "date": "2025-08-08",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPSam Benschoterfrom Louisville Bats.",
-      "player": "Sam Benschoter"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxclaimed CAli Sánchezoff waivers fromToronto Blue Jays.",
+      "player": "Ali Sánchez"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysselected the contract of LFTristan Petersfrom Durham Bulls.",
+      "player": "Tristan Peters"
     },
     {
       "date": "2025-08-08",
@@ -111,51 +231,9 @@
     },
     {
       "date": "2025-08-08",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesclaimed 3BVidal Brujánoff waivers fromBaltimore Orioles.",
-      "player": "Vidal Bruján"
-    },
-    {
-      "date": "2025-08-08",
       "team": "Miami Marlins",
       "details": "Miami Marlinsoptioned LHPCade Gibsonto Jacksonville Jumbo Shrimp.",
       "player": "Cade Gibson"
-    },
-    {
-      "date": "2025-08-08",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled RHPGeorge Sorianofrom Jacksonville Jumbo Shrimp.",
-      "player": "George Soriano"
-    },
-    {
-      "date": "2025-08-08",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPYosver Zuluetato Louisville Bats.",
-      "player": "Yosver Zulueta"
-    },
-    {
-      "date": "2025-08-08",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxclaimed CAli Sánchezoff waivers fromToronto Blue Jays.",
-      "player": "Ali Sánchez"
-    },
-    {
-      "date": "2025-08-08",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled RHPWikelman Gonzálezfrom Charlotte Knights.",
-      "player": "Wikelman González"
-    },
-    {
-      "date": "2025-08-08",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPTobias Myersfrom Nashville Sounds.",
-      "player": "Tobias Myers"
-    },
-    {
-      "date": "2025-08-08",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned LFAlejandro Osunato Round Rock Express.",
-      "player": "Alejandro Osuna"
     }
   ]
 }
