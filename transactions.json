@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-08-08T18:37:53.056923",
+  "last_updated": "2025-08-08T19:20:44.147125",
   "transactions": [
+    {
+      "date": "2025-08-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced RHPLogan Hendersonon the 15-day injured list retroactive to August 4, 2025. Right elbow inflammation.",
+      "player": "Logan Henderson"
+    },
     {
       "date": "2025-08-08",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsplaced CChristian Vázquezon the 10-day injured list retroactive to August 6, 2025. Left shoulder infection.",
       "player": "Christian Vázquez"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RHPShelby Millerfrom the 15-day injured list.",
+      "player": "Shelby Miller"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPRobert Gasseron a rehab assignment to Nashville Sounds.",
+      "player": "Robert Gasser"
     },
     {
       "date": "2025-08-08",
@@ -15,21 +33,51 @@
     },
     {
       "date": "2025-08-08",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned LHPCade Gibsonto Jacksonville Jumbo Shrimp.",
+      "player": "Cade Gibson"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPTobias Myersfrom Nashville Sounds.",
+      "player": "Tobias Myers"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPYosver Zuluetato Louisville Bats.",
+      "player": "Yosver Zulueta"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPSam Benschoterfrom Louisville Bats.",
+      "player": "Sam Benschoter"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPGeorge Sorianofrom Jacksonville Jumbo Shrimp.",
+      "player": "George Soriano"
+    },
+    {
+      "date": "2025-08-08",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesclaimed 3BVidal Brujánoff waivers fromBaltimore Orioles.",
       "player": "Vidal Bruján"
     },
     {
       "date": "2025-08-08",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled CJhonny Peredafrom St. Paul Saints.",
-      "player": "Jhonny Pereda"
-    },
-    {
-      "date": "2025-08-08",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxclaimed CAli Sánchezoff waivers fromToronto Blue Jays.",
       "player": "Ali Sánchez"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled CJhonny Peredafrom St. Paul Saints.",
+      "player": "Jhonny Pereda"
     }
   ]
 }
