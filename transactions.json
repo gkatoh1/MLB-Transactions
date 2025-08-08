@@ -1,17 +1,35 @@
 {
-  "last_updated": "2025-08-08T19:20:44.147125",
+  "last_updated": "2025-08-08T20:30:00.585912",
   "transactions": [
-    {
-      "date": "2025-08-08",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced RHPLogan Hendersonon the 15-day injured list retroactive to August 4, 2025. Right elbow inflammation.",
-      "player": "Logan Henderson"
-    },
     {
       "date": "2025-08-08",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsplaced CChristian Vázquezon the 10-day injured list retroactive to August 6, 2025. Left shoulder infection.",
       "player": "Christian Vázquez"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated 1BJake Burgerfrom the 10-day injured list.",
+      "player": "Jake Burger"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent CFGreg Allen.",
+      "player": "Greg Allen"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated 3BYoán Moncadafrom the restricted list.",
+      "player": "Yoán Moncada"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RFTyler O'Neillon the 10-day injured list retroactive to August 6, 2025. Right wrist inflammation.",
+      "player": "Tyler O'Neill"
     },
     {
       "date": "2025-08-08",
@@ -27,27 +45,57 @@
     },
     {
       "date": "2025-08-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced RHPLogan Hendersonon the 15-day injured list retroactive to August 4, 2025. Right elbow inflammation.",
+      "player": "Logan Henderson"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced LFColton Cowseron the 7-day injured list retroactive to August 7, 2025. Concussion.",
+      "player": "Colton Cowser"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent 1BBobby Dalbecto a minor league contract.",
+      "player": "Bobby Dalbec"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated 1BRyan Mountcastlefrom the 60-day injured list.",
+      "player": "Ryan Mountcastle"
+    },
+    {
+      "date": "2025-08-08",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxsent LHPMartín Pérezon a rehab assignment to Birmingham Barons.",
       "player": "Martín Pérez"
     },
     {
       "date": "2025-08-08",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned LHPCade Gibsonto Jacksonville Jumbo Shrimp.",
-      "player": "Cade Gibson"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated 1BLuken Bakerfor assignment.",
+      "player": "Luken Baker"
     },
     {
       "date": "2025-08-08",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPTobias Myersfrom Nashville Sounds.",
-      "player": "Tobias Myers"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPJonathan Cannonto Charlotte Knights.",
+      "player": "Jonathan Cannon"
     },
     {
       "date": "2025-08-08",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPYosver Zuluetato Louisville Bats.",
-      "player": "Yosver Zulueta"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled CFJordyn Adamsfrom Norfolk Tides.",
+      "player": "Jordyn Adams"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersselected the contract of CFJustin Deanfrom Oklahoma City Comets.",
+      "player": "Justin Dean"
     },
     {
       "date": "2025-08-08",
@@ -57,9 +105,9 @@
     },
     {
       "date": "2025-08-08",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled RHPGeorge Sorianofrom Jacksonville Jumbo Shrimp.",
-      "player": "George Soriano"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled CJhonny Peredafrom St. Paul Saints.",
+      "player": "Jhonny Pereda"
     },
     {
       "date": "2025-08-08",
@@ -69,15 +117,45 @@
     },
     {
       "date": "2025-08-08",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned LHPCade Gibsonto Jacksonville Jumbo Shrimp.",
+      "player": "Cade Gibson"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPGeorge Sorianofrom Jacksonville Jumbo Shrimp.",
+      "player": "George Soriano"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPYosver Zuluetato Louisville Bats.",
+      "player": "Yosver Zulueta"
+    },
+    {
+      "date": "2025-08-08",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxclaimed CAli Sánchezoff waivers fromToronto Blue Jays.",
       "player": "Ali Sánchez"
     },
     {
       "date": "2025-08-08",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled CJhonny Peredafrom St. Paul Saints.",
-      "player": "Jhonny Pereda"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPWikelman Gonzálezfrom Charlotte Knights.",
+      "player": "Wikelman González"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPTobias Myersfrom Nashville Sounds.",
+      "player": "Tobias Myers"
+    },
+    {
+      "date": "2025-08-08",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned LFAlejandro Osunato Round Rock Express.",
+      "player": "Alejandro Osuna"
     }
   ]
 }
