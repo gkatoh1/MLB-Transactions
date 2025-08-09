@@ -1,23 +1,23 @@
 {
-  "last_updated": "2025-08-09T14:24:21.216922",
+  "last_updated": "2025-08-09T15:26:14.951285",
   "transactions": [
+    {
+      "date": "2025-08-09",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated 3BVidal Bruján.",
+      "player": "Vidal Bruján"
+    },
+    {
+      "date": "2025-08-09",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated 3BVidal Bruján.",
+      "player": "Vidal Bruján"
+    },
     {
       "date": "2025-08-09",
       "team": "Miami Marlins",
       "details": "Miami Marlinsplaced RHPAnthony Benderon the paternity list.",
       "player": "Anthony Bender"
-    },
-    {
-      "date": "2025-08-09",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated 3BVidal Bruján.",
-      "player": "Vidal Bruján"
-    },
-    {
-      "date": "2025-08-09",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated 3BVidal Bruján.",
-      "player": "Vidal Bruján"
     },
     {
       "date": "2025-08-09",
@@ -28,8 +28,8 @@
     {
       "date": "2025-08-09",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPHunter Strattonfrom Gwinnett Stripers.",
-      "player": "Hunter Stratton"
+      "details": "Atlanta Bravesrecalled RHPHurston Waldrepfrom Gwinnett Stripers.",
+      "player": "Hurston Waldrep"
     },
     {
       "date": "2025-08-09",
@@ -39,21 +39,21 @@
     },
     {
       "date": "2025-08-09",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned LHPDylan Doddto Gwinnett Stripers.",
-      "player": "Dylan Dodd"
-    },
-    {
-      "date": "2025-08-09",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPHurston Waldrepfrom Gwinnett Stripers.",
-      "player": "Hurston Waldrep"
-    },
-    {
-      "date": "2025-08-09",
       "team": "Miami Marlins",
       "details": "Miami Marlinsrecalled RHPTyler Zuberfrom Jacksonville Jumbo Shrimp.",
       "player": "Tyler Zuber"
+    },
+    {
+      "date": "2025-08-09",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPHunter Strattonfrom Gwinnett Stripers.",
+      "player": "Hunter Stratton"
+    },
+    {
+      "date": "2025-08-09",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned LHPDylan Doddto Gwinnett Stripers.",
+      "player": "Dylan Dodd"
     }
   ]
 }
