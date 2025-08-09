@@ -1,42 +1,6 @@
 {
-  "last_updated": "2025-08-09T21:24:06.159044",
+  "last_updated": "2025-08-09T22:25:32.844486",
   "transactions": [
-    {
-      "date": "2025-08-09",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated 3BVidal Bruján.",
-      "player": "Vidal Bruján"
-    },
-    {
-      "date": "2025-08-09",
-      "team": "Athletics",
-      "details": "Athleticsplaced RHPLuis Severinoon the 15-day injured list retroactive to August 6, 2025. Left oblique strain.",
-      "player": "Luis Severino"
-    },
-    {
-      "date": "2025-08-09",
-      "team": "Arizona Diamondbacks",
-      "details": "RHPNabil Crismattassigned toArizona Diamondbacks.",
-      "player": "Nabil Crismatt"
-    },
-    {
-      "date": "2025-08-09",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent 2BMichael Masseyon a rehab assignment to Omaha Storm Chasers.",
-      "player": "Michael Massey"
-    },
-    {
-      "date": "2025-08-09",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent LHPMartín Pérezon a rehab assignment to Charlotte Knights.",
-      "player": "Martín Pérez"
-    },
-    {
-      "date": "2025-08-09",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresactivated RHPMichael Kingfrom the 60-day injured list.",
-      "player": "Michael King"
-    },
     {
       "date": "2025-08-09",
       "team": "Miami Marlins",
@@ -57,9 +21,63 @@
     },
     {
       "date": "2025-08-09",
+      "team": "Arizona Diamondbacks",
+      "details": "RHPNabil Crismattassigned toArizona Diamondbacks.",
+      "player": "Nabil Crismatt"
+    },
+    {
+      "date": "2025-08-09",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent LHPMartín Pérezon a rehab assignment to Charlotte Knights.",
+      "player": "Martín Pérez"
+    },
+    {
+      "date": "2025-08-09",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent 2BMichael Masseyon a rehab assignment to Omaha Storm Chasers.",
+      "player": "Michael Massey"
+    },
+    {
+      "date": "2025-08-09",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned SSJonathan Ornelasto Gwinnett Stripers.",
-      "player": "Jonathan Ornelas"
+      "details": "Atlanta Bravesactivated 3BVidal Bruján.",
+      "player": "Vidal Bruján"
+    },
+    {
+      "date": "2025-08-09",
+      "team": "Athletics",
+      "details": "Athleticsplaced RHPLuis Severinoon the 15-day injured list retroactive to August 6, 2025. Left oblique strain.",
+      "player": "Luis Severino"
+    },
+    {
+      "date": "2025-08-09",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated RHPMichael Kingfrom the 60-day injured list.",
+      "player": "Michael King"
+    },
+    {
+      "date": "2025-08-09",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxreleased RHPGus Varland.",
+      "player": "Gus Varland"
+    },
+    {
+      "date": "2025-08-09",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssigned free agent RHPTravis MacGregorto a minor league contract.",
+      "player": "Travis MacGregor"
+    },
+    {
+      "date": "2025-08-09",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPHurston Waldrepfrom Gwinnett Stripers.",
+      "player": "Hurston Waldrep"
+    },
+    {
+      "date": "2025-08-09",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPHunter Strattonfrom Gwinnett Stripers.",
+      "player": "Hunter Stratton"
     },
     {
       "date": "2025-08-09",
@@ -70,8 +88,8 @@
     {
       "date": "2025-08-09",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled RHPJuan Burgosfrom Reno Aces.",
-      "player": "Juan Burgos"
+      "details": "Arizona Diamondbacksoptioned RHPCasey Kellyto Reno Aces.",
+      "player": "Casey Kelly"
     },
     {
       "date": "2025-08-09",
@@ -81,9 +99,15 @@
     },
     {
       "date": "2025-08-09",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned SSJonathan Ornelasto Gwinnett Stripers.",
+      "player": "Jonathan Ornelas"
+    },
+    {
+      "date": "2025-08-09",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned RHPCasey Kellyto Reno Aces.",
-      "player": "Casey Kelly"
+      "details": "Arizona Diamondbacksrecalled RHPJuan Burgosfrom Reno Aces.",
+      "player": "Juan Burgos"
     },
     {
       "date": "2025-08-09",
@@ -93,15 +117,15 @@
     },
     {
       "date": "2025-08-09",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled RHPRyan Gustofrom Jacksonville Jumbo Shrimp.",
-      "player": "Ryan Gusto"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPLuis Contrerasoutright to Sugar Land Space Cowboys.",
+      "player": "Luis Contreras"
     },
     {
       "date": "2025-08-09",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPHurston Waldrepfrom Gwinnett Stripers.",
-      "player": "Hurston Waldrep"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPRyan Gustofrom Jacksonville Jumbo Shrimp.",
+      "player": "Ryan Gusto"
     },
     {
       "date": "2025-08-09",
@@ -114,12 +138,6 @@
       "team": "Athletics",
       "details": "Athleticsrecalled LHPHogan Harrisfrom Las Vegas Aviators.",
       "player": "Hogan Harris"
-    },
-    {
-      "date": "2025-08-09",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPHunter Strattonfrom Gwinnett Stripers.",
-      "player": "Hunter Stratton"
     }
   ]
 }
