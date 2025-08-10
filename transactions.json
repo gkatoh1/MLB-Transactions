@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-08-10T15:26:02.919089",
+  "last_updated": "2025-08-10T16:31:43.493576",
   "transactions": [
+    {
+      "date": "2025-08-10",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced CFMatt Vierlingon the 10-day injured list. Left oblique strain.",
+      "player": "Matt Vierling"
+    },
     {
       "date": "2025-08-10",
       "team": "New York Yankees",
@@ -9,15 +15,9 @@
     },
     {
       "date": "2025-08-10",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPCam Booserfrom Charlotte Knights.",
-      "player": "Cam Booser"
-    },
-    {
-      "date": "2025-08-10",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled CJ.C. Escarrafrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "J.C. Escarra"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent 3BAlec Bohmon a rehab assignment to Lehigh Valley IronPigs.",
+      "player": "Alec Bohm"
     },
     {
       "date": "2025-08-10",
@@ -27,15 +27,21 @@
     },
     {
       "date": "2025-08-10",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPRyan Gustoto Jacksonville Jumbo Shrimp.",
-      "player": "Ryan Gusto"
-    },
-    {
-      "date": "2025-08-10",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
       "player": "Hunter Stratton"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled SSTrey Sweeneyfrom Toledo Mud Hens.",
+      "player": "Trey Sweeney"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPRyan Gustoto Jacksonville Jumbo Shrimp.",
+      "player": "Ryan Gusto"
     },
     {
       "date": "2025-08-10",
@@ -46,8 +52,32 @@
     {
       "date": "2025-08-10",
       "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPCam Booserfrom Charlotte Knights.",
+      "player": "Cam Booser"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPDavid Robertsonfrom Lehigh Valley IronPigs.",
+      "player": "David Robertson"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPAlan Rangelto Lehigh Valley IronPigs.",
+      "player": "Alan Rangel"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned RHPWikelman Gonzálezto Charlotte Knights.",
       "player": "Wikelman González"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled CJ.C. Escarrafrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "J.C. Escarra"
     }
   ]
 }
