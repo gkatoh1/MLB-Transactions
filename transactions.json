@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-08-10T22:25:20.553399",
+  "last_updated": "2025-08-10T23:25:10.540657",
   "transactions": [
-    {
-      "date": "2025-08-10",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersplaced CFMatt Vierlingon the 10-day injured list. Left oblique strain.",
-      "player": "Matt Vierling"
-    },
-    {
-      "date": "2025-08-10",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessigned free agent RHPXzavion Curryto a minor league contract.",
-      "player": "Xzavion Curry"
-    },
     {
       "date": "2025-08-10",
       "team": "San Francisco Giants",
@@ -27,15 +15,27 @@
     },
     {
       "date": "2025-08-10",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessigned free agent RHPXzavion Curryto a minor league contract.",
+      "player": "Xzavion Curry"
+    },
+    {
+      "date": "2025-08-10",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesdesignated RHPDomingo Gonzalezfor assignment.",
       "player": "Domingo Gonzalez"
     },
     {
       "date": "2025-08-10",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessent 3BAlec Bohmon a rehab assignment to Lehigh Valley IronPigs.",
-      "player": "Alec Bohm"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent SSDamon Duesto a minor league contract.",
+      "player": "Damon Dues"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced CFMatt Vierlingon the 10-day injured list. Left oblique strain.",
+      "player": "Matt Vierling"
     },
     {
       "date": "2025-08-10",
@@ -51,45 +51,9 @@
     },
     {
       "date": "2025-08-10",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressigned free agent SSDamon Duesto a minor league contract.",
-      "player": "Damon Dues"
-    },
-    {
-      "date": "2025-08-10",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPConnor Seaboldto Gwinnett Stripers.",
-      "player": "Connor Seabold"
-    },
-    {
-      "date": "2025-08-10",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssent 1BLuken Bakeroutright to Oklahoma City Comets.",
-      "player": "Luken Baker"
-    },
-    {
-      "date": "2025-08-10",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled SSTrey Sweeneyfrom Toledo Mud Hens.",
-      "player": "Trey Sweeney"
-    },
-    {
-      "date": "2025-08-10",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RHPLuke Jacksonoutright to Toledo Mud Hens.",
-      "player": "Luke Jackson"
-    },
-    {
-      "date": "2025-08-10",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Columbus Clingstones.",
-      "player": "Hunter Stratton"
-    },
-    {
-      "date": "2025-08-10",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesclaimed RHPConnor Seaboldoff waivers fromTampa Bay Rays.",
-      "player": "Connor Seabold"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent 3BAlec Bohmon a rehab assignment to Lehigh Valley IronPigs.",
+      "player": "Alec Bohm"
     },
     {
       "date": "2025-08-10",
@@ -105,9 +69,15 @@
     },
     {
       "date": "2025-08-10",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPRyan Gustoto Jacksonville Jumbo Shrimp.",
-      "player": "Ryan Gusto"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled SSTrey Sweeneyfrom Toledo Mud Hens.",
+      "player": "Trey Sweeney"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPLuke Jacksonoutright to Toledo Mud Hens.",
+      "player": "Luke Jackson"
     },
     {
       "date": "2025-08-10",
@@ -120,6 +90,24 @@
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned LHPBryan Hudsonto Charlotte Knights.",
       "player": "Bryan Hudson"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed RHPConnor Seaboldoff waivers fromTampa Bay Rays.",
+      "player": "Connor Seabold"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPRyan Gustoto Jacksonville Jumbo Shrimp.",
+      "player": "Ryan Gusto"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Columbus Clingstones.",
+      "player": "Hunter Stratton"
     },
     {
       "date": "2025-08-10",
@@ -150,6 +138,18 @@
       "team": "New York Yankees",
       "details": "New York Yankeesrecalled CJ.C. Escarrafrom Scranton/Wilkes-Barre RailRiders.",
       "player": "J.C. Escarra"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPConnor Seaboldto Gwinnett Stripers.",
+      "player": "Connor Seabold"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent 1BLuken Bakeroutright to Oklahoma City Comets.",
+      "player": "Luken Baker"
     }
   ]
 }
