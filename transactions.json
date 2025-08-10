@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-08-10T19:20:36.003908",
+  "last_updated": "2025-08-10T20:28:24.194941",
   "transactions": [
-    {
-      "date": "2025-08-10",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessent 3BAlec Bohmon a rehab assignment to Lehigh Valley IronPigs.",
-      "player": "Alec Bohm"
-    },
     {
       "date": "2025-08-10",
       "team": "Colorado Rockies",
@@ -21,9 +15,27 @@
     },
     {
       "date": "2025-08-10",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent 3BAlec Bohmon a rehab assignment to Lehigh Valley IronPigs.",
+      "player": "Alec Bohm"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent SSDamon Duesto a minor league contract.",
+      "player": "Damon Dues"
+    },
+    {
+      "date": "2025-08-10",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantssent RHPLanden Rouppon a rehab assignment to Sacramento River Cats.",
       "player": "Landen Roupp"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated RHPJorge Alcala.",
+      "player": "Jorge Alcala"
     },
     {
       "date": "2025-08-10",
@@ -33,51 +45,15 @@
     },
     {
       "date": "2025-08-10",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPRyan Gustoto Jacksonville Jumbo Shrimp.",
-      "player": "Ryan Gusto"
-    },
-    {
-      "date": "2025-08-10",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPWikelman Gonzálezto Charlotte Knights.",
-      "player": "Wikelman González"
-    },
-    {
-      "date": "2025-08-10",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Columbus Clingstones.",
-      "player": "Hunter Stratton"
-    },
-    {
-      "date": "2025-08-10",
       "team": "New York Yankees",
       "details": "New York Yankeesrecalled CJ.C. Escarrafrom Scranton/Wilkes-Barre RailRiders.",
       "player": "J.C. Escarra"
     },
     {
       "date": "2025-08-10",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled SSTrey Sweeneyfrom Toledo Mud Hens.",
-      "player": "Trey Sweeney"
-    },
-    {
-      "date": "2025-08-10",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned LHPBryan Hudsonto Charlotte Knights.",
-      "player": "Bryan Hudson"
-    },
-    {
-      "date": "2025-08-10",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPCam Booserfrom Charlotte Knights.",
-      "player": "Cam Booser"
-    },
-    {
-      "date": "2025-08-10",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled RHPElvis Peguerofrom Charlotte Knights.",
-      "player": "Elvis Peguero"
+      "details": "Chicago White Soxoptioned RHPWikelman Gonzálezto Charlotte Knights.",
+      "player": "Wikelman González"
     },
     {
       "date": "2025-08-10",
@@ -90,6 +66,48 @@
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesoptioned RHPAlan Rangelto Lehigh Valley IronPigs.",
       "player": "Alan Rangel"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPCam Booserfrom Charlotte Knights.",
+      "player": "Cam Booser"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled SSTrey Sweeneyfrom Toledo Mud Hens.",
+      "player": "Trey Sweeney"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPRyan Gustoto Jacksonville Jumbo Shrimp.",
+      "player": "Ryan Gusto"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPBryan Hudsonto Charlotte Knights.",
+      "player": "Bryan Hudson"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPGordon Graceffoto Memphis Redbirds.",
+      "player": "Gordon Graceffo"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPElvis Peguerofrom Charlotte Knights.",
+      "player": "Elvis Peguero"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Columbus Clingstones.",
+      "player": "Hunter Stratton"
     }
   ]
 }
