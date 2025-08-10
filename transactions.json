@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-08-10T18:35:38.001377",
+  "last_updated": "2025-08-10T19:20:36.003908",
   "transactions": [
-    {
-      "date": "2025-08-10",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssent RHPLanden Rouppon a rehab assignment to Sacramento River Cats.",
-      "player": "Landen Roupp"
-    },
     {
       "date": "2025-08-10",
       "team": "Philadelphia Phillies",
@@ -15,9 +9,9 @@
     },
     {
       "date": "2025-08-10",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced 3BAmed Rosarioon the 10-day injured list retroactive to August 9, 2025. Left SC joint sprain.",
-      "player": "Amed Rosario"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessigned free agent RHPXzavion Curryto a minor league contract.",
+      "player": "Xzavion Curry"
     },
     {
       "date": "2025-08-10",
@@ -27,15 +21,15 @@
     },
     {
       "date": "2025-08-10",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned LHPBryan Hudsonto Charlotte Knights.",
-      "player": "Bryan Hudson"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent RHPLanden Rouppon a rehab assignment to Sacramento River Cats.",
+      "player": "Landen Roupp"
     },
     {
       "date": "2025-08-10",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled SSTrey Sweeneyfrom Toledo Mud Hens.",
-      "player": "Trey Sweeney"
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced 3BAmed Rosarioon the 10-day injured list retroactive to August 9, 2025. Left SC joint sprain.",
+      "player": "Amed Rosario"
     },
     {
       "date": "2025-08-10",
@@ -45,8 +39,14 @@
     },
     {
       "date": "2025-08-10",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPWikelman Gonzálezto Charlotte Knights.",
+      "player": "Wikelman González"
+    },
+    {
+      "date": "2025-08-10",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
+      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Columbus Clingstones.",
       "player": "Hunter Stratton"
     },
     {
@@ -54,6 +54,18 @@
       "team": "New York Yankees",
       "details": "New York Yankeesrecalled CJ.C. Escarrafrom Scranton/Wilkes-Barre RailRiders.",
       "player": "J.C. Escarra"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled SSTrey Sweeneyfrom Toledo Mud Hens.",
+      "player": "Trey Sweeney"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPBryan Hudsonto Charlotte Knights.",
+      "player": "Bryan Hudson"
     },
     {
       "date": "2025-08-10",
@@ -78,12 +90,6 @@
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesoptioned RHPAlan Rangelto Lehigh Valley IronPigs.",
       "player": "Alan Rangel"
-    },
-    {
-      "date": "2025-08-10",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPWikelman Gonzálezto Charlotte Knights.",
-      "player": "Wikelman González"
     }
   ]
 }
