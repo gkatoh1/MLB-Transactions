@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-08-10T20:28:24.194941",
+  "last_updated": "2025-08-10T21:24:18.029587",
   "transactions": [
     {
       "date": "2025-08-10",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiessigned free agent RHPXzavion Curryto a minor league contract.",
       "player": "Xzavion Curry"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent RHPLanden Rouppon a rehab assignment to Sacramento River Cats.",
+      "player": "Landen Roupp"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated RHPJorge Alcala.",
+      "player": "Jorge Alcala"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent COmar Narváezto a minor league contract.",
+      "player": "Omar Narváez"
     },
     {
       "date": "2025-08-10",
@@ -27,33 +45,9 @@
     },
     {
       "date": "2025-08-10",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssent RHPLanden Rouppon a rehab assignment to Sacramento River Cats.",
-      "player": "Landen Roupp"
-    },
-    {
-      "date": "2025-08-10",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsactivated RHPJorge Alcala.",
-      "player": "Jorge Alcala"
-    },
-    {
-      "date": "2025-08-10",
       "team": "New York Yankees",
       "details": "New York Yankeesplaced 3BAmed Rosarioon the 10-day injured list retroactive to August 9, 2025. Left SC joint sprain.",
       "player": "Amed Rosario"
-    },
-    {
-      "date": "2025-08-10",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled CJ.C. Escarrafrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "J.C. Escarra"
-    },
-    {
-      "date": "2025-08-10",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPWikelman Gonzálezto Charlotte Knights.",
-      "player": "Wikelman González"
     },
     {
       "date": "2025-08-10",
@@ -70,8 +64,14 @@
     {
       "date": "2025-08-10",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPCam Booserfrom Charlotte Knights.",
-      "player": "Cam Booser"
+      "details": "Chicago White Soxoptioned RHPWikelman Gonzálezto Charlotte Knights.",
+      "player": "Wikelman González"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled CJ.C. Escarrafrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "J.C. Escarra"
     },
     {
       "date": "2025-08-10",
@@ -99,15 +99,21 @@
     },
     {
       "date": "2025-08-10",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled RHPElvis Peguerofrom Charlotte Knights.",
-      "player": "Elvis Peguero"
-    },
-    {
-      "date": "2025-08-10",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPHunter Strattonto Columbus Clingstones.",
       "player": "Hunter Stratton"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPCam Booserfrom Charlotte Knights.",
+      "player": "Cam Booser"
+    },
+    {
+      "date": "2025-08-10",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPElvis Peguerofrom Charlotte Knights.",
+      "player": "Elvis Peguero"
     }
   ]
 }
