@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-08-11T16:35:48.660420",
+  "last_updated": "2025-08-11T17:26:19.298386",
   "transactions": [
+    {
+      "date": "2025-08-11",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated CFByron Buxtonfrom the 10-day injured list.",
+      "player": "Byron Buxton"
+    },
     {
       "date": "2025-08-11",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsoptioned RHPJack Kochanowiczto Salt Lake Bees.",
       "player": "Jack Kochanowicz"
+    },
+    {
+      "date": "2025-08-11",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned LFCarson McCuskerto St. Paul Saints.",
+      "player": "Carson McCusker"
     }
   ]
 }
