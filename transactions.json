@@ -1,24 +1,6 @@
 {
-  "last_updated": "2025-08-11T21:23:32.088487",
+  "last_updated": "2025-08-11T22:26:00.749892",
   "transactions": [
-    {
-      "date": "2025-08-11",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated RHPCristian Javierfrom the 60-day injured list.",
-      "player": "Cristian Javier"
-    },
-    {
-      "date": "2025-08-11",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPHouston Rothfor assignment.",
-      "player": "Houston Roth"
-    },
-    {
-      "date": "2025-08-11",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxdesignated RHPNick Burdifor assignment.",
-      "player": "Nick Burdi"
-    },
     {
       "date": "2025-08-11",
       "team": "Boston Red Sox",
@@ -28,14 +10,32 @@
     {
       "date": "2025-08-11",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksdesignated RHPKendall Gravemanfor assignment.",
-      "player": "Kendall Graveman"
+      "details": "Arizona Diamondbacksdesignated RHPJeff Brighamfor assignment.",
+      "player": "Jeff Brigham"
+    },
+    {
+      "date": "2025-08-11",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxdesignated RHPNick Burdifor assignment.",
+      "player": "Nick Burdi"
     },
     {
       "date": "2025-08-11",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesdesignated CAustin Nolafor assignment.",
       "player": "Austin Nola"
+    },
+    {
+      "date": "2025-08-11",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated 2BScott Kingeryfor assignment.",
+      "player": "Scott Kingery"
+    },
+    {
+      "date": "2025-08-11",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated RHPCristian Javierfrom the 60-day injured list.",
+      "player": "Cristian Javier"
     },
     {
       "date": "2025-08-11",
@@ -46,14 +46,32 @@
     {
       "date": "2025-08-11",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksdesignated RHPJeff Brighamfor assignment.",
-      "player": "Jeff Brigham"
+      "details": "Arizona Diamondbacksdesignated RHPKendall Gravemanfor assignment.",
+      "player": "Kendall Graveman"
     },
     {
       "date": "2025-08-11",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPJose Espadato Norfolk Tides.",
-      "player": "Jose Espada"
+      "details": "Baltimore Oriolesdesignated RHPHouston Rothfor assignment.",
+      "player": "Houston Roth"
+    },
+    {
+      "date": "2025-08-11",
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated LFCooper Hummelfor assignment.",
+      "player": "Cooper Hummel"
+    },
+    {
+      "date": "2025-08-11",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPJack Kochanowiczto Salt Lake Bees.",
+      "player": "Jack Kochanowicz"
+    },
+    {
+      "date": "2025-08-11",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsselected the contract of RHPShaun Andersonfrom Salt Lake Bees.",
+      "player": "Shaun Anderson"
     },
     {
       "date": "2025-08-11",
@@ -66,12 +84,6 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned 2BDavid Hamiltonto Worcester Red Sox.",
       "player": "David Hamilton"
-    },
-    {
-      "date": "2025-08-11",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPChris Murphyto Worcester Red Sox.",
-      "player": "Chris Murphy"
     },
     {
       "date": "2025-08-11",
@@ -93,6 +105,12 @@
     },
     {
       "date": "2025-08-11",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LHPColton Gordonto Sugar Land Space Cowboys.",
+      "player": "Colton Gordon"
+    },
+    {
+      "date": "2025-08-11",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksclaimed RHPGus Varlandoff waivers fromChicago White Sox.",
       "player": "Gus Varland"
@@ -105,21 +123,15 @@
     },
     {
       "date": "2025-08-11",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned LHPColton Gordonto Sugar Land Space Cowboys.",
-      "player": "Colton Gordon"
-    },
-    {
-      "date": "2025-08-11",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesrecalled RHPChase Dollanderfrom Albuquerque Isotopes.",
       "player": "Chase Dollander"
     },
     {
       "date": "2025-08-11",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned RHPJack Kochanowiczto Salt Lake Bees.",
-      "player": "Jack Kochanowicz"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPJose Espadato Norfolk Tides.",
+      "player": "Jose Espada"
     },
     {
       "date": "2025-08-11",
@@ -129,9 +141,15 @@
     },
     {
       "date": "2025-08-11",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsselected the contract of RHPShaun Andersonfrom Salt Lake Bees.",
-      "player": "Shaun Anderson"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPChris Murphyto Worcester Red Sox.",
+      "player": "Chris Murphy"
+    },
+    {
+      "date": "2025-08-11",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled LFJacob Meltonfrom Sugar Land Space Cowboys.",
+      "player": "Jacob Melton"
     }
   ]
 }
