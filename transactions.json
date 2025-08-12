@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-08-12T18:39:32.559156",
+  "last_updated": "2025-08-12T19:21:14.192004",
   "transactions": [
     {
       "date": "2025-08-12",
       "team": "New York Yankees",
       "details": "New York Yankeessigned free agent CRob Brantlyto a minor league contract.",
       "player": "Rob Brantly"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated RHPAnthony Benderfrom the paternity list.",
+      "player": "Anthony Bender"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent LHPChris Saleon a rehab assignment to Gwinnett Stripers.",
+      "player": "Chris Sale"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated CFDaniel Johnson.",
+      "player": "Daniel Johnson"
     },
     {
       "date": "2025-08-12",
@@ -21,12 +39,6 @@
     },
     {
       "date": "2025-08-12",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated CFDaniel Johnson.",
-      "player": "Daniel Johnson"
-    },
-    {
-      "date": "2025-08-12",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravessent LHPChris Saleon a rehab assignment to Gwinnett Stripers.",
       "player": "Chris Sale"
@@ -39,9 +51,21 @@
     },
     {
       "date": "2025-08-12",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPTylor Megillon a rehab assignment to Binghamton Rumble Ponies.",
+      "player": "Tylor Megill"
+    },
+    {
+      "date": "2025-08-12",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersclaimed RHPDomingo Gonzalezoff waivers fromAtlanta Braves.",
       "player": "Domingo Gonzalez"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned CJhonny Peredato St. Paul Saints.",
+      "player": "Jhonny Pereda"
     },
     {
       "date": "2025-08-12",
@@ -54,12 +78,6 @@
       "team": "Seattle Mariners",
       "details": "Seattle Marinersoptioned RHPDomingo Gonzalezto Tacoma Rainiers.",
       "player": "Domingo Gonzalez"
-    },
-    {
-      "date": "2025-08-12",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned CJhonny Peredato St. Paul Saints.",
-      "player": "Jhonny Pereda"
     }
   ]
 }
