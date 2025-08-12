@@ -1,6 +1,24 @@
 {
-  "last_updated": "2025-08-12T21:25:16.863569",
+  "last_updated": "2025-08-12T22:25:16.421131",
   "transactions": [
+    {
+      "date": "2025-08-12",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned free agent 1BMatt Mervisto a minor league contract.",
+      "player": "Matt Mervis"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent LHPChris Saleon a rehab assignment to Gwinnett Stripers.",
+      "player": "Chris Sale"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated CMiguel Amayafrom the 60-day injured list.",
+      "player": "Miguel Amaya"
+    },
     {
       "date": "2025-08-12",
       "team": "Houston Astros",
@@ -15,9 +33,51 @@
     },
     {
       "date": "2025-08-12",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessent RHPDaniel Roberton a rehab assignment to Lehigh Valley IronPigs.",
-      "player": "Daniel Robert"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssigned free agent OFAndrew Sojkato a minor league contract.",
+      "player": "Andrew Sojka"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated RHPHéctor Nerisfor assignment.",
+      "player": "Héctor Neris"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssigned free agent RHPJulian Merryweatherto a minor league contract.",
+      "player": "Julian Merryweather"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated LFCorey Julksfor assignment.",
+      "player": "Corey Julks"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPAlbert Suárezon a rehab assignment to Chesapeake Baysox.",
+      "player": "Albert Suárez"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated 1BBuddy Kennedyfor assignment.",
+      "player": "Buddy Kennedy"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent 1BPavin Smithon a rehab assignment to Reno Aces.",
+      "player": "Pavin Smith"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated 2BAndrés Giménezfrom the 10-day injured list.",
+      "player": "Andrés Giménez"
     },
     {
       "date": "2025-08-12",
@@ -33,81 +93,15 @@
     },
     {
       "date": "2025-08-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsdesignated 3BJon Bertifor assignment.",
-      "player": "Jon Berti"
-    },
-    {
-      "date": "2025-08-12",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssent CFEvan Carteron a rehab assignment to Frisco RoughRiders.",
-      "player": "Evan Carter"
-    },
-    {
-      "date": "2025-08-12",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated LFCorey Julksfor assignment.",
-      "player": "Corey Julks"
-    },
-    {
-      "date": "2025-08-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPJavier Assadfrom the 60-day injured list.",
-      "player": "Javier Assad"
-    },
-    {
-      "date": "2025-08-12",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated 3BMiguel Vargasfrom the 10-day injured list.",
-      "player": "Miguel Vargas"
-    },
-    {
-      "date": "2025-08-12",
       "team": "Houston Astros",
       "details": "Houston Astrosactivated RHPShawn Dubinfrom the 15-day injured list.",
       "player": "Shawn Dubin"
     },
     {
       "date": "2025-08-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent LHPChris Saleon a rehab assignment to Gwinnett Stripers.",
-      "player": "Chris Sale"
-    },
-    {
-      "date": "2025-08-12",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated CFDaniel Johnson.",
-      "player": "Daniel Johnson"
-    },
-    {
-      "date": "2025-08-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent LHPChris Saleon a rehab assignment to Gwinnett Stripers.",
-      "player": "Chris Sale"
-    },
-    {
-      "date": "2025-08-12",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssigned free agent OFAndrew Sojkato a minor league contract.",
-      "player": "Andrew Sojka"
-    },
-    {
-      "date": "2025-08-12",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent LFMark Canhaon a rehab assignment to Omaha Storm Chasers.",
-      "player": "Mark Canha"
-    },
-    {
-      "date": "2025-08-12",
-      "team": "Houston Astros",
-      "details": "Houston Astrosdesignated RHPHéctor Nerisfor assignment.",
-      "player": "Héctor Neris"
-    },
-    {
-      "date": "2025-08-12",
-      "team": "New York Yankees",
-      "details": "New York Yankeessigned free agent CRob Brantlyto a minor league contract.",
-      "player": "Rob Brantly"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated 3BJon Bertifor assignment.",
+      "player": "Jon Berti"
     },
     {
       "date": "2025-08-12",
@@ -117,15 +111,57 @@
     },
     {
       "date": "2025-08-12",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent RHPDaniel Roberton a rehab assignment to Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned free agent CRob Brantlyto a minor league contract.",
+      "player": "Rob Brantly"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated CFDaniel Johnson.",
+      "player": "Daniel Johnson"
+    },
+    {
+      "date": "2025-08-12",
       "team": "Miami Marlins",
       "details": "Miami Marlinsactivated RHPAnthony Benderfrom the paternity list.",
       "player": "Anthony Bender"
     },
     {
       "date": "2025-08-12",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssigned free agent RHPJulian Merryweatherto a minor league contract.",
-      "player": "Julian Merryweather"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent LHPChris Saleon a rehab assignment to Gwinnett Stripers.",
+      "player": "Chris Sale"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent LFMark Canhaon a rehab assignment to Omaha Storm Chasers.",
+      "player": "Mark Canha"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPTylor Megillon a rehab assignment to Binghamton Rumble Ponies.",
+      "player": "Tylor Megill"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated 3BMiguel Vargasfrom the 10-day injured list.",
+      "player": "Miguel Vargas"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent CFEvan Carteron a rehab assignment to Frisco RoughRiders.",
+      "player": "Evan Carter"
     },
     {
       "date": "2025-08-12",
@@ -135,21 +171,21 @@
     },
     {
       "date": "2025-08-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated CMiguel Amayafrom the 60-day injured list.",
-      "player": "Miguel Amaya"
-    },
-    {
-      "date": "2025-08-12",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned CJhonny Peredato St. Paul Saints.",
-      "player": "Jhonny Pereda"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent 2BIldemaro Vargason a rehab assignment to Reno Aces.",
+      "player": "Ildemaro Vargas"
     },
     {
       "date": "2025-08-12",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned RHPNate Pearsonto Iowa Cubs.",
-      "player": "Nate Pearson"
+      "details": "Chicago Cubsactivated RHPJavier Assadfrom the 60-day injured list.",
+      "player": "Javier Assad"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersclaimed RHPDomingo Gonzalezoff waivers fromAtlanta Braves.",
+      "player": "Domingo Gonzalez"
     },
     {
       "date": "2025-08-12",
@@ -165,6 +201,36 @@
     },
     {
       "date": "2025-08-12",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled 2BTyler Fitzgeraldfrom Sacramento River Cats.",
+      "player": "Tyler Fitzgerald"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned LHPCarson Whisenhuntto Sacramento River Cats.",
+      "player": "Carson Whisenhunt"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned CJhonny Peredato St. Paul Saints.",
+      "player": "Jhonny Pereda"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPNate Pearsonto Iowa Cubs.",
+      "player": "Nate Pearson"
+    },
+    {
+      "date": "2025-08-12",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned CFJordyn Adamsto Norfolk Tides.",
+      "player": "Jordyn Adams"
+    },
+    {
+      "date": "2025-08-12",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned RHPElvis Pegueroto Charlotte Knights.",
       "player": "Elvis Peguero"
@@ -174,18 +240,6 @@
       "team": "Chicago White Sox",
       "details": "Chicago White Soxselected the contract of RHPYoendrys Gómezfrom Charlotte Knights.",
       "player": "Yoendrys Gómez"
-    },
-    {
-      "date": "2025-08-12",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersclaimed RHPDomingo Gonzalezoff waivers fromAtlanta Braves.",
-      "player": "Domingo Gonzalez"
-    },
-    {
-      "date": "2025-08-12",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned CFJordyn Adamsto Norfolk Tides.",
-      "player": "Jordyn Adams"
     }
   ]
 }
