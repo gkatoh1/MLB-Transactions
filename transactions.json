@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-08-13T18:37:38.242684",
+  "last_updated": "2025-08-13T19:21:19.320090",
   "transactions": [
     {
       "date": "2025-08-13",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsactivated RHPHunter Greenefrom the 15-day injured list.",
       "player": "Hunter Greene"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced RHPAnthony DeSclafanion the 15-day injured list. Right thumb inflammation.",
+      "player": "Anthony DeSclafani"
     },
     {
       "date": "2025-08-13",
@@ -39,12 +45,6 @@
     },
     {
       "date": "2025-08-13",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated LHPJared Shusterfor assignment.",
-      "player": "Jared Shuster"
-    },
-    {
-      "date": "2025-08-13",
       "team": "Texas Rangers",
       "details": "Texas Rangersplaced RFAdolis Garcíaon the 10-day injured list. Left ankle sprain.",
       "player": "Adolis García"
@@ -57,15 +57,51 @@
     },
     {
       "date": "2025-08-13",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksplaced RHPAnthony DeSclafanion the 15-day injured list. Right thumb inflammation.",
-      "player": "Anthony DeSclafani"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPSawyer Gipson-Longfrom the 15-day injured list.",
+      "player": "Sawyer Gipson-Long"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "New York Mets",
+      "details": "New York Metsactivated RHPPaul Blackburnfrom the 15-day injured list.",
+      "player": "Paul Blackburn"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated LHPJared Shusterfor assignment.",
+      "player": "Jared Shuster"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LHPColton Gordonto Sugar Land Space Cowboys.",
+      "player": "Colton Gordon"
     },
     {
       "date": "2025-08-13",
       "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated RHPSawyer Gipson-Longfrom the 15-day injured list.",
-      "player": "Sawyer Gipson-Long"
+      "details": "Detroit Tigersoptioned RHPCodi Heuerto Toledo Mud Hens.",
+      "player": "Codi Heuer"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJustin Hagenmanto Syracuse Mets.",
+      "player": "Justin Hagenman"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPCasey Kellyfrom Reno Aces.",
+      "player": "Casey Kelly"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Houston Astros",
+      "details": "Houston Astrosselected the contract of RHPJordan Weemsfrom Sugar Land Space Cowboys.",
+      "player": "Jordan Weems"
     },
     {
       "date": "2025-08-13",
@@ -81,21 +117,15 @@
     },
     {
       "date": "2025-08-13",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled RHPCasey Kellyfrom Reno Aces.",
-      "player": "Casey Kelly"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPHouston Rothoutright to Norfolk Tides.",
+      "player": "Houston Roth"
     },
     {
       "date": "2025-08-13",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned LHPCam Booserto Charlotte Knights.",
       "player": "Cam Booser"
-    },
-    {
-      "date": "2025-08-13",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned RHPCodi Heuerto Toledo Mud Hens.",
-      "player": "Codi Heuer"
     }
   ]
 }
