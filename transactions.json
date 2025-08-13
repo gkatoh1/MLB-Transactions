@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-08-13T16:29:36.313359",
+  "last_updated": "2025-08-13T17:21:06.262439",
   "transactions": [
+    {
+      "date": "2025-08-13",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPHunter Greenefrom the 15-day injured list.",
+      "player": "Hunter Greene"
+    },
     {
       "date": "2025-08-13",
       "team": "Toronto Blue Jays",
@@ -9,9 +15,9 @@
     },
     {
       "date": "2025-08-13",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated LHPMartín Pérezfrom the 60-day injured list.",
-      "player": "Martín Pérez"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPSawyer Gipson-Longfrom the 15-day injured list.",
+      "player": "Sawyer Gipson-Long"
     },
     {
       "date": "2025-08-13",
@@ -21,9 +27,63 @@
     },
     {
       "date": "2025-08-13",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent RHPAnderson Pilarto a minor league contract.",
+      "player": "Anderson Pilar"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced RHPAnthony DeSclafanion the 15-day injured list. Right thumb inflammation.",
+      "player": "Anthony DeSclafani"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated LHPMartín Pérezfrom the 60-day injured list.",
+      "player": "Martín Pérez"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPAlek Manoahon a rehab assignment to Buffalo Bisons.",
+      "player": "Alek Manoah"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced CFOneil Cruzon the 7-day injured list. Concussion.",
+      "player": "Oneil Cruz"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPCasey Kellyfrom Reno Aces.",
+      "player": "Casey Kelly"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPCodi Heuerto Toledo Mud Hens.",
+      "player": "Codi Heuer"
+    },
+    {
+      "date": "2025-08-13",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned LHPCam Booserto Charlotte Knights.",
       "player": "Cam Booser"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPSam Benschoterto Louisville Bats.",
+      "player": "Sam Benschoter"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled 2BRonny Simonfrom Indianapolis Indians.",
+      "player": "Ronny Simon"
     }
   ]
 }
