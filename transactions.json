@@ -1,4 +1,23 @@
 {
-  "last_updated": "2025-08-13T14:27:39.218785",
-  "transactions": []
+  "last_updated": "2025-08-13T15:25:30.467097",
+  "transactions": [
+    {
+      "date": "2025-08-13",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated LHPJared Shusterfor assignment.",
+      "player": "Jared Shuster"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated LHPMartín Pérezfrom the 60-day injured list.",
+      "player": "Martín Pérez"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPCam Booserto Charlotte Knights.",
+      "player": "Cam Booser"
+    }
+  ]
 }
