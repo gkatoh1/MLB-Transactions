@@ -1,29 +1,17 @@
 {
-  "last_updated": "2025-08-13T23:25:16.036213",
+  "last_updated": "2025-08-14T02:09:56.406755",
   "transactions": [
-    {
-      "date": "2025-08-13",
-      "team": "New York Mets",
-      "details": "New York Metsactivated RHPPaul Blackburnfrom the 15-day injured list.",
-      "player": "Paul Blackburn"
-    },
-    {
-      "date": "2025-08-13",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPAlek Manoahon a rehab assignment to Buffalo Bisons.",
-      "player": "Alek Manoah"
-    },
-    {
-      "date": "2025-08-13",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced CFOneil Cruzon the 7-day injured list. Concussion.",
-      "player": "Oneil Cruz"
-    },
     {
       "date": "2025-08-13",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxdesignated LHPJared Shusterfor assignment.",
       "player": "Jared Shuster"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssigned free agent RHPJT Brubakerto a minor league contract.",
+      "player": "JT Brubaker"
     },
     {
       "date": "2025-08-13",
@@ -33,33 +21,9 @@
     },
     {
       "date": "2025-08-13",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsreleased 3BJon Berti.",
-      "player": "Jon Berti"
-    },
-    {
-      "date": "2025-08-13",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPAlek Manoahon a rehab assignment to Buffalo Bisons.",
-      "player": "Alek Manoah"
-    },
-    {
-      "date": "2025-08-13",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksreleased RHPKendall Graveman.",
-      "player": "Kendall Graveman"
-    },
-    {
-      "date": "2025-08-13",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravessigned free agent RHPAnderson Pilarto a minor league contract.",
       "player": "Anderson Pilar"
-    },
-    {
-      "date": "2025-08-13",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated CFEvan Carterfrom the 10-day injured list.",
-      "player": "Evan Carter"
     },
     {
       "date": "2025-08-13",
@@ -81,45 +45,57 @@
     },
     {
       "date": "2025-08-13",
+      "team": "New York Mets",
+      "details": "New York Metsactivated RHPPaul Blackburnfrom the 15-day injured list.",
+      "player": "Paul Blackburn"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPAlek Manoahon a rehab assignment to Buffalo Bisons.",
+      "player": "Alek Manoah"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced CFOneil Cruzon the 7-day injured list. Concussion.",
+      "player": "Oneil Cruz"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsreleased 3BJon Berti.",
+      "player": "Jon Berti"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPAlek Manoahon a rehab assignment to Buffalo Bisons.",
+      "player": "Alek Manoah"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksreleased RHPKendall Graveman.",
+      "player": "Kendall Graveman"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated CFEvan Carterfrom the 10-day injured list.",
+      "player": "Evan Carter"
+    },
+    {
+      "date": "2025-08-13",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersactivated RHPSawyer Gipson-Longfrom the 15-day injured list.",
       "player": "Sawyer Gipson-Long"
     },
     {
       "date": "2025-08-13",
-      "team": "Houston Astros",
-      "details": "Houston Astrosselected the contract of RHPJordan Weemsfrom Sugar Land Space Cowboys.",
-      "player": "Jordan Weems"
-    },
-    {
-      "date": "2025-08-13",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned LHPCam Booserto Charlotte Knights.",
-      "player": "Cam Booser"
-    },
-    {
-      "date": "2025-08-13",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned LHPColton Gordonto Sugar Land Space Cowboys.",
-      "player": "Colton Gordon"
-    },
-    {
-      "date": "2025-08-13",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent 2BScott Kingeryoutright to Salt Lake Bees.",
-      "player": "Scott Kingery"
-    },
-    {
-      "date": "2025-08-13",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent RHPHouston Rothoutright to Norfolk Tides.",
-      "player": "Houston Roth"
-    },
-    {
-      "date": "2025-08-13",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPSam Benschoterto Louisville Bats.",
-      "player": "Sam Benschoter"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent CAustin Nolaoutright to Albuquerque Isotopes.",
+      "player": "Austin Nola"
     },
     {
       "date": "2025-08-13",
@@ -129,21 +105,45 @@
     },
     {
       "date": "2025-08-13",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPCasey Kellyfrom Reno Aces.",
+      "player": "Casey Kelly"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPSam Benschoterto Louisville Bats.",
+      "player": "Sam Benschoter"
+    },
+    {
+      "date": "2025-08-13",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesrecalled 2BRonny Simonfrom Indianapolis Indians.",
       "player": "Ronny Simon"
     },
     {
       "date": "2025-08-13",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned RHPCodi Heuerto Toledo Mud Hens.",
-      "player": "Codi Heuer"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent 2BScott Kingeryoutright to Salt Lake Bees.",
+      "player": "Scott Kingery"
     },
     {
       "date": "2025-08-13",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled RHPCasey Kellyfrom Reno Aces.",
-      "player": "Casey Kelly"
+      "team": "Houston Astros",
+      "details": "Houston Astrosselected the contract of RHPJordan Weemsfrom Sugar Land Space Cowboys.",
+      "player": "Jordan Weems"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPHouston Rothoutright to Norfolk Tides.",
+      "player": "Houston Roth"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LHPColton Gordonto Sugar Land Space Cowboys.",
+      "player": "Colton Gordon"
     },
     {
       "date": "2025-08-13",
@@ -153,9 +153,15 @@
     },
     {
       "date": "2025-08-13",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent CAustin Nolaoutright to Albuquerque Isotopes.",
-      "player": "Austin Nola"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPCodi Heuerto Toledo Mud Hens.",
+      "player": "Codi Heuer"
+    },
+    {
+      "date": "2025-08-13",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPCam Booserto Charlotte Knights.",
+      "player": "Cam Booser"
     }
   ]
 }
