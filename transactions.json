@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-08-15T22:25:46.404883",
+  "last_updated": "2025-08-15T23:24:46.152639",
   "transactions": [
+    {
+      "date": "2025-08-15",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated LHPRyan Boruckifor assignment.",
+      "player": "Ryan Borucki"
+    },
     {
       "date": "2025-08-15",
       "team": "Tampa Bay Rays",
@@ -57,12 +63,6 @@
     },
     {
       "date": "2025-08-15",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesactivated SSRyan Ritterfrom the 10-day injured list.",
-      "player": "Ryan Ritter"
-    },
-    {
-      "date": "2025-08-15",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersdesignated RHPJulian Fernándezfor assignment.",
       "player": "Julian Fernández"
@@ -78,6 +78,12 @@
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliessigned free agent SSJose Colmenaresto a minor league contract.",
       "player": "Jose Colmenares"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated SSRyan Ritterfrom the 10-day injured list.",
+      "player": "Ryan Ritter"
     },
     {
       "date": "2025-08-15",
@@ -111,12 +117,6 @@
     },
     {
       "date": "2025-08-15",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent LHPWade Mileyon a rehab assignment to Chattanooga Lookouts.",
-      "player": "Wade Miley"
-    },
-    {
-      "date": "2025-08-15",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersplaced RHPLogan Evanson the 15-day injured list. Right elbow inflammation.",
       "player": "Logan Evans"
@@ -130,14 +130,14 @@
     {
       "date": "2025-08-15",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced RHPChase Burnson the 15-day injured list retroactive to August 12, 2025. Grade 1 right flexor strain.",
-      "player": "Chase Burns"
+      "details": "Cincinnati Redssent LHPWade Mileyon a rehab assignment to Chattanooga Lookouts.",
+      "player": "Wade Miley"
     },
     {
       "date": "2025-08-15",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesdesignated LHPRyan Boruckifor assignment.",
-      "player": "Ryan Borucki"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced RHPChase Burnson the 15-day injured list retroactive to August 12, 2025. Grade 1 right flexor strain.",
+      "player": "Chase Burns"
     },
     {
       "date": "2025-08-15",
