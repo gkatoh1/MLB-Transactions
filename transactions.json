@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-15T17:23:53.058635",
+  "last_updated": "2025-08-15T18:38:19.158385",
   "transactions": [
     {
       "date": "2025-08-15",
@@ -15,9 +15,27 @@
     },
     {
       "date": "2025-08-15",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated LHPRyan Boruckifor assignment.",
+      "player": "Ryan Borucki"
+    },
+    {
+      "date": "2025-08-15",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsselected the contract of LHPJoe La Sorsafrom Louisville Bats.",
       "player": "Joe La Sorsa"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled LHPEvan Siskfrom Indianapolis Indians.",
+      "player": "Evan Sisk"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPColin Holdermanfrom Indianapolis Indians.",
+      "player": "Colin Holderman"
     }
   ]
 }
