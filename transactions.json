@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-14T23:24:45.941458",
+  "last_updated": "2025-08-15T02:10:29.394648",
   "transactions": [
     {
       "date": "2025-08-14",
@@ -15,6 +15,12 @@
     },
     {
       "date": "2025-08-14",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced CFBlake Perkinson the bereavement list.",
+      "player": "Blake Perkins"
+    },
+    {
+      "date": "2025-08-14",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelssent RHPRobert Stephensonon a rehab assignment to Salt Lake Bees.",
       "player": "Robert Stephenson"
@@ -22,44 +28,14 @@
     {
       "date": "2025-08-14",
       "team": "New York Yankees",
-      "details": "New York Yankeessent RHPFernando Cruzon a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
-      "player": "Fernando Cruz"
+      "details": "New York Yankeessent LHPRyan Yarbroughon a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Ryan Yarbrough"
     },
     {
       "date": "2025-08-14",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent LFJake Bauerson a rehab assignment to Nashville Sounds.",
-      "player": "Jake Bauers"
-    },
-    {
-      "date": "2025-08-14",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced CMiguel Amayaon the 10-day injured list. Left ankle sprain.",
-      "player": "Miguel Amaya"
-    },
-    {
-      "date": "2025-08-14",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssent RHPRoki Sasakion a rehab assignment to Oklahoma City Comets.",
-      "player": "Roki Sasaki"
-    },
-    {
-      "date": "2025-08-14",
-      "team": "New York Yankees",
-      "details": "New York Yankeessigned free agent SSAndrew Velazquezto a minor league contract.",
-      "player": "Andrew Velazquez"
-    },
-    {
-      "date": "2025-08-14",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssent RHPJacob Webbon a rehab assignment to Round Rock Express.",
-      "player": "Jacob Webb"
-    },
-    {
-      "date": "2025-08-14",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent CGabriel Morenoon a rehab assignment to Reno Aces.",
-      "player": "Gabriel Moreno"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPAlex Cobbon a rehab assignment to Toledo Mud Hens.",
+      "player": "Alex Cobb"
     },
     {
       "date": "2025-08-14",
@@ -81,15 +57,27 @@
     },
     {
       "date": "2025-08-14",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RFGeorge Springeron a rehab assignment to Buffalo Bisons.",
-      "player": "George Springer"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RHPRoki Sasakion a rehab assignment to Oklahoma City Comets.",
+      "player": "Roki Sasaki"
     },
     {
       "date": "2025-08-14",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced CFBlake Perkinson the bereavement list.",
-      "player": "Blake Perkins"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent RHPJacob Webbon a rehab assignment to Round Rock Express.",
+      "player": "Jacob Webb"
+    },
+    {
+      "date": "2025-08-14",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent CGabriel Morenoon a rehab assignment to Reno Aces.",
+      "player": "Gabriel Moreno"
+    },
+    {
+      "date": "2025-08-14",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPFernando Cruzon a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Fernando Cruz"
     },
     {
       "date": "2025-08-14",
@@ -106,14 +94,38 @@
     {
       "date": "2025-08-14",
       "team": "New York Yankees",
-      "details": "New York Yankeessent LHPRyan Yarbroughon a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
-      "player": "Ryan Yarbrough"
+      "details": "New York Yankeessigned free agent SSAndrew Velazquezto a minor league contract.",
+      "player": "Andrew Velazquez"
+    },
+    {
+      "date": "2025-08-14",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RFGeorge Springeron a rehab assignment to Buffalo Bisons.",
+      "player": "George Springer"
+    },
+    {
+      "date": "2025-08-14",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LFJake Bauerson a rehab assignment to Nashville Sounds.",
+      "player": "Jake Bauers"
+    },
+    {
+      "date": "2025-08-14",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced CMiguel Amayaon the 10-day injured list. Left ankle sprain.",
+      "player": "Miguel Amaya"
     },
     {
       "date": "2025-08-14",
       "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RHPAlex Cobbon a rehab assignment to Toledo Mud Hens.",
-      "player": "Alex Cobb"
+      "details": "Detroit Tigersrecalled LHPBailey Hornfrom Toledo Mud Hens.",
+      "player": "Bailey Horn"
+    },
+    {
+      "date": "2025-08-14",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RFOwen Caissiefrom Iowa Cubs.",
+      "player": "Owen Caissie"
     },
     {
       "date": "2025-08-14",
@@ -129,33 +141,9 @@
     },
     {
       "date": "2025-08-14",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPCam Sandersto Indianapolis Indians.",
-      "player": "Cam Sanders"
-    },
-    {
-      "date": "2025-08-14",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPHunter Strattonfrom Gwinnett Stripers.",
-      "player": "Hunter Stratton"
-    },
-    {
-      "date": "2025-08-14",
       "team": "San Diego Padres",
       "details": "San Diego Padresrecalled RHPRandy Vásquezfrom El Paso Chihuahuas.",
       "player": "Randy Vásquez"
-    },
-    {
-      "date": "2025-08-14",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent LFCorey Julksoutright to Charlotte Knights.",
-      "player": "Corey Julks"
-    },
-    {
-      "date": "2025-08-14",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled LHPBailey Hornfrom Toledo Mud Hens.",
-      "player": "Bailey Horn"
     },
     {
       "date": "2025-08-14",
@@ -165,9 +153,21 @@
     },
     {
       "date": "2025-08-14",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled RFOwen Caissiefrom Iowa Cubs.",
-      "player": "Owen Caissie"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent LFCorey Julksoutright to Charlotte Knights.",
+      "player": "Corey Julks"
+    },
+    {
+      "date": "2025-08-14",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPHunter Strattonfrom Gwinnett Stripers.",
+      "player": "Hunter Stratton"
+    },
+    {
+      "date": "2025-08-14",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPCam Sandersto Indianapolis Indians.",
+      "player": "Cam Sanders"
     }
   ]
 }
