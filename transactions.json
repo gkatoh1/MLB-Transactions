@@ -1,6 +1,72 @@
 {
-  "last_updated": "2025-08-15T19:20:13.048111",
+  "last_updated": "2025-08-15T20:28:36.291142",
   "transactions": [
+    {
+      "date": "2025-08-15",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RHPJacob Misiorowskifrom the 15-day injured list.",
+      "player": "Jacob Misiorowski"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced LFIsaac Collinson the paternity list.",
+      "player": "Isaac Collins"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RFRonald Acuña Jr.from the 10-day injured list.",
+      "player": "Ronald Acuña Jr."
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated SSRyan Ritterfrom the 10-day injured list.",
+      "player": "Ryan Ritter"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated RHPAngel Chivillifrom the restricted list.",
+      "player": "Angel Chivilli"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPSimeon Woods Richardsonon a rehab assignment to St. Paul Saints.",
+      "player": "Simeon Woods Richardson"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent LHPJohn Meanson a rehab assignment to Lake County Captains.",
+      "player": "John Means"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated SSChase Meidrothfrom the 10-day injured list.",
+      "player": "Chase Meidroth"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated SSJacob Amayafor assignment.",
+      "player": "Jacob Amaya"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersplaced RHPLogan Evanson the 15-day injured list. Right elbow inflammation.",
+      "player": "Logan Evans"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RFLuke Raleyfrom the 10-day injured list.",
+      "player": "Luke Raley"
+    },
     {
       "date": "2025-08-15",
       "team": "Cincinnati Reds",
@@ -22,20 +88,8 @@
     {
       "date": "2025-08-15",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated RHPJacob Misiorowskifrom the 15-day injured list.",
-      "player": "Jacob Misiorowski"
-    },
-    {
-      "date": "2025-08-15",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced LFIsaac Collinson the paternity list.",
-      "player": "Isaac Collins"
-    },
-    {
-      "date": "2025-08-15",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RFRonald Acuña Jr.from the 10-day injured list.",
-      "player": "Ronald Acuña Jr."
+      "details": "Milwaukee Brewersrecalled RFSteward Berroafrom Nashville Sounds.",
+      "player": "Steward Berroa"
     },
     {
       "date": "2025-08-15",
@@ -52,8 +106,26 @@
     {
       "date": "2025-08-15",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsselected the contract of LHPJoe La Sorsafrom Louisville Bats.",
+      "details": "Cincinnati Redsrecalled LHPJoe La Sorsafrom Louisville Bats.",
       "player": "Joe La Sorsa"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned 3BMiles Mastrobuonito Tacoma Rainiers.",
+      "player": "Miles Mastrobuoni"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent CSandy Leónoutright to Gwinnett Stripers.",
+      "player": "Sandy León"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled LHPTayler Saucedofrom Tacoma Rainiers.",
+      "player": "Tayler Saucedo"
     },
     {
       "date": "2025-08-15",
@@ -69,15 +141,15 @@
     },
     {
       "date": "2025-08-15",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent CSandy Leónoutright to Gwinnett Stripers.",
-      "player": "Sandy León"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned 2BAdael Amadorto Albuquerque Isotopes.",
+      "player": "Adael Amador"
     },
     {
       "date": "2025-08-15",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RFSteward Berroafrom Nashville Sounds.",
-      "player": "Steward Berroa"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPAngel Chivillito Albuquerque Isotopes.",
+      "player": "Angel Chivilli"
     }
   ]
 }
