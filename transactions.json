@@ -1,23 +1,11 @@
 {
-  "last_updated": "2025-08-16T20:26:24.244031",
+  "last_updated": "2025-08-16T21:22:42.086960",
   "transactions": [
     {
       "date": "2025-08-16",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced LFAlan Rodenon the 10-day injured list retroactive to August 15, 2025. Left thumb sprain.",
-      "player": "Alan Roden"
-    },
-    {
-      "date": "2025-08-16",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysplaced 1BJonathan Arandaon the 10-day injured list retroactive to August 1, 2025. Left wrist fracture.",
-      "player": "Jonathan Aranda"
-    },
-    {
-      "date": "2025-08-16",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated RHPPaul Blackburnfor assignment.",
-      "player": "Paul Blackburn"
+      "team": "Unknown Team",
+      "details": "RHPCarlos Carrascoelected free agency.",
+      "player": "Carlos Carrasco"
     },
     {
       "date": "2025-08-16",
@@ -27,27 +15,15 @@
     },
     {
       "date": "2025-08-16",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated RHPMichael Lorenzenfrom the 15-day injured list.",
-      "player": "Michael Lorenzen"
-    },
-    {
-      "date": "2025-08-16",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsreleased 1BNathaniel Lowe.",
-      "player": "Nathaniel Lowe"
-    },
-    {
-      "date": "2025-08-16",
-      "team": "Unknown Team",
-      "details": "RHPCarlos Carrascoelected free agency.",
-      "player": "Carlos Carrasco"
-    },
-    {
-      "date": "2025-08-16",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersplaced LHPDL Hallon the 15-day injured list. Right oblique strain.",
       "player": "DL Hall"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced 1BJonathan Arandaon the 10-day injured list retroactive to August 1, 2025. Left wrist fracture.",
+      "player": "Jonathan Aranda"
     },
     {
       "date": "2025-08-16",
@@ -58,14 +34,56 @@
     {
       "date": "2025-08-16",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPLuinder Avilato Omaha Storm Chasers.",
-      "player": "Luinder Avila"
+      "details": "Kansas City Royalsactivated RHPMichael Lorenzenfrom the 15-day injured list.",
+      "player": "Michael Lorenzen"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPPaul Blackburnfor assignment.",
+      "player": "Paul Blackburn"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsreleased 1BNathaniel Lowe.",
+      "player": "Nathaniel Lowe"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced LFAlan Rodenon the 10-day injured list retroactive to August 15, 2025. Left thumb sprain.",
+      "player": "Alan Roden"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFJoey Loperfidoto Buffalo Bisons.",
+      "player": "Joey Loperfido"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPGrant Andersonfrom Nashville Sounds.",
+      "player": "Grant Anderson"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of RFDylan Beaversfrom Norfolk Tides.",
+      "player": "Dylan Beavers"
     },
     {
       "date": "2025-08-16",
       "team": "New York Mets",
       "details": "New York Metsselected the contract of RHPNolan McLeanfrom Syracuse Mets.",
       "player": "Nolan McLean"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPLuinder Avilato Omaha Storm Chasers.",
+      "player": "Luinder Avila"
     },
     {
       "date": "2025-08-16",
@@ -81,27 +99,9 @@
     },
     {
       "date": "2025-08-16",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LFJoey Loperfidoto Buffalo Bisons.",
-      "player": "Joey Loperfido"
-    },
-    {
-      "date": "2025-08-16",
       "team": "San Diego Padres",
       "details": "San Diego Padresoptioned RHPRandy Vásquezto El Paso Chihuahuas.",
       "player": "Randy Vásquez"
-    },
-    {
-      "date": "2025-08-16",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPGrant Andersonfrom Nashville Sounds.",
-      "player": "Grant Anderson"
-    },
-    {
-      "date": "2025-08-16",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of RFDylan Beaversfrom Norfolk Tides.",
-      "player": "Dylan Beavers"
     }
   ]
 }
