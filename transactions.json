@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-08-16T15:24:25.938866",
+  "last_updated": "2025-08-16T16:29:58.465283",
   "transactions": [
+    {
+      "date": "2025-08-16",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RFGeorge Springerfrom the 7-day injured list.",
+      "player": "George Springer"
+    },
     {
       "date": "2025-08-16",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysplaced 1BJonathan Arandaon the 10-day injured list retroactive to August 1, 2025. Left wrist fracture.",
       "player": "Jonathan Aranda"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPPaul Blackburnfor assignment.",
+      "player": "Paul Blackburn"
     },
     {
       "date": "2025-08-16",
@@ -18,6 +30,18 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesselected the contract of RFDylan Beaversfrom Norfolk Tides.",
       "player": "Dylan Beavers"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFJoey Loperfidoto Buffalo Bisons.",
+      "player": "Joey Loperfido"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPNolan McLeanfrom Syracuse Mets.",
+      "player": "Nolan McLean"
     }
   ]
 }
