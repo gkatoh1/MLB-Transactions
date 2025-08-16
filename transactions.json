@@ -1,48 +1,6 @@
 {
-  "last_updated": "2025-08-15T23:24:46.152639",
+  "last_updated": "2025-08-16T02:04:22.544415",
   "transactions": [
-    {
-      "date": "2025-08-15",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesdesignated LHPRyan Boruckifor assignment.",
-      "player": "Ryan Borucki"
-    },
-    {
-      "date": "2025-08-15",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysreleased CLogan Driscoll.",
-      "player": "Logan Driscoll"
-    },
-    {
-      "date": "2025-08-15",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent RHPNick Robertsonto a minor league contract.",
-      "player": "Nick Robertson"
-    },
-    {
-      "date": "2025-08-15",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RHPLance McCullers Jr.on a rehab assignment to Sugar Land Space Cowboys.",
-      "player": "Lance McCullers Jr."
-    },
-    {
-      "date": "2025-08-15",
-      "team": "Athletics",
-      "details": "Athleticsdesignated 3BGio Urshelafor assignment.",
-      "player": "Gio Urshela"
-    },
-    {
-      "date": "2025-08-15",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssigned free agent RHPShaun Andersonto a minor league contract.",
-      "player": "Shaun Anderson"
-    },
-    {
-      "date": "2025-08-15",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssigned free agent RHPShaun Andersonto a minor league contract.",
-      "player": "Shaun Anderson"
-    },
     {
       "date": "2025-08-15",
       "team": "Milwaukee Brewers",
@@ -60,24 +18,6 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesactivated RFRonald Acuña Jr.from the 10-day injured list.",
       "player": "Ronald Acuña Jr."
-    },
-    {
-      "date": "2025-08-15",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersdesignated RHPJulian Fernándezfor assignment.",
-      "player": "Julian Fernández"
-    },
-    {
-      "date": "2025-08-15",
-      "team": "Athletics",
-      "details": "Athleticssent CFDenzel Clarkeon a rehab assignment to Las Vegas Aviators.",
-      "player": "Denzel Clarke"
-    },
-    {
-      "date": "2025-08-15",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent SSJose Colmenaresto a minor league contract.",
-      "player": "Jose Colmenares"
     },
     {
       "date": "2025-08-15",
@@ -129,6 +69,96 @@
     },
     {
       "date": "2025-08-15",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysreleased CLogan Driscoll.",
+      "player": "Logan Driscoll"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent RHPNick Robertsonto a minor league contract.",
+      "player": "Nick Robertson"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPLance McCullers Jr.on a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Lance McCullers Jr."
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Athletics",
+      "details": "Athleticsdesignated 3BGio Urshelafor assignment.",
+      "player": "Gio Urshela"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssigned free agent RHPShaun Andersonto a minor league contract.",
+      "player": "Shaun Anderson"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssigned free agent RHPShaun Andersonto a minor league contract.",
+      "player": "Shaun Anderson"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated RHPJulian Fernándezfor assignment.",
+      "player": "Julian Fernández"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Athletics",
+      "details": "Athleticssent CFDenzel Clarkeon a rehab assignment to Las Vegas Aviators.",
+      "player": "Denzel Clarke"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent SSJose Colmenaresto a minor league contract.",
+      "player": "Jose Colmenares"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced RHPRyan Walkeron the paternity list.",
+      "player": "Ryan Walker"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced 3BMatt Chapmanon the 10-day injured list retroactive to August 13, 2025. Right hand inflammation.",
+      "player": "Matt Chapman"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated RHPLanden Rouppfrom the 15-day injured list.",
+      "player": "Landen Roupp"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated 1BBuddy Kennedy.",
+      "player": "Buddy Kennedy"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated 1BBuddy Kennedy.",
+      "player": "Buddy Kennedy"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced 3BMax Muncyon the 10-day injured list retroactive to August 13, 2025. Right oblique strain.",
+      "player": "Max Muncy"
+    },
+    {
+      "date": "2025-08-15",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redssent LHPWade Mileyon a rehab assignment to Chattanooga Lookouts.",
       "player": "Wade Miley"
@@ -141,21 +171,9 @@
     },
     {
       "date": "2025-08-15",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent LFCooper Hummeloutright to Sugar Land Space Cowboys.",
-      "player": "Cooper Hummel"
-    },
-    {
-      "date": "2025-08-15",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled LHPEvan Siskfrom Indianapolis Indians.",
-      "player": "Evan Sisk"
-    },
-    {
-      "date": "2025-08-15",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPColin Holdermanfrom Indianapolis Indians.",
-      "player": "Colin Holderman"
+      "details": "Pittsburgh Piratesdesignated LHPRyan Boruckifor assignment.",
+      "player": "Ryan Borucki"
     },
     {
       "date": "2025-08-15",
@@ -177,9 +195,27 @@
     },
     {
       "date": "2025-08-15",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersclaimed 1BBuddy Kennedyoff waivers fromToronto Blue Jays.",
+      "player": "Buddy Kennedy"
+    },
+    {
+      "date": "2025-08-15",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravessent CSandy Leónoutright to Gwinnett Stripers.",
       "player": "Sandy León"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPTrevor Stephanoutright to Columbus Clippers.",
+      "player": "Trevor Stephan"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysselected the contract of 1BBob Seymourfrom Durham Bulls.",
+      "player": "Bob Seymour"
     },
     {
       "date": "2025-08-15",
@@ -189,33 +225,27 @@
     },
     {
       "date": "2025-08-15",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent LFCooper Hummeloutright to Sugar Land Space Cowboys.",
+      "player": "Cooper Hummel"
+    },
+    {
+      "date": "2025-08-15",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesoptioned RHPAngel Chivillito Albuquerque Isotopes.",
       "player": "Angel Chivilli"
     },
     {
       "date": "2025-08-15",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled LHPJoe La Sorsafrom Louisville Bats.",
-      "player": "Joe La Sorsa"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPHéctor Nerisoutright to Sugar Land Space Cowboys.",
+      "player": "Héctor Neris"
     },
     {
       "date": "2025-08-15",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned 3BMiles Mastrobuonito Tacoma Rainiers.",
-      "player": "Miles Mastrobuoni"
-    },
-    {
-      "date": "2025-08-15",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersrecalled LHPTayler Saucedofrom Tacoma Rainiers.",
-      "player": "Tayler Saucedo"
-    },
-    {
-      "date": "2025-08-15",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysselected the contract of 1BBob Seymourfrom Durham Bulls.",
-      "player": "Bob Seymour"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPKeaton Winnfrom Sacramento River Cats.",
+      "player": "Keaton Winn"
     },
     {
       "date": "2025-08-15",
@@ -237,21 +267,33 @@
     },
     {
       "date": "2025-08-15",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent RHPTrevor Stephanoutright to Columbus Clippers.",
-      "player": "Trevor Stephan"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled LHPJoe La Sorsafrom Louisville Bats.",
+      "player": "Joe La Sorsa"
     },
     {
       "date": "2025-08-15",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RHPHéctor Nerisoutright to Sugar Land Space Cowboys.",
-      "player": "Héctor Neris"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned 3BMiles Mastrobuonito Tacoma Rainiers.",
+      "player": "Miles Mastrobuoni"
     },
     {
       "date": "2025-08-15",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersclaimed 1BBuddy Kennedyoff waivers fromToronto Blue Jays.",
-      "player": "Buddy Kennedy"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled LHPTayler Saucedofrom Tacoma Rainiers.",
+      "player": "Tayler Saucedo"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled LHPEvan Siskfrom Indianapolis Indians.",
+      "player": "Evan Sisk"
+    },
+    {
+      "date": "2025-08-15",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPColin Holdermanfrom Indianapolis Indians.",
+      "player": "Colin Holderman"
     }
   ]
 }
