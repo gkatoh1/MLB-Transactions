@@ -1,17 +1,11 @@
 {
-  "last_updated": "2025-08-17T14:23:13.588603",
+  "last_updated": "2025-08-17T15:24:59.404597",
   "transactions": [
     {
       "date": "2025-08-17",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated 3BAlec Bohmfrom the 10-day injured list.",
-      "player": "Alec Bohm"
-    },
-    {
-      "date": "2025-08-17",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated LFColton Cowserfrom the 7-day injured list.",
-      "player": "Colton Cowser"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPJon Grayon the 15-day injured list. Right shoulder nerve irritation.",
+      "player": "Jon Gray"
     },
     {
       "date": "2025-08-17",
@@ -21,15 +15,45 @@
     },
     {
       "date": "2025-08-17",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced RHPZack Wheeleron the 15-day injured list. Right upper extremity blood clot.",
+      "player": "Zack Wheeler"
+    },
+    {
+      "date": "2025-08-17",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersactivated CFBlake Perkinsfrom the bereavement list.",
       "player": "Blake Perkins"
     },
     {
       "date": "2025-08-17",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced LFKyle Stowerson the 10-day injured list. Left oblique strain.",
+      "player": "Kyle Stowers"
+    },
+    {
+      "date": "2025-08-17",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced CFSam Haggertyon the 10-day injured list. Left ankle inflammation.",
+      "player": "Sam Haggerty"
+    },
+    {
+      "date": "2025-08-17",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsdesignated RFJake Fraleyfor assignment.",
+      "player": "Jake Fraley"
+    },
+    {
+      "date": "2025-08-17",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesplaced RHPZack Wheeleron the 15-day injured list. Right upper extremity blood clot.",
-      "player": "Zack Wheeler"
+      "details": "Philadelphia Philliesactivated 3BAlec Bohmfrom the 10-day injured list.",
+      "player": "Alec Bohm"
+    },
+    {
+      "date": "2025-08-17",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated RHPDaniel Robertfrom the 15-day injured list.",
+      "player": "Daniel Robert"
     },
     {
       "date": "2025-08-17",
@@ -46,8 +70,20 @@
     {
       "date": "2025-08-17",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned 1BRyan Nodato Norfolk Tides.",
-      "player": "Ryan Noda"
+      "details": "Baltimore Oriolesactivated LFColton Cowserfrom the 7-day injured list.",
+      "player": "Colton Cowser"
+    },
+    {
+      "date": "2025-08-17",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled LHPTim Herrinfrom Columbus Clippers.",
+      "player": "Tim Herrin"
+    },
+    {
+      "date": "2025-08-17",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned CFDaniel Johnsonto Norfolk Tides.",
+      "player": "Daniel Johnson"
     },
     {
       "date": "2025-08-17",
@@ -58,14 +94,32 @@
     {
       "date": "2025-08-17",
       "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPDaniel Robertto Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
+    },
+    {
+      "date": "2025-08-17",
+      "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesoptioned 1BOtto Kempto Lehigh Valley IronPigs.",
       "player": "Otto Kemp"
     },
     {
       "date": "2025-08-17",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned CFDaniel Johnsonto Norfolk Tides.",
-      "player": "Daniel Johnson"
+      "details": "Baltimore Oriolesoptioned 1BRyan Nodato Norfolk Tides.",
+      "player": "Ryan Noda"
+    },
+    {
+      "date": "2025-08-17",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled LFWill Bensonfrom Louisville Bats.",
+      "player": "Will Benson"
+    },
+    {
+      "date": "2025-08-17",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPCaleb Boushleyfrom Round Rock Express.",
+      "player": "Caleb Boushley"
     },
     {
       "date": "2025-08-17",
@@ -78,6 +132,48 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesselected the contract of CSamuel Basallofrom Norfolk Tides.",
       "player": "Samuel Basallo"
+    },
+    {
+      "date": "2025-08-17",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled LFJoey Wiemerfrom Jacksonville Jumbo Shrimp.",
+      "player": "Joey Wiemer"
+    },
+    {
+      "date": "2025-08-17",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksselected the contract of RHPNabil Crismattfrom Reno Aces.",
+      "player": "Nabil Crismatt"
+    },
+    {
+      "date": "2025-08-17",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPCasey Kellyto Reno Aces.",
+      "player": "Casey Kelly"
+    },
+    {
+      "date": "2025-08-17",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned LHPJoe La Sorsato Louisville Bats.",
+      "player": "Joe La Sorsa"
+    },
+    {
+      "date": "2025-08-17",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPConnor Phillipsfrom Louisville Bats.",
+      "player": "Connor Phillips"
+    },
+    {
+      "date": "2025-08-17",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled 3BCody Freemanfrom Round Rock Express.",
+      "player": "Cody Freeman"
+    },
+    {
+      "date": "2025-08-17",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned LHPJoey Cantilloto Columbus Clippers.",
+      "player": "Joey Cantillo"
     }
   ]
 }
