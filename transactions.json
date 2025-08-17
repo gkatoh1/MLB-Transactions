@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-08-16T23:23:14.594612",
+  "last_updated": "2025-08-17T02:22:18.281616",
   "transactions": [
-    {
-      "date": "2025-08-16",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated RFGeorge Springerfrom the 7-day injured list.",
-      "player": "George Springer"
-    },
     {
       "date": "2025-08-16",
       "team": "Baltimore Orioles",
@@ -21,15 +15,21 @@
     },
     {
       "date": "2025-08-16",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsreleased 1BNathaniel Lowe.",
-      "player": "Nathaniel Lowe"
-    },
-    {
-      "date": "2025-08-16",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsplaced LFAlan Rodenon the 10-day injured list retroactive to August 15, 2025. Left thumb sprain.",
       "player": "Alan Roden"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "Unknown Team",
+      "details": "RHPCarlos Carrascoelected free agency.",
+      "player": "Carlos Carrasco"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsreleased 1BNathaniel Lowe.",
+      "player": "Nathaniel Lowe"
     },
     {
       "date": "2025-08-16",
@@ -45,21 +45,15 @@
     },
     {
       "date": "2025-08-16",
-      "team": "Unknown Team",
-      "details": "RHPCarlos Carrascoelected free agency.",
-      "player": "Carlos Carrasco"
-    },
-    {
-      "date": "2025-08-16",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysplaced 1BJonathan Arandaon the 10-day injured list retroactive to August 1, 2025. Left wrist fracture.",
-      "player": "Jonathan Aranda"
-    },
-    {
-      "date": "2025-08-16",
       "team": "New York Mets",
       "details": "New York Metsdesignated RHPPaul Blackburnfor assignment.",
       "player": "Paul Blackburn"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent LHPJohn Kingon a rehab assignment to Memphis Redbirds.",
+      "player": "John King"
     },
     {
       "date": "2025-08-16",
@@ -69,27 +63,9 @@
     },
     {
       "date": "2025-08-16",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled RHPRon Marinacciofrom El Paso Chihuahuas.",
-      "player": "Ron Marinaccio"
-    },
-    {
-      "date": "2025-08-16",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned SSAaron Schunkto Albuquerque Isotopes.",
-      "player": "Aaron Schunk"
-    },
-    {
-      "date": "2025-08-16",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPNolan McLeanfrom Syracuse Mets.",
-      "player": "Nolan McLean"
-    },
-    {
-      "date": "2025-08-16",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPRandy Vásquezto El Paso Chihuahuas.",
-      "player": "Randy Vásquez"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RFGeorge Springerfrom the 7-day injured list.",
+      "player": "George Springer"
     },
     {
       "date": "2025-08-16",
@@ -99,9 +75,15 @@
     },
     {
       "date": "2025-08-16",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPLuinder Avilato Omaha Storm Chasers.",
-      "player": "Luinder Avila"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPGrant Andersonfrom Nashville Sounds.",
+      "player": "Grant Anderson"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPNolan McLeanfrom Syracuse Mets.",
+      "player": "Nolan McLean"
     },
     {
       "date": "2025-08-16",
@@ -111,9 +93,9 @@
     },
     {
       "date": "2025-08-16",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPGrant Andersonfrom Nashville Sounds.",
-      "player": "Grant Anderson"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPRandy Vásquezto El Paso Chihuahuas.",
+      "player": "Randy Vásquez"
     },
     {
       "date": "2025-08-16",
@@ -126,6 +108,24 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravessent RHPDavis Danieloutright to Gwinnett Stripers.",
       "player": "Davis Daniel"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPLuinder Avilato Omaha Storm Chasers.",
+      "player": "Luinder Avila"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned SSAaron Schunkto Albuquerque Isotopes.",
+      "player": "Aaron Schunk"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled RHPRon Marinacciofrom El Paso Chihuahuas.",
+      "player": "Ron Marinaccio"
     }
   ]
 }
