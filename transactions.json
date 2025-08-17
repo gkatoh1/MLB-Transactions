@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-08-17T02:22:18.281616",
+  "last_updated": "2025-08-17T03:57:27.766108",
   "transactions": [
-    {
-      "date": "2025-08-16",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated CFGreg Allenfor assignment.",
-      "player": "Greg Allen"
-    },
     {
       "date": "2025-08-16",
       "team": "Kansas City Royals",
@@ -15,21 +9,15 @@
     },
     {
       "date": "2025-08-16",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced LFAlan Rodenon the 10-day injured list retroactive to August 15, 2025. Left thumb sprain.",
-      "player": "Alan Roden"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsreleased 1BNathaniel Lowe.",
+      "player": "Nathaniel Lowe"
     },
     {
       "date": "2025-08-16",
       "team": "Unknown Team",
       "details": "RHPCarlos Carrascoelected free agency.",
       "player": "Carlos Carrasco"
-    },
-    {
-      "date": "2025-08-16",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsreleased 1BNathaniel Lowe.",
-      "player": "Nathaniel Lowe"
     },
     {
       "date": "2025-08-16",
@@ -45,9 +33,15 @@
     },
     {
       "date": "2025-08-16",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated RHPPaul Blackburnfor assignment.",
-      "player": "Paul Blackburn"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RFGeorge Springerfrom the 7-day injured list.",
+      "player": "George Springer"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced LFAlan Rodenon the 10-day injured list retroactive to August 15, 2025. Left thumb sprain.",
+      "player": "Alan Roden"
     },
     {
       "date": "2025-08-16",
@@ -57,21 +51,63 @@
     },
     {
       "date": "2025-08-16",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPPaul Blackburnfor assignment.",
+      "player": "Paul Blackburn"
+    },
+    {
+      "date": "2025-08-16",
       "team": "Athletics",
       "details": "Athleticssent SSJacob Wilsonon a rehab assignment to Las Vegas Aviators.",
       "player": "Jacob Wilson"
     },
     {
       "date": "2025-08-16",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated RFGeorge Springerfrom the 7-day injured list.",
-      "player": "George Springer"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated CFGreg Allenfor assignment.",
+      "player": "Greg Allen"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled RHPRon Marinacciofrom El Paso Chihuahuas.",
+      "player": "Ron Marinaccio"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPLuinder Avilato Omaha Storm Chasers.",
+      "player": "Luinder Avila"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPRandy Vásquezto El Paso Chihuahuas.",
+      "player": "Randy Vásquez"
     },
     {
       "date": "2025-08-16",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysoptioned LFJoey Loperfidoto Buffalo Bisons.",
       "player": "Joey Loperfido"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of RFDylan Beaversfrom Norfolk Tides.",
+      "player": "Dylan Beavers"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RHPDavis Danieloutright to Gwinnett Stripers.",
+      "player": "Davis Daniel"
+    },
+    {
+      "date": "2025-08-16",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned SSAaron Schunkto Albuquerque Isotopes.",
+      "player": "Aaron Schunk"
     },
     {
       "date": "2025-08-16",
@@ -90,42 +126,6 @@
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsrecalled CFJames Outmanfrom St. Paul Saints.",
       "player": "James Outman"
-    },
-    {
-      "date": "2025-08-16",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPRandy Vásquezto El Paso Chihuahuas.",
-      "player": "Randy Vásquez"
-    },
-    {
-      "date": "2025-08-16",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of RFDylan Beaversfrom Norfolk Tides.",
-      "player": "Dylan Beavers"
-    },
-    {
-      "date": "2025-08-16",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent RHPDavis Danieloutright to Gwinnett Stripers.",
-      "player": "Davis Daniel"
-    },
-    {
-      "date": "2025-08-16",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPLuinder Avilato Omaha Storm Chasers.",
-      "player": "Luinder Avila"
-    },
-    {
-      "date": "2025-08-16",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned SSAaron Schunkto Albuquerque Isotopes.",
-      "player": "Aaron Schunk"
-    },
-    {
-      "date": "2025-08-16",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled RHPRon Marinacciofrom El Paso Chihuahuas.",
-      "player": "Ron Marinaccio"
     }
   ]
 }
