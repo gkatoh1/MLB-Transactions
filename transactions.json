@@ -1,48 +1,6 @@
 {
-  "last_updated": "2025-08-18T22:23:17.381962",
+  "last_updated": "2025-08-18T23:23:46.010090",
   "transactions": [
-    {
-      "date": "2025-08-18",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsplaced 2BBrendan Donovanon the 10-day injured list retroactive to August 15, 2025. Left groin strain.",
-      "player": "Brendan Donovan"
-    },
-    {
-      "date": "2025-08-18",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsdesignated LFMark Canhafor assignment.",
-      "player": "Mark Canha"
-    },
-    {
-      "date": "2025-08-18",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated RHPAlex Langefrom the 60-day injured list.",
-      "player": "Alex Lange"
-    },
-    {
-      "date": "2025-08-18",
-      "team": "Houston Astros",
-      "details": "Houston Astrosdesignated RHPJordan Weemsfor assignment.",
-      "player": "Jordan Weems"
-    },
-    {
-      "date": "2025-08-18",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsactivated RHPRyan Walkerfrom the paternity list.",
-      "player": "Ryan Walker"
-    },
-    {
-      "date": "2025-08-18",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxdesignated CAli Sánchezfor assignment.",
-      "player": "Ali Sánchez"
-    },
-    {
-      "date": "2025-08-18",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsplaced 3BGraham Pauleyon the 10-day injured list retroactive to August 17, 2025. Right oblique strain.",
-      "player": "Graham Pauley"
-    },
     {
       "date": "2025-08-18",
       "team": "Milwaukee Brewers",
@@ -51,15 +9,21 @@
     },
     {
       "date": "2025-08-18",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced RFRob Refsnyderon the 10-day injured list retroactive to August 15, 2025. Left oblique strain.",
-      "player": "Rob Refsnyder"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesreleased LHPRyan Borucki.",
+      "player": "Ryan Borucki"
     },
     {
       "date": "2025-08-18",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsigned free agent 1BNathaniel Lowe.",
-      "player": "Nathaniel Lowe"
+      "team": "New York Mets",
+      "details": "New York Metsreleased RHPPaul Blackburn.",
+      "player": "Paul Blackburn"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsdesignated LFMark Canhafor assignment.",
+      "player": "Mark Canha"
     },
     {
       "date": "2025-08-18",
@@ -75,9 +39,57 @@
     },
     {
       "date": "2025-08-18",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPMax Lazarto Lehigh Valley IronPigs.",
-      "player": "Max Lazar"
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated RHPJordan Weemsfor assignment.",
+      "player": "Jordan Weems"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPAlex Langefrom the 60-day injured list.",
+      "player": "Alex Lange"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced 3BGraham Pauleyon the 10-day injured list retroactive to August 17, 2025. Right oblique strain.",
+      "player": "Graham Pauley"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsplaced 2BBrendan Donovanon the 10-day injured list retroactive to August 15, 2025. Left groin strain.",
+      "player": "Brendan Donovan"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced RFRob Refsnyderon the 10-day injured list retroactive to August 15, 2025. Left oblique strain.",
+      "player": "Rob Refsnyder"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned free agent 1BNathaniel Lowe.",
+      "player": "Nathaniel Lowe"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated RHPRyan Walkerfrom the paternity list.",
+      "player": "Ryan Walker"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxdesignated CAli Sánchezfor assignment.",
+      "player": "Ali Sánchez"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced 1BJake Burgeron the 10-day injured list. Left wrist sprain.",
+      "player": "Jake Burger"
     },
     {
       "date": "2025-08-18",
@@ -135,9 +147,9 @@
     },
     {
       "date": "2025-08-18",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned LFJorge Barrosato Reno Aces.",
-      "player": "Jorge Barrosa"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled LFAlejandro Osunafrom Round Rock Express.",
+      "player": "Alejandro Osuna"
     },
     {
       "date": "2025-08-18",
@@ -171,9 +183,9 @@
     },
     {
       "date": "2025-08-18",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned 3BTyler Blackto Nashville Sounds.",
-      "player": "Tyler Black"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned LFJorge Barrosato Reno Aces.",
+      "player": "Jorge Barrosa"
     },
     {
       "date": "2025-08-18",
@@ -189,6 +201,12 @@
     },
     {
       "date": "2025-08-18",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned 3BTyler Blackto Nashville Sounds.",
+      "player": "Tyler Black"
+    },
+    {
+      "date": "2025-08-18",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsrecalled LHPLuke Littlefrom Iowa Cubs.",
       "player": "Luke Little"
@@ -198,6 +216,12 @@
       "team": "Detroit Tigers",
       "details": "Detroit Tigersoptioned LHPBailey Hornto Toledo Mud Hens.",
       "player": "Bailey Horn"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPMax Lazarto Lehigh Valley IronPigs.",
+      "player": "Max Lazar"
     }
   ]
 }
