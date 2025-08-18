@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-18T16:34:40.990457",
+  "last_updated": "2025-08-18T17:26:01.489338",
   "transactions": [
     {
       "date": "2025-08-18",
@@ -12,12 +12,6 @@
       "team": "New York Mets",
       "details": "New York Metsoptioned 2BLuisangel Acuñato Syracuse Mets.",
       "player": "Luisangel Acuña"
-    },
-    {
-      "date": "2025-08-18",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned 3BMiles Mastrobuonito Tacoma Rainiers.",
-      "player": "Miles Mastrobuoni"
     },
     {
       "date": "2025-08-18",
@@ -36,6 +30,12 @@
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersoptioned 3BTyler Blackto Nashville Sounds.",
       "player": "Tyler Black"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned 3BMiles Mastrobuonito Tacoma Rainiers.",
+      "player": "Miles Mastrobuoni"
     }
   ]
 }
