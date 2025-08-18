@@ -1,17 +1,23 @@
 {
-  "last_updated": "2025-08-18T20:26:51.966277",
+  "last_updated": "2025-08-18T21:22:41.029608",
   "transactions": [
+    {
+      "date": "2025-08-18",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated 1BPavin Smithfrom the 10-day injured list.",
+      "player": "Pavin Smith"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated 2BIldemaro Vargasfrom the 10-day injured list.",
+      "player": "Ildemaro Vargas"
+    },
     {
       "date": "2025-08-18",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsactivated RHPRyan Walkerfrom the paternity list.",
       "player": "Ryan Walker"
-    },
-    {
-      "date": "2025-08-18",
-      "team": "Houston Astros",
-      "details": "Houston Astrosdesignated RHPJordan Weemsfor assignment.",
-      "player": "Jordan Weems"
     },
     {
       "date": "2025-08-18",
@@ -21,9 +27,9 @@
     },
     {
       "date": "2025-08-18",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated RHPAlex Langefrom the 60-day injured list.",
-      "player": "Alex Lange"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsplaced 2BBrendan Donovanon the 10-day injured list retroactive to August 15, 2025. Left groin strain.",
+      "player": "Brendan Donovan"
     },
     {
       "date": "2025-08-18",
@@ -51,9 +57,21 @@
     },
     {
       "date": "2025-08-18",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPChad Patrickfrom Nashville Sounds.",
-      "player": "Chad Patrick"
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated RHPJordan Weemsfor assignment.",
+      "player": "Jordan Weems"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPAlex Langefrom the 60-day injured list.",
+      "player": "Alex Lange"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPJavier Assadto Iowa Cubs.",
+      "player": "Javier Assad"
     },
     {
       "date": "2025-08-18",
@@ -87,21 +105,21 @@
     },
     {
       "date": "2025-08-18",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPMax Lazarto Lehigh Valley IronPigs.",
-      "player": "Max Lazar"
-    },
-    {
-      "date": "2025-08-18",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsoptioned RHPKeaton Winnto Sacramento River Cats.",
       "player": "Keaton Winn"
     },
     {
       "date": "2025-08-18",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled 3BNate Eatonfrom Worcester Red Sox.",
-      "player": "Nate Eaton"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPLuke Littlefrom Iowa Cubs.",
+      "player": "Luke Little"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned LHPBailey Hornto Toledo Mud Hens.",
+      "player": "Bailey Horn"
     },
     {
       "date": "2025-08-18",
@@ -117,6 +135,18 @@
     },
     {
       "date": "2025-08-18",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled 2BJosé Fermínfrom Memphis Redbirds.",
+      "player": "José Fermín"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned SSConnor Kaiserto Reno Aces.",
+      "player": "Connor Kaiser"
+    },
+    {
+      "date": "2025-08-18",
       "team": "Houston Astros",
       "details": "Houston Astrosselected the contract of RHPTayler Scottfrom Sugar Land Space Cowboys.",
       "player": "Tayler Scott"
@@ -129,9 +159,15 @@
     },
     {
       "date": "2025-08-18",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned RHPJavier Assadto Iowa Cubs.",
-      "player": "Javier Assad"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned LFJorge Barrosato Reno Aces.",
+      "player": "Jorge Barrosa"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPChad Patrickfrom Nashville Sounds.",
+      "player": "Chad Patrick"
     },
     {
       "date": "2025-08-18",
@@ -147,15 +183,15 @@
     },
     {
       "date": "2025-08-18",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled LHPLuke Littlefrom Iowa Cubs.",
-      "player": "Luke Little"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPMax Lazarto Lehigh Valley IronPigs.",
+      "player": "Max Lazar"
     },
     {
       "date": "2025-08-18",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned LHPBailey Hornto Toledo Mud Hens.",
-      "player": "Bailey Horn"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled 3BNate Eatonfrom Worcester Red Sox.",
+      "player": "Nate Eaton"
     }
   ]
 }
