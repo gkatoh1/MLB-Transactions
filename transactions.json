@@ -1,17 +1,29 @@
 {
-  "last_updated": "2025-08-18T19:22:09.455924",
+  "last_updated": "2025-08-18T20:26:51.966277",
   "transactions": [
     {
       "date": "2025-08-18",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated LFIsaac Collinsfrom the paternity list.",
-      "player": "Isaac Collins"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated RHPRyan Walkerfrom the paternity list.",
+      "player": "Ryan Walker"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated RHPJordan Weemsfor assignment.",
+      "player": "Jordan Weems"
     },
     {
       "date": "2025-08-18",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxdesignated CAli Sánchezfor assignment.",
       "player": "Ali Sánchez"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPAlex Langefrom the 60-day injured list.",
+      "player": "Alex Lange"
     },
     {
       "date": "2025-08-18",
@@ -34,20 +46,14 @@
     {
       "date": "2025-08-18",
       "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated LFIsaac Collinsfrom the paternity list.",
+      "player": "Isaac Collins"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersrecalled RHPChad Patrickfrom Nashville Sounds.",
       "player": "Chad Patrick"
-    },
-    {
-      "date": "2025-08-18",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned 3BJosé Tenato Rochester Red Wings.",
-      "player": "José Tena"
-    },
-    {
-      "date": "2025-08-18",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled LHPLuke Littlefrom Iowa Cubs.",
-      "player": "Luke Little"
     },
     {
       "date": "2025-08-18",
@@ -81,6 +87,24 @@
     },
     {
       "date": "2025-08-18",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPMax Lazarto Lehigh Valley IronPigs.",
+      "player": "Max Lazar"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPKeaton Winnto Sacramento River Cats.",
+      "player": "Keaton Winn"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled 3BNate Eatonfrom Worcester Red Sox.",
+      "player": "Nate Eaton"
+    },
+    {
+      "date": "2025-08-18",
       "team": "Miami Marlins",
       "details": "Miami Marlinsrecalled SSMaximo Acostafrom Jacksonville Jumbo Shrimp.",
       "player": "Maximo Acosta"
@@ -90,6 +114,18 @@
       "team": "New York Mets",
       "details": "New York Metsoptioned 2BLuisangel Acuñato Syracuse Mets.",
       "player": "Luisangel Acuña"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Houston Astros",
+      "details": "Houston Astrosselected the contract of RHPTayler Scottfrom Sugar Land Space Cowboys.",
+      "player": "Tayler Scott"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned 3BJosé Tenato Rochester Red Wings.",
+      "player": "José Tena"
     },
     {
       "date": "2025-08-18",
@@ -105,21 +141,21 @@
     },
     {
       "date": "2025-08-18",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPMax Lazarto Lehigh Valley IronPigs.",
-      "player": "Max Lazar"
-    },
-    {
-      "date": "2025-08-18",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled 3BNate Eatonfrom Worcester Red Sox.",
-      "player": "Nate Eaton"
-    },
-    {
-      "date": "2025-08-18",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersoptioned 3BTyler Blackto Nashville Sounds.",
       "player": "Tyler Black"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPLuke Littlefrom Iowa Cubs.",
+      "player": "Luke Little"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned LHPBailey Hornto Toledo Mud Hens.",
+      "player": "Bailey Horn"
     }
   ]
 }
