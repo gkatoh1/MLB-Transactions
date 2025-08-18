@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-08-18T17:26:01.489338",
+  "last_updated": "2025-08-18T18:39:18.742436",
   "transactions": [
+    {
+      "date": "2025-08-18",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced 3BGraham Pauleyon the 10-day injured list retroactive to August 17, 2025. Right oblique strain.",
+      "player": "Graham Pauley"
+    },
     {
       "date": "2025-08-18",
       "team": "Milwaukee Brewers",
@@ -9,9 +15,9 @@
     },
     {
       "date": "2025-08-18",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned 2BLuisangel Acuñato Syracuse Mets.",
-      "player": "Luisangel Acuña"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPMax Lazarto Lehigh Valley IronPigs.",
+      "player": "Max Lazar"
     },
     {
       "date": "2025-08-18",
@@ -21,21 +27,57 @@
     },
     {
       "date": "2025-08-18",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPGavin Hollowellfrom Iowa Cubs.",
+      "player": "Gavin Hollowell"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPLuke Littlefrom Iowa Cubs.",
+      "player": "Luke Little"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPJavier Assadto Iowa Cubs.",
+      "player": "Javier Assad"
+    },
+    {
+      "date": "2025-08-18",
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned 3BJosé Tenato Rochester Red Wings.",
       "player": "José Tena"
     },
     {
       "date": "2025-08-18",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned 3BTyler Blackto Nashville Sounds.",
-      "player": "Tyler Black"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPNolan Hoffmanfrom Lehigh Valley IronPigs.",
+      "player": "Nolan Hoffman"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled SSMaximo Acostafrom Jacksonville Jumbo Shrimp.",
+      "player": "Maximo Acosta"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned 2BLuisangel Acuñato Syracuse Mets.",
+      "player": "Luisangel Acuña"
     },
     {
       "date": "2025-08-18",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersoptioned 3BMiles Mastrobuonito Tacoma Rainiers.",
       "player": "Miles Mastrobuoni"
+    },
+    {
+      "date": "2025-08-18",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned 3BTyler Blackto Nashville Sounds.",
+      "player": "Tyler Black"
     }
   ]
 }
