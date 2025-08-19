@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-08-19T15:27:36.397367",
+  "last_updated": "2025-08-19T16:32:23.608315",
   "transactions": [
     {
       "date": "2025-08-19",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerssent 1BRhys Hoskinson a rehab assignment to Nashville Sounds.",
       "player": "Rhys Hoskins"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
+      "player": "Hunter Stratton"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPTom Cosgrovefrom Iowa Cubs.",
+      "player": "Tom Cosgrove"
     },
     {
       "date": "2025-08-19",
@@ -22,20 +34,26 @@
     {
       "date": "2025-08-19",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPConnor Seaboldfrom Gwinnett Stripers.",
-      "player": "Connor Seabold"
-    },
-    {
-      "date": "2025-08-19",
-      "team": "Atlanta Braves",
       "details": "Atlanta Bravesrecalled RHPDane Dunningfrom Gwinnett Stripers.",
       "player": "Dane Dunning"
     },
     {
       "date": "2025-08-19",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
-      "player": "Hunter Stratton"
+      "details": "Atlanta Bravesrecalled RHPConnor Seaboldfrom Gwinnett Stripers.",
+      "player": "Connor Seabold"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPGavin Hollowellto Iowa Cubs.",
+      "player": "Gavin Hollowell"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned LHPLuke Littleto Iowa Cubs.",
+      "player": "Luke Little"
     }
   ]
 }
