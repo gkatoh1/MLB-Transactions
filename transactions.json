@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-19T20:27:23.531369",
+  "last_updated": "2025-08-19T21:24:41.195899",
   "transactions": [
     {
       "date": "2025-08-19",
@@ -9,15 +9,39 @@
     },
     {
       "date": "2025-08-19",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated LHPJosé Alvarado.",
-      "player": "José Alvarado"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RHPBryce Millerfrom the 15-day injured list.",
+      "player": "Bryce Miller"
     },
     {
       "date": "2025-08-19",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated 3BAmed Rosariofrom the 10-day injured list.",
-      "player": "Amed Rosario"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPJustin Slatenon a rehab assignment to Worcester Red Sox.",
+      "player": "Justin Slaten"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent SSAlexander Vargasto a minor league contract.",
+      "player": "Alexander Vargas"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPLuis Garciaon a rehab assignment to Corpus Christi Hooks.",
+      "player": "Luis Garcia"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RHPOwen Whiteon the 15-day injured list. Right hip impingement.",
+      "player": "Owen White"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated LHPJosé Alvarado.",
+      "player": "José Alvarado"
     },
     {
       "date": "2025-08-19",
@@ -27,15 +51,15 @@
     },
     {
       "date": "2025-08-19",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent 1BRhys Hoskinson a rehab assignment to Nashville Sounds.",
-      "player": "Rhys Hoskins"
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated 3BAmed Rosariofrom the 10-day injured list.",
+      "player": "Amed Rosario"
     },
     {
       "date": "2025-08-19",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced RHPOwen Whiteon the 15-day injured list. Right hip impingement.",
-      "player": "Owen White"
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPFernando Cruzon a rehab assignment to Somerset Patriots.",
+      "player": "Fernando Cruz"
     },
     {
       "date": "2025-08-19",
@@ -52,26 +76,8 @@
     {
       "date": "2025-08-19",
       "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated RHPBryce Millerfrom the 15-day injured list.",
-      "player": "Bryce Miller"
-    },
-    {
-      "date": "2025-08-19",
-      "team": "Seattle Mariners",
       "details": "Seattle Marinersactivated RHPSauryn Lao.",
       "player": "Sauryn Lao"
-    },
-    {
-      "date": "2025-08-19",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent RHPJustin Slatenon a rehab assignment to Worcester Red Sox.",
-      "player": "Justin Slaten"
-    },
-    {
-      "date": "2025-08-19",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssigned free agent SSAlexander Vargasto a minor league contract.",
-      "player": "Alexander Vargas"
     },
     {
       "date": "2025-08-19",
@@ -81,15 +87,45 @@
     },
     {
       "date": "2025-08-19",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RHPLuis Garciaon a rehab assignment to Corpus Christi Hooks.",
-      "player": "Luis Garcia"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent 1BRhys Hoskinson a rehab assignment to Nashville Sounds.",
+      "player": "Rhys Hoskins"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPRobert Stephensonon a rehab assignment to Inland Empire 66ers.",
+      "player": "Robert Stephenson"
     },
     {
       "date": "2025-08-19",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerssent 1BRhys Hoskinson a rehab assignment to Nashville Sounds.",
       "player": "Rhys Hoskins"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPTom Cosgrovefrom Iowa Cubs.",
+      "player": "Tom Cosgrove"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of RHPSauryn Laofrom Tacoma Rainiers.",
+      "player": "Sauryn Lao"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent CFGreg Allenoutright to Norfolk Tides.",
+      "player": "Greg Allen"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPDane Dunningfrom Gwinnett Stripers.",
+      "player": "Dane Dunning"
     },
     {
       "date": "2025-08-19",
@@ -117,24 +153,6 @@
     },
     {
       "date": "2025-08-19",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned RHPGavin Hollowellto Iowa Cubs.",
-      "player": "Gavin Hollowell"
-    },
-    {
-      "date": "2025-08-19",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled RHPLogan VanWeyfrom Sugar Land Space Cowboys.",
-      "player": "Logan VanWey"
-    },
-    {
-      "date": "2025-08-19",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of RHPSauryn Laofrom Tacoma Rainiers.",
-      "player": "Sauryn Lao"
-    },
-    {
-      "date": "2025-08-19",
       "team": "New York Mets",
       "details": "New York Metsrecalled CHayden Sengerfrom Syracuse Mets.",
       "player": "Hayden Senger"
@@ -156,18 +174,6 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPDaysbel Hernándezto Gwinnett Stripers.",
       "player": "Daysbel Hernández"
-    },
-    {
-      "date": "2025-08-19",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled LHPTom Cosgrovefrom Iowa Cubs.",
-      "player": "Tom Cosgrove"
-    },
-    {
-      "date": "2025-08-19",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned LHPLuke Littleto Iowa Cubs.",
-      "player": "Luke Little"
     },
     {
       "date": "2025-08-19",
@@ -195,15 +201,27 @@
     },
     {
       "date": "2025-08-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent CFGreg Allenoutright to Norfolk Tides.",
-      "player": "Greg Allen"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned LHPLuke Littleto Iowa Cubs.",
+      "player": "Luke Little"
     },
     {
       "date": "2025-08-19",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPDane Dunningfrom Gwinnett Stripers.",
-      "player": "Dane Dunning"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPGavin Hollowellto Iowa Cubs.",
+      "player": "Gavin Hollowell"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent CFJordyn Adamsoutright to Norfolk Tides.",
+      "player": "Jordyn Adams"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPLogan VanWeyfrom Sugar Land Space Cowboys.",
+      "player": "Logan VanWey"
     }
   ]
 }
