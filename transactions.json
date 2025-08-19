@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-08-19T19:19:52.429102",
+  "last_updated": "2025-08-19T20:27:23.531369",
   "transactions": [
+    {
+      "date": "2025-08-19",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RFPedro Leónon a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Pedro León"
+    },
     {
       "date": "2025-08-19",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesactivated LHPJosé Alvarado.",
       "player": "José Alvarado"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated 3BAmed Rosariofrom the 10-day injured list.",
+      "player": "Amed Rosario"
     },
     {
       "date": "2025-08-19",
@@ -27,9 +39,27 @@
     },
     {
       "date": "2025-08-19",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated 3BAmed Rosariofrom the 10-day injured list.",
-      "player": "Amed Rosario"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesdesignated LHPJosh Walkerfor assignment.",
+      "player": "Josh Walker"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerstransferred RHPTrent Thorntonfrom the 15-day injured list to the 60-day injured list. Left achilles tear.",
+      "player": "Trent Thornton"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RHPBryce Millerfrom the 15-day injured list.",
+      "player": "Bryce Miller"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RHPSauryn Lao.",
+      "player": "Sauryn Lao"
     },
     {
       "date": "2025-08-19",
@@ -45,27 +75,21 @@
     },
     {
       "date": "2025-08-19",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesdesignated LHPJosh Walkerfor assignment.",
-      "player": "Josh Walker"
+      "team": "New York Mets",
+      "details": "New York Metsplaced CFrancisco Alvarezon the 10-day injured list retroactive to August 18, 2025. Right thumb UCL sprain.",
+      "player": "Francisco Alvarez"
     },
     {
       "date": "2025-08-19",
       "team": "Houston Astros",
-      "details": "Houston Astrosrecalled RHPLogan VanWeyfrom Sugar Land Space Cowboys.",
-      "player": "Logan VanWey"
+      "details": "Houston Astrossent RHPLuis Garciaon a rehab assignment to Corpus Christi Hooks.",
+      "player": "Luis Garcia"
     },
     {
       "date": "2025-08-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent CFGreg Allenoutright to Norfolk Tides.",
-      "player": "Greg Allen"
-    },
-    {
-      "date": "2025-08-19",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPDane Dunningfrom Gwinnett Stripers.",
-      "player": "Dane Dunning"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent 1BRhys Hoskinson a rehab assignment to Nashville Sounds.",
+      "player": "Rhys Hoskins"
     },
     {
       "date": "2025-08-19",
@@ -81,21 +105,39 @@
     },
     {
       "date": "2025-08-19",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned LHPLuke Littleto Iowa Cubs.",
-      "player": "Luke Little"
-    },
-    {
-      "date": "2025-08-19",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned LHPJovani Moránto Worcester Red Sox.",
       "player": "Jovani Morán"
     },
     {
       "date": "2025-08-19",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPJackson Kowarto Tacoma Rainiers.",
+      "player": "Jackson Kowar"
+    },
+    {
+      "date": "2025-08-19",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsoptioned RHPGavin Hollowellto Iowa Cubs.",
       "player": "Gavin Hollowell"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPLogan VanWeyfrom Sugar Land Space Cowboys.",
+      "player": "Logan VanWey"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of RHPSauryn Laofrom Tacoma Rainiers.",
+      "player": "Sauryn Lao"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled CHayden Sengerfrom Syracuse Mets.",
+      "player": "Hayden Senger"
     },
     {
       "date": "2025-08-19",
@@ -111,15 +153,21 @@
     },
     {
       "date": "2025-08-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPDaysbel Hernándezto Gwinnett Stripers.",
+      "player": "Daysbel Hernández"
+    },
+    {
+      "date": "2025-08-19",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsrecalled LHPTom Cosgrovefrom Iowa Cubs.",
       "player": "Tom Cosgrove"
     },
     {
       "date": "2025-08-19",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPDaysbel Hernándezto Gwinnett Stripers.",
-      "player": "Daysbel Hernández"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned LHPLuke Littleto Iowa Cubs.",
+      "player": "Luke Little"
     },
     {
       "date": "2025-08-19",
@@ -138,6 +186,24 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxrecalled LHPBrennan Bernardinofrom Worcester Red Sox.",
       "player": "Brennan Bernardino"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPCasey Leguminato Tacoma Rainiers.",
+      "player": "Casey Legumina"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent CFGreg Allenoutright to Norfolk Tides.",
+      "player": "Greg Allen"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPDane Dunningfrom Gwinnett Stripers.",
+      "player": "Dane Dunning"
     }
   ]
 }
