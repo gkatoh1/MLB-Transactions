@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-08-19T18:34:29.909870",
+  "last_updated": "2025-08-19T19:19:52.429102",
   "transactions": [
+    {
+      "date": "2025-08-19",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated LHPJosé Alvarado.",
+      "player": "José Alvarado"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated RHPTayler Scottfor assignment.",
+      "player": "Tayler Scott"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent 1BRhys Hoskinson a rehab assignment to Nashville Sounds.",
+      "player": "Rhys Hoskins"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RHPOwen Whiteon the 15-day injured list. Right hip impingement.",
+      "player": "Owen White"
+    },
     {
       "date": "2025-08-19",
       "team": "New York Yankees",
@@ -15,15 +39,21 @@
     },
     {
       "date": "2025-08-19",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent 1BRhys Hoskinson a rehab assignment to Nashville Sounds.",
-      "player": "Rhys Hoskins"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent SSAlexander Vargasto a minor league contract.",
+      "player": "Alexander Vargas"
     },
     {
       "date": "2025-08-19",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned LHPLuke Littleto Iowa Cubs.",
-      "player": "Luke Little"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesdesignated LHPJosh Walkerfor assignment.",
+      "player": "Josh Walker"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPLogan VanWeyfrom Sugar Land Space Cowboys.",
+      "player": "Logan VanWey"
     },
     {
       "date": "2025-08-19",
@@ -45,15 +75,39 @@
     },
     {
       "date": "2025-08-19",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
-      "player": "Hunter Stratton"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled 1BAndrés Chaparrofrom Rochester Red Wings.",
+      "player": "Andrés Chaparro"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned LHPLuke Littleto Iowa Cubs.",
+      "player": "Luke Little"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPJovani Moránto Worcester Red Sox.",
+      "player": "Jovani Morán"
     },
     {
       "date": "2025-08-19",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsoptioned RHPGavin Hollowellto Iowa Cubs.",
       "player": "Gavin Hollowell"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPElvis Peguerofrom Charlotte Knights.",
+      "player": "Elvis Peguero"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPNolan Hoffmanto Lehigh Valley IronPigs.",
+      "player": "Nolan Hoffman"
     },
     {
       "date": "2025-08-19",
@@ -66,6 +120,24 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPDaysbel Hernándezto Gwinnett Stripers.",
       "player": "Daysbel Hernández"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
+      "player": "Hunter Stratton"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed RFJake Fraleyoff waivers fromCincinnati Reds.",
+      "player": "Jake Fraley"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled LHPBrennan Bernardinofrom Worcester Red Sox.",
+      "player": "Brennan Bernardino"
     }
   ]
 }
