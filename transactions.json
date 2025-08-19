@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-08-19T17:22:31.233191",
+  "last_updated": "2025-08-19T18:34:29.909870",
   "transactions": [
+    {
+      "date": "2025-08-19",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated 3BAmed Rosariofrom the 10-day injured list.",
+      "player": "Amed Rosario"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPJustin Slatenon a rehab assignment to Worcester Red Sox.",
+      "player": "Justin Slaten"
+    },
     {
       "date": "2025-08-19",
       "team": "Milwaukee Brewers",
@@ -10,14 +22,8 @@
     {
       "date": "2025-08-19",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled LHPTom Cosgrovefrom Iowa Cubs.",
-      "player": "Tom Cosgrove"
-    },
-    {
-      "date": "2025-08-19",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPDaysbel Hernándezto Gwinnett Stripers.",
-      "player": "Daysbel Hernández"
+      "details": "Chicago Cubsoptioned LHPLuke Littleto Iowa Cubs.",
+      "player": "Luke Little"
     },
     {
       "date": "2025-08-19",
@@ -39,12 +45,6 @@
     },
     {
       "date": "2025-08-19",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned RHPGavin Hollowellto Iowa Cubs.",
-      "player": "Gavin Hollowell"
-    },
-    {
-      "date": "2025-08-19",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
       "player": "Hunter Stratton"
@@ -52,8 +52,20 @@
     {
       "date": "2025-08-19",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned LHPLuke Littleto Iowa Cubs.",
-      "player": "Luke Little"
+      "details": "Chicago Cubsoptioned RHPGavin Hollowellto Iowa Cubs.",
+      "player": "Gavin Hollowell"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPTom Cosgrovefrom Iowa Cubs.",
+      "player": "Tom Cosgrove"
+    },
+    {
+      "date": "2025-08-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPDaysbel Hernándezto Gwinnett Stripers.",
+      "player": "Daysbel Hernández"
     }
   ]
 }
