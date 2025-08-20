@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-08-20T15:28:16.290789",
+  "last_updated": "2025-08-20T16:30:59.698638",
   "transactions": [
     {
       "date": "2025-08-20",
       "team": "Miami Marlins",
       "details": "Miami Marlinssent 3BConnor Norbyon a rehab assignment to Jacksonville Jumbo Shrimp.",
       "player": "Connor Norby"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPAndrew Hoffmannto Reno Aces.",
+      "player": "Andrew Hoffmann"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPBryce Jarvisfrom Reno Aces.",
+      "player": "Bryce Jarvis"
     }
   ]
 }
