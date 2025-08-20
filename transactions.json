@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-08-20T19:20:17.606043",
+  "last_updated": "2025-08-20T20:28:44.268694",
   "transactions": [
     {
       "date": "2025-08-20",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent 3BConnor Norbyon a rehab assignment to Jacksonville Jumbo Shrimp.",
-      "player": "Connor Norby"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced CTyler Stephensonon the 10-day injured list retroactive to August 17, 2025. Left thumb fracture.",
+      "player": "Tyler Stephenson"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent SSJorge Mateoon a rehab assignment to Norfolk Tides.",
+      "player": "Jorge Mateo"
     },
     {
       "date": "2025-08-20",
@@ -15,51 +21,15 @@
     },
     {
       "date": "2025-08-20",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced CTyler Stephensonon the 10-day injured list retroactive to August 17, 2025. Left thumb fracture.",
-      "player": "Tyler Stephenson"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RHPElvis Pegueroon the 15-day injured list. Right elbow strain.",
+      "player": "Elvis Peguero"
     },
     {
       "date": "2025-08-20",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansselected the contract of LHPParker Messickfrom Columbus Clippers.",
-      "player": "Parker Messick"
-    },
-    {
-      "date": "2025-08-20",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPIsaiah Campbellto Worcester Red Sox.",
-      "player": "Isaiah Campbell"
-    },
-    {
-      "date": "2025-08-20",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned LHPEvan Siskto Indianapolis Indians.",
-      "player": "Evan Sisk"
-    },
-    {
-      "date": "2025-08-20",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled RHPBryce Jarvisfrom Reno Aces.",
-      "player": "Bryce Jarvis"
-    },
-    {
-      "date": "2025-08-20",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned RHPAndrew Hoffmannto Reno Aces.",
-      "player": "Andrew Hoffmann"
-    },
-    {
-      "date": "2025-08-20",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsselected the contract of CWill Banfieldfrom Louisville Bats.",
-      "player": "Will Banfield"
-    },
-    {
-      "date": "2025-08-20",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPRon Marinaccioto El Paso Chihuahuas.",
-      "player": "Ron Marinaccio"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent 3BConnor Norbyon a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Connor Norby"
     },
     {
       "date": "2025-08-20",
@@ -69,9 +39,57 @@
     },
     {
       "date": "2025-08-20",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPBryce Jarvisfrom Reno Aces.",
+      "player": "Bryce Jarvis"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPIsaiah Campbellto Worcester Red Sox.",
+      "player": "Isaiah Campbell"
+    },
+    {
+      "date": "2025-08-20",
       "team": "San Diego Padres",
       "details": "San Diego Padresrecalled LHPJP Searsfrom El Paso Chihuahuas.",
       "player": "JP Sears"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansselected the contract of LHPParker Messickfrom Columbus Clippers.",
+      "player": "Parker Messick"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPRon Marinaccioto El Paso Chihuahuas.",
+      "player": "Ron Marinaccio"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPAndrew Hoffmannto Reno Aces.",
+      "player": "Andrew Hoffmann"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned LHPEvan Siskto Indianapolis Indians.",
+      "player": "Evan Sisk"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of CWill Banfieldfrom Louisville Bats.",
+      "player": "Will Banfield"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPWikelman Gonzálezfrom Charlotte Knights.",
+      "player": "Wikelman González"
     }
   ]
 }
