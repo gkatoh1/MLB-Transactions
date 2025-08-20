@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-08-20T21:23:18.380422",
+  "last_updated": "2025-08-20T22:23:11.066491",
   "transactions": [
     {
       "date": "2025-08-20",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced CTyler Stephensonon the 10-day injured list retroactive to August 17, 2025. Left thumb fracture.",
-      "player": "Tyler Stephenson"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RHPElvis Pegueroon the 15-day injured list. Right elbow strain.",
+      "player": "Elvis Peguero"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPEli Morganon a rehab assignment to South Bend Cubs.",
+      "player": "Eli Morgan"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent 3BConnor Norbyon a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Connor Norby"
     },
     {
       "date": "2025-08-20",
@@ -15,15 +27,15 @@
     },
     {
       "date": "2025-08-20",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced RHPElvis Pegueroon the 15-day injured list. Right elbow strain.",
-      "player": "Elvis Peguero"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPJosé Urquidyon a rehab assignment to Toledo Mud Hens.",
+      "player": "José Urquidy"
     },
     {
       "date": "2025-08-20",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent 3BConnor Norbyon a rehab assignment to Jacksonville Jumbo Shrimp.",
-      "player": "Connor Norby"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced RHPJosé Sorianoon the paternity list.",
+      "player": "José Soriano"
     },
     {
       "date": "2025-08-20",
@@ -34,32 +46,20 @@
     {
       "date": "2025-08-20",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsselected the contract of CWill Banfieldfrom Louisville Bats.",
-      "player": "Will Banfield"
+      "details": "Cincinnati Redsplaced CTyler Stephensonon the 10-day injured list retroactive to August 17, 2025. Left thumb fracture.",
+      "player": "Tyler Stephenson"
     },
     {
       "date": "2025-08-20",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPJohan Oviedofrom Indianapolis Indians.",
-      "player": "Johan Oviedo"
+      "details": "Pittsburgh Piratesoptioned LHPEvan Siskto Indianapolis Indians.",
+      "player": "Evan Sisk"
     },
     {
       "date": "2025-08-20",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxrecalled RHPWikelman Gonzálezfrom Charlotte Knights.",
       "player": "Wikelman González"
-    },
-    {
-      "date": "2025-08-20",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPIsaiah Campbellto Worcester Red Sox.",
-      "player": "Isaiah Campbell"
-    },
-    {
-      "date": "2025-08-20",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RHPJordan Weemsoutright to Sugar Land Space Cowboys.",
-      "player": "Jordan Weems"
     },
     {
       "date": "2025-08-20",
@@ -81,6 +81,12 @@
     },
     {
       "date": "2025-08-20",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPCarlos Rodriguezfrom Nashville Sounds.",
+      "player": "Carlos Rodriguez"
+    },
+    {
+      "date": "2025-08-20",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksrecalled RHPBryce Jarvisfrom Reno Aces.",
       "player": "Bryce Jarvis"
@@ -93,9 +99,51 @@
     },
     {
       "date": "2025-08-20",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPTobias Myersto Nashville Sounds.",
+      "player": "Tobias Myers"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of CWill Banfieldfrom Louisville Bats.",
+      "player": "Will Banfield"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPChad Patrickto Nashville Sounds.",
+      "player": "Chad Patrick"
+    },
+    {
+      "date": "2025-08-20",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned LHPEvan Siskto Indianapolis Indians.",
-      "player": "Evan Sisk"
+      "details": "Pittsburgh Piratesrecalled RHPJohan Oviedofrom Indianapolis Indians.",
+      "player": "Johan Oviedo"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPIsaiah Campbellto Worcester Red Sox.",
+      "player": "Isaiah Campbell"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled RHPChase Silsethfrom Salt Lake Bees.",
+      "player": "Chase Silseth"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPJordan Weemsoutright to Sugar Land Space Cowboys.",
+      "player": "Jordan Weems"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPAllan Winansfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Allan Winans"
     }
   ]
 }
