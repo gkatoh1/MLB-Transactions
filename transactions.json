@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-20T17:22:20.387330",
+  "last_updated": "2025-08-20T18:36:57.388851",
   "transactions": [
     {
       "date": "2025-08-20",
@@ -9,15 +9,15 @@
     },
     {
       "date": "2025-08-20",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced CTyler Stephensonon the 10-day injured list retroactive to August 17, 2025. Left thumb fracture.",
-      "player": "Tyler Stephenson"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansdesignated RHPCarlos Hernándezfor assignment.",
+      "player": "Carlos Hernández"
     },
     {
       "date": "2025-08-20",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled RHPBryce Jarvisfrom Reno Aces.",
-      "player": "Bryce Jarvis"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced CTyler Stephensonon the 10-day injured list retroactive to August 17, 2025. Left thumb fracture.",
+      "player": "Tyler Stephenson"
     },
     {
       "date": "2025-08-20",
@@ -27,27 +27,39 @@
     },
     {
       "date": "2025-08-20",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPJohan Oviedofrom Indianapolis Indians.",
-      "player": "Johan Oviedo"
-    },
-    {
-      "date": "2025-08-20",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsselected the contract of CWill Banfieldfrom Louisville Bats.",
-      "player": "Will Banfield"
-    },
-    {
-      "date": "2025-08-20",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned RHPIsaiah Campbellto Worcester Red Sox.",
       "player": "Isaiah Campbell"
     },
     {
       "date": "2025-08-20",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPJohan Oviedofrom Indianapolis Indians.",
+      "player": "Johan Oviedo"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansselected the contract of LHPParker Messickfrom Columbus Clippers.",
+      "player": "Parker Messick"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPBryce Jarvisfrom Reno Aces.",
+      "player": "Bryce Jarvis"
+    },
+    {
+      "date": "2025-08-20",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksoptioned RHPAndrew Hoffmannto Reno Aces.",
       "player": "Andrew Hoffmann"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of CWill Banfieldfrom Louisville Bats.",
+      "player": "Will Banfield"
     }
   ]
 }
