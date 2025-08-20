@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-20T18:36:57.388851",
+  "last_updated": "2025-08-20T19:20:17.606043",
   "transactions": [
     {
       "date": "2025-08-20",
@@ -21,9 +21,9 @@
     },
     {
       "date": "2025-08-20",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned LHPEvan Siskto Indianapolis Indians.",
-      "player": "Evan Sisk"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansselected the contract of LHPParker Messickfrom Columbus Clippers.",
+      "player": "Parker Messick"
     },
     {
       "date": "2025-08-20",
@@ -34,14 +34,8 @@
     {
       "date": "2025-08-20",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPJohan Oviedofrom Indianapolis Indians.",
-      "player": "Johan Oviedo"
-    },
-    {
-      "date": "2025-08-20",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansselected the contract of LHPParker Messickfrom Columbus Clippers.",
-      "player": "Parker Messick"
+      "details": "Pittsburgh Piratesoptioned LHPEvan Siskto Indianapolis Indians.",
+      "player": "Evan Sisk"
     },
     {
       "date": "2025-08-20",
@@ -60,6 +54,24 @@
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsselected the contract of CWill Banfieldfrom Louisville Bats.",
       "player": "Will Banfield"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPRon Marinaccioto El Paso Chihuahuas.",
+      "player": "Ron Marinaccio"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPJohan Oviedofrom Indianapolis Indians.",
+      "player": "Johan Oviedo"
+    },
+    {
+      "date": "2025-08-20",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled LHPJP Searsfrom El Paso Chihuahuas.",
+      "player": "JP Sears"
     }
   ]
 }
