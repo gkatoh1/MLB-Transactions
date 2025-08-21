@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-21T20:27:26.367419",
+  "last_updated": "2025-08-21T21:23:02.309368",
   "transactions": [
     {
       "date": "2025-08-21",
@@ -9,9 +9,21 @@
     },
     {
       "date": "2025-08-21",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxdesignated 1BAbraham Torofor assignment.",
+      "player": "Abraham Toro"
+    },
+    {
+      "date": "2025-08-21",
       "team": "Texas Rangers",
       "details": "Texas Rangersactivated RHPJacob Webbfrom the 15-day injured list.",
       "player": "Jacob Webb"
+    },
+    {
+      "date": "2025-08-21",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced CAdley Rutschmanon the 10-day injured list retroactive to August 18, 2025. Right oblique strain.",
+      "player": "Adley Rutschman"
     },
     {
       "date": "2025-08-21",
@@ -21,15 +33,15 @@
     },
     {
       "date": "2025-08-21",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced LFTaylor Trammellon the 10-day injured list. Cervical muscle strain.",
-      "player": "Taylor Trammell"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPPablo Lópezon a rehab assignment to St. Paul Saints.",
+      "player": "Pablo López"
     },
     {
       "date": "2025-08-21",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxdesignated 1BAbraham Torofor assignment.",
-      "player": "Abraham Toro"
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced LFTaylor Trammellon the 10-day injured list. Cervical muscle strain.",
+      "player": "Taylor Trammell"
     },
     {
       "date": "2025-08-21",
@@ -39,9 +51,9 @@
     },
     {
       "date": "2025-08-21",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent RHPPablo Lópezon a rehab assignment to St. Paul Saints.",
-      "player": "Pablo López"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPBraydon Fisherto Buffalo Bisons.",
+      "player": "Braydon Fisher"
     },
     {
       "date": "2025-08-21",
@@ -51,15 +63,21 @@
     },
     {
       "date": "2025-08-21",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled RHPMatt Sauerfrom Oklahoma City Comets.",
-      "player": "Matt Sauer"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled CFDaniel Johnsonfrom Norfolk Tides.",
+      "player": "Daniel Johnson"
     },
     {
       "date": "2025-08-21",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesclaimed LHPJosh Walkeroff waivers fromPhiladelphia Phillies.",
-      "player": "Josh Walker"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPPaul Gervaseto Oklahoma City Comets.",
+      "player": "Paul Gervase"
+    },
+    {
+      "date": "2025-08-21",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPRichard Fittsfrom Worcester Red Sox.",
+      "player": "Richard Fitts"
     },
     {
       "date": "2025-08-21",
@@ -69,15 +87,21 @@
     },
     {
       "date": "2025-08-21",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPBraydon Fisherto Buffalo Bisons.",
-      "player": "Braydon Fisher"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled 2BDavid Hamiltonfrom Worcester Red Sox.",
+      "player": "David Hamilton"
     },
     {
       "date": "2025-08-21",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned CFGrant McCrayto Sacramento River Cats.",
-      "player": "Grant McCray"
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled SSBrice Matthewsfrom Sugar Land Space Cowboys.",
+      "player": "Brice Matthews"
+    },
+    {
+      "date": "2025-08-21",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPJ.P. Franceto Sugar Land Space Cowboys.",
+      "player": "J.P. France"
     },
     {
       "date": "2025-08-21",
@@ -105,33 +129,21 @@
     },
     {
       "date": "2025-08-21",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned CFGrant McCrayto Sacramento River Cats.",
+      "player": "Grant McCray"
+    },
+    {
+      "date": "2025-08-21",
       "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersoptioned RHPPaul Gervaseto Oklahoma City Comets.",
-      "player": "Paul Gervase"
+      "details": "Los Angeles Dodgersrecalled RHPMatt Sauerfrom Oklahoma City Comets.",
+      "player": "Matt Sauer"
     },
     {
       "date": "2025-08-21",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPRichard Fittsfrom Worcester Red Sox.",
-      "player": "Richard Fitts"
-    },
-    {
-      "date": "2025-08-21",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled 2BDavid Hamiltonfrom Worcester Red Sox.",
-      "player": "David Hamilton"
-    },
-    {
-      "date": "2025-08-21",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled SSBrice Matthewsfrom Sugar Land Space Cowboys.",
-      "player": "Brice Matthews"
-    },
-    {
-      "date": "2025-08-21",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned RHPJ.P. Franceto Sugar Land Space Cowboys.",
-      "player": "J.P. France"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed LHPJosh Walkeroff waivers fromPhiladelphia Phillies.",
+      "player": "Josh Walker"
     }
   ]
 }
