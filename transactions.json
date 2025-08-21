@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-08-21T16:36:35.827142",
+  "last_updated": "2025-08-21T18:34:57.255373",
   "transactions": [
-    {
-      "date": "2025-08-21",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated RHPJacob Webbfrom the 15-day injured list.",
-      "player": "Jacob Webb"
-    },
     {
       "date": "2025-08-21",
       "team": "Minnesota Twins",
@@ -15,9 +9,27 @@
     },
     {
       "date": "2025-08-21",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated RHPJacob Webbfrom the 15-day injured list.",
+      "player": "Jacob Webb"
+    },
+    {
+      "date": "2025-08-21",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced LHPErik Milleron the 60-day injured list. Left elbow sprain.",
+      "player": "Erik Miller"
+    },
+    {
+      "date": "2025-08-21",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsselected the contract of RHPJoel Peguerofrom Sacramento River Cats.",
+      "player": "Joel Peguero"
+    },
+    {
+      "date": "2025-08-21",
       "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled RHPMatt Sauerfrom Oklahoma City Comets.",
-      "player": "Matt Sauer"
+      "details": "Los Angeles Dodgersoptioned RHPPaul Gervaseto Oklahoma City Comets.",
+      "player": "Paul Gervase"
     },
     {
       "date": "2025-08-21",
@@ -27,15 +39,45 @@
     },
     {
       "date": "2025-08-21",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned RHPCaleb Boushleyto Round Rock Express.",
-      "player": "Caleb Boushley"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned CFGrant McCrayto Sacramento River Cats.",
+      "player": "Grant McCray"
+    },
+    {
+      "date": "2025-08-21",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPLuis Meyto Louisville Bats.",
+      "player": "Luis Mey"
     },
     {
       "date": "2025-08-21",
       "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersoptioned RHPPaul Gervaseto Oklahoma City Comets.",
-      "player": "Paul Gervase"
+      "details": "Los Angeles Dodgersrecalled RHPMatt Sauerfrom Oklahoma City Comets.",
+      "player": "Matt Sauer"
+    },
+    {
+      "date": "2025-08-21",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed LHPJosh Walkeroff waivers fromPhiladelphia Phillies.",
+      "player": "Josh Walker"
+    },
+    {
+      "date": "2025-08-21",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPKai-Wei Tengto Sacramento River Cats.",
+      "player": "Kai-Wei Teng"
+    },
+    {
+      "date": "2025-08-21",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RFLuis Matosfrom Sacramento River Cats.",
+      "player": "Luis Matos"
+    },
+    {
+      "date": "2025-08-21",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPCaleb Boushleyto Round Rock Express.",
+      "player": "Caleb Boushley"
     }
   ]
 }
