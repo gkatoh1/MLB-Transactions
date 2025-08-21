@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-21T18:34:57.255373",
+  "last_updated": "2025-08-21T19:19:59.781837",
   "transactions": [
     {
       "date": "2025-08-21",
@@ -22,44 +22,8 @@
     {
       "date": "2025-08-21",
       "team": "San Francisco Giants",
-      "details": "San Francisco Giantsselected the contract of RHPJoel Peguerofrom Sacramento River Cats.",
-      "player": "Joel Peguero"
-    },
-    {
-      "date": "2025-08-21",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersoptioned RHPPaul Gervaseto Oklahoma City Comets.",
-      "player": "Paul Gervase"
-    },
-    {
-      "date": "2025-08-21",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPBraydon Fisherto Buffalo Bisons.",
-      "player": "Braydon Fisher"
-    },
-    {
-      "date": "2025-08-21",
-      "team": "San Francisco Giants",
       "details": "San Francisco Giantsoptioned CFGrant McCrayto Sacramento River Cats.",
       "player": "Grant McCray"
-    },
-    {
-      "date": "2025-08-21",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPLuis Meyto Louisville Bats.",
-      "player": "Luis Mey"
-    },
-    {
-      "date": "2025-08-21",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled RHPMatt Sauerfrom Oklahoma City Comets.",
-      "player": "Matt Sauer"
-    },
-    {
-      "date": "2025-08-21",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesclaimed LHPJosh Walkeroff waivers fromPhiladelphia Phillies.",
-      "player": "Josh Walker"
     },
     {
       "date": "2025-08-21",
@@ -78,6 +42,42 @@
       "team": "Texas Rangers",
       "details": "Texas Rangersoptioned RHPCaleb Boushleyto Round Rock Express.",
       "player": "Caleb Boushley"
+    },
+    {
+      "date": "2025-08-21",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPMatt Sauerfrom Oklahoma City Comets.",
+      "player": "Matt Sauer"
+    },
+    {
+      "date": "2025-08-21",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed LHPJosh Walkeroff waivers fromPhiladelphia Phillies.",
+      "player": "Josh Walker"
+    },
+    {
+      "date": "2025-08-21",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsselected the contract of RHPJoel Peguerofrom Sacramento River Cats.",
+      "player": "Joel Peguero"
+    },
+    {
+      "date": "2025-08-21",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPBraydon Fisherto Buffalo Bisons.",
+      "player": "Braydon Fisher"
+    },
+    {
+      "date": "2025-08-21",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPLuis Meyto Louisville Bats.",
+      "player": "Luis Mey"
+    },
+    {
+      "date": "2025-08-21",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPPaul Gervaseto Oklahoma City Comets.",
+      "player": "Paul Gervase"
     }
   ]
 }
