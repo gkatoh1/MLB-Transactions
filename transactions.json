@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-08-21T15:27:34.847877",
+  "last_updated": "2025-08-21T16:36:35.827142",
   "transactions": [
+    {
+      "date": "2025-08-21",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated RHPJacob Webbfrom the 15-day injured list.",
+      "player": "Jacob Webb"
+    },
     {
       "date": "2025-08-21",
       "team": "Minnesota Twins",
@@ -9,9 +15,27 @@
     },
     {
       "date": "2025-08-21",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPMatt Sauerfrom Oklahoma City Comets.",
+      "player": "Matt Sauer"
+    },
+    {
+      "date": "2025-08-21",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysoptioned RHPBraydon Fisherto Buffalo Bisons.",
       "player": "Braydon Fisher"
+    },
+    {
+      "date": "2025-08-21",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPCaleb Boushleyto Round Rock Express.",
+      "player": "Caleb Boushley"
+    },
+    {
+      "date": "2025-08-21",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPPaul Gervaseto Oklahoma City Comets.",
+      "player": "Paul Gervase"
     }
   ]
 }
