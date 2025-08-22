@@ -1,11 +1,47 @@
 {
-  "last_updated": "2025-08-22T17:22:40.877180",
+  "last_updated": "2025-08-22T18:35:02.488733",
   "transactions": [
+    {
+      "date": "2025-08-22",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced RHPLanden Rouppon the 15-day injured list retroactive to August 21, 2025. Left knee inflammation.",
+      "player": "Landen Roupp"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPDugan Darnellon the 15-day injured list. Left hip inflammation.",
+      "player": "Dugan Darnell"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesreleased LHPAustin Gomber.",
+      "player": "Austin Gomber"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesselected the contract of LHPLucas Gilbreathfrom Albuquerque Isotopes.",
+      "player": "Lucas Gilbreath"
+    },
     {
       "date": "2025-08-22",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsselected the contract of RHPZach Maxwellfrom Louisville Bats.",
       "player": "Zach Maxwell"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPAngel Chivillifrom Albuquerque Isotopes.",
+      "player": "Angel Chivilli"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled LHPCarson Whisenhuntfrom Sacramento River Cats.",
+      "player": "Carson Whisenhunt"
     }
   ]
 }
