@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-08-23T20:25:12.389756",
+  "last_updated": "2025-08-23T21:21:15.220305",
   "transactions": [
+    {
+      "date": "2025-08-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPCody Poteeton a rehab assignment to Norfolk Tides.",
+      "player": "Cody Poteet"
+    },
     {
       "date": "2025-08-23",
       "team": "New York Mets",
       "details": "New York Metsplaced RHPFrankie Montason the 15-day injured list retroactive to August 22, 2025. Right elbow UCL injury.",
       "player": "Frankie Montas"
-    },
-    {
-      "date": "2025-08-23",
-      "team": "Houston Astros",
-      "details": "Houston Astrosdesignated RHPShawn Dubinfor assignment.",
-      "player": "Shawn Dubin"
     },
     {
       "date": "2025-08-23",
@@ -21,15 +21,27 @@
     },
     {
       "date": "2025-08-23",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersplaced LHPBlake Snellon the paternity list.",
-      "player": "Blake Snell"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced LHPBailey Falteron the 15-day injured list. Left bicep contusion.",
+      "player": "Bailey Falter"
     },
     {
       "date": "2025-08-23",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent 2BBrendan Rodgerson a rehab assignment to Sugar Land Space Cowboys.",
-      "player": "Brendan Rodgers"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated 3BMatt Chapmanfrom the 10-day injured list.",
+      "player": "Matt Chapman"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated RFAdolis Garcíafrom the 10-day injured list.",
+      "player": "Adolis García"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RFVictor Roblesfrom the 60-day injured list.",
+      "player": "Victor Robles"
     },
     {
       "date": "2025-08-23",
@@ -45,15 +57,63 @@
     },
     {
       "date": "2025-08-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPCody Poteeton a rehab assignment to Norfolk Tides.",
+      "player": "Cody Poteet"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced LHPBlake Snellon the paternity list.",
+      "player": "Blake Snell"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated 2BDylan Moorefor assignment.",
+      "player": "Dylan Moore"
+    },
+    {
+      "date": "2025-08-23",
       "team": "Houston Astros",
-      "details": "Houston Astrosrecalled RHPAJ Blubaughfrom Sugar Land Space Cowboys.",
-      "player": "AJ Blubaugh"
+      "details": "Houston Astrossent 2BBrendan Rodgerson a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Brendan Rodgers"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced 2BMarcus Semienon the 10-day injured list retroactive to August 22, 2025. Left foot contusion.",
+      "player": "Marcus Semien"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated RHPShawn Dubinfor assignment.",
+      "player": "Shawn Dubin"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned 2BTyler Fitzgeraldto Sacramento River Cats.",
+      "player": "Tyler Fitzgerald"
     },
     {
       "date": "2025-08-23",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsrecalled RHPMick Abelfrom St. Paul Saints.",
       "player": "Mick Abel"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
+      "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPAJ Blubaughfrom Sugar Land Space Cowboys.",
+      "player": "AJ Blubaugh"
     },
     {
       "date": "2025-08-23",
