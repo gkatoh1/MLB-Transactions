@@ -1,11 +1,35 @@
 {
-  "last_updated": "2025-08-23T19:18:06.743662",
+  "last_updated": "2025-08-23T20:25:12.389756",
   "transactions": [
     {
       "date": "2025-08-23",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent CFOneil Cruzon a rehab assignment to Altoona Curve.",
-      "player": "Oneil Cruz"
+      "team": "New York Mets",
+      "details": "New York Metsplaced RHPFrankie Montason the 15-day injured list retroactive to August 22, 2025. Right elbow UCL injury.",
+      "player": "Frankie Montas"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated RHPShawn Dubinfor assignment.",
+      "player": "Shawn Dubin"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPKirby Yatesfrom the 15-day injured list.",
+      "player": "Kirby Yates"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced LHPBlake Snellon the paternity list.",
+      "player": "Blake Snell"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent 2BBrendan Rodgerson a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Brendan Rodgers"
     },
     {
       "date": "2025-08-23",
@@ -15,9 +39,27 @@
     },
     {
       "date": "2025-08-23",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent CFOneil Cruzon a rehab assignment to Altoona Curve.",
+      "player": "Oneil Cruz"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPAJ Blubaughfrom Sugar Land Space Cowboys.",
+      "player": "AJ Blubaugh"
+    },
+    {
+      "date": "2025-08-23",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsrecalled RHPMick Abelfrom St. Paul Saints.",
       "player": "Mick Abel"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPHuascar Brazobánfrom Syracuse Mets.",
+      "player": "Huascar Brazobán"
     }
   ]
 }
