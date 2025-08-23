@@ -1,35 +1,29 @@
 {
-  "last_updated": "2025-08-23T22:22:49.696395",
+  "last_updated": "2025-08-23T23:22:37.294667",
   "transactions": [
     {
       "date": "2025-08-23",
-      "team": "Detroit Tigers",
-      "details": "3BKevin Newmanroster status changed byDetroit Tigers.",
-      "player": "Kevin Newman"
+      "team": "New York Mets",
+      "details": "New York Metsplaced RHPFrankie Montason the 15-day injured list retroactive to August 22, 2025. Right elbow UCL injury.",
+      "player": "Frankie Montas"
     },
     {
       "date": "2025-08-23",
-      "team": "Houston Astros",
-      "details": "Houston Astrosdesignated RHPShawn Dubinfor assignment.",
-      "player": "Shawn Dubin"
-    },
-    {
-      "date": "2025-08-23",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsplaced RHPJosé Sorianoon the restricted list.",
-      "player": "José Soriano"
-    },
-    {
-      "date": "2025-08-23",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated RFVictor Roblesfrom the 60-day injured list.",
-      "player": "Victor Robles"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxreleased 3BJosh Rojas.",
+      "player": "Josh Rojas"
     },
     {
       "date": "2025-08-23",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersactivated RHPKirby Yatesfrom the 15-day injured list.",
       "player": "Kirby Yates"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated 2BDylan Moorefor assignment.",
+      "player": "Dylan Moore"
     },
     {
       "date": "2025-08-23",
@@ -45,6 +39,30 @@
     },
     {
       "date": "2025-08-23",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RFVictor Roblesfrom the 60-day injured list.",
+      "player": "Victor Robles"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent CAli Sánchezto a minor league contract.",
+      "player": "Ali Sánchez"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced LHPBailey Falteron the 15-day injured list. Left bicep contusion.",
+      "player": "Bailey Falter"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated 3BMatt Chapmanfrom the 10-day injured list.",
+      "player": "Matt Chapman"
+    },
+    {
+      "date": "2025-08-23",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent RHPCody Poteeton a rehab assignment to Norfolk Tides.",
       "player": "Cody Poteet"
@@ -57,21 +75,9 @@
     },
     {
       "date": "2025-08-23",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsactivated 3BMatt Chapmanfrom the 10-day injured list.",
-      "player": "Matt Chapman"
-    },
-    {
-      "date": "2025-08-23",
-      "team": "New York Mets",
-      "details": "New York Metssigned CAli Sánchez.",
-      "player": "Ali Sánchez"
-    },
-    {
-      "date": "2025-08-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxreleased 3BJosh Rojas.",
-      "player": "Josh Rojas"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced RHPJosé Sorianoon the restricted list.",
+      "player": "José Soriano"
     },
     {
       "date": "2025-08-23",
@@ -87,24 +93,6 @@
     },
     {
       "date": "2025-08-23",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced LHPBailey Falteron the 15-day injured list. Left bicep contusion.",
-      "player": "Bailey Falter"
-    },
-    {
-      "date": "2025-08-23",
-      "team": "New York Mets",
-      "details": "New York Metsplaced RHPFrankie Montason the 15-day injured list retroactive to August 22, 2025. Right elbow UCL injury.",
-      "player": "Frankie Montas"
-    },
-    {
-      "date": "2025-08-23",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersdesignated 2BDylan Moorefor assignment.",
-      "player": "Dylan Moore"
-    },
-    {
-      "date": "2025-08-23",
       "team": "Houston Astros",
       "details": "Houston Astrossent 2BBrendan Rodgerson a rehab assignment to Sugar Land Space Cowboys.",
       "player": "Brendan Rodgers"
@@ -117,9 +105,45 @@
     },
     {
       "date": "2025-08-23",
+      "team": "Detroit Tigers",
+      "details": "3BKevin Newmanroster status changed byDetroit Tigers.",
+      "player": "Kevin Newman"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated RHPShawn Dubinfor assignment.",
+      "player": "Shawn Dubin"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
+      "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPJordan Wicksfrom Iowa Cubs.",
+      "player": "Jordan Wicks"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPHuascar Brazobánfrom Syracuse Mets.",
+      "player": "Huascar Brazobán"
+    },
+    {
+      "date": "2025-08-23",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsoptioned 2BTyler Fitzgeraldto Sacramento River Cats.",
       "player": "Tyler Fitzgerald"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPJavier Assadto Iowa Cubs.",
+      "player": "Javier Assad"
     },
     {
       "date": "2025-08-23",
@@ -132,18 +156,6 @@
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsrecalled RHPMick Abelfrom St. Paul Saints.",
       "player": "Mick Abel"
-    },
-    {
-      "date": "2025-08-23",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
-      "player": "Jonathan Bowlan"
-    },
-    {
-      "date": "2025-08-23",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPHuascar Brazobánfrom Syracuse Mets.",
-      "player": "Huascar Brazobán"
     }
   ]
 }
