@@ -1,17 +1,23 @@
 {
-  "last_updated": "2025-08-23T01:56:16.373923",
+  "last_updated": "2025-08-23T03:07:44.181764",
   "transactions": [
     {
       "date": "2025-08-22",
-      "team": "Athletics",
-      "details": "Athleticsactivated SSJacob Wilsonfrom the 10-day injured list.",
-      "player": "Jacob Wilson"
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned free agent RHPCraig Kimbrel.",
+      "player": "Craig Kimbrel"
     },
     {
       "date": "2025-08-22",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolestransferred RHPFélix Bautistafrom the 15-day injured list to the 60-day injured list. Right shoulder surgery.",
-      "player": "Félix Bautista"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated LFJake Bauersfrom the 10-day injured list.",
+      "player": "Jake Bauers"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent CFJackson Chourioon a rehab assignment to Nashville Sounds.",
+      "player": "Jackson Chourio"
     },
     {
       "date": "2025-08-22",
@@ -21,15 +27,15 @@
     },
     {
       "date": "2025-08-22",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPTylor Megillon a rehab assignment to Syracuse Mets.",
-      "player": "Tylor Megill"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestransferred RHPFélix Bautistafrom the 15-day injured list to the 60-day injured list. Right shoulder surgery.",
+      "player": "Félix Bautista"
     },
     {
       "date": "2025-08-22",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced SSJoey Ortizon the 10-day injured list. Strained left hamstring.",
-      "player": "Joey Ortiz"
+      "team": "New York Mets",
+      "details": "New York Metssent RHPTylor Megillon a rehab assignment to Syracuse Mets.",
+      "player": "Tylor Megill"
     },
     {
       "date": "2025-08-22",
@@ -39,27 +45,9 @@
     },
     {
       "date": "2025-08-22",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksactivated CGabriel Morenofrom the 60-day injured list.",
-      "player": "Gabriel Moreno"
-    },
-    {
-      "date": "2025-08-22",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersplaced CFEvan Carteron the 10-day injured list. Right wrist fracture.",
-      "player": "Evan Carter"
-    },
-    {
-      "date": "2025-08-22",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsplaced RHPLanden Rouppon the 15-day injured list retroactive to August 21, 2025. Left knee inflammation.",
       "player": "Landen Roupp"
-    },
-    {
-      "date": "2025-08-22",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated 3BJosh Rojasfor assignment.",
-      "player": "Josh Rojas"
     },
     {
       "date": "2025-08-22",
@@ -72,54 +60,6 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysactivated RHPShane Bieberfrom the 60-day injured list.",
       "player": "Shane Bieber"
-    },
-    {
-      "date": "2025-08-22",
-      "team": "Houston Astros",
-      "details": "Houston Astrostransferred LHPBrandon Walterfrom the 15-day injured list to the 60-day injured list. Left elbow inflammation.",
-      "player": "Brandon Walter"
-    },
-    {
-      "date": "2025-08-22",
-      "team": "Athletics",
-      "details": "Athleticsplaced RHPJack Perkinson the 15-day injured list. Strained right shoulder.",
-      "player": "Jack Perkins"
-    },
-    {
-      "date": "2025-08-22",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersdesignated CFRyan Kreidlerfor assignment.",
-      "player": "Ryan Kreidler"
-    },
-    {
-      "date": "2025-08-22",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPCal Quantrill.",
-      "player": "Cal Quantrill"
-    },
-    {
-      "date": "2025-08-22",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesreleased LHPAustin Gomber.",
-      "player": "Austin Gomber"
-    },
-    {
-      "date": "2025-08-22",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent RHPDan Altavillaon a rehab assignment to Charlotte Knights.",
-      "player": "Dan Altavilla"
-    },
-    {
-      "date": "2025-08-22",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced 3BJordan Westburgon the 10-day injured list retroactive to August 19, 2025. Right ankle sprain.",
-      "player": "Jordan Westburg"
-    },
-    {
-      "date": "2025-08-22",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced RHPDugan Darnellon the 15-day injured list. Left hip inflammation.",
-      "player": "Dugan Darnell"
     },
     {
       "date": "2025-08-22",
@@ -141,15 +81,63 @@
     },
     {
       "date": "2025-08-22",
+      "team": "Athletics",
+      "details": "Athleticsplaced RHPJack Perkinson the 15-day injured list. Strained right shoulder.",
+      "player": "Jack Perkins"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated CFRyan Kreidlerfor assignment.",
+      "player": "Ryan Kreidler"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesreleased LHPAustin Gomber.",
+      "player": "Austin Gomber"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced 3BJordan Westburgon the 10-day injured list retroactive to August 19, 2025. Right ankle sprain.",
+      "player": "Jordan Westburg"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated CGabriel Morenofrom the 60-day injured list.",
+      "player": "Gabriel Moreno"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPDugan Darnellon the 15-day injured list. Left hip inflammation.",
+      "player": "Dugan Darnell"
+    },
+    {
+      "date": "2025-08-22",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersactivated LHPTanner Scottfrom the 15-day injured list.",
       "player": "Tanner Scott"
     },
     {
       "date": "2025-08-22",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesactivated RHPAngel Chivilli.",
-      "player": "Angel Chivilli"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced CFEvan Carteron the 10-day injured list. Right wrist fracture.",
+      "player": "Evan Carter"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent RHPDan Altavillaon a rehab assignment to Charlotte Knights.",
+      "player": "Dan Altavilla"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "Houston Astros",
+      "details": "Houston Astrostransferred LHPBrandon Walterfrom the 15-day injured list to the 60-day injured list. Left elbow inflammation.",
+      "player": "Brandon Walter"
     },
     {
       "date": "2025-08-22",
@@ -159,9 +147,9 @@
     },
     {
       "date": "2025-08-22",
-      "team": "Houston Astros",
-      "details": "Houston Astrossigned free agent RHPCraig Kimbrel.",
-      "player": "Craig Kimbrel"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated RHPAngel Chivilli.",
+      "player": "Angel Chivilli"
     },
     {
       "date": "2025-08-22",
@@ -172,74 +160,50 @@
     {
       "date": "2025-08-22",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent CFJackson Chourioon a rehab assignment to Nashville Sounds.",
-      "player": "Jackson Chourio"
-    },
-    {
-      "date": "2025-08-22",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated LFJake Bauersfrom the 10-day injured list.",
-      "player": "Jake Bauers"
+      "details": "Milwaukee Brewersplaced SSJoey Ortizon the 10-day injured list. Strained left hamstring.",
+      "player": "Joey Ortiz"
     },
     {
       "date": "2025-08-22",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerssent CFJackson Chourioon a rehab assignment to Nashville Sounds.",
       "player": "Jackson Chourio"
-    },
-    {
-      "date": "2025-08-22",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersselected the contract of LHPDrew Sommersfrom Toledo Mud Hens.",
-      "player": "Drew Sommers"
-    },
-    {
-      "date": "2025-08-22",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of RHPMatt Bowmanfrom Norfolk Tides.",
-      "player": "Matt Bowman"
-    },
-    {
-      "date": "2025-08-22",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPEduarniel Núñezfrom Las Vegas Aviators.",
-      "player": "Eduarniel Núñez"
-    },
-    {
-      "date": "2025-08-22",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersoptioned RHPMatt Sauerto Oklahoma City Comets.",
-      "player": "Matt Sauer"
     },
     {
       "date": "2025-08-22",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled CKorey Leefrom Charlotte Knights.",
-      "player": "Korey Lee"
+      "details": "Chicago White Soxdesignated 3BJosh Rojasfor assignment.",
+      "player": "Josh Rojas"
     },
     {
       "date": "2025-08-22",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled CFMichael Helmanfrom Round Rock Express.",
-      "player": "Michael Helman"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPCal Quantrill.",
+      "player": "Cal Quantrill"
     },
     {
       "date": "2025-08-22",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of SSVimael Machínfrom Norfolk Tides.",
-      "player": "Vimael Machín"
-    },
-    {
-      "date": "2025-08-22",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesselected the contract of RHPBubba Chandlerfrom Indianapolis Indians.",
-      "player": "Bubba Chandler"
+      "team": "Athletics",
+      "details": "Athleticsactivated SSJacob Wilsonfrom the 10-day injured list.",
+      "player": "Jacob Wilson"
     },
     {
       "date": "2025-08-22",
       "team": "Houston Astros",
-      "details": "Houston Astrossent RHPTayler Scottoutright to Sugar Land Space Cowboys.",
-      "player": "Tayler Scott"
+      "details": "Houston Astrosoptioned RHPLogan VanWeyto Sugar Land Space Cowboys.",
+      "player": "Logan VanWey"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "Athletics",
+      "details": "Athleticsoptioned 3BMax Schuemannto Las Vegas Aviators.",
+      "player": "Max Schuemann"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPJavier Assadfrom Iowa Cubs.",
+      "player": "Javier Assad"
     },
     {
       "date": "2025-08-22",
@@ -249,9 +213,9 @@
     },
     {
       "date": "2025-08-22",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsselected the contract of RHPZach Maxwellfrom Louisville Bats.",
-      "player": "Zach Maxwell"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPCarlos Hernándezoutright to Columbus Clippers.",
+      "player": "Carlos Hernández"
     },
     {
       "date": "2025-08-22",
@@ -267,15 +231,45 @@
     },
     {
       "date": "2025-08-22",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled LHPCarson Whisenhuntfrom Sacramento River Cats.",
+      "player": "Carson Whisenhunt"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled CKorey Leefrom Charlotte Knights.",
+      "player": "Korey Lee"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesselected the contract of RHPBubba Chandlerfrom Indianapolis Indians.",
+      "player": "Bubba Chandler"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled CFMichael Helmanfrom Round Rock Express.",
+      "player": "Michael Helman"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of RHPMatt Bowmanfrom Norfolk Tides.",
+      "player": "Matt Bowman"
+    },
+    {
+      "date": "2025-08-22",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysoptioned RHPJoe Boyleto Durham Bulls.",
       "player": "Joe Boyle"
     },
     {
       "date": "2025-08-22",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsrecalled LHPCarson Whisenhuntfrom Sacramento River Cats.",
-      "player": "Carson Whisenhunt"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersselected the contract of LHPDrew Sommersfrom Toledo Mud Hens.",
+      "player": "Drew Sommers"
     },
     {
       "date": "2025-08-22",
@@ -292,14 +286,20 @@
     {
       "date": "2025-08-22",
       "team": "Athletics",
-      "details": "Athleticsoptioned 3BMax Schuemannto Las Vegas Aviators.",
-      "player": "Max Schuemann"
+      "details": "Athleticsrecalled RHPEduarniel Núñezfrom Las Vegas Aviators.",
+      "player": "Eduarniel Núñez"
     },
     {
       "date": "2025-08-22",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent RHPCarlos Hernándezoutright to Columbus Clippers.",
-      "player": "Carlos Hernández"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPTayler Scottoutright to Sugar Land Space Cowboys.",
+      "player": "Tayler Scott"
+    },
+    {
+      "date": "2025-08-22",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPMatt Sauerto Oklahoma City Comets.",
+      "player": "Matt Sauer"
     }
   ]
 }
