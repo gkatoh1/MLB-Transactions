@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-08-24T14:21:31.987450",
+  "last_updated": "2025-08-24T15:23:32.938871",
   "transactions": [
-    {
-      "date": "2025-08-24",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced LHPAaron Bummeron the 15-day injured list. Left shoulder inflammation.",
-      "player": "Aaron Bummer"
-    },
     {
       "date": "2025-08-24",
       "team": "Minnesota Twins",
@@ -16,14 +10,8 @@
     {
       "date": "2025-08-24",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPWander Suero.",
-      "player": "Wander Suero"
-    },
-    {
-      "date": "2025-08-24",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesreleased RHPErick Fedde.",
-      "player": "Erick Fedde"
+      "details": "Atlanta Bravesplaced LHPAaron Bummeron the 15-day injured list. Left shoulder inflammation.",
+      "player": "Aaron Bummer"
     },
     {
       "date": "2025-08-24",
@@ -39,9 +27,21 @@
     },
     {
       "date": "2025-08-24",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPTaj Bradleyfrom St. Paul Saints.",
-      "player": "Taj Bradley"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesreleased RHPErick Fedde.",
+      "player": "Erick Fedde"
+    },
+    {
+      "date": "2025-08-24",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPWander Suero.",
+      "player": "Wander Suero"
+    },
+    {
+      "date": "2025-08-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPCarlos Rodriguezto Nashville Sounds.",
+      "player": "Carlos Rodriguez"
     },
     {
       "date": "2025-08-24",
@@ -57,12 +57,6 @@
     },
     {
       "date": "2025-08-24",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned LHPAnthony Venezianoto Memphis Redbirds.",
-      "player": "Anthony Veneziano"
-    },
-    {
-      "date": "2025-08-24",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesrecalled RHPWander Suerofrom Gwinnett Stripers.",
       "player": "Wander Suero"
@@ -72,6 +66,24 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesrecalled RHPHunter Strattonfrom Gwinnett Stripers.",
       "player": "Hunter Stratton"
+    },
+    {
+      "date": "2025-08-24",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned LHPAnthony Venezianoto Memphis Redbirds.",
+      "player": "Anthony Veneziano"
+    },
+    {
+      "date": "2025-08-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPChad Patrickfrom Nashville Sounds.",
+      "player": "Chad Patrick"
+    },
+    {
+      "date": "2025-08-24",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPTaj Bradleyfrom St. Paul Saints.",
+      "player": "Taj Bradley"
     }
   ]
 }
