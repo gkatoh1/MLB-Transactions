@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-08-23T23:22:37.294667",
+  "last_updated": "2025-08-24T02:11:39.309062",
   "transactions": [
     {
       "date": "2025-08-23",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated 3BMatt Chapmanfrom the 10-day injured list.",
+      "player": "Matt Chapman"
+    },
+    {
+      "date": "2025-08-23",
       "team": "New York Mets",
-      "details": "New York Metsplaced RHPFrankie Montason the 15-day injured list retroactive to August 22, 2025. Right elbow UCL injury.",
-      "player": "Frankie Montas"
+      "details": "New York Metssigned free agent CAli Sánchezto a minor league contract.",
+      "player": "Ali Sánchez"
     },
     {
       "date": "2025-08-23",
@@ -15,9 +21,15 @@
     },
     {
       "date": "2025-08-23",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated RHPKirby Yatesfrom the 15-day injured list.",
-      "player": "Kirby Yates"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsdesignated RHPJosé Ureñafor assignment.",
+      "player": "José Ureña"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent CFOneil Cruzon a rehab assignment to Altoona Curve.",
+      "player": "Oneil Cruz"
     },
     {
       "date": "2025-08-23",
@@ -39,27 +51,9 @@
     },
     {
       "date": "2025-08-23",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated RFVictor Roblesfrom the 60-day injured list.",
-      "player": "Victor Robles"
-    },
-    {
-      "date": "2025-08-23",
       "team": "New York Mets",
-      "details": "New York Metssigned free agent CAli Sánchezto a minor league contract.",
-      "player": "Ali Sánchez"
-    },
-    {
-      "date": "2025-08-23",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced LHPBailey Falteron the 15-day injured list. Left bicep contusion.",
-      "player": "Bailey Falter"
-    },
-    {
-      "date": "2025-08-23",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsactivated 3BMatt Chapmanfrom the 10-day injured list.",
-      "player": "Matt Chapman"
+      "details": "New York Metsplaced RHPFrankie Montason the 15-day injured list retroactive to August 22, 2025. Right elbow UCL injury.",
+      "player": "Frankie Montas"
     },
     {
       "date": "2025-08-23",
@@ -81,15 +75,21 @@
     },
     {
       "date": "2025-08-23",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsdesignated RHPJosé Ureñafor assignment.",
-      "player": "José Ureña"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPKirby Yatesfrom the 15-day injured list.",
+      "player": "Kirby Yates"
     },
     {
       "date": "2025-08-23",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent CFOneil Cruzon a rehab assignment to Altoona Curve.",
-      "player": "Oneil Cruz"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced LHPBailey Falteron the 15-day injured list. Left bicep contusion.",
+      "player": "Bailey Falter"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresplaced CFJackson Merrillon the 10-day injured list retroactive to August 20, 2025. Left ankle sprain.",
+      "player": "Jackson Merrill"
     },
     {
       "date": "2025-08-23",
@@ -117,15 +117,33 @@
     },
     {
       "date": "2025-08-23",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RFVictor Roblesfrom the 60-day injured list.",
+      "player": "Victor Robles"
+    },
+    {
+      "date": "2025-08-23",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsrecalled RHPJonathan Bowlanfrom Omaha Storm Chasers.",
       "player": "Jonathan Bowlan"
     },
     {
       "date": "2025-08-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPAJ Blubaughfrom Sugar Land Space Cowboys.",
+      "player": "AJ Blubaugh"
+    },
+    {
+      "date": "2025-08-23",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled LHPJordan Wicksfrom Iowa Cubs.",
-      "player": "Jordan Wicks"
+      "details": "Chicago Cubsoptioned RHPJavier Assadto Iowa Cubs.",
+      "player": "Javier Assad"
+    },
+    {
+      "date": "2025-08-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPMick Abelfrom St. Paul Saints.",
+      "player": "Mick Abel"
     },
     {
       "date": "2025-08-23",
@@ -142,20 +160,8 @@
     {
       "date": "2025-08-23",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned RHPJavier Assadto Iowa Cubs.",
-      "player": "Javier Assad"
-    },
-    {
-      "date": "2025-08-23",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled RHPAJ Blubaughfrom Sugar Land Space Cowboys.",
-      "player": "AJ Blubaugh"
-    },
-    {
-      "date": "2025-08-23",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPMick Abelfrom St. Paul Saints.",
-      "player": "Mick Abel"
+      "details": "Chicago Cubsrecalled LHPJordan Wicksfrom Iowa Cubs.",
+      "player": "Jordan Wicks"
     }
   ]
 }
