@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-08-24T17:20:31.728420",
+  "last_updated": "2025-08-24T18:33:22.771293",
   "transactions": [
     {
       "date": "2025-08-24",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPWander Suero.",
-      "player": "Wander Suero"
+      "details": "Atlanta Bravesplaced LHPAaron Bummeron the 15-day injured list. Left shoulder inflammation.",
+      "player": "Aaron Bummer"
     },
     {
       "date": "2025-08-24",
@@ -15,15 +15,27 @@
     },
     {
       "date": "2025-08-24",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsactivated LHPJohn Kingfrom the 15-day injured list.",
-      "player": "John King"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced RHPVictor Mederoson the 15-day injured list. Right shoulder inflammation.",
+      "player": "Victor Mederos"
     },
     {
       "date": "2025-08-24",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiestransferred RHPDugan Darnellfrom the 15-day injured list to the 60-day injured list. Left hip inflammation.",
-      "player": "Dugan Darnell"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated RHPJosé Sorianofrom the restricted list.",
+      "player": "José Soriano"
+    },
+    {
+      "date": "2025-08-24",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced RHPCarson Fulmeron the 15-day injured list. Right elbow inflammation.",
+      "player": "Carson Fulmer"
+    },
+    {
+      "date": "2025-08-24",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated LHPJohn Kingfrom the 15-day injured list.",
+      "player": "John King"
     },
     {
       "date": "2025-08-24",
@@ -34,26 +46,38 @@
     {
       "date": "2025-08-24",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced LHPAaron Bummeron the 15-day injured list. Left shoulder inflammation.",
-      "player": "Aaron Bummer"
+      "details": "Atlanta Bravesactivated RHPWander Suero.",
+      "player": "Wander Suero"
     },
     {
       "date": "2025-08-24",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPCarlos Rodriguezto Nashville Sounds.",
-      "player": "Carlos Rodriguez"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiestransferred RHPDugan Darnellfrom the 15-day injured list to the 60-day injured list. Left hip inflammation.",
+      "player": "Dugan Darnell"
     },
     {
       "date": "2025-08-24",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled RHPPaxton Schultzfrom Buffalo Bisons.",
-      "player": "Paxton Schultz"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPWander Suerofrom Gwinnett Stripers.",
+      "player": "Wander Suero"
     },
     {
       "date": "2025-08-24",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LHPMason Fluhartyto Buffalo Bisons.",
-      "player": "Mason Fluharty"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPHunter Strattonfrom Gwinnett Stripers.",
+      "player": "Hunter Stratton"
+    },
+    {
+      "date": "2025-08-24",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPTaj Bradleyfrom St. Paul Saints.",
+      "player": "Taj Bradley"
+    },
+    {
+      "date": "2025-08-24",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled RHPChase Silsethfrom Salt Lake Bees.",
+      "player": "Chase Silseth"
     },
     {
       "date": "2025-08-24",
@@ -63,9 +87,15 @@
     },
     {
       "date": "2025-08-24",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned RHPAJ Blubaughto Sugar Land Space Cowboys.",
-      "player": "AJ Blubaugh"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned LHPAnthony Venezianoto Memphis Redbirds.",
+      "player": "Anthony Veneziano"
+    },
+    {
+      "date": "2025-08-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPChad Patrickfrom Nashville Sounds.",
+      "player": "Chad Patrick"
     },
     {
       "date": "2025-08-24",
@@ -87,33 +117,27 @@
     },
     {
       "date": "2025-08-24",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned LHPAnthony Venezianoto Memphis Redbirds.",
-      "player": "Anthony Veneziano"
-    },
-    {
-      "date": "2025-08-24",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPChad Patrickfrom Nashville Sounds.",
-      "player": "Chad Patrick"
+      "details": "Milwaukee Brewersoptioned RHPCarlos Rodriguezto Nashville Sounds.",
+      "player": "Carlos Rodriguez"
     },
     {
       "date": "2025-08-24",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPWander Suerofrom Gwinnett Stripers.",
-      "player": "Wander Suero"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPPaxton Schultzfrom Buffalo Bisons.",
+      "player": "Paxton Schultz"
     },
     {
       "date": "2025-08-24",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPHunter Strattonfrom Gwinnett Stripers.",
-      "player": "Hunter Stratton"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPMason Fluhartyto Buffalo Bisons.",
+      "player": "Mason Fluharty"
     },
     {
       "date": "2025-08-24",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPTaj Bradleyfrom St. Paul Saints.",
-      "player": "Taj Bradley"
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPAJ Blubaughto Sugar Land Space Cowboys.",
+      "player": "AJ Blubaugh"
     }
   ]
 }
