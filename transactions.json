@@ -1,17 +1,11 @@
 {
-  "last_updated": "2025-08-25T19:19:50.917135",
+  "last_updated": "2025-08-25T20:27:40.451018",
   "transactions": [
     {
       "date": "2025-08-25",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated 2BMichael Masseyfrom the 10-day injured list.",
-      "player": "Michael Massey"
-    },
-    {
-      "date": "2025-08-25",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansplaced 2BDaniel Schneemannon the paternity list.",
-      "player": "Daniel Schneemann"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced LHPTyler Andersonon the paternity list.",
+      "player": "Tyler Anderson"
     },
     {
       "date": "2025-08-25",
@@ -28,8 +22,38 @@
     {
       "date": "2025-08-25",
       "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled 3BWill Wilsonfrom Columbus Clippers.",
-      "player": "Will Wilson"
+      "details": "Cleveland Guardiansplaced 2BDaniel Schneemannon the paternity list.",
+      "player": "Daniel Schneemann"
+    },
+    {
+      "date": "2025-08-25",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated 2BMichael Masseyfrom the 10-day injured list.",
+      "player": "Michael Massey"
+    },
+    {
+      "date": "2025-08-25",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled RHPSam Bachmanfrom Salt Lake Bees.",
+      "player": "Sam Bachman"
+    },
+    {
+      "date": "2025-08-25",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of LHPJosé Castillofrom Syracuse Mets.",
+      "player": "José Castillo"
+    },
+    {
+      "date": "2025-08-25",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPGordon Graceffofrom Memphis Redbirds.",
+      "player": "Gordon Graceffo"
+    },
+    {
+      "date": "2025-08-25",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPAndre Granilloto Memphis Redbirds.",
+      "player": "Andre Granillo"
     },
     {
       "date": "2025-08-25",
@@ -45,15 +69,15 @@
     },
     {
       "date": "2025-08-25",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RFJohn Raveto Omaha Storm Chasers.",
-      "player": "John Rave"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled 3BWill Wilsonfrom Columbus Clippers.",
+      "player": "Will Wilson"
     },
     {
       "date": "2025-08-25",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of LHPJosé Castillofrom Syracuse Mets.",
-      "player": "José Castillo"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RFJohn Raveto Omaha Storm Chasers.",
+      "player": "John Rave"
     }
   ]
 }
