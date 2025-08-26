@@ -1,17 +1,47 @@
 {
-  "last_updated": "2025-08-26T19:19:16.360881",
+  "last_updated": "2025-08-26T20:27:13.433118",
   "transactions": [
-    {
-      "date": "2025-08-26",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RHPKyle Bradishfrom the 60-day injured list.",
-      "player": "Kyle Bradish"
-    },
     {
       "date": "2025-08-26",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesdesignated RHPMatt Bowmanfor assignment.",
       "player": "Matt Bowman"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent RHPJustin Lawrenceon a rehab assignment to Indianapolis Indians.",
+      "player": "Justin Lawrence"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent LHPJohn Meanson a rehab assignment to Columbus Clippers.",
+      "player": "John Means"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced LHPJohn Rooneyon the 15-day injured list retroactive to August 25, 2025. Left elbow inflammation.",
+      "player": "John Rooney"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated CFOneil Cruzfrom the 7-day injured list.",
+      "player": "Oneil Cruz"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated LFYordan Alvarezfrom the 60-day injured list.",
+      "player": "Yordan Alvarez"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPKyle Bradishfrom the 60-day injured list.",
+      "player": "Kyle Bradish"
     },
     {
       "date": "2025-08-26",
@@ -27,27 +57,39 @@
     },
     {
       "date": "2025-08-26",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent LHPJohn Meanson a rehab assignment to Columbus Clippers.",
+      "player": "John Means"
+    },
+    {
+      "date": "2025-08-26",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolestransferred RHPScott Blewettfrom the 15-day injured list to the 60-day injured list. Right elbow discomfort.",
       "player": "Scott Blewett"
     },
     {
       "date": "2025-08-26",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesactivated CFOneil Cruzfrom the 7-day injured list.",
-      "player": "Oneil Cruz"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced RHPJordan Romanoon the 15-day injured list. Right middle finger inflammation.",
+      "player": "Jordan Romano"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced RHPRichard Fittson the 15-day injured list. Right arm neuritis.",
+      "player": "Richard Fitts"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesreleased RHPJoe Ross.",
+      "player": "Joe Ross"
     },
     {
       "date": "2025-08-26",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned 2BRonny Simonto Indianapolis Indians.",
-      "player": "Ronny Simon"
-    },
-    {
-      "date": "2025-08-26",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPDauri Moretafrom Indianapolis Indians.",
-      "player": "Dauri Moreta"
+      "details": "Pittsburgh Piratessent LHPTim Mayzaon a rehab assignment to Indianapolis Indians.",
+      "player": "Tim Mayza"
     },
     {
       "date": "2025-08-26",
@@ -57,9 +99,51 @@
     },
     {
       "date": "2025-08-26",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPAJ Blubaughfrom Sugar Land Space Cowboys.",
+      "player": "AJ Blubaugh"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled LHPJovani Moránfrom Worcester Red Sox.",
+      "player": "Jovani Morán"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned SSBrice Matthewsto Sugar Land Space Cowboys.",
+      "player": "Brice Matthews"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesselected the contract of RHPLou Trivinofrom Lehigh Valley IronPigs.",
+      "player": "Lou Trivino"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPDauri Moretafrom Indianapolis Indians.",
+      "player": "Dauri Moreta"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned 2BRonny Simonto Indianapolis Indians.",
+      "player": "Ronny Simon"
+    },
+    {
+      "date": "2025-08-26",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPYerry De los Santosto Scranton/Wilkes-Barre RailRiders.",
       "player": "Yerry De los Santos"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPDaniel Robertfrom Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
     }
   ]
 }
