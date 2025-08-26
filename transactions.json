@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-08-26T21:21:46.931264",
+  "last_updated": "2025-08-26T22:23:31.543671",
   "transactions": [
-    {
-      "date": "2025-08-26",
-      "team": "Athletics",
-      "details": "Athleticsplaced LHPJacob Lopezon the 15-day injured list retroactive to August 25, 2025. Left elbow flexor strain.",
-      "player": "Jacob Lopez"
-    },
     {
       "date": "2025-08-26",
       "team": "Boston Red Sox",
@@ -16,44 +10,20 @@
     {
       "date": "2025-08-26",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPMatt Bowmanfor assignment.",
-      "player": "Matt Bowman"
-    },
-    {
-      "date": "2025-08-26",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent RHPJustin Lawrenceon a rehab assignment to Indianapolis Indians.",
-      "player": "Justin Lawrence"
-    },
-    {
-      "date": "2025-08-26",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent LHPJohn Meanson a rehab assignment to Columbus Clippers.",
-      "player": "John Means"
-    },
-    {
-      "date": "2025-08-26",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent LHPTim Mayzaon a rehab assignment to Indianapolis Indians.",
-      "player": "Tim Mayza"
-    },
-    {
-      "date": "2025-08-26",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RHPKyle Bradishfrom the 60-day injured list.",
-      "player": "Kyle Bradish"
-    },
-    {
-      "date": "2025-08-26",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesreleased RHPJoe Ross.",
-      "player": "Joe Ross"
-    },
-    {
-      "date": "2025-08-26",
-      "team": "Baltimore Orioles",
       "details": "Baltimore Oriolestransferred RHPScott Blewettfrom the 15-day injured list to the 60-day injured list. Right elbow discomfort.",
       "player": "Scott Blewett"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced LHPJohn Rooneyon the 15-day injured list retroactive to August 25, 2025. Left elbow inflammation.",
+      "player": "John Rooney"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPLuis Guerreroon a rehab assignment to Greenville Drive.",
+      "player": "Luis Guerrero"
     },
     {
       "date": "2025-08-26",
@@ -87,6 +57,42 @@
     },
     {
       "date": "2025-08-26",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesreleased RHPJoe Ross.",
+      "player": "Joe Ross"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPMatt Bowmanfor assignment.",
+      "player": "Matt Bowman"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent RHPJustin Lawrenceon a rehab assignment to Indianapolis Indians.",
+      "player": "Justin Lawrence"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent LHPJohn Meanson a rehab assignment to Columbus Clippers.",
+      "player": "John Means"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent LHPTim Mayzaon a rehab assignment to Indianapolis Indians.",
+      "player": "Tim Mayza"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPKyle Bradishfrom the 60-day injured list.",
+      "player": "Kyle Bradish"
+    },
+    {
+      "date": "2025-08-26",
       "team": "New York Yankees",
       "details": "New York Yankeesactivated RHPFernando Cruzfrom the 15-day injured list.",
       "player": "Fernando Cruz"
@@ -105,21 +111,57 @@
     },
     {
       "date": "2025-08-26",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced LHPJohn Rooneyon the 15-day injured list retroactive to August 25, 2025. Left elbow inflammation.",
-      "player": "John Rooney"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced RHPRandy Rodríguezon the 15-day injured list retroactive to August 23, 2025. Right elbow sprain.",
+      "player": "Randy Rodríguez"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Athletics",
+      "details": "Athleticsplaced LHPJacob Lopezon the 15-day injured list retroactive to August 25, 2025. Left elbow flexor strain.",
+      "player": "Jacob Lopez"
     },
     {
       "date": "2025-08-26",
       "team": "Houston Astros",
-      "details": "Houston Astrosoptioned SSBrice Matthewsto Sugar Land Space Cowboys.",
-      "player": "Brice Matthews"
+      "details": "Houston Astrosrecalled RHPAJ Blubaughfrom Sugar Land Space Cowboys.",
+      "player": "AJ Blubaugh"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed RHPShawn Dubinoff waivers fromHouston Astros.",
+      "player": "Shawn Dubin"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPDaniel Robertfrom Lehigh Valley IronPigs.",
+      "player": "Daniel Robert"
     },
     {
       "date": "2025-08-26",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxrecalled LHPJovani Moránfrom Worcester Red Sox.",
       "player": "Jovani Morán"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPKeaton Winnfrom Sacramento River Cats.",
+      "player": "Keaton Winn"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesselected the contract of RHPLou Trivinofrom Lehigh Valley IronPigs.",
+      "player": "Lou Trivino"
+    },
+    {
+      "date": "2025-08-26",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned SSBrice Matthewsto Sugar Land Space Cowboys.",
+      "player": "Brice Matthews"
     },
     {
       "date": "2025-08-26",
@@ -135,39 +177,15 @@
     },
     {
       "date": "2025-08-26",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesselected the contract of RHPLou Trivinofrom Lehigh Valley IronPigs.",
-      "player": "Lou Trivino"
-    },
-    {
-      "date": "2025-08-26",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesclaimed RHPShawn Dubinoff waivers fromHouston Astros.",
-      "player": "Shawn Dubin"
-    },
-    {
-      "date": "2025-08-26",
       "team": "Athletics",
       "details": "Athleticsselected the contract of RHPMason Barnettfrom Las Vegas Aviators.",
       "player": "Mason Barnett"
     },
     {
       "date": "2025-08-26",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPDaniel Robertfrom Lehigh Valley IronPigs.",
-      "player": "Daniel Robert"
-    },
-    {
-      "date": "2025-08-26",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesrecalled RHPDauri Moretafrom Indianapolis Indians.",
       "player": "Dauri Moreta"
-    },
-    {
-      "date": "2025-08-26",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled RHPAJ Blubaughfrom Sugar Land Space Cowboys.",
-      "player": "AJ Blubaugh"
     }
   ]
 }
