@@ -1,24 +1,6 @@
 {
-  "last_updated": "2025-08-27T19:19:57.429041",
+  "last_updated": "2025-08-27T20:27:01.896679",
   "transactions": [
-    {
-      "date": "2025-08-27",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsplaced LHPJohn Kingon the 15-day injured list retroactive to August 26, 2025. Mid-back strain.",
-      "player": "John King"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated SSVimael Machínfor assignment.",
-      "player": "Vimael Machín"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "New York Mets",
-      "details": "New York Metssent CFJose Sirion a rehab assignment to St. Lucie Mets.",
-      "player": "Jose Siri"
-    },
     {
       "date": "2025-08-27",
       "team": "Chicago White Sox",
@@ -28,14 +10,14 @@
     {
       "date": "2025-08-27",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced RHPGraham Ashcrafton the 15-day injured list retroactive to August 25, 2025. Right forearm strain.",
-      "player": "Graham Ashcraft"
+      "details": "Cincinnati Redsactivated LHPNick Lodolofrom the 15-day injured list.",
+      "player": "Nick Lodolo"
     },
     {
       "date": "2025-08-27",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated LHPNick Lodolofrom the 15-day injured list.",
-      "player": "Nick Lodolo"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssigned free agent RHPErick Fedde.",
+      "player": "Erick Fedde"
     },
     {
       "date": "2025-08-27",
@@ -63,45 +45,39 @@
     },
     {
       "date": "2025-08-27",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LFWill Robertsonfrom Charlotte Knights.",
-      "player": "Will Robertson"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled RHPFreddy Tarnokfrom Jacksonville Jumbo Shrimp.",
-      "player": "Freddy Tarnok"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersrecalled RHPEmerson Hancockfrom Tacoma Rainiers.",
-      "player": "Emerson Hancock"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of RHPRoansy Contrerasfrom Norfolk Tides.",
-      "player": "Roansy Contreras"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPYaramil Hiraldoto Norfolk Tides.",
-      "player": "Yaramil Hiraldo"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced RHPGraham Ashcrafton the 15-day injured list retroactive to August 25, 2025. Right forearm strain.",
+      "player": "Graham Ashcraft"
     },
     {
       "date": "2025-08-27",
       "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPAndre Granillofrom Memphis Redbirds.",
-      "player": "Andre Granillo"
+      "details": "St. Louis Cardinalsplaced LHPJohn Kingon the 15-day injured list retroactive to August 26, 2025. Mid-back strain.",
+      "player": "John King"
     },
     {
       "date": "2025-08-27",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of 3BEmmanuel Riverafrom Norfolk Tides.",
-      "player": "Emmanuel Rivera"
+      "details": "Baltimore Oriolesdesignated SSVimael Machínfor assignment.",
+      "player": "Vimael Machín"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerstransferred RHPLogan Hendersonfrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
+      "player": "Logan Henderson"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "New York Mets",
+      "details": "New York Metssent CFJose Sirion a rehab assignment to St. Lucie Mets.",
+      "player": "Jose Siri"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced RHPTrevor Megillon the 15-day injured list retroactive to August 25, 2025. Right flexor strain.",
+      "player": "Trevor Megill"
     },
     {
       "date": "2025-08-27",
@@ -111,15 +87,27 @@
     },
     {
       "date": "2025-08-27",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned RHPSauryn Laoto Tacoma Rainiers.",
-      "player": "Sauryn Lao"
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPKevin Hergetfrom Syracuse Mets.",
+      "player": "Kevin Herget"
     },
     {
       "date": "2025-08-27",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPPierson Ohlto St. Paul Saints.",
-      "player": "Pierson Ohl"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LFWill Robertsonfrom Charlotte Knights.",
+      "player": "Will Robertson"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPAndre Granillofrom Memphis Redbirds.",
+      "player": "Andre Granillo"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPFreddy Tarnokfrom Jacksonville Jumbo Shrimp.",
+      "player": "Freddy Tarnok"
     },
     {
       "date": "2025-08-27",
@@ -129,9 +117,39 @@
     },
     {
       "date": "2025-08-27",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPKevin Hergetfrom Syracuse Mets.",
-      "player": "Kevin Herget"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled RHPEmerson Hancockfrom Tacoma Rainiers.",
+      "player": "Emerson Hancock"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPPierson Ohlto St. Paul Saints.",
+      "player": "Pierson Ohl"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of 3BEmmanuel Riverafrom Norfolk Tides.",
+      "player": "Emmanuel Rivera"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPSauryn Laoto Tacoma Rainiers.",
+      "player": "Sauryn Lao"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPYaramil Hiraldoto Norfolk Tides.",
+      "player": "Yaramil Hiraldo"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of RHPRoansy Contrerasfrom Norfolk Tides.",
+      "player": "Roansy Contreras"
     }
   ]
 }
