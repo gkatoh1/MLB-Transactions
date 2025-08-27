@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-08-27T17:21:52.043972",
+  "last_updated": "2025-08-27T18:33:33.341589",
   "transactions": [
     {
       "date": "2025-08-27",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPSimeon Woods Richardsonfrom the 15-day injured list.",
-      "player": "Simeon Woods Richardson"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsplaced LHPJohn Kingon the 15-day injured list retroactive to August 26, 2025. Mid-back strain.",
+      "player": "John King"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated SSVimael Machínfor assignment.",
+      "player": "Vimael Machín"
     },
     {
       "date": "2025-08-27",
@@ -27,21 +33,27 @@
     },
     {
       "date": "2025-08-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestransferred RHPBrandon Youngfrom the 15-day injured list to the 60-day injured list. Left hamstring strain.",
+      "player": "Brandon Young"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPSimeon Woods Richardsonfrom the 15-day injured list.",
+      "player": "Simeon Woods Richardson"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPAndre Granillofrom Memphis Redbirds.",
+      "player": "Andre Granillo"
+    },
+    {
+      "date": "2025-08-27",
       "team": "Miami Marlins",
       "details": "Miami Marlinsrecalled RHPFreddy Tarnokfrom Jacksonville Jumbo Shrimp.",
       "player": "Freddy Tarnok"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersrecalled RHPEmerson Hancockfrom Tacoma Rainiers.",
-      "player": "Emerson Hancock"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned RHPSauryn Laoto Tacoma Rainiers.",
-      "player": "Sauryn Lao"
     },
     {
       "date": "2025-08-27",
@@ -57,9 +69,39 @@
     },
     {
       "date": "2025-08-27",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPSauryn Laoto Tacoma Rainiers.",
+      "player": "Sauryn Lao"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled RHPEmerson Hancockfrom Tacoma Rainiers.",
+      "player": "Emerson Hancock"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of RHPRoansy Contrerasfrom Norfolk Tides.",
+      "player": "Roansy Contreras"
+    },
+    {
+      "date": "2025-08-27",
       "team": "Miami Marlins",
       "details": "Miami Marlinsselected the contract of RHPSeth Martinezfrom Jacksonville Jumbo Shrimp.",
       "player": "Seth Martinez"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPYaramil Hiraldoto Norfolk Tides.",
+      "player": "Yaramil Hiraldo"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of 3BEmmanuel Riverafrom Norfolk Tides.",
+      "player": "Emmanuel Rivera"
     }
   ]
 }
