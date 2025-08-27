@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-27T18:33:33.341589",
+  "last_updated": "2025-08-27T19:19:57.429041",
   "transactions": [
     {
       "date": "2025-08-27",
@@ -21,15 +21,21 @@
     },
     {
       "date": "2025-08-27",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsplaced RHPJanson Junkon the 15-day injured list retroactive to August 24, 2025. Right ulnar nerve irritation.",
-      "player": "Janson Junk"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced CFLuis Robert Jr.on the 10-day injured list. Left hamstring strain.",
+      "player": "Luis Robert Jr."
     },
     {
       "date": "2025-08-27",
-      "team": "New York Mets",
-      "details": "New York Metssent LFJesse Winkeron a rehab assignment to St. Lucie Mets.",
-      "player": "Jesse Winker"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced RHPGraham Ashcrafton the 15-day injured list retroactive to August 25, 2025. Right forearm strain.",
+      "player": "Graham Ashcraft"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated LHPNick Lodolofrom the 15-day injured list.",
+      "player": "Nick Lodolo"
     },
     {
       "date": "2025-08-27",
@@ -45,33 +51,27 @@
     },
     {
       "date": "2025-08-27",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPAndre Granillofrom Memphis Redbirds.",
-      "player": "Andre Granillo"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced RHPJanson Junkon the 15-day injured list retroactive to August 24, 2025. Right ulnar nerve irritation.",
+      "player": "Janson Junk"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "New York Mets",
+      "details": "New York Metssent LFJesse Winkeron a rehab assignment to St. Lucie Mets.",
+      "player": "Jesse Winker"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LFWill Robertsonfrom Charlotte Knights.",
+      "player": "Will Robertson"
     },
     {
       "date": "2025-08-27",
       "team": "Miami Marlins",
       "details": "Miami Marlinsrecalled RHPFreddy Tarnokfrom Jacksonville Jumbo Shrimp.",
       "player": "Freddy Tarnok"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned LHPJosh Simpsonto Jacksonville Jumbo Shrimp.",
-      "player": "Josh Simpson"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPPierson Ohlto St. Paul Saints.",
-      "player": "Pierson Ohl"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned RHPSauryn Laoto Tacoma Rainiers.",
-      "player": "Sauryn Lao"
     },
     {
       "date": "2025-08-27",
@@ -87,21 +87,51 @@
     },
     {
       "date": "2025-08-27",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsselected the contract of RHPSeth Martinezfrom Jacksonville Jumbo Shrimp.",
-      "player": "Seth Martinez"
-    },
-    {
-      "date": "2025-08-27",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned RHPYaramil Hiraldoto Norfolk Tides.",
       "player": "Yaramil Hiraldo"
     },
     {
       "date": "2025-08-27",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPAndre Granillofrom Memphis Redbirds.",
+      "player": "Andre Granillo"
+    },
+    {
+      "date": "2025-08-27",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesselected the contract of 3BEmmanuel Riverafrom Norfolk Tides.",
       "player": "Emmanuel Rivera"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of RHPSeth Martinezfrom Jacksonville Jumbo Shrimp.",
+      "player": "Seth Martinez"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPSauryn Laoto Tacoma Rainiers.",
+      "player": "Sauryn Lao"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPPierson Ohlto St. Paul Saints.",
+      "player": "Pierson Ohl"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned LHPJosh Simpsonto Jacksonville Jumbo Shrimp.",
+      "player": "Josh Simpson"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPKevin Hergetfrom Syracuse Mets.",
+      "player": "Kevin Herget"
     }
   ]
 }
