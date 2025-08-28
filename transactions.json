@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-08-28T14:25:10.032363",
+  "last_updated": "2025-08-28T15:26:22.115075",
   "transactions": [
+    {
+      "date": "2025-08-28",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPJustin Slatenfrom the 60-day injured list.",
+      "player": "Justin Slaten"
+    },
     {
       "date": "2025-08-28",
       "team": "Baltimore Orioles",
@@ -9,9 +15,27 @@
     },
     {
       "date": "2025-08-28",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RFRob Refsnyderfrom the 10-day injured list.",
+      "player": "Rob Refsnyder"
+    },
+    {
+      "date": "2025-08-28",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesdesignated RHPRoansy Contrerasfor assignment.",
       "player": "Roansy Contreras"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced 1BNathaniel Loweon the paternity list.",
+      "player": "Nathaniel Lowe"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPJovani Moránto Worcester Red Sox.",
+      "player": "Jovani Morán"
     }
   ]
 }
