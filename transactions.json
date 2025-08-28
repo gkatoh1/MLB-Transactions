@@ -1,17 +1,35 @@
 {
-  "last_updated": "2025-08-28T19:19:37.590331",
+  "last_updated": "2025-08-28T20:26:51.707993",
   "transactions": [
+    {
+      "date": "2025-08-28",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPJustin Slatenfrom the 60-day injured list.",
+      "player": "Justin Slaten"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPRoansy Contrerasfor assignment.",
+      "player": "Roansy Contreras"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated LHPTyler Andersonfrom the paternity list.",
+      "player": "Tyler Anderson"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced 1BNathaniel Loweon the paternity list.",
+      "player": "Nathaniel Lowe"
+    },
     {
       "date": "2025-08-28",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansactivated 2BDaniel Schneemannfrom the paternity list.",
       "player": "Daniel Schneemann"
-    },
-    {
-      "date": "2025-08-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RHPShawn Dubin.",
-      "player": "Shawn Dubin"
     },
     {
       "date": "2025-08-28",
@@ -27,39 +45,33 @@
     },
     {
       "date": "2025-08-28",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated RHPJustin Slatenfrom the 60-day injured list.",
-      "player": "Justin Slaten"
-    },
-    {
-      "date": "2025-08-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPRoansy Contrerasfor assignment.",
-      "player": "Roansy Contreras"
-    },
-    {
-      "date": "2025-08-28",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced 1BNathaniel Loweon the paternity list.",
-      "player": "Nathaniel Lowe"
-    },
-    {
-      "date": "2025-08-28",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsplaced RHPJameson Taillonon the 15-day injured list retroactive to August 25, 2025. Left groin strain.",
       "player": "Jameson Taillon"
     },
     {
       "date": "2025-08-28",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled RHPJavier Assadfrom Iowa Cubs.",
-      "player": "Javier Assad"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPShawn Dubin.",
+      "player": "Shawn Dubin"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPJovani Moránto Worcester Red Sox.",
+      "player": "Jovani Morán"
     },
     {
       "date": "2025-08-28",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned LHPTyler Gilbertto Charlotte Knights.",
       "player": "Tyler Gilbert"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPJavier Assadfrom Iowa Cubs.",
+      "player": "Javier Assad"
     },
     {
       "date": "2025-08-28",
@@ -75,15 +87,15 @@
     },
     {
       "date": "2025-08-28",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPCam Booserfrom Charlotte Knights.",
-      "player": "Cam Booser"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPJack Kochanowiczto Salt Lake Bees.",
+      "player": "Jack Kochanowicz"
     },
     {
       "date": "2025-08-28",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPJovani Moránto Worcester Red Sox.",
-      "player": "Jovani Morán"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPCam Booserfrom Charlotte Knights.",
+      "player": "Cam Booser"
     }
   ]
 }
