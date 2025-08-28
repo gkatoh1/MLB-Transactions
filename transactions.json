@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-08-28T18:35:21.385637",
+  "last_updated": "2025-08-28T19:19:37.590331",
   "transactions": [
     {
       "date": "2025-08-28",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced RHPJameson Taillonon the 15-day injured list retroactive to August 25, 2025. Left groin strain.",
-      "player": "Jameson Taillon"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated 2BDaniel Schneemannfrom the paternity list.",
+      "player": "Daniel Schneemann"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPShawn Dubin.",
+      "player": "Shawn Dubin"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansreleased 1BCarlos Santana.",
+      "player": "Carlos Santana"
     },
     {
       "date": "2025-08-28",
@@ -22,12 +34,6 @@
     {
       "date": "2025-08-28",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RHPShawn Dubin.",
-      "player": "Shawn Dubin"
-    },
-    {
-      "date": "2025-08-28",
-      "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesdesignated RHPRoansy Contrerasfor assignment.",
       "player": "Roansy Contreras"
     },
@@ -39,15 +45,21 @@
     },
     {
       "date": "2025-08-28",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPJovani Moránto Worcester Red Sox.",
-      "player": "Jovani Morán"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPJameson Taillonon the 15-day injured list retroactive to August 25, 2025. Left groin strain.",
+      "player": "Jameson Taillon"
     },
     {
       "date": "2025-08-28",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsrecalled RHPJavier Assadfrom Iowa Cubs.",
       "player": "Javier Assad"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPTyler Gilbertto Charlotte Knights.",
+      "player": "Tyler Gilbert"
     },
     {
       "date": "2025-08-28",
@@ -60,6 +72,18 @@
       "team": "Miami Marlins",
       "details": "Miami Marlinsoptioned RHPFreddy Tarnokto Jacksonville Jumbo Shrimp.",
       "player": "Freddy Tarnok"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPCam Booserfrom Charlotte Knights.",
+      "player": "Cam Booser"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPJovani Moránto Worcester Red Sox.",
+      "player": "Jovani Morán"
     }
   ]
 }
