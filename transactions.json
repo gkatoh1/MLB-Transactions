@@ -1,35 +1,41 @@
 {
-  "last_updated": "2025-08-27T23:22:12.351393",
+  "last_updated": "2025-08-28T01:56:53.445050",
   "transactions": [
     {
       "date": "2025-08-27",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent CFChris Tayloron a rehab assignment to Salt Lake Bees.",
+      "player": "Chris Taylor"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent CFParker Meadowson a rehab assignment to Toledo Mud Hens.",
+      "player": "Parker Meadows"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced RHPJanson Junkon the 15-day injured list retroactive to August 24, 2025. Right ulnar nerve irritation.",
+      "player": "Janson Junk"
+    },
+    {
+      "date": "2025-08-27",
       "team": "New York Mets",
-      "details": "New York Metssent CFrancisco Alvarezon a rehab assignment to Syracuse Mets.",
-      "player": "Francisco Alvarez"
+      "details": "New York Metssent LFJesse Winkeron a rehab assignment to St. Lucie Mets.",
+      "player": "Jesse Winker"
     },
     {
       "date": "2025-08-27",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced CFLuis Robert Jr.on the 10-day injured list. Left hamstring strain.",
-      "player": "Luis Robert Jr."
-    },
-    {
-      "date": "2025-08-27",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressigned free agent CChristopher Sargentto a minor league contract.",
-      "player": "Christopher Sargent"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent CFJake Meyerson a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Jake Meyers"
     },
     {
       "date": "2025-08-27",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsplaced RHPGraham Ashcrafton the 15-day injured list retroactive to August 25, 2025. Right forearm strain.",
       "player": "Graham Ashcraft"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced CVictor Caratinion the 7-day injured list. Concussion.",
-      "player": "Victor Caratini"
     },
     {
       "date": "2025-08-27",
@@ -57,39 +63,21 @@
     },
     {
       "date": "2025-08-27",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent CFParker Meadowson a rehab assignment to Toledo Mud Hens.",
-      "player": "Parker Meadows"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssigned free agent RHPErick Fedde.",
-      "player": "Erick Fedde"
-    },
-    {
-      "date": "2025-08-27",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersplaced RHPTrevor Megillon the 15-day injured list retroactive to August 25, 2025. Right flexor strain.",
       "player": "Trevor Megill"
     },
     {
       "date": "2025-08-27",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsplaced RHPJanson Junkon the 15-day injured list retroactive to August 24, 2025. Right ulnar nerve irritation.",
-      "player": "Janson Junk"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced CFLuis Robert Jr.on the 10-day injured list. Left hamstring strain.",
+      "player": "Luis Robert Jr."
     },
     {
       "date": "2025-08-27",
-      "team": "New York Mets",
-      "details": "New York Metssent LFJesse Winkeron a rehab assignment to St. Lucie Mets.",
-      "player": "Jesse Winker"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent CFJake Meyerson a rehab assignment to Sugar Land Space Cowboys.",
-      "player": "Jake Meyers"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent CChristopher Sargentto a minor league contract.",
+      "player": "Christopher Sargent"
     },
     {
       "date": "2025-08-27",
@@ -117,9 +105,15 @@
     },
     {
       "date": "2025-08-27",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent CFChris Tayloron a rehab assignment to Salt Lake Bees.",
-      "player": "Chris Taylor"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPEli Morganon a rehab assignment to Iowa Cubs.",
+      "player": "Eli Morgan"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced CVictor Caratinion the 7-day injured list. Concussion.",
+      "player": "Victor Caratini"
     },
     {
       "date": "2025-08-27",
@@ -141,6 +135,12 @@
     },
     {
       "date": "2025-08-27",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssigned free agent RHPErick Fedde.",
+      "player": "Erick Fedde"
+    },
+    {
+      "date": "2025-08-27",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolestransferred RHPBrandon Youngfrom the 15-day injured list to the 60-day injured list. Left hamstring strain.",
       "player": "Brandon Young"
@@ -153,81 +153,9 @@
     },
     {
       "date": "2025-08-27",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LFWill Robertsonfrom Charlotte Knights.",
-      "player": "Will Robertson"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned RHPSauryn Laoto Tacoma Rainiers.",
-      "player": "Sauryn Lao"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of 3BEmmanuel Riverafrom Norfolk Tides.",
-      "player": "Emmanuel Rivera"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned RHPSam Bachmanto Salt Lake Bees.",
-      "player": "Sam Bachman"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled CCésar Salazarfrom Sugar Land Space Cowboys.",
-      "player": "César Salazar"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled RHPCaleb Boushleyfrom Round Rock Express.",
-      "player": "Caleb Boushley"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksselected the contract of RHPTaylor Rashifrom Reno Aces.",
-      "player": "Taylor Rashi"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned LHPJosh Simpsonto Jacksonville Jumbo Shrimp.",
-      "player": "Josh Simpson"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of RHPRoansy Contrerasfrom Norfolk Tides.",
-      "player": "Roansy Contreras"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Athletics",
-      "details": "Athleticsrecalled LHPBrady Bassofrom Las Vegas Aviators.",
-      "player": "Brady Basso"
-    },
-    {
-      "date": "2025-08-27",
       "team": "New York Mets",
-      "details": "New York Metsrecalled RHPKevin Hergetfrom Syracuse Mets.",
-      "player": "Kevin Herget"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPPierson Ohlto St. Paul Saints.",
-      "player": "Pierson Ohl"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled RHPFreddy Tarnokfrom Jacksonville Jumbo Shrimp.",
-      "player": "Freddy Tarnok"
+      "details": "New York Metssent CFrancisco Alvarezon a rehab assignment to Syracuse Mets.",
+      "player": "Francisco Alvarez"
     },
     {
       "date": "2025-08-27",
@@ -237,9 +165,39 @@
     },
     {
       "date": "2025-08-27",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksselected the contract of RHPTaylor Rashifrom Reno Aces.",
+      "player": "Taylor Rashi"
+    },
+    {
+      "date": "2025-08-27",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPYaramil Hiraldoto Norfolk Tides.",
-      "player": "Yaramil Hiraldo"
+      "details": "Baltimore Oriolesselected the contract of RHPRoansy Contrerasfrom Norfolk Tides.",
+      "player": "Roansy Contreras"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPKevin Hergetfrom Syracuse Mets.",
+      "player": "Kevin Herget"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPCaleb Boushleyfrom Round Rock Express.",
+      "player": "Caleb Boushley"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPFreddy Tarnokfrom Jacksonville Jumbo Shrimp.",
+      "player": "Freddy Tarnok"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPHuascar Brazobánto Syracuse Mets.",
+      "player": "Huascar Brazobán"
     },
     {
       "date": "2025-08-27",
@@ -249,15 +207,9 @@
     },
     {
       "date": "2025-08-27",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsselected the contract of RHPSeth Martinezfrom Jacksonville Jumbo Shrimp.",
-      "player": "Seth Martinez"
-    },
-    {
-      "date": "2025-08-27",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPAndre Granillofrom Memphis Redbirds.",
-      "player": "Andre Granillo"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LFWill Robertsonfrom Charlotte Knights.",
+      "player": "Will Robertson"
     },
     {
       "date": "2025-08-27",
@@ -267,9 +219,63 @@
     },
     {
       "date": "2025-08-27",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPHuascar Brazobánto Syracuse Mets.",
-      "player": "Huascar Brazobán"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPSam Bachmanto Salt Lake Bees.",
+      "player": "Sam Bachman"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Athletics",
+      "details": "Athleticsrecalled LHPBrady Bassofrom Las Vegas Aviators.",
+      "player": "Brady Basso"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPAndre Granillofrom Memphis Redbirds.",
+      "player": "Andre Granillo"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of 3BEmmanuel Riverafrom Norfolk Tides.",
+      "player": "Emmanuel Rivera"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPYaramil Hiraldoto Norfolk Tides.",
+      "player": "Yaramil Hiraldo"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned LHPJosh Simpsonto Jacksonville Jumbo Shrimp.",
+      "player": "Josh Simpson"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of RHPSeth Martinezfrom Jacksonville Jumbo Shrimp.",
+      "player": "Seth Martinez"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled CCésar Salazarfrom Sugar Land Space Cowboys.",
+      "player": "César Salazar"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPSauryn Laoto Tacoma Rainiers.",
+      "player": "Sauryn Lao"
+    },
+    {
+      "date": "2025-08-27",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPPierson Ohlto St. Paul Saints.",
+      "player": "Pierson Ohl"
     }
   ]
 }
