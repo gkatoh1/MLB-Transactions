@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-08-28T17:21:49.479783",
+  "last_updated": "2025-08-28T18:35:21.385637",
   "transactions": [
     {
       "date": "2025-08-28",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPJameson Taillonon the 15-day injured list retroactive to August 25, 2025. Left groin strain.",
+      "player": "Jameson Taillon"
+    },
+    {
+      "date": "2025-08-28",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced 1BNathaniel Loweon the paternity list.",
-      "player": "Nathaniel Lowe"
+      "details": "Boston Red Soxactivated RFRob Refsnyderfrom the 10-day injured list.",
+      "player": "Rob Refsnyder"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPJustin Slatenfrom the 60-day injured list.",
+      "player": "Justin Slaten"
     },
     {
       "date": "2025-08-28",
@@ -22,20 +34,14 @@
     {
       "date": "2025-08-28",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated RHPJustin Slatenfrom the 60-day injured list.",
-      "player": "Justin Slaten"
+      "details": "Boston Red Soxplaced 1BNathaniel Loweon the paternity list.",
+      "player": "Nathaniel Lowe"
     },
     {
       "date": "2025-08-28",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated RFRob Refsnyderfrom the 10-day injured list.",
-      "player": "Rob Refsnyder"
-    },
-    {
-      "date": "2025-08-28",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced RHPJameson Taillonon the 15-day injured list retroactive to August 25, 2025. Left groin strain.",
-      "player": "Jameson Taillon"
+      "details": "Boston Red Soxoptioned LHPJovani Moránto Worcester Red Sox.",
+      "player": "Jovani Morán"
     },
     {
       "date": "2025-08-28",
@@ -45,9 +51,15 @@
     },
     {
       "date": "2025-08-28",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPJovani Moránto Worcester Red Sox.",
-      "player": "Jovani Morán"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPAdam Mazurfrom Jacksonville Jumbo Shrimp.",
+      "player": "Adam Mazur"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPFreddy Tarnokto Jacksonville Jumbo Shrimp.",
+      "player": "Freddy Tarnok"
     }
   ]
 }
