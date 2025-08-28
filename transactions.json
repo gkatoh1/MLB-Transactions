@@ -1,42 +1,6 @@
 {
-  "last_updated": "2025-08-28T21:21:51.013421",
+  "last_updated": "2025-08-28T22:22:57.794681",
   "transactions": [
-    {
-      "date": "2025-08-28",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated RHPJustin Slatenfrom the 60-day injured list.",
-      "player": "Justin Slaten"
-    },
-    {
-      "date": "2025-08-28",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated 2BDaniel Schneemannfrom the paternity list.",
-      "player": "Daniel Schneemann"
-    },
-    {
-      "date": "2025-08-28",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced RHPJameson Taillonon the 15-day injured list retroactive to August 25, 2025. Left groin strain.",
-      "player": "Jameson Taillon"
-    },
-    {
-      "date": "2025-08-28",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent RHPDavid Festaon a rehab assignment to St. Paul Saints.",
-      "player": "David Festa"
-    },
-    {
-      "date": "2025-08-28",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsactivated LHPTyler Andersonfrom the paternity list.",
-      "player": "Tyler Anderson"
-    },
-    {
-      "date": "2025-08-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RHPShawn Dubin.",
-      "player": "Shawn Dubin"
-    },
     {
       "date": "2025-08-28",
       "team": "Baltimore Orioles",
@@ -48,12 +12,6 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxplaced 1BNathaniel Loweon the paternity list.",
       "player": "Nathaniel Lowe"
-    },
-    {
-      "date": "2025-08-28",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansreleased 1BCarlos Santana.",
-      "player": "Carlos Santana"
     },
     {
       "date": "2025-08-28",
@@ -69,21 +27,63 @@
     },
     {
       "date": "2025-08-28",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPFreddy Tarnokto Jacksonville Jumbo Shrimp.",
-      "player": "Freddy Tarnok"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent LFTaylor Trammellon a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Taylor Trammell"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPJameson Taillonon the 15-day injured list retroactive to August 25, 2025. Left groin strain.",
+      "player": "Jameson Taillon"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated 2BDaniel Schneemannfrom the paternity list.",
+      "player": "Daniel Schneemann"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansreleased 1BCarlos Santana.",
+      "player": "Carlos Santana"
     },
     {
       "date": "2025-08-28",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPJovani Moránto Worcester Red Sox.",
-      "player": "Jovani Morán"
+      "details": "Boston Red Soxactivated RHPJustin Slatenfrom the 60-day injured list.",
+      "player": "Justin Slaten"
     },
     {
       "date": "2025-08-28",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPCam Booserfrom Charlotte Knights.",
-      "player": "Cam Booser"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated LHPTyler Andersonfrom the paternity list.",
+      "player": "Tyler Anderson"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Athletics",
+      "details": "Athleticsreleased 2BLuis Urías.",
+      "player": "Luis Urías"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent 2BRyan Blisson a rehab assignment to Tacoma Rainiers.",
+      "player": "Ryan Bliss"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPDavid Festaon a rehab assignment to St. Paul Saints.",
+      "player": "David Festa"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPShawn Dubin.",
+      "player": "Shawn Dubin"
     },
     {
       "date": "2025-08-28",
@@ -99,15 +99,45 @@
     },
     {
       "date": "2025-08-28",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent 1BBuddy Kennedyoutright to Oklahoma City Comets.",
+      "player": "Buddy Kennedy"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPJovani Moránto Worcester Red Sox.",
+      "player": "Jovani Morán"
+    },
+    {
+      "date": "2025-08-28",
       "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled RHPAdam Mazurfrom Jacksonville Jumbo Shrimp.",
-      "player": "Adam Mazur"
+      "details": "Miami Marlinsoptioned RHPFreddy Tarnokto Jacksonville Jumbo Shrimp.",
+      "player": "Freddy Tarnok"
     },
     {
       "date": "2025-08-28",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsoptioned RHPJack Kochanowiczto Salt Lake Bees.",
       "player": "Jack Kochanowicz"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPTy Adcockoutright to Syracuse Mets.",
+      "player": "Ty Adcock"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPAdam Mazurfrom Jacksonville Jumbo Shrimp.",
+      "player": "Adam Mazur"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPCam Booserfrom Charlotte Knights.",
+      "player": "Cam Booser"
     }
   ]
 }
