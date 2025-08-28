@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-28T20:26:51.707993",
+  "last_updated": "2025-08-28T21:21:51.013421",
   "transactions": [
     {
       "date": "2025-08-28",
@@ -9,9 +9,21 @@
     },
     {
       "date": "2025-08-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPRoansy Contrerasfor assignment.",
-      "player": "Roansy Contreras"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated 2BDaniel Schneemannfrom the paternity list.",
+      "player": "Daniel Schneemann"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPJameson Taillonon the 15-day injured list retroactive to August 25, 2025. Left groin strain.",
+      "player": "Jameson Taillon"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPDavid Festaon a rehab assignment to St. Paul Saints.",
+      "player": "David Festa"
     },
     {
       "date": "2025-08-28",
@@ -21,15 +33,21 @@
     },
     {
       "date": "2025-08-28",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced 1BNathaniel Loweon the paternity list.",
-      "player": "Nathaniel Lowe"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPShawn Dubin.",
+      "player": "Shawn Dubin"
     },
     {
       "date": "2025-08-28",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated 2BDaniel Schneemannfrom the paternity list.",
-      "player": "Daniel Schneemann"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPRoansy Contrerasfor assignment.",
+      "player": "Roansy Contreras"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced 1BNathaniel Loweon the paternity list.",
+      "player": "Nathaniel Lowe"
     },
     {
       "date": "2025-08-28",
@@ -45,15 +63,15 @@
     },
     {
       "date": "2025-08-28",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced RHPJameson Taillonon the 15-day injured list retroactive to August 25, 2025. Left groin strain.",
-      "player": "Jameson Taillon"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssigned free agent RHPConnor Brogdonto a minor league contract.",
+      "player": "Connor Brogdon"
     },
     {
       "date": "2025-08-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RHPShawn Dubin.",
-      "player": "Shawn Dubin"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPFreddy Tarnokto Jacksonville Jumbo Shrimp.",
+      "player": "Freddy Tarnok"
     },
     {
       "date": "2025-08-28",
@@ -64,8 +82,8 @@
     {
       "date": "2025-08-28",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned LHPTyler Gilbertto Charlotte Knights.",
-      "player": "Tyler Gilbert"
+      "details": "Chicago White Soxrecalled LHPCam Booserfrom Charlotte Knights.",
+      "player": "Cam Booser"
     },
     {
       "date": "2025-08-28",
@@ -75,27 +93,21 @@
     },
     {
       "date": "2025-08-28",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPTyler Gilbertto Charlotte Knights.",
+      "player": "Tyler Gilbert"
+    },
+    {
+      "date": "2025-08-28",
       "team": "Miami Marlins",
       "details": "Miami Marlinsrecalled RHPAdam Mazurfrom Jacksonville Jumbo Shrimp.",
       "player": "Adam Mazur"
     },
     {
       "date": "2025-08-28",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPFreddy Tarnokto Jacksonville Jumbo Shrimp.",
-      "player": "Freddy Tarnok"
-    },
-    {
-      "date": "2025-08-28",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsoptioned RHPJack Kochanowiczto Salt Lake Bees.",
       "player": "Jack Kochanowicz"
-    },
-    {
-      "date": "2025-08-28",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPCam Booserfrom Charlotte Knights.",
-      "player": "Cam Booser"
     }
   ]
 }
