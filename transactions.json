@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-08-29T19:18:15.051007",
+  "last_updated": "2025-08-29T20:25:43.813646",
   "transactions": [
-    {
-      "date": "2025-08-29",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxreleased RHPWalker Buehler.",
-      "player": "Walker Buehler"
-    },
     {
       "date": "2025-08-29",
       "team": "Washington Nationals",
@@ -15,9 +9,57 @@
     },
     {
       "date": "2025-08-29",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsplaced 1BAlec Burlesonon the 10-day injured list. Right wrist inflammation.",
+      "player": "Alec Burleson"
+    },
+    {
+      "date": "2025-08-29",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsplaced CYohel Pozoon the 7-day injured list.",
+      "player": "Yohel Pozo"
+    },
+    {
+      "date": "2025-08-29",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent LFAustin Slateron a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Austin Slater"
+    },
+    {
+      "date": "2025-08-29",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxreleased RHPWalker Buehler.",
+      "player": "Walker Buehler"
+    },
+    {
+      "date": "2025-08-29",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated LHPRob Zastryznyfrom the 15-day injured list.",
+      "player": "Rob Zastryzny"
+    },
+    {
+      "date": "2025-08-29",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPMichael Wachaon the paternity list.",
+      "player": "Michael Wacha"
+    },
+    {
+      "date": "2025-08-29",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsselected the contract of CJimmy Crooksfrom Memphis Redbirds.",
+      "player": "Jimmy Crooks"
+    },
+    {
+      "date": "2025-08-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled 1BTim Elkofrom Charlotte Knights.",
+      "player": "Tim Elko"
+    },
+    {
+      "date": "2025-08-29",
       "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPJonah Tongfrom Syracuse Mets.",
-      "player": "Jonah Tong"
+      "details": "New York Metsoptioned RHPKevin Hergetto Syracuse Mets.",
+      "player": "Kevin Herget"
     },
     {
       "date": "2025-08-29",
@@ -33,27 +75,57 @@
     },
     {
       "date": "2025-08-29",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxselected the contract of LHPPayton Tollefrom Worcester Red Sox.",
-      "player": "Payton Tolle"
-    },
-    {
-      "date": "2025-08-29",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPKevin Hergetto Syracuse Mets.",
-      "player": "Kevin Herget"
-    },
-    {
-      "date": "2025-08-29",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPNathan Wilesfrom Gwinnett Stripers.",
-      "player": "Nathan Wiles"
+      "details": "Atlanta Bravesselected the contract of RHPJohn Brebbiafrom Gwinnett Stripers.",
+      "player": "John Brebbia"
+    },
+    {
+      "date": "2025-08-29",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsselected the contract of CC.J. Stubbsfrom Rochester Red Wings.",
+      "player": "C.J. Stubbs"
+    },
+    {
+      "date": "2025-08-29",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPStephen Kolekfrom Omaha Storm Chasers.",
+      "player": "Stephen Kolek"
     },
     {
       "date": "2025-08-29",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent SSVimael Machínoutright to Norfolk Tides.",
       "player": "Vimael Machín"
+    },
+    {
+      "date": "2025-08-29",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPEaston McGeeto Nashville Sounds.",
+      "player": "Easton McGee"
+    },
+    {
+      "date": "2025-08-29",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPJonah Tongfrom Syracuse Mets.",
+      "player": "Jonah Tong"
+    },
+    {
+      "date": "2025-08-29",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsselected the contract of 2BCésar Prietofrom Memphis Redbirds.",
+      "player": "César Prieto"
+    },
+    {
+      "date": "2025-08-29",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of LHPPayton Tollefrom Worcester Red Sox.",
+      "player": "Payton Tolle"
+    },
+    {
+      "date": "2025-08-29",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPNathan Wilesfrom Gwinnett Stripers.",
+      "player": "Nathan Wiles"
     },
     {
       "date": "2025-08-29",
@@ -66,18 +138,6 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned CFJhostynxon Garciato Worcester Red Sox.",
       "player": "Jhostynxon Garcia"
-    },
-    {
-      "date": "2025-08-29",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsselected the contract of CC.J. Stubbsfrom Rochester Red Wings.",
-      "player": "C.J. Stubbs"
-    },
-    {
-      "date": "2025-08-29",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPJohn Brebbiafrom Gwinnett Stripers.",
-      "player": "John Brebbia"
     }
   ]
 }
