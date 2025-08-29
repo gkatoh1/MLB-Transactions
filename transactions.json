@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-29T01:56:54.897099",
+  "last_updated": "2025-08-29T03:07:11.563830",
   "transactions": [
     {
       "date": "2025-08-28",
@@ -12,6 +12,18 @@
       "team": "Chicago White Sox",
       "details": "Chicago White Soxsent RHPOwen Whiteon a rehab assignment to Charlotte Knights.",
       "player": "Owen White"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPShawn Dubin.",
+      "player": "Shawn Dubin"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPRoansy Contrerasfor assignment.",
+      "player": "Roansy Contreras"
     },
     {
       "date": "2025-08-28",
@@ -33,33 +45,15 @@
     },
     {
       "date": "2025-08-28",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent RHPDavid Festaon a rehab assignment to St. Paul Saints.",
-      "player": "David Festa"
-    },
-    {
-      "date": "2025-08-28",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced 1BNathaniel Loweon the paternity list.",
-      "player": "Nathaniel Lowe"
-    },
-    {
-      "date": "2025-08-28",
       "team": "Seattle Mariners",
       "details": "Seattle Marinerssent 2BRyan Blisson a rehab assignment to Tacoma Rainiers.",
       "player": "Ryan Bliss"
     },
     {
       "date": "2025-08-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RHPShawn Dubin.",
-      "player": "Shawn Dubin"
-    },
-    {
-      "date": "2025-08-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPRoansy Contrerasfor assignment.",
-      "player": "Roansy Contreras"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced 1BNathaniel Loweon the paternity list.",
+      "player": "Nathaniel Lowe"
     },
     {
       "date": "2025-08-28",
@@ -81,6 +75,12 @@
     },
     {
       "date": "2025-08-28",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPDavid Festaon a rehab assignment to St. Paul Saints.",
+      "player": "David Festa"
+    },
+    {
+      "date": "2025-08-28",
       "team": "Houston Astros",
       "details": "Houston Astrossent LFTaylor Trammellon a rehab assignment to Sugar Land Space Cowboys.",
       "player": "Taylor Trammell"
@@ -93,15 +93,21 @@
     },
     {
       "date": "2025-08-28",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPTyler Gilbertto Charlotte Knights.",
+      "player": "Tyler Gilbert"
+    },
+    {
+      "date": "2025-08-28",
       "team": "New York Mets",
       "details": "New York Metssent RHPTy Adcockoutright to Syracuse Mets.",
       "player": "Ty Adcock"
     },
     {
       "date": "2025-08-28",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned LHPTyler Gilbertto Charlotte Knights.",
-      "player": "Tyler Gilbert"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPJovani Moránto Worcester Red Sox.",
+      "player": "Jovani Morán"
     },
     {
       "date": "2025-08-28",
@@ -123,18 +129,6 @@
     },
     {
       "date": "2025-08-28",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPJovani Moránto Worcester Red Sox.",
-      "player": "Jovani Morán"
-    },
-    {
-      "date": "2025-08-28",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPCam Booserfrom Charlotte Knights.",
-      "player": "Cam Booser"
-    },
-    {
-      "date": "2025-08-28",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsoptioned RHPJack Kochanowiczto Salt Lake Bees.",
       "player": "Jack Kochanowicz"
@@ -144,6 +138,12 @@
       "team": "Chicago Cubs",
       "details": "Chicago Cubsrecalled RHPJavier Assadfrom Iowa Cubs.",
       "player": "Javier Assad"
+    },
+    {
+      "date": "2025-08-28",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPCam Booserfrom Charlotte Knights.",
+      "player": "Cam Booser"
     }
   ]
 }
