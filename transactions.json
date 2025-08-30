@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-08-30T15:21:58.421973",
+  "last_updated": "2025-08-30T16:27:48.476740",
   "transactions": [
+    {
+      "date": "2025-08-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced RHPTyler Zuberon the 15-day injured list. Right lat strain.",
+      "player": "Tyler Zuber"
+    },
+    {
+      "date": "2025-08-30",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated CFJackson Chouriofrom the 10-day injured list.",
+      "player": "Jackson Chourio"
+    },
     {
       "date": "2025-08-30",
       "team": "Atlanta Braves",
@@ -9,9 +21,39 @@
     },
     {
       "date": "2025-08-30",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated LHPRobert Gasserfrom the 60-day injured list.",
+      "player": "Robert Gasser"
+    },
+    {
+      "date": "2025-08-30",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated 3BOliver Dunnfor assignment.",
+      "player": "Oliver Dunn"
+    },
+    {
+      "date": "2025-08-30",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPNathan Wilesto Gwinnett Stripers.",
       "player": "Nathan Wiles"
+    },
+    {
+      "date": "2025-08-30",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LHPRobert Gasserto Nashville Sounds.",
+      "player": "Robert Gasser"
+    },
+    {
+      "date": "2025-08-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPGeorge Sorianofrom Jacksonville Jumbo Shrimp.",
+      "player": "George Soriano"
+    },
+    {
+      "date": "2025-08-30",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LFBrandon Lockridgeto Nashville Sounds.",
+      "player": "Brandon Lockridge"
     }
   ]
 }
