@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-08-30T16:27:48.476740",
+  "last_updated": "2025-08-30T17:19:03.945267",
   "transactions": [
     {
       "date": "2025-08-30",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsplaced RHPTyler Zuberon the 15-day injured list. Right lat strain.",
-      "player": "Tyler Zuber"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated LHPChris Sale.",
+      "player": "Chris Sale"
+    },
+    {
+      "date": "2025-08-30",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated LHPJosé Castillofor assignment.",
+      "player": "José Castillo"
     },
     {
       "date": "2025-08-30",
@@ -15,9 +21,15 @@
     },
     {
       "date": "2025-08-30",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated LHPChris Sale.",
-      "player": "Chris Sale"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced LHPMacKenzie Goreon the 15-day injured list retroactive to August 27, 2025. Left shoulder inflammation.",
+      "player": "MacKenzie Gore"
+    },
+    {
+      "date": "2025-08-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent LHPRyan Weatherson a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Ryan Weathers"
     },
     {
       "date": "2025-08-30",
@@ -27,21 +39,27 @@
     },
     {
       "date": "2025-08-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced RHPTyler Zuberon the 15-day injured list. Right lat strain.",
+      "player": "Tyler Zuber"
+    },
+    {
+      "date": "2025-08-30",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersdesignated 3BOliver Dunnfor assignment.",
       "player": "Oliver Dunn"
     },
     {
       "date": "2025-08-30",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPNathan Wilesto Gwinnett Stripers.",
-      "player": "Nathan Wiles"
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPChris Devenskifrom Syracuse Mets.",
+      "player": "Chris Devenski"
     },
     {
       "date": "2025-08-30",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned LHPRobert Gasserto Nashville Sounds.",
-      "player": "Robert Gasser"
+      "details": "Milwaukee Brewersoptioned LFBrandon Lockridgeto Nashville Sounds.",
+      "player": "Brandon Lockridge"
     },
     {
       "date": "2025-08-30",
@@ -51,9 +69,33 @@
     },
     {
       "date": "2025-08-30",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPMason Thompsonfrom Rochester Red Wings.",
+      "player": "Mason Thompson"
+    },
+    {
+      "date": "2025-08-30",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned LFBrandon Lockridgeto Nashville Sounds.",
-      "player": "Brandon Lockridge"
+      "details": "Milwaukee Brewersoptioned LHPRobert Gasserto Nashville Sounds.",
+      "player": "Robert Gasser"
+    },
+    {
+      "date": "2025-08-30",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPJustin Bruihlto Buffalo Bisons.",
+      "player": "Justin Bruihl"
+    },
+    {
+      "date": "2025-08-30",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LHPEaston Lucasfrom Buffalo Bisons.",
+      "player": "Easton Lucas"
+    },
+    {
+      "date": "2025-08-30",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPNathan Wilesto Gwinnett Stripers.",
+      "player": "Nathan Wiles"
     }
   ]
 }
