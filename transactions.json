@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-08-31T20:25:07.917627",
+  "last_updated": "2025-08-31T21:21:02.530822",
   "transactions": [
     {
       "date": "2025-08-31",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsdesignated LHPTom Cosgrovefor assignment.",
-      "player": "Tom Cosgrove"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliestransferred RHPZack Wheelerfrom the 15-day injured list to the 60-day injured list. Right upper extremity blood clot.",
+      "player": "Zack Wheeler"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RHPMichael Wachafrom the paternity list.",
+      "player": "Michael Wacha"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced LHPTyler Andersonon the 15-day injured list retroactive to August 29, 2025. Left oblique strain.",
+      "player": "Tyler Anderson"
     },
     {
       "date": "2025-08-31",
@@ -21,9 +33,9 @@
     },
     {
       "date": "2025-08-31",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsplaced LHPTyler Andersonon the 15-day injured list retroactive to August 29, 2025. Left oblique strain.",
-      "player": "Tyler Anderson"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated LHPTom Cosgrovefor assignment.",
+      "player": "Tom Cosgrove"
     },
     {
       "date": "2025-08-31",
@@ -33,21 +45,15 @@
     },
     {
       "date": "2025-08-31",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated RHPMichael Wachafrom the paternity list.",
-      "player": "Michael Wacha"
-    },
-    {
-      "date": "2025-08-31",
       "team": "Miami Marlins",
       "details": "Miami Marlinsplaced CFDane Myerson the 10-day injured list. Right oblique strain.",
       "player": "Dane Myers"
     },
     {
       "date": "2025-08-31",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled RHPFreddy Tarnokfrom Jacksonville Jumbo Shrimp.",
-      "player": "Freddy Tarnok"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPAlek Jacobto El Paso Chihuahuas.",
+      "player": "Alek Jacob"
     },
     {
       "date": "2025-08-31",
@@ -63,27 +69,9 @@
     },
     {
       "date": "2025-08-31",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled LHPBrandon Waddellfrom Syracuse Mets.",
-      "player": "Brandon Waddell"
-    },
-    {
-      "date": "2025-08-31",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsclaimed RHPAaron Civaleoff waivers fromChicago White Sox.",
-      "player": "Aaron Civale"
-    },
-    {
-      "date": "2025-08-31",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPStephen Kolekto Omaha Storm Chasers.",
-      "player": "Stephen Kolek"
-    },
-    {
-      "date": "2025-08-31",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled RHPPorter Hodgefrom Iowa Cubs.",
-      "player": "Porter Hodge"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of RHPBryse Wilsonfrom Charlotte Knights.",
+      "player": "Bryse Wilson"
     },
     {
       "date": "2025-08-31",
@@ -93,9 +81,21 @@
     },
     {
       "date": "2025-08-31",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPAlek Jacobto El Paso Chihuahuas.",
-      "player": "Alek Jacob"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned LHPJordan Wicksto Iowa Cubs.",
+      "player": "Jordan Wicks"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPStephen Kolekto Omaha Storm Chasers.",
+      "player": "Stephen Kolek"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPFreddy Tarnokfrom Jacksonville Jumbo Shrimp.",
+      "player": "Freddy Tarnok"
     },
     {
       "date": "2025-08-31",
@@ -111,27 +111,39 @@
     },
     {
       "date": "2025-08-31",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RFConnor Joeoutright to Louisville Bats.",
-      "player": "Connor Joe"
-    },
-    {
-      "date": "2025-08-31",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned LHPJordan Wicksto Iowa Cubs.",
-      "player": "Jordan Wicks"
-    },
-    {
-      "date": "2025-08-31",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of RHPBryse Wilsonfrom Charlotte Knights.",
-      "player": "Bryse Wilson"
+      "details": "Chicago Cubsrecalled RHPPorter Hodgefrom Iowa Cubs.",
+      "player": "Porter Hodge"
     },
     {
       "date": "2025-08-31",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesrecalled CFRyan Kreidlerfrom Indianapolis Indians.",
       "player": "Ryan Kreidler"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsclaimed RHPAaron Civaleoff waivers fromChicago White Sox.",
+      "player": "Aaron Civale"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled LHPBrandon Waddellfrom Syracuse Mets.",
+      "player": "Brandon Waddell"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RFConnor Joeoutright to Louisville Bats.",
+      "player": "Connor Joe"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesclaimed LHPTim Mayzaoff waivers fromPittsburgh Pirates.",
+      "player": "Tim Mayza"
     }
   ]
 }
