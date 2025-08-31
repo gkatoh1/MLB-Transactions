@@ -1,23 +1,11 @@
 {
-  "last_updated": "2025-08-31T19:18:10.006623",
+  "last_updated": "2025-08-31T20:25:07.917627",
   "transactions": [
     {
       "date": "2025-08-31",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssigned free agent RHPJosé Ureña.",
-      "player": "José Ureña"
-    },
-    {
-      "date": "2025-08-31",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsplaced CFDane Myerson the 10-day injured list. Right oblique strain.",
-      "player": "Dane Myers"
-    },
-    {
-      "date": "2025-08-31",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsplaced LHPTyler Andersonon the 15-day injured list retroactive to August 29, 2025. Left oblique strain.",
-      "player": "Tyler Anderson"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated LHPTom Cosgrovefor assignment.",
+      "player": "Tom Cosgrove"
     },
     {
       "date": "2025-08-31",
@@ -27,9 +15,21 @@
     },
     {
       "date": "2025-08-31",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsdesignated LHPTom Cosgrovefor assignment.",
-      "player": "Tom Cosgrove"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssigned free agent RHPJosé Ureña.",
+      "player": "José Ureña"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced LHPTyler Andersonon the 15-day injured list retroactive to August 29, 2025. Left oblique strain.",
+      "player": "Tyler Anderson"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced LHPCarson Whisenhunton the 15-day injured list retroactive to August 28, 2025. Back strain.",
+      "player": "Carson Whisenhunt"
     },
     {
       "date": "2025-08-31",
@@ -39,15 +39,33 @@
     },
     {
       "date": "2025-08-31",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPAlek Jacobto El Paso Chihuahuas.",
-      "player": "Alek Jacob"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced CFDane Myerson the 10-day injured list. Right oblique strain.",
+      "player": "Dane Myers"
     },
     {
       "date": "2025-08-31",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled CFRyan Kreidlerfrom Indianapolis Indians.",
-      "player": "Ryan Kreidler"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPFreddy Tarnokfrom Jacksonville Jumbo Shrimp.",
+      "player": "Freddy Tarnok"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPChris Devenskito Syracuse Mets.",
+      "player": "Chris Devenski"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled CFVictor Mesa Jr.from Jacksonville Jumbo Shrimp.",
+      "player": "Victor Mesa Jr."
+    },
+    {
+      "date": "2025-08-31",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled LHPBrandon Waddellfrom Syracuse Mets.",
+      "player": "Brandon Waddell"
     },
     {
       "date": "2025-08-31",
@@ -57,9 +75,9 @@
     },
     {
       "date": "2025-08-31",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled CFVictor Mesa Jr.from Jacksonville Jumbo Shrimp.",
-      "player": "Victor Mesa Jr."
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPStephen Kolekto Omaha Storm Chasers.",
+      "player": "Stephen Kolek"
     },
     {
       "date": "2025-08-31",
@@ -75,9 +93,9 @@
     },
     {
       "date": "2025-08-31",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RFConnor Joeoutright to Louisville Bats.",
-      "player": "Connor Joe"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPAlek Jacobto El Paso Chihuahuas.",
+      "player": "Alek Jacob"
     },
     {
       "date": "2025-08-31",
@@ -87,21 +105,21 @@
     },
     {
       "date": "2025-08-31",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled LHPBrandon Waddellfrom Syracuse Mets.",
-      "player": "Brandon Waddell"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPKai-Wei Tengfrom Sacramento River Cats.",
+      "player": "Kai-Wei Teng"
     },
     {
       "date": "2025-08-31",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPStephen Kolekto Omaha Storm Chasers.",
-      "player": "Stephen Kolek"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RFConnor Joeoutright to Louisville Bats.",
+      "player": "Connor Joe"
     },
     {
       "date": "2025-08-31",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPChris Devenskito Syracuse Mets.",
-      "player": "Chris Devenski"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned LHPJordan Wicksto Iowa Cubs.",
+      "player": "Jordan Wicks"
     },
     {
       "date": "2025-08-31",
@@ -111,15 +129,9 @@
     },
     {
       "date": "2025-08-31",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled RHPFreddy Tarnokfrom Jacksonville Jumbo Shrimp.",
-      "player": "Freddy Tarnok"
-    },
-    {
-      "date": "2025-08-31",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned LHPJordan Wicksto Iowa Cubs.",
-      "player": "Jordan Wicks"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled CFRyan Kreidlerfrom Indianapolis Indians.",
+      "player": "Ryan Kreidler"
     }
   ]
 }
