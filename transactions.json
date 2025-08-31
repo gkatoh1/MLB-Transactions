@@ -1,4 +1,29 @@
 {
-  "last_updated": "2025-08-31T14:20:38.249466",
-  "transactions": []
+  "last_updated": "2025-08-31T15:22:28.053762",
+  "transactions": [
+    {
+      "date": "2025-08-31",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RHPMichael Wachafrom the paternity list.",
+      "player": "Michael Wacha"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled LHPKyle Hartfrom El Paso Chihuahuas.",
+      "player": "Kyle Hart"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPStephen Kolekto Omaha Storm Chasers.",
+      "player": "Stephen Kolek"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPAlek Jacobto El Paso Chihuahuas.",
+      "player": "Alek Jacob"
+    }
+  ]
 }
