@@ -1,6 +1,24 @@
 {
-  "last_updated": "2025-08-31T16:28:03.351963",
+  "last_updated": "2025-08-31T17:19:16.024663",
   "transactions": [
+    {
+      "date": "2025-08-31",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssigned free agent RHPJosé Ureña.",
+      "player": "José Ureña"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RHPMichael Wachafrom the paternity list.",
+      "player": "Michael Wacha"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced LHPTyler Andersonon the 15-day injured list retroactive to August 29, 2025. Left oblique strain.",
+      "player": "Tyler Anderson"
+    },
     {
       "date": "2025-08-31",
       "team": "Miami Marlins",
@@ -15,9 +33,27 @@
     },
     {
       "date": "2025-08-31",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPFreddy Tarnokfrom Jacksonville Jumbo Shrimp.",
+      "player": "Freddy Tarnok"
+    },
+    {
+      "date": "2025-08-31",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated RHPMichael Wachafrom the paternity list.",
-      "player": "Michael Wacha"
+      "details": "Kansas City Royalsoptioned RHPStephen Kolekto Omaha Storm Chasers.",
+      "player": "Stephen Kolek"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPChris Devenskito Syracuse Mets.",
+      "player": "Chris Devenski"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled LHPKyle Hartfrom El Paso Chihuahuas.",
+      "player": "Kyle Hart"
     },
     {
       "date": "2025-08-31",
@@ -27,9 +63,9 @@
     },
     {
       "date": "2025-08-31",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled LHPKyle Hartfrom El Paso Chihuahuas.",
-      "player": "Kyle Hart"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned LHPJordan Wicksto Iowa Cubs.",
+      "player": "Jordan Wicks"
     },
     {
       "date": "2025-08-31",
@@ -45,21 +81,9 @@
     },
     {
       "date": "2025-08-31",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPStephen Kolekto Omaha Storm Chasers.",
-      "player": "Stephen Kolek"
-    },
-    {
-      "date": "2025-08-31",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled RHPFreddy Tarnokfrom Jacksonville Jumbo Shrimp.",
-      "player": "Freddy Tarnok"
-    },
-    {
-      "date": "2025-08-31",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPChris Devenskito Syracuse Mets.",
-      "player": "Chris Devenski"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPPorter Hodgefrom Iowa Cubs.",
+      "player": "Porter Hodge"
     }
   ]
 }
