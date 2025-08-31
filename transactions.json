@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-08-31T15:22:28.053762",
+  "last_updated": "2025-08-31T16:28:03.351963",
   "transactions": [
+    {
+      "date": "2025-08-31",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced CFDane Myerson the 10-day injured list. Right oblique strain.",
+      "player": "Dane Myers"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced RHPRyan Gustoon the 15-day injured list retroactive to August 28, 2025. Right shoulder impingement.",
+      "player": "Ryan Gusto"
+    },
     {
       "date": "2025-08-31",
       "team": "Kansas City Royals",
@@ -10,8 +22,26 @@
     {
       "date": "2025-08-31",
       "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPAlek Jacobto El Paso Chihuahuas.",
+      "player": "Alek Jacob"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "San Diego Padres",
       "details": "San Diego Padresrecalled LHPKyle Hartfrom El Paso Chihuahuas.",
       "player": "Kyle Hart"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled LHPBrandon Waddellfrom Syracuse Mets.",
+      "player": "Brandon Waddell"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled CFVictor Mesa Jr.from Jacksonville Jumbo Shrimp.",
+      "player": "Victor Mesa Jr."
     },
     {
       "date": "2025-08-31",
@@ -21,9 +51,15 @@
     },
     {
       "date": "2025-08-31",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPAlek Jacobto El Paso Chihuahuas.",
-      "player": "Alek Jacob"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPFreddy Tarnokfrom Jacksonville Jumbo Shrimp.",
+      "player": "Freddy Tarnok"
+    },
+    {
+      "date": "2025-08-31",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPChris Devenskito Syracuse Mets.",
+      "player": "Chris Devenski"
     }
   ]
 }
