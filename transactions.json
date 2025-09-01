@@ -1,35 +1,29 @@
 {
-  "last_updated": "2025-09-01T21:21:01.455952",
+  "last_updated": "2025-09-01T22:22:41.921658",
   "transactions": [
     {
       "date": "2025-09-01",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelstransferred RHPCarson Fulmerfrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
-      "player": "Carson Fulmer"
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated LHPRyan Yarbroughfrom the 15-day injured list.",
+      "player": "Ryan Yarbrough"
     },
     {
       "date": "2025-09-01",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersdesignated RHPSauryn Laofor assignment.",
-      "player": "Sauryn Lao"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent 1BCarlos Santana.",
+      "player": "Carlos Santana"
     },
     {
       "date": "2025-09-01",
-      "team": "Athletics",
-      "details": "Athleticsactivated RHPLuis Severinofrom the 15-day injured list.",
-      "player": "Luis Severino"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPAaron Civale.",
+      "player": "Aaron Civale"
     },
     {
       "date": "2025-09-01",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersactivated SSJoey Ortizfrom the 10-day injured list.",
       "player": "Joey Ortiz"
-    },
-    {
-      "date": "2025-09-01",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated SSLuke Williamsfrom the 10-day injured list.",
-      "player": "Luke Williams"
     },
     {
       "date": "2025-09-01",
@@ -51,6 +45,30 @@
     },
     {
       "date": "2025-09-01",
+      "team": "Athletics",
+      "details": "Athleticsactivated RHPLuis Severinofrom the 15-day injured list.",
+      "player": "Luis Severino"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated LFTaylor Trammellfrom the 10-day injured list.",
+      "player": "Taylor Trammell"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersreleased 1BDonovan Solano.",
+      "player": "Donovan Solano"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated 1BLogan Davidsonfor assignment.",
+      "player": "Logan Davidson"
+    },
+    {
+      "date": "2025-09-01",
       "team": "Miami Marlins",
       "details": "Miami Marlinsplaced RHPEdward Cabreraon the 15-day injured list retroactive to August 31, 2025. Right elbow sprain.",
       "player": "Edward Cabrera"
@@ -69,24 +87,6 @@
     },
     {
       "date": "2025-09-01",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersreleased 1BDonovan Solano.",
-      "player": "Donovan Solano"
-    },
-    {
-      "date": "2025-09-01",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresactivated CFJackson Merrillfrom the 10-day injured list.",
-      "player": "Jackson Merrill"
-    },
-    {
-      "date": "2025-09-01",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravestransferred 3BAustin Rileyfrom the 10-day injured list to the 60-day injured list. Strained lower abdominal muscle.",
-      "player": "Austin Riley"
-    },
-    {
-      "date": "2025-09-01",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysactivated SSIsiah Kiner-Falefa.",
       "player": "Isiah Kiner-Falefa"
@@ -99,9 +99,9 @@
     },
     {
       "date": "2025-09-01",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated LFTaylor Trammellfrom the 10-day injured list.",
-      "player": "Taylor Trammell"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestransferred 3BAustin Rileyfrom the 10-day injured list to the 60-day injured list. Strained lower abdominal muscle.",
+      "player": "Austin Riley"
     },
     {
       "date": "2025-09-01",
@@ -117,21 +117,33 @@
     },
     {
       "date": "2025-09-01",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaystransferred RHPNick Sandlinfrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
-      "player": "Nick Sandlin"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated CFJackson Merrillfrom the 10-day injured list.",
+      "player": "Jackson Merrill"
     },
     {
       "date": "2025-09-01",
-      "team": "Houston Astros",
-      "details": "Houston Astrosdesignated 1BLogan Davidsonfor assignment.",
-      "player": "Logan Davidson"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated 1BJake Burgerfrom the 10-day injured list.",
+      "player": "Jake Burger"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated CFChris Taylorfrom the 10-day injured list.",
+      "player": "Chris Taylor"
     },
     {
       "date": "2025-09-01",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsactivated RFJac Caglianonefrom the 10-day injured list.",
       "player": "Jac Caglianone"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstransferred RFGustavo Camperofrom the 10-day injured list to the 60-day injured list. Left ankle sprain.",
+      "player": "Gustavo Campero"
     },
     {
       "date": "2025-09-01",
@@ -147,21 +159,9 @@
     },
     {
       "date": "2025-09-01",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated RHPMichael Kopechfrom the 60-day injured list.",
-      "player": "Michael Kopech"
-    },
-    {
-      "date": "2025-09-01",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxtransferred 3BMarcelo Mayerfrom the 10-day injured list to the 60-day injured list. Right wrist sprain.",
-      "player": "Marcelo Mayer"
-    },
-    {
-      "date": "2025-09-01",
-      "team": "Athletics",
-      "details": "Athleticstransferred LHPBen Bowdenfrom the 15-day injured list to the 60-day injured list. Strained left lat.",
-      "player": "Ben Bowden"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstransferred RHPCarson Fulmerfrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
+      "player": "Carson Fulmer"
     },
     {
       "date": "2025-09-01",
@@ -177,63 +177,51 @@
     },
     {
       "date": "2025-09-01",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtransferred 3BMarcelo Mayerfrom the 10-day injured list to the 60-day injured list. Right wrist sprain.",
+      "player": "Marcelo Mayer"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated RHPChris Martinfrom the 15-day injured list.",
+      "player": "Chris Martin"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated RHPSauryn Laofor assignment.",
+      "player": "Sauryn Lao"
+    },
+    {
+      "date": "2025-09-01",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantstransferred RHPRandy Rodríguezfrom the 15-day injured list to the 60-day injured list. Right elbow sprain.",
       "player": "Randy Rodríguez"
     },
     {
       "date": "2025-09-01",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssigned free agent 1BCarlos Santana.",
-      "player": "Carlos Santana"
-    },
-    {
-      "date": "2025-09-01",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPAaron Civale.",
-      "player": "Aaron Civale"
-    },
-    {
-      "date": "2025-09-01",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsactivated CFChris Taylorfrom the 10-day injured list.",
-      "player": "Chris Taylor"
-    },
-    {
-      "date": "2025-09-01",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated LHPRyan Yarbroughfrom the 15-day injured list.",
-      "player": "Ryan Yarbrough"
-    },
-    {
-      "date": "2025-09-01",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelstransferred RFGustavo Camperofrom the 10-day injured list to the 60-day injured list. Left ankle sprain.",
-      "player": "Gustavo Campero"
-    },
-    {
-      "date": "2025-09-01",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled CMaverick Handleyfrom Norfolk Tides.",
-      "player": "Maverick Handley"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPMichael Kopechfrom the 60-day injured list.",
+      "player": "Michael Kopech"
     },
     {
       "date": "2025-09-01",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPRolddy Muñozfrom Gwinnett Stripers.",
-      "player": "Rolddy Muñoz"
+      "details": "Atlanta Bravesactivated SSLuke Williamsfrom the 10-day injured list.",
+      "player": "Luke Williams"
     },
     {
       "date": "2025-09-01",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsrecalled CFGrant McCrayfrom Sacramento River Cats.",
-      "player": "Grant McCray"
+      "team": "Athletics",
+      "details": "Athleticstransferred LHPBen Bowdenfrom the 15-day injured list to the 60-day injured list. Strained left lat.",
+      "player": "Ben Bowden"
     },
     {
       "date": "2025-09-01",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of RHPLuke Jacksonfrom Tacoma Rainiers.",
-      "player": "Luke Jackson"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystransferred RHPNick Sandlinfrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
+      "player": "Nick Sandlin"
     },
     {
       "date": "2025-09-01",
@@ -249,27 +237,45 @@
     },
     {
       "date": "2025-09-01",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersrecalled 2BLeo Rivasfrom Tacoma Rainiers.",
-      "player": "Leo Rivas"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of CAli Sánchezfrom Worcester Red Sox.",
+      "player": "Ali Sánchez"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsselected the contract of RHPJT Brubakerfrom Sacramento River Cats.",
+      "player": "JT Brubaker"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled 2BLuisangel Acuñafrom Syracuse Mets.",
+      "player": "Luisangel Acuña"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RFJustyn-Henry Malloyfrom Toledo Mud Hens.",
+      "player": "Justyn-Henry Malloy"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed SSHa-Seong Kimoff waivers fromTampa Bay Rays.",
+      "player": "Ha-Seong Kim"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled 3BBryan Ramosfrom Charlotte Knights.",
+      "player": "Bryan Ramos"
     },
     {
       "date": "2025-09-01",
       "team": "Athletics",
-      "details": "Athleticsoptioned RHPEduarniel Núñezto Las Vegas Aviators.",
-      "player": "Eduarniel Núñez"
-    },
-    {
-      "date": "2025-09-01",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of RHPDillon Tatefrom Buffalo Bisons.",
-      "player": "Dillon Tate"
-    },
-    {
-      "date": "2025-09-01",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RHPZak Kentfrom Columbus Clippers.",
-      "player": "Zak Kent"
+      "details": "Athleticsrecalled 3BMax Schuemannfrom Las Vegas Aviators.",
+      "player": "Max Schuemann"
     },
     {
       "date": "2025-09-01",
@@ -279,9 +285,9 @@
     },
     {
       "date": "2025-09-01",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled CFDaShawn Keirsey Jr.from St. Paul Saints.",
-      "player": "DaShawn Keirsey Jr."
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJustin Hagenmanfrom Syracuse Mets.",
+      "player": "Justin Hagenman"
     },
     {
       "date": "2025-09-01",
@@ -291,15 +297,9 @@
     },
     {
       "date": "2025-09-01",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned 2BChristian Mooreto Salt Lake Bees.",
-      "player": "Christian Moore"
-    },
-    {
-      "date": "2025-09-01",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of CHarry Fordfrom Tacoma Rainiers.",
-      "player": "Harry Ford"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned 3BWill Wilsonto Columbus Clippers.",
+      "player": "Will Wilson"
     }
   ]
 }
