@@ -1,17 +1,53 @@
 {
-  "last_updated": "2025-09-01T14:24:17.306926",
+  "last_updated": "2025-09-01T15:24:52.952768",
   "transactions": [
     {
       "date": "2025-09-01",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated LHPAndrew Alvarez.",
-      "player": "Andrew Alvarez"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced RHPEdward Cabreraon the 15-day injured list retroactive to August 31, 2025. Right elbow sprain.",
+      "player": "Edward Cabrera"
     },
     {
       "date": "2025-09-01",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaystransferred RHPNick Sandlinfrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
-      "player": "Nick Sandlin"
+      "team": "Athletics",
+      "details": "Athleticsactivated RHPLuis Severinofrom the 15-day injured list.",
+      "player": "Luis Severino"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Athletics",
+      "details": "Athleticstransferred LHPBen Bowdenfrom the 15-day injured list to the 60-day injured list. Strained left lat.",
+      "player": "Ben Bowden"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstransferred RHPTyler Zuberfrom the 15-day injured list to the 60-day injured list. Right lat strain.",
+      "player": "Tyler Zuber"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated 1BLogan Davidsonfor assignment.",
+      "player": "Logan Davidson"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated LFTaylor Trammellfrom the 10-day injured list.",
+      "player": "Taylor Trammell"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated RHPLuis Garciafrom the 60-day injured list.",
+      "player": "Luis Garcia"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated LHPTim Mayza.",
+      "player": "Tim Mayza"
     },
     {
       "date": "2025-09-01",
@@ -27,15 +63,51 @@
     },
     {
       "date": "2025-09-01",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystransferred RHPNick Sandlinfrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
+      "player": "Nick Sandlin"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstransferred RHPAnthony Benderfrom the 15-day injured list to the 60-day injured list. Right tibial stress reaction.",
+      "player": "Anthony Bender"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated SSLuke Williamsfrom the 10-day injured list.",
+      "player": "Luke Williams"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RFJhonkensy Noelfrom Columbus Clippers.",
+      "player": "Jhonkensy Noel"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPChase Leefrom Toledo Mud Hens.",
+      "player": "Chase Lee"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPMichael Petersenfrom Jacksonville Jumbo Shrimp.",
+      "player": "Michael Petersen"
+    },
+    {
+      "date": "2025-09-01",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsrecalled RHPTravis Adamsfrom St. Paul Saints.",
       "player": "Travis Adams"
     },
     {
       "date": "2025-09-01",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of RHPDillon Tatefrom Buffalo Bisons.",
-      "player": "Dillon Tate"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPRolddy Muñozfrom Gwinnett Stripers.",
+      "player": "Rolddy Muñoz"
     },
     {
       "date": "2025-09-01",
@@ -45,9 +117,9 @@
     },
     {
       "date": "2025-09-01",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPYosver Zuluetafrom Louisville Bats.",
-      "player": "Yosver Zulueta"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of RHPDillon Tatefrom Buffalo Bisons.",
+      "player": "Dillon Tate"
     },
     {
       "date": "2025-09-01",
@@ -57,9 +129,27 @@
     },
     {
       "date": "2025-09-01",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPJustin Hagenmanfrom Syracuse Mets.",
-      "player": "Justin Hagenman"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RFJustyn-Henry Malloyfrom Toledo Mud Hens.",
+      "player": "Justyn-Henry Malloy"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPZak Kentfrom Columbus Clippers.",
+      "player": "Zak Kent"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled CFDaShawn Keirsey Jr.from St. Paul Saints.",
+      "player": "DaShawn Keirsey Jr."
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPZack Kellyfrom Worcester Red Sox.",
+      "player": "Zack Kelly"
     },
     {
       "date": "2025-09-01",
@@ -69,15 +159,27 @@
     },
     {
       "date": "2025-09-01",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPYosver Zuluetafrom Louisville Bats.",
+      "player": "Yosver Zulueta"
+    },
+    {
+      "date": "2025-09-01",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxselected the contract of CAli Sánchezfrom Worcester Red Sox.",
       "player": "Ali Sánchez"
     },
     {
       "date": "2025-09-01",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled CFDaShawn Keirsey Jr.from St. Paul Saints.",
-      "player": "DaShawn Keirsey Jr."
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled 3BBryan Ramosfrom Charlotte Knights.",
+      "player": "Bryan Ramos"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Athletics",
+      "details": "Athleticsrecalled 3BMax Schuemannfrom Las Vegas Aviators.",
+      "player": "Max Schuemann"
     },
     {
       "date": "2025-09-01",
@@ -99,9 +201,57 @@
     },
     {
       "date": "2025-09-01",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPZack Kellyfrom Worcester Red Sox.",
-      "player": "Zack Kelly"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPFraser Ellardfrom Charlotte Knights.",
+      "player": "Fraser Ellard"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansselected the contract of RFGeorge Valerafrom Columbus Clippers.",
+      "player": "George Valera"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled CGarrett Stubbsfrom Lehigh Valley IronPigs.",
+      "player": "Garrett Stubbs"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of CBrian Navarretofrom Jacksonville Jumbo Shrimp.",
+      "player": "Brian Navarreto"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of RHPLuarbert Ariasfrom Jacksonville Jumbo Shrimp.",
+      "player": "Luarbert Arias"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPEduarniel Núñezto Las Vegas Aviators.",
+      "player": "Eduarniel Núñez"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Athletics",
+      "details": "Athleticsselected the contract of RHPScott McGoughfrom Las Vegas Aviators.",
+      "player": "Scott McGough"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJustin Hagenmanfrom Syracuse Mets.",
+      "player": "Justin Hagenman"
+    },
+    {
+      "date": "2025-09-01",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned 3BWill Wilsonto Columbus Clippers.",
+      "player": "Will Wilson"
     }
   ]
 }
