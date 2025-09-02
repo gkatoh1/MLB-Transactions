@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-02T19:18:20.608525",
+  "last_updated": "2025-09-02T20:24:11.747464",
   "transactions": [
     {
       "date": "2025-09-02",
@@ -9,9 +9,27 @@
     },
     {
       "date": "2025-09-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPWander Suerofor assignment.",
+      "player": "Wander Suero"
+    },
+    {
+      "date": "2025-09-02",
+      "team": "New York Mets",
+      "details": "New York Metsplaced CFTyrone Tayloron the 10-day injured list retroactive to August 30, 2025. Left hamstring strain.",
+      "player": "Tyrone Taylor"
+    },
+    {
+      "date": "2025-09-02",
       "team": "Washington Nationals",
       "details": "Washington Nationalstransferred CDrew Millasfrom the 10-day injured list to the 60-day injured list. Left second finger fracture and dislocation.",
       "player": "Drew Millas"
+    },
+    {
+      "date": "2025-09-02",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RHPRobinson Piñaon the 60-day injured list. Right elbow UCL sprain.",
+      "player": "Robinson Piña"
     },
     {
       "date": "2025-09-02",
@@ -33,33 +51,57 @@
     },
     {
       "date": "2025-09-02",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsdesignated LHPJoe La Sorsafor assignment.",
+      "player": "Joe La Sorsa"
+    },
+    {
+      "date": "2025-09-02",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent CKeibert Ruizon a rehab assignment to Harrisburg Senators.",
+      "player": "Keibert Ruiz"
+    },
+    {
+      "date": "2025-09-02",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesplaced LFJurickson Profaron the paternity list.",
       "player": "Jurickson Profar"
     },
     {
       "date": "2025-09-02",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of LHPRyan Boruckifrom Buffalo Bisons.",
+      "player": "Ryan Borucki"
+    },
+    {
+      "date": "2025-09-02",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPEaston Lucasto Buffalo Bisons.",
+      "player": "Easton Lucas"
+    },
+    {
+      "date": "2025-09-02",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated RHPWander Suerofor assignment.",
-      "player": "Wander Suero"
+      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
+      "player": "Hunter Stratton"
     },
     {
       "date": "2025-09-02",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesclaimed RHPRoansy Contrerasoff waivers fromBaltimore Orioles.",
-      "player": "Roansy Contreras"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned LHPBrandon Waddellto Syracuse Mets.",
+      "player": "Brandon Waddell"
     },
     {
       "date": "2025-09-02",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned CC.J. Stubbsto Rochester Red Wings.",
-      "player": "C.J. Stubbs"
+      "team": "New York Mets",
+      "details": "New York Metsrecalled LFJared Youngfrom Syracuse Mets.",
+      "player": "Jared Young"
     },
     {
       "date": "2025-09-02",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned RHPChase Leeto Toledo Mud Hens.",
-      "player": "Chase Lee"
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPKevin Hergetfrom Syracuse Mets.",
+      "player": "Kevin Herget"
     },
     {
       "date": "2025-09-02",
@@ -75,6 +117,24 @@
     },
     {
       "date": "2025-09-02",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPChase Leeto Toledo Mud Hens.",
+      "player": "Chase Lee"
+    },
+    {
+      "date": "2025-09-02",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPRobinson Piñafrom Buffalo Bisons.",
+      "player": "Robinson Piña"
+    },
+    {
+      "date": "2025-09-02",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of LHPReiver Sanmartinfrom Louisville Bats.",
+      "player": "Reiver Sanmartin"
+    },
+    {
+      "date": "2025-09-02",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned LHPCam Booserto Charlotte Knights.",
       "player": "Cam Booser"
@@ -87,9 +147,21 @@
     },
     {
       "date": "2025-09-02",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
-      "player": "Hunter Stratton"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned LHPSam Mollto Louisville Bats.",
+      "player": "Sam Moll"
+    },
+    {
+      "date": "2025-09-02",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesclaimed RHPRoansy Contrerasoff waivers fromBaltimore Orioles.",
+      "player": "Roansy Contreras"
+    },
+    {
+      "date": "2025-09-02",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned CC.J. Stubbsto Rochester Red Wings.",
+      "player": "C.J. Stubbs"
     }
   ]
 }
