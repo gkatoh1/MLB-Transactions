@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-09-02T17:21:02.758173",
+  "last_updated": "2025-09-02T18:33:00.100974",
   "transactions": [
+    {
+      "date": "2025-09-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated SSHa-Seong Kim.",
+      "player": "Ha-Seong Kim"
+    },
     {
       "date": "2025-09-02",
       "team": "Miami Marlins",
@@ -9,9 +15,27 @@
     },
     {
       "date": "2025-09-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced LFJurickson Profaron the paternity list.",
+      "player": "Jurickson Profar"
+    },
+    {
+      "date": "2025-09-02",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsactivated CCarter Jensen.",
       "player": "Carter Jensen"
+    },
+    {
+      "date": "2025-09-02",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPBryan Hudsonfrom Charlotte Knights.",
+      "player": "Bryan Hudson"
+    },
+    {
+      "date": "2025-09-02",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPCam Booserto Charlotte Knights.",
+      "player": "Cam Booser"
     }
   ]
 }
