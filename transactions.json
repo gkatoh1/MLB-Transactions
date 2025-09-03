@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-03T17:20:27.941741",
+  "last_updated": "2025-09-03T18:33:35.261677",
   "transactions": [
     {
       "date": "2025-09-03",
@@ -15,12 +15,6 @@
     },
     {
       "date": "2025-09-03",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled RHPKeider Monterofrom Toledo Mud Hens.",
-      "player": "Keider Montero"
-    },
-    {
-      "date": "2025-09-03",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsrecalled RHPLyon Richardsonfrom Louisville Bats.",
       "player": "Lyon Richardson"
@@ -30,6 +24,24 @@
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned LHPReiver Sanmartinto Louisville Bats.",
       "player": "Reiver Sanmartin"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxclaimed 3BBen Cowlesoff waivers fromChicago Cubs.",
+      "player": "Ben Cowles"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPKeider Monterofrom Toledo Mud Hens.",
+      "player": "Keider Montero"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned 3BBen Cowlesto Charlotte Knights.",
+      "player": "Ben Cowles"
     }
   ]
 }
