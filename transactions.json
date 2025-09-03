@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-09-03T18:33:35.261677",
+  "last_updated": "2025-09-03T19:19:14.089042",
   "transactions": [
+    {
+      "date": "2025-09-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstransferred RHPVictor Mederosfrom the 15-day injured list to the 60-day injured list. Right shoulder inflammation.",
+      "player": "Victor Mederos"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced RHPShelby Milleron the 60-day injured list retroactive to September 2, 2025. Right elbow UCL sprain.",
+      "player": "Shelby Miller"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsdesignated 2BDarren Bakerfor assignment.",
+      "player": "Darren Baker"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated LHPJoe Jacquesfor assignment.",
+      "player": "Joe Jacques"
+    },
     {
       "date": "2025-09-03",
       "team": "Detroit Tigers",
@@ -12,6 +36,36 @@
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redssent CTyler Stephensonon a rehab assignment to Louisville Bats.",
       "player": "Tyler Stephenson"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxclaimed 3BBen Cowlesoff waivers fromChicago Cubs.",
+      "player": "Ben Cowles"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPKeider Monterofrom Toledo Mud Hens.",
+      "player": "Keider Montero"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of RHPJoel Payampsfrom Nashville Sounds.",
+      "player": "Joel Payamps"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPSauryn Laoto Rochester Red Wings.",
+      "player": "Sauryn Lao"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersclaimed LHPJosé Castillooff waivers fromNew York Mets.",
+      "player": "José Castillo"
     },
     {
       "date": "2025-09-03",
@@ -28,20 +82,20 @@
     {
       "date": "2025-09-03",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxclaimed 3BBen Cowlesoff waivers fromChicago Cubs.",
-      "player": "Ben Cowles"
-    },
-    {
-      "date": "2025-09-03",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled RHPKeider Monterofrom Toledo Mud Hens.",
-      "player": "Keider Montero"
-    },
-    {
-      "date": "2025-09-03",
-      "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned 3BBen Cowlesto Charlotte Knights.",
       "player": "Ben Cowles"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsclaimed 1BLogan Davidsonoff waivers fromHouston Astros.",
+      "player": "Logan Davidson"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsclaimed RHPSauryn Laooff waivers fromSeattle Mariners.",
+      "player": "Sauryn Lao"
     }
   ]
 }
