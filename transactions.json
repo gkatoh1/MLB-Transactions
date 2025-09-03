@@ -1,4 +1,23 @@
 {
-  "last_updated": "2025-09-03T13:31:28.246118",
-  "transactions": []
+  "last_updated": "2025-09-03T14:24:22.994917",
+  "transactions": [
+    {
+      "date": "2025-09-03",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent CTyler Stephensonon a rehab assignment to Louisville Bats.",
+      "player": "Tyler Stephenson"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned LHPReiver Sanmartinto Louisville Bats.",
+      "player": "Reiver Sanmartin"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPLyon Richardsonfrom Louisville Bats.",
+      "player": "Lyon Richardson"
+    }
+  ]
 }
