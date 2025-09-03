@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-09-03T22:22:05.247326",
+  "last_updated": "2025-09-03T23:21:23.066080",
   "transactions": [
+    {
+      "date": "2025-09-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPScott Blewetton a rehab assignment to Norfolk Tides.",
+      "player": "Scott Blewett"
+    },
     {
       "date": "2025-09-03",
       "team": "Los Angeles Dodgers",
@@ -9,9 +15,9 @@
     },
     {
       "date": "2025-09-03",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsdesignated 2BDarren Bakerfor assignment.",
-      "player": "Darren Baker"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced RHPShelby Milleron the 60-day injured list retroactive to September 2, 2025. Right elbow UCL sprain.",
+      "player": "Shelby Miller"
     },
     {
       "date": "2025-09-03",
@@ -21,9 +27,9 @@
     },
     {
       "date": "2025-09-03",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced RHPShelby Milleron the 60-day injured list retroactive to September 2, 2025. Right elbow UCL sprain.",
-      "player": "Shelby Miller"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPScott Blewetton a rehab assignment to Norfolk Tides.",
+      "player": "Scott Blewett"
     },
     {
       "date": "2025-09-03",
@@ -45,6 +51,18 @@
     },
     {
       "date": "2025-09-03",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced RHPChris Paddackon the bereavement list.",
+      "player": "Chris Paddack"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsdesignated 2BDarren Bakerfor assignment.",
+      "player": "Darren Baker"
+    },
+    {
+      "date": "2025-09-03",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersdesignated LHPJoe Jacquesfor assignment.",
       "player": "Joe Jacques"
@@ -63,27 +81,57 @@
     },
     {
       "date": "2025-09-03",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent RHPScott Blewetton a rehab assignment to Norfolk Tides.",
-      "player": "Scott Blewett"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsclaimed 1BLogan Davidsonoff waivers fromHouston Astros.",
+      "player": "Logan Davidson"
     },
     {
       "date": "2025-09-03",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersplaced RHPChris Paddackon the bereavement list.",
-      "player": "Chris Paddack"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsclaimed RHPSauryn Laooff waivers fromSeattle Mariners.",
+      "player": "Sauryn Lao"
     },
     {
       "date": "2025-09-03",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent RHPScott Blewetton a rehab assignment to Norfolk Tides.",
-      "player": "Scott Blewett"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPZak Kentto Columbus Clippers.",
+      "player": "Zak Kent"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled RHPCaden Danafrom Salt Lake Bees.",
+      "player": "Caden Dana"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPChase Silsethto Salt Lake Bees.",
+      "player": "Chase Silseth"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPSauryn Laoto Rochester Red Wings.",
+      "player": "Sauryn Lao"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled 1BNick Sogardfrom Worcester Red Sox.",
+      "player": "Nick Sogard"
     },
     {
       "date": "2025-09-03",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesrecalled RHPMax Lazarfrom Lehigh Valley IronPigs.",
       "player": "Max Lazar"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned LHPReiver Sanmartinto Louisville Bats.",
+      "player": "Reiver Sanmartin"
     },
     {
       "date": "2025-09-03",
@@ -105,6 +153,18 @@
     },
     {
       "date": "2025-09-03",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPKeider Monterofrom Toledo Mud Hens.",
+      "player": "Keider Montero"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LFChas McCormickto Sugar Land Space Cowboys.",
+      "player": "Chas McCormick"
+    },
+    {
+      "date": "2025-09-03",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxclaimed 3BBen Cowlesoff waivers fromChicago Cubs.",
       "player": "Ben Cowles"
@@ -117,75 +177,21 @@
     },
     {
       "date": "2025-09-03",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled RHPKeider Monterofrom Toledo Mud Hens.",
-      "player": "Keider Montero"
-    },
-    {
-      "date": "2025-09-03",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsclaimed RHPSauryn Laooff waivers fromSeattle Mariners.",
-      "player": "Sauryn Lao"
-    },
-    {
-      "date": "2025-09-03",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned RHPZak Kentto Columbus Clippers.",
-      "player": "Zak Kent"
-    },
-    {
-      "date": "2025-09-03",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPLyon Richardsonfrom Louisville Bats.",
-      "player": "Lyon Richardson"
-    },
-    {
-      "date": "2025-09-03",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled 1BNick Sogardfrom Worcester Red Sox.",
-      "player": "Nick Sogard"
-    },
-    {
-      "date": "2025-09-03",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsclaimed 1BLogan Davidsonoff waivers fromHouston Astros.",
-      "player": "Logan Davidson"
-    },
-    {
-      "date": "2025-09-03",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsrecalled RHPCaden Danafrom Salt Lake Bees.",
-      "player": "Caden Dana"
-    },
-    {
-      "date": "2025-09-03",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned RHPChase Silsethto Salt Lake Bees.",
-      "player": "Chase Silseth"
-    },
-    {
-      "date": "2025-09-03",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned LFChas McCormickto Sugar Land Space Cowboys.",
-      "player": "Chas McCormick"
-    },
-    {
-      "date": "2025-09-03",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned LHPReiver Sanmartinto Louisville Bats.",
-      "player": "Reiver Sanmartin"
-    },
-    {
-      "date": "2025-09-03",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPSauryn Laoto Rochester Red Wings.",
-      "player": "Sauryn Lao"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent LHPTom Cosgroveoutright to Iowa Cubs.",
+      "player": "Tom Cosgrove"
     },
     {
       "date": "2025-09-03",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesoptioned LHPRyan Rolisonto Albuquerque Isotopes.",
       "player": "Ryan Rolison"
+    },
+    {
+      "date": "2025-09-03",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPLyon Richardsonfrom Louisville Bats.",
+      "player": "Lyon Richardson"
     }
   ]
 }
