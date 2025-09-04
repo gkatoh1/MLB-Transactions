@@ -1,6 +1,24 @@
 {
-  "last_updated": "2025-09-04T22:22:15.945239",
+  "last_updated": "2025-09-04T23:21:44.338037",
   "transactions": [
+    {
+      "date": "2025-09-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated 1BLogan Davidson.",
+      "player": "Logan Davidson"
+    },
+    {
+      "date": "2025-09-04",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated RHPAlexis Díazfor assignment.",
+      "player": "Alexis Díaz"
+    },
+    {
+      "date": "2025-09-04",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesreleased RHPCal Quantrill.",
+      "player": "Cal Quantrill"
+    },
     {
       "date": "2025-09-04",
       "team": "New York Mets",
@@ -69,6 +87,12 @@
     },
     {
       "date": "2025-09-04",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated LFJurickson Profarfrom the paternity list.",
+      "player": "Jurickson Profar"
+    },
+    {
+      "date": "2025-09-04",
       "team": "Houston Astros",
       "details": "Houston Astrossent RFPedro Leónon a rehab assignment to Sugar Land Space Cowboys.",
       "player": "Pedro León"
@@ -78,18 +102,6 @@
       "team": "Chicago White Sox",
       "details": "Chicago White Soxplaced LHPBryan Hudsonon the 15-day injured list. Lower back strain.",
       "player": "Bryan Hudson"
-    },
-    {
-      "date": "2025-09-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsactivated 1BLogan Davidson.",
-      "player": "Logan Davidson"
-    },
-    {
-      "date": "2025-09-04",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersdesignated RHPAlexis Díazfor assignment.",
-      "player": "Alexis Díaz"
     },
     {
       "date": "2025-09-04",
@@ -117,6 +129,12 @@
     },
     {
       "date": "2025-09-04",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned SSLuke Williamsto Gwinnett Stripers.",
+      "player": "Luke Williams"
+    },
+    {
+      "date": "2025-09-04",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersselected the contract of CBen Rortvedtfrom Oklahoma City Comets.",
       "player": "Ben Rortvedt"
@@ -129,9 +147,15 @@
     },
     {
       "date": "2025-09-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned OFNiko Kavadasto Salt Lake Bees.",
-      "player": "Niko Kavadas"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPDaysbel Hernándezfrom Gwinnett Stripers.",
+      "player": "Daysbel Hernández"
+    },
+    {
+      "date": "2025-09-04",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPCorbin Martinoutright to Norfolk Tides.",
+      "player": "Corbin Martin"
     },
     {
       "date": "2025-09-04",
@@ -141,9 +165,15 @@
     },
     {
       "date": "2025-09-04",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent RHPCorbin Martinoutright to Norfolk Tides.",
-      "player": "Corbin Martin"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned OFNiko Kavadasto Salt Lake Bees.",
+      "player": "Niko Kavadas"
+    },
+    {
+      "date": "2025-09-04",
+      "team": "New York Mets",
+      "details": "New York Metsclaimed RHPWander Suerooff waivers fromAtlanta Braves.",
+      "player": "Wander Suero"
     }
   ]
 }
