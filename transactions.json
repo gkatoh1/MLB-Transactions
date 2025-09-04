@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-09-04T20:25:47.881793",
+  "last_updated": "2025-09-04T21:21:19.741927",
   "transactions": [
     {
       "date": "2025-09-04",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxplaced LHPBryan Hudsonon the 15-day injured list. Lower back strain.",
       "player": "Bryan Hudson"
+    },
+    {
+      "date": "2025-09-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated 1BLogan Davidson.",
+      "player": "Logan Davidson"
+    },
+    {
+      "date": "2025-09-04",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPReed Garretton a rehab assignment to Binghamton Rumble Ponies.",
+      "player": "Reed Garrett"
+    },
+    {
+      "date": "2025-09-04",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated LHPJosé Castillo.",
+      "player": "José Castillo"
     },
     {
       "date": "2025-09-04",
@@ -21,15 +39,9 @@
     },
     {
       "date": "2025-09-04",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated LHPJosé Castillo.",
-      "player": "José Castillo"
-    },
-    {
-      "date": "2025-09-04",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansplaced RHPNic Enrighton the 15-day injured list. Right elbow/forearm inflammation.",
-      "player": "Nic Enright"
+      "team": "New York Yankees",
+      "details": "New York Yankeessent LHPBrent Headrickon a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Brent Headrick"
     },
     {
       "date": "2025-09-04",
@@ -45,6 +57,30 @@
     },
     {
       "date": "2025-09-04",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced RHPNic Enrighton the 15-day injured list. Right elbow/forearm inflammation.",
+      "player": "Nic Enright"
+    },
+    {
+      "date": "2025-09-04",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPSeth Lugoon the 15-day injured list retroactive to September 1, 2025. Low back strain.",
+      "player": "Seth Lugo"
+    },
+    {
+      "date": "2025-09-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned OFNiko Kavadasto Salt Lake Bees.",
+      "player": "Niko Kavadas"
+    },
+    {
+      "date": "2025-09-04",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPCorbin Martinoutright to Norfolk Tides.",
+      "player": "Corbin Martin"
+    },
+    {
+      "date": "2025-09-04",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersoptioned LHPTayler Saucedoto Tacoma Rainiers.",
       "player": "Tayler Saucedo"
@@ -57,15 +93,21 @@
     },
     {
       "date": "2025-09-04",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RHPZak Kentfrom Columbus Clippers.",
-      "player": "Zak Kent"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPStephen Kolekfrom Omaha Storm Chasers.",
+      "player": "Stephen Kolek"
     },
     {
       "date": "2025-09-04",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxrecalled RHPJonathan Cannonfrom Charlotte Knights.",
       "player": "Jonathan Cannon"
+    },
+    {
+      "date": "2025-09-04",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPZak Kentfrom Columbus Clippers.",
+      "player": "Zak Kent"
     }
   ]
 }
