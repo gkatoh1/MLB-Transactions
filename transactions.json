@@ -1,29 +1,17 @@
 {
-  "last_updated": "2025-09-05T22:22:26.289138",
+  "last_updated": "2025-09-05T23:21:32.584354",
   "transactions": [
     {
       "date": "2025-09-05",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced RHPKaleb Orton the 15-day injured list. Right elbow inflammation.",
-      "player": "Kaleb Ort"
+      "team": "Unknown Team",
+      "details": "1BWillson Contrerassuspended.",
+      "player": "Willson Contreras"
     },
     {
       "date": "2025-09-05",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackstransferred 1BPavin Smithfrom the 10-day injured list to the 60-day injured list. Left quad strain.",
-      "player": "Pavin Smith"
-    },
-    {
-      "date": "2025-09-05",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated CTyler Stephensonfrom the 10-day injured list.",
-      "player": "Tyler Stephenson"
-    },
-    {
-      "date": "2025-09-05",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesactivated RHPKyle Nicolasfrom the bereavement list.",
-      "player": "Kyle Nicolas"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated CYohel Pozofrom the 7-day injured list.",
+      "player": "Yohel Pozo"
     },
     {
       "date": "2025-09-05",
@@ -45,15 +33,45 @@
     },
     {
       "date": "2025-09-05",
-      "team": "Unknown Team",
-      "details": "1BWillson Contrerassuspended.",
-      "player": "Willson Contreras"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPPablo Lópezfrom the 60-day injured list.",
+      "player": "Pablo López"
     },
     {
       "date": "2025-09-05",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated LFAustin Slaterfrom the 10-day injured list.",
-      "player": "Austin Slater"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent LFKyle Stowerson a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Kyle Stowers"
+    },
+    {
+      "date": "2025-09-05",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsdesignated RHPLuarbert Ariasfor assignment.",
+      "player": "Luarbert Arias"
+    },
+    {
+      "date": "2025-09-05",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced RHPKaleb Orton the 15-day injured list. Right elbow inflammation.",
+      "player": "Kaleb Ort"
+    },
+    {
+      "date": "2025-09-05",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackstransferred 1BPavin Smithfrom the 10-day injured list to the 60-day injured list. Left quad strain.",
+      "player": "Pavin Smith"
+    },
+    {
+      "date": "2025-09-05",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced RHPNick Mearson the 15-day injured list retroactive to September 2, 2025. Back tightness.",
+      "player": "Nick Mears"
+    },
+    {
+      "date": "2025-09-05",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RHPKyle Nicolasfrom the bereavement list.",
+      "player": "Kyle Nicolas"
     },
     {
       "date": "2025-09-05",
@@ -63,9 +81,33 @@
     },
     {
       "date": "2025-09-05",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresplaced LHPNestor Corteson the 15-day injured list retroactive to September 4, 2025. Left biceps tendinitis.",
+      "player": "Nestor Cortes"
+    },
+    {
+      "date": "2025-09-05",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated CTyler Stephensonfrom the 10-day injured list.",
+      "player": "Tyler Stephenson"
+    },
+    {
+      "date": "2025-09-05",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated LFAustin Slaterfrom the 10-day injured list.",
+      "player": "Austin Slater"
+    },
+    {
+      "date": "2025-09-05",
       "team": "Miami Marlins",
-      "details": "Miami Marlinsdesignated RHPLuarbert Ariasfor assignment.",
-      "player": "Luarbert Arias"
+      "details": "Miami Marlinsplaced CFDerek Hillon the 10-day injured list retroactive to September 2, 2025. Right hamstring strain.",
+      "player": "Derek Hill"
+    },
+    {
+      "date": "2025-09-05",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPRyan Brasieron a rehab assignment to Iowa Cubs.",
+      "player": "Ryan Brasier"
     },
     {
       "date": "2025-09-05",
@@ -93,36 +135,6 @@
     },
     {
       "date": "2025-09-05",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsactivated CYohel Pozofrom the 7-day injured list.",
-      "player": "Yohel Pozo"
-    },
-    {
-      "date": "2025-09-05",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced RHPNick Mearson the 15-day injured list retroactive to September 2, 2025. Back tightness.",
-      "player": "Nick Mears"
-    },
-    {
-      "date": "2025-09-05",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent LFKyle Stowerson a rehab assignment to Jacksonville Jumbo Shrimp.",
-      "player": "Kyle Stowers"
-    },
-    {
-      "date": "2025-09-05",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPPablo Lópezfrom the 60-day injured list.",
-      "player": "Pablo López"
-    },
-    {
-      "date": "2025-09-05",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsplaced CFDerek Hillon the 10-day injured list retroactive to September 2, 2025. Right hamstring strain.",
-      "player": "Derek Hill"
-    },
-    {
-      "date": "2025-09-05",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned CJ.C. Escarrato Scranton/Wilkes-Barre RailRiders.",
       "player": "J.C. Escarra"
@@ -135,45 +147,33 @@
     },
     {
       "date": "2025-09-05",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of RFDominic Fletcherfrom Charlotte Knights.",
-      "player": "Dominic Fletcher"
-    },
-    {
-      "date": "2025-09-05",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned RHPElvin Rodríguezto Reno Aces.",
-      "player": "Elvin Rodríguez"
-    },
-    {
-      "date": "2025-09-05",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled LHPJosh Simpsonfrom Jacksonville Jumbo Shrimp.",
-      "player": "Josh Simpson"
-    },
-    {
-      "date": "2025-09-05",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsrecalled CJhonny Peredafrom St. Paul Saints.",
       "player": "Jhonny Pereda"
     },
     {
       "date": "2025-09-05",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned 2BCésar Prietoto Memphis Redbirds.",
-      "player": "César Prieto"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPDillon Tateto Buffalo Bisons.",
+      "player": "Dillon Tate"
     },
     {
       "date": "2025-09-05",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPKodai Sengato Syracuse Mets.",
-      "player": "Kodai Senga"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksclaimed RHPElvin Rodríguezoff waivers fromBaltimore Orioles.",
+      "player": "Elvin Rodríguez"
     },
     {
       "date": "2025-09-05",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
-      "player": "Hayden Senger"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPCam Sandersto Indianapolis Indians.",
+      "player": "Cam Sanders"
+    },
+    {
+      "date": "2025-09-05",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of RFDominic Fletcherfrom Charlotte Knights.",
+      "player": "Dominic Fletcher"
     },
     {
       "date": "2025-09-05",
@@ -183,9 +183,15 @@
     },
     {
       "date": "2025-09-05",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksclaimed RHPElvin Rodríguezoff waivers fromBaltimore Orioles.",
-      "player": "Elvin Rodríguez"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent LHPJoe La Sorsaoutright to Louisville Bats.",
+      "player": "Joe La Sorsa"
+    },
+    {
+      "date": "2025-09-05",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned 1BTim Elkoto Charlotte Knights.",
+      "player": "Tim Elko"
     },
     {
       "date": "2025-09-05",
@@ -207,21 +213,27 @@
     },
     {
       "date": "2025-09-05",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled RHPRon Marinacciofrom El Paso Chihuahuas.",
+      "player": "Ron Marinaccio"
+    },
+    {
+      "date": "2025-09-05",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned CWill Banfieldto Louisville Bats.",
       "player": "Will Banfield"
     },
     {
       "date": "2025-09-05",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent LHPJoe La Sorsaoutright to Louisville Bats.",
-      "player": "Joe La Sorsa"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned CFDaShawn Keirsey Jr.to St. Paul Saints.",
+      "player": "DaShawn Keirsey Jr."
     },
     {
       "date": "2025-09-05",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned 1BTim Elkoto Charlotte Knights.",
-      "player": "Tim Elko"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned 2BCésar Prietoto Memphis Redbirds.",
+      "player": "César Prieto"
     },
     {
       "date": "2025-09-05",
@@ -237,24 +249,6 @@
     },
     {
       "date": "2025-09-05",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPDillon Tateto Buffalo Bisons.",
-      "player": "Dillon Tate"
-    },
-    {
-      "date": "2025-09-05",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned CFDaShawn Keirsey Jr.to St. Paul Saints.",
-      "player": "DaShawn Keirsey Jr."
-    },
-    {
-      "date": "2025-09-05",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPCam Sandersto Indianapolis Indians.",
-      "player": "Cam Sanders"
-    },
-    {
-      "date": "2025-09-05",
       "team": "Miami Marlins",
       "details": "Miami Marlinsselected the contract of 2BJack Winklerfrom Jacksonville Jumbo Shrimp.",
       "player": "Jack Winkler"
@@ -264,6 +258,30 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysrecalled RHPBraydon Fisherfrom Buffalo Bisons.",
       "player": "Braydon Fisher"
+    },
+    {
+      "date": "2025-09-05",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPKodai Sengato Syracuse Mets.",
+      "player": "Kodai Senga"
+    },
+    {
+      "date": "2025-09-05",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
+      "player": "Hayden Senger"
+    },
+    {
+      "date": "2025-09-05",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPElvin Rodríguezto Reno Aces.",
+      "player": "Elvin Rodríguez"
+    },
+    {
+      "date": "2025-09-05",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled LHPJosh Simpsonfrom Jacksonville Jumbo Shrimp.",
+      "player": "Josh Simpson"
     }
   ]
 }
