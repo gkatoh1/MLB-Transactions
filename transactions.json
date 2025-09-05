@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-09-05T16:28:12.548948",
+  "last_updated": "2025-09-05T17:20:46.441377",
   "transactions": [
+    {
+      "date": "2025-09-05",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated LFAustin Slaterfrom the 10-day injured list.",
+      "player": "Austin Slater"
+    },
     {
       "date": "2025-09-05",
       "team": "Unknown Team",
@@ -10,20 +16,14 @@
     {
       "date": "2025-09-05",
       "team": "Minnesota Twins",
-      "details": "RHPNoah Davisroster status changed byMinnesota Twins.",
-      "player": "Noah Davis"
-    },
-    {
-      "date": "2025-09-05",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated LFAustin Slaterfrom the 10-day injured list.",
-      "player": "Austin Slater"
+      "details": "Minnesota Twinsactivated RHPPablo Lópezfrom the 60-day injured list.",
+      "player": "Pablo López"
     },
     {
       "date": "2025-09-05",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPPablo Lópezfrom the 60-day injured list.",
-      "player": "Pablo López"
+      "details": "RHPNoah Davisroster status changed byMinnesota Twins.",
+      "player": "Noah Davis"
     },
     {
       "date": "2025-09-05",
