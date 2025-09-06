@@ -1,36 +1,6 @@
 {
-  "last_updated": "2025-09-06T21:19:33.517158",
+  "last_updated": "2025-09-06T22:21:00.731819",
   "transactions": [
-    {
-      "date": "2025-09-06",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent RHPGrant Andersonon a rehab assignment to Nashville Sounds.",
-      "player": "Grant Anderson"
-    },
-    {
-      "date": "2025-09-06",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated CFJake Meyersfrom the 10-day injured list.",
-      "player": "Jake Meyers"
-    },
-    {
-      "date": "2025-09-06",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated RFVictor Robles.",
-      "player": "Victor Robles"
-    },
-    {
-      "date": "2025-09-06",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysplaced RHPBrian Van Belleon the 15-day injured list. Right elbow inflammation.",
-      "player": "Brian Van Belle"
-    },
-    {
-      "date": "2025-09-06",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent RHPGrant Andersonon a rehab assignment to Nashville Sounds.",
-      "player": "Grant Anderson"
-    },
     {
       "date": "2025-09-06",
       "team": "Los Angeles Angels",
@@ -45,15 +15,15 @@
     },
     {
       "date": "2025-09-06",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssent RHPGregory Santoson a rehab assignment to Tacoma Rainiers.",
-      "player": "Gregory Santos"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPGrant Andersonon a rehab assignment to Nashville Sounds.",
+      "player": "Grant Anderson"
     },
     {
       "date": "2025-09-06",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated RHPChris Paddackfrom the bereavement list.",
-      "player": "Chris Paddack"
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated CFJake Meyersfrom the 10-day injured list.",
+      "player": "Jake Meyers"
     },
     {
       "date": "2025-09-06",
@@ -63,39 +33,51 @@
     },
     {
       "date": "2025-09-06",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPSean Reynoldsto El Paso Chihuahuas.",
-      "player": "Sean Reynolds"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPGregory Santoson a rehab assignment to Tacoma Rainiers.",
+      "player": "Gregory Santos"
     },
     {
       "date": "2025-09-06",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsselected the contract of RHPChristian Roafrom Jacksonville Jumbo Shrimp.",
-      "player": "Christian Roa"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPGrant Andersonon a rehab assignment to Nashville Sounds.",
+      "player": "Grant Anderson"
     },
     {
       "date": "2025-09-06",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned LFJacob Meltonto Sugar Land Space Cowboys.",
-      "player": "Jacob Melton"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RFVictor Robles.",
+      "player": "Victor Robles"
+    },
+    {
+      "date": "2025-09-06",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPChris Paddackfrom the bereavement list.",
+      "player": "Chris Paddack"
     },
     {
       "date": "2025-09-06",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled LHPJoe Rockfrom Durham Bulls.",
-      "player": "Joe Rock"
-    },
-    {
-      "date": "2025-09-06",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled RHPLogan VanWeyfrom Sugar Land Space Cowboys.",
-      "player": "Logan VanWey"
+      "details": "Tampa Bay Raysplaced RHPBrian Van Belleon the 15-day injured list. Right elbow inflammation.",
+      "player": "Brian Van Belle"
     },
     {
       "date": "2025-09-06",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersoptioned RFJustyn-Henry Malloyto Toledo Mud Hens.",
       "player": "Justyn-Henry Malloy"
+    },
+    {
+      "date": "2025-09-06",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled RHPRandy Vásquezfrom El Paso Chihuahuas.",
+      "player": "Randy Vásquez"
+    },
+    {
+      "date": "2025-09-06",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPSean Reynoldsto El Paso Chihuahuas.",
+      "player": "Sean Reynolds"
     },
     {
       "date": "2025-09-06",
@@ -111,21 +93,39 @@
     },
     {
       "date": "2025-09-06",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent SSLuke Williamsoutright to Gwinnett Stripers.",
-      "player": "Luke Williams"
-    },
-    {
-      "date": "2025-09-06",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsrecalled RHPChase Silsethfrom Salt Lake Bees.",
       "player": "Chase Silseth"
     },
     {
       "date": "2025-09-06",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled RHPRandy Vásquezfrom El Paso Chihuahuas.",
-      "player": "Randy Vásquez"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled LHPJoe Rockfrom Durham Bulls.",
+      "player": "Joe Rock"
+    },
+    {
+      "date": "2025-09-06",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of RHPChristian Roafrom Jacksonville Jumbo Shrimp.",
+      "player": "Christian Roa"
+    },
+    {
+      "date": "2025-09-06",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent SSLuke Williamsoutright to Gwinnett Stripers.",
+      "player": "Luke Williams"
+    },
+    {
+      "date": "2025-09-06",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LFJacob Meltonto Sugar Land Space Cowboys.",
+      "player": "Jacob Melton"
+    },
+    {
+      "date": "2025-09-06",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPLogan VanWeyfrom Sugar Land Space Cowboys.",
+      "player": "Logan VanWey"
     }
   ]
 }
