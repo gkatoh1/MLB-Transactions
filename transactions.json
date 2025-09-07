@@ -1,6 +1,36 @@
 {
-  "last_updated": "2025-09-07T21:19:49.023373",
+  "last_updated": "2025-09-07T22:21:25.273239",
   "transactions": [
+    {
+      "date": "2025-09-07",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated SSChad Stevensfor assignment.",
+      "player": "Chad Stevens"
+    },
+    {
+      "date": "2025-09-07",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsdesignated RHPBrooks Kriskefor assignment.",
+      "player": "Brooks Kriske"
+    },
+    {
+      "date": "2025-09-07",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RFTyler O'Neillon a rehab assignment to Chesapeake Baysox.",
+      "player": "Tyler O'Neill"
+    },
+    {
+      "date": "2025-09-07",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPJustin Garzafor assignment.",
+      "player": "Justin Garza"
+    },
+    {
+      "date": "2025-09-07",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent LHPCole Raganson a rehab assignment to Omaha Storm Chasers.",
+      "player": "Cole Ragans"
+    },
     {
       "date": "2025-09-07",
       "team": "New York Mets",
@@ -15,9 +45,9 @@
     },
     {
       "date": "2025-09-07",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersdesignated RHPCaleb Boushleyfor assignment.",
-      "player": "Caleb Boushley"
+      "team": "New York Mets",
+      "details": "New York Metsactivated RHPBrandon Sproat.",
+      "player": "Brandon Sproat"
     },
     {
       "date": "2025-09-07",
@@ -39,51 +69,21 @@
     },
     {
       "date": "2025-09-07",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent LHPCole Raganson a rehab assignment to Omaha Storm Chasers.",
-      "player": "Cole Ragans"
-    },
-    {
-      "date": "2025-09-07",
-      "team": "New York Mets",
-      "details": "New York Metsactivated RHPBrandon Sproat.",
-      "player": "Brandon Sproat"
-    },
-    {
-      "date": "2025-09-07",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated RHPJustin Garzafor assignment.",
-      "player": "Justin Garza"
-    },
-    {
-      "date": "2025-09-07",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsdesignated SSChad Stevensfor assignment.",
-      "player": "Chad Stevens"
-    },
-    {
-      "date": "2025-09-07",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsdesignated RHPBrooks Kriskefor assignment.",
-      "player": "Brooks Kriske"
-    },
-    {
-      "date": "2025-09-07",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent RFTyler O'Neillon a rehab assignment to Chesapeake Baysox.",
-      "player": "Tyler O'Neill"
-    },
-    {
-      "date": "2025-09-07",
       "team": "Texas Rangers",
-      "details": "Texas Rangersselected the contract of RHPCarl Edwards Jr.from Round Rock Express.",
-      "player": "Carl Edwards Jr."
+      "details": "Texas Rangersdesignated RHPCaleb Boushleyfor assignment.",
+      "player": "Caleb Boushley"
     },
     {
       "date": "2025-09-07",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned RHPBryce Jarvisto Reno Aces.",
-      "player": "Bryce Jarvis"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPKevin Hergetto Syracuse Mets.",
+      "player": "Kevin Herget"
+    },
+    {
+      "date": "2025-09-07",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPBrandon Sproatfrom Syracuse Mets.",
+      "player": "Brandon Sproat"
     },
     {
       "date": "2025-09-07",
@@ -93,9 +93,9 @@
     },
     {
       "date": "2025-09-07",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled LFCarson McCuskerfrom St. Paul Saints.",
-      "player": "Carson McCusker"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPCole Sulserfrom Durham Bulls.",
+      "player": "Cole Sulser"
     },
     {
       "date": "2025-09-07",
@@ -111,6 +111,12 @@
     },
     {
       "date": "2025-09-07",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPChase Silsethto Salt Lake Bees.",
+      "player": "Chase Silseth"
+    },
+    {
+      "date": "2025-09-07",
       "team": "New York Mets",
       "details": "New York Metsoptioned RHPWander Sueroto Syracuse Mets.",
       "player": "Wander Suero"
@@ -118,32 +124,32 @@
     {
       "date": "2025-09-07",
       "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled LFCarson McCuskerfrom St. Paul Saints.",
+      "player": "Carson McCusker"
+    },
+    {
+      "date": "2025-09-07",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersselected the contract of RHPCarl Edwards Jr.from Round Rock Express.",
+      "player": "Carl Edwards Jr."
+    },
+    {
+      "date": "2025-09-07",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPBryce Jarvisto Reno Aces.",
+      "player": "Bryce Jarvis"
+    },
+    {
+      "date": "2025-09-07",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed RHPAlexis Díazoff waivers fromLos Angeles Dodgers.",
+      "player": "Alexis Díaz"
+    },
+    {
+      "date": "2025-09-07",
+      "team": "Minnesota Twins",
       "details": "Minnesota Twinsrecalled RHPPierson Ohlfrom St. Paul Saints.",
       "player": "Pierson Ohl"
-    },
-    {
-      "date": "2025-09-07",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned RHPChase Silsethto Salt Lake Bees.",
-      "player": "Chase Silseth"
-    },
-    {
-      "date": "2025-09-07",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPCole Sulserfrom Durham Bulls.",
-      "player": "Cole Sulser"
-    },
-    {
-      "date": "2025-09-07",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPKevin Hergetto Syracuse Mets.",
-      "player": "Kevin Herget"
-    },
-    {
-      "date": "2025-09-07",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPBrandon Sproatfrom Syracuse Mets.",
-      "player": "Brandon Sproat"
     }
   ]
 }
