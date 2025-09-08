@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-09-08T21:21:42.700552",
+  "last_updated": "2025-09-08T22:22:44.273595",
   "transactions": [
-    {
-      "date": "2025-09-08",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated CSandy León.",
-      "player": "Sandy León"
-    },
-    {
-      "date": "2025-09-08",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsdesignated 2BGarrett Hampsonfor assignment.",
-      "player": "Garrett Hampson"
-    },
     {
       "date": "2025-09-08",
       "team": "Miami Marlins",
@@ -21,9 +9,15 @@
     },
     {
       "date": "2025-09-08",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliestransferred RHPDaniel Robertfrom the 15-day injured list to the 60-day injured list.",
+      "player": "Daniel Robert"
+    },
+    {
+      "date": "2025-09-08",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPAlexis Díaz.",
-      "player": "Alexis Díaz"
+      "details": "Atlanta Bravesactivated CSandy León.",
+      "player": "Sandy León"
     },
     {
       "date": "2025-09-08",
@@ -39,12 +33,6 @@
     },
     {
       "date": "2025-09-08",
-      "team": "New York Mets",
-      "details": "New York Metsplaced CLuis Torrenson the 10-day injured list retroactive to September 7, 2025. Right forearm contusion.",
-      "player": "Luis Torrens"
-    },
-    {
-      "date": "2025-09-08",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersactivated RHPGrant Andersonfrom the 15-day injured list.",
       "player": "Grant Anderson"
@@ -54,6 +42,48 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesplaced CSean Murphyon the 10-day injured list. Right hip labral tear.",
       "player": "Sean Murphy"
+    },
+    {
+      "date": "2025-09-08",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPDaniel Palenciaon the 15-day injured list. Right shoulder strain.",
+      "player": "Daniel Palencia"
+    },
+    {
+      "date": "2025-09-08",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPAlexis Díaz.",
+      "player": "Alexis Díaz"
+    },
+    {
+      "date": "2025-09-08",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsdesignated 2BGarrett Hampsonfor assignment.",
+      "player": "Garrett Hampson"
+    },
+    {
+      "date": "2025-09-08",
+      "team": "New York Mets",
+      "details": "New York Metsplaced CLuis Torrenson the 10-day injured list retroactive to September 7, 2025. Right forearm contusion.",
+      "player": "Luis Torrens"
+    },
+    {
+      "date": "2025-09-08",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPAndre Granilloto Memphis Redbirds.",
+      "player": "Andre Granillo"
+    },
+    {
+      "date": "2025-09-08",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled CHayden Sengerfrom Syracuse Mets.",
+      "player": "Hayden Senger"
+    },
+    {
+      "date": "2025-09-08",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesselected the contract of 2BDonovan Waltonfrom Lehigh Valley IronPigs.",
+      "player": "Donovan Walton"
     },
     {
       "date": "2025-09-08",
@@ -69,6 +99,12 @@
     },
     {
       "date": "2025-09-08",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsselected the contract of LHPNick Raquetfrom Memphis Redbirds.",
+      "player": "Nick Raquet"
+    },
+    {
+      "date": "2025-09-08",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesrecalled RHPConnor Seaboldfrom Gwinnett Stripers.",
       "player": "Connor Seabold"
@@ -81,27 +117,15 @@
     },
     {
       "date": "2025-09-08",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled CHayden Sengerfrom Syracuse Mets.",
-      "player": "Hayden Senger"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled 1BOtto Kempfrom Lehigh Valley IronPigs.",
+      "player": "Otto Kemp"
     },
     {
       "date": "2025-09-08",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesrecalled RHPDane Dunningfrom Gwinnett Stripers.",
       "player": "Dane Dunning"
-    },
-    {
-      "date": "2025-09-08",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPAndre Granilloto Memphis Redbirds.",
-      "player": "Andre Granillo"
-    },
-    {
-      "date": "2025-09-08",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsselected the contract of LHPNick Raquetfrom Memphis Redbirds.",
-      "player": "Nick Raquet"
     },
     {
       "date": "2025-09-08",
@@ -117,9 +141,9 @@
     },
     {
       "date": "2025-09-08",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled 1BOtto Kempfrom Lehigh Valley IronPigs.",
-      "player": "Otto Kemp"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPEthan Robertsfrom Iowa Cubs.",
+      "player": "Ethan Roberts"
     }
   ]
 }
