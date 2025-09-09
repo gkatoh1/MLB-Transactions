@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-09-09T18:31:44.633645",
+  "last_updated": "2025-09-09T19:18:47.315170",
   "transactions": [
     {
       "date": "2025-09-09",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalssent 2BBrendan Donovanon a rehab assignment to Springfield Cardinals.",
       "player": "Brendan Donovan"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "New York Mets",
+      "details": "New York Metsactivated CFJose Sirifrom the 60-day injured list.",
+      "player": "Jose Siri"
     },
     {
       "date": "2025-09-09",
@@ -21,9 +27,39 @@
     },
     {
       "date": "2025-09-09",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPWander Suerofor assignment.",
+      "player": "Wander Suero"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced SSBo Bichetteon the 10-day injured list retroactive to September 7, 2025. Left knee sprain.",
+      "player": "Bo Bichette"
+    },
+    {
+      "date": "2025-09-09",
       "team": "Unknown Team",
       "details": "SSCarson Williamschanged number to 7.",
       "player": "Carson Williams"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPJustin Garzaoutright to Syracuse Mets.",
+      "player": "Justin Garza"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned LFJared Youngto Syracuse Mets.",
+      "player": "Jared Young"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LFJoey Loperfidofrom Buffalo Bisons.",
+      "player": "Joey Loperfido"
     }
   ]
 }
