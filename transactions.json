@@ -1,23 +1,17 @@
 {
-  "last_updated": "2025-09-09T19:18:47.315170",
+  "last_updated": "2025-09-09T20:26:11.038393",
   "transactions": [
-    {
-      "date": "2025-09-09",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssent 2BBrendan Donovanon a rehab assignment to Springfield Cardinals.",
-      "player": "Brendan Donovan"
-    },
-    {
-      "date": "2025-09-09",
-      "team": "New York Mets",
-      "details": "New York Metsactivated CFJose Sirifrom the 60-day injured list.",
-      "player": "Jose Siri"
-    },
     {
       "date": "2025-09-09",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalssent RHPSteven Cruzon a rehab assignment to Omaha Storm Chasers.",
       "player": "Steven Cruz"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced SSBo Bichetteon the 10-day injured list retroactive to September 7, 2025. Left knee sprain.",
+      "player": "Bo Bichette"
     },
     {
       "date": "2025-09-09",
@@ -33,15 +27,45 @@
     },
     {
       "date": "2025-09-09",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced SSBo Bichetteon the 10-day injured list retroactive to September 7, 2025. Left knee sprain.",
-      "player": "Bo Bichette"
-    },
-    {
-      "date": "2025-09-09",
       "team": "Unknown Team",
       "details": "SSCarson Williamschanged number to 7.",
       "player": "Carson Williams"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent 2BBrendan Donovanon a rehab assignment to Springfield Cardinals.",
+      "player": "Brendan Donovan"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "New York Mets",
+      "details": "New York Metsactivated CFJose Sirifrom the 60-day injured list.",
+      "player": "Jose Siri"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPJ.P. Francefrom Sugar Land Space Cowboys.",
+      "player": "J.P. France"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysclaimed RHPCaleb Boushleyoff waivers fromTexas Rangers.",
+      "player": "Caleb Boushley"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LFJoey Loperfidofrom Buffalo Bisons.",
+      "player": "Joey Loperfido"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPLogan VanWeyto Sugar Land Space Cowboys.",
+      "player": "Logan VanWey"
     },
     {
       "date": "2025-09-09",
@@ -54,12 +78,6 @@
       "team": "New York Mets",
       "details": "New York Metsoptioned LFJared Youngto Syracuse Mets.",
       "player": "Jared Young"
-    },
-    {
-      "date": "2025-09-09",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled LFJoey Loperfidofrom Buffalo Bisons.",
-      "player": "Joey Loperfido"
     }
   ]
 }
