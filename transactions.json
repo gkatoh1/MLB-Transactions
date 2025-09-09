@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-09-09T20:26:11.038393",
+  "last_updated": "2025-09-09T21:20:43.603954",
   "transactions": [
-    {
-      "date": "2025-09-09",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent RHPSteven Cruzon a rehab assignment to Omaha Storm Chasers.",
-      "player": "Steven Cruz"
-    },
     {
       "date": "2025-09-09",
       "team": "Toronto Blue Jays",
@@ -15,15 +9,9 @@
     },
     {
       "date": "2025-09-09",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsactivated 1BWillson Contreras.",
-      "player": "Willson Contreras"
-    },
-    {
-      "date": "2025-09-09",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated RHPWander Suerofor assignment.",
-      "player": "Wander Suero"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated 1BRhys Hoskinsfrom the 10-day injured list.",
+      "player": "Rhys Hoskins"
     },
     {
       "date": "2025-09-09",
@@ -39,27 +27,75 @@
     },
     {
       "date": "2025-09-09",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced LHPBailey Hornon the paternity list.",
+      "player": "Bailey Horn"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated LHPAlex Vesiafrom the 15-day injured list.",
+      "player": "Alex Vesia"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent RHPSteven Cruzon a rehab assignment to Omaha Storm Chasers.",
+      "player": "Steven Cruz"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated 1BWillson Contreras.",
+      "player": "Willson Contreras"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPWander Suerofor assignment.",
+      "player": "Wander Suero"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RFTyler O'Neillon a rehab assignment to Norfolk Tides.",
+      "player": "Tyler O'Neill"
+    },
+    {
+      "date": "2025-09-09",
       "team": "New York Mets",
       "details": "New York Metsactivated CFJose Sirifrom the 60-day injured list.",
       "player": "Jose Siri"
     },
     {
       "date": "2025-09-09",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled RHPJ.P. Francefrom Sugar Land Space Cowboys.",
-      "player": "J.P. France"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated 2BJonathan Indiafrom the 10-day injured list.",
+      "player": "Jonathan India"
     },
     {
       "date": "2025-09-09",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysclaimed RHPCaleb Boushleyoff waivers fromTexas Rangers.",
-      "player": "Caleb Boushley"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RFKyle Tuckeron the 10-day injured list retroactive to September 6, 2025. Left calf strain.",
+      "player": "Kyle Tucker"
     },
     {
       "date": "2025-09-09",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled LFJoey Loperfidofrom Buffalo Bisons.",
-      "player": "Joey Loperfido"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPMichael Wachaon the 7-day injured list retroactive to September 8, 2025. Concussion.",
+      "player": "Michael Wacha"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RFTyler O'Neillon a rehab assignment to Norfolk Tides.",
+      "player": "Tyler O'Neill"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPBen Caspariusto Oklahoma City Comets.",
+      "player": "Ben Casparius"
     },
     {
       "date": "2025-09-09",
@@ -69,15 +105,63 @@
     },
     {
       "date": "2025-09-09",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPJustin Garzaoutright to Syracuse Mets.",
-      "player": "Justin Garza"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned 2BAnthony Seiglerto Nashville Sounds.",
+      "player": "Anthony Seigler"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPCarlos Rodriguezto Nashville Sounds.",
+      "player": "Carlos Rodriguez"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPJ.P. Francefrom Sugar Land Space Cowboys.",
+      "player": "J.P. France"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPChad Patrickfrom Nashville Sounds.",
+      "player": "Chad Patrick"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled LHPDrew Sommersfrom Toledo Mud Hens.",
+      "player": "Drew Sommers"
     },
     {
       "date": "2025-09-09",
       "team": "New York Mets",
       "details": "New York Metsoptioned LFJared Youngto Syracuse Mets.",
       "player": "Jared Young"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled CMoisés Ballesterosfrom Iowa Cubs.",
+      "player": "Moisés Ballesteros"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPJustin Garzaoutright to Syracuse Mets.",
+      "player": "Justin Garza"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LFJoey Loperfidofrom Buffalo Bisons.",
+      "player": "Joey Loperfido"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysclaimed RHPCaleb Boushleyoff waivers fromTexas Rangers.",
+      "player": "Caleb Boushley"
     }
   ]
 }
