@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-09-09T15:27:20.210302",
+  "last_updated": "2025-09-09T16:31:09.974173",
   "transactions": [
+    {
+      "date": "2025-09-09",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent RHPSteven Cruzon a rehab assignment to Omaha Storm Chasers.",
+      "player": "Steven Cruz"
+    },
     {
       "date": "2025-09-09",
       "team": "Unknown Team",
       "details": "SSCarson Williamschanged number to 7.",
       "player": "Carson Williams"
+    },
+    {
+      "date": "2025-09-09",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent 2BBrendan Donovanon a rehab assignment to Springfield Cardinals.",
+      "player": "Brendan Donovan"
     }
   ]
 }
