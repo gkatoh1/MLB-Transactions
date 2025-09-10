@@ -1,11 +1,35 @@
 {
-  "last_updated": "2025-09-10T20:26:06.248647",
+  "last_updated": "2025-09-10T21:21:14.407118",
   "transactions": [
     {
       "date": "2025-09-10",
       "team": "Miami Marlins",
       "details": "Miami Marlinssent 3BGraham Pauleyon a rehab assignment to Jacksonville Jumbo Shrimp.",
       "player": "Graham Pauley"
+    },
+    {
+      "date": "2025-09-10",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent LHPJohn Kingon a rehab assignment to Springfield Cardinals.",
+      "player": "John King"
+    },
+    {
+      "date": "2025-09-10",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated 2BTommy Edmanfrom the 10-day injured list.",
+      "player": "Tommy Edman"
+    },
+    {
+      "date": "2025-09-10",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced RHPLuis Garciaon the 15-day injured list. Right elbow discomfort.",
+      "player": "Luis Garcia"
+    },
+    {
+      "date": "2025-09-10",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPJameson Taillonfrom the 15-day injured list.",
+      "player": "Jameson Taillon"
     },
     {
       "date": "2025-09-10",
@@ -27,21 +51,21 @@
     },
     {
       "date": "2025-09-10",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssent LHPJohn Kingon a rehab assignment to Springfield Cardinals.",
-      "player": "John King"
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPMitch Spencefrom Las Vegas Aviators.",
+      "player": "Mitch Spence"
     },
     {
       "date": "2025-09-10",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPChris Murphyto Worcester Red Sox.",
-      "player": "Chris Murphy"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPEthan Robertsto Iowa Cubs.",
+      "player": "Ethan Roberts"
     },
     {
       "date": "2025-09-10",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled LHPKyle Harrisonfrom Worcester Red Sox.",
-      "player": "Kyle Harrison"
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPNick Hernandezfrom Sugar Land Space Cowboys.",
+      "player": "Nick Hernandez"
     },
     {
       "date": "2025-09-10",
@@ -51,21 +75,33 @@
     },
     {
       "date": "2025-09-10",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled LHPKyle Harrisonfrom Worcester Red Sox.",
+      "player": "Kyle Harrison"
+    },
+    {
+      "date": "2025-09-10",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned CFJustin Deanto Oklahoma City Comets.",
+      "player": "Justin Dean"
+    },
+    {
+      "date": "2025-09-10",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxrecalled RHPSean Burkefrom Charlotte Knights.",
       "player": "Sean Burke"
     },
     {
       "date": "2025-09-10",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPMitch Spencefrom Las Vegas Aviators.",
-      "player": "Mitch Spence"
-    },
-    {
-      "date": "2025-09-10",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned 3BBryan Ramosto Charlotte Knights.",
       "player": "Bryan Ramos"
+    },
+    {
+      "date": "2025-09-10",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPChris Murphyto Worcester Red Sox.",
+      "player": "Chris Murphy"
     }
   ]
 }
