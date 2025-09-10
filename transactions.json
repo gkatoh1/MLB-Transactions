@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10T21:21:14.407118",
+  "last_updated": "2025-09-10T22:22:24.356280",
   "transactions": [
     {
       "date": "2025-09-10",
@@ -15,9 +15,21 @@
     },
     {
       "date": "2025-09-10",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent CGary Sánchezon a rehab assignment to Norfolk Tides.",
+      "player": "Gary Sánchez"
+    },
+    {
+      "date": "2025-09-10",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersactivated 2BTommy Edmanfrom the 10-day injured list.",
       "player": "Tommy Edman"
+    },
+    {
+      "date": "2025-09-10",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPPaul Sewaldon a rehab assignment to Toledo Mud Hens.",
+      "player": "Paul Sewald"
     },
     {
       "date": "2025-09-10",
@@ -57,9 +69,9 @@
     },
     {
       "date": "2025-09-10",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned RHPEthan Robertsto Iowa Cubs.",
-      "player": "Ethan Roberts"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPChris Murphyto Worcester Red Sox.",
+      "player": "Chris Murphy"
     },
     {
       "date": "2025-09-10",
@@ -69,27 +81,21 @@
     },
     {
       "date": "2025-09-10",
-      "team": "Athletics",
-      "details": "Athleticsoptioned RHPScott McGoughto Las Vegas Aviators.",
-      "player": "Scott McGough"
-    },
-    {
-      "date": "2025-09-10",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled LHPKyle Harrisonfrom Worcester Red Sox.",
-      "player": "Kyle Harrison"
-    },
-    {
-      "date": "2025-09-10",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersoptioned CFJustin Deanto Oklahoma City Comets.",
-      "player": "Justin Dean"
-    },
-    {
-      "date": "2025-09-10",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxrecalled RHPSean Burkefrom Charlotte Knights.",
       "player": "Sean Burke"
+    },
+    {
+      "date": "2025-09-10",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPEthan Robertsto Iowa Cubs.",
+      "player": "Ethan Roberts"
+    },
+    {
+      "date": "2025-09-10",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPScott McGoughto Las Vegas Aviators.",
+      "player": "Scott McGough"
     },
     {
       "date": "2025-09-10",
@@ -99,9 +105,15 @@
     },
     {
       "date": "2025-09-10",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned CFJustin Deanto Oklahoma City Comets.",
+      "player": "Justin Dean"
+    },
+    {
+      "date": "2025-09-10",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPChris Murphyto Worcester Red Sox.",
-      "player": "Chris Murphy"
+      "details": "Boston Red Soxrecalled LHPKyle Harrisonfrom Worcester Red Sox.",
+      "player": "Kyle Harrison"
     }
   ]
 }
