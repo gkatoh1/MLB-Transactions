@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10T19:19:00.776169",
+  "last_updated": "2025-09-10T20:26:06.248647",
   "transactions": [
     {
       "date": "2025-09-10",
@@ -9,15 +9,27 @@
     },
     {
       "date": "2025-09-10",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent 3BGraham Pauleyon a rehab assignment to Jacksonville Jumbo Shrimp.",
-      "player": "Graham Pauley"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated 3BMiguel Vargasfrom the 10-day injured list.",
+      "player": "Miguel Vargas"
     },
     {
       "date": "2025-09-10",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxdesignated RHPDan Altavillafor assignment.",
       "player": "Dan Altavilla"
+    },
+    {
+      "date": "2025-09-10",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent 3BNolan Arenadoon a rehab assignment to Springfield Cardinals.",
+      "player": "Nolan Arenado"
+    },
+    {
+      "date": "2025-09-10",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent LHPJohn Kingon a rehab assignment to Springfield Cardinals.",
+      "player": "John King"
     },
     {
       "date": "2025-09-10",
@@ -33,6 +45,12 @@
     },
     {
       "date": "2025-09-10",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPScott McGoughto Las Vegas Aviators.",
+      "player": "Scott McGough"
+    },
+    {
+      "date": "2025-09-10",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxrecalled RHPSean Burkefrom Charlotte Knights.",
       "player": "Sean Burke"
@@ -40,14 +58,14 @@
     {
       "date": "2025-09-10",
       "team": "Athletics",
-      "details": "Athleticsoptioned RHPScott McGoughto Las Vegas Aviators.",
-      "player": "Scott McGough"
+      "details": "Athleticsrecalled RHPMitch Spencefrom Las Vegas Aviators.",
+      "player": "Mitch Spence"
     },
     {
       "date": "2025-09-10",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPMitch Spencefrom Las Vegas Aviators.",
-      "player": "Mitch Spence"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned 3BBryan Ramosto Charlotte Knights.",
+      "player": "Bryan Ramos"
     }
   ]
 }
