@@ -1,6 +1,24 @@
 {
-  "last_updated": "2025-09-10T16:31:10.609134",
+  "last_updated": "2025-09-10T17:20:15.709223",
   "transactions": [
+    {
+      "date": "2025-09-10",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RHPDan Altavillafor assignment.",
+      "player": "Dan Altavilla"
+    },
+    {
+      "date": "2025-09-10",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPMitch Spencefrom Las Vegas Aviators.",
+      "player": "Mitch Spence"
+    },
+    {
+      "date": "2025-09-10",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPSean Burkefrom Charlotte Knights.",
+      "player": "Sean Burke"
+    },
     {
       "date": "2025-09-10",
       "team": "Athletics",
@@ -9,9 +27,15 @@
     },
     {
       "date": "2025-09-10",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPMitch Spencefrom Las Vegas Aviators.",
-      "player": "Mitch Spence"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled LHPKyle Harrisonfrom Worcester Red Sox.",
+      "player": "Kyle Harrison"
+    },
+    {
+      "date": "2025-09-10",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPChris Murphyto Worcester Red Sox.",
+      "player": "Chris Murphy"
     }
   ]
 }
