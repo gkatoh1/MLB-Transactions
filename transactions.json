@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-09-11T19:18:12.677997",
+  "last_updated": "2025-09-11T20:23:08.091115",
   "transactions": [
     {
       "date": "2025-09-11",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsdesignated RHPSeth Martinezfor assignment.",
-      "player": "Seth Martinez"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPGraham Ashcraftfrom the 15-day injured list.",
+      "player": "Graham Ashcraft"
     },
     {
       "date": "2025-09-11",
@@ -21,15 +21,15 @@
     },
     {
       "date": "2025-09-11",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated RHPChase Burnsfrom the 15-day injured list.",
-      "player": "Chase Burns"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsdesignated RHPSeth Martinezfor assignment.",
+      "player": "Seth Martinez"
     },
     {
       "date": "2025-09-11",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated RHPGraham Ashcraftfrom the 15-day injured list.",
-      "player": "Graham Ashcraft"
+      "details": "Cincinnati Redsactivated RHPChase Burnsfrom the 15-day injured list.",
+      "player": "Chase Burns"
     },
     {
       "date": "2025-09-11",
@@ -52,8 +52,20 @@
     {
       "date": "2025-09-11",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPEric Orzefrom Durham Bulls.",
-      "player": "Eric Orze"
+      "details": "Tampa Bay Raysrecalled RHPJoey Gerberfrom Durham Bulls.",
+      "player": "Joey Gerber"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPLyon Richardsonto Louisville Bats.",
+      "player": "Lyon Richardson"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPOrlando Ribaltato Rochester Red Wings.",
+      "player": "Orlando Ribalta"
     },
     {
       "date": "2025-09-11",
@@ -64,26 +76,32 @@
     {
       "date": "2025-09-11",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPLyon Richardsonto Louisville Bats.",
-      "player": "Lyon Richardson"
-    },
-    {
-      "date": "2025-09-11",
-      "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned RHPYosver Zuluetato Louisville Bats.",
       "player": "Yosver Zulueta"
     },
     {
       "date": "2025-09-11",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPJoey Gerberfrom Durham Bulls.",
-      "player": "Joey Gerber"
+      "details": "Tampa Bay Raysrecalled RHPEric Orzefrom Durham Bulls.",
+      "player": "Eric Orze"
     },
     {
       "date": "2025-09-11",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPOrlando Ribaltato Rochester Red Wings.",
-      "player": "Orlando Ribalta"
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPHuascar Brazobánfrom Syracuse Mets.",
+      "player": "Huascar Brazobán"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJustin Hagenmanto Syracuse Mets.",
+      "player": "Justin Hagenman"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPWander Suerooutright to Syracuse Mets.",
+      "player": "Wander Suero"
     }
   ]
 }
