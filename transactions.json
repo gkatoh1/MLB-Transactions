@@ -1,4 +1,29 @@
 {
-  "last_updated": "2025-09-11T15:22:48.016170",
-  "transactions": []
+  "last_updated": "2025-09-11T16:30:08.494842",
+  "transactions": [
+    {
+      "date": "2025-09-11",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned LHPJoe Rockto Durham Bulls.",
+      "player": "Joe Rock"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned LHPMason Montgomeryto Durham Bulls.",
+      "player": "Mason Montgomery"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPJoey Gerberfrom Durham Bulls.",
+      "player": "Joey Gerber"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPEric Orzefrom Durham Bulls.",
+      "player": "Eric Orze"
+    }
+  ]
 }
