@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-09-11T20:23:08.091115",
+  "last_updated": "2025-09-11T21:20:15.107768",
   "transactions": [
     {
       "date": "2025-09-11",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated RHPGraham Ashcraftfrom the 15-day injured list.",
-      "player": "Graham Ashcraft"
+      "details": "Cincinnati Redsactivated RHPChase Burnsfrom the 15-day injured list.",
+      "player": "Chase Burns"
     },
     {
       "date": "2025-09-11",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated LHPMacKenzie Gorefrom the 15-day injured list.",
-      "player": "MacKenzie Gore"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent CDalton Rushingon a rehab assignment to Oklahoma City Comets.",
+      "player": "Dalton Rushing"
     },
     {
       "date": "2025-09-11",
@@ -28,8 +28,8 @@
     {
       "date": "2025-09-11",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated RHPChase Burnsfrom the 15-day injured list.",
-      "player": "Chase Burns"
+      "details": "Cincinnati Redsactivated RHPGraham Ashcraftfrom the 15-day injured list.",
+      "player": "Graham Ashcraft"
     },
     {
       "date": "2025-09-11",
@@ -45,33 +45,9 @@
     },
     {
       "date": "2025-09-11",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned LHPJoe Rockto Durham Bulls.",
-      "player": "Joe Rock"
-    },
-    {
-      "date": "2025-09-11",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPJoey Gerberfrom Durham Bulls.",
-      "player": "Joey Gerber"
-    },
-    {
-      "date": "2025-09-11",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPLyon Richardsonto Louisville Bats.",
-      "player": "Lyon Richardson"
-    },
-    {
-      "date": "2025-09-11",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPOrlando Ribaltato Rochester Red Wings.",
-      "player": "Orlando Ribalta"
-    },
-    {
-      "date": "2025-09-11",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned LHPMason Montgomeryto Durham Bulls.",
-      "player": "Mason Montgomery"
+      "details": "Washington Nationalsactivated LHPMacKenzie Gorefrom the 15-day injured list.",
+      "player": "MacKenzie Gore"
     },
     {
       "date": "2025-09-11",
@@ -82,8 +58,8 @@
     {
       "date": "2025-09-11",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPEric Orzefrom Durham Bulls.",
-      "player": "Eric Orze"
+      "details": "Tampa Bay Raysrecalled RHPJoey Gerberfrom Durham Bulls.",
+      "player": "Joey Gerber"
     },
     {
       "date": "2025-09-11",
@@ -102,6 +78,36 @@
       "team": "New York Mets",
       "details": "New York Metssent RHPWander Suerooutright to Syracuse Mets.",
       "player": "Wander Suero"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned LHPMason Montgomeryto Durham Bulls.",
+      "player": "Mason Montgomery"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned LHPJoe Rockto Durham Bulls.",
+      "player": "Joe Rock"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPOrlando Ribaltato Rochester Red Wings.",
+      "player": "Orlando Ribalta"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPEric Orzefrom Durham Bulls.",
+      "player": "Eric Orze"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPLyon Richardsonto Louisville Bats.",
+      "player": "Lyon Richardson"
     }
   ]
 }
