@@ -1,17 +1,23 @@
 {
-  "last_updated": "2025-09-11T16:30:08.494842",
+  "last_updated": "2025-09-11T17:20:20.833607",
   "transactions": [
     {
       "date": "2025-09-11",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned LHPJoe Rockto Durham Bulls.",
-      "player": "Joe Rock"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPGraham Ashcraftfrom the 15-day injured list.",
+      "player": "Graham Ashcraft"
     },
     {
       "date": "2025-09-11",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned LHPMason Montgomeryto Durham Bulls.",
-      "player": "Mason Montgomery"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPChase Burnsfrom the 15-day injured list.",
+      "player": "Chase Burns"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPLyon Richardsonto Louisville Bats.",
+      "player": "Lyon Richardson"
     },
     {
       "date": "2025-09-11",
@@ -24,6 +30,24 @@
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysrecalled RHPEric Orzefrom Durham Bulls.",
       "player": "Eric Orze"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPYosver Zuluetato Louisville Bats.",
+      "player": "Yosver Zulueta"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned LHPMason Montgomeryto Durham Bulls.",
+      "player": "Mason Montgomery"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned LHPJoe Rockto Durham Bulls.",
+      "player": "Joe Rock"
     }
   ]
 }
