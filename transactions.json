@@ -1,35 +1,23 @@
 {
-  "last_updated": "2025-09-11T21:20:15.107768",
+  "last_updated": "2025-09-11T22:22:03.133727",
   "transactions": [
     {
       "date": "2025-09-11",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated RHPChase Burnsfrom the 15-day injured list.",
-      "player": "Chase Burns"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsreleased 2BGarrett Hampson.",
+      "player": "Garrett Hampson"
     },
     {
       "date": "2025-09-11",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssent CDalton Rushingon a rehab assignment to Oklahoma City Comets.",
-      "player": "Dalton Rushing"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated 2BOrelvis Martinezfor assignment.",
+      "player": "Orelvis Martinez"
     },
     {
       "date": "2025-09-11",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsactivated LHPRyan Weathersfrom the 60-day injured list.",
-      "player": "Ryan Weathers"
-    },
-    {
-      "date": "2025-09-11",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsdesignated RHPSeth Martinezfor assignment.",
-      "player": "Seth Martinez"
-    },
-    {
-      "date": "2025-09-11",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated RHPGraham Ashcraftfrom the 15-day injured list.",
-      "player": "Graham Ashcraft"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RFAnthony Santanderon a rehab assignment to Buffalo Bisons.",
+      "player": "Anthony Santander"
     },
     {
       "date": "2025-09-11",
@@ -45,15 +33,87 @@
     },
     {
       "date": "2025-09-11",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RHPAlek Manoahfrom the 60-day injured list.",
+      "player": "Alek Manoah"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent RFJack Suwinskion a rehab assignment to Indianapolis Indians.",
+      "player": "Jack Suwinski"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPMichael Sorokaon a rehab assignment to Iowa Cubs.",
+      "player": "Michael Soroka"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPGraham Ashcraftfrom the 15-day injured list.",
+      "player": "Graham Ashcraft"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced LHPReid Detmerson the 15-day injured list. Left elbow inflammation.",
+      "player": "Reid Detmers"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPChase Burnsfrom the 15-day injured list.",
+      "player": "Chase Burns"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced LHPLuis Peraltaon the 15-day injured list retroactive to September 8, 2025. Left hip inflammation.",
+      "player": "Luis Peralta"
+    },
+    {
+      "date": "2025-09-11",
       "team": "Washington Nationals",
       "details": "Washington Nationalsactivated LHPMacKenzie Gorefrom the 15-day injured list.",
       "player": "MacKenzie Gore"
     },
     {
       "date": "2025-09-11",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPYosver Zuluetato Louisville Bats.",
-      "player": "Yosver Zulueta"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated LHPRyan Weathersfrom the 60-day injured list.",
+      "player": "Ryan Weathers"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated LHPBailey Hornfrom the paternity list.",
+      "player": "Bailey Horn"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsdesignated RHPSeth Martinezfor assignment.",
+      "player": "Seth Martinez"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent CDalton Rushingon a rehab assignment to Oklahoma City Comets.",
+      "player": "Dalton Rushing"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPEric Orzefrom Durham Bulls.",
+      "player": "Eric Orze"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPAlek Manoahto Buffalo Bisons.",
+      "player": "Alek Manoah"
     },
     {
       "date": "2025-09-11",
@@ -63,21 +123,33 @@
     },
     {
       "date": "2025-09-11",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPHuascar Brazobánfrom Syracuse Mets.",
-      "player": "Huascar Brazobán"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPLyon Richardsonto Louisville Bats.",
+      "player": "Lyon Richardson"
     },
     {
       "date": "2025-09-11",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPJustin Hagenmanto Syracuse Mets.",
-      "player": "Justin Hagenman"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPYosver Zuluetato Louisville Bats.",
+      "player": "Yosver Zulueta"
     },
     {
       "date": "2025-09-11",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPWander Suerooutright to Syracuse Mets.",
-      "player": "Wander Suero"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPOrlando Ribaltato Rochester Red Wings.",
+      "player": "Orlando Ribalta"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled LHPRyan Rolisonfrom Albuquerque Isotopes.",
+      "player": "Ryan Rolison"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled RHPChase Silsethfrom Salt Lake Bees.",
+      "player": "Chase Silseth"
     },
     {
       "date": "2025-09-11",
@@ -93,21 +165,27 @@
     },
     {
       "date": "2025-09-11",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPOrlando Ribaltato Rochester Red Wings.",
-      "player": "Orlando Ribalta"
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPHuascar Brazobánfrom Syracuse Mets.",
+      "player": "Huascar Brazobán"
     },
     {
       "date": "2025-09-11",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPEric Orzefrom Durham Bulls.",
-      "player": "Eric Orze"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned LHPDrew Sommersto Toledo Mud Hens.",
+      "player": "Drew Sommers"
     },
     {
       "date": "2025-09-11",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPLyon Richardsonto Louisville Bats.",
-      "player": "Lyon Richardson"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJustin Hagenmanto Syracuse Mets.",
+      "player": "Justin Hagenman"
+    },
+    {
+      "date": "2025-09-11",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPWander Suerooutright to Syracuse Mets.",
+      "player": "Wander Suero"
     }
   ]
 }
