@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-12T18:30:54.467130",
+  "last_updated": "2025-09-12T19:18:19.332628",
   "transactions": [
     {
       "date": "2025-09-12",
@@ -9,9 +9,33 @@
     },
     {
       "date": "2025-09-12",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RFTyler O'Neillfrom the 10-day injured list.",
+      "player": "Tyler O'Neill"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced LHPBrennan Bernardinoon the 15-day injured list retroactive to September 10, 2025. Left lat strain.",
+      "player": "Brennan Bernardino"
+    },
+    {
+      "date": "2025-09-12",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesrecalled RHPHunter Strattonfrom Gwinnett Stripers.",
       "player": "Hunter Stratton"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned CFDaniel Johnsonto Norfolk Tides.",
+      "player": "Daniel Johnson"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled LHPChris Murphyfrom Worcester Red Sox.",
+      "player": "Chris Murphy"
     }
   ]
 }
