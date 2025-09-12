@@ -1,17 +1,23 @@
 {
-  "last_updated": "2025-09-12T22:21:17.675256",
+  "last_updated": "2025-09-12T23:20:10.373474",
   "transactions": [
     {
       "date": "2025-09-12",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent CFMatt Vierlingon a rehab assignment to Toledo Mud Hens.",
-      "player": "Matt Vierling"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent 3BJordan Westburgon a rehab assignment to Norfolk Tides.",
+      "player": "Jordan Westburg"
     },
     {
       "date": "2025-09-12",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesdesignated RHPMatt Manningfor assignment.",
-      "player": "Matt Manning"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced RHPSawyer Gipson-Longon the 15-day injured list. Neck stiffness.",
+      "player": "Sawyer Gipson-Long"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced RHPDaysbel Hernándezon the restricted list.",
+      "player": "Daysbel Hernández"
     },
     {
       "date": "2025-09-12",
@@ -21,27 +27,9 @@
     },
     {
       "date": "2025-09-12",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsactivated 2BBrendan Donovanfrom the 10-day injured list.",
-      "player": "Brendan Donovan"
-    },
-    {
-      "date": "2025-09-12",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesactivated RHPJustin Lawrencefrom the 60-day injured list.",
-      "player": "Justin Lawrence"
-    },
-    {
-      "date": "2025-09-12",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RFTyler O'Neillfrom the 10-day injured list.",
-      "player": "Tyler O'Neill"
-    },
-    {
-      "date": "2025-09-12",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced LHPBrennan Bernardinoon the 15-day injured list retroactive to September 10, 2025. Left lat strain.",
-      "player": "Brennan Bernardino"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced RHPBeau Brieskeon the 60-day injured list. Right forearm strain.",
+      "player": "Beau Brieske"
     },
     {
       "date": "2025-09-12",
@@ -54,12 +42,6 @@
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsplaced RHPJustin Topaon the 15-day injured list retroactive to September 9, 2025. Left oblique strain.",
       "player": "Justin Topa"
-    },
-    {
-      "date": "2025-09-12",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent 3BJordan Westburgon a rehab assignment to Norfolk Tides.",
-      "player": "Jordan Westburg"
     },
     {
       "date": "2025-09-12",
@@ -81,9 +63,21 @@
     },
     {
       "date": "2025-09-12",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersplaced RHPSawyer Gipson-Longon the 15-day injured list. Neck stiffness.",
-      "player": "Sawyer Gipson-Long"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent CFSam Haggertyon a rehab assignment to Frisco RoughRiders.",
+      "player": "Sam Haggerty"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced LHPBrennan Bernardinoon the 15-day injured list retroactive to September 10, 2025. Left lat strain.",
+      "player": "Brennan Bernardino"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent 3BJordan Westburgon a rehab assignment to Norfolk Tides.",
+      "player": "Jordan Westburg"
     },
     {
       "date": "2025-09-12",
@@ -93,21 +87,111 @@
     },
     {
       "date": "2025-09-12",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxreleased RHPDan Altavilla.",
+      "player": "Dan Altavilla"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent CFMatt Vierlingon a rehab assignment to Toledo Mud Hens.",
+      "player": "Matt Vierling"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesdesignated RHPMatt Manningfor assignment.",
+      "player": "Matt Manning"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated 2BBrendan Donovanfrom the 10-day injured list.",
+      "player": "Brendan Donovan"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RHPJustin Lawrencefrom the 60-day injured list.",
+      "player": "Justin Lawrence"
+    },
+    {
+      "date": "2025-09-12",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsactivated LHPJohn Kingfrom the 15-day injured list.",
       "player": "John King"
     },
     {
       "date": "2025-09-12",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersplaced RHPBeau Brieskeon the 60-day injured list. Right forearm strain.",
-      "player": "Beau Brieske"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresplaced RHPDavid Morganon the 15-day injured list retroactive to September 9, 2025. Right shoulder inflammation.",
+      "player": "David Morgan"
     },
     {
       "date": "2025-09-12",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled RHPBeau Brieskefrom Toledo Mud Hens.",
-      "player": "Beau Brieske"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated LHPJosé Castillofor assignment.",
+      "player": "José Castillo"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RFTyler O'Neillfrom the 10-day injured list.",
+      "player": "Tyler O'Neill"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent LHPDanny Coulombeon a rehab assignment to Frisco RoughRiders.",
+      "player": "Danny Coulombe"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPHunter Strattonfrom Gwinnett Stripers.",
+      "player": "Hunter Stratton"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled 1BBlaine Crimfrom Albuquerque Isotopes.",
+      "player": "Blaine Crim"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPColin Holdermanto Indianapolis Indians.",
+      "player": "Colin Holderman"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled LHPJP Searsfrom El Paso Chihuahuas.",
+      "player": "JP Sears"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned 2BJosé Fermínto Memphis Redbirds.",
+      "player": "José Fermín"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled LHPColton Gordonfrom Sugar Land Space Cowboys.",
+      "player": "Colton Gordon"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled RHPCasey Leguminafrom Tacoma Rainiers.",
+      "player": "Casey Legumina"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned CCésar Salazarto Sugar Land Space Cowboys.",
+      "player": "César Salazar"
     },
     {
       "date": "2025-09-12",
@@ -129,15 +213,9 @@
     },
     {
       "date": "2025-09-12",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsselected the contract of RHPCody Lawerysonfrom St. Paul Saints.",
-      "player": "Cody Laweryson"
-    },
-    {
-      "date": "2025-09-12",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned 2BJosé Fermínto Memphis Redbirds.",
-      "player": "José Fermín"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPBeau Brieskefrom Toledo Mud Hens.",
+      "player": "Beau Brieske"
     },
     {
       "date": "2025-09-12",
@@ -147,33 +225,21 @@
     },
     {
       "date": "2025-09-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPHunter Strattonfrom Gwinnett Stripers.",
-      "player": "Hunter Stratton"
-    },
-    {
-      "date": "2025-09-12",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled LHPColton Gordonfrom Sugar Land Space Cowboys.",
-      "player": "Colton Gordon"
-    },
-    {
-      "date": "2025-09-12",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned CCésar Salazarto Sugar Land Space Cowboys.",
-      "player": "César Salazar"
-    },
-    {
-      "date": "2025-09-12",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned CFDaniel Johnsonto Norfolk Tides.",
       "player": "Daniel Johnson"
     },
     {
       "date": "2025-09-12",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPColin Holdermanto Indianapolis Indians.",
-      "player": "Colin Holderman"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsselected the contract of RHPCody Lawerysonfrom St. Paul Saints.",
+      "player": "Cody Laweryson"
+    },
+    {
+      "date": "2025-09-12",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned 1BMichael Togliato Albuquerque Isotopes.",
+      "player": "Michael Toglia"
     }
   ]
 }
