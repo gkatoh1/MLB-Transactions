@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-13T20:22:54.059087",
+  "last_updated": "2025-09-13T21:19:05.763169",
   "transactions": [
     {
       "date": "2025-09-13",
@@ -15,15 +15,21 @@
     },
     {
       "date": "2025-09-13",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPRhett Lowderon a rehab assignment to Louisville Bats.",
+      "player": "Rhett Lowder"
+    },
+    {
+      "date": "2025-09-13",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxsigned free agent RHPJohn Brebbiato a minor league contract.",
       "player": "John Brebbia"
     },
     {
       "date": "2025-09-13",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RHPRhett Lowderon a rehab assignment to Louisville Bats.",
-      "player": "Rhett Lowder"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced CFJonny DeLucaon the 60-day injured list. Left hamstring strain.",
+      "player": "Jonny DeLuca"
     },
     {
       "date": "2025-09-13",
@@ -45,15 +51,21 @@
     },
     {
       "date": "2025-09-13",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysplaced CFJonny DeLucaon the 60-day injured list. Left hamstring strain.",
-      "player": "Jonny DeLuca"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RFOwen Caissiefrom Iowa Cubs.",
+      "player": "Owen Caissie"
     },
     {
       "date": "2025-09-13",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysoptioned RHPEric Orzeto Durham Bulls.",
       "player": "Eric Orze"
+    },
+    {
+      "date": "2025-09-13",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPHuascar Brazobánto Syracuse Mets.",
+      "player": "Huascar Brazobán"
     },
     {
       "date": "2025-09-13",
@@ -75,27 +87,15 @@
     },
     {
       "date": "2025-09-13",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled RFOwen Caissiefrom Iowa Cubs.",
-      "player": "Owen Caissie"
-    },
-    {
-      "date": "2025-09-13",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled 2BJosé Fermínfrom Memphis Redbirds.",
-      "player": "José Fermín"
-    },
-    {
-      "date": "2025-09-13",
       "team": "Miami Marlins",
       "details": "Miami Marlinsrecalled RHPChristian Roafrom Jacksonville Jumbo Shrimp.",
       "player": "Christian Roa"
     },
     {
       "date": "2025-09-13",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPHuascar Brazobánto Syracuse Mets.",
-      "player": "Huascar Brazobán"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled 2BJosé Fermínfrom Memphis Redbirds.",
+      "player": "José Fermín"
     }
   ]
 }
