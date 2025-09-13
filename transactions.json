@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-09-13T15:20:02.003649",
+  "last_updated": "2025-09-13T16:25:18.410034",
   "transactions": [
+    {
+      "date": "2025-09-13",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced CFJonny DeLucaon the 60-day injured list. Left hamstring strain.",
+      "player": "Jonny DeLuca"
+    },
     {
       "date": "2025-09-13",
       "team": "Unknown Team",
@@ -10,14 +16,38 @@
     {
       "date": "2025-09-13",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned RFKevin Alcántarato Iowa Cubs.",
-      "player": "Kevin Alcántara"
+      "details": "Chicago Cubsrecalled RFOwen Caissiefrom Iowa Cubs.",
+      "player": "Owen Caissie"
+    },
+    {
+      "date": "2025-09-13",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysselected the contract of RHPGarrett Actonfrom Durham Bulls.",
+      "player": "Garrett Acton"
+    },
+    {
+      "date": "2025-09-13",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPDom Hamelfrom Syracuse Mets.",
+      "player": "Dom Hamel"
+    },
+    {
+      "date": "2025-09-13",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPHuascar Brazobánto Syracuse Mets.",
+      "player": "Huascar Brazobán"
+    },
+    {
+      "date": "2025-09-13",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPEric Orzeto Durham Bulls.",
+      "player": "Eric Orze"
     },
     {
       "date": "2025-09-13",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled RFOwen Caissiefrom Iowa Cubs.",
-      "player": "Owen Caissie"
+      "details": "Chicago Cubsoptioned RFKevin Alcántarato Iowa Cubs.",
+      "player": "Kevin Alcántara"
     }
   ]
 }
