@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-09-13T14:18:22.693807",
+  "last_updated": "2025-09-13T15:20:02.003649",
   "transactions": [
     {
       "date": "2025-09-13",
       "team": "Unknown Team",
       "details": "1BAnthony Rizzoretired.",
       "player": "Anthony Rizzo"
+    },
+    {
+      "date": "2025-09-13",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RFKevin Alcántarato Iowa Cubs.",
+      "player": "Kevin Alcántara"
+    },
+    {
+      "date": "2025-09-13",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RFOwen Caissiefrom Iowa Cubs.",
+      "player": "Owen Caissie"
     }
   ]
 }
