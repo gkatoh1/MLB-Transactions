@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-09-13T16:25:18.410034",
+  "last_updated": "2025-09-13T17:17:20.949922",
   "transactions": [
+    {
+      "date": "2025-09-13",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsplaced SSMasyn Winnon the 10-day injured list. Torn meniscus in right knee.",
+      "player": "Masyn Winn"
+    },
     {
       "date": "2025-09-13",
       "team": "Tampa Bay Rays",
@@ -15,21 +21,15 @@
     },
     {
       "date": "2025-09-13",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled RFOwen Caissiefrom Iowa Cubs.",
-      "player": "Owen Caissie"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned free agent RHPJohn Brebbiato a minor league contract.",
+      "player": "John Brebbia"
     },
     {
       "date": "2025-09-13",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysselected the contract of RHPGarrett Actonfrom Durham Bulls.",
-      "player": "Garrett Acton"
-    },
-    {
-      "date": "2025-09-13",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPDom Hamelfrom Syracuse Mets.",
-      "player": "Dom Hamel"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPRhett Lowderon a rehab assignment to Louisville Bats.",
+      "player": "Rhett Lowder"
     },
     {
       "date": "2025-09-13",
@@ -45,9 +45,33 @@
     },
     {
       "date": "2025-09-13",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysselected the contract of RHPGarrett Actonfrom Durham Bulls.",
+      "player": "Garrett Acton"
+    },
+    {
+      "date": "2025-09-13",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsoptioned RFKevin Alcántarato Iowa Cubs.",
       "player": "Kevin Alcántara"
+    },
+    {
+      "date": "2025-09-13",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled 2BJosé Fermínfrom Memphis Redbirds.",
+      "player": "José Fermín"
+    },
+    {
+      "date": "2025-09-13",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RFOwen Caissiefrom Iowa Cubs.",
+      "player": "Owen Caissie"
+    },
+    {
+      "date": "2025-09-13",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPDom Hamelfrom Syracuse Mets.",
+      "player": "Dom Hamel"
     }
   ]
 }
