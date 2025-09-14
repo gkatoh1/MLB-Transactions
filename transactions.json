@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-09-14T19:16:55.871648",
+  "last_updated": "2025-09-14T20:23:28.209799",
   "transactions": [
     {
       "date": "2025-09-14",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsplaced RHPCole Henryon the 15-day injured list. Back strain.",
-      "player": "Cole Henry"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced RHPYohan Ramírezon the paternity list.",
+      "player": "Yohan Ramírez"
+    },
+    {
+      "date": "2025-09-14",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated SSLuke Williams.",
+      "player": "Luke Williams"
+    },
+    {
+      "date": "2025-09-14",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent RHPFreddy Tarnokon a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Freddy Tarnok"
     },
     {
       "date": "2025-09-14",
@@ -33,33 +45,9 @@
     },
     {
       "date": "2025-09-14",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated SSLuke Williams.",
-      "player": "Luke Williams"
-    },
-    {
-      "date": "2025-09-14",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced RHPYohan Ramírezon the paternity list.",
-      "player": "Yohan Ramírez"
-    },
-    {
-      "date": "2025-09-14",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent RHPFreddy Tarnokon a rehab assignment to Jacksonville Jumbo Shrimp.",
-      "player": "Freddy Tarnok"
-    },
-    {
-      "date": "2025-09-14",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned LFDustin Harristo Round Rock Express.",
-      "player": "Dustin Harris"
-    },
-    {
-      "date": "2025-09-14",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of SSLuke Williamsfrom Gwinnett Stripers.",
-      "player": "Luke Williams"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced RHPCole Henryon the 15-day injured list. Back strain.",
+      "player": "Cole Henry"
     },
     {
       "date": "2025-09-14",
@@ -69,21 +57,33 @@
     },
     {
       "date": "2025-09-14",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPCarson Ragsdalefrom Norfolk Tides.",
-      "player": "Carson Ragsdale"
-    },
-    {
-      "date": "2025-09-14",
       "team": "Washington Nationals",
       "details": "Washington Nationalsrecalled RHPOrlando Ribaltafrom Rochester Red Wings.",
       "player": "Orlando Ribalta"
     },
     {
       "date": "2025-09-14",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of SSLuke Williamsfrom Gwinnett Stripers.",
+      "player": "Luke Williams"
+    },
+    {
+      "date": "2025-09-14",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsrecalled RFKevin Alcántarafrom Iowa Cubs.",
       "player": "Kevin Alcántara"
+    },
+    {
+      "date": "2025-09-14",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPCarson Ragsdalefrom Norfolk Tides.",
+      "player": "Carson Ragsdale"
+    },
+    {
+      "date": "2025-09-14",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned LFDustin Harristo Round Rock Express.",
+      "player": "Dustin Harris"
     }
   ]
 }
