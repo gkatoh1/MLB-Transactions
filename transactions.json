@@ -1,24 +1,6 @@
 {
-  "last_updated": "2025-09-14T22:21:11.025716",
+  "last_updated": "2025-09-14T23:20:23.729146",
   "transactions": [
-    {
-      "date": "2025-09-14",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated SSLuke Williams.",
-      "player": "Luke Williams"
-    },
-    {
-      "date": "2025-09-14",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsplaced RHPCole Henryon the 15-day injured list. Back strain.",
-      "player": "Cole Henry"
-    },
-    {
-      "date": "2025-09-14",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent RHPFreddy Tarnokon a rehab assignment to Jacksonville Jumbo Shrimp.",
-      "player": "Freddy Tarnok"
-    },
     {
       "date": "2025-09-14",
       "team": "Atlanta Braves",
@@ -51,21 +33,21 @@
     },
     {
       "date": "2025-09-14",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated SSLuke Williams.",
+      "player": "Luke Williams"
+    },
+    {
+      "date": "2025-09-14",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPOrlando Ribaltafrom Rochester Red Wings.",
-      "player": "Orlando Ribalta"
+      "details": "Washington Nationalsplaced RHPCole Henryon the 15-day injured list. Back strain.",
+      "player": "Cole Henry"
     },
     {
       "date": "2025-09-14",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned LFDustin Harristo Round Rock Express.",
-      "player": "Dustin Harris"
-    },
-    {
-      "date": "2025-09-14",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPCam Sandersfrom Indianapolis Indians.",
-      "player": "Cam Sanders"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent RHPFreddy Tarnokon a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Freddy Tarnok"
     },
     {
       "date": "2025-09-14",
@@ -75,15 +57,39 @@
     },
     {
       "date": "2025-09-14",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPCarson Ragsdalefrom Norfolk Tides.",
-      "player": "Carson Ragsdale"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPCam Sandersfrom Indianapolis Indians.",
+      "player": "Cam Sanders"
     },
     {
       "date": "2025-09-14",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsrecalled RFKevin Alcántarafrom Iowa Cubs.",
       "player": "Kevin Alcántara"
+    },
+    {
+      "date": "2025-09-14",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent OFNiko Kavadasoutright to Salt Lake Bees.",
+      "player": "Niko Kavadas"
+    },
+    {
+      "date": "2025-09-14",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned LFDustin Harristo Round Rock Express.",
+      "player": "Dustin Harris"
+    },
+    {
+      "date": "2025-09-14",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPCarson Ragsdalefrom Norfolk Tides.",
+      "player": "Carson Ragsdale"
+    },
+    {
+      "date": "2025-09-14",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPOrlando Ribaltafrom Rochester Red Wings.",
+      "player": "Orlando Ribalta"
     }
   ]
 }
