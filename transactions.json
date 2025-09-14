@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-14T01:59:50.416230",
+  "last_updated": "2025-09-14T03:07:21.868284",
   "transactions": [
     {
       "date": "2025-09-13",
@@ -12,18 +12,6 @@
       "team": "Miami Marlins",
       "details": "Miami Marlinsplaced RHPTyler Phillipson the paternity list.",
       "player": "Tyler Phillips"
-    },
-    {
-      "date": "2025-09-13",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced RHPChase Dollanderon the 15-day injured list retroactive to September 10, 2025. Left patella tendon strain.",
-      "player": "Chase Dollander"
-    },
-    {
-      "date": "2025-09-13",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsigned free agent RHPJohn Brebbiato a minor league contract.",
-      "player": "John Brebbia"
     },
     {
       "date": "2025-09-13",
@@ -69,6 +57,18 @@
     },
     {
       "date": "2025-09-13",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPChase Dollanderon the 15-day injured list retroactive to September 10, 2025. Left patella tendon strain.",
+      "player": "Chase Dollander"
+    },
+    {
+      "date": "2025-09-13",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned free agent RHPJohn Brebbiato a minor league contract.",
+      "player": "John Brebbia"
+    },
+    {
+      "date": "2025-09-13",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsplaced SSMasyn Winnon the 10-day injured list. Torn meniscus in right knee.",
       "player": "Masyn Winn"
@@ -81,21 +81,21 @@
     },
     {
       "date": "2025-09-13",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPHuascar Brazobánto Syracuse Mets.",
-      "player": "Huascar Brazobán"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPBradley Blalockfrom Albuquerque Isotopes.",
+      "player": "Bradley Blalock"
     },
     {
       "date": "2025-09-13",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled RHPBradgley Rodriguezfrom El Paso Chihuahuas.",
-      "player": "Bradgley Rodriguez"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent RHPSeth Martinezoutright to Jacksonville Jumbo Shrimp.",
+      "player": "Seth Martinez"
     },
     {
       "date": "2025-09-13",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPEric Orzeto Durham Bulls.",
-      "player": "Eric Orze"
+      "details": "Tampa Bay Raysselected the contract of RHPGarrett Actonfrom Durham Bulls.",
+      "player": "Garrett Acton"
     },
     {
       "date": "2025-09-13",
@@ -111,9 +111,27 @@
     },
     {
       "date": "2025-09-13",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent RHPSeth Martinezoutright to Jacksonville Jumbo Shrimp.",
-      "player": "Seth Martinez"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RFOwen Caissiefrom Iowa Cubs.",
+      "player": "Owen Caissie"
+    },
+    {
+      "date": "2025-09-13",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned LHPJP Searsto El Paso Chihuahuas.",
+      "player": "JP Sears"
+    },
+    {
+      "date": "2025-09-13",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled RHPBradgley Rodriguezfrom El Paso Chihuahuas.",
+      "player": "Bradgley Rodriguez"
+    },
+    {
+      "date": "2025-09-13",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPEric Orzeto Durham Bulls.",
+      "player": "Eric Orze"
     },
     {
       "date": "2025-09-13",
@@ -129,27 +147,15 @@
     },
     {
       "date": "2025-09-13",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysselected the contract of RHPGarrett Actonfrom Durham Bulls.",
-      "player": "Garrett Acton"
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPDom Hamelfrom Syracuse Mets.",
+      "player": "Dom Hamel"
     },
     {
       "date": "2025-09-13",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsrecalled 2BJosé Fermínfrom Memphis Redbirds.",
       "player": "José Fermín"
-    },
-    {
-      "date": "2025-09-13",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled RFOwen Caissiefrom Iowa Cubs.",
-      "player": "Owen Caissie"
-    },
-    {
-      "date": "2025-09-13",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPBradley Blalockfrom Albuquerque Isotopes.",
-      "player": "Bradley Blalock"
     },
     {
       "date": "2025-09-13",
@@ -160,20 +166,14 @@
     {
       "date": "2025-09-13",
       "team": "New York Mets",
-      "details": "New York Metsrecalled RHPDom Hamelfrom Syracuse Mets.",
-      "player": "Dom Hamel"
+      "details": "New York Metsoptioned RHPHuascar Brazobánto Syracuse Mets.",
+      "player": "Huascar Brazobán"
     },
     {
       "date": "2025-09-13",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsoptioned LFMatthew Lugoto Salt Lake Bees.",
       "player": "Matthew Lugo"
-    },
-    {
-      "date": "2025-09-13",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned LHPJP Searsto El Paso Chihuahuas.",
-      "player": "JP Sears"
     }
   ]
 }
