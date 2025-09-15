@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-09-15T19:18:49.715098",
+  "last_updated": "2025-09-15T20:25:55.957526",
   "transactions": [
     {
       "date": "2025-09-15",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPGarrett Actonto Durham Bulls.",
-      "player": "Garrett Acton"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPMichael Sorokafrom the 15-day injured list.",
+      "player": "Michael Soroka"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated 3BNolan Arenadofrom the 10-day injured list.",
+      "player": "Nolan Arenado"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned 2BJosé Fermínto Memphis Redbirds.",
+      "player": "José Fermín"
     },
     {
       "date": "2025-09-15",
@@ -15,9 +27,15 @@
     },
     {
       "date": "2025-09-15",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned 2BJosé Fermínto Memphis Redbirds.",
-      "player": "José Fermín"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPGarrett Actonto Durham Bulls.",
+      "player": "Garrett Acton"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPBen Brownto Iowa Cubs.",
+      "player": "Ben Brown"
     }
   ]
 }
