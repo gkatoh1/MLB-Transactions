@@ -1,17 +1,11 @@
 {
-  "last_updated": "2025-09-15T21:21:35.257616",
+  "last_updated": "2025-09-15T22:21:46.283248",
   "transactions": [
     {
       "date": "2025-09-15",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysdesignated LHPRyan Boruckifor assignment.",
-      "player": "Ryan Borucki"
-    },
-    {
-      "date": "2025-09-15",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPCarson Ragsdalefor assignment.",
-      "player": "Carson Ragsdale"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated RHPTyler Phillipsfrom the paternity list.",
+      "player": "Tyler Phillips"
     },
     {
       "date": "2025-09-15",
@@ -21,9 +15,63 @@
     },
     {
       "date": "2025-09-15",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced RHPAlbert Suárezon the 15-day injured list. Right elbow discomfort.",
-      "player": "Albert Suárez"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RFJack Suwinskifrom the 10-day injured list.",
+      "player": "Jack Suwinski"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated LHPRyan Boruckifor assignment.",
+      "player": "Ryan Borucki"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksdesignated RHPAnthony DeSclafanifor assignment.",
+      "player": "Anthony DeSclafani"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated 3BGraham Pauleyfrom the 10-day injured list.",
+      "player": "Graham Pauley"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated 3BConnor Norbyfrom the 10-day injured list.",
+      "player": "Connor Norby"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated CChad Wallachfor assignment.",
+      "player": "Chad Wallach"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated CLogan O'Hoppefrom the 7-day injured list.",
+      "player": "Logan O'Hoppe"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated CFDane Myersfrom the 10-day injured list.",
+      "player": "Dane Myers"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysreleased 2BOrelvis Martinez.",
+      "player": "Orelvis Martinez"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RFJack Suwinskifrom the 10-day injured list.",
+      "player": "Jack Suwinski"
     },
     {
       "date": "2025-09-15",
@@ -33,21 +81,21 @@
     },
     {
       "date": "2025-09-15",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPJoe Boylefrom Durham Bulls.",
-      "player": "Joe Boyle"
-    },
-    {
-      "date": "2025-09-15",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessent RHPMatt Manningoutright to Reading Fightin Phils.",
-      "player": "Matt Manning"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPCarson Ragsdalefor assignment.",
+      "player": "Carson Ragsdale"
     },
     {
       "date": "2025-09-15",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPChayce McDermottfrom Norfolk Tides.",
-      "player": "Chayce McDermott"
+      "details": "Baltimore Oriolesplaced RHPAlbert Suárezon the 15-day injured list. Right elbow discomfort.",
+      "player": "Albert Suárez"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPJuan Morillofrom Reno Aces.",
+      "player": "Juan Morillo"
     },
     {
       "date": "2025-09-15",
@@ -63,9 +111,27 @@
     },
     {
       "date": "2025-09-15",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of RHPTrey Yesavagefrom Buffalo Bisons.",
-      "player": "Trey Yesavage"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled LHPBrant Hurterfrom Toledo Mud Hens.",
+      "player": "Brant Hurter"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned CFVictor Mesa Jr.to Jacksonville Jumbo Shrimp.",
+      "player": "Victor Mesa Jr."
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPChristian Roato Jacksonville Jumbo Shrimp.",
+      "player": "Christian Roa"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned SSMaximo Acostato Jacksonville Jumbo Shrimp.",
+      "player": "Maximo Acosta"
     },
     {
       "date": "2025-09-15",
@@ -81,9 +147,57 @@
     },
     {
       "date": "2025-09-15",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPBrenan Hanifeeto Toledo Mud Hens.",
+      "player": "Brenan Hanifee"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of RHPTrey Yesavagefrom Buffalo Bisons.",
+      "player": "Trey Yesavage"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent RHPMatt Manningoutright to Reading Fightin Phils.",
+      "player": "Matt Manning"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned 2BJack Winklerto Jacksonville Jumbo Shrimp.",
+      "player": "Jack Winkler"
+    },
+    {
+      "date": "2025-09-15",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysoptioned RHPGarrett Actonto Durham Bulls.",
       "player": "Garrett Acton"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPJoe Boylefrom Durham Bulls.",
+      "player": "Joe Boyle"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPChayce McDermottfrom Norfolk Tides.",
+      "player": "Chayce McDermott"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned CFJi Hwan Baeto Indianapolis Indians.",
+      "player": "Ji Hwan Bae"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent 2BScott Kingeryoutright to Salt Lake Bees.",
+      "player": "Scott Kingery"
     }
   ]
 }
