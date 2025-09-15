@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-09-15T20:25:55.957526",
+  "last_updated": "2025-09-15T21:21:35.257616",
   "transactions": [
     {
       "date": "2025-09-15",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPMichael Sorokafrom the 15-day injured list.",
-      "player": "Michael Soroka"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated LHPRyan Boruckifor assignment.",
+      "player": "Ryan Borucki"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPCarson Ragsdalefor assignment.",
+      "player": "Carson Ragsdale"
     },
     {
       "date": "2025-09-15",
@@ -15,9 +21,15 @@
     },
     {
       "date": "2025-09-15",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned 2BJosé Fermínto Memphis Redbirds.",
-      "player": "José Fermín"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPAlbert Suárezon the 15-day injured list. Right elbow discomfort.",
+      "player": "Albert Suárez"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPMichael Sorokafrom the 15-day injured list.",
+      "player": "Michael Soroka"
     },
     {
       "date": "2025-09-15",
@@ -27,15 +39,51 @@
     },
     {
       "date": "2025-09-15",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPGarrett Actonto Durham Bulls.",
-      "player": "Garrett Acton"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent RHPMatt Manningoutright to Reading Fightin Phils.",
+      "player": "Matt Manning"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPChayce McDermottfrom Norfolk Tides.",
+      "player": "Chayce McDermott"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned 2BJosé Fermínto Memphis Redbirds.",
+      "player": "José Fermín"
     },
     {
       "date": "2025-09-15",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsoptioned RHPBen Brownto Iowa Cubs.",
       "player": "Ben Brown"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of RHPTrey Yesavagefrom Buffalo Bisons.",
+      "player": "Trey Yesavage"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPYaramil Hiraldofrom Norfolk Tides.",
+      "player": "Yaramil Hiraldo"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed LHPJosé Castillooff waivers fromSeattle Mariners.",
+      "player": "José Castillo"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPGarrett Actonto Durham Bulls.",
+      "player": "Garrett Acton"
     }
   ]
 }
