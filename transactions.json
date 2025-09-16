@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-09-15T23:20:29.901037",
+  "last_updated": "2025-09-16T01:52:18.536724",
   "transactions": [
-    {
-      "date": "2025-09-15",
-      "team": "Unknown Team",
-      "details": "2BBrandon Lowechanged number to 21.",
-      "player": "Brandon Lowe"
-    },
-    {
-      "date": "2025-09-15",
-      "team": "Unknown Team",
-      "details": "RHPEmilio Pagánchanged number to 21.",
-      "player": "Emilio Pagán"
-    },
     {
       "date": "2025-09-15",
       "team": "Unknown Team",
@@ -22,26 +10,14 @@
     {
       "date": "2025-09-15",
       "team": "Unknown Team",
-      "details": "1BJustin Turnerchanged number to 21.",
-      "player": "Justin Turner"
-    },
-    {
-      "date": "2025-09-15",
-      "team": "Unknown Team",
-      "details": "CVictor Caratinichanged number to 21.",
-      "player": "Victor Caratini"
+      "details": "SSEzequiel Duranchanged number to 21.",
+      "player": "Ezequiel Duran"
     },
     {
       "date": "2025-09-15",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPCarson Ragsdalefor assignment.",
-      "player": "Carson Ragsdale"
-    },
-    {
-      "date": "2025-09-15",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsactivated RHPTyler Phillipsfrom the paternity list.",
-      "player": "Tyler Phillips"
+      "details": "Baltimore Oriolesplaced RHPAlbert Suárezon the 15-day injured list. Right elbow discomfort.",
+      "player": "Albert Suárez"
     },
     {
       "date": "2025-09-15",
@@ -54,6 +30,54 @@
       "team": "Unknown Team",
       "details": "RHPJosé Berríoschanged number to 21.",
       "player": "José Berríos"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Unknown Team",
+      "details": "LFWilli Castrochanged number to 21.",
+      "player": "Willi Castro"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPMichael Sorokafrom the 15-day injured list.",
+      "player": "Michael Soroka"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Unknown Team",
+      "details": "RHPTyler Glasnowchanged number to 21.",
+      "player": "Tyler Glasnow"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated CLogan O'Hoppefrom the 7-day injured list.",
+      "player": "Logan O'Hoppe"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated CFDane Myersfrom the 10-day injured list.",
+      "player": "Dane Myers"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Unknown Team",
+      "details": "1BJustin Turnerchanged number to 21.",
+      "player": "Justin Turner"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPCarson Ragsdalefor assignment.",
+      "player": "Carson Ragsdale"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated RHPTyler Phillipsfrom the paternity list.",
+      "player": "Tyler Phillips"
     },
     {
       "date": "2025-09-15",
@@ -76,32 +100,86 @@
     {
       "date": "2025-09-15",
       "team": "Unknown Team",
-      "details": "LFWilli Castrochanged number to 21.",
-      "player": "Willi Castro"
+      "details": "LHPTim Hillchanged number to 21.",
+      "player": "Tim Hill"
     },
     {
       "date": "2025-09-15",
       "team": "Unknown Team",
-      "details": "RHPTyler Glasnowchanged number to 21.",
-      "player": "Tyler Glasnow"
+      "details": "RHPFernando Cruzchanged number to 21.",
+      "player": "Fernando Cruz"
     },
     {
       "date": "2025-09-15",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPMichael Sorokafrom the 15-day injured list.",
-      "player": "Michael Soroka"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated CChad Wallachfor assignment.",
+      "player": "Chad Wallach"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Unknown Team",
+      "details": "2BBrendan Donovanchanged number to 21.",
+      "player": "Brendan Donovan"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Unknown Team",
+      "details": "LHPCarlos Rodónchanged number to 21.",
+      "player": "Carlos Rodón"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Unknown Team",
+      "details": "CFByron Buxtonchanged number to 21.",
+      "player": "Byron Buxton"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Unknown Team",
+      "details": "RHPPablo Lópezchanged number to 21.",
+      "player": "Pablo López"
     },
     {
       "date": "2025-09-15",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysdesignated LHPRyan Boruckifor assignment.",
-      "player": "Ryan Borucki"
+      "details": "Toronto Blue Jaysreleased 2BOrelvis Martinez.",
+      "player": "Orelvis Martinez"
     },
     {
       "date": "2025-09-15",
       "team": "Unknown Team",
-      "details": "LHPClayton Kershawchanged number to 21.",
-      "player": "Clayton Kershaw"
+      "details": "1BVladimir Guerrero Jr.changed number to 21.",
+      "player": "Vladimir Guerrero Jr."
+    },
+    {
+      "date": "2025-09-15",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsdesignated 2BBrett Wiselyfor assignment.",
+      "player": "Brett Wisely"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Unknown Team",
+      "details": "1BYandy Díazchanged number to 21.",
+      "player": "Yandy Díaz"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Unknown Team",
+      "details": "2BBrandon Lowechanged number to 21.",
+      "player": "Brandon Lowe"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Unknown Team",
+      "details": "RHPEmilio Pagánchanged number to 21.",
+      "player": "Emilio Pagán"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Unknown Team",
+      "details": "SSCarlos Correachanged number to 21.",
+      "player": "Carlos Correa"
     },
     {
       "date": "2025-09-15",
@@ -117,27 +195,33 @@
     },
     {
       "date": "2025-09-15",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsdesignated CChad Wallachfor assignment.",
-      "player": "Chad Wallach"
-    },
-    {
-      "date": "2025-09-15",
-      "team": "Unknown Team",
-      "details": "RFGeorge Springerchanged number to 21.",
-      "player": "George Springer"
-    },
-    {
-      "date": "2025-09-15",
-      "team": "Unknown Team",
-      "details": "SSCarlos Correachanged number to 21.",
-      "player": "Carlos Correa"
-    },
-    {
-      "date": "2025-09-15",
       "team": "Unknown Team",
       "details": "LHPBrent Suterchanged number to 21.",
       "player": "Brent Suter"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Unknown Team",
+      "details": "DHGiancarlo Stantonchanged number to 21.",
+      "player": "Giancarlo Stanton"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Unknown Team",
+      "details": "CVictor Caratinichanged number to 21.",
+      "player": "Victor Caratini"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Unknown Team",
+      "details": "LHPClayton Kershawchanged number to 21.",
+      "player": "Clayton Kershaw"
+    },
+    {
+      "date": "2025-09-15",
+      "team": "Unknown Team",
+      "details": "RFAaron Judgechanged number to 21.",
+      "player": "Aaron Judge"
     },
     {
       "date": "2025-09-15",
@@ -148,26 +232,14 @@
     {
       "date": "2025-09-15",
       "team": "Unknown Team",
-      "details": "2BBrendan Donovanchanged number to 21.",
-      "player": "Brendan Donovan"
+      "details": "RHPDavid Bednarchanged number to 21.",
+      "player": "David Bednar"
     },
     {
       "date": "2025-09-15",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsactivated 3BNolan Arenadofrom the 10-day injured list.",
       "player": "Nolan Arenado"
-    },
-    {
-      "date": "2025-09-15",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsactivated CLogan O'Hoppefrom the 7-day injured list.",
-      "player": "Logan O'Hoppe"
-    },
-    {
-      "date": "2025-09-15",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsactivated CFDane Myersfrom the 10-day injured list.",
-      "player": "Dane Myers"
     },
     {
       "date": "2025-09-15",
@@ -201,105 +273,33 @@
     },
     {
       "date": "2025-09-15",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysreleased 2BOrelvis Martinez.",
-      "player": "Orelvis Martinez"
-    },
-    {
-      "date": "2025-09-15",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced RHPAlbert Suárezon the 15-day injured list. Right elbow discomfort.",
-      "player": "Albert Suárez"
+      "team": "Unknown Team",
+      "details": "SSWilly Adameschanged number to 21.",
+      "player": "Willy Adames"
     },
     {
       "date": "2025-09-15",
       "team": "Unknown Team",
-      "details": "1BVladimir Guerrero Jr.changed number to 21.",
-      "player": "Vladimir Guerrero Jr."
-    },
-    {
-      "date": "2025-09-15",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsdesignated 2BBrett Wiselyfor assignment.",
-      "player": "Brett Wisely"
+      "details": "LFHeliot Ramoschanged number to 21.",
+      "player": "Heliot Ramos"
     },
     {
       "date": "2025-09-15",
       "team": "Unknown Team",
-      "details": "1BYandy Díazchanged number to 21.",
-      "player": "Yandy Díaz"
+      "details": "CKyle Higashiokachanged number to 21.",
+      "player": "Kyle Higashioka"
     },
     {
       "date": "2025-09-15",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of RHPTrey Yesavagefrom Buffalo Bisons.",
-      "player": "Trey Yesavage"
+      "team": "Unknown Team",
+      "details": "RFGeorge Springerchanged number to 21.",
+      "player": "George Springer"
     },
     {
       "date": "2025-09-15",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned 2BJosé Fermínto Memphis Redbirds.",
-      "player": "José Fermín"
-    },
-    {
-      "date": "2025-09-15",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned RHPBen Brownto Iowa Cubs.",
-      "player": "Ben Brown"
-    },
-    {
-      "date": "2025-09-15",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled LHPBrant Hurterfrom Toledo Mud Hens.",
-      "player": "Brant Hurter"
-    },
-    {
-      "date": "2025-09-15",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned CFVictor Mesa Jr.to Jacksonville Jumbo Shrimp.",
-      "player": "Victor Mesa Jr."
-    },
-    {
-      "date": "2025-09-15",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent 2BScott Kingeryoutright to Salt Lake Bees.",
-      "player": "Scott Kingery"
-    },
-    {
-      "date": "2025-09-15",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned 2BJack Winklerto Jacksonville Jumbo Shrimp.",
-      "player": "Jack Winkler"
-    },
-    {
-      "date": "2025-09-15",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPYaramil Hiraldofrom Norfolk Tides.",
-      "player": "Yaramil Hiraldo"
-    },
-    {
-      "date": "2025-09-15",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesclaimed LHPJosé Castillooff waivers fromSeattle Mariners.",
-      "player": "José Castillo"
-    },
-    {
-      "date": "2025-09-15",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned RHPBrenan Hanifeeto Toledo Mud Hens.",
-      "player": "Brenan Hanifee"
-    },
-    {
-      "date": "2025-09-15",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsselected the contract of 1BBryce Eldridgefrom Sacramento River Cats.",
-      "player": "Bryce Eldridge"
-    },
-    {
-      "date": "2025-09-15",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPChayce McDermottfrom Norfolk Tides.",
-      "player": "Chayce McDermott"
+      "team": "Unknown Team",
+      "details": "1BPaul Goldschmidtchanged number to 21.",
+      "player": "Paul Goldschmidt"
     }
   ]
 }
