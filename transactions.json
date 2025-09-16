@@ -1,17 +1,41 @@
 {
-  "last_updated": "2025-09-16T18:34:35.244071",
+  "last_updated": "2025-09-16T19:18:53.126043",
   "transactions": [
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "RHPPaul Skeneschanged number to 30.",
-      "player": "Paul Skenes"
+      "details": "RHPFernando Cruzchanged number to 63.",
+      "player": "Fernando Cruz"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "1BEnrique Hernándezchanged number to 8.",
-      "player": "Enrique Hernández"
+      "details": "CHenry Davischanged number to 32.",
+      "player": "Henry Davis"
+    },
+    {
+      "date": "2025-09-16",
+      "team": "Unknown Team",
+      "details": "RHPDauri Moretachanged number to 36.",
+      "player": "Dauri Moreta"
+    },
+    {
+      "date": "2025-09-16",
+      "team": "Unknown Team",
+      "details": "LHPEvan Siskchanged number to 51.",
+      "player": "Evan Sisk"
+    },
+    {
+      "date": "2025-09-16",
+      "team": "Unknown Team",
+      "details": "CVictor Caratinichanged number to 17.",
+      "player": "Victor Caratini"
+    },
+    {
+      "date": "2025-09-16",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPLogan Evanson a rehab assignment to Tacoma Rainiers.",
+      "player": "Logan Evans"
     },
     {
       "date": "2025-09-16",
@@ -64,110 +88,68 @@
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "RHPIsaac Mattsonchanged number to 72.",
-      "player": "Isaac Mattson"
+      "details": "RHPMike Burrowschanged number to 53.",
+      "player": "Mike Burrows"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "LFWilli Castrochanged number to 1.",
-      "player": "Willi Castro"
+      "details": "RHPKyle Nicolaschanged number to 66.",
+      "player": "Kyle Nicolas"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "RHPJosé Berríoschanged number to 17.",
-      "player": "José Berríos"
+      "details": "RHPChris Bassittchanged number to 40.",
+      "player": "Chris Bassitt"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "SSJeremy Peñachanged number to 3.",
-      "player": "Jeremy Peña"
+      "details": "CKyle Higashiokachanged number to 11.",
+      "player": "Kyle Higashioka"
+    },
+    {
+      "date": "2025-09-16",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RHPBrock Stewarton a rehab assignment to Oklahoma City Comets.",
+      "player": "Brock Stewart"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "SSMookie Bettschanged number to 50.",
-      "player": "Mookie Betts"
+      "details": "RHPCarmen Mlodzinskichanged number to 50.",
+      "player": "Carmen Mlodzinski"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "LHPEvan Siskchanged number to 51.",
-      "player": "Evan Sisk"
+      "details": "LFTommy Phamchanged number to 28.",
+      "player": "Tommy Pham"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "RHPBraxton Ashcraftchanged number to 67.",
-      "player": "Braxton Ashcraft"
+      "details": "RHPDennis Santanachanged number to 60.",
+      "player": "Dennis Santana"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "CJoey Bartchanged number to 14.",
-      "player": "Joey Bart"
+      "details": "SSJared Triolochanged number to 19.",
+      "player": "Jared Triolo"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "RHPJohan Oviedochanged number to 24.",
-      "player": "Johan Oviedo"
+      "details": "RFGeorge Springerchanged number to 4.",
+      "player": "George Springer"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "2BNick Yorkechanged number to 38.",
-      "player": "Nick Yorke"
-    },
-    {
-      "date": "2025-09-16",
-      "team": "Unknown Team",
-      "details": "1BVladimir Guerrero Jr.changed number to 27.",
-      "player": "Vladimir Guerrero Jr."
-    },
-    {
-      "date": "2025-09-16",
-      "team": "Unknown Team",
-      "details": "SSWilly Adameschanged number to 2.",
-      "player": "Willy Adames"
-    },
-    {
-      "date": "2025-09-16",
-      "team": "Unknown Team",
-      "details": "LFHeliot Ramoschanged number to 17.",
-      "player": "Heliot Ramos"
-    },
-    {
-      "date": "2025-09-16",
-      "team": "Unknown Team",
-      "details": "DHGiancarlo Stantonchanged number to 27.",
-      "player": "Giancarlo Stanton"
-    },
-    {
-      "date": "2025-09-16",
-      "team": "Unknown Team",
-      "details": "RHPFernando Cruzchanged number to 63.",
-      "player": "Fernando Cruz"
-    },
-    {
-      "date": "2025-09-16",
-      "team": "Unknown Team",
-      "details": "RFAaron Judgechanged number to 99.",
-      "player": "Aaron Judge"
-    },
-    {
-      "date": "2025-09-16",
-      "team": "Unknown Team",
-      "details": "RHPPablo Lópezchanged number to 49.",
-      "player": "Pablo López"
-    },
-    {
-      "date": "2025-09-16",
-      "team": "Unknown Team",
-      "details": "SSEzequiel Duranchanged number to 20.",
-      "player": "Ezequiel Duran"
+      "details": "LHPBrent Suterchanged number to 31.",
+      "player": "Brent Suter"
     },
     {
       "date": "2025-09-16",
@@ -178,14 +160,14 @@
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "CHenry Davischanged number to 32.",
-      "player": "Henry Davis"
+      "details": "RHPPaul Skeneschanged number to 30.",
+      "player": "Paul Skenes"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "RHPDauri Moretachanged number to 36.",
-      "player": "Dauri Moreta"
+      "details": "1BEnrique Hernándezchanged number to 8.",
+      "player": "Enrique Hernández"
     },
     {
       "date": "2025-09-16",
@@ -231,39 +213,33 @@
     },
     {
       "date": "2025-09-16",
-      "team": "Unknown Team",
-      "details": "RHPCarmen Mlodzinskichanged number to 50.",
-      "player": "Carmen Mlodzinski"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestransferred CSean Murphyfrom the 10-day injured list to the 60-day injured list. Right hip labral tear.",
+      "player": "Sean Murphy"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "LFTommy Phamchanged number to 28.",
-      "player": "Tommy Pham"
+      "details": "CFOneil Cruzchanged number to 15.",
+      "player": "Oneil Cruz"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "RHPDennis Santanachanged number to 60.",
-      "player": "Dennis Santana"
+      "details": "2BMauricio Dubónchanged number to 14.",
+      "player": "Mauricio Dubón"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "SSJared Triolochanged number to 19.",
-      "player": "Jared Triolo"
+      "details": "RHPTyler Glasnowchanged number to 31.",
+      "player": "Tyler Glasnow"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "RFGeorge Springerchanged number to 4.",
-      "player": "George Springer"
-    },
-    {
-      "date": "2025-09-16",
-      "team": "Unknown Team",
-      "details": "LHPBrent Suterchanged number to 31.",
-      "player": "Brent Suter"
+      "details": "RHPDavid Bednarchanged number to 53.",
+      "player": "David Bednar"
     },
     {
       "date": "2025-09-16",
@@ -280,26 +256,50 @@
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "RHPMike Burrowschanged number to 53.",
-      "player": "Mike Burrows"
+      "details": "RHPIsaac Mattsonchanged number to 72.",
+      "player": "Isaac Mattson"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "RHPKyle Nicolaschanged number to 66.",
-      "player": "Kyle Nicolas"
+      "details": "LFWilli Castrochanged number to 1.",
+      "player": "Willi Castro"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "RHPChris Bassittchanged number to 40.",
-      "player": "Chris Bassitt"
+      "details": "RHPJosé Berríoschanged number to 17.",
+      "player": "José Berríos"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "CKyle Higashiokachanged number to 11.",
-      "player": "Kyle Higashioka"
+      "details": "SSJeremy Peñachanged number to 3.",
+      "player": "Jeremy Peña"
+    },
+    {
+      "date": "2025-09-16",
+      "team": "Unknown Team",
+      "details": "SSMookie Bettschanged number to 50.",
+      "player": "Mookie Betts"
+    },
+    {
+      "date": "2025-09-16",
+      "team": "Unknown Team",
+      "details": "RHPMitch Kellerchanged number to 23.",
+      "player": "Mitch Keller"
+    },
+    {
+      "date": "2025-09-16",
+      "team": "Unknown Team",
+      "details": "SSLiover Peguerochanged number to 31.",
+      "player": "Liover Peguero"
+    },
+    {
+      "date": "2025-09-16",
+      "team": "Unknown Team",
+      "details": "1BJustin Turnerchanged number to 3.",
+      "player": "Justin Turner"
     }
   ]
 }
