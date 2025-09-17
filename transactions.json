@@ -1,78 +1,6 @@
 {
-  "last_updated": "2025-09-17T21:20:18.745658",
+  "last_updated": "2025-09-17T22:20:25.672792",
   "transactions": [
-    {
-      "date": "2025-09-17",
-      "team": "Unknown Team",
-      "details": "RFFernando Tatis Jr.changed number to 23.",
-      "player": "Fernando Tatis Jr."
-    },
-    {
-      "date": "2025-09-17",
-      "team": "Unknown Team",
-      "details": "RFLawrence Butlerchanged number to 4.",
-      "player": "Lawrence Butler"
-    },
-    {
-      "date": "2025-09-17",
-      "team": "Unknown Team",
-      "details": "RHPEdwin Díazchanged number to 39.",
-      "player": "Edwin Díaz"
-    },
-    {
-      "date": "2025-09-17",
-      "team": "Unknown Team",
-      "details": "RHPJoel Payampschanged number to 31.",
-      "player": "Joel Payamps"
-    },
-    {
-      "date": "2025-09-17",
-      "team": "Unknown Team",
-      "details": "RHPFreddy Peraltachanged number to 51.",
-      "player": "Freddy Peralta"
-    },
-    {
-      "date": "2025-09-17",
-      "team": "New York Mets",
-      "details": "New York Metsactivated CLuis Torrensfrom the 10-day injured list.",
-      "player": "Luis Torrens"
-    },
-    {
-      "date": "2025-09-17",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsplaced 1BWillson Contrerason the 10-day injured list retroactive to September 16, 2025. Right shoulder strain.",
-      "player": "Willson Contreras"
-    },
-    {
-      "date": "2025-09-17",
-      "team": "Unknown Team",
-      "details": "CBrian Navarretochanged number to 70.",
-      "player": "Brian Navarreto"
-    },
-    {
-      "date": "2025-09-17",
-      "team": "Unknown Team",
-      "details": "RHPJosé Berríoschanged number to 17.",
-      "player": "José Berríos"
-    },
-    {
-      "date": "2025-09-17",
-      "team": "Unknown Team",
-      "details": "CLogan O'Hoppechanged number to 14.",
-      "player": "Logan O'Hoppe"
-    },
-    {
-      "date": "2025-09-17",
-      "team": "Unknown Team",
-      "details": "CFJackson Chouriochanged number to 11.",
-      "player": "Jackson Chourio"
-    },
-    {
-      "date": "2025-09-17",
-      "team": "Unknown Team",
-      "details": "RHPAbner Uribechanged number to 45.",
-      "player": "Abner Uribe"
-    },
     {
       "date": "2025-09-17",
       "team": "Unknown Team",
@@ -81,15 +9,15 @@
     },
     {
       "date": "2025-09-17",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent CAdley Rutschmanon a rehab assignment to Norfolk Tides.",
-      "player": "Adley Rutschman"
+      "team": "Unknown Team",
+      "details": "CFChris Taylorchanged number to 33.",
+      "player": "Chris Taylor"
     },
     {
       "date": "2025-09-17",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesactivated RHPYohan Ramírezfrom the paternity list.",
-      "player": "Yohan Ramírez"
+      "team": "Unknown Team",
+      "details": "CBrian Navarretochanged number to 70.",
+      "player": "Brian Navarreto"
     },
     {
       "date": "2025-09-17",
@@ -118,6 +46,66 @@
     {
       "date": "2025-09-17",
       "team": "Unknown Team",
+      "details": "RHPJosé Berríoschanged number to 17.",
+      "player": "José Berríos"
+    },
+    {
+      "date": "2025-09-17",
+      "team": "Unknown Team",
+      "details": "CLogan O'Hoppechanged number to 14.",
+      "player": "Logan O'Hoppe"
+    },
+    {
+      "date": "2025-09-17",
+      "team": "Unknown Team",
+      "details": "CFJackson Chouriochanged number to 11.",
+      "player": "Jackson Chourio"
+    },
+    {
+      "date": "2025-09-17",
+      "team": "Unknown Team",
+      "details": "RHPAbner Uribechanged number to 45.",
+      "player": "Abner Uribe"
+    },
+    {
+      "date": "2025-09-17",
+      "team": "Unknown Team",
+      "details": "RFMike Troutchanged number to 27.",
+      "player": "Mike Trout"
+    },
+    {
+      "date": "2025-09-17",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent CAdley Rutschmanon a rehab assignment to Norfolk Tides.",
+      "player": "Adley Rutschman"
+    },
+    {
+      "date": "2025-09-17",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RHPYohan Ramírezfrom the paternity list.",
+      "player": "Yohan Ramírez"
+    },
+    {
+      "date": "2025-09-17",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsplaced 1BWillson Contrerason the 10-day injured list retroactive to September 16, 2025. Right shoulder strain.",
+      "player": "Willson Contreras"
+    },
+    {
+      "date": "2025-09-17",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated LHPCole Ragansfrom the 60-day injured list.",
+      "player": "Cole Ragans"
+    },
+    {
+      "date": "2025-09-17",
+      "team": "Unknown Team",
+      "details": "RFFernando Tatis Jr.changed number to 23.",
+      "player": "Fernando Tatis Jr."
+    },
+    {
+      "date": "2025-09-17",
+      "team": "Unknown Team",
       "details": "3BDarell Hernaizchanged number to 2.",
       "player": "Darell Hernaiz"
     },
@@ -130,8 +118,8 @@
     {
       "date": "2025-09-17",
       "team": "Unknown Team",
-      "details": "SSFrancisco Lindorchanged number to 12.",
-      "player": "Francisco Lindor"
+      "details": "RHPFreddy Peraltachanged number to 51.",
+      "player": "Freddy Peralta"
     },
     {
       "date": "2025-09-17",
@@ -147,21 +135,9 @@
     },
     {
       "date": "2025-09-17",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated LHPCole Ragansfrom the 60-day injured list.",
-      "player": "Cole Ragans"
-    },
-    {
-      "date": "2025-09-17",
-      "team": "Unknown Team",
-      "details": "RFMike Troutchanged number to 27.",
-      "player": "Mike Trout"
-    },
-    {
-      "date": "2025-09-17",
-      "team": "Unknown Team",
-      "details": "CFChris Taylorchanged number to 33.",
-      "player": "Chris Taylor"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestransferred RFJake Fraleyfrom the 10-day injured list to the 60-day injured list. Strained right oblique muscle.",
+      "player": "Jake Fraley"
     },
     {
       "date": "2025-09-17",
@@ -177,15 +153,57 @@
     },
     {
       "date": "2025-09-17",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPSauryn Laofrom Rochester Red Wings.",
-      "player": "Sauryn Lao"
+      "team": "Unknown Team",
+      "details": "RFLawrence Butlerchanged number to 4.",
+      "player": "Lawrence Butler"
     },
     {
       "date": "2025-09-17",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPOrlando Ribaltato Rochester Red Wings.",
-      "player": "Orlando Ribalta"
+      "team": "Unknown Team",
+      "details": "RHPEdwin Díazchanged number to 39.",
+      "player": "Edwin Díaz"
+    },
+    {
+      "date": "2025-09-17",
+      "team": "Unknown Team",
+      "details": "RHPJoel Payampschanged number to 31.",
+      "player": "Joel Payamps"
+    },
+    {
+      "date": "2025-09-17",
+      "team": "Unknown Team",
+      "details": "SSFrancisco Lindorchanged number to 12.",
+      "player": "Francisco Lindor"
+    },
+    {
+      "date": "2025-09-17",
+      "team": "New York Mets",
+      "details": "New York Metsactivated CLuis Torrensfrom the 10-day injured list.",
+      "player": "Luis Torrens"
+    },
+    {
+      "date": "2025-09-17",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
+      "player": "Hayden Senger"
+    },
+    {
+      "date": "2025-09-17",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent CChad Wallachoutright to Salt Lake Bees.",
+      "player": "Chad Wallach"
+    },
+    {
+      "date": "2025-09-17",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPCam Sandersto Indianapolis Indians.",
+      "player": "Cam Sanders"
+    },
+    {
+      "date": "2025-09-17",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPJoey Gerberto Durham Bulls.",
+      "player": "Joey Gerber"
     },
     {
       "date": "2025-09-17",
@@ -195,15 +213,15 @@
     },
     {
       "date": "2025-09-17",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysselected the contract of RHPCole Wilcoxfrom Durham Bulls.",
-      "player": "Cole Wilcox"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPSauryn Laofrom Rochester Red Wings.",
+      "player": "Sauryn Lao"
     },
     {
       "date": "2025-09-17",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPJoey Gerberto Durham Bulls.",
-      "player": "Joey Gerber"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPOrlando Ribaltato Rochester Red Wings.",
+      "player": "Orlando Ribalta"
     },
     {
       "date": "2025-09-17",
@@ -219,9 +237,9 @@
     },
     {
       "date": "2025-09-17",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPCam Sandersto Indianapolis Indians.",
-      "player": "Cam Sanders"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysselected the contract of RHPCole Wilcoxfrom Durham Bulls.",
+      "player": "Cole Wilcox"
     },
     {
       "date": "2025-09-17",
@@ -231,9 +249,9 @@
     },
     {
       "date": "2025-09-17",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
-      "player": "Hayden Senger"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPCarson Ragsdaleto Gwinnett Stripers.",
+      "player": "Carson Ragsdale"
     }
   ]
 }
