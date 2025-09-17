@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-09-16T23:18:32.046304",
+  "last_updated": "2025-09-17T01:52:10.619438",
   "transactions": [
-    {
-      "date": "2025-09-16",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravestransferred CSean Murphyfrom the 10-day injured list to the 60-day injured list. Right hip labral tear.",
-      "player": "Sean Murphy"
-    },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
@@ -88,8 +82,14 @@
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "RFAndrew McCutchenchanged number to 22.",
-      "player": "Andrew McCutchen"
+      "details": "3BManny Machadochanged number to 21.",
+      "player": "Manny Machado"
+    },
+    {
+      "date": "2025-09-16",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestransferred CSean Murphyfrom the 10-day injured list to the 60-day injured list. Right hip labral tear.",
+      "player": "Sean Murphy"
     },
     {
       "date": "2025-09-16",
@@ -166,6 +166,12 @@
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
+      "details": "RHPJustin Lawrencechanged number to 61.",
+      "player": "Justin Lawrence"
+    },
+    {
+      "date": "2025-09-16",
+      "team": "Unknown Team",
       "details": "RHPMike Burrowschanged number to 53.",
       "player": "Mike Burrows"
     },
@@ -207,27 +213,45 @@
     },
     {
       "date": "2025-09-16",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated 3BEmmanuel Riverafor assignment.",
-      "player": "Emmanuel Rivera"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced SSZach Netoon the 10-day injured list retroactive to September 13, 2025. Left hand strain.",
+      "player": "Zach Neto"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
-      "details": "2BBrandon Lowechanged number to 8.",
-      "player": "Brandon Lowe"
+      "details": "CWilliam Contreraschanged number to 21.",
+      "player": "William Contreras"
     },
     {
       "date": "2025-09-16",
-      "team": "New York Mets",
-      "details": "New York Metssent CLuis Torrenson a rehab assignment to Syracuse Mets.",
-      "player": "Luis Torrens"
+      "team": "Unknown Team",
+      "details": "RHPJoel Payampschanged number to 21.",
+      "player": "Joel Payamps"
+    },
+    {
+      "date": "2025-09-16",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent LHPCarson Whisenhunton a rehab assignment to Sacramento River Cats.",
+      "player": "Carson Whisenhunt"
+    },
+    {
+      "date": "2025-09-16",
+      "team": "Unknown Team",
+      "details": "CLogan O'Hoppechanged number to 21.",
+      "player": "Logan O'Hoppe"
     },
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
       "details": "SSAndruw Monasteriochanged number to 21.",
       "player": "Andruw Monasterio"
+    },
+    {
+      "date": "2025-09-16",
+      "team": "Unknown Team",
+      "details": "RFAndrew McCutchenchanged number to 22.",
+      "player": "Andrew McCutchen"
     },
     {
       "date": "2025-09-16",
@@ -256,6 +280,12 @@
     {
       "date": "2025-09-16",
       "team": "Unknown Team",
+      "details": "RFFernando Tatis Jr.changed number to 21.",
+      "player": "Fernando Tatis Jr."
+    },
+    {
+      "date": "2025-09-16",
+      "team": "Unknown Team",
       "details": "CVictor Caratinichanged number to 17.",
       "player": "Victor Caratini"
     },
@@ -270,36 +300,6 @@
       "team": "Unknown Team",
       "details": "RFLawrence Butlerchanged number to 21.",
       "player": "Lawrence Butler"
-    },
-    {
-      "date": "2025-09-16",
-      "team": "Unknown Team",
-      "details": "CFChris Taylorchanged number to 21.",
-      "player": "Chris Taylor"
-    },
-    {
-      "date": "2025-09-16",
-      "team": "Unknown Team",
-      "details": "RHPEdwin Díazchanged number to 21.",
-      "player": "Edwin Díaz"
-    },
-    {
-      "date": "2025-09-16",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated LHPDanny Coulombefrom the 15-day injured list.",
-      "player": "Danny Coulombe"
-    },
-    {
-      "date": "2025-09-16",
-      "team": "Unknown Team",
-      "details": "CBrian Navarretochanged number to 21.",
-      "player": "Brian Navarreto"
-    },
-    {
-      "date": "2025-09-16",
-      "team": "Unknown Team",
-      "details": "LFChristian Yelichchanged number to 21.",
-      "player": "Christian Yelich"
     }
   ]
 }
