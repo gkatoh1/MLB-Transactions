@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-09-18T15:25:46.548574",
+  "last_updated": "2025-09-18T16:30:06.886233",
   "transactions": [
     {
       "date": "2025-09-18",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent CChristian Vázquezon a rehab assignment to St. Paul Saints.",
-      "player": "Christian Vázquez"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced CFKyle Isbelon the 10-day injured list. Left hamstring strain.",
+      "player": "Kyle Isbel"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "New York Mets",
+      "details": "New York Metsplaced RHPReed Garretton the 15-day injured list retroactive to September 15, 2025. Right elnow sprain.",
+      "player": "Reed Garrett"
     },
     {
       "date": "2025-09-18",
@@ -15,9 +21,9 @@
     },
     {
       "date": "2025-09-18",
-      "team": "New York Mets",
-      "details": "New York Metsplaced RHPReed Garretton the 15-day injured list retroactive to September 15, 2025. Right elnow sprain.",
-      "player": "Reed Garrett"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent CChristian Vázquezon a rehab assignment to St. Paul Saints.",
+      "player": "Christian Vázquez"
     },
     {
       "date": "2025-09-18",
@@ -33,21 +39,51 @@
     },
     {
       "date": "2025-09-18",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPWander Suerofrom Syracuse Mets.",
-      "player": "Wander Suero"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPRyan Bergerton the 15-day injured list. Right elbow strain.",
+      "player": "Ryan Bergert"
     },
     {
       "date": "2025-09-18",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPChris Devenskifrom Syracuse Mets.",
-      "player": "Chris Devenski"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned LHPKyle Backhusto Reno Aces.",
+      "player": "Kyle Backhus"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RFJohn Ravefrom Omaha Storm Chasers.",
+      "player": "John Rave"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPLuinder Avilafrom Omaha Storm Chasers.",
+      "player": "Luinder Avila"
     },
     {
       "date": "2025-09-18",
       "team": "New York Mets",
       "details": "New York Metsrecalled RHPHuascar Brazobánfrom Syracuse Mets.",
       "player": "Huascar Brazobán"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPWander Suerofrom Syracuse Mets.",
+      "player": "Wander Suero"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled LHPPhilip Abnerfrom Reno Aces.",
+      "player": "Philip Abner"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPChris Devenskifrom Syracuse Mets.",
+      "player": "Chris Devenski"
     }
   ]
 }
