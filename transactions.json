@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-09-18T18:35:19.553893",
+  "last_updated": "2025-09-18T19:19:16.771790",
   "transactions": [
+    {
+      "date": "2025-09-18",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPPaul Sewaldfrom the 60-day injured list.",
+      "player": "Paul Sewald"
+    },
     {
       "date": "2025-09-18",
       "team": "Tampa Bay Rays",
@@ -9,27 +15,15 @@
     },
     {
       "date": "2025-09-18",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent LHPBailey Falteron a rehab assignment to Omaha Storm Chasers.",
-      "player": "Bailey Falter"
-    },
-    {
-      "date": "2025-09-18",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent CChristian Vázquezon a rehab assignment to St. Paul Saints.",
-      "player": "Christian Vázquez"
-    },
-    {
-      "date": "2025-09-18",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced CFKyle Isbelon the 10-day injured list. Left hamstring strain.",
-      "player": "Kyle Isbel"
+      "team": "New York Mets",
+      "details": "New York Metsplaced LHPSean Manaeaon the paternity list.",
+      "player": "Sean Manaea"
     },
     {
       "date": "2025-09-18",
       "team": "New York Mets",
-      "details": "New York Metsplaced LHPSean Manaeaon the paternity list.",
-      "player": "Sean Manaea"
+      "details": "New York Metsdesignated RHPDom Hamelfor assignment.",
+      "player": "Dom Hamel"
     },
     {
       "date": "2025-09-18",
@@ -51,15 +45,15 @@
     },
     {
       "date": "2025-09-18",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated RHPDom Hamelfor assignment.",
-      "player": "Dom Hamel"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent CChristian Vázquezon a rehab assignment to St. Paul Saints.",
+      "player": "Christian Vázquez"
     },
     {
       "date": "2025-09-18",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated RHPPaul Sewaldfrom the 60-day injured list.",
-      "player": "Paul Sewald"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced CFKyle Isbelon the 10-day injured list. Left hamstring strain.",
+      "player": "Kyle Isbel"
     },
     {
       "date": "2025-09-18",
@@ -69,9 +63,21 @@
     },
     {
       "date": "2025-09-18",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent LHPBailey Falteron a rehab assignment to Omaha Storm Chasers.",
+      "player": "Bailey Falter"
+    },
+    {
+      "date": "2025-09-18",
       "team": "New York Mets",
       "details": "New York Metsrecalled RHPHuascar Brazobánfrom Syracuse Mets.",
       "player": "Huascar Brazobán"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RFJohn Ravefrom Omaha Storm Chasers.",
+      "player": "John Rave"
     },
     {
       "date": "2025-09-18",
@@ -87,15 +93,9 @@
     },
     {
       "date": "2025-09-18",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksselected the contract of LHPPhilip Abnerfrom Reno Aces.",
-      "player": "Philip Abner"
-    },
-    {
-      "date": "2025-09-18",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RFJohn Ravefrom Omaha Storm Chasers.",
-      "player": "John Rave"
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPChris Devenskifrom Syracuse Mets.",
+      "player": "Chris Devenski"
     },
     {
       "date": "2025-09-18",
@@ -105,9 +105,9 @@
     },
     {
       "date": "2025-09-18",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPChris Devenskifrom Syracuse Mets.",
-      "player": "Chris Devenski"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksselected the contract of LHPPhilip Abnerfrom Reno Aces.",
+      "player": "Philip Abner"
     }
   ]
 }
