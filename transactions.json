@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-09-18T21:22:02.469500",
+  "last_updated": "2025-09-18T22:20:15.899370",
   "transactions": [
+    {
+      "date": "2025-09-18",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPDom Hamelfor assignment.",
+      "player": "Dom Hamel"
+    },
     {
       "date": "2025-09-18",
       "team": "Detroit Tigers",
@@ -16,14 +22,32 @@
     {
       "date": "2025-09-18",
       "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent LHPBailey Falteron a rehab assignment to Omaha Storm Chasers.",
+      "player": "Bailey Falter"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent CChristian Vázquezon a rehab assignment to St. Paul Saints.",
+      "player": "Christian Vázquez"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "Kansas City Royals",
       "details": "Kansas City Royalsplaced RHPRyan Bergerton the 15-day injured list. Right elbow strain.",
       "player": "Ryan Bergert"
     },
     {
       "date": "2025-09-18",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersreleased RHPCodi Heuer.",
-      "player": "Codi Heuer"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced RHPJosé Sorianoon the 15-day injured list. Right forearm contusion.",
+      "player": "José Soriano"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "New York Mets",
+      "details": "New York Metsplaced LHPSean Manaeaon the paternity list.",
+      "player": "Sean Manaea"
     },
     {
       "date": "2025-09-18",
@@ -39,33 +63,21 @@
     },
     {
       "date": "2025-09-18",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersreleased RHPCodi Heuer.",
+      "player": "Codi Heuer"
+    },
+    {
+      "date": "2025-09-18",
       "team": "New York Mets",
       "details": "New York Metsplaced RHPReed Garretton the 15-day injured list retroactive to September 15, 2025. Right elnow sprain.",
       "player": "Reed Garrett"
     },
     {
       "date": "2025-09-18",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent LHPBailey Falteron a rehab assignment to Omaha Storm Chasers.",
-      "player": "Bailey Falter"
-    },
-    {
-      "date": "2025-09-18",
-      "team": "New York Mets",
-      "details": "New York Metsplaced LHPSean Manaeaon the paternity list.",
-      "player": "Sean Manaea"
-    },
-    {
-      "date": "2025-09-18",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated RHPDom Hamelfor assignment.",
-      "player": "Dom Hamel"
-    },
-    {
-      "date": "2025-09-18",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent CChristian Vázquezon a rehab assignment to St. Paul Saints.",
-      "player": "Christian Vázquez"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksselected the contract of LHPPhilip Abnerfrom Reno Aces.",
+      "player": "Philip Abner"
     },
     {
       "date": "2025-09-18",
@@ -75,15 +87,27 @@
     },
     {
       "date": "2025-09-18",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPWander Suerofrom Syracuse Mets.",
+      "player": "Wander Suero"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned LHPKyle Backhusto Reno Aces.",
+      "player": "Kyle Backhus"
+    },
+    {
+      "date": "2025-09-18",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsrecalled RHPLuinder Avilafrom Omaha Storm Chasers.",
       "player": "Luinder Avila"
     },
     {
       "date": "2025-09-18",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPWander Suerofrom Syracuse Mets.",
-      "player": "Wander Suero"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled LHPSam Aldegherifrom Salt Lake Bees.",
+      "player": "Sam Aldegheri"
     },
     {
       "date": "2025-09-18",
@@ -96,18 +120,6 @@
       "team": "New York Mets",
       "details": "New York Metsrecalled RHPChris Devenskifrom Syracuse Mets.",
       "player": "Chris Devenski"
-    },
-    {
-      "date": "2025-09-18",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksselected the contract of LHPPhilip Abnerfrom Reno Aces.",
-      "player": "Philip Abner"
-    },
-    {
-      "date": "2025-09-18",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned LHPKyle Backhusto Reno Aces.",
-      "player": "Kyle Backhus"
     }
   ]
 }
