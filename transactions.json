@@ -1,4 +1,23 @@
 {
-  "last_updated": "2025-09-19T14:23:45.503931",
-  "transactions": []
+  "last_updated": "2025-09-19T15:24:40.358771",
+  "transactions": [
+    {
+      "date": "2025-09-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated SSJonathan Ornelasfor assignment.",
+      "player": "Jonathan Ornelas"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPDane Dunningto Gwinnett Stripers.",
+      "player": "Dane Dunning"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPJhancarlos Larafrom Gwinnett Stripers.",
+      "player": "Jhancarlos Lara"
+    }
+  ]
 }
