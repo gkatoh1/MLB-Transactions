@@ -1,17 +1,23 @@
 {
-  "last_updated": "2025-09-19T18:34:05.201686",
+  "last_updated": "2025-09-19T19:18:46.019478",
   "transactions": [
     {
       "date": "2025-09-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPScott Blewettfor assignment.",
-      "player": "Scott Blewett"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPLucas Ercegon the 15-day injured list. Right shoulder impingement syndrome.",
+      "player": "Lucas Erceg"
     },
     {
       "date": "2025-09-19",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxplaced LHPMartín Pérezon the 15-day injured list retroactive to September 18, 2025. Left shoulder strain.",
       "player": "Martín Pérez"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RHPSteven Cruzfrom the 15-day injured list.",
+      "player": "Steven Cruz"
     },
     {
       "date": "2025-09-19",
@@ -39,6 +45,12 @@
     },
     {
       "date": "2025-09-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPScott Blewettfor assignment.",
+      "player": "Scott Blewett"
+    },
+    {
+      "date": "2025-09-19",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPDane Dunningto Gwinnett Stripers.",
       "player": "Dane Dunning"
@@ -51,27 +63,27 @@
     },
     {
       "date": "2025-09-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Norfolk Tides.",
-      "player": "Jose Espada"
-    },
-    {
-      "date": "2025-09-19",
       "team": "Miami Marlins",
       "details": "Miami Marlinsoptioned RHPFreddy Tarnokto Jacksonville Jumbo Shrimp.",
       "player": "Freddy Tarnok"
     },
     {
       "date": "2025-09-19",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPJhancarlos Larafrom Gwinnett Stripers.",
-      "player": "Jhancarlos Lara"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Norfolk Tides.",
+      "player": "Jose Espada"
     },
     {
       "date": "2025-09-19",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent 3BEmmanuel Riveraoutright to Norfolk Tides.",
       "player": "Emmanuel Rivera"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPJhancarlos Larafrom Gwinnett Stripers.",
+      "player": "Jhancarlos Lara"
     }
   ]
 }
