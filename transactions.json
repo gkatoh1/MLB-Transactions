@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-09-19T19:18:46.019478",
+  "last_updated": "2025-09-19T20:25:47.060660",
   "transactions": [
     {
       "date": "2025-09-19",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced RHPLucas Ercegon the 15-day injured list. Right shoulder impingement syndrome.",
-      "player": "Lucas Erceg"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent LFZach Dezenzoon a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Zach Dezenzo"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Houston Astros",
+      "details": "Houston Astrostransferred RHPKaleb Ortfrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
+      "player": "Kaleb Ort"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPScott Blewettfrom the 60-day injured list.",
+      "player": "Scott Blewett"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPScott Blewettfor assignment.",
+      "player": "Scott Blewett"
     },
     {
       "date": "2025-09-19",
@@ -15,9 +33,21 @@
     },
     {
       "date": "2025-09-19",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated 3BIsaac Paredesfrom the 60-day injured list.",
+      "player": "Isaac Paredes"
+    },
+    {
+      "date": "2025-09-19",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsactivated RHPSteven Cruzfrom the 15-day injured list.",
       "player": "Steven Cruz"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RFMatt Wallneron the 10-day injured list retroactive to September 18, 2025. Right oblique strain.",
+      "player": "Matt Wallner"
     },
     {
       "date": "2025-09-19",
@@ -39,21 +69,15 @@
     },
     {
       "date": "2025-09-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RHPScott Blewettfrom the 60-day injured list.",
-      "player": "Scott Blewett"
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced LFYordan Alvarezon the 10-day injured list retroactive to September 16, 2025. Left ankle sprain.",
+      "player": "Yordan Alvarez"
     },
     {
       "date": "2025-09-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPScott Blewettfor assignment.",
-      "player": "Scott Blewett"
-    },
-    {
-      "date": "2025-09-19",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPDane Dunningto Gwinnett Stripers.",
-      "player": "Dane Dunning"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPLucas Ercegon the 15-day injured list. Right shoulder impingement syndrome.",
+      "player": "Lucas Erceg"
     },
     {
       "date": "2025-09-19",
@@ -63,15 +87,15 @@
     },
     {
       "date": "2025-09-19",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPFreddy Tarnokto Jacksonville Jumbo Shrimp.",
-      "player": "Freddy Tarnok"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled CFDaShawn Keirsey Jr.from St. Paul Saints.",
+      "player": "DaShawn Keirsey Jr."
     },
     {
       "date": "2025-09-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Norfolk Tides.",
-      "player": "Jose Espada"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPFreddy Tarnokto Jacksonville Jumbo Shrimp.",
+      "player": "Freddy Tarnok"
     },
     {
       "date": "2025-09-19",
@@ -84,6 +108,18 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesselected the contract of RHPJhancarlos Larafrom Gwinnett Stripers.",
       "player": "Jhancarlos Lara"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPDane Dunningto Gwinnett Stripers.",
+      "player": "Dane Dunning"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Norfolk Tides.",
+      "player": "Jose Espada"
     }
   ]
 }
