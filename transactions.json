@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-18T23:21:38.172141",
+  "last_updated": "2025-09-19T01:55:34.512549",
   "transactions": [
     {
       "date": "2025-09-18",
@@ -15,15 +15,21 @@
     },
     {
       "date": "2025-09-18",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksreleased RHPAnthony DeSclafani.",
+      "player": "Anthony DeSclafani"
+    },
+    {
+      "date": "2025-09-18",
       "team": "New York Mets",
       "details": "New York Metsplaced LHPSean Manaeaon the paternity list.",
       "player": "Sean Manaea"
     },
     {
       "date": "2025-09-18",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated RHPDom Hamelfor assignment.",
-      "player": "Dom Hamel"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced RHPJosé Sorianoon the 15-day injured list. Right forearm contusion.",
+      "player": "José Soriano"
     },
     {
       "date": "2025-09-18",
@@ -33,15 +39,15 @@
     },
     {
       "date": "2025-09-18",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced CFKyle Isbelon the 10-day injured list. Left hamstring strain.",
-      "player": "Kyle Isbel"
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPDom Hamelfor assignment.",
+      "player": "Dom Hamel"
     },
     {
       "date": "2025-09-18",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsplaced RHPJosé Sorianoon the 15-day injured list. Right forearm contusion.",
-      "player": "José Soriano"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersreleased RHPCodi Heuer.",
+      "player": "Codi Heuer"
     },
     {
       "date": "2025-09-18",
@@ -63,6 +69,18 @@
     },
     {
       "date": "2025-09-18",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestransferred LHPAaron Bummerfrom the 15-day injured list to the 60-day injured list. Left shoulder inflammation.",
+      "player": "Aaron Bummer"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssigned free agent RHPMatt Sauerto a minor league contract.",
+      "player": "Matt Sauer"
+    },
+    {
+      "date": "2025-09-18",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinssent CChristian Vázquezon a rehab assignment to St. Paul Saints.",
       "player": "Christian Vázquez"
@@ -75,45 +93,9 @@
     },
     {
       "date": "2025-09-18",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersreleased RHPCodi Heuer.",
-      "player": "Codi Heuer"
-    },
-    {
-      "date": "2025-09-18",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RFJohn Ravefrom Omaha Storm Chasers.",
-      "player": "John Rave"
-    },
-    {
-      "date": "2025-09-18",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPChris Devenskifrom Syracuse Mets.",
-      "player": "Chris Devenski"
-    },
-    {
-      "date": "2025-09-18",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksselected the contract of LHPPhilip Abnerfrom Reno Aces.",
-      "player": "Philip Abner"
-    },
-    {
-      "date": "2025-09-18",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsrecalled LHPSam Aldegherifrom Salt Lake Bees.",
-      "player": "Sam Aldegheri"
-    },
-    {
-      "date": "2025-09-18",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned LHPKyle Backhusto Reno Aces.",
-      "player": "Kyle Backhus"
-    },
-    {
-      "date": "2025-09-18",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPHuascar Brazobánfrom Syracuse Mets.",
-      "player": "Huascar Brazobán"
+      "details": "Kansas City Royalsplaced CFKyle Isbelon the 10-day injured list. Left hamstring strain.",
+      "player": "Kyle Isbel"
     },
     {
       "date": "2025-09-18",
@@ -126,6 +108,60 @@
       "team": "New York Mets",
       "details": "New York Metsselected the contract of RHPWander Suerofrom Syracuse Mets.",
       "player": "Wander Suero"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksselected the contract of LHPPhilip Abnerfrom Reno Aces.",
+      "player": "Philip Abner"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPChris Devenskifrom Syracuse Mets.",
+      "player": "Chris Devenski"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled LHPSam Aldegherifrom Salt Lake Bees.",
+      "player": "Sam Aldegheri"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent LHPRyan Boruckioutright to Buffalo Bisons.",
+      "player": "Ryan Borucki"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPHuascar Brazobánfrom Syracuse Mets.",
+      "player": "Huascar Brazobán"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed 2BBrett Wiselyoff waivers fromSan Francisco Giants.",
+      "player": "Brett Wisely"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RFJohn Ravefrom Omaha Storm Chasers.",
+      "player": "John Rave"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned 2BBrett Wiselyto Gwinnett Stripers.",
+      "player": "Brett Wisely"
+    },
+    {
+      "date": "2025-09-18",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned LHPKyle Backhusto Reno Aces.",
+      "player": "Kyle Backhus"
     }
   ]
 }
