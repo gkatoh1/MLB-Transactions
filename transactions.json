@@ -1,6 +1,48 @@
 {
-  "last_updated": "2025-09-19T22:22:00.256259",
+  "last_updated": "2025-09-19T23:21:21.219219",
   "transactions": [
+    {
+      "date": "2025-09-19",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced LHPMartín Pérezon the 15-day injured list retroactive to September 18, 2025. Left shoulder strain.",
+      "player": "Martín Pérez"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated 1BNolan Schanuelfrom the 10-day injured list.",
+      "player": "Nolan Schanuel"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPKyle Finneganfrom the 15-day injured list.",
+      "player": "Kyle Finnegan"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPJuan Burgoson a rehab assignment to Reno Aces.",
+      "player": "Juan Burgos"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersdesignated RHPCarl Edwards Jr.for assignment.",
+      "player": "Carl Edwards Jr."
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated 3BIsaac Paredesfrom the 60-day injured list.",
+      "player": "Isaac Paredes"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPJosiah Grayon a rehab assignment to Rochester Red Wings.",
+      "player": "Josiah Gray"
+    },
     {
       "date": "2025-09-19",
       "team": "Kansas City Royals",
@@ -9,9 +51,9 @@
     },
     {
       "date": "2025-09-19",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPJosiah Grayon a rehab assignment to Rochester Red Wings.",
-      "player": "Josiah Gray"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPJuan Burgoson a rehab assignment to Reno Aces.",
+      "player": "Juan Burgos"
     },
     {
       "date": "2025-09-19",
@@ -33,27 +75,27 @@
     },
     {
       "date": "2025-09-19",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated 3BIsaac Paredesfrom the 60-day injured list.",
-      "player": "Isaac Paredes"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPLucas Ercegon the 15-day injured list. Right shoulder impingement syndrome.",
+      "player": "Lucas Erceg"
     },
     {
       "date": "2025-09-19",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated RHPKyle Finneganfrom the 15-day injured list.",
-      "player": "Kyle Finnegan"
-    },
-    {
-      "date": "2025-09-19",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersdesignated RHPCarl Edwards Jr.for assignment.",
-      "player": "Carl Edwards Jr."
+      "team": "New York Mets",
+      "details": "New York Metssent CFTyrone Tayloron a rehab assignment to Syracuse Mets.",
+      "player": "Tyrone Taylor"
     },
     {
       "date": "2025-09-19",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesactivated RHPScott Blewettfrom the 60-day injured list.",
       "player": "Scott Blewett"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent LHPAnthony Misiewiczon a rehab assignment to St. Paul Saints.",
+      "player": "Anthony Misiewicz"
     },
     {
       "date": "2025-09-19",
@@ -66,6 +108,12 @@
       "team": "Houston Astros",
       "details": "Houston Astrostransferred RHPKaleb Ortfrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
       "player": "Kaleb Ort"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RFMatt Wallneron the 10-day injured list retroactive to September 18, 2025. Right oblique strain.",
+      "player": "Matt Wallner"
     },
     {
       "date": "2025-09-19",
@@ -99,33 +147,9 @@
     },
     {
       "date": "2025-09-19",
-      "team": "New York Mets",
-      "details": "New York Metssent CFTyrone Tayloron a rehab assignment to Syracuse Mets.",
-      "player": "Tyrone Taylor"
-    },
-    {
-      "date": "2025-09-19",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced RFMatt Wallneron the 10-day injured list retroactive to September 18, 2025. Right oblique strain.",
-      "player": "Matt Wallner"
-    },
-    {
-      "date": "2025-09-19",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced RHPLucas Ercegon the 15-day injured list. Right shoulder impingement syndrome.",
-      "player": "Lucas Erceg"
-    },
-    {
-      "date": "2025-09-19",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent LHPAnthony Misiewiczon a rehab assignment to St. Paul Saints.",
-      "player": "Anthony Misiewicz"
-    },
-    {
-      "date": "2025-09-19",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced LHPMartín Pérezon the 15-day injured list retroactive to September 18, 2025. Left shoulder strain.",
-      "player": "Martín Pérez"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPFreddy Tarnokto Jacksonville Jumbo Shrimp.",
+      "player": "Freddy Tarnok"
     },
     {
       "date": "2025-09-19",
@@ -136,26 +160,8 @@
     {
       "date": "2025-09-19",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPJhancarlos Larafrom Gwinnett Stripers.",
-      "player": "Jhancarlos Lara"
-    },
-    {
-      "date": "2025-09-19",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessent OFBrewer Hicklenoutright to Lehigh Valley IronPigs.",
-      "player": "Brewer Hicklen"
-    },
-    {
-      "date": "2025-09-19",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned LHPBailey Hornto Toledo Mud Hens.",
-      "player": "Bailey Horn"
-    },
-    {
-      "date": "2025-09-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Norfolk Tides.",
-      "player": "Jose Espada"
+      "details": "Atlanta Bravesoptioned RHPDane Dunningto Gwinnett Stripers.",
+      "player": "Dane Dunning"
     },
     {
       "date": "2025-09-19",
@@ -171,15 +177,21 @@
     },
     {
       "date": "2025-09-19",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPFreddy Tarnokto Jacksonville Jumbo Shrimp.",
-      "player": "Freddy Tarnok"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent OFBrewer Hicklenoutright to Lehigh Valley IronPigs.",
+      "player": "Brewer Hicklen"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Norfolk Tides.",
+      "player": "Jose Espada"
     },
     {
       "date": "2025-09-19",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPDane Dunningto Gwinnett Stripers.",
-      "player": "Dane Dunning"
+      "details": "Atlanta Bravesselected the contract of RHPJhancarlos Larafrom Gwinnett Stripers.",
+      "player": "Jhancarlos Lara"
     },
     {
       "date": "2025-09-19",
@@ -189,15 +201,27 @@
     },
     {
       "date": "2025-09-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent 3BEmmanuel Riveraoutright to Norfolk Tides.",
-      "player": "Emmanuel Rivera"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned 1BLogan Davidsonto Salt Lake Bees.",
+      "player": "Logan Davidson"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned LHPBailey Hornto Toledo Mud Hens.",
+      "player": "Bailey Horn"
     },
     {
       "date": "2025-09-19",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesoptioned 2BRafael Lantiguato Lehigh Valley IronPigs.",
       "player": "Rafael Lantigua"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent 3BEmmanuel Riveraoutright to Norfolk Tides.",
+      "player": "Emmanuel Rivera"
     }
   ]
 }
