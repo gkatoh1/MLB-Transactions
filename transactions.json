@@ -1,11 +1,65 @@
 {
-  "last_updated": "2025-09-19T17:20:39.728811",
+  "last_updated": "2025-09-19T18:34:05.201686",
   "transactions": [
+    {
+      "date": "2025-09-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPScott Blewettfor assignment.",
+      "player": "Scott Blewett"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced LHPMartín Pérezon the 15-day injured list retroactive to September 18, 2025. Left shoulder strain.",
+      "player": "Martín Pérez"
+    },
     {
       "date": "2025-09-19",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesdesignated SSJonathan Ornelasfor assignment.",
       "player": "Jonathan Ornelas"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPChayce McDermotton the bereavement list.",
+      "player": "Chayce McDermott"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated RHPFreddy Tarnokfrom the 15-day injured list.",
+      "player": "Freddy Tarnok"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPScott Blewettfrom the 60-day injured list.",
+      "player": "Scott Blewett"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPDane Dunningto Gwinnett Stripers.",
+      "player": "Dane Dunning"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPCam Booserfrom Charlotte Knights.",
+      "player": "Cam Booser"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Norfolk Tides.",
+      "player": "Jose Espada"
+    },
+    {
+      "date": "2025-09-19",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPFreddy Tarnokto Jacksonville Jumbo Shrimp.",
+      "player": "Freddy Tarnok"
     },
     {
       "date": "2025-09-19",
@@ -15,9 +69,9 @@
     },
     {
       "date": "2025-09-19",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPDane Dunningto Gwinnett Stripers.",
-      "player": "Dane Dunning"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent 3BEmmanuel Riveraoutright to Norfolk Tides.",
+      "player": "Emmanuel Rivera"
     }
   ]
 }
