@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-09-20T22:20:43.646986",
+  "last_updated": "2025-09-20T23:20:27.862349",
   "transactions": [
+    {
+      "date": "2025-09-20",
+      "team": "Athletics",
+      "details": "Athleticsplaced 2BZack Gelofon the 10-day injured list. Left shoulder dislocation.",
+      "player": "Zack Gelof"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced RFNolan Joneson the 10-day injured list. Right oblique strain.",
+      "player": "Nolan Jones"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated RHPOwen Whitefrom the 15-day injured list.",
+      "player": "Owen White"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced RHPRobert Stephensonon the 15-day injured list. Right elbow inflammation.",
+      "player": "Robert Stephenson"
+    },
     {
       "date": "2025-09-20",
       "team": "Athletics",
@@ -16,14 +40,14 @@
     {
       "date": "2025-09-20",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubssent RHPDaniel Palenciaon a rehab assignment to Iowa Cubs.",
-      "player": "Daniel Palencia"
+      "details": "Chicago Cubsdesignated RHPNate Pearsonfor assignment.",
+      "player": "Nate Pearson"
     },
     {
       "date": "2025-09-20",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansplaced RFNolan Joneson the 10-day injured list. Right oblique strain.",
-      "player": "Nolan Jones"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPDaniel Palenciaon a rehab assignment to Iowa Cubs.",
+      "player": "Daniel Palencia"
     },
     {
       "date": "2025-09-20",
@@ -51,27 +75,9 @@
     },
     {
       "date": "2025-09-20",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated RHPOwen Whitefrom the 15-day injured list.",
-      "player": "Owen White"
-    },
-    {
-      "date": "2025-09-20",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsplaced RHPRobert Stephensonon the 15-day injured list. Right elbow inflammation.",
-      "player": "Robert Stephenson"
-    },
-    {
-      "date": "2025-09-20",
-      "team": "Athletics",
-      "details": "Athleticsplaced 2BZack Gelofon the 10-day injured list. Left shoulder dislocation.",
-      "player": "Zack Gelof"
-    },
-    {
-      "date": "2025-09-20",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPDom Hamelto Norfolk Tides.",
-      "player": "Dom Hamel"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPEli Morganfrom the 60-day injured list.",
+      "player": "Eli Morgan"
     },
     {
       "date": "2025-09-20",
@@ -93,15 +99,51 @@
     },
     {
       "date": "2025-09-20",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsrecalled RHPSam Bachmanfrom Salt Lake Bees.",
-      "player": "Sam Bachman"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPEli Morganto Iowa Cubs.",
+      "player": "Eli Morgan"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPOwen Whiteto Charlotte Knights.",
+      "player": "Owen White"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPDom Hamelto Norfolk Tides.",
+      "player": "Dom Hamel"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of LHPBruce Zimmermannfrom Nashville Sounds.",
+      "player": "Bruce Zimmermann"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPCole Wilcoxto Durham Bulls.",
+      "player": "Cole Wilcox"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of LHPRichard Loveladyfrom Syracuse Mets.",
+      "player": "Richard Lovelady"
     },
     {
       "date": "2025-09-20",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansrecalled CFPetey Halpinfrom Columbus Clippers.",
       "player": "Petey Halpin"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled RHPSam Bachmanfrom Salt Lake Bees.",
+      "player": "Sam Bachman"
     },
     {
       "date": "2025-09-20",
@@ -117,39 +159,15 @@
     },
     {
       "date": "2025-09-20",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPOwen Whiteto Charlotte Knights.",
-      "player": "Owen White"
-    },
-    {
-      "date": "2025-09-20",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersselected the contract of LHPBruce Zimmermannfrom Nashville Sounds.",
-      "player": "Bruce Zimmermann"
-    },
-    {
-      "date": "2025-09-20",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of LHPRichard Loveladyfrom Syracuse Mets.",
-      "player": "Richard Lovelady"
-    },
-    {
-      "date": "2025-09-20",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPCole Wilcoxto Durham Bulls.",
-      "player": "Cole Wilcox"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed RHPDom Hameloff waivers fromNew York Mets.",
+      "player": "Dom Hamel"
     },
     {
       "date": "2025-09-20",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsoptioned RHPPorter Hodgeto Iowa Cubs.",
       "player": "Porter Hodge"
-    },
-    {
-      "date": "2025-09-20",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesclaimed RHPDom Hameloff waivers fromNew York Mets.",
-      "player": "Dom Hamel"
     }
   ]
 }
