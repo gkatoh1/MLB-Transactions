@@ -1,17 +1,11 @@
 {
-  "last_updated": "2025-09-20T18:30:24.215793",
+  "last_updated": "2025-09-20T19:15:47.842711",
   "transactions": [
     {
       "date": "2025-09-20",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansplaced RFNolan Joneson the 10-day injured list. Right oblique strain.",
       "player": "Nolan Jones"
-    },
-    {
-      "date": "2025-09-20",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated RHPWander Suerofor assignment.",
-      "player": "Wander Suero"
     },
     {
       "date": "2025-09-20",
@@ -22,8 +16,20 @@
     {
       "date": "2025-09-20",
       "team": "New York Mets",
-      "details": "New York Metsselected the contract of LHPRichard Loveladyfrom Syracuse Mets.",
-      "player": "Richard Lovelady"
+      "details": "New York Metsdesignated RHPWander Suerofor assignment.",
+      "player": "Wander Suero"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated RHPJoel Payampsfor assignment.",
+      "player": "Joel Payamps"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed RHPDom Hameloff waivers fromNew York Mets.",
+      "player": "Dom Hamel"
     },
     {
       "date": "2025-09-20",
@@ -33,9 +39,39 @@
     },
     {
       "date": "2025-09-20",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPCole Wilcoxto Durham Bulls.",
+      "player": "Cole Wilcox"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPJesse Scholtensfrom Durham Bulls.",
+      "player": "Jesse Scholtens"
+    },
+    {
+      "date": "2025-09-20",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned RHPOwen Whiteto Charlotte Knights.",
       "player": "Owen White"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPDom Hamelto Norfolk Tides.",
+      "player": "Dom Hamel"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of LHPBruce Zimmermannfrom Nashville Sounds.",
+      "player": "Bruce Zimmermann"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of LHPRichard Loveladyfrom Syracuse Mets.",
+      "player": "Richard Lovelady"
     }
   ]
 }
