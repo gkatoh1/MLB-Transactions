@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-09-20T19:15:47.842711",
+  "last_updated": "2025-09-20T20:23:04.047436",
   "transactions": [
+    {
+      "date": "2025-09-20",
+      "team": "Athletics",
+      "details": "Athleticsplaced LHPSean Newcombon the 15-day injured list. Left elbow inflammation.",
+      "player": "Sean Newcomb"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Athletics",
+      "details": "Athleticsplaced 2BZack Gelofon the 10-day injured list. Left shoulder dislocation.",
+      "player": "Zack Gelof"
+    },
     {
       "date": "2025-09-20",
       "team": "Cleveland Guardians",
@@ -27,9 +39,63 @@
     },
     {
       "date": "2025-09-20",
+      "team": "Athletics",
+      "details": "Athleticsactivated 3BMax Muncyfrom the 10-day injured list.",
+      "player": "Max Muncy"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPPorter Hodgeto Iowa Cubs.",
+      "player": "Porter Hodge"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPDom Hamelto Norfolk Tides.",
+      "player": "Dom Hamel"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPJesse Scholtensfrom Durham Bulls.",
+      "player": "Jesse Scholtens"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPScott McGoughfrom Las Vegas Aviators.",
+      "player": "Scott McGough"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPJordan Wicksfrom Iowa Cubs.",
+      "player": "Jordan Wicks"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPOwen Whiteto Charlotte Knights.",
+      "player": "Owen White"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of LHPBruce Zimmermannfrom Nashville Sounds.",
+      "player": "Bruce Zimmermann"
+    },
+    {
+      "date": "2025-09-20",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesclaimed RHPDom Hameloff waivers fromNew York Mets.",
       "player": "Dom Hamel"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of LHPRichard Loveladyfrom Syracuse Mets.",
+      "player": "Richard Lovelady"
     },
     {
       "date": "2025-09-20",
@@ -42,36 +108,6 @@
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysoptioned RHPCole Wilcoxto Durham Bulls.",
       "player": "Cole Wilcox"
-    },
-    {
-      "date": "2025-09-20",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPJesse Scholtensfrom Durham Bulls.",
-      "player": "Jesse Scholtens"
-    },
-    {
-      "date": "2025-09-20",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPOwen Whiteto Charlotte Knights.",
-      "player": "Owen White"
-    },
-    {
-      "date": "2025-09-20",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPDom Hamelto Norfolk Tides.",
-      "player": "Dom Hamel"
-    },
-    {
-      "date": "2025-09-20",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersselected the contract of LHPBruce Zimmermannfrom Nashville Sounds.",
-      "player": "Bruce Zimmermann"
-    },
-    {
-      "date": "2025-09-20",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of LHPRichard Loveladyfrom Syracuse Mets.",
-      "player": "Richard Lovelady"
     }
   ]
 }
