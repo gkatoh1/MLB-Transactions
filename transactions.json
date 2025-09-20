@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-20T17:18:06.051658",
+  "last_updated": "2025-09-20T18:30:24.215793",
   "transactions": [
     {
       "date": "2025-09-20",
@@ -9,9 +9,33 @@
     },
     {
       "date": "2025-09-20",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPWander Suerofor assignment.",
+      "player": "Wander Suero"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated RHPOwen Whitefrom the 15-day injured list.",
+      "player": "Owen White"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of LHPRichard Loveladyfrom Syracuse Mets.",
+      "player": "Richard Lovelady"
+    },
+    {
+      "date": "2025-09-20",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansrecalled CFPetey Halpinfrom Columbus Clippers.",
       "player": "Petey Halpin"
+    },
+    {
+      "date": "2025-09-20",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPOwen Whiteto Charlotte Knights.",
+      "player": "Owen White"
     }
   ]
 }
