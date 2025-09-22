@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-09-22T21:20:38.264289",
+  "last_updated": "2025-09-22T22:22:41.737657",
   "transactions": [
     {
       "date": "2025-09-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated CAdley Rutschmanfrom the 10-day injured list.",
+      "player": "Adley Rutschman"
+    },
+    {
+      "date": "2025-09-22",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated RHPEdward Cabrerafrom the 15-day injured list.",
+      "player": "Edward Cabrera"
+    },
+    {
+      "date": "2025-09-22",
       "team": "Atlanta Braves",
-      "details": "RHPJoel Payampsroster status changed byAtlanta Braves.",
-      "player": "Joel Payamps"
+      "details": "Atlanta Bravessigned free agent RHPCharlie Morton.",
+      "player": "Charlie Morton"
     },
     {
       "date": "2025-09-22",
@@ -15,15 +27,45 @@
     },
     {
       "date": "2025-09-22",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated CFDerek Hillfrom the 10-day injured list.",
+      "player": "Derek Hill"
+    },
+    {
+      "date": "2025-09-22",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPRhett Lowderfrom the 60-day injured list.",
+      "player": "Rhett Lowder"
+    },
+    {
+      "date": "2025-09-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPCarson Ragsdalefor assignment.",
+      "player": "Carson Ragsdale"
+    },
+    {
+      "date": "2025-09-22",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated LFGriffin Conine.",
+      "player": "Griffin Conine"
+    },
+    {
+      "date": "2025-09-22",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsdesignated CFDerek Hillfor assignment.",
+      "player": "Derek Hill"
+    },
+    {
+      "date": "2025-09-22",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesdesignated RHPConnor Seaboldfor assignment.",
       "player": "Connor Seabold"
     },
     {
       "date": "2025-09-22",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated CAdley Rutschmanfrom the 10-day injured list.",
-      "player": "Adley Rutschman"
+      "team": "Atlanta Braves",
+      "details": "RHPJoel Payampsroster status changed byAtlanta Braves.",
+      "player": "Joel Payamps"
     },
     {
       "date": "2025-09-22",
@@ -33,9 +75,33 @@
     },
     {
       "date": "2025-09-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed RHPJoel Payampsoff waivers fromMilwaukee Brewers.",
+      "player": "Joel Payamps"
+    },
+    {
+      "date": "2025-09-22",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned SSLuis Vázquezto FCL Orioles.",
       "player": "Luis Vázquez"
+    },
+    {
+      "date": "2025-09-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPJhancarlos Larato FCL Braves.",
+      "player": "Jhancarlos Lara"
+    },
+    {
+      "date": "2025-09-22",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned LFJoey Wiemerto Jacksonville Jumbo Shrimp.",
+      "player": "Joey Wiemer"
+    },
+    {
+      "date": "2025-09-22",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPAdam Mazurto Jacksonville Jumbo Shrimp.",
+      "player": "Adam Mazur"
     },
     {
       "date": "2025-09-22",
@@ -45,9 +111,9 @@
     },
     {
       "date": "2025-09-22",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesclaimed RHPJoel Payampsoff waivers fromMilwaukee Brewers.",
-      "player": "Joel Payamps"
+      "team": "New York Mets",
+      "details": "New York Metssent RHPWander Suerooutright to Syracuse Mets.",
+      "player": "Wander Suero"
     }
   ]
 }
