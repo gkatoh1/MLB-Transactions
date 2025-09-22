@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-22T19:19:10.046473",
+  "last_updated": "2025-09-22T20:26:41.909690",
   "transactions": [
     {
       "date": "2025-09-22",
@@ -15,6 +15,12 @@
     },
     {
       "date": "2025-09-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned CFDaShawn Keirsey Jr.to St. Paul Saints.",
+      "player": "DaShawn Keirsey Jr."
+    },
+    {
+      "date": "2025-09-22",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned SSLuis Vázquezto FCL Orioles.",
       "player": "Luis Vázquez"
@@ -24,12 +30,6 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent RHPScott Blewettoutright to FCL Orioles.",
       "player": "Scott Blewett"
-    },
-    {
-      "date": "2025-09-22",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned CFDaShawn Keirsey Jr.to St. Paul Saints.",
-      "player": "DaShawn Keirsey Jr."
     }
   ]
 }
