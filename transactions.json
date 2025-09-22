@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-09-22T20:26:41.909690",
+  "last_updated": "2025-09-22T21:20:38.264289",
   "transactions": [
+    {
+      "date": "2025-09-22",
+      "team": "Atlanta Braves",
+      "details": "RHPJoel Payampsroster status changed byAtlanta Braves.",
+      "player": "Joel Payamps"
+    },
     {
       "date": "2025-09-22",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsactivated CChristian Vázquezfrom the 10-day injured list.",
       "player": "Christian Vázquez"
+    },
+    {
+      "date": "2025-09-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPConnor Seaboldfor assignment.",
+      "player": "Connor Seabold"
     },
     {
       "date": "2025-09-22",
@@ -30,6 +42,12 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent RHPScott Blewettoutright to FCL Orioles.",
       "player": "Scott Blewett"
+    },
+    {
+      "date": "2025-09-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed RHPJoel Payampsoff waivers fromMilwaukee Brewers.",
+      "player": "Joel Payamps"
     }
   ]
 }
