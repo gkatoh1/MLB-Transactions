@@ -1,11 +1,35 @@
 {
-  "last_updated": "2025-09-23T18:35:44.225045",
+  "last_updated": "2025-09-23T19:19:52.251787",
   "transactions": [
+    {
+      "date": "2025-09-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPColin Selbyfrom the 15-day injured list.",
+      "player": "Colin Selby"
+    },
     {
       "date": "2025-09-23",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratestransferred 2BRonny Simonfrom the 10-day injured list to the 60-day injured list. Dislocated left shoulder.",
       "player": "Ronny Simon"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Athletics",
+      "details": "Athleticssent CFDenzel Clarkeon a rehab assignment to Las Vegas Aviators.",
+      "player": "Denzel Clarke"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated LFCorey Julks.",
+      "player": "Corey Julks"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced LFAndrew Benintendion the 10-day injured list retroactive to September 21, 2025. Achilles tendinitis.",
+      "player": "Andrew Benintendi"
     },
     {
       "date": "2025-09-23",
@@ -15,9 +39,21 @@
     },
     {
       "date": "2025-09-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of LFCorey Julksfrom Charlotte Knights.",
+      "player": "Corey Julks"
+    },
+    {
+      "date": "2025-09-23",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesselected the contract of LHPHunter Barcofrom Indianapolis Indians.",
       "player": "Hunter Barco"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPJose Espadato FCL Orioles.",
+      "player": "Jose Espada"
     }
   ]
 }
