@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-09-23T21:21:06.670355",
+  "last_updated": "2025-09-23T22:22:20.188906",
   "transactions": [
     {
       "date": "2025-09-23",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratestransferred 2BRonny Simonfrom the 10-day injured list to the 60-day injured list. Dislocated left shoulder.",
-      "player": "Ronny Simon"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced RHPMason Thompsonon the 15-day injured list retroactive to September 20, 2025. Right biceps tendinitis.",
+      "player": "Mason Thompson"
     },
     {
       "date": "2025-09-23",
@@ -15,20 +15,8 @@
     },
     {
       "date": "2025-09-23",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced RHPChayce McDermotton the 15-day injured list. Back discomfort.",
-      "player": "Chayce McDermott"
-    },
-    {
-      "date": "2025-09-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated LFCorey Julks.",
-      "player": "Corey Julks"
-    },
-    {
-      "date": "2025-09-23",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced 2BOzzie Albieson the 10-day injured list. Fractured left hamate.",
+      "details": "Atlanta Bravesplaced 2BOzzie Albieson the 10-day injured list. Fractured left hammate.",
       "player": "Ozzie Albies"
     },
     {
@@ -63,14 +51,26 @@
     },
     {
       "date": "2025-09-23",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsplaced RHPMason Thompsonon the 15-day injured list retroactive to September 20, 2025. Right biceps tendinitis.",
-      "player": "Mason Thompson"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratestransferred 2BRonny Simonfrom the 10-day injured list to the 60-day injured list. Dislocated left shoulder.",
+      "player": "Ronny Simon"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPChayce McDermotton the 15-day injured list. Back discomfort.",
+      "player": "Chayce McDermott"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated LFCorey Julks.",
+      "player": "Corey Julks"
     },
     {
       "date": "2025-09-23",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced 2BOzzie Albieson the 10-day injured list. Fractured left hammate.",
+      "details": "Atlanta Bravesplaced 2BOzzie Albieson the 10-day injured list. Fractured left hamate.",
       "player": "Ozzie Albies"
     },
     {
@@ -81,27 +81,33 @@
     },
     {
       "date": "2025-09-23",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPNathan Wilesto Gwinnett Stripers.",
-      "player": "Nathan Wiles"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPJake Woodfordoutright to Reno Aces.",
+      "player": "Jake Woodford"
     },
     {
       "date": "2025-09-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of LFCorey Julksfrom Charlotte Knights.",
-      "player": "Corey Julks"
-    },
-    {
-      "date": "2025-09-23",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned LHPSammy Peraltato Salt Lake Bees.",
-      "player": "Sammy Peralta"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent CAli Sánchezoutright to Worcester Red Sox.",
+      "player": "Ali Sánchez"
     },
     {
       "date": "2025-09-23",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesselected the contract of LHPHunter Barcofrom Indianapolis Indians.",
       "player": "Hunter Barco"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled 2BBrett Wiselyfrom Gwinnett Stripers.",
+      "player": "Brett Wisely"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of LFCorey Julksfrom Charlotte Knights.",
+      "player": "Corey Julks"
     },
     {
       "date": "2025-09-23",
@@ -123,15 +129,21 @@
     },
     {
       "date": "2025-09-23",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled 2BBrett Wiselyfrom Gwinnett Stripers.",
-      "player": "Brett Wisely"
-    },
-    {
-      "date": "2025-09-23",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsoptioned CJhonny Peredato St. Paul Saints.",
       "player": "Jhonny Pereda"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPNathan Wilesto Gwinnett Stripers.",
+      "player": "Nathan Wiles"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned LHPSammy Peraltato Salt Lake Bees.",
+      "player": "Sammy Peralta"
     }
   ]
 }
