@@ -1,29 +1,17 @@
 {
-  "last_updated": "2025-09-23T19:19:52.251787",
+  "last_updated": "2025-09-23T20:27:08.185103",
   "transactions": [
     {
       "date": "2025-09-23",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RHPColin Selbyfrom the 15-day injured list.",
-      "player": "Colin Selby"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced RHPMason Thompsonon the 15-day injured list retroactive to September 20, 2025. Right biceps tendinitis.",
+      "player": "Mason Thompson"
     },
     {
       "date": "2025-09-23",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratestransferred 2BRonny Simonfrom the 10-day injured list to the 60-day injured list. Dislocated left shoulder.",
-      "player": "Ronny Simon"
-    },
-    {
-      "date": "2025-09-23",
-      "team": "Athletics",
-      "details": "Athleticssent CFDenzel Clarkeon a rehab assignment to Las Vegas Aviators.",
-      "player": "Denzel Clarke"
-    },
-    {
-      "date": "2025-09-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated LFCorey Julks.",
-      "player": "Corey Julks"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced 2BOzzie Albieson the 10-day injured list. Fractured left hammate.",
+      "player": "Ozzie Albies"
     },
     {
       "date": "2025-09-23",
@@ -33,9 +21,69 @@
     },
     {
       "date": "2025-09-23",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPJoel Payamps.",
+      "player": "Joel Payamps"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPColin Selbyfrom the 15-day injured list.",
+      "player": "Colin Selby"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Athletics",
+      "details": "Athleticssent CFDenzel Clarkeon a rehab assignment to Las Vegas Aviators.",
+      "player": "Denzel Clarke"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated CRyan Jeffersfrom the 7-day injured list.",
+      "player": "Ryan Jeffers"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratestransferred 2BRonny Simonfrom the 10-day injured list to the 60-day injured list. Dislocated left shoulder.",
+      "player": "Ronny Simon"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated LFCorey Julks.",
+      "player": "Corey Julks"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced 2BOzzie Albieson the 10-day injured list. Fractured left hamate.",
+      "player": "Ozzie Albies"
+    },
+    {
+      "date": "2025-09-23",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesoptioned LHPEvan Siskto Indianapolis Indians.",
       "player": "Evan Sisk"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled 2BBrett Wiselyfrom Gwinnett Stripers.",
+      "player": "Brett Wisely"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPOrlando Ribaltafrom Rochester Red Wings.",
+      "player": "Orlando Ribalta"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPJulian Fernándezfrom Rochester Red Wings.",
+      "player": "Julian Fernández"
     },
     {
       "date": "2025-09-23",
@@ -45,15 +93,27 @@
     },
     {
       "date": "2025-09-23",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesselected the contract of LHPHunter Barcofrom Indianapolis Indians.",
-      "player": "Hunter Barco"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned CJhonny Peredato St. Paul Saints.",
+      "player": "Jhonny Pereda"
     },
     {
       "date": "2025-09-23",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned RHPJose Espadato FCL Orioles.",
       "player": "Jose Espada"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPNathan Wilesto Gwinnett Stripers.",
+      "player": "Nathan Wiles"
+    },
+    {
+      "date": "2025-09-23",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesselected the contract of LHPHunter Barcofrom Indianapolis Indians.",
+      "player": "Hunter Barco"
     }
   ]
 }
