@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-24T22:22:55.497818",
+  "last_updated": "2025-09-24T23:21:47.019594",
   "transactions": [
     {
       "date": "2025-09-24",
@@ -9,21 +9,21 @@
     },
     {
       "date": "2025-09-24",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced RFMike Tauchmanon the 10-day injured list retroactive to September 21, 2025. Right knee meniscus tear.",
-      "player": "Mike Tauchman"
+      "team": "New York Mets",
+      "details": "New York Metsdesignated CFJose Sirifor assignment.",
+      "player": "Jose Siri"
     },
     {
       "date": "2025-09-24",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced RHPWikelman Gonzálezon the 15-day injured list retroactive to September 21, 2025. Right elbow impingement.",
-      "player": "Wikelman González"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced 1BDavid Fryon the 10-day injured list. Nasal and facial fractures.",
+      "player": "David Fry"
     },
     {
       "date": "2025-09-24",
       "team": "Colorado Rockies",
-      "details": "Colorado Rockiesactivated LHPLuis Peraltafrom the 15-day injured list.",
-      "player": "Luis Peralta"
+      "details": "Colorado Rockiesplaced RHPRoansy Contrerason the 15-day injured list. Right hand contusion.",
+      "player": "Roansy Contreras"
     },
     {
       "date": "2025-09-24",
@@ -51,21 +51,27 @@
     },
     {
       "date": "2025-09-24",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsplaced CFDane Myerson the 10-day injured list. Right knee laceration.",
-      "player": "Dane Myers"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPDaniel Palenciafrom the 15-day injured list.",
+      "player": "Daniel Palencia"
     },
     {
       "date": "2025-09-24",
-      "team": "New York Mets",
-      "details": "New York Metsactivated CFTyrone Taylorfrom the 10-day injured list.",
-      "player": "Tyrone Taylor"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RFMike Tauchmanon the 10-day injured list retroactive to September 21, 2025. Right knee meniscus tear.",
+      "player": "Mike Tauchman"
     },
     {
       "date": "2025-09-24",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated CFJose Sirifor assignment.",
-      "player": "Jose Siri"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RHPWikelman Gonzálezon the 15-day injured list retroactive to September 21, 2025. Right elbow impingement.",
+      "player": "Wikelman González"
+    },
+    {
+      "date": "2025-09-24",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated LHPLuis Peraltafrom the 15-day injured list.",
+      "player": "Luis Peralta"
     },
     {
       "date": "2025-09-24",
@@ -87,15 +93,27 @@
     },
     {
       "date": "2025-09-24",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansplaced 1BDavid Fryon the 10-day injured list. Nasal and facial fractures.",
-      "player": "David Fry"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced CFDane Myerson the 10-day injured list. Right knee laceration.",
+      "player": "Dane Myers"
     },
     {
       "date": "2025-09-24",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced RHPRoansy Contrerason the 15-day injured list. Right hand contusion.",
-      "player": "Roansy Contreras"
+      "team": "New York Mets",
+      "details": "New York Metsactivated CFTyrone Taylorfrom the 10-day injured list.",
+      "player": "Tyrone Taylor"
+    },
+    {
+      "date": "2025-09-24",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled LFJoey Wiemerfrom Jacksonville Jumbo Shrimp.",
+      "player": "Joey Wiemer"
+    },
+    {
+      "date": "2025-09-24",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPJonathan Cannonfrom Charlotte Knights.",
+      "player": "Jonathan Cannon"
     },
     {
       "date": "2025-09-24",
@@ -105,9 +123,9 @@
     },
     {
       "date": "2025-09-24",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPRon Marinaccioto ACL Padres.",
-      "player": "Ron Marinaccio"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RHPConnor Seaboldoutright to Gwinnett Stripers.",
+      "player": "Connor Seabold"
     },
     {
       "date": "2025-09-24",
@@ -123,6 +141,18 @@
     },
     {
       "date": "2025-09-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPCarlos Rodriguezfrom Nashville Sounds.",
+      "player": "Carlos Rodriguez"
+    },
+    {
+      "date": "2025-09-24",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned LHPJordan Wicksto Iowa Cubs.",
+      "player": "Jordan Wicks"
+    },
+    {
+      "date": "2025-09-24",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxclaimed CFDerek Hilloff waivers fromMiami Marlins.",
       "player": "Derek Hill"
@@ -130,14 +160,14 @@
     {
       "date": "2025-09-24",
       "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned CDrew Romoto Albuquerque Isotopes.",
-      "player": "Drew Romo"
+      "details": "Colorado Rockiesoptioned LHPRyan Rolisonto Albuquerque Isotopes.",
+      "player": "Ryan Rolison"
     },
     {
       "date": "2025-09-24",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent RHPConnor Seaboldoutright to Gwinnett Stripers.",
-      "player": "Connor Seabold"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPRon Marinaccioto ACL Padres.",
+      "player": "Ron Marinaccio"
     },
     {
       "date": "2025-09-24",
@@ -148,26 +178,8 @@
     {
       "date": "2025-09-24",
       "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned LHPRyan Rolisonto Albuquerque Isotopes.",
-      "player": "Ryan Rolison"
-    },
-    {
-      "date": "2025-09-24",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPCarlos Rodriguezfrom Nashville Sounds.",
-      "player": "Carlos Rodriguez"
-    },
-    {
-      "date": "2025-09-24",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled LFJoey Wiemerfrom Jacksonville Jumbo Shrimp.",
-      "player": "Joey Wiemer"
-    },
-    {
-      "date": "2025-09-24",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled RHPJonathan Cannonfrom Charlotte Knights.",
-      "player": "Jonathan Cannon"
+      "details": "Colorado Rockiesoptioned CDrew Romoto Albuquerque Isotopes.",
+      "player": "Drew Romo"
     }
   ]
 }
