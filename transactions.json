@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-09-24T20:27:29.156483",
+  "last_updated": "2025-09-24T21:21:27.776548",
   "transactions": [
+    {
+      "date": "2025-09-24",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated 2BEdmundo Sosafrom the 10-day injured list.",
+      "player": "Edmundo Sosa"
+    },
     {
       "date": "2025-09-24",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansplaced 1BDavid Fryon the 10-day injured list. Nasal and facial fractures.",
       "player": "David Fry"
-    },
-    {
-      "date": "2025-09-24",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersdesignated LHPBruce Zimmermannfor assignment.",
-      "player": "Bruce Zimmermann"
     },
     {
       "date": "2025-09-24",
@@ -21,21 +21,51 @@
     },
     {
       "date": "2025-09-24",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesdesignated 2BDonovan Waltonfor assignment.",
-      "player": "Donovan Walton"
+      "team": "New York Mets",
+      "details": "New York Metsactivated CFTyrone Taylorfrom the 10-day injured list.",
+      "player": "Tyrone Taylor"
     },
     {
       "date": "2025-09-24",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated 2BEdmundo Sosafrom the 10-day injured list.",
-      "player": "Edmundo Sosa"
+      "team": "New York Mets",
+      "details": "New York Metsdesignated CFJose Sirifor assignment.",
+      "player": "Jose Siri"
     },
     {
       "date": "2025-09-24",
       "team": "San Diego Padres",
       "details": "San Diego Padresactivated RHPDavid Morganfrom the 15-day injured list.",
       "player": "David Morgan"
+    },
+    {
+      "date": "2025-09-24",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesdesignated 2BDonovan Waltonfor assignment.",
+      "player": "Donovan Walton"
+    },
+    {
+      "date": "2025-09-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated LHPBruce Zimmermannfor assignment.",
+      "player": "Bruce Zimmermann"
+    },
+    {
+      "date": "2025-09-24",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RFMike Tauchmanon the 10-day injured list retroactive to September 21, 2025. Right knee meniscus tear.",
+      "player": "Mike Tauchman"
+    },
+    {
+      "date": "2025-09-24",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RHPWikelman Gonzálezon the 15-day injured list retroactive to September 21, 2025. Right elbow impingement.",
+      "player": "Wikelman González"
+    },
+    {
+      "date": "2025-09-24",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxclaimed CFDerek Hilloff waivers fromMiami Marlins.",
+      "player": "Derek Hill"
     },
     {
       "date": "2025-09-24",
@@ -51,15 +81,21 @@
     },
     {
       "date": "2025-09-24",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPRon Marinaccioto ACL Padres.",
+      "player": "Ron Marinaccio"
+    },
+    {
+      "date": "2025-09-24",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansrecalled RFJohnathan Rodríguezfrom Columbus Clippers.",
       "player": "Johnathan Rodríguez"
     },
     {
       "date": "2025-09-24",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPRon Marinaccioto ACL Padres.",
-      "player": "Ron Marinaccio"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPJonathan Cannonfrom Charlotte Knights.",
+      "player": "Jonathan Cannon"
     }
   ]
 }
