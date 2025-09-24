@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-24T19:19:47.396154",
+  "last_updated": "2025-09-24T20:27:29.156483",
   "transactions": [
     {
       "date": "2025-09-24",
@@ -15,6 +15,12 @@
     },
     {
       "date": "2025-09-24",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced CFDane Myerson the 10-day injured list. Right knee laceration.",
+      "player": "Dane Myers"
+    },
+    {
+      "date": "2025-09-24",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesdesignated 2BDonovan Waltonfor assignment.",
       "player": "Donovan Walton"
@@ -27,15 +33,33 @@
     },
     {
       "date": "2025-09-24",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RFJohnathan Rodríguezfrom Columbus Clippers.",
-      "player": "Johnathan Rodríguez"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated RHPDavid Morganfrom the 15-day injured list.",
+      "player": "David Morgan"
     },
     {
       "date": "2025-09-24",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersrecalled RHPCarlos Rodriguezfrom Nashville Sounds.",
       "player": "Carlos Rodriguez"
+    },
+    {
+      "date": "2025-09-24",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled LFJoey Wiemerfrom Jacksonville Jumbo Shrimp.",
+      "player": "Joey Wiemer"
+    },
+    {
+      "date": "2025-09-24",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RFJohnathan Rodríguezfrom Columbus Clippers.",
+      "player": "Johnathan Rodríguez"
+    },
+    {
+      "date": "2025-09-24",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPRon Marinaccioto ACL Padres.",
+      "player": "Ron Marinaccio"
     }
   ]
 }
