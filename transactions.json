@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-25T15:26:46.820751",
+  "last_updated": "2025-09-25T16:31:08.608068",
   "transactions": [
     {
       "date": "2025-09-25",
@@ -9,9 +9,21 @@
     },
     {
       "date": "2025-09-25",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPDauri Moretato Indianapolis Indians.",
+      "player": "Dauri Moreta"
+    },
+    {
+      "date": "2025-09-25",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsrecalled CFDaShawn Keirsey Jr.from St. Paul Saints.",
       "player": "DaShawn Keirsey Jr."
+    },
+    {
+      "date": "2025-09-25",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPChase Shugartfrom Indianapolis Indians.",
+      "player": "Chase Shugart"
     }
   ]
 }
