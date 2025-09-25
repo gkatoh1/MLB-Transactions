@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-09-25T19:20:07.792309",
+  "last_updated": "2025-09-25T20:27:10.007945",
   "transactions": [
-    {
-      "date": "2025-09-25",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPDom Hamelfor assignment.",
-      "player": "Dom Hamel"
-    },
     {
       "date": "2025-09-25",
       "team": "Minnesota Twins",
@@ -15,15 +9,27 @@
     },
     {
       "date": "2025-09-25",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled CFDaShawn Keirsey Jr.from St. Paul Saints.",
-      "player": "DaShawn Keirsey Jr."
+      "team": "New York Mets",
+      "details": "New York Metsdesignated LHPRichard Loveladyfor assignment.",
+      "player": "Richard Lovelady"
+    },
+    {
+      "date": "2025-09-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPDom Hamelfor assignment.",
+      "player": "Dom Hamel"
     },
     {
       "date": "2025-09-25",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPDauri Moretato Indianapolis Indians.",
-      "player": "Dauri Moreta"
+      "details": "Pittsburgh Piratesrecalled RHPChase Shugartfrom Indianapolis Indians.",
+      "player": "Chase Shugart"
+    },
+    {
+      "date": "2025-09-25",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPChris Devenskioutright to Syracuse Mets.",
+      "player": "Chris Devenski"
     },
     {
       "date": "2025-09-25",
@@ -34,14 +40,26 @@
     {
       "date": "2025-09-25",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPChase Shugartfrom Indianapolis Indians.",
-      "player": "Chase Shugart"
+      "details": "Pittsburgh Piratesoptioned RHPDauri Moretato Indianapolis Indians.",
+      "player": "Dauri Moreta"
     },
     {
       "date": "2025-09-25",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesclaimed RHPCarson Ragsdaleoff waivers fromAtlanta Braves.",
       "player": "Carson Ragsdale"
+    },
+    {
+      "date": "2025-09-25",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPKevin Hergetfrom Syracuse Mets.",
+      "player": "Kevin Herget"
+    },
+    {
+      "date": "2025-09-25",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled CFDaShawn Keirsey Jr.from St. Paul Saints.",
+      "player": "DaShawn Keirsey Jr."
     }
   ]
 }
