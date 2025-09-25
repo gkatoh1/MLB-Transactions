@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-09-25T20:27:10.007945",
+  "last_updated": "2025-09-25T21:20:20.423634",
   "transactions": [
+    {
+      "date": "2025-09-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPDom Hamelfor assignment.",
+      "player": "Dom Hamel"
+    },
     {
       "date": "2025-09-25",
       "team": "Minnesota Twins",
@@ -15,33 +21,21 @@
     },
     {
       "date": "2025-09-25",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPDom Hamelfor assignment.",
-      "player": "Dom Hamel"
-    },
-    {
-      "date": "2025-09-25",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPChase Shugartfrom Indianapolis Indians.",
-      "player": "Chase Shugart"
-    },
-    {
-      "date": "2025-09-25",
       "team": "New York Mets",
       "details": "New York Metssent RHPChris Devenskioutright to Syracuse Mets.",
       "player": "Chris Devenski"
     },
     {
       "date": "2025-09-25",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPCarson Ragsdaleto FCL Orioles.",
-      "player": "Carson Ragsdale"
-    },
-    {
-      "date": "2025-09-25",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesoptioned RHPDauri Moretato Indianapolis Indians.",
       "player": "Dauri Moreta"
+    },
+    {
+      "date": "2025-09-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPCarson Ragsdaleto FCL Orioles.",
+      "player": "Carson Ragsdale"
     },
     {
       "date": "2025-09-25",
@@ -60,6 +54,12 @@
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsrecalled CFDaShawn Keirsey Jr.from St. Paul Saints.",
       "player": "DaShawn Keirsey Jr."
+    },
+    {
+      "date": "2025-09-25",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPChase Shugartfrom Indianapolis Indians.",
+      "player": "Chase Shugart"
     }
   ]
 }
