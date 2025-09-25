@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-09-25T22:21:03.626060",
+  "last_updated": "2025-09-25T23:21:27.513462",
   "transactions": [
+    {
+      "date": "2025-09-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPDom Hamelfor assignment.",
+      "player": "Dom Hamel"
+    },
+    {
+      "date": "2025-09-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RHPJosé Berríoson the 15-day injured list retroactive to September 15, 2025. Right elbow inflammation.",
+      "player": "José Berríos"
+    },
     {
       "date": "2025-09-25",
       "team": "Minnesota Twins",
@@ -16,14 +28,8 @@
     {
       "date": "2025-09-25",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced RHPJosé Berríoson the 15-day injured list retroactive to September 15, 2025. Right elbow inflammation.",
-      "player": "José Berríos"
-    },
-    {
-      "date": "2025-09-25",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPDom Hamelfor assignment.",
-      "player": "Dom Hamel"
+      "details": "Toronto Blue Jaysrecalled RHPPaxton Schultzfrom Buffalo Bisons.",
+      "player": "Paxton Schultz"
     },
     {
       "date": "2025-09-25",
@@ -36,24 +42,6 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned RHPCarson Ragsdaleto FCL Orioles.",
       "player": "Carson Ragsdale"
-    },
-    {
-      "date": "2025-09-25",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPDauri Moretato Indianapolis Indians.",
-      "player": "Dauri Moreta"
-    },
-    {
-      "date": "2025-09-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled RHPPaxton Schultzfrom Buffalo Bisons.",
-      "player": "Paxton Schultz"
-    },
-    {
-      "date": "2025-09-25",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPKevin Hergetfrom Syracuse Mets.",
-      "player": "Kevin Herget"
     },
     {
       "date": "2025-09-25",
@@ -70,8 +58,20 @@
     {
       "date": "2025-09-25",
       "team": "New York Mets",
+      "details": "New York Metsrecalled RHPKevin Hergetfrom Syracuse Mets.",
+      "player": "Kevin Herget"
+    },
+    {
+      "date": "2025-09-25",
+      "team": "New York Mets",
       "details": "New York Metssent RHPChris Devenskioutright to Syracuse Mets.",
       "player": "Chris Devenski"
+    },
+    {
+      "date": "2025-09-25",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPDauri Moretato Indianapolis Indians.",
+      "player": "Dauri Moreta"
     }
   ]
 }
