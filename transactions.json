@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-09-26T19:18:22.732000",
+  "last_updated": "2025-09-26T20:26:10.725452",
   "transactions": [
+    {
+      "date": "2025-09-26",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced CFEverson Pereiraon the 10-day injured list. Low back inflammation.",
+      "player": "Everson Pereira"
+    },
+    {
+      "date": "2025-09-26",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated 1BJonathan Arandafrom the 10-day injured list.",
+      "player": "Jonathan Aranda"
+    },
     {
       "date": "2025-09-26",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsactivated RFKyle Tuckerfrom the 10-day injured list.",
       "player": "Kyle Tucker"
+    },
+    {
+      "date": "2025-09-26",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned 1BCarlos Santanato ACL Cubs.",
+      "player": "Carlos Santana"
     },
     {
       "date": "2025-09-26",
@@ -18,12 +36,6 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysoptioned RHPPaxton Schultzto FCL Blue Jays.",
       "player": "Paxton Schultz"
-    },
-    {
-      "date": "2025-09-26",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned 1BCarlos Santanato ACL Cubs.",
-      "player": "Carlos Santana"
     }
   ]
 }
