@@ -1,17 +1,11 @@
 {
-  "last_updated": "2025-09-26T21:20:14.145226",
+  "last_updated": "2025-09-26T22:21:38.577351",
   "transactions": [
     {
       "date": "2025-09-26",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysplaced CFEverson Pereiraon the 10-day injured list. Low back inflammation.",
       "player": "Everson Pereira"
-    },
-    {
-      "date": "2025-09-26",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksdesignated RHPNabil Crismattfor assignment.",
-      "player": "Nabil Crismatt"
     },
     {
       "date": "2025-09-26",
@@ -28,14 +22,8 @@
     {
       "date": "2025-09-26",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled RHPBryce Jarvisfrom Reno Aces.",
-      "player": "Bryce Jarvis"
-    },
-    {
-      "date": "2025-09-26",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned 1BCarlos Santanato ACL Cubs.",
-      "player": "Carlos Santana"
+      "details": "Arizona Diamondbacksdesignated RHPNabil Crismattfor assignment.",
+      "player": "Nabil Crismatt"
     },
     {
       "date": "2025-09-26",
@@ -48,6 +36,18 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysoptioned RHPPaxton Schultzto FCL Blue Jays.",
       "player": "Paxton Schultz"
+    },
+    {
+      "date": "2025-09-26",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPBryce Jarvisfrom Reno Aces.",
+      "player": "Bryce Jarvis"
+    },
+    {
+      "date": "2025-09-26",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned 1BCarlos Santanato ACL Cubs.",
+      "player": "Carlos Santana"
     }
   ]
 }
