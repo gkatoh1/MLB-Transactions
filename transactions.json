@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-26T23:21:19.792721",
+  "last_updated": "2025-09-27T01:49:47.108082",
   "transactions": [
     {
       "date": "2025-09-26",
@@ -15,9 +15,15 @@
     },
     {
       "date": "2025-09-26",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RFKyle Tuckerfrom the 10-day injured list.",
-      "player": "Kyle Tucker"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced CFEverson Pereiraon the 10-day injured list. Low back inflammation.",
+      "player": "Everson Pereira"
+    },
+    {
+      "date": "2025-09-26",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPChris Martinon the 15-day injured list. Thoracic outlet syndrome.",
+      "player": "Chris Martin"
     },
     {
       "date": "2025-09-26",
@@ -33,21 +39,15 @@
     },
     {
       "date": "2025-09-26",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysplaced CFEverson Pereiraon the 10-day injured list. Low back inflammation.",
-      "player": "Everson Pereira"
-    },
-    {
-      "date": "2025-09-26",
       "team": "Texas Rangers",
       "details": "Texas Rangersplaced SSJosh Smithon the paternity list.",
       "player": "Josh Smith"
     },
     {
       "date": "2025-09-26",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersplaced RHPChris Martinon the 15-day injured list. Thoracic outlet syndrome.",
-      "player": "Chris Martin"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RFKyle Tuckerfrom the 10-day injured list.",
+      "player": "Kyle Tucker"
     },
     {
       "date": "2025-09-26",
@@ -57,15 +57,15 @@
     },
     {
       "date": "2025-09-26",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled LHPJustin Bruihlfrom Buffalo Bisons.",
-      "player": "Justin Bruihl"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned 1BCarlos Santanato ACL Cubs.",
+      "player": "Carlos Santana"
     },
     {
       "date": "2025-09-26",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled RHPLuis Curvelofrom Round Rock Express.",
-      "player": "Luis Curvelo"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LHPJustin Bruihlfrom Buffalo Bisons.",
+      "player": "Justin Bruihl"
     },
     {
       "date": "2025-09-26",
@@ -75,15 +75,21 @@
     },
     {
       "date": "2025-09-26",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersselected the contract of 1BDonovan Solanofrom Round Rock Express.",
-      "player": "Donovan Solano"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPAndrew Hoffmannfrom Reno Aces.",
+      "player": "Andrew Hoffmann"
     },
     {
       "date": "2025-09-26",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliessent 2BDonovan Waltonoutright to Lehigh Valley IronPigs.",
       "player": "Donovan Walton"
+    },
+    {
+      "date": "2025-09-26",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersselected the contract of 1BDonovan Solanofrom Round Rock Express.",
+      "player": "Donovan Solano"
     },
     {
       "date": "2025-09-26",
@@ -99,15 +105,21 @@
     },
     {
       "date": "2025-09-26",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned 1BCarlos Santanato ACL Cubs.",
-      "player": "Carlos Santana"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPBryce Jarvisfrom Reno Aces.",
+      "player": "Bryce Jarvis"
     },
     {
       "date": "2025-09-26",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled RHPBryce Jarvisfrom Reno Aces.",
-      "player": "Bryce Jarvis"
+      "details": "Arizona Diamondbacksoptioned RHPAustin Popeto Reno Aces.",
+      "player": "Austin Pope"
+    },
+    {
+      "date": "2025-09-26",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPLuis Curvelofrom Round Rock Express.",
+      "player": "Luis Curvelo"
     }
   ]
 }
