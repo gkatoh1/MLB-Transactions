@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-09-27T16:27:38.717722",
+  "last_updated": "2025-09-27T17:18:48.402408",
   "transactions": [
+    {
+      "date": "2025-09-27",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPKevin Hergetfor assignment.",
+      "player": "Kevin Herget"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced LHPDietrich Ennson the paternity list.",
+      "player": "Dietrich Enns"
+    },
     {
       "date": "2025-09-27",
       "team": "Atlanta Braves",
@@ -9,9 +21,33 @@
     },
     {
       "date": "2025-09-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPCade Povichto FCL Orioles.",
+      "player": "Cade Povich"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled LHPGrant Wolframfrom Norfolk Tides.",
+      "player": "Grant Wolfram"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPDylan Rossfrom Syracuse Mets.",
+      "player": "Dylan Ross"
+    },
+    {
+      "date": "2025-09-27",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesrecalled LHPHayden Harrisfrom Gwinnett Stripers.",
       "player": "Hayden Harris"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPCarson Ragsdalefrom FCL Orioles.",
+      "player": "Carson Ragsdale"
     }
   ]
 }
