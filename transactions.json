@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-09-27T19:17:08.628762",
+  "last_updated": "2025-09-27T20:24:23.701590",
   "transactions": [
-    {
-      "date": "2025-09-27",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced RHPCade Hortonon the 15-day injured list retroactive to September 25, 2025. Right rib fracture.",
-      "player": "Cade Horton"
-    },
     {
       "date": "2025-09-27",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesplaced LHPDietrich Ennson the paternity list.",
       "player": "Dietrich Enns"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPCade Hortonon the 15-day injured list retroactive to September 25, 2025. Right rib fracture.",
+      "player": "Cade Horton"
     },
     {
       "date": "2025-09-27",
@@ -28,14 +28,14 @@
     {
       "date": "2025-09-27",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPCarson Ragsdalefrom FCL Orioles.",
-      "player": "Carson Ragsdale"
+      "details": "Baltimore Oriolesoptioned LHPCade Povichto FCL Orioles.",
+      "player": "Cade Povich"
     },
     {
       "date": "2025-09-27",
-      "team": "New York Mets",
-      "details": "New York Metssent LHPRichard Loveladyoutright to Syracuse Mets.",
-      "player": "Richard Lovelady"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPBruce Zimmermannoutright to Nashville Sounds.",
+      "player": "Bruce Zimmermann"
     },
     {
       "date": "2025-09-27",
@@ -45,15 +45,21 @@
     },
     {
       "date": "2025-09-27",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPJordan Wicksfrom ACL Cubs.",
+      "player": "Jordan Wicks"
+    },
+    {
+      "date": "2025-09-27",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPHurston Waldrepto FCL Braves.",
-      "player": "Hurston Waldrep"
+      "details": "Atlanta Bravesrecalled LHPHayden Harrisfrom Gwinnett Stripers.",
+      "player": "Hayden Harris"
     },
     {
       "date": "2025-09-27",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned LHPCade Povichto FCL Orioles.",
-      "player": "Cade Povich"
+      "details": "Baltimore Oriolesrecalled RHPCarson Ragsdalefrom FCL Orioles.",
+      "player": "Carson Ragsdale"
     },
     {
       "date": "2025-09-27",
@@ -64,8 +70,20 @@
     {
       "date": "2025-09-27",
       "team": "New York Mets",
+      "details": "New York Metssent LHPRichard Loveladyoutright to Syracuse Mets.",
+      "player": "Richard Lovelady"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "New York Mets",
       "details": "New York Metsrecalled LFJared Youngfrom Syracuse Mets.",
       "player": "Jared Young"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersclaimed RHPDom Hameloff waivers fromBaltimore Orioles.",
+      "player": "Dom Hamel"
     },
     {
       "date": "2025-09-27",
@@ -76,14 +94,8 @@
     {
       "date": "2025-09-27",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled LHPHayden Harrisfrom Gwinnett Stripers.",
-      "player": "Hayden Harris"
-    },
-    {
-      "date": "2025-09-27",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled LHPJordan Wicksfrom ACL Cubs.",
-      "player": "Jordan Wicks"
+      "details": "Atlanta Bravesoptioned RHPHurston Waldrepto FCL Braves.",
+      "player": "Hurston Waldrep"
     }
   ]
 }
