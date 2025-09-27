@@ -1,17 +1,29 @@
 {
-  "last_updated": "2025-09-27T17:18:48.402408",
+  "last_updated": "2025-09-27T18:31:21.134083",
   "transactions": [
     {
       "date": "2025-09-27",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPCade Hortonon the 15-day injured list retroactive to September 25, 2025. Right rib fracture.",
+      "player": "Cade Horton"
+    },
+    {
+      "date": "2025-09-27",
       "team": "New York Mets",
-      "details": "New York Metsdesignated RHPKevin Hergetfor assignment.",
-      "player": "Kevin Herget"
+      "details": "New York Metsplaced 3BBrett Batyon the 10-day injured list. Right oblique strain.",
+      "player": "Brett Baty"
     },
     {
       "date": "2025-09-27",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesplaced LHPDietrich Ennson the paternity list.",
       "player": "Dietrich Enns"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPKevin Hergetfor assignment.",
+      "player": "Kevin Herget"
     },
     {
       "date": "2025-09-27",
@@ -27,6 +39,36 @@
     },
     {
       "date": "2025-09-27",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPDylan Rossfrom Syracuse Mets.",
+      "player": "Dylan Ross"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "New York Mets",
+      "details": "New York Metssent CFJose Sirioutright to Syracuse Mets.",
+      "player": "Jose Siri"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPCarson Ragsdalefrom FCL Orioles.",
+      "player": "Carson Ragsdale"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "New York Mets",
+      "details": "New York Metssent LHPRichard Loveladyoutright to Syracuse Mets.",
+      "player": "Richard Lovelady"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPJordan Wicksfrom ACL Cubs.",
+      "player": "Jordan Wicks"
+    },
+    {
+      "date": "2025-09-27",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled LHPGrant Wolframfrom Norfolk Tides.",
       "player": "Grant Wolfram"
@@ -34,20 +76,14 @@
     {
       "date": "2025-09-27",
       "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPDylan Rossfrom Syracuse Mets.",
-      "player": "Dylan Ross"
+      "details": "New York Metsrecalled LFJared Youngfrom Syracuse Mets.",
+      "player": "Jared Young"
     },
     {
       "date": "2025-09-27",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesrecalled LHPHayden Harrisfrom Gwinnett Stripers.",
       "player": "Hayden Harris"
-    },
-    {
-      "date": "2025-09-27",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPCarson Ragsdalefrom FCL Orioles.",
-      "player": "Carson Ragsdale"
     }
   ]
 }
