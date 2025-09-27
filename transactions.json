@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-09-27T01:49:47.108082",
+  "last_updated": "2025-09-27T02:58:05.108142",
   "transactions": [
-    {
-      "date": "2025-09-26",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksdesignated RHPNabil Crismattfor assignment.",
-      "player": "Nabil Crismatt"
-    },
-    {
-      "date": "2025-09-26",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerstransferred RHPNathan Eovaldifrom the 15-day injured list to the 60-day injured list.",
-      "player": "Nathan Eovaldi"
-    },
     {
       "date": "2025-09-26",
       "team": "Tampa Bay Rays",
@@ -22,8 +10,8 @@
     {
       "date": "2025-09-26",
       "team": "Texas Rangers",
-      "details": "Texas Rangersplaced RHPChris Martinon the 15-day injured list. Thoracic outlet syndrome.",
-      "player": "Chris Martin"
+      "details": "Texas Rangerstransferred RHPNathan Eovaldifrom the 15-day injured list to the 60-day injured list.",
+      "player": "Nathan Eovaldi"
     },
     {
       "date": "2025-09-26",
@@ -40,6 +28,18 @@
     {
       "date": "2025-09-26",
       "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPChris Martinon the 15-day injured list. Thoracic outlet syndrome.",
+      "player": "Chris Martin"
+    },
+    {
+      "date": "2025-09-26",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksdesignated RHPNabil Crismattfor assignment.",
+      "player": "Nabil Crismatt"
+    },
+    {
+      "date": "2025-09-26",
+      "team": "Texas Rangers",
       "details": "Texas Rangersplaced SSJosh Smithon the paternity list.",
       "player": "Josh Smith"
     },
@@ -51,15 +51,57 @@
     },
     {
       "date": "2025-09-26",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPAlek Manoahto FCL Braves.",
-      "player": "Alek Manoah"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent 2BDonovan Waltonoutright to Lehigh Valley IronPigs.",
+      "player": "Donovan Walton"
     },
     {
       "date": "2025-09-26",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsoptioned 1BCarlos Santanato ACL Cubs.",
       "player": "Carlos Santana"
+    },
+    {
+      "date": "2025-09-26",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPLuis Curvelofrom Round Rock Express.",
+      "player": "Luis Curvelo"
+    },
+    {
+      "date": "2025-09-26",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPJose Corniellfrom Round Rock Express.",
+      "player": "Jose Corniell"
+    },
+    {
+      "date": "2025-09-26",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed RHPAlek Manoahoff waivers fromToronto Blue Jays.",
+      "player": "Alek Manoah"
+    },
+    {
+      "date": "2025-09-26",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPAustin Popeto Reno Aces.",
+      "player": "Austin Pope"
+    },
+    {
+      "date": "2025-09-26",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPBryce Jarvisfrom Reno Aces.",
+      "player": "Bryce Jarvis"
+    },
+    {
+      "date": "2025-09-26",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersselected the contract of 1BDonovan Solanofrom Round Rock Express.",
+      "player": "Donovan Solano"
+    },
+    {
+      "date": "2025-09-26",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPAlek Manoahto FCL Braves.",
+      "player": "Alek Manoah"
     },
     {
       "date": "2025-09-26",
@@ -78,48 +120,6 @@
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksrecalled RHPAndrew Hoffmannfrom Reno Aces.",
       "player": "Andrew Hoffmann"
-    },
-    {
-      "date": "2025-09-26",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessent 2BDonovan Waltonoutright to Lehigh Valley IronPigs.",
-      "player": "Donovan Walton"
-    },
-    {
-      "date": "2025-09-26",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersselected the contract of 1BDonovan Solanofrom Round Rock Express.",
-      "player": "Donovan Solano"
-    },
-    {
-      "date": "2025-09-26",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled RHPJose Corniellfrom Round Rock Express.",
-      "player": "Jose Corniell"
-    },
-    {
-      "date": "2025-09-26",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesclaimed RHPAlek Manoahoff waivers fromToronto Blue Jays.",
-      "player": "Alek Manoah"
-    },
-    {
-      "date": "2025-09-26",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled RHPBryce Jarvisfrom Reno Aces.",
-      "player": "Bryce Jarvis"
-    },
-    {
-      "date": "2025-09-26",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned RHPAustin Popeto Reno Aces.",
-      "player": "Austin Pope"
-    },
-    {
-      "date": "2025-09-26",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled RHPLuis Curvelofrom Round Rock Express.",
-      "player": "Luis Curvelo"
     }
   ]
 }
