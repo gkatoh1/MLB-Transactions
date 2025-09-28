@@ -1,6 +1,36 @@
 {
-  "last_updated": "2025-09-28T16:26:48.106759",
+  "last_updated": "2025-09-28T17:18:44.340037",
   "transactions": [
+    {
+      "date": "2025-09-28",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPJosé De León.",
+      "player": "José De León"
+    },
+    {
+      "date": "2025-09-28",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated LHPDL Hallfrom the 15-day injured list.",
+      "player": "DL Hall"
+    },
+    {
+      "date": "2025-09-28",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated RHPErick Feddefor assignment.",
+      "player": "Erick Fedde"
+    },
+    {
+      "date": "2025-09-28",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated SSTrea Turnerfrom the 10-day injured list.",
+      "player": "Trea Turner"
+    },
+    {
+      "date": "2025-09-28",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RHPTrevor Megillfrom the 15-day injured list.",
+      "player": "Trevor Megill"
+    },
     {
       "date": "2025-09-28",
       "team": "Minnesota Twins",
@@ -9,9 +39,57 @@
     },
     {
       "date": "2025-09-28",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPCarlos Rodriguezto ACL Brewers.",
+      "player": "Carlos Rodriguez"
+    },
+    {
+      "date": "2025-09-28",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPLandon Knackfrom Oklahoma City Comets.",
+      "player": "Landon Knack"
+    },
+    {
+      "date": "2025-09-28",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsoptioned RHPPierson Ohlto St. Paul Saints.",
       "player": "Pierson Ohl"
+    },
+    {
+      "date": "2025-09-28",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled 3BMiles Mastrobuonifrom Tacoma Rainiers.",
+      "player": "Miles Mastrobuoni"
+    },
+    {
+      "date": "2025-09-28",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of RHPJosé De Leónfrom Worcester Red Sox.",
+      "player": "José De León"
+    },
+    {
+      "date": "2025-09-28",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPChris Murphyto Worcester Red Sox.",
+      "player": "Chris Murphy"
+    },
+    {
+      "date": "2025-09-28",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned LHPAndrew Heaneyto Oklahoma City Comets.",
+      "player": "Andrew Heaney"
+    },
+    {
+      "date": "2025-09-28",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPMax Lazarto FCL Phillies.",
+      "player": "Max Lazar"
+    },
+    {
+      "date": "2025-09-28",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPLogan Evansto ACL Mariners.",
+      "player": "Logan Evans"
     }
   ]
 }
