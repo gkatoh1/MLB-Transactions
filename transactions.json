@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-09-27T23:20:29.428410",
+  "last_updated": "2025-09-28T02:03:58.153795",
   "transactions": [
-    {
-      "date": "2025-09-27",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresplaced RFRamón Laureanoon the 10-day injured list retroactive to September 25, 2025. Right index finger fracture.",
-      "player": "Ramón Laureano"
-    },
-    {
-      "date": "2025-09-27",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced LHPDietrich Ennson the paternity list.",
-      "player": "Dietrich Enns"
-    },
     {
       "date": "2025-09-27",
       "team": "Texas Rangers",
@@ -22,26 +10,8 @@
     {
       "date": "2025-09-27",
       "team": "New York Mets",
-      "details": "New York Metsplaced 3BBrett Batyon the 10-day injured list. Right oblique strain.",
-      "player": "Brett Baty"
-    },
-    {
-      "date": "2025-09-27",
-      "team": "New York Mets",
       "details": "New York Metsdesignated RHPKevin Hergetfor assignment.",
       "player": "Kevin Herget"
-    },
-    {
-      "date": "2025-09-27",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsplaced RHPLuis Garcíaon the 15-day injured list retroactive to September 25, 2025.",
-      "player": "Luis García"
-    },
-    {
-      "date": "2025-09-27",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced RHPCade Hortonon the 15-day injured list retroactive to September 25, 2025. Right rib fracture.",
-      "player": "Cade Horton"
     },
     {
       "date": "2025-09-27",
@@ -52,26 +22,62 @@
     {
       "date": "2025-09-27",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned LHPCade Povichto FCL Orioles.",
-      "player": "Cade Povich"
+      "details": "Baltimore Oriolesplaced LHPDietrich Ennson the paternity list.",
+      "player": "Dietrich Enns"
     },
     {
       "date": "2025-09-27",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent LHPBruce Zimmermannoutright to Nashville Sounds.",
-      "player": "Bruce Zimmermann"
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated RHPNick Hernandezfor assignment.",
+      "player": "Nick Hernandez"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresplaced RFRamón Laureanoon the 10-day injured list retroactive to September 25, 2025. Right index finger fracture.",
+      "player": "Ramón Laureano"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced CFJake Meyerson the 10-day injured list retroactive to September 25, 2025. Right calf soreness.",
+      "player": "Jake Meyers"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated RHPLance McCullers Jr.from the 15-day injured list.",
+      "player": "Lance McCullers Jr."
     },
     {
       "date": "2025-09-27",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled LHPJordan Wicksfrom ACL Cubs.",
-      "player": "Jordan Wicks"
+      "details": "Chicago Cubsplaced RHPCade Hortonon the 15-day injured list retroactive to September 25, 2025. Right rib fracture.",
+      "player": "Cade Horton"
     },
     {
       "date": "2025-09-27",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned RHPCasey Leguminato ACL Mariners.",
-      "player": "Casey Legumina"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced RHPLuis Garcíaon the 15-day injured list retroactive to September 25, 2025.",
+      "player": "Luis García"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "New York Mets",
+      "details": "New York Metsplaced 3BBrett Batyon the 10-day injured list. Right oblique strain.",
+      "player": "Brett Baty"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled LHPGrant Wolframfrom Norfolk Tides.",
+      "player": "Grant Wolfram"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPNick Frassofrom Oklahoma City Comets.",
+      "player": "Nick Frasso"
     },
     {
       "date": "2025-09-27",
@@ -93,9 +99,15 @@
     },
     {
       "date": "2025-09-27",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled 3BWill Wagnerfrom ACL Padres.",
-      "player": "Will Wagner"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPBruce Zimmermannoutright to Nashville Sounds.",
+      "player": "Bruce Zimmermann"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPJordan Wicksfrom ACL Cubs.",
+      "player": "Jordan Wicks"
     },
     {
       "date": "2025-09-27",
@@ -111,27 +123,21 @@
     },
     {
       "date": "2025-09-27",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled LHPGrant Wolframfrom Norfolk Tides.",
-      "player": "Grant Wolfram"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPCasey Leguminato ACL Mariners.",
+      "player": "Casey Legumina"
     },
     {
       "date": "2025-09-27",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled LHPHayden Harrisfrom Gwinnett Stripers.",
-      "player": "Hayden Harris"
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled SSBrice Matthewsfrom Sugar Land Space Cowboys.",
+      "player": "Brice Matthews"
     },
     {
       "date": "2025-09-27",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled RHPNick Frassofrom Oklahoma City Comets.",
-      "player": "Nick Frasso"
-    },
-    {
-      "date": "2025-09-27",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersselected the contract of LHPAndrew Heaneyfrom Oklahoma City Comets.",
-      "player": "Andrew Heaney"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled 3BWill Wagnerfrom ACL Padres.",
+      "player": "Will Wagner"
     },
     {
       "date": "2025-09-27",
@@ -144,6 +150,12 @@
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersoptioned RHPWill Kleinto Oklahoma City Comets.",
       "player": "Will Klein"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled LHPHayden Harrisfrom Gwinnett Stripers.",
+      "player": "Hayden Harris"
     },
     {
       "date": "2025-09-27",
@@ -162,6 +174,18 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPHurston Waldrepto FCL Braves.",
       "player": "Hurston Waldrep"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPCade Povichto FCL Orioles.",
+      "player": "Cade Povich"
+    },
+    {
+      "date": "2025-09-27",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersselected the contract of LHPAndrew Heaneyfrom Oklahoma City Comets.",
+      "player": "Andrew Heaney"
     }
   ]
 }
