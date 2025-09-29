@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-29T01:57:40.397829",
+  "last_updated": "2025-09-29T03:09:44.026402",
   "transactions": [
     {
       "date": "2025-09-28",
@@ -9,9 +9,27 @@
     },
     {
       "date": "2025-09-28",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated RHPErick Feddefor assignment.",
+      "player": "Erick Fedde"
+    },
+    {
+      "date": "2025-09-28",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated SSTrea Turnerfrom the 10-day injured list.",
+      "player": "Trea Turner"
+    },
+    {
+      "date": "2025-09-28",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxactivated RHPJosé De León.",
       "player": "José De León"
+    },
+    {
+      "date": "2025-09-28",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RHPTrevor Megillfrom the 15-day injured list.",
+      "player": "Trevor Megill"
     },
     {
       "date": "2025-09-28",
@@ -27,21 +45,9 @@
     },
     {
       "date": "2025-09-28",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated SSTrea Turnerfrom the 10-day injured list.",
-      "player": "Trea Turner"
-    },
-    {
-      "date": "2025-09-28",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersdesignated RHPErick Feddefor assignment.",
-      "player": "Erick Fedde"
-    },
-    {
-      "date": "2025-09-28",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated RHPTrevor Megillfrom the 15-day injured list.",
-      "player": "Trevor Megill"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPNabil Crismattto Reno Aces.",
+      "player": "Nabil Crismatt"
     },
     {
       "date": "2025-09-28",
@@ -51,15 +57,21 @@
     },
     {
       "date": "2025-09-28",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPPierson Ohlto St. Paul Saints.",
-      "player": "Pierson Ohl"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPMax Lazarto FCL Phillies.",
+      "player": "Max Lazar"
     },
     {
       "date": "2025-09-28",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned LHPKyle Hartto ACL Padres.",
-      "player": "Kyle Hart"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled 3BMiles Mastrobuonifrom Tacoma Rainiers.",
+      "player": "Miles Mastrobuoni"
+    },
+    {
+      "date": "2025-09-28",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPLogan Evansto ACL Mariners.",
+      "player": "Logan Evans"
     },
     {
       "date": "2025-09-28",
@@ -81,39 +93,27 @@
     },
     {
       "date": "2025-09-28",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersrecalled 3BMiles Mastrobuonifrom Tacoma Rainiers.",
-      "player": "Miles Mastrobuoni"
-    },
-    {
-      "date": "2025-09-28",
       "team": "San Diego Padres",
       "details": "San Diego Padresrecalled LHPJP Searsfrom El Paso Chihuahuas.",
       "player": "JP Sears"
     },
     {
       "date": "2025-09-28",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPMax Lazarto FCL Phillies.",
-      "player": "Max Lazar"
-    },
-    {
-      "date": "2025-09-28",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned RHPLogan Evansto ACL Mariners.",
-      "player": "Logan Evans"
-    },
-    {
-      "date": "2025-09-28",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned RHPNabil Crismattto Reno Aces.",
-      "player": "Nabil Crismatt"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPPierson Ohlto St. Paul Saints.",
+      "player": "Pierson Ohl"
     },
     {
       "date": "2025-09-28",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxselected the contract of RHPJosé De Leónfrom Worcester Red Sox.",
       "player": "José De León"
+    },
+    {
+      "date": "2025-09-28",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned LHPKyle Hartto ACL Padres.",
+      "player": "Kyle Hart"
     },
     {
       "date": "2025-09-28",
