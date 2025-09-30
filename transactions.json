@@ -1,108 +1,6 @@
 {
-  "last_updated": "2025-09-30T20:26:35.279201",
+  "last_updated": "2025-09-30T21:22:04.106820",
   "transactions": [
-    {
-      "date": "2025-09-30",
-      "team": "Boston Red Sox",
-      "details": "RHPIsaiah Campbellroster status changed byBoston Red Sox.",
-      "player": "Isaiah Campbell"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "New York Yankees",
-      "details": "LHPRyan Yarbroughroster status changed byNew York Yankees.",
-      "player": "Ryan Yarbrough"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "New York Yankees",
-      "details": "SSBraden Shewmakeroster status changed byNew York Yankees.",
-      "player": "Braden Shewmake"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "Chicago Cubs",
-      "details": "LHPLuke Littleroster status changed byChicago Cubs.",
-      "player": "Luke Little"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "Chicago Cubs",
-      "details": "RHPEli Morganroster status changed byChicago Cubs.",
-      "player": "Eli Morgan"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "Chicago Cubs",
-      "details": "RHPJack Neelyroster status changed byChicago Cubs.",
-      "player": "Jack Neely"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "Chicago Cubs",
-      "details": "RHPEthan Robertsroster status changed byChicago Cubs.",
-      "player": "Ethan Roberts"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "Cincinnati Reds",
-      "details": "RHPSam Benschoterroster status changed byCincinnati Reds.",
-      "player": "Sam Benschoter"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "Cincinnati Reds",
-      "details": "RHPYosver Zuluetaroster status changed byCincinnati Reds.",
-      "player": "Yosver Zulueta"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "Boston Red Sox",
-      "details": "RHPJosé De Leónroster status changed byBoston Red Sox.",
-      "player": "José De León"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "San Diego Padres",
-      "details": "LHPNestor Cortesroster status changed bySan Diego Padres.",
-      "player": "Nestor Cortes"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "Chicago Cubs",
-      "details": "RHPPorter Hodgeroster status changed byChicago Cubs.",
-      "player": "Porter Hodge"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "Los Angeles Dodgers",
-      "details": "LFMichael Confortoroster status changed byLos Angeles Dodgers.",
-      "player": "Michael Conforto"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "Detroit Tigers",
-      "details": "3BJace Jungroster status changed byDetroit Tigers.",
-      "player": "Jace Jung"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "New York Yankees",
-      "details": "RHPMichael Ariasroster status changed byNew York Yankees.",
-      "player": "Michael Arias"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "Los Angeles Dodgers",
-      "details": "LFEsteury Ruizroster status changed byLos Angeles Dodgers.",
-      "player": "Esteury Ruiz"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "Boston Red Sox",
-      "details": "CFJhostynxon Garciaroster status changed byBoston Red Sox.",
-      "player": "Jhostynxon Garcia"
-    },
     {
       "date": "2025-09-30",
       "team": "New York Yankees",
@@ -165,75 +63,225 @@
     },
     {
       "date": "2025-09-30",
+      "team": "New York Yankees",
+      "details": "RHPJake Birdroster status changed byNew York Yankees.",
+      "player": "Jake Bird"
+    },
+    {
+      "date": "2025-09-30",
       "team": "San Diego Padres",
-      "details": "RHPRon Marinaccioroster status changed bySan Diego Padres.",
-      "player": "Ron Marinaccio"
+      "details": "LHPOmar Cruzroster status changed bySan Diego Padres.",
+      "player": "Omar Cruz"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Cincinnati Reds",
+      "details": "1BChristian Encarnacion-Strandroster status changed byCincinnati Reds.",
+      "player": "Christian Encarnacion-Strand"
     },
     {
       "date": "2025-09-30",
       "team": "Los Angeles Dodgers",
-      "details": "LHPClayton Kershawroster status changed byLos Angeles Dodgers.",
-      "player": "Clayton Kershaw"
+      "details": "RHPLandon Knackroster status changed byLos Angeles Dodgers.",
+      "player": "Landon Knack"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Boston Red Sox",
+      "details": "3BNate Eatonroster status changed byBoston Red Sox.",
+      "player": "Nate Eaton"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Chicago Cubs",
+      "details": "RFOwen Caissieroster status changed byChicago Cubs.",
+      "player": "Owen Caissie"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Boston Red Sox",
+      "details": "RFRoman Anthonyroster status changed byBoston Red Sox.",
+      "player": "Roman Anthony"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Cincinnati Reds",
+      "details": "RHPZach Maxwellroster status changed byCincinnati Reds.",
+      "player": "Zach Maxwell"
     },
     {
       "date": "2025-09-30",
       "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated RHPMatt Festa.",
-      "player": "Matt Festa"
+      "details": "RHPZak Kentroster status changed byCleveland Guardians.",
+      "player": "Zak Kent"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Boston Red Sox",
+      "details": "RHPIsaiah Campbellroster status changed byBoston Red Sox.",
+      "player": "Isaiah Campbell"
     },
     {
       "date": "2025-09-30",
       "team": "New York Yankees",
-      "details": "RHPScott Effrossroster status changed byNew York Yankees.",
-      "player": "Scott Effross"
+      "details": "LHPRyan Yarbroughroster status changed byNew York Yankees.",
+      "player": "Ryan Yarbrough"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "New York Yankees",
+      "details": "SSBraden Shewmakeroster status changed byNew York Yankees.",
+      "player": "Braden Shewmake"
     },
     {
       "date": "2025-09-30",
       "team": "Chicago Cubs",
-      "details": "LHPJordan Wicksroster status changed byChicago Cubs.",
-      "player": "Jordan Wicks"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "Cincinnati Reds",
-      "details": "RFRyan Viladeroster status changed byCincinnati Reds.",
-      "player": "Ryan Vilade"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "Cincinnati Reds",
-      "details": "RHPLuis Meyroster status changed byCincinnati Reds.",
-      "player": "Luis Mey"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "Los Angeles Dodgers",
-      "details": "RHPMichael Kopechroster status changed byLos Angeles Dodgers.",
-      "player": "Michael Kopech"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "San Diego Padres",
-      "details": "LHPJP Searsroster status changed bySan Diego Padres.",
-      "player": "JP Sears"
+      "details": "LHPLuke Littleroster status changed byChicago Cubs.",
+      "player": "Luke Little"
     },
     {
       "date": "2025-09-30",
       "team": "Chicago Cubs",
-      "details": "1BCarlos Santanaroster status changed byChicago Cubs.",
-      "player": "Carlos Santana"
+      "details": "RHPEli Morganroster status changed byChicago Cubs.",
+      "player": "Eli Morgan"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Chicago Cubs",
+      "details": "RHPJack Neelyroster status changed byChicago Cubs.",
+      "player": "Jack Neely"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Chicago Cubs",
+      "details": "RHPEthan Robertsroster status changed byChicago Cubs.",
+      "player": "Ethan Roberts"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Cincinnati Reds",
+      "details": "RHPSam Benschoterroster status changed byCincinnati Reds.",
+      "player": "Sam Benschoter"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Cincinnati Reds",
+      "details": "RHPYosver Zuluetaroster status changed byCincinnati Reds.",
+      "player": "Yosver Zulueta"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Detroit Tigers",
+      "details": "RHPTyler Mattisonroster status changed byDetroit Tigers.",
+      "player": "Tyler Mattison"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "New York Yankees",
+      "details": "LHPJayvien Sandridgeroster status changed byNew York Yankees.",
+      "player": "Jayvien Sandridge"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Cleveland Guardians",
+      "details": "RHPFranco Alemanroster status changed byCleveland Guardians.",
+      "player": "Franco Aleman"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Cleveland Guardians",
+      "details": "LHPLogan Allenroster status changed byCleveland Guardians.",
+      "player": "Logan Allen"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Detroit Tigers",
+      "details": "LHPBailey Hornroster status changed byDetroit Tigers.",
+      "player": "Bailey Horn"
     },
     {
       "date": "2025-09-30",
       "team": "San Diego Padres",
-      "details": "3BWill Wagnerroster status changed bySan Diego Padres.",
-      "player": "Will Wagner"
+      "details": "RHPSean Reynoldsroster status changed bySan Diego Padres.",
+      "player": "Sean Reynolds"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "San Diego Padres",
+      "details": "LHPKyle Hartroster status changed bySan Diego Padres.",
+      "player": "Kyle Hart"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "San Diego Padres",
+      "details": "RHPMatt Waldronroster status changed bySan Diego Padres.",
+      "player": "Matt Waldron"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Boston Red Sox",
+      "details": "RHPJordan Hicksroster status changed byBoston Red Sox.",
+      "player": "Jordan Hicks"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Boston Red Sox",
+      "details": "RHPJosé De Leónroster status changed byBoston Red Sox.",
+      "player": "José De León"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "San Diego Padres",
+      "details": "LHPNestor Cortesroster status changed bySan Diego Padres.",
+      "player": "Nestor Cortes"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Chicago Cubs",
+      "details": "RHPPorter Hodgeroster status changed byChicago Cubs.",
+      "player": "Porter Hodge"
     },
     {
       "date": "2025-09-30",
       "team": "Los Angeles Dodgers",
-      "details": "RHPPaul Gervaseroster status changed byLos Angeles Dodgers.",
-      "player": "Paul Gervase"
+      "details": "LFMichael Confortoroster status changed byLos Angeles Dodgers.",
+      "player": "Michael Conforto"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Detroit Tigers",
+      "details": "3BJace Jungroster status changed byDetroit Tigers.",
+      "player": "Jace Jung"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "New York Yankees",
+      "details": "RHPMichael Ariasroster status changed byNew York Yankees.",
+      "player": "Michael Arias"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Los Angeles Dodgers",
+      "details": "LFEsteury Ruizroster status changed byLos Angeles Dodgers.",
+      "player": "Esteury Ruiz"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "New York Yankees",
+      "details": "LHPBrent Headrickroster status changed byNew York Yankees.",
+      "player": "Brent Headrick"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Cincinnati Reds",
+      "details": "RHPLyon Richardsonroster status changed byCincinnati Reds.",
+      "player": "Lyon Richardson"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Cincinnati Reds",
+      "details": "CWill Banfieldroster status changed byCincinnati Reds.",
+      "player": "Will Banfield"
     },
     {
       "date": "2025-09-30",
@@ -252,54 +300,6 @@
       "team": "Detroit Tigers",
       "details": "RHPChase Leeroster status changed byDetroit Tigers.",
       "player": "Chase Lee"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "Cincinnati Reds",
-      "details": "RFRece Hindsroster status changed byCincinnati Reds.",
-      "player": "Rece Hinds"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "New York Yankees",
-      "details": "LFAustin Slaterroster status changed byNew York Yankees.",
-      "player": "Austin Slater"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "Boston Red Sox",
-      "details": "RHPLucas Giolitoroster status changed byBoston Red Sox.",
-      "player": "Lucas Giolito"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "New York Yankees",
-      "details": "RHPAllan Winansroster status changed byNew York Yankees.",
-      "player": "Allan Winans"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "New York Yankees",
-      "details": "2BJorbit Vivasroster status changed byNew York Yankees.",
-      "player": "Jorbit Vivas"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "Cincinnati Reds",
-      "details": "LHPSam Mollroster status changed byCincinnati Reds.",
-      "player": "Sam Moll"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "San Diego Padres",
-      "details": "RHPBryan Hoeingroster status changed bySan Diego Padres.",
-      "player": "Bryan Hoeing"
-    },
-    {
-      "date": "2025-09-30",
-      "team": "San Diego Padres",
-      "details": "RHPAlek Jacobroster status changed bySan Diego Padres.",
-      "player": "Alek Jacob"
     }
   ]
 }
