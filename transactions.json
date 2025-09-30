@@ -1,4 +1,35 @@
 {
-  "last_updated": "2025-09-30T13:33:58.928967",
-  "transactions": []
+  "last_updated": "2025-09-30T14:24:56.001222",
+  "transactions": [
+    {
+      "date": "2025-09-30",
+      "team": "Cleveland Guardians",
+      "details": "RHPZak Kentroster status changed byCleveland Guardians.",
+      "player": "Zak Kent"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated RHPMatt Festa.",
+      "player": "Matt Festa"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Cleveland Guardians",
+      "details": "RHPFranco Alemanroster status changed byCleveland Guardians.",
+      "player": "Franco Aleman"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Cleveland Guardians",
+      "details": "LHPLogan Allenroster status changed byCleveland Guardians.",
+      "player": "Logan Allen"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Cleveland Guardians",
+      "details": "RHPMatt Festaroster status changed byCleveland Guardians.",
+      "player": "Matt Festa"
+    }
+  ]
 }
