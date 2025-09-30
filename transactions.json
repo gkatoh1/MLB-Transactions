@@ -1,6 +1,90 @@
 {
-  "last_updated": "2025-09-30T14:24:56.001222",
+  "last_updated": "2025-09-30T15:24:03.426944",
   "transactions": [
+    {
+      "date": "2025-09-30",
+      "team": "Detroit Tigers",
+      "details": "LHPDrew Sommersroster status changed byDetroit Tigers.",
+      "player": "Drew Sommers"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Boston Red Sox",
+      "details": "RHPCooper Criswellroster status changed byBoston Red Sox.",
+      "player": "Cooper Criswell"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Boston Red Sox",
+      "details": "RHPDustin Mayroster status changed byBoston Red Sox.",
+      "player": "Dustin May"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Boston Red Sox",
+      "details": "2BKristian Campbellroster status changed byBoston Red Sox.",
+      "player": "Kristian Campbell"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Detroit Tigers",
+      "details": "RHPSawyer Gipson-Longroster status changed byDetroit Tigers.",
+      "player": "Sawyer Gipson-Long"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Detroit Tigers",
+      "details": "RHPBrenan Hanifeeroster status changed byDetroit Tigers.",
+      "player": "Brenan Hanifee"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Detroit Tigers",
+      "details": "RHPDylan Smithroster status changed byDetroit Tigers.",
+      "player": "Dylan Smith"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Detroit Tigers",
+      "details": "2BColt Keithroster status changed byDetroit Tigers.",
+      "player": "Colt Keith"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated RHPMatt Festa.",
+      "player": "Matt Festa"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Boston Red Sox",
+      "details": "RHPJordan Hicksroster status changed byBoston Red Sox.",
+      "player": "Jordan Hicks"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Detroit Tigers",
+      "details": "RHPChris Paddackroster status changed byDetroit Tigers.",
+      "player": "Chris Paddack"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Boston Red Sox",
+      "details": "LHPBrennan Bernardinoroster status changed byBoston Red Sox.",
+      "player": "Brennan Bernardino"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Boston Red Sox",
+      "details": "LHPJovani Moránroster status changed byBoston Red Sox.",
+      "player": "Jovani Morán"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Detroit Tigers",
+      "details": "CFMatt Vierlingroster status changed byDetroit Tigers.",
+      "player": "Matt Vierling"
+    },
     {
       "date": "2025-09-30",
       "team": "Cleveland Guardians",
@@ -9,9 +93,15 @@
     },
     {
       "date": "2025-09-30",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated RHPMatt Festa.",
-      "player": "Matt Festa"
+      "team": "Boston Red Sox",
+      "details": "RHPIsaiah Campbellroster status changed byBoston Red Sox.",
+      "player": "Isaiah Campbell"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Detroit Tigers",
+      "details": "RHPTyler Mattisonroster status changed byDetroit Tigers.",
+      "player": "Tyler Mattison"
     },
     {
       "date": "2025-09-30",
@@ -27,9 +117,99 @@
     },
     {
       "date": "2025-09-30",
+      "team": "Detroit Tigers",
+      "details": "LHPBailey Hornroster status changed byDetroit Tigers.",
+      "player": "Bailey Horn"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Boston Red Sox",
+      "details": "RHPJosé De Leónroster status changed byBoston Red Sox.",
+      "player": "José De León"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Detroit Tigers",
+      "details": "3BJace Jungroster status changed byDetroit Tigers.",
+      "player": "Jace Jung"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Detroit Tigers",
+      "details": "RHPTanner Raineyroster status changed byDetroit Tigers.",
+      "player": "Tanner Rainey"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Detroit Tigers",
+      "details": "RHPChase Leeroster status changed byDetroit Tigers.",
+      "player": "Chase Lee"
+    },
+    {
+      "date": "2025-09-30",
       "team": "Cleveland Guardians",
       "details": "RHPMatt Festaroster status changed byCleveland Guardians.",
       "player": "Matt Festa"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Boston Red Sox",
+      "details": "RHPLucas Giolitoroster status changed byBoston Red Sox.",
+      "player": "Lucas Giolito"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Boston Red Sox",
+      "details": "RHPLuis Peralesroster status changed byBoston Red Sox.",
+      "player": "Luis Perales"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Boston Red Sox",
+      "details": "3BNate Eatonroster status changed byBoston Red Sox.",
+      "player": "Nate Eaton"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Boston Red Sox",
+      "details": "RFRoman Anthonyroster status changed byBoston Red Sox.",
+      "player": "Roman Anthony"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Boston Red Sox",
+      "details": "CFJhostynxon Garciaroster status changed byBoston Red Sox.",
+      "player": "Jhostynxon Garcia"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Cleveland Guardians",
+      "details": "LHPParker Messickroster status changed byCleveland Guardians.",
+      "player": "Parker Messick"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Boston Red Sox",
+      "details": "RHPRichard Fittsroster status changed byBoston Red Sox.",
+      "player": "Richard Fitts"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Detroit Tigers",
+      "details": "RHPJosé Urquidyroster status changed byDetroit Tigers.",
+      "player": "José Urquidy"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Detroit Tigers",
+      "details": "RHPAlex Langeroster status changed byDetroit Tigers.",
+      "player": "Alex Lange"
+    },
+    {
+      "date": "2025-09-30",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansselected the contract of RFChase DeLauterfrom Columbus Clippers.",
+      "player": "Chase DeLauter"
     }
   ]
 }
