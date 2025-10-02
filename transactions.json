@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-10-01T23:21:22.792316",
+  "last_updated": "2025-10-02T01:52:50.814425",
   "transactions": [
+    {
+      "date": "2025-10-01",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent CSandy Leónoutright to Gwinnett Stripers.",
+      "player": "Sandy León"
+    },
     {
       "date": "2025-10-01",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravessent RHPDane Dunningoutright to Gwinnett Stripers.",
       "player": "Dane Dunning"
-    },
-    {
-      "date": "2025-10-01",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent RHPAlexis Díazoutright to Gwinnett Stripers.",
-      "player": "Alexis Díaz"
     },
     {
       "date": "2025-10-01",
@@ -28,8 +28,8 @@
     {
       "date": "2025-10-01",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent CSandy Leónoutright to Gwinnett Stripers.",
-      "player": "Sandy León"
+      "details": "Atlanta Bravessent RHPAlexis Díazoutright to Gwinnett Stripers.",
+      "player": "Alexis Díaz"
     }
   ]
 }
