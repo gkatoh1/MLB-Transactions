@@ -1,114 +1,6 @@
 {
-  "last_updated": "2025-10-03T20:26:20.854378",
+  "last_updated": "2025-10-03T21:19:48.481033",
   "transactions": [
-    {
-      "date": "2025-10-03",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated 1BDavid Fry.",
-      "player": "David Fry"
-    },
-    {
-      "date": "2025-10-03",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated RHPIsaiah Campbell.",
-      "player": "Isaiah Campbell"
-    },
-    {
-      "date": "2025-10-03",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated RHPFranco Aleman.",
-      "player": "Franco Aleman"
-    },
-    {
-      "date": "2025-10-03",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresactivated CElias Díaz.",
-      "player": "Elias Díaz"
-    },
-    {
-      "date": "2025-10-03",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated LHPParker Messick.",
-      "player": "Parker Messick"
-    },
-    {
-      "date": "2025-10-03",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated 3BWill Wilson.",
-      "player": "Will Wilson"
-    },
-    {
-      "date": "2025-10-03",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated CDom Nuñez.",
-      "player": "Dom Nuñez"
-    },
-    {
-      "date": "2025-10-03",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresactivated LHPKyle Hart.",
-      "player": "Kyle Hart"
-    },
-    {
-      "date": "2025-10-03",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresactivated LHPNestor Cortes.",
-      "player": "Nestor Cortes"
-    },
-    {
-      "date": "2025-10-03",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated RHPDustin May.",
-      "player": "Dustin May"
-    },
-    {
-      "date": "2025-10-03",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated RHPJosé De León.",
-      "player": "José De León"
-    },
-    {
-      "date": "2025-10-03",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated RHPLuis Perales.",
-      "player": "Luis Perales"
-    },
-    {
-      "date": "2025-10-03",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated LHPMatt Krook.",
-      "player": "Matt Krook"
-    },
-    {
-      "date": "2025-10-03",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresactivated RHPAlek Jacob.",
-      "player": "Alek Jacob"
-    },
-    {
-      "date": "2025-10-03",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated RHPRichard Fitts.",
-      "player": "Richard Fitts"
-    },
-    {
-      "date": "2025-10-03",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated LHPDoug Nikhazy.",
-      "player": "Doug Nikhazy"
-    },
-    {
-      "date": "2025-10-03",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated SSJuan Brito.",
-      "player": "Juan Brito"
-    },
-    {
-      "date": "2025-10-03",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated RHPZak Kent.",
-      "player": "Zak Kent"
-    },
     {
       "date": "2025-10-03",
       "team": "Boston Red Sox",
@@ -120,6 +12,12 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxactivated RHPLucas Giolito.",
       "player": "Lucas Giolito"
+    },
+    {
+      "date": "2025-10-03",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated CElias Díaz.",
+      "player": "Elias Díaz"
     },
     {
       "date": "2025-10-03",
@@ -178,6 +76,60 @@
     {
       "date": "2025-10-03",
       "team": "San Diego Padres",
+      "details": "San Diego Padresactivated LHPOmar Cruz.",
+      "player": "Omar Cruz"
+    },
+    {
+      "date": "2025-10-03",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated 1BDavid Fry.",
+      "player": "David Fry"
+    },
+    {
+      "date": "2025-10-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPIsaiah Campbell.",
+      "player": "Isaiah Campbell"
+    },
+    {
+      "date": "2025-10-03",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated RHPFranco Aleman.",
+      "player": "Franco Aleman"
+    },
+    {
+      "date": "2025-10-03",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated LHPParker Messick.",
+      "player": "Parker Messick"
+    },
+    {
+      "date": "2025-10-03",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated 3BWill Wilson.",
+      "player": "Will Wilson"
+    },
+    {
+      "date": "2025-10-03",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated CDom Nuñez.",
+      "player": "Dom Nuñez"
+    },
+    {
+      "date": "2025-10-03",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated LHPKyle Hart.",
+      "player": "Kyle Hart"
+    },
+    {
+      "date": "2025-10-03",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated LHPNestor Cortes.",
+      "player": "Nestor Cortes"
+    },
+    {
+      "date": "2025-10-03",
+      "team": "San Diego Padres",
       "details": "San Diego Padresactivated RHPMatt Waldron.",
       "player": "Matt Waldron"
     },
@@ -219,12 +171,6 @@
     },
     {
       "date": "2025-10-03",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresactivated LHPOmar Cruz.",
-      "player": "Omar Cruz"
-    },
-    {
-      "date": "2025-10-03",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxactivated CFJhostynxon Garcia.",
       "player": "Jhostynxon Garcia"
@@ -246,6 +192,60 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxactivated RHPCooper Criswell.",
       "player": "Cooper Criswell"
+    },
+    {
+      "date": "2025-10-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPDustin May.",
+      "player": "Dustin May"
+    },
+    {
+      "date": "2025-10-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPJosé De León.",
+      "player": "José De León"
+    },
+    {
+      "date": "2025-10-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPLuis Perales.",
+      "player": "Luis Perales"
+    },
+    {
+      "date": "2025-10-03",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated LHPMatt Krook.",
+      "player": "Matt Krook"
+    },
+    {
+      "date": "2025-10-03",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated RHPAlek Jacob.",
+      "player": "Alek Jacob"
+    },
+    {
+      "date": "2025-10-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPRichard Fitts.",
+      "player": "Richard Fitts"
+    },
+    {
+      "date": "2025-10-03",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated LHPDoug Nikhazy.",
+      "player": "Doug Nikhazy"
+    },
+    {
+      "date": "2025-10-03",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated SSJuan Brito.",
+      "player": "Juan Brito"
+    },
+    {
+      "date": "2025-10-03",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated RHPZak Kent.",
+      "player": "Zak Kent"
     }
   ]
 }
