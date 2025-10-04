@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-04T16:27:07.568586",
+  "last_updated": "2025-10-04T17:18:39.217798",
   "transactions": [
     {
       "date": "2025-10-04",
@@ -9,9 +9,9 @@
     },
     {
       "date": "2025-10-04",
-      "team": "Milwaukee Brewers",
-      "details": "RFSteward Berroaroster status changed byMilwaukee Brewers.",
-      "player": "Steward Berroa"
+      "team": "Philadelphia Phillies",
+      "details": "RHPJordan Romanoroster status changed byPhiladelphia Phillies.",
+      "player": "Jordan Romano"
     },
     {
       "date": "2025-10-04",
@@ -51,45 +51,57 @@
     },
     {
       "date": "2025-10-04",
-      "team": "Toronto Blue Jays",
-      "details": "LHPEaston Lucasroster status changed byToronto Blue Jays.",
-      "player": "Easton Lucas"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated 2BColt Keith.",
+      "player": "Colt Keith"
     },
     {
       "date": "2025-10-04",
       "team": "Toronto Blue Jays",
-      "details": "RHPPaxton Schultzroster status changed byToronto Blue Jays.",
-      "player": "Paxton Schultz"
+      "details": "LHPAdam Mackoroster status changed byToronto Blue Jays.",
+      "player": "Adam Macko"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Milwaukee Brewers",
+      "details": "RHPTobias Myersroster status changed byMilwaukee Brewers.",
+      "player": "Tobias Myers"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Milwaukee Brewers",
+      "details": "RFSteward Berroaroster status changed byMilwaukee Brewers.",
+      "player": "Steward Berroa"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Toronto Blue Jays",
+      "details": "LFJoey Loperfidoroster status changed byToronto Blue Jays.",
+      "player": "Joey Loperfido"
     },
     {
       "date": "2025-10-04",
       "team": "Philadelphia Phillies",
-      "details": "RHPLou Trivinoroster status changed byPhiladelphia Phillies.",
-      "player": "Lou Trivino"
+      "details": "CGarrett Stubbsroster status changed byPhiladelphia Phillies.",
+      "player": "Garrett Stubbs"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated LHPClayton Kershaw.",
+      "player": "Clayton Kershaw"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Milwaukee Brewers",
+      "details": "RHPCraig Yohoroster status changed byMilwaukee Brewers.",
+      "player": "Craig Yoho"
     },
     {
       "date": "2025-10-04",
       "team": "Toronto Blue Jays",
-      "details": "RHPDillon Tateroster status changed byToronto Blue Jays.",
-      "player": "Dillon Tate"
-    },
-    {
-      "date": "2025-10-04",
-      "team": "Toronto Blue Jays",
-      "details": "LFJonatan Claseroster status changed byToronto Blue Jays.",
-      "player": "Jonatan Clase"
-    },
-    {
-      "date": "2025-10-04",
-      "team": "Philadelphia Phillies",
-      "details": "RHPAlan Rangelroster status changed byPhiladelphia Phillies.",
-      "player": "Alan Rangel"
-    },
-    {
-      "date": "2025-10-04",
-      "team": "Toronto Blue Jays",
-      "details": "RHPJake Blossroster status changed byToronto Blue Jays.",
-      "player": "Jake Bloss"
+      "details": "RHPLazaro Estradaroster status changed byToronto Blue Jays.",
+      "player": "Lazaro Estrada"
     },
     {
       "date": "2025-10-04",
@@ -117,6 +129,108 @@
     },
     {
       "date": "2025-10-04",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPBrenan Hanifee.",
+      "player": "Brenan Hanifee"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Philadelphia Phillies",
+      "details": "RHPMoisés Chaceroster status changed byPhiladelphia Phillies.",
+      "player": "Moisés Chace"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RHPLuis Gil.",
+      "player": "Luis Gil"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Toronto Blue Jays",
+      "details": "LHPEaston Lucasroster status changed byToronto Blue Jays.",
+      "player": "Easton Lucas"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Toronto Blue Jays",
+      "details": "RHPPaxton Schultzroster status changed byToronto Blue Jays.",
+      "player": "Paxton Schultz"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Los Angeles Dodgers",
+      "details": "LHPJustin Wrobleskiroster status changed byLos Angeles Dodgers.",
+      "player": "Justin Wrobleski"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Philadelphia Phillies",
+      "details": "RHPNolan Hoffmanroster status changed byPhiladelphia Phillies.",
+      "player": "Nolan Hoffman"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Philadelphia Phillies",
+      "details": "RHPSeth Johnsonroster status changed byPhiladelphia Phillies.",
+      "player": "Seth Johnson"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Detroit Tigers",
+      "details": "RHPPaul Sewaldroster status changed byDetroit Tigers.",
+      "player": "Paul Sewald"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Toronto Blue Jays",
+      "details": "RHPChris Bassittroster status changed byToronto Blue Jays.",
+      "player": "Chris Bassitt"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Toronto Blue Jays",
+      "details": "RHPJosé Berríosroster status changed byToronto Blue Jays.",
+      "player": "José Berríos"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Milwaukee Brewers",
+      "details": "RHPEaston McGeeroster status changed byMilwaukee Brewers.",
+      "player": "Easton McGee"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Philadelphia Phillies",
+      "details": "LHPJosé Alvaradoroster status changed byPhiladelphia Phillies.",
+      "player": "José Alvarado"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Chicago Cubs",
+      "details": "LHPTaylor Rogersroster status changed byChicago Cubs.",
+      "player": "Taylor Rogers"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Toronto Blue Jays",
+      "details": "LFJonatan Claseroster status changed byToronto Blue Jays.",
+      "player": "Jonatan Clase"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Philadelphia Phillies",
+      "details": "RHPAlan Rangelroster status changed byPhiladelphia Phillies.",
+      "player": "Alan Rangel"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Toronto Blue Jays",
+      "details": "RHPJake Blossroster status changed byToronto Blue Jays.",
+      "player": "Jake Bloss"
+    },
+    {
+      "date": "2025-10-04",
       "team": "Milwaukee Brewers",
       "details": "LHPDL Hallroster status changed byMilwaukee Brewers.",
       "player": "DL Hall"
@@ -126,6 +240,12 @@
       "team": "Milwaukee Brewers",
       "details": "LHPRob Zastryznyroster status changed byMilwaukee Brewers.",
       "player": "Rob Zastryzny"
+    },
+    {
+      "date": "2025-10-04",
+      "team": "Detroit Tigers",
+      "details": "RFJustyn-Henry Malloyroster status changed byDetroit Tigers.",
+      "player": "Justyn-Henry Malloy"
     },
     {
       "date": "2025-10-04",
@@ -171,117 +291,15 @@
     },
     {
       "date": "2025-10-04",
-      "team": "Toronto Blue Jays",
-      "details": "RHPChris Bassittroster status changed byToronto Blue Jays.",
-      "player": "Chris Bassitt"
-    },
-    {
-      "date": "2025-10-04",
-      "team": "Toronto Blue Jays",
-      "details": "RHPJosé Berríosroster status changed byToronto Blue Jays.",
-      "player": "José Berríos"
-    },
-    {
-      "date": "2025-10-04",
-      "team": "Milwaukee Brewers",
-      "details": "RHPEaston McGeeroster status changed byMilwaukee Brewers.",
-      "player": "Easton McGee"
-    },
-    {
-      "date": "2025-10-04",
       "team": "Philadelphia Phillies",
-      "details": "LHPJosé Alvaradoroster status changed byPhiladelphia Phillies.",
-      "player": "José Alvarado"
-    },
-    {
-      "date": "2025-10-04",
-      "team": "Chicago Cubs",
-      "details": "LHPTaylor Rogersroster status changed byChicago Cubs.",
-      "player": "Taylor Rogers"
-    },
-    {
-      "date": "2025-10-04",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated LHPClayton Kershaw.",
-      "player": "Clayton Kershaw"
-    },
-    {
-      "date": "2025-10-04",
-      "team": "Philadelphia Phillies",
-      "details": "RHPJordan Romanoroster status changed byPhiladelphia Phillies.",
-      "player": "Jordan Romano"
+      "details": "RHPLou Trivinoroster status changed byPhiladelphia Phillies.",
+      "player": "Lou Trivino"
     },
     {
       "date": "2025-10-04",
       "team": "Toronto Blue Jays",
-      "details": "LFJoey Loperfidoroster status changed byToronto Blue Jays.",
-      "player": "Joey Loperfido"
-    },
-    {
-      "date": "2025-10-04",
-      "team": "Philadelphia Phillies",
-      "details": "CGarrett Stubbsroster status changed byPhiladelphia Phillies.",
-      "player": "Garrett Stubbs"
-    },
-    {
-      "date": "2025-10-04",
-      "team": "Milwaukee Brewers",
-      "details": "RHPTobias Myersroster status changed byMilwaukee Brewers.",
-      "player": "Tobias Myers"
-    },
-    {
-      "date": "2025-10-04",
-      "team": "Milwaukee Brewers",
-      "details": "RHPCraig Yohoroster status changed byMilwaukee Brewers.",
-      "player": "Craig Yoho"
-    },
-    {
-      "date": "2025-10-04",
-      "team": "Toronto Blue Jays",
-      "details": "RHPLazaro Estradaroster status changed byToronto Blue Jays.",
-      "player": "Lazaro Estrada"
-    },
-    {
-      "date": "2025-10-04",
-      "team": "Philadelphia Phillies",
-      "details": "RHPMoisés Chaceroster status changed byPhiladelphia Phillies.",
-      "player": "Moisés Chace"
-    },
-    {
-      "date": "2025-10-04",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated RHPLuis Gil.",
-      "player": "Luis Gil"
-    },
-    {
-      "date": "2025-10-04",
-      "team": "Los Angeles Dodgers",
-      "details": "LHPJustin Wrobleskiroster status changed byLos Angeles Dodgers.",
-      "player": "Justin Wrobleski"
-    },
-    {
-      "date": "2025-10-04",
-      "team": "Philadelphia Phillies",
-      "details": "RHPNolan Hoffmanroster status changed byPhiladelphia Phillies.",
-      "player": "Nolan Hoffman"
-    },
-    {
-      "date": "2025-10-04",
-      "team": "Philadelphia Phillies",
-      "details": "RHPSeth Johnsonroster status changed byPhiladelphia Phillies.",
-      "player": "Seth Johnson"
-    },
-    {
-      "date": "2025-10-04",
-      "team": "Toronto Blue Jays",
-      "details": "LHPAdam Mackoroster status changed byToronto Blue Jays.",
-      "player": "Adam Macko"
-    },
-    {
-      "date": "2025-10-04",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled RHPBen Brownfrom Iowa Cubs.",
-      "player": "Ben Brown"
+      "details": "RHPDillon Tateroster status changed byToronto Blue Jays.",
+      "player": "Dillon Tate"
     }
   ]
 }
