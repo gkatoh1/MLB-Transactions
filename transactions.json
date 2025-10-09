@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-10-09T21:21:49.516088",
+  "last_updated": "2025-10-09T22:22:37.310413",
   "transactions": [
+    {
+      "date": "2025-10-09",
+      "team": "Los Angeles Dodgers",
+      "details": "LHPTanner Scottroster status changed byLos Angeles Dodgers.",
+      "player": "Tanner Scott"
+    },
     {
       "date": "2025-10-09",
       "team": "San Diego Padres",
@@ -12,12 +18,6 @@
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersactivated LHPJustin Wrobleski.",
       "player": "Justin Wrobleski"
-    },
-    {
-      "date": "2025-10-09",
-      "team": "Los Angeles Dodgers",
-      "details": "LHPTanner Scottroster status changed byLos Angeles Dodgers.",
-      "player": "Tanner Scott"
     }
   ]
 }
