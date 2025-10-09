@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-10-09T19:20:16.375884",
+  "last_updated": "2025-10-09T20:27:28.135271",
   "transactions": [
     {
       "date": "2025-10-09",
       "team": "San Diego Padres",
       "details": "San Diego Padressigned free agent RHPLan-Hong Suto a minor league contract.",
       "player": "Lan-Hong Su"
+    },
+    {
+      "date": "2025-10-09",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated LHPJustin Wrobleski.",
+      "player": "Justin Wrobleski"
+    },
+    {
+      "date": "2025-10-09",
+      "team": "Los Angeles Dodgers",
+      "details": "LHPTanner Scottroster status changed byLos Angeles Dodgers.",
+      "player": "Tanner Scott"
     }
   ]
 }
