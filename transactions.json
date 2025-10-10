@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-10-10T18:34:57.894159",
+  "last_updated": "2025-10-10T19:19:16.206669",
   "transactions": [
     {
       "date": "2025-10-10",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated RHPJean Cabrera.",
-      "player": "Jean Cabrera"
+      "details": "Philadelphia Philliesactivated RHPMichael Mercado.",
+      "player": "Michael Mercado"
     },
     {
       "date": "2025-10-10",
@@ -46,6 +46,18 @@
     {
       "date": "2025-10-10",
       "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated RHPNolan Hoffman.",
+      "player": "Nolan Hoffman"
+    },
+    {
+      "date": "2025-10-10",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated RHPJean Cabrera.",
+      "player": "Jean Cabrera"
+    },
+    {
+      "date": "2025-10-10",
+      "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesactivated CGarrett Stubbs.",
       "player": "Garrett Stubbs"
     },
@@ -66,18 +78,6 @@
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesactivated RHPLou Trivino.",
       "player": "Lou Trivino"
-    },
-    {
-      "date": "2025-10-10",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated RHPMichael Mercado.",
-      "player": "Michael Mercado"
-    },
-    {
-      "date": "2025-10-10",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated RHPNolan Hoffman.",
-      "player": "Nolan Hoffman"
     }
   ]
 }
