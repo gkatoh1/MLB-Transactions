@@ -1,6 +1,36 @@
 {
-  "last_updated": "2025-10-12T01:58:47.284096",
+  "last_updated": "2025-10-12T03:07:52.634136",
   "transactions": [
+    {
+      "date": "2025-10-11",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPSawyer Gipson-Long.",
+      "player": "Sawyer Gipson-Long"
+    },
+    {
+      "date": "2025-10-11",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated 3BJace Jung.",
+      "player": "Jace Jung"
+    },
+    {
+      "date": "2025-10-11",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated LHPBailey Horn.",
+      "player": "Bailey Horn"
+    },
+    {
+      "date": "2025-10-11",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPAlex Lange.",
+      "player": "Alex Lange"
+    },
+    {
+      "date": "2025-10-11",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPTyler Mattison.",
+      "player": "Tyler Mattison"
+    },
     {
       "date": "2025-10-11",
       "team": "Detroit Tigers",
@@ -22,44 +52,8 @@
     {
       "date": "2025-10-11",
       "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated 3BJace Jung.",
-      "player": "Jace Jung"
-    },
-    {
-      "date": "2025-10-11",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated RHPTyler Mattison.",
-      "player": "Tyler Mattison"
-    },
-    {
-      "date": "2025-10-11",
-      "team": "Detroit Tigers",
       "details": "Detroit Tigersactivated CFMatt Vierling.",
       "player": "Matt Vierling"
-    },
-    {
-      "date": "2025-10-11",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated LHPBailey Horn.",
-      "player": "Bailey Horn"
-    },
-    {
-      "date": "2025-10-11",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated RHPAlex Lange.",
-      "player": "Alex Lange"
-    },
-    {
-      "date": "2025-10-11",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated RHPChris Paddack.",
-      "player": "Chris Paddack"
-    },
-    {
-      "date": "2025-10-11",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated RHPSawyer Gipson-Long.",
-      "player": "Sawyer Gipson-Long"
     },
     {
       "date": "2025-10-11",
@@ -84,6 +78,12 @@
       "team": "Detroit Tigers",
       "details": "Detroit Tigersactivated RHPPaul Sewald.",
       "player": "Paul Sewald"
+    },
+    {
+      "date": "2025-10-11",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPChris Paddack.",
+      "player": "Chris Paddack"
     }
   ]
 }
