@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-10-12T13:26:10.718005",
+  "last_updated": "2025-10-12T14:20:12.872382",
   "transactions": [
     {
       "date": "2025-10-12",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPEli Morgan.",
-      "player": "Eli Morgan"
+      "details": "Chicago Cubsactivated RFOwen Caissie.",
+      "player": "Owen Caissie"
+    },
+    {
+      "date": "2025-10-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated LHPJordan Wicks.",
+      "player": "Jordan Wicks"
     },
     {
       "date": "2025-10-12",
@@ -18,30 +24,6 @@
       "team": "Chicago Cubs",
       "details": "Chicago Cubsactivated LHPLuke Little.",
       "player": "Luke Little"
-    },
-    {
-      "date": "2025-10-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPJavier Assad.",
-      "player": "Javier Assad"
-    },
-    {
-      "date": "2025-10-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPJack Neely.",
-      "player": "Jack Neely"
-    },
-    {
-      "date": "2025-10-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated LHPTaylor Rogers.",
-      "player": "Taylor Rogers"
-    },
-    {
-      "date": "2025-10-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPRyan Brasier.",
-      "player": "Ryan Brasier"
     },
     {
       "date": "2025-10-12",
@@ -64,14 +46,8 @@
     {
       "date": "2025-10-12",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RFOwen Caissie.",
-      "player": "Owen Caissie"
-    },
-    {
-      "date": "2025-10-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated LHPJordan Wicks.",
-      "player": "Jordan Wicks"
+      "details": "Chicago Cubsactivated RHPEli Morgan.",
+      "player": "Eli Morgan"
     },
     {
       "date": "2025-10-12",
@@ -84,6 +60,30 @@
       "team": "Chicago Cubs",
       "details": "Chicago Cubsactivated CMiguel Amaya.",
       "player": "Miguel Amaya"
+    },
+    {
+      "date": "2025-10-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPJack Neely.",
+      "player": "Jack Neely"
+    },
+    {
+      "date": "2025-10-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated LHPTaylor Rogers.",
+      "player": "Taylor Rogers"
+    },
+    {
+      "date": "2025-10-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPRyan Brasier.",
+      "player": "Ryan Brasier"
+    },
+    {
+      "date": "2025-10-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPJavier Assad.",
+      "player": "Javier Assad"
     }
   ]
 }
