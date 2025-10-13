@@ -1,17 +1,11 @@
 {
-  "last_updated": "2025-10-13T20:27:07.015944",
+  "last_updated": "2025-10-13T21:21:29.584415",
   "transactions": [
     {
       "date": "2025-10-13",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated RHPTobias Myers.",
-      "player": "Tobias Myers"
-    },
-    {
-      "date": "2025-10-13",
       "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated RHPBen Casparius.",
-      "player": "Ben Casparius"
+      "details": "CDalton Rushingroster status changed byLos Angeles Dodgers.",
+      "player": "Dalton Rushing"
     },
     {
       "date": "2025-10-13",
@@ -21,9 +15,51 @@
     },
     {
       "date": "2025-10-13",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RHPTobias Myers.",
+      "player": "Tobias Myers"
+    },
+    {
+      "date": "2025-10-13",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated CFRyan Kreidlerfor assignment.",
+      "player": "Ryan Kreidler"
+    },
+    {
+      "date": "2025-10-13",
       "team": "Los Angeles Dodgers",
-      "details": "CDalton Rushingroster status changed byLos Angeles Dodgers.",
-      "player": "Dalton Rushing"
+      "details": "Los Angeles Dodgersactivated RHPBen Casparius.",
+      "player": "Ben Casparius"
+    },
+    {
+      "date": "2025-10-13",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent LFCorey Julksoutright to Charlotte Knights.",
+      "player": "Corey Julks"
+    },
+    {
+      "date": "2025-10-13",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent RHPOwen Whiteoutright to Charlotte Knights.",
+      "player": "Owen White"
+    },
+    {
+      "date": "2025-10-13",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesclaimed LFWill Robertsonoff waivers fromChicago White Sox.",
+      "player": "Will Robertson"
+    },
+    {
+      "date": "2025-10-13",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent RHPElvis Peguerooutright to Charlotte Knights.",
+      "player": "Elvis Peguero"
+    },
+    {
+      "date": "2025-10-13",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent RFDominic Fletcheroutright to Charlotte Knights.",
+      "player": "Dominic Fletcher"
     }
   ]
 }
