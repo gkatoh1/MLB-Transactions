@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-10-13T16:31:50.919956",
+  "last_updated": "2025-10-13T17:21:16.455164",
   "transactions": [
+    {
+      "date": "2025-10-13",
+      "team": "Milwaukee Brewers",
+      "details": "RHPNick Mearsroster status changed byMilwaukee Brewers.",
+      "player": "Nick Mears"
+    },
     {
       "date": "2025-10-13",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersactivated RHPBen Casparius.",
       "player": "Ben Casparius"
+    },
+    {
+      "date": "2025-10-13",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RHPTobias Myers.",
+      "player": "Tobias Myers"
     }
   ]
 }
