@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-12T23:21:00.036569",
+  "last_updated": "2025-10-13T02:02:25.985968",
   "transactions": [
     {
       "date": "2025-10-12",
@@ -39,21 +39,15 @@
     },
     {
       "date": "2025-10-12",
-      "team": "Toronto Blue Jays",
-      "details": "LHPJustin Bruihlroster status changed byToronto Blue Jays.",
-      "player": "Justin Bruihl"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPPorter Hodge.",
+      "player": "Porter Hodge"
     },
     {
       "date": "2025-10-12",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPJavier Assad.",
-      "player": "Javier Assad"
-    },
-    {
-      "date": "2025-10-12",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated RHPChris Bassitt.",
-      "player": "Chris Bassitt"
+      "details": "Chicago Cubsactivated RHPGavin Hollowell.",
+      "player": "Gavin Hollowell"
     },
     {
       "date": "2025-10-12",
@@ -81,9 +75,21 @@
     },
     {
       "date": "2025-10-12",
+      "team": "Toronto Blue Jays",
+      "details": "LHPJustin Bruihlroster status changed byToronto Blue Jays.",
+      "player": "Justin Bruihl"
+    },
+    {
+      "date": "2025-10-12",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPCade Horton.",
-      "player": "Cade Horton"
+      "details": "Chicago Cubsactivated RHPJavier Assad.",
+      "player": "Javier Assad"
+    },
+    {
+      "date": "2025-10-12",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RHPChris Bassitt.",
+      "player": "Chris Bassitt"
     },
     {
       "date": "2025-10-12",
@@ -106,18 +112,6 @@
     {
       "date": "2025-10-12",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPPorter Hodge.",
-      "player": "Porter Hodge"
-    },
-    {
-      "date": "2025-10-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPGavin Hollowell.",
-      "player": "Gavin Hollowell"
-    },
-    {
-      "date": "2025-10-12",
-      "team": "Chicago Cubs",
       "details": "Chicago Cubsactivated RHPEthan Roberts.",
       "player": "Ethan Roberts"
     },
@@ -132,6 +126,12 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysactivated RHPMax Scherzer.",
       "player": "Max Scherzer"
+    },
+    {
+      "date": "2025-10-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPCade Horton.",
+      "player": "Cade Horton"
     }
   ]
 }
