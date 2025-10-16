@@ -1,4 +1,23 @@
 {
-  "last_updated": "2025-10-16T22:20:37.558108",
-  "transactions": []
+  "last_updated": "2025-10-16T23:19:34.432886",
+  "transactions": [
+    {
+      "date": "2025-10-16",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated LFJoey Loperfido.",
+      "player": "Joey Loperfido"
+    },
+    {
+      "date": "2025-10-16",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPJosé De Leónoutright to Worcester Red Sox.",
+      "player": "José De León"
+    },
+    {
+      "date": "2025-10-16",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPIsaiah Campbelloutright to Worcester Red Sox.",
+      "player": "Isaiah Campbell"
+    }
+  ]
 }
