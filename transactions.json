@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-10-18T23:21:29.828139",
+  "last_updated": "2025-10-19T02:08:41.551005",
   "transactions": [
+    {
+      "date": "2025-10-18",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated LHPRob Zastryzny.",
+      "player": "Rob Zastryzny"
+    },
     {
       "date": "2025-10-18",
       "team": "Milwaukee Brewers",
@@ -10,14 +16,20 @@
     {
       "date": "2025-10-18",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated RFSteward Berroa.",
-      "player": "Steward Berroa"
+      "details": "Milwaukee Brewersactivated RHPBrandon Woodruff.",
+      "player": "Brandon Woodruff"
     },
     {
       "date": "2025-10-18",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated 3BTyler Black.",
-      "player": "Tyler Black"
+      "details": "Milwaukee Brewersactivated CJeferson Quero.",
+      "player": "Jeferson Quero"
+    },
+    {
+      "date": "2025-10-18",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RHPCarlos Rodriguez.",
+      "player": "Carlos Rodriguez"
     },
     {
       "date": "2025-10-18",
@@ -40,38 +52,26 @@
     {
       "date": "2025-10-18",
       "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RFSteward Berroa.",
+      "player": "Steward Berroa"
+    },
+    {
+      "date": "2025-10-18",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated 3BTyler Black.",
+      "player": "Tyler Black"
+    },
+    {
+      "date": "2025-10-18",
+      "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersactivated RHPEaston McGee.",
       "player": "Easton McGee"
     },
     {
       "date": "2025-10-18",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated LHPRob Zastryzny.",
-      "player": "Rob Zastryzny"
-    },
-    {
-      "date": "2025-10-18",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated RHPBrandon Woodruff.",
-      "player": "Brandon Woodruff"
-    },
-    {
-      "date": "2025-10-18",
-      "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersactivated 2BAnthony Seigler.",
       "player": "Anthony Seigler"
-    },
-    {
-      "date": "2025-10-18",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated CJeferson Quero.",
-      "player": "Jeferson Quero"
-    },
-    {
-      "date": "2025-10-18",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated RHPCarlos Rodriguez.",
-      "player": "Carlos Rodriguez"
     }
   ]
 }
