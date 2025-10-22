@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-10-22T22:20:23.083004",
+  "last_updated": "2025-10-22T23:21:19.485815",
   "transactions": [
-    {
-      "date": "2025-10-22",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent RHPCarson Fulmeroutright to Salt Lake Bees.",
-      "player": "Carson Fulmer"
-    },
     {
       "date": "2025-10-22",
       "team": "Los Angeles Angels",
@@ -15,9 +9,9 @@
     },
     {
       "date": "2025-10-22",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersclaimed LHPSammy Peraltaoff waivers fromLos Angeles Angels.",
-      "player": "Sammy Peralta"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPCarson Fulmeroutright to Salt Lake Bees.",
+      "player": "Carson Fulmer"
     },
     {
       "date": "2025-10-22",
@@ -30,6 +24,12 @@
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelssent RHPConnor Brogdonoutright to Salt Lake Bees.",
       "player": "Connor Brogdon"
+    },
+    {
+      "date": "2025-10-22",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersclaimed LHPSammy Peraltaoff waivers fromLos Angeles Angels.",
+      "player": "Sammy Peralta"
     }
   ]
 }
