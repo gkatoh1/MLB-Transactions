@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-10-23T01:57:40.490564",
+  "last_updated": "2025-10-23T03:09:23.007852",
   "transactions": [
     {
       "date": "2025-10-22",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent 3BCarter Kieboomoutright to Salt Lake Bees.",
-      "player": "Carter Kieboom"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersclaimed LHPSammy Peraltaoff waivers fromLos Angeles Angels.",
+      "player": "Sammy Peralta"
     },
     {
       "date": "2025-10-22",
@@ -16,20 +16,20 @@
     {
       "date": "2025-10-22",
       "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPCarson Fulmeroutright to Salt Lake Bees.",
+      "player": "Carson Fulmer"
+    },
+    {
+      "date": "2025-10-22",
+      "team": "Los Angeles Angels",
       "details": "Los Angeles Angelssent RHPConnor Brogdonoutright to Salt Lake Bees.",
       "player": "Connor Brogdon"
     },
     {
       "date": "2025-10-22",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersclaimed LHPSammy Peraltaoff waivers fromLos Angeles Angels.",
-      "player": "Sammy Peralta"
-    },
-    {
-      "date": "2025-10-22",
       "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent RHPCarson Fulmeroutright to Salt Lake Bees.",
-      "player": "Carson Fulmer"
+      "details": "Los Angeles Angelssent 3BCarter Kieboomoutright to Salt Lake Bees.",
+      "player": "Carter Kieboom"
     }
   ]
 }
