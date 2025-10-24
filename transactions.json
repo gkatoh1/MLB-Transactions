@@ -1,35 +1,11 @@
 {
-  "last_updated": "2025-10-24T19:20:15.638390",
+  "last_updated": "2025-10-24T20:28:01.102700",
   "transactions": [
-    {
-      "date": "2025-10-24",
-      "team": "Los Angeles Dodgers",
-      "details": "LHPAlex Vesiaroster status changed byLos Angeles Dodgers.",
-      "player": "Alex Vesia"
-    },
-    {
-      "date": "2025-10-24",
-      "team": "Toronto Blue Jays",
-      "details": "LFJoey Loperfidoroster status changed byToronto Blue Jays.",
-      "player": "Joey Loperfido"
-    },
-    {
-      "date": "2025-10-24",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated RHPWill Klein.",
-      "player": "Will Klein"
-    },
     {
       "date": "2025-10-24",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersactivated RHPEdgardo Henriquez.",
       "player": "Edgardo Henriquez"
-    },
-    {
-      "date": "2025-10-24",
-      "team": "Los Angeles Dodgers",
-      "details": "RHPBen Caspariusroster status changed byLos Angeles Dodgers.",
-      "player": "Ben Casparius"
     },
     {
       "date": "2025-10-24",
@@ -40,8 +16,32 @@
     {
       "date": "2025-10-24",
       "team": "Toronto Blue Jays",
+      "details": "LFJoey Loperfidoroster status changed byToronto Blue Jays.",
+      "player": "Joey Loperfido"
+    },
+    {
+      "date": "2025-10-24",
+      "team": "Los Angeles Dodgers",
+      "details": "LHPAlex Vesiaroster status changed byLos Angeles Dodgers.",
+      "player": "Alex Vesia"
+    },
+    {
+      "date": "2025-10-24",
+      "team": "Toronto Blue Jays",
       "details": "RHPYariel Rodríguezroster status changed byToronto Blue Jays.",
       "player": "Yariel Rodríguez"
+    },
+    {
+      "date": "2025-10-24",
+      "team": "Los Angeles Dodgers",
+      "details": "RHPBen Caspariusroster status changed byLos Angeles Dodgers.",
+      "player": "Ben Casparius"
+    },
+    {
+      "date": "2025-10-24",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPWill Klein.",
+      "player": "Will Klein"
     },
     {
       "date": "2025-10-24",
