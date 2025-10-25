@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-10-25T01:55:27.395014",
+  "last_updated": "2025-10-25T03:07:52.164109",
   "transactions": [
     {
       "date": "2025-10-24",
       "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated RHPEdgardo Henriquez.",
-      "player": "Edgardo Henriquez"
+      "details": "LHPAlex Vesiaroster status changed byLos Angeles Dodgers.",
+      "player": "Alex Vesia"
+    },
+    {
+      "date": "2025-10-24",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated SSBo Bichette.",
+      "player": "Bo Bichette"
+    },
+    {
+      "date": "2025-10-24",
+      "team": "Los Angeles Dodgers",
+      "details": "RHPBen Caspariusroster status changed byLos Angeles Dodgers.",
+      "player": "Ben Casparius"
     },
     {
       "date": "2025-10-24",
@@ -21,21 +33,9 @@
     },
     {
       "date": "2025-10-24",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated 1BTy France.",
-      "player": "Ty France"
-    },
-    {
-      "date": "2025-10-24",
       "team": "Los Angeles Dodgers",
-      "details": "LHPAlex Vesiaroster status changed byLos Angeles Dodgers.",
-      "player": "Alex Vesia"
-    },
-    {
-      "date": "2025-10-24",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated SSBo Bichette.",
-      "player": "Bo Bichette"
+      "details": "Los Angeles Dodgersactivated RHPEdgardo Henriquez.",
+      "player": "Edgardo Henriquez"
     },
     {
       "date": "2025-10-24",
@@ -45,9 +45,9 @@
     },
     {
       "date": "2025-10-24",
-      "team": "Los Angeles Dodgers",
-      "details": "RHPBen Caspariusroster status changed byLos Angeles Dodgers.",
-      "player": "Ben Casparius"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated 1BTy France.",
+      "player": "Ty France"
     }
   ]
 }
