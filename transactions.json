@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-03T22:25:04.473932",
+  "last_updated": "2025-11-03T23:23:37.308687",
   "transactions": [
     {
       "date": "2025-11-03",
@@ -9,21 +9,27 @@
     },
     {
       "date": "2025-11-03",
-      "team": "Unknown Team",
-      "details": "CMitch Garverelected free agency.",
-      "player": "Mitch Garver"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated LHPKris Bubicfrom the 60-day injured list.",
+      "player": "Kris Bubic"
+    },
+    {
+      "date": "2025-11-03",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RHPAlec Marshfrom the 60-day injured list.",
+      "player": "Alec Marsh"
     },
     {
       "date": "2025-11-03",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated RHPManuel Rodríguezfrom the 60-day injured list.",
-      "player": "Manuel Rodríguez"
+      "details": "Tampa Bay Raysactivated LHPShane McClanahanfrom the 15-day injured list.",
+      "player": "Shane McClanahan"
     },
     {
       "date": "2025-11-03",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated RHPHunter Bigge.",
-      "player": "Hunter Bigge"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent RHPJean Henriquezto a minor league contract.",
+      "player": "Jean Henriquez"
     },
     {
       "date": "2025-11-03",
@@ -39,9 +45,9 @@
     },
     {
       "date": "2025-11-03",
-      "team": "Unknown Team",
-      "details": "RHPMichael Lorenzenelected free agency.",
-      "player": "Michael Lorenzen"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated CFJonny DeLucafrom the 60-day injured list.",
+      "player": "Jonny DeLuca"
     },
     {
       "date": "2025-11-03",
@@ -57,15 +63,15 @@
     },
     {
       "date": "2025-11-03",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated LHPShane McClanahanfrom the 15-day injured list.",
-      "player": "Shane McClanahan"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RHPJames McArthurfrom the 60-day injured list.",
+      "player": "James McArthur"
     },
     {
       "date": "2025-11-03",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated CFJonny DeLucafrom the 60-day injured list.",
-      "player": "Jonny DeLuca"
+      "details": "Tampa Bay Raysactivated RHPHunter Bigge.",
+      "player": "Hunter Bigge"
     },
     {
       "date": "2025-11-03",
@@ -81,21 +87,39 @@
     },
     {
       "date": "2025-11-03",
+      "team": "Unknown Team",
+      "details": "RHPMichael Lorenzenelected free agency.",
+      "player": "Michael Lorenzen"
+    },
+    {
+      "date": "2025-11-03",
+      "team": "Unknown Team",
+      "details": "CMitch Garverelected free agency.",
+      "player": "Mitch Garver"
+    },
+    {
+      "date": "2025-11-03",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysdesignated RFStuart Fairchildfor assignment.",
       "player": "Stuart Fairchild"
     },
     {
       "date": "2025-11-03",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersselected the contract of RHPColeman Crowfrom Nashville Sounds.",
-      "player": "Coleman Crow"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RHPManuel Rodríguezfrom the 60-day injured list.",
+      "player": "Manuel Rodríguez"
     },
     {
       "date": "2025-11-03",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redstraded RFRyan ViladetoTampa Bay Raysfor cash.",
       "player": "Ryan Vilade"
+    },
+    {
+      "date": "2025-11-03",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of RHPColeman Crowfrom Nashville Sounds.",
+      "player": "Coleman Crow"
     }
   ]
 }
