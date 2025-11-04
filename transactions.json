@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-03T23:23:37.308687",
+  "last_updated": "2025-11-04T02:01:50.039905",
   "transactions": [
     {
       "date": "2025-11-03",
@@ -22,14 +22,8 @@
     {
       "date": "2025-11-03",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated LHPShane McClanahanfrom the 15-day injured list.",
-      "player": "Shane McClanahan"
-    },
-    {
-      "date": "2025-11-03",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent RHPJean Henriquezto a minor league contract.",
-      "player": "Jean Henriquez"
+      "details": "Tampa Bay Raysdesignated RFStuart Fairchildfor assignment.",
+      "player": "Stuart Fairchild"
     },
     {
       "date": "2025-11-03",
@@ -45,36 +39,6 @@
     },
     {
       "date": "2025-11-03",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated CFJonny DeLucafrom the 60-day injured list.",
-      "player": "Jonny DeLuca"
-    },
-    {
-      "date": "2025-11-03",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysdesignated RHPCaleb Boushleyfor assignment.",
-      "player": "Caleb Boushley"
-    },
-    {
-      "date": "2025-11-03",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysdesignated RHPAlex Faedofor assignment.",
-      "player": "Alex Faedo"
-    },
-    {
-      "date": "2025-11-03",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated RHPJames McArthurfrom the 60-day injured list.",
-      "player": "James McArthur"
-    },
-    {
-      "date": "2025-11-03",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated RHPHunter Bigge.",
-      "player": "Hunter Bigge"
-    },
-    {
-      "date": "2025-11-03",
       "team": "Unknown Team",
       "details": "CDanny Jansenelected free agency.",
       "player": "Danny Jansen"
@@ -84,6 +48,18 @@
       "team": "Unknown Team",
       "details": "RHPBrandon Woodruffelected free agency.",
       "player": "Brandon Woodruff"
+    },
+    {
+      "date": "2025-11-03",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RHPHunter Bigge.",
+      "player": "Hunter Bigge"
+    },
+    {
+      "date": "2025-11-03",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated RHPAlex Faedofor assignment.",
+      "player": "Alex Faedo"
     },
     {
       "date": "2025-11-03",
@@ -99,9 +75,9 @@
     },
     {
       "date": "2025-11-03",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysdesignated RFStuart Fairchildfor assignment.",
-      "player": "Stuart Fairchild"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RHPJames McArthurfrom the 60-day injured list.",
+      "player": "James McArthur"
     },
     {
       "date": "2025-11-03",
@@ -111,15 +87,45 @@
     },
     {
       "date": "2025-11-03",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redstraded RFRyan ViladetoTampa Bay Raysfor cash.",
-      "player": "Ryan Vilade"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated CFJonny DeLucafrom the 60-day injured list.",
+      "player": "Jonny DeLuca"
+    },
+    {
+      "date": "2025-11-03",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated RHPCaleb Boushleyfor assignment.",
+      "player": "Caleb Boushley"
+    },
+    {
+      "date": "2025-11-03",
+      "team": "Unknown Team",
+      "details": "CTom Murphyelected free agency.",
+      "player": "Tom Murphy"
+    },
+    {
+      "date": "2025-11-03",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated LHPShane McClanahanfrom the 15-day injured list.",
+      "player": "Shane McClanahan"
+    },
+    {
+      "date": "2025-11-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent RHPJean Henriquezto a minor league contract.",
+      "player": "Jean Henriquez"
     },
     {
       "date": "2025-11-03",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersselected the contract of RHPColeman Crowfrom Nashville Sounds.",
       "player": "Coleman Crow"
+    },
+    {
+      "date": "2025-11-03",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redstraded RFRyan ViladetoTampa Bay Raysfor cash.",
+      "player": "Ryan Vilade"
     }
   ]
 }
