@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-11-04T17:21:34.389435",
+  "last_updated": "2025-11-04T18:37:03.646029",
   "transactions": [
+    {
+      "date": "2025-11-04",
+      "team": "Unknown Team",
+      "details": "RHPDrew Smithelected free agency.",
+      "player": "Drew Smith"
+    },
+    {
+      "date": "2025-11-04",
+      "team": "Unknown Team",
+      "details": "RHPLucas Giolitoelected free agency.",
+      "player": "Lucas Giolito"
+    },
     {
       "date": "2025-11-04",
       "team": "Unknown Team",
@@ -16,14 +28,32 @@
     {
       "date": "2025-11-04",
       "team": "Unknown Team",
-      "details": "RHPRobert Suarezelected free agency.",
-      "player": "Robert Suarez"
+      "details": "SSHa-Seong Kimelected free agency.",
+      "player": "Ha-Seong Kim"
+    },
+    {
+      "date": "2025-11-04",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent RHPDeclan Croninto a minor league contract.",
+      "player": "Declan Cronin"
     },
     {
       "date": "2025-11-04",
       "team": "Unknown Team",
-      "details": "SSHa-Seong Kimelected free agency.",
-      "player": "Ha-Seong Kim"
+      "details": "3BAlex Bregmanelected free agency.",
+      "player": "Alex Bregman"
+    },
+    {
+      "date": "2025-11-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent RHPKeegan Thompson.",
+      "player": "Keegan Thompson"
+    },
+    {
+      "date": "2025-11-04",
+      "team": "Unknown Team",
+      "details": "RHPRobert Suarezelected free agency.",
+      "player": "Robert Suarez"
     },
     {
       "date": "2025-11-04",
@@ -40,26 +70,8 @@
     {
       "date": "2025-11-04",
       "team": "Unknown Team",
-      "details": "3BAlex Bregmanelected free agency.",
-      "player": "Alex Bregman"
-    },
-    {
-      "date": "2025-11-04",
-      "team": "Unknown Team",
       "details": "RHPEdwin Díazelected free agency.",
       "player": "Edwin Díaz"
-    },
-    {
-      "date": "2025-11-04",
-      "team": "Unknown Team",
-      "details": "RHPDrew Smithelected free agency.",
-      "player": "Drew Smith"
-    },
-    {
-      "date": "2025-11-04",
-      "team": "Unknown Team",
-      "details": "RHPLucas Giolitoelected free agency.",
-      "player": "Lucas Giolito"
     }
   ]
 }
