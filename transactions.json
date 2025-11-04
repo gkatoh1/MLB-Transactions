@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-04T18:37:03.646029",
+  "last_updated": "2025-11-04T19:21:01.443087",
   "transactions": [
     {
       "date": "2025-11-04",
@@ -27,12 +27,6 @@
     },
     {
       "date": "2025-11-04",
-      "team": "Unknown Team",
-      "details": "SSHa-Seong Kimelected free agency.",
-      "player": "Ha-Seong Kim"
-    },
-    {
-      "date": "2025-11-04",
       "team": "Texas Rangers",
       "details": "Texas Rangerssigned free agent RHPDeclan Croninto a minor league contract.",
       "player": "Declan Cronin"
@@ -40,8 +34,14 @@
     {
       "date": "2025-11-04",
       "team": "Unknown Team",
-      "details": "3BAlex Bregmanelected free agency.",
-      "player": "Alex Bregman"
+      "details": "SSHa-Seong Kimelected free agency.",
+      "player": "Ha-Seong Kim"
+    },
+    {
+      "date": "2025-11-04",
+      "team": "Unknown Team",
+      "details": "RHPEdwin Díazelected free agency.",
+      "player": "Edwin Díaz"
     },
     {
       "date": "2025-11-04",
@@ -70,8 +70,20 @@
     {
       "date": "2025-11-04",
       "team": "Unknown Team",
-      "details": "RHPEdwin Díazelected free agency.",
-      "player": "Edwin Díaz"
+      "details": "3BAlex Bregmanelected free agency.",
+      "player": "Alex Bregman"
+    },
+    {
+      "date": "2025-11-04",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHPJoey GerbertoNew York Metsfor cash.",
+      "player": "Joey Gerber"
+    },
+    {
+      "date": "2025-11-04",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubstraded RHPAndrew KittredgetoBaltimore Oriolesfor cash.",
+      "player": "Andrew Kittredge"
     }
   ]
 }
