@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-11-05T21:24:25.224096",
+  "last_updated": "2025-11-05T22:24:58.080746",
   "transactions": [
+    {
+      "date": "2025-11-05",
+      "team": "Unknown Team",
+      "details": "LHPBrent Suterelected free agency.",
+      "player": "Brent Suter"
+    },
+    {
+      "date": "2025-11-05",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated 2BRyan Blissfrom the 60-day injured list.",
+      "player": "Ryan Bliss"
+    },
+    {
+      "date": "2025-11-05",
+      "team": "Unknown Team",
+      "details": "LFDustin Harriselected free agency.",
+      "player": "Dustin Harris"
+    },
+    {
+      "date": "2025-11-05",
+      "team": "Unknown Team",
+      "details": "LFBilly McKinneyelected free agency.",
+      "player": "Billy McKinney"
+    },
     {
       "date": "2025-11-05",
       "team": "Seattle Mariners",
@@ -12,36 +36,6 @@
       "team": "Seattle Mariners",
       "details": "Seattle Marinersactivated RHPTrent Thorntonfrom the 60-day injured list.",
       "player": "Trent Thornton"
-    },
-    {
-      "date": "2025-11-05",
-      "team": "Unknown Team",
-      "details": "LFAustin Hayselected free agency.",
-      "player": "Austin Hays"
-    },
-    {
-      "date": "2025-11-05",
-      "team": "Unknown Team",
-      "details": "LHPBrent Suterelected free agency.",
-      "player": "Brent Suter"
-    },
-    {
-      "date": "2025-11-05",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated CFDaniel Johnsonfor assignment.",
-      "player": "Daniel Johnson"
-    },
-    {
-      "date": "2025-11-05",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated 2BRyan Blissfrom the 60-day injured list.",
-      "player": "Ryan Bliss"
-    },
-    {
-      "date": "2025-11-05",
-      "team": "Unknown Team",
-      "details": "RHPJonathan Loáisigaelected free agency.",
-      "player": "Jonathan Loáisiga"
     },
     {
       "date": "2025-11-05",
@@ -58,26 +52,20 @@
     {
       "date": "2025-11-05",
       "team": "Unknown Team",
-      "details": "LFDustin Harriselected free agency.",
-      "player": "Dustin Harris"
+      "details": "RHPJonathan Loáisigaelected free agency.",
+      "player": "Jonathan Loáisiga"
     },
     {
       "date": "2025-11-05",
       "team": "Unknown Team",
-      "details": "LFBilly McKinneyelected free agency.",
-      "player": "Billy McKinney"
+      "details": "LFAustin Hayselected free agency.",
+      "player": "Austin Hays"
     },
     {
       "date": "2025-11-05",
-      "team": "Athletics",
-      "details": "Athleticstraded CWillie MacIvertoTexas Rangers.",
-      "player": "Willie MacIver"
-    },
-    {
-      "date": "2025-11-05",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RHPCole WilcoxtoSeattle Marinersfor cash.",
-      "player": "Cole Wilcox"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated CFDaniel Johnsonfor assignment.",
+      "player": "Daniel Johnson"
     },
     {
       "date": "2025-11-05",
@@ -87,9 +75,21 @@
     },
     {
       "date": "2025-11-05",
+      "team": "Athletics",
+      "details": "Athleticstraded CWillie MacIvertoTexas Rangers.",
+      "player": "Willie MacIver"
+    },
+    {
+      "date": "2025-11-05",
       "team": "Texas Rangers",
       "details": "Texas Rangersclaimed RHPMichel Otañezoff waivers fromAthletics.",
       "player": "Michel Otañez"
+    },
+    {
+      "date": "2025-11-05",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHPCole WilcoxtoSeattle Marinersfor cash.",
+      "player": "Cole Wilcox"
     }
   ]
 }
