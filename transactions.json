@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-11-05T20:30:02.069495",
+  "last_updated": "2025-11-05T21:24:25.224096",
   "transactions": [
+    {
+      "date": "2025-11-05",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RHPGregory Santosfrom the 60-day injured list.",
+      "player": "Gregory Santos"
+    },
     {
       "date": "2025-11-05",
       "team": "Seattle Mariners",
@@ -10,8 +16,14 @@
     {
       "date": "2025-11-05",
       "team": "Unknown Team",
-      "details": "RHPJonathan Loáisigaelected free agency.",
-      "player": "Jonathan Loáisiga"
+      "details": "LFAustin Hayselected free agency.",
+      "player": "Austin Hays"
+    },
+    {
+      "date": "2025-11-05",
+      "team": "Unknown Team",
+      "details": "LHPBrent Suterelected free agency.",
+      "player": "Brent Suter"
     },
     {
       "date": "2025-11-05",
@@ -21,33 +33,39 @@
     },
     {
       "date": "2025-11-05",
-      "team": "Unknown Team",
-      "details": "LFDustin Harriselected free agency.",
-      "player": "Dustin Harris"
-    },
-    {
-      "date": "2025-11-05",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersactivated 2BRyan Blissfrom the 60-day injured list.",
       "player": "Ryan Bliss"
     },
     {
       "date": "2025-11-05",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated RHPGregory Santosfrom the 60-day injured list.",
-      "player": "Gregory Santos"
+      "team": "Unknown Team",
+      "details": "RHPJonathan Loáisigaelected free agency.",
+      "player": "Jonathan Loáisiga"
     },
     {
       "date": "2025-11-05",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RHPCole WilcoxtoSeattle Marinersfor cash.",
-      "player": "Cole Wilcox"
+      "team": "Unknown Team",
+      "details": "2BJorge Polancoelected free agency.",
+      "player": "Jorge Polanco"
     },
     {
       "date": "2025-11-05",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersclaimed RHPMichel Otañezoff waivers fromAthletics.",
-      "player": "Michel Otañez"
+      "team": "Unknown Team",
+      "details": "RHPScott Barlowelected free agency.",
+      "player": "Scott Barlow"
+    },
+    {
+      "date": "2025-11-05",
+      "team": "Unknown Team",
+      "details": "LFDustin Harriselected free agency.",
+      "player": "Dustin Harris"
+    },
+    {
+      "date": "2025-11-05",
+      "team": "Unknown Team",
+      "details": "LFBilly McKinneyelected free agency.",
+      "player": "Billy McKinney"
     },
     {
       "date": "2025-11-05",
@@ -57,9 +75,21 @@
     },
     {
       "date": "2025-11-05",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHPCole WilcoxtoSeattle Marinersfor cash.",
+      "player": "Cole Wilcox"
+    },
+    {
+      "date": "2025-11-05",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesclaimed RHPGeorge Sorianooff waivers fromMiami Marlins.",
       "player": "George Soriano"
+    },
+    {
+      "date": "2025-11-05",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersclaimed RHPMichel Otañezoff waivers fromAthletics.",
+      "player": "Michel Otañez"
     }
   ]
 }
