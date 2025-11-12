@@ -1,11 +1,17 @@
 {
-  "last_updated": "2025-11-12T22:25:03.098354",
+  "last_updated": "2025-11-12T23:24:53.555437",
   "transactions": [
     {
       "date": "2025-11-12",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersdesignated RHPAlex Langefor assignment.",
       "player": "Alex Lange"
+    },
+    {
+      "date": "2025-11-12",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysreleased 1BBob Seymour.",
+      "player": "Bob Seymour"
     },
     {
       "date": "2025-11-12",
@@ -18,6 +24,12 @@
       "team": "Detroit Tigers",
       "details": "Detroit Tigersclaimed RHPDugan Darnelloff waivers fromPittsburgh Pirates.",
       "player": "Dugan Darnell"
+    },
+    {
+      "date": "2025-11-12",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RHPTony Gonsolinoutright to Oklahoma City Comets.",
+      "player": "Tony Gonsolin"
     }
   ]
 }
