@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-12T23:24:53.555437",
+  "last_updated": "2025-11-13T02:05:28.746304",
   "transactions": [
     {
       "date": "2025-11-12",
@@ -21,15 +21,21 @@
     },
     {
       "date": "2025-11-12",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersclaimed RHPDugan Darnelloff waivers fromPittsburgh Pirates.",
-      "player": "Dugan Darnell"
+      "team": "New York Mets",
+      "details": "LHPNate Lavenderreturned toNew York MetsfromTampa Bay Rays.",
+      "player": "Nate Lavender"
     },
     {
       "date": "2025-11-12",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgerssent RHPTony Gonsolinoutright to Oklahoma City Comets.",
       "player": "Tony Gonsolin"
+    },
+    {
+      "date": "2025-11-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersclaimed RHPDugan Darnelloff waivers fromPittsburgh Pirates.",
+      "player": "Dugan Darnell"
     }
   ]
 }
