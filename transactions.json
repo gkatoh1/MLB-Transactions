@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-11-13T22:25:24.986343",
+  "last_updated": "2025-11-13T23:24:39.221343",
   "transactions": [
+    {
+      "date": "2025-11-13",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned free agent RHPEmiliano Macheto a minor league contract.",
+      "player": "Emiliano Mache"
+    },
     {
       "date": "2025-11-13",
       "team": "Texas Rangers",
       "details": "Texas Rangerssigned free agent RHPCarlos Larato a minor league contract.",
       "player": "Carlos Lara"
-    },
-    {
-      "date": "2025-11-13",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesclaimed LHPJosh Walkeroff waivers fromBaltimore Orioles.",
-      "player": "Josh Walker"
     },
     {
       "date": "2025-11-13",
@@ -30,6 +30,12 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesclaimed RHPCarson Ragsdaleoff waivers fromBaltimore Orioles.",
       "player": "Carson Ragsdale"
+    },
+    {
+      "date": "2025-11-13",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed LHPJosh Walkeroff waivers fromBaltimore Orioles.",
+      "player": "Josh Walker"
     }
   ]
 }
