@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-11-13T23:24:39.221343",
+  "last_updated": "2025-11-14T02:03:38.543962",
   "transactions": [
-    {
-      "date": "2025-11-13",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssigned free agent RHPEmiliano Macheto a minor league contract.",
-      "player": "Emiliano Mache"
-    },
     {
       "date": "2025-11-13",
       "team": "Texas Rangers",
@@ -15,9 +9,9 @@
     },
     {
       "date": "2025-11-13",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent RHPLuis Guerrerooutright to Worcester Red Sox.",
-      "player": "Luis Guerrero"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned free agent RHPEmiliano Macheto a minor league contract.",
+      "player": "Emiliano Mache"
     },
     {
       "date": "2025-11-13",
@@ -28,14 +22,20 @@
     {
       "date": "2025-11-13",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesclaimed RHPCarson Ragsdaleoff waivers fromBaltimore Orioles.",
-      "player": "Carson Ragsdale"
+      "details": "Atlanta Bravesclaimed LHPJosh Walkeroff waivers fromBaltimore Orioles.",
+      "player": "Josh Walker"
+    },
+    {
+      "date": "2025-11-13",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPLuis Guerrerooutright to Worcester Red Sox.",
+      "player": "Luis Guerrero"
     },
     {
       "date": "2025-11-13",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesclaimed LHPJosh Walkeroff waivers fromBaltimore Orioles.",
-      "player": "Josh Walker"
+      "details": "Atlanta Bravesclaimed RHPCarson Ragsdaleoff waivers fromBaltimore Orioles.",
+      "player": "Carson Ragsdale"
     }
   ]
 }
