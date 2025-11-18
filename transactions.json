@@ -1,4 +1,23 @@
 {
-  "last_updated": "2025-11-18T18:38:42.284141",
-  "transactions": []
+  "last_updated": "2025-11-18T19:21:09.998817",
+  "transactions": [
+    {
+      "date": "2025-11-18",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxdesignated 1BNathaniel Lowefor assignment.",
+      "player": "Nathaniel Lowe"
+    },
+    {
+      "date": "2025-11-18",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded 3B Tristan Gray toBoston Red Soxfor RHPLuis Guerrero.",
+      "player": "Luis Guerrero"
+    },
+    {
+      "date": "2025-11-18",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded 3BTristan GraytoBoston Red Soxfor RHP Luis Guerrero.",
+      "player": "Tristan Gray"
+    }
+  ]
 }
