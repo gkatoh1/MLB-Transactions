@@ -1,4 +1,17 @@
 {
-  "last_updated": "2025-11-19T05:27:33.521521",
-  "transactions": []
+  "last_updated": "2025-11-19T06:38:34.897580",
+  "transactions": [
+    {
+      "date": "2025-11-19",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstraded LFTaylor WardtoBaltimore Oriolesfor RHP Grayson Rodriguez.",
+      "player": "Taylor Ward"
+    },
+    {
+      "date": "2025-11-19",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstraded LF Taylor Ward toBaltimore Oriolesfor RHPGrayson Rodriguez.",
+      "player": "Grayson Rodriguez"
+    }
+  ]
 }
