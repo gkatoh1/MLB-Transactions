@@ -1,95 +1,35 @@
 {
-  "last_updated": "2025-11-19T02:02:37.577357",
+  "last_updated": "2025-11-19T03:47:21.972078",
   "transactions": [
     {
       "date": "2025-11-18",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsselected the contract of LFChristian Franklinfrom Rochester Red Wings.",
-      "player": "Christian Franklin"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated LFAlexander Canariofor assignment.",
+      "player": "Alexander Canario"
     },
     {
       "date": "2025-11-18",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssigned free agent LHPShota Imanaga.",
-      "player": "Shota Imanaga"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated RHPDauri Moretafor assignment.",
+      "player": "Dauri Moreta"
     },
     {
       "date": "2025-11-18",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesdesignated 1BMichael Togliafor assignment.",
-      "player": "Michael Toglia"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansdesignated RHPNic Enrightfor assignment.",
+      "player": "Nic Enright"
     },
     {
       "date": "2025-11-18",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersdesignated RHPTanner Raineyfor assignment.",
-      "player": "Tanner Rainey"
-    },
-    {
-      "date": "2025-11-18",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersdesignated LHPTayler Saucedofor assignment.",
-      "player": "Tayler Saucedo"
-    },
-    {
-      "date": "2025-11-18",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsdesignated RHPJorge Alcalafor assignment.",
-      "player": "Jorge Alcala"
-    },
-    {
-      "date": "2025-11-18",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesdesignated LHPRyan Rolisonfor assignment.",
-      "player": "Ryan Rolison"
-    },
-    {
-      "date": "2025-11-18",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersdesignated LHPSean Guentherfor assignment.",
-      "player": "Sean Guenther"
-    },
-    {
-      "date": "2025-11-18",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersreleased RHPAlex Lange.",
-      "player": "Alex Lange"
-    },
-    {
-      "date": "2025-11-18",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RFPedro Leónfor assignment.",
-      "player": "Pedro León"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersinvited non-roster RHPTrey Supakto spring training.",
+      "player": "Trey Supak"
     },
     {
       "date": "2025-11-18",
       "team": "Tampa Bay Rays",
-      "details": "RHPJacob Kistingroster status changed byTampa Bay Rays.",
-      "player": "Jacob Kisting"
-    },
-    {
-      "date": "2025-11-18",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersdesignated RHPJason Foleyfor assignment.",
-      "player": "Jason Foley"
-    },
-    {
-      "date": "2025-11-18",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysdesignated RFJake Fraleyfor assignment.",
-      "player": "Jake Fraley"
-    },
-    {
-      "date": "2025-11-18",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated SSLuis Vázquezfor assignment.",
-      "player": "Luis Vázquez"
-    },
-    {
-      "date": "2025-11-18",
-      "team": "Athletics",
-      "details": "Athleticsdesignated CFJJ Bledayfor assignment.",
-      "player": "JJ Bleday"
+      "details": "Tampa Bay Raysdesignated LFChristopher Morelfor assignment.",
+      "player": "Christopher Morel"
     },
     {
       "date": "2025-11-18",
@@ -117,57 +57,123 @@
     },
     {
       "date": "2025-11-18",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsdesignated RHPCarson Spiersfor assignment.",
-      "player": "Carson Spiers"
-    },
-    {
-      "date": "2025-11-18",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesreleased SSCam Devanney.",
-      "player": "Cam Devanney"
+      "details": "Pittsburgh Piratesdesignated RHPColin Holdermanfor assignment.",
+      "player": "Colin Holderman"
     },
     {
       "date": "2025-11-18",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesdesignated LFAlexander Canariofor assignment.",
-      "player": "Alexander Canario"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersreleased RHPAlex Lange.",
+      "player": "Alex Lange"
     },
     {
       "date": "2025-11-18",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesdesignated RHPDauri Moretafor assignment.",
-      "player": "Dauri Moreta"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsselected the contract of LFChristian Franklinfrom Rochester Red Wings.",
+      "player": "Christian Franklin"
     },
     {
       "date": "2025-11-18",
-      "team": "New York Yankees",
-      "details": "New York Yankeessigned free agent CFTrent Grisham.",
-      "player": "Trent Grisham"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent LHPShota Imanaga.",
+      "player": "Shota Imanaga"
     },
     {
       "date": "2025-11-18",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsdesignated LFJoey Wiemerfor assignment.",
-      "player": "Joey Wiemer"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesdesignated 1BMichael Togliafor assignment.",
+      "player": "Michael Toglia"
     },
     {
       "date": "2025-11-18",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansdesignated RHPNic Enrightfor assignment.",
-      "player": "Nic Enright"
-    },
-    {
-      "date": "2025-11-18",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersinvited non-roster RHPTrey Supakto spring training.",
-      "player": "Trey Supak"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated RHPTanner Raineyfor assignment.",
+      "player": "Tanner Rainey"
     },
     {
       "date": "2025-11-18",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysdesignated LFChristopher Morelfor assignment.",
-      "player": "Christopher Morel"
+      "details": "Tampa Bay Raysdesignated RFJake Fraleyfor assignment.",
+      "player": "Jake Fraley"
+    },
+    {
+      "date": "2025-11-18",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated SSLuis Vázquezfor assignment.",
+      "player": "Luis Vázquez"
+    },
+    {
+      "date": "2025-11-18",
+      "team": "Athletics",
+      "details": "Athleticsdesignated CFJJ Bledayfor assignment.",
+      "player": "JJ Bleday"
+    },
+    {
+      "date": "2025-11-18",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxdesignated 1BNathaniel Lowefor assignment.",
+      "player": "Nathaniel Lowe"
+    },
+    {
+      "date": "2025-11-18",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated LHPTayler Saucedofor assignment.",
+      "player": "Tayler Saucedo"
+    },
+    {
+      "date": "2025-11-18",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent 2BGleyber Torres.",
+      "player": "Gleyber Torres"
+    },
+    {
+      "date": "2025-11-18",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsdesignated RHPJorge Alcalafor assignment.",
+      "player": "Jorge Alcala"
+    },
+    {
+      "date": "2025-11-18",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesdesignated LHPRyan Rolisonfor assignment.",
+      "player": "Ryan Rolison"
+    },
+    {
+      "date": "2025-11-18",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated LHPSean Guentherfor assignment.",
+      "player": "Sean Guenther"
+    },
+    {
+      "date": "2025-11-18",
+      "team": "Seattle Mariners",
+      "details": "RHPAlex Hopperoster status changed bySeattle Mariners.",
+      "player": "Alex Hoppe"
+    },
+    {
+      "date": "2025-11-18",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated RHPTyler Mattisonfor assignment.",
+      "player": "Tyler Mattison"
+    },
+    {
+      "date": "2025-11-18",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RFPedro Leónfor assignment.",
+      "player": "Pedro León"
+    },
+    {
+      "date": "2025-11-18",
+      "team": "Tampa Bay Rays",
+      "details": "RHPJacob Kistingroster status changed byTampa Bay Rays.",
+      "player": "Jacob Kisting"
+    },
+    {
+      "date": "2025-11-18",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated RHPJason Foleyfor assignment.",
+      "player": "Jason Foley"
     },
     {
       "date": "2025-11-18",
@@ -225,81 +231,75 @@
     },
     {
       "date": "2025-11-18",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxdesignated 1BNathaniel Lowefor assignment.",
-      "player": "Nathaniel Lowe"
-    },
-    {
-      "date": "2025-11-18",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssigned free agent 2BGleyber Torres.",
-      "player": "Gleyber Torres"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsdesignated RHPCarson Spiersfor assignment.",
+      "player": "Carson Spiers"
     },
     {
       "date": "2025-11-18",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesdesignated RHPColin Holdermanfor assignment.",
-      "player": "Colin Holderman"
+      "details": "Pittsburgh Piratesreleased SSCam Devanney.",
+      "player": "Cam Devanney"
     },
     {
       "date": "2025-11-18",
-      "team": "Seattle Mariners",
-      "details": "RHPAlex Hopperoster status changed bySeattle Mariners.",
-      "player": "Alex Hoppe"
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned free agent CFTrent Grisham.",
+      "player": "Trent Grisham"
     },
     {
       "date": "2025-11-18",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersdesignated RHPTyler Mattisonfor assignment.",
-      "player": "Tyler Mattison"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsdesignated LFJoey Wiemerfor assignment.",
+      "player": "Joey Wiemer"
     },
     {
       "date": "2025-11-18",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded 3B Tristan Gray toBoston Red Soxfor RHPLuis Guerrero.",
-      "player": "Luis Guerrero"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsselected the contract of RFJoshua Baezfrom Springfield Cardinals.",
+      "player": "Joshua Baez"
     },
     {
       "date": "2025-11-18",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of RHPDuncan Davittfrom Charlotte Knights.",
-      "player": "Duncan Davitt"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansselected the contract of RHPAustin Petersonfrom Columbus Clippers.",
+      "player": "Austin Peterson"
+    },
+    {
+      "date": "2025-11-18",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansselected the contract of LFKahlil Watsonfrom Columbus Clippers.",
+      "player": "Kahlil Watson"
+    },
+    {
+      "date": "2025-11-18",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtraded LHPChris MurphytoChicago White Soxfor C Ronny Hernandez.",
+      "player": "Chris Murphy"
     },
     {
       "date": "2025-11-18",
       "team": "Athletics",
-      "details": "Athleticsselected the contract of CFJunior Perezfrom Las Vegas Aviators.",
-      "player": "Junior Perez"
+      "details": "Athleticsselected the contract of RHPBraden Nettfrom Midland RockHounds.",
+      "player": "Braden Nett"
     },
     {
       "date": "2025-11-18",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesselected the contract of RHPAntwone Kellyfrom Altoona Curve.",
-      "player": "Antwone Kelly"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersselected the contract of CThayron Liranzofrom Erie SeaWolves.",
+      "player": "Thayron Liranzo"
     },
     {
       "date": "2025-11-18",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsselected the contract of 2BJames Triantosfrom Iowa Cubs.",
-      "player": "James Triantos"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesselected the contract of OFSterlin Thompsonfrom Albuquerque Isotopes.",
+      "player": "Sterlin Thompson"
     },
     {
       "date": "2025-11-18",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersselected the contract of RHPDavid Davalillofrom Frisco RoughRiders.",
-      "player": "David Davalillo"
-    },
-    {
-      "date": "2025-11-18",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of CFNick Morabitofrom Binghamton Rumble Ponies.",
-      "player": "Nick Morabito"
-    },
-    {
-      "date": "2025-11-18",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersselected the contract of LHPRonan Koppfrom Oklahoma City Comets.",
-      "player": "Ronan Kopp"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersselected the contract of 2BHao-Yu  Leefrom Toledo Mud Hens.",
+      "player": "Hao-Yu  Lee"
     }
   ]
 }
