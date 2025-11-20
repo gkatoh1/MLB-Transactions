@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-20T02:01:08.191986",
+  "last_updated": "2025-11-20T03:46:00.718249",
   "transactions": [
     {
       "date": "2025-11-19",
@@ -15,6 +15,12 @@
     },
     {
       "date": "2025-11-19",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiestraded LHPRyan RolisontoAtlanta Bravesfor cash.",
+      "player": "Ryan Rolison"
+    },
+    {
+      "date": "2025-11-19",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelstraded LFTaylor WardtoBaltimore Oriolesfor RHP Grayson Rodriguez.",
       "player": "Taylor Ward"
@@ -24,12 +30,6 @@
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelstraded LF Taylor Ward toBaltimore Oriolesfor RHPGrayson Rodriguez.",
       "player": "Grayson Rodriguez"
-    },
-    {
-      "date": "2025-11-19",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiestraded LHPRyan RolisontoAtlanta Bravesfor cash.",
-      "player": "Ryan Rolison"
     }
   ]
 }
