@@ -1,17 +1,59 @@
 {
-  "last_updated": "2025-11-21T21:22:50.528907",
+  "last_updated": "2025-11-21T22:25:47.056586",
   "transactions": [
     {
       "date": "2025-11-21",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsdesignated CAndrew Kniznerfor assignment.",
-      "player": "Andrew Knizner"
+      "team": "Unknown Team",
+      "details": "RHPMichael Mercadoelected free agency.",
+      "player": "Michael Mercado"
+    },
+    {
+      "date": "2025-11-21",
+      "team": "Unknown Team",
+      "details": "RHPAlbert Suárezelected free agency.",
+      "player": "Albert Suárez"
+    },
+    {
+      "date": "2025-11-21",
+      "team": "Unknown Team",
+      "details": "RHPDaniel Robertelected free agency.",
+      "player": "Daniel Robert"
     },
     {
       "date": "2025-11-21",
       "team": "New York Yankees",
       "details": "New York Yankeessigned free agent LHPRyan Yarbrough.",
       "player": "Ryan Yarbrough"
+    },
+    {
+      "date": "2025-11-21",
+      "team": "Unknown Team",
+      "details": "RHPCarson Spierselected free agency.",
+      "player": "Carson Spiers"
+    },
+    {
+      "date": "2025-11-21",
+      "team": "Unknown Team",
+      "details": "RHPRoddery Muñozelected free agency.",
+      "player": "Roddery Muñoz"
+    },
+    {
+      "date": "2025-11-21",
+      "team": "Unknown Team",
+      "details": "CFJJ Bledayelected free agency.",
+      "player": "JJ Bleday"
+    },
+    {
+      "date": "2025-11-21",
+      "team": "Unknown Team",
+      "details": "CWill Banfieldelected free agency.",
+      "player": "Will Banfield"
+    },
+    {
+      "date": "2025-11-21",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsdesignated CAndrew Kniznerfor assignment.",
+      "player": "Andrew Knizner"
     },
     {
       "date": "2025-11-21",
@@ -24,6 +66,12 @@
       "team": "Minnesota Twins",
       "details": "Minnesota Twinstraded 2B Payton Eeles toBaltimore Oriolesfor CAlex Jackson.",
       "player": "Alex Jackson"
+    },
+    {
+      "date": "2025-11-21",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesclaimed RFPedro Leónoff waivers fromBaltimore Orioles.",
+      "player": "Pedro León"
     },
     {
       "date": "2025-11-21",
