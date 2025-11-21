@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-11-21T19:21:48.849745",
+  "last_updated": "2025-11-21T20:29:06.851373",
   "transactions": [
+    {
+      "date": "2025-11-21",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsdesignated CAndrew Kniznerfor assignment.",
+      "player": "Andrew Knizner"
+    },
     {
       "date": "2025-11-21",
       "team": "New York Yankees",
@@ -9,15 +15,21 @@
     },
     {
       "date": "2025-11-21",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinstraded 2BPayton EelestoBaltimore Oriolesfor C Alex Jackson.",
-      "player": "Payton Eeles"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded LFJoey WiemertoSan Francisco Giantsfor cash.",
+      "player": "Joey Wiemer"
     },
     {
       "date": "2025-11-21",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinstraded 2B Payton Eeles toBaltimore Oriolesfor CAlex Jackson.",
       "player": "Alex Jackson"
+    },
+    {
+      "date": "2025-11-21",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstraded 2BPayton EelestoBaltimore Oriolesfor C Alex Jackson.",
+      "player": "Payton Eeles"
     }
   ]
 }
