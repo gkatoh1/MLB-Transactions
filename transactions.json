@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-11-25T20:30:28.549580",
+  "last_updated": "2025-11-25T21:24:33.454545",
   "transactions": [
     {
       "date": "2025-11-25",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalssigned free agent CYohel Pozo.",
       "player": "Yohel Pozo"
+    },
+    {
+      "date": "2025-11-25",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent RHPPhil Maton.",
+      "player": "Phil Maton"
+    },
+    {
+      "date": "2025-11-25",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalstraded RHP Sonny Gray and cash toBoston Red Soxfor RHPRichard Fitts, LHP Brandon Clarke and Player To Be Named Later.",
+      "player": "Richard Fitts"
     },
     {
       "date": "2025-11-25",
@@ -18,12 +30,6 @@
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalstraded RHPSonny Grayand cash toBoston Red Soxfor RHP Richard Fitts, LHP Brandon Clarke and Player To Be Named Later.",
       "player": "Sonny Gray"
-    },
-    {
-      "date": "2025-11-25",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalstraded RHP Sonny Gray and cash toBoston Red Soxfor RHPRichard Fitts, LHP Brandon Clarke and Player To Be Named Later.",
-      "player": "Richard Fitts"
     }
   ]
 }
