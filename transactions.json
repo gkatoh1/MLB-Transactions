@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-11-25T22:26:40.350534",
+  "last_updated": "2025-11-25T23:24:31.020530",
   "transactions": [
+    {
+      "date": "2025-11-25",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssigned free agent RFJake Fraley.",
+      "player": "Jake Fraley"
+    },
     {
       "date": "2025-11-25",
       "team": "Chicago Cubs",
       "details": "Chicago Cubssigned free agent RHPPhil Maton.",
       "player": "Phil Maton"
-    },
-    {
-      "date": "2025-11-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysreleased LHPEaston Lucas.",
-      "player": "Easton Lucas"
     },
     {
       "date": "2025-11-25",
@@ -21,9 +21,9 @@
     },
     {
       "date": "2025-11-25",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalstraded RHPSonny Grayand cash toBoston Red Soxfor RHP Richard Fitts, LHP Brandon Clarke and Player To Be Named Later.",
-      "player": "Sonny Gray"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysreleased LHPEaston Lucas.",
+      "player": "Easton Lucas"
     },
     {
       "date": "2025-11-25",
@@ -36,6 +36,12 @@
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalstraded RHP Sonny Gray and cash toBoston Red Soxfor RHP Richard Fitts, LHPBrandon Clarkeand Player To Be Named Later.",
       "player": "Brandon Clarke"
+    },
+    {
+      "date": "2025-11-25",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalstraded RHPSonny Grayand cash toBoston Red Soxfor RHP Richard Fitts, LHP Brandon Clarke and Player To Be Named Later.",
+      "player": "Sonny Gray"
     }
   ]
 }
