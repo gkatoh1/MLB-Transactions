@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-12-01T23:25:50.543515",
+  "last_updated": "2025-12-02T02:06:32.855046",
   "transactions": [
-    {
-      "date": "2025-12-01",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent RHPRyan Helsley.",
-      "player": "Ryan Helsley"
-    },
     {
       "date": "2025-12-01",
       "team": "New York Yankees",
       "details": "New York Yankeessigned free agent OFYostin Penato a minor league contract.",
       "player": "Yostin Pena"
+    },
+    {
+      "date": "2025-12-01",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent RHPRyan Helsley.",
+      "player": "Ryan Helsley"
     }
   ]
 }
