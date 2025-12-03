@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-12-03T02:06:12.711783",
+  "last_updated": "2025-12-03T03:53:41.390239",
   "transactions": [
-    {
-      "date": "2025-12-02",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent LHPAndrew Magnoto a minor league contract.",
-      "player": "Andrew Magno"
-    },
-    {
-      "date": "2025-12-02",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned free agent LHPDanny Young.",
-      "player": "Danny Young"
-    },
     {
       "date": "2025-12-02",
       "team": "Los Angeles Angels",
@@ -24,6 +12,18 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssigned free agent RHPDylan Cease.",
       "player": "Dylan Cease"
+    },
+    {
+      "date": "2025-12-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent LHPDanny Young.",
+      "player": "Danny Young"
+    },
+    {
+      "date": "2025-12-02",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent LHPAndrew Magnoto a minor league contract.",
+      "player": "Andrew Magno"
     }
   ]
 }
