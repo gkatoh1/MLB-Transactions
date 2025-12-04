@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-12-03T23:24:06.933902",
+  "last_updated": "2025-12-04T02:07:11.571911",
   "transactions": [
-    {
-      "date": "2025-12-03",
-      "team": "New York Mets",
-      "details": "New York Metssigned free agent RHPDevin Williams.",
-      "player": "Devin Williams"
-    },
     {
       "date": "2025-12-03",
       "team": "San Francisco Giants",
@@ -18,6 +12,12 @@
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardianssigned free agent RHPConnor Brogdon.",
       "player": "Connor Brogdon"
+    },
+    {
+      "date": "2025-12-03",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent RHPDevin Williams.",
+      "player": "Devin Williams"
     }
   ]
 }
