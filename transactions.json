@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-12-05T03:54:11.445309",
+  "last_updated": "2025-12-05T04:35:36.601099",
   "transactions": [
+    {
+      "date": "2025-12-04",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssigned free agent 2BMiguel Rojas.",
+      "player": "Miguel Rojas"
+    },
     {
       "date": "2025-12-04",
       "team": "San Diego Padres",
@@ -12,12 +18,6 @@
       "team": "Houston Astros",
       "details": "RHPNico Zeglinroster status changed byHouston Astros.",
       "player": "Nico Zeglin"
-    },
-    {
-      "date": "2025-12-04",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssigned free agent 2BMiguel Rojas.",
-      "player": "Miguel Rojas"
     },
     {
       "date": "2025-12-04",
