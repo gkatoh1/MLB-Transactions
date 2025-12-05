@@ -1,11 +1,29 @@
 {
-  "last_updated": "2025-12-05T22:25:56.493538",
+  "last_updated": "2025-12-05T23:25:12.966364",
   "transactions": [
+    {
+      "date": "2025-12-05",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated LHPJosh Walkerfor assignment.",
+      "player": "Josh Walker"
+    },
     {
       "date": "2025-12-05",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratessigned free agent RHPMervin Maizto a minor league contract.",
       "player": "Mervin Maiz"
+    },
+    {
+      "date": "2025-12-05",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPLogan VanWeyoutright to Sugar Land Space Cowboys.",
+      "player": "Logan VanWey"
+    },
+    {
+      "date": "2025-12-05",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed RHPAnthony Molinaoff waivers fromColorado Rockies.",
+      "player": "Anthony Molina"
     },
     {
       "date": "2025-12-05",
@@ -15,9 +33,45 @@
     },
     {
       "date": "2025-12-05",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent LFTaylor Trammelloutright to Sugar Land Space Cowboys.",
+      "player": "Taylor Trammell"
+    },
+    {
+      "date": "2025-12-05",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed LFWill Robertsonoff waivers fromPittsburgh Pirates.",
+      "player": "Will Robertson"
+    },
+    {
+      "date": "2025-12-05",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPZach Brzykcyto Jacksonville Jumbo Shrimp.",
+      "player": "Zach Brzykcy"
+    },
+    {
+      "date": "2025-12-05",
+      "team": "New York Mets",
+      "details": "New York Metsclaimed RHPCooper Criswelloff waivers fromBoston Red Sox.",
+      "player": "Cooper Criswell"
+    },
+    {
+      "date": "2025-12-05",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed RHPOsvaldo Bidooff waivers fromAthletics.",
+      "player": "Osvaldo Bido"
+    },
+    {
+      "date": "2025-12-05",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesclaimed OFMarco Lucianooff waivers fromSan Francisco Giants.",
       "player": "Marco Luciano"
+    },
+    {
+      "date": "2025-12-05",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed CDrew Romooff waivers fromColorado Rockies.",
+      "player": "Drew Romo"
     }
   ]
 }
