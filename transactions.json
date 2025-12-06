@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-06T02:00:44.637900",
+  "last_updated": "2025-12-06T03:44:45.937190",
   "transactions": [
     {
       "date": "2025-12-05",
@@ -33,15 +33,33 @@
     },
     {
       "date": "2025-12-05",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesclaimed OFMarco Lucianooff waivers fromSan Francisco Giants.",
-      "player": "Marco Luciano"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsclaimed RHPZak Kentoff waivers fromCleveland Guardians.",
+      "player": "Zak Kent"
     },
     {
       "date": "2025-12-05",
       "team": "New York Mets",
       "details": "New York Metsclaimed RHPCooper Criswelloff waivers fromBoston Red Sox.",
       "player": "Cooper Criswell"
+    },
+    {
+      "date": "2025-12-05",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPZach Brzykcyto Jacksonville Jumbo Shrimp.",
+      "player": "Zach Brzykcy"
+    },
+    {
+      "date": "2025-12-05",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed RHPOsvaldo Bidooff waivers fromAthletics.",
+      "player": "Osvaldo Bido"
+    },
+    {
+      "date": "2025-12-05",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesclaimed OFMarco Lucianooff waivers fromSan Francisco Giants.",
+      "player": "Marco Luciano"
     },
     {
       "date": "2025-12-05",
@@ -54,24 +72,6 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesclaimed LFWill Robertsonoff waivers fromPittsburgh Pirates.",
       "player": "Will Robertson"
-    },
-    {
-      "date": "2025-12-05",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesclaimed RHPOsvaldo Bidooff waivers fromAthletics.",
-      "player": "Osvaldo Bido"
-    },
-    {
-      "date": "2025-12-05",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPZach Brzykcyto Jacksonville Jumbo Shrimp.",
-      "player": "Zach Brzykcy"
-    },
-    {
-      "date": "2025-12-05",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsclaimed RHPZak Kentoff waivers fromCleveland Guardians.",
-      "player": "Zak Kent"
     }
   ]
 }
