@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-12-08T19:23:10.053861",
+  "last_updated": "2025-12-08T20:31:19.529501",
   "transactions": [
-    {
-      "date": "2025-12-08",
-      "team": "Unknown Team",
-      "details": "LFAlan Rodenchanged number to 18.",
-      "player": "Alan Roden"
-    },
     {
       "date": "2025-12-08",
       "team": "Unknown Team",
@@ -16,8 +10,20 @@
     {
       "date": "2025-12-08",
       "team": "Unknown Team",
+      "details": "LFAlan Rodenchanged number to 18.",
+      "player": "Alan Roden"
+    },
+    {
+      "date": "2025-12-08",
+      "team": "Unknown Team",
       "details": "2BKody Clemenschanged number to 2.",
       "player": "Kody Clemens"
+    },
+    {
+      "date": "2025-12-08",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent RHPDaison Acosta.",
+      "player": "Daison Acosta"
     }
   ]
 }
