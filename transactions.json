@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-10T21:29:06.564644",
+  "last_updated": "2025-12-10T22:27:02.202775",
   "transactions": [
     {
       "date": "2025-12-10",
@@ -9,21 +9,63 @@
     },
     {
       "date": "2025-12-10",
+      "team": "Houston Astros",
+      "details": "Houston Astrospurchased contract of RHPTrey McLoughlinin the Rule 5 Draft, AAA Phase.",
+      "player": "Trey McLoughlin"
+    },
+    {
+      "date": "2025-12-10",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratestraded RHP Carter Baumler toTexas Rangersfor RHPJaiker Garciaand cash.",
+      "player": "Jaiker Garcia"
+    },
+    {
+      "date": "2025-12-10",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed LHPJosh Walkeroff waivers fromAtlanta Braves.",
+      "player": "Josh Walker"
+    },
+    {
+      "date": "2025-12-10",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackspurchased contract of 3BDanny Serrettiin the Rule 5 Draft, AAA Phase.",
-      "player": "Danny Serretti"
+      "details": "Arizona Diamondbackspurchased contract of RHPAntonio Menendezin the Rule 5 Draft, AAA Phase.",
+      "player": "Antonio Menendez"
     },
     {
       "date": "2025-12-10",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayspurchased contract of RHPAlvaro Mejiasin the Rule 5 Draft, AAA Phase.",
-      "player": "Alvaro Mejias"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinspurchased contract of RHPLivan Reinosoin the Rule 5 Draft, AAA Phase.",
+      "player": "Livan Reinoso"
     },
     {
       "date": "2025-12-10",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliespurchased contract of LFAustin Murrin the Rule 5 Draft, AAA Phase.",
-      "player": "Austin Murr"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalspurchased contract of LFJack Rogersin the Rule 5 Draft, AAA Phase.",
+      "player": "Jack Rogers"
+    },
+    {
+      "date": "2025-12-10",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstraded CDaniel SusactoSan Francisco Giantsfor C Miguel Caraballo and cash.",
+      "player": "Daniel Susac"
+    },
+    {
+      "date": "2025-12-10",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxpurchased contract of 3BMatt Lloydin the Rule 5 Draft, AAA Phase.",
+      "player": "Matt Lloyd"
+    },
+    {
+      "date": "2025-12-10",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratespurchased contract of RHPBryan Menain the Rule 5 Draft, AAA Phase.",
+      "player": "Bryan Mena"
+    },
+    {
+      "date": "2025-12-10",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstraded C Daniel Susac toSan Francisco Giantsfor CMiguel Caraballoand cash.",
+      "player": "Miguel Caraballo"
     },
     {
       "date": "2025-12-10",
@@ -51,33 +93,21 @@
     },
     {
       "date": "2025-12-10",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalspurchased contract of RHPSandy Gastonin the Rule 5 Draft, AAA Phase.",
-      "player": "Sandy Gaston"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHP Yoniel Curet toPhiladelphia Philliesfor RHPTommy McCollum.",
+      "player": "Tommy McCollum"
     },
     {
       "date": "2025-12-10",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianspurchased contract of RHPJack Careyin the Rule 5 Draft, AAA Phase.",
-      "player": "Jack Carey"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayspurchased contract of RHPSpencer Milesin the Rule 5 Draft.",
+      "player": "Spencer Miles"
     },
     {
       "date": "2025-12-10",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubspurchased contract of RHPAdam Stonein the Rule 5 Draft, AAA Phase.",
-      "player": "Adam Stone"
-    },
-    {
-      "date": "2025-12-10",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalspurchased contract of RHPBrady Hillin the Rule 5 Draft, AAA Phase.",
-      "player": "Brady Hill"
-    },
-    {
-      "date": "2025-12-10",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalspurchased contract of RHPCesar Rojasin the Rule 5 Draft, AAA Phase.",
-      "player": "Cesar Rojas"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerspurchased contract of RHPLuke Taggartin the Rule 5 Draft, AAA Phase.",
+      "player": "Luke Taggart"
     },
     {
       "date": "2025-12-10",
@@ -105,57 +135,15 @@
     },
     {
       "date": "2025-12-10",
-      "team": "New York Yankees",
-      "details": "New York Yankeespurchased contract of RHPCade Winquestin the Rule 5 Draft.",
-      "player": "Cade Winquest"
-    },
-    {
-      "date": "2025-12-10",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratespurchased contract of RHPJunior Floresin the Rule 5 Draft, AAA Phase.",
-      "player": "Junior Flores"
-    },
-    {
-      "date": "2025-12-10",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxpurchased contract of 3BMatt Lloydin the Rule 5 Draft, AAA Phase.",
-      "player": "Matt Lloyd"
-    },
-    {
-      "date": "2025-12-10",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratespurchased contract of RHPBryan Menain the Rule 5 Draft, AAA Phase.",
-      "player": "Bryan Mena"
-    },
-    {
-      "date": "2025-12-10",
-      "team": "New York Mets",
-      "details": "New York Metspurchased contract of LHPAaron Rozekin the Rule 5 Draft, AAA Phase.",
-      "player": "Aaron Rozek"
-    },
-    {
-      "date": "2025-12-10",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayspurchased contract of RHPSpencer Milesin the Rule 5 Draft.",
-      "player": "Spencer Miles"
-    },
-    {
-      "date": "2025-12-10",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerspurchased contract of RHPLuke Taggartin the Rule 5 Draft, AAA Phase.",
-      "player": "Luke Taggart"
-    },
-    {
-      "date": "2025-12-10",
-      "team": "Athletics",
-      "details": "Athleticspurchased contract of RHPDarlin Pinalesin the Rule 5 Draft, AAA Phase.",
-      "player": "Darlin Pinales"
-    },
-    {
-      "date": "2025-12-10",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxpurchased contract of RHPAlexander Albertoin the Rule 5 Draft.",
       "player": "Alexander Alberto"
+    },
+    {
+      "date": "2025-12-10",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinspurchased contract of RHPJake Smithin the Rule 5 Draft, AAA Phase.",
+      "player": "Jake Smith"
     },
     {
       "date": "2025-12-10",
@@ -168,24 +156,6 @@
       "team": "Detroit Tigers",
       "details": "Detroit Tigerspurchased contract of RHPYendy Gomezin the Rule 5 Draft, AAA Phase.",
       "player": "Yendy Gomez"
-    },
-    {
-      "date": "2025-12-10",
-      "team": "Athletics",
-      "details": "Athleticspurchased contract of RHPAbel Mercedesin the Rule 5 Draft, AAA Phase.",
-      "player": "Abel Mercedes"
-    },
-    {
-      "date": "2025-12-10",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravespurchased contract of RFCarter Howellin the Rule 5 Draft, AAA Phase.",
-      "player": "Carter Howell"
-    },
-    {
-      "date": "2025-12-10",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliespurchased contract of RHPEvan Gatesin the Rule 5 Draft, AAA Phase.",
-      "player": "Evan Gates"
     },
     {
       "date": "2025-12-10",
@@ -261,9 +231,9 @@
     },
     {
       "date": "2025-12-10",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratestraded RHP Carter Baumler toTexas Rangersfor RHPJaiker Garciaand cash.",
-      "player": "Jaiker Garcia"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHPYoniel CurettoPhiladelphia Philliesfor RHP Tommy McCollum.",
+      "player": "Yoniel Curet"
     },
     {
       "date": "2025-12-10",
@@ -273,33 +243,63 @@
     },
     {
       "date": "2025-12-10",
-      "team": "Houston Astros",
-      "details": "Houston Astrospurchased contract of RHPTrey McLoughlinin the Rule 5 Draft, AAA Phase.",
-      "player": "Trey McLoughlin"
+      "team": "New York Yankees",
+      "details": "New York Yankeespurchased contract of RHPCade Winquestin the Rule 5 Draft.",
+      "player": "Cade Winquest"
     },
     {
       "date": "2025-12-10",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesclaimed LHPJosh Walkeroff waivers fromAtlanta Braves.",
-      "player": "Josh Walker"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratespurchased contract of RHPJunior Floresin the Rule 5 Draft, AAA Phase.",
+      "player": "Junior Flores"
+    },
+    {
+      "date": "2025-12-10",
+      "team": "New York Mets",
+      "details": "New York Metspurchased contract of LHPAaron Rozekin the Rule 5 Draft, AAA Phase.",
+      "player": "Aaron Rozek"
+    },
+    {
+      "date": "2025-12-10",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalspurchased contract of RHPMatt Pushardin the Rule 5 Draft.",
+      "player": "Matt Pushard"
+    },
+    {
+      "date": "2025-12-10",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redspurchased contract of LHPNate Petersonin the Rule 5 Draft, AAA Phase.",
+      "player": "Nate Peterson"
+    },
+    {
+      "date": "2025-12-10",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliespurchased contract of LFAustin Murrin the Rule 5 Draft, AAA Phase.",
+      "player": "Austin Murr"
     },
     {
       "date": "2025-12-10",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackspurchased contract of RHPAntonio Menendezin the Rule 5 Draft, AAA Phase.",
-      "player": "Antonio Menendez"
+      "details": "Arizona Diamondbackspurchased contract of RHPSean Harneyin the Rule 5 Draft, AAA Phase.",
+      "player": "Sean Harney"
     },
     {
       "date": "2025-12-10",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinspurchased contract of RHPLivan Reinosoin the Rule 5 Draft, AAA Phase.",
-      "player": "Livan Reinoso"
+      "team": "Athletics",
+      "details": "Athleticspurchased contract of RHPJorge Marchecoin the Rule 5 Draft, AAA Phase.",
+      "player": "Jorge Marcheco"
     },
     {
       "date": "2025-12-10",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalspurchased contract of LFJack Rogersin the Rule 5 Draft, AAA Phase.",
-      "player": "Jack Rogers"
+      "team": "Houston Astros",
+      "details": "Houston Astrospurchased contract of RHPRoddery Muñozin the Rule 5 Draft.",
+      "player": "Roddery Muñoz"
+    },
+    {
+      "date": "2025-12-10",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliespurchased contract of RHPZach McCambleyin the Rule 5 Draft.",
+      "player": "Zach McCambley"
     }
   ]
 }
