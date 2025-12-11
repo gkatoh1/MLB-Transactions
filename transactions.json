@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-12-11T20:30:48.404084",
+  "last_updated": "2025-12-11T21:29:24.355339",
   "transactions": [
+    {
+      "date": "2025-12-11",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent RHPRobert Suarez.",
+      "player": "Robert Suarez"
+    },
+    {
+      "date": "2025-12-11",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent 1BPete Alonso.",
+      "player": "Pete Alonso"
+    },
     {
       "date": "2025-12-11",
       "team": "Atlanta Braves",
@@ -12,18 +24,6 @@
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerssigned free agent LFAkil Baddoo.",
       "player": "Akil Baddoo"
-    },
-    {
-      "date": "2025-12-11",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent 1BPete Alonso.",
-      "player": "Pete Alonso"
-    },
-    {
-      "date": "2025-12-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned free agent RHPRobert Suarez.",
-      "player": "Robert Suarez"
     }
   ]
 }
