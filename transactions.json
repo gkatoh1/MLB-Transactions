@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-12-12T22:26:57.731822",
+  "last_updated": "2025-12-12T23:25:57.898808",
   "transactions": [
+    {
+      "date": "2025-12-12",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent RHPAlbieris Polancoto a minor league contract.",
+      "player": "Albieris Polanco"
+    },
+    {
+      "date": "2025-12-12",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent RHPNathanael Jacintoto a minor league contract.",
+      "player": "Nathanael Jacinto"
+    },
+    {
+      "date": "2025-12-12",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssigned free agent RHPEdwin Díaz.",
+      "player": "Edwin Díaz"
+    },
+    {
+      "date": "2025-12-12",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent RHPIsaac De La Cruzto a minor league contract.",
+      "player": "Isaac De La Cruz"
+    },
     {
       "date": "2025-12-12",
       "team": "Arizona Diamondbacks",
@@ -15,15 +39,21 @@
     },
     {
       "date": "2025-12-12",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssigned free agent RHPEdwin Díaz.",
-      "player": "Edwin Díaz"
-    },
-    {
-      "date": "2025-12-12",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent 1BRyan Nodaoutright to Norfolk Tides.",
       "player": "Ryan Noda"
+    },
+    {
+      "date": "2025-12-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerstraded RHPChase LeetoToronto Blue Jaysfor LHP Johan Simon.",
+      "player": "Chase Lee"
+    },
+    {
+      "date": "2025-12-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerstraded RHP Chase Lee toToronto Blue Jaysfor LHPJohan Simon.",
+      "player": "Johan Simon"
     },
     {
       "date": "2025-12-12",
