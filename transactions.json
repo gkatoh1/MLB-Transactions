@@ -1,23 +1,17 @@
 {
-  "last_updated": "2025-12-12T23:25:57.898808",
+  "last_updated": "2025-12-13T02:03:47.051190",
   "transactions": [
+    {
+      "date": "2025-12-12",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned free agent RHPMichael Soroka.",
+      "player": "Michael Soroka"
+    },
     {
       "date": "2025-12-12",
       "team": "San Diego Padres",
       "details": "San Diego Padressigned free agent RHPAlbieris Polancoto a minor league contract.",
       "player": "Albieris Polanco"
-    },
-    {
-      "date": "2025-12-12",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressigned free agent RHPNathanael Jacintoto a minor league contract.",
-      "player": "Nathanael Jacinto"
-    },
-    {
-      "date": "2025-12-12",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssigned free agent RHPEdwin Díaz.",
-      "player": "Edwin Díaz"
     },
     {
       "date": "2025-12-12",
@@ -27,15 +21,27 @@
     },
     {
       "date": "2025-12-12",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssigned free agent RHPEdwin Díaz.",
+      "player": "Edwin Díaz"
+    },
+    {
+      "date": "2025-12-12",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksdesignated RHPBryce Jarvisfor assignment.",
       "player": "Bryce Jarvis"
     },
     {
       "date": "2025-12-12",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssigned free agent RHPMichael Soroka.",
-      "player": "Michael Soroka"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent RHPNathanael Jacintoto a minor league contract.",
+      "player": "Nathanael Jacinto"
+    },
+    {
+      "date": "2025-12-12",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent RHPJose Cuasto a minor league contract.",
+      "player": "Jose Cuas"
     },
     {
       "date": "2025-12-12",
@@ -45,9 +51,9 @@
     },
     {
       "date": "2025-12-12",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerstraded RHPChase LeetoToronto Blue Jaysfor LHP Johan Simon.",
-      "player": "Chase Lee"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersclaimed CFMichael Sianioff waivers fromAtlanta Braves.",
+      "player": "Michael Siani"
     },
     {
       "date": "2025-12-12",
@@ -60,6 +66,12 @@
       "team": "Chicago White Sox",
       "details": "Chicago White Soxclaimed LHPRyan Rolisonoff waivers fromAtlanta Braves.",
       "player": "Ryan Rolison"
+    },
+    {
+      "date": "2025-12-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerstraded RHPChase LeetoToronto Blue Jaysfor LHP Johan Simon.",
+      "player": "Chase Lee"
     }
   ]
 }
