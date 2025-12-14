@@ -1,4 +1,23 @@
 {
-  "last_updated": "2025-12-14T17:22:58.597886",
-  "transactions": []
+  "last_updated": "2025-12-14T18:36:32.355189",
+  "transactions": [
+    {
+      "date": "2025-12-14",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerstraded LF Isaac Collins and RHPNick MearstoKansas City Royalsfor LHP Angel Zerpa.",
+      "player": "Nick Mears"
+    },
+    {
+      "date": "2025-12-14",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerstraded LFIsaac Collinsand RHP Nick Mears toKansas City Royalsfor LHP Angel Zerpa.",
+      "player": "Isaac Collins"
+    },
+    {
+      "date": "2025-12-14",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerstraded LF Isaac Collins and RHP Nick Mears toKansas City Royalsfor LHPAngel Zerpa.",
+      "player": "Angel Zerpa"
+    }
+  ]
 }
