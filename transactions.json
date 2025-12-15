@@ -1,17 +1,29 @@
 {
-  "last_updated": "2025-12-15T22:27:43.809434",
+  "last_updated": "2025-12-15T23:26:54.700867",
   "transactions": [
-    {
-      "date": "2025-12-15",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssigned free agent LHPFenuel Jamesto a minor league contract.",
-      "player": "Fenuel James"
-    },
     {
       "date": "2025-12-15",
       "team": "Chicago Cubs",
       "details": "Chicago Cubssigned free agent RHPEsmerbin Guerreroto a minor league contract.",
       "player": "Esmerbin Guerrero"
+    },
+    {
+      "date": "2025-12-15",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned free agent LHPGregory Soto.",
+      "player": "Gregory Soto"
+    },
+    {
+      "date": "2025-12-15",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent LHPTyler Alexander.",
+      "player": "Tyler Alexander"
+    },
+    {
+      "date": "2025-12-15",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent LHPFenuel Jamesto a minor league contract.",
+      "player": "Fenuel James"
     }
   ]
 }
