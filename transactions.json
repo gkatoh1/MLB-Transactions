@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-12-15T20:32:32.718664",
+  "last_updated": "2025-12-15T21:27:10.151084",
   "transactions": [
-    {
-      "date": "2025-12-15",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssigned free agent RHPEsmerbin Guerreroto a minor league contract.",
-      "player": "Esmerbin Guerrero"
-    },
     {
       "date": "2025-12-15",
       "team": "Chicago Cubs",
       "details": "Chicago Cubssigned free agent LHPFenuel Jamesto a minor league contract.",
       "player": "Fenuel James"
+    },
+    {
+      "date": "2025-12-15",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent RHPEsmerbin Guerreroto a minor league contract.",
+      "player": "Esmerbin Guerrero"
     }
   ]
 }
