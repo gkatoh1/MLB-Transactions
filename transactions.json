@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-12-16T21:27:40.141965",
+  "last_updated": "2025-12-16T22:26:03.831742",
   "transactions": [
     {
       "date": "2025-12-16",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent RFAdolis García.",
-      "player": "Adolis García"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssigned free agent CAndrew Knizner.",
+      "player": "Andrew Knizner"
     },
     {
       "date": "2025-12-16",
@@ -27,9 +27,15 @@
     },
     {
       "date": "2025-12-16",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssigned free agent CAndrew Knizner.",
-      "player": "Andrew Knizner"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated LFTristan Petersfor assignment.",
+      "player": "Tristan Peters"
+    },
+    {
+      "date": "2025-12-16",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent RFAdolis García.",
+      "player": "Adolis García"
     }
   ]
 }
