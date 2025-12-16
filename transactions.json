@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-12-16T20:32:23.659043",
+  "last_updated": "2025-12-16T21:27:40.141965",
   "transactions": [
-    {
-      "date": "2025-12-16",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssigned free agent CAndrew Knizner.",
-      "player": "Andrew Knizner"
-    },
     {
       "date": "2025-12-16",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliessigned free agent RFAdolis García.",
       "player": "Adolis García"
+    },
+    {
+      "date": "2025-12-16",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssigned free agent LHPSteven Matz.",
+      "player": "Steven Matz"
     },
     {
       "date": "2025-12-16",
@@ -24,6 +24,12 @@
       "team": "San Francisco Giants",
       "details": "San Francisco Giantssigned free agent RHPJason Foley.",
       "player": "Jason Foley"
+    },
+    {
+      "date": "2025-12-16",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssigned free agent CAndrew Knizner.",
+      "player": "Andrew Knizner"
     }
   ]
 }
