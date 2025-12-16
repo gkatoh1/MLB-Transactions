@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-12-16T18:41:18.251909",
+  "last_updated": "2025-12-16T19:25:05.988732",
   "transactions": [
-    {
-      "date": "2025-12-16",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent RFAdolis García.",
-      "player": "Adolis García"
-    },
     {
       "date": "2025-12-16",
       "team": "Detroit Tigers",
       "details": "Detroit Tigerssigned free agent RHPDrew Anderson.",
       "player": "Drew Anderson"
+    },
+    {
+      "date": "2025-12-16",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent RFAdolis García.",
+      "player": "Adolis García"
     }
   ]
 }
