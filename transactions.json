@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-12-15T23:26:54.700867",
+  "last_updated": "2025-12-16T02:11:31.872567",
   "transactions": [
+    {
+      "date": "2025-12-15",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent LHPFenuel Jamesto a minor league contract.",
+      "player": "Fenuel James"
+    },
     {
       "date": "2025-12-15",
       "team": "Chicago Cubs",
@@ -15,15 +21,27 @@
     },
     {
       "date": "2025-12-15",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssigned free agent RHPTyler Rogers.",
+      "player": "Tyler Rogers"
+    },
+    {
+      "date": "2025-12-15",
       "team": "Texas Rangers",
       "details": "Texas Rangerssigned free agent LHPTyler Alexander.",
       "player": "Tyler Alexander"
     },
     {
       "date": "2025-12-15",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssigned free agent LHPFenuel Jamesto a minor league contract.",
-      "player": "Fenuel James"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtraded RHP Luis Perales toWashington Nationalsfor LHPJake Bennett.",
+      "player": "Jake Bennett"
+    },
+    {
+      "date": "2025-12-15",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtraded RHPLuis PeralestoWashington Nationalsfor LHP Jake Bennett.",
+      "player": "Luis Perales"
     }
   ]
 }
