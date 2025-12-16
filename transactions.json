@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-12-16T02:11:31.872567",
+  "last_updated": "2025-12-16T04:00:08.622598",
   "transactions": [
     {
       "date": "2025-12-15",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssigned free agent LHPFenuel Jamesto a minor league contract.",
-      "player": "Fenuel James"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent SSHa-Seong Kim.",
+      "player": "Ha-Seong Kim"
     },
     {
       "date": "2025-12-15",
@@ -33,15 +33,21 @@
     },
     {
       "date": "2025-12-15",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxtraded RHP Luis Perales toWashington Nationalsfor LHPJake Bennett.",
-      "player": "Jake Bennett"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent LHPFenuel Jamesto a minor league contract.",
+      "player": "Fenuel James"
     },
     {
       "date": "2025-12-15",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxtraded RHPLuis PeralestoWashington Nationalsfor LHP Jake Bennett.",
       "player": "Luis Perales"
+    },
+    {
+      "date": "2025-12-15",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtraded RHP Luis Perales toWashington Nationalsfor LHPJake Bennett.",
+      "player": "Jake Bennett"
     }
   ]
 }
