@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-17T03:57:09.177727",
+  "last_updated": "2025-12-17T04:39:14.843887",
   "transactions": [
     {
       "date": "2025-12-16",
@@ -15,9 +15,21 @@
     },
     {
       "date": "2025-12-16",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent RFAdolis García.",
+      "player": "Adolis García"
+    },
+    {
+      "date": "2025-12-16",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Rayssigned free agent LHPSteven Matz.",
       "player": "Steven Matz"
+    },
+    {
+      "date": "2025-12-16",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent RHPDrew Anderson.",
+      "player": "Drew Anderson"
     },
     {
       "date": "2025-12-16",
@@ -33,15 +45,9 @@
     },
     {
       "date": "2025-12-16",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent RFAdolis García.",
-      "player": "Adolis García"
-    },
-    {
-      "date": "2025-12-16",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssigned free agent RHPDrew Anderson.",
-      "player": "Drew Anderson"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated LFTristan Petersfor assignment.",
+      "player": "Tristan Peters"
     },
     {
       "date": "2025-12-16",
@@ -54,12 +60,6 @@
       "team": "New York Mets",
       "details": "New York Metssigned free agent 2BJorge Polanco.",
       "player": "Jorge Polanco"
-    },
-    {
-      "date": "2025-12-16",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysdesignated LFTristan Petersfor assignment.",
-      "player": "Tristan Peters"
     }
   ]
 }
