@@ -1,66 +1,6 @@
 {
-  "last_updated": "2025-12-18T03:58:08.963142",
+  "last_updated": "2025-12-18T04:41:21.972914",
   "transactions": [
-    {
-      "date": "2025-12-17",
-      "team": "Unknown Team",
-      "details": "1BEnmanuel Valdezchanged number to 47.",
-      "player": "Enmanuel Valdez"
-    },
-    {
-      "date": "2025-12-17",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssigned free agent RHPDustin May.",
-      "player": "Dustin May"
-    },
-    {
-      "date": "2025-12-17",
-      "team": "Unknown Team",
-      "details": "1BC.J. Kayfuschanged number to 2.",
-      "player": "C.J. Kayfus"
-    },
-    {
-      "date": "2025-12-17",
-      "team": "Unknown Team",
-      "details": "SSNacho Alvarez Jr.changed number to 24.",
-      "player": "Nacho Alvarez Jr."
-    },
-    {
-      "date": "2025-12-17",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent CWilly Vasquezto a minor league contract.",
-      "player": "Willy Vasquez"
-    },
-    {
-      "date": "2025-12-17",
-      "team": "Unknown Team",
-      "details": "RFGeorge Valerachanged number to 7.",
-      "player": "George Valera"
-    },
-    {
-      "date": "2025-12-17",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssigned free agent RHPKenley Jansen.",
-      "player": "Kenley Jansen"
-    },
-    {
-      "date": "2025-12-17",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated LHPBailey Horn.",
-      "player": "Bailey Horn"
-    },
-    {
-      "date": "2025-12-17",
-      "team": "Unknown Team",
-      "details": "RFChase DeLauterchanged number to 14.",
-      "player": "Chase DeLauter"
-    },
-    {
-      "date": "2025-12-17",
-      "team": "Athletics",
-      "details": "Athleticssigned free agent RHPMark Leiter Jr..",
-      "player": "Mark Leiter Jr."
-    },
     {
       "date": "2025-12-17",
       "team": "San Francisco Giants",
@@ -69,39 +9,9 @@
     },
     {
       "date": "2025-12-17",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent RHPAlbert Suárezto a minor league contract.",
-      "player": "Albert Suárez"
-    },
-    {
-      "date": "2025-12-17",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated LHPBrandon Waddellfor assignment.",
-      "player": "Brandon Waddell"
-    },
-    {
-      "date": "2025-12-17",
-      "team": "Unknown Team",
-      "details": "2BNick Gonzaleschanged number to 3.",
-      "player": "Nick Gonzales"
-    },
-    {
-      "date": "2025-12-17",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansdesignated RFJhonkensy Noelfor assignment.",
-      "player": "Jhonkensy Noel"
-    },
-    {
-      "date": "2025-12-17",
-      "team": "Unknown Team",
-      "details": "2BBrett Wiselychanged number to 0.",
-      "player": "Brett Wisely"
-    },
-    {
-      "date": "2025-12-17",
-      "team": "New York Yankees",
-      "details": "New York Yankeesreleased RHPAllan Winans.",
-      "player": "Allan Winans"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssigned free agent RHPDustin May.",
+      "player": "Dustin May"
     },
     {
       "date": "2025-12-17",
@@ -129,15 +39,99 @@
     },
     {
       "date": "2025-12-17",
+      "team": "Unknown Team",
+      "details": "SSNacho Alvarez Jr.changed number to 24.",
+      "player": "Nacho Alvarez Jr."
+    },
+    {
+      "date": "2025-12-17",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent CWilly Vasquezto a minor league contract.",
+      "player": "Willy Vasquez"
+    },
+    {
+      "date": "2025-12-17",
+      "team": "Unknown Team",
+      "details": "RFGeorge Valerachanged number to 7.",
+      "player": "George Valera"
+    },
+    {
+      "date": "2025-12-17",
+      "team": "Unknown Team",
+      "details": "1BEnmanuel Valdezchanged number to 47.",
+      "player": "Enmanuel Valdez"
+    },
+    {
+      "date": "2025-12-17",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent RHPAlbert Suárezto a minor league contract.",
+      "player": "Albert Suárez"
+    },
+    {
+      "date": "2025-12-17",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated LHPBrandon Waddellfor assignment.",
+      "player": "Brandon Waddell"
+    },
+    {
+      "date": "2025-12-17",
+      "team": "Unknown Team",
+      "details": "2BNick Gonzaleschanged number to 3.",
+      "player": "Nick Gonzales"
+    },
+    {
+      "date": "2025-12-17",
+      "team": "New York Yankees",
+      "details": "New York Yankeesreleased RHPAllan Winans.",
+      "player": "Allan Winans"
+    },
+    {
+      "date": "2025-12-17",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsdesignated LFMatt Koperniakfor assignment.",
       "player": "Matt Koperniak"
     },
     {
       "date": "2025-12-17",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaystraded LHPJustin BruihltoCleveland Guardiansfor cash.",
-      "player": "Justin Bruihl"
+      "team": "Unknown Team",
+      "details": "1BC.J. Kayfuschanged number to 2.",
+      "player": "C.J. Kayfus"
+    },
+    {
+      "date": "2025-12-17",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansdesignated RFJhonkensy Noelfor assignment.",
+      "player": "Jhonkensy Noel"
+    },
+    {
+      "date": "2025-12-17",
+      "team": "Unknown Team",
+      "details": "2BBrett Wiselychanged number to 0.",
+      "player": "Brett Wisely"
+    },
+    {
+      "date": "2025-12-17",
+      "team": "Unknown Team",
+      "details": "RFChase DeLauterchanged number to 14.",
+      "player": "Chase DeLauter"
+    },
+    {
+      "date": "2025-12-17",
+      "team": "Athletics",
+      "details": "Athleticssigned free agent RHPMark Leiter Jr..",
+      "player": "Mark Leiter Jr."
+    },
+    {
+      "date": "2025-12-17",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent RHPKenley Jansen.",
+      "player": "Kenley Jansen"
+    },
+    {
+      "date": "2025-12-17",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated LHPBailey Horn.",
+      "player": "Bailey Horn"
     },
     {
       "date": "2025-12-17",
@@ -150,6 +144,12 @@
       "team": "New York Mets",
       "details": "New York Metsclaimed CDrew Romooff waivers fromBaltimore Orioles.",
       "player": "Drew Romo"
+    },
+    {
+      "date": "2025-12-17",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystraded LHPJustin BruihltoCleveland Guardiansfor cash.",
+      "player": "Justin Bruihl"
     }
   ]
 }
