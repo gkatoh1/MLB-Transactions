@@ -1,6 +1,30 @@
 {
-  "last_updated": "2025-12-18T17:29:20.143739",
+  "last_updated": "2025-12-18T18:41:10.356936",
   "transactions": [
+    {
+      "date": "2025-12-18",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated 3BNoelvi Marte.",
+      "player": "Noelvi Marte"
+    },
+    {
+      "date": "2025-12-18",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPLuis Mey.",
+      "player": "Luis Mey"
+    },
+    {
+      "date": "2025-12-18",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent CJose Herrerato a minor league contract and invited him to spring training.",
+      "player": "Jose Herrera"
+    },
+    {
+      "date": "2025-12-18",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent RHPMT Morrisseyto a minor league contract.",
+      "player": "MT Morrissey"
+    },
     {
       "date": "2025-12-18",
       "team": "Texas Rangers",
@@ -9,9 +33,15 @@
     },
     {
       "date": "2025-12-18",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssigned free agent CJose Herrerato a minor league contract and invited him to spring training.",
-      "player": "Jose Herrera"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent LHPCaleb Ferguson.",
+      "player": "Caleb Ferguson"
+    },
+    {
+      "date": "2025-12-18",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated 3BSal Stewart.",
+      "player": "Sal Stewart"
     }
   ]
 }
