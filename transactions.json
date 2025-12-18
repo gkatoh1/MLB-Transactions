@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-12-18T19:22:04.374895",
+  "last_updated": "2025-12-18T20:28:14.281279",
   "transactions": [
     {
       "date": "2025-12-18",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated 3BNoelvi Marte.",
-      "player": "Noelvi Marte"
+      "details": "Cincinnati Redssigned free agent LHPCaleb Ferguson.",
+      "player": "Caleb Ferguson"
     },
     {
       "date": "2025-12-18",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated RHPLuis Mey.",
-      "player": "Luis Mey"
+      "details": "Cincinnati Redsactivated 3BSal Stewart.",
+      "player": "Sal Stewart"
     },
     {
       "date": "2025-12-18",
@@ -27,21 +27,27 @@
     },
     {
       "date": "2025-12-18",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated 3BNoelvi Marte.",
+      "player": "Noelvi Marte"
+    },
+    {
+      "date": "2025-12-18",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPLuis Mey.",
+      "player": "Luis Mey"
+    },
+    {
+      "date": "2025-12-18",
       "team": "Texas Rangers",
       "details": "Texas Rangerssigned free agent LHPAnthony Venezianoto a minor league contract and invited him to spring training.",
       "player": "Anthony Veneziano"
     },
     {
       "date": "2025-12-18",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssigned free agent LHPCaleb Ferguson.",
-      "player": "Caleb Ferguson"
-    },
-    {
-      "date": "2025-12-18",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated 3BSal Stewart.",
-      "player": "Sal Stewart"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded LFTristan PeterstoChicago White Soxfor cash.",
+      "player": "Tristan Peters"
     }
   ]
 }
