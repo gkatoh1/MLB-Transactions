@@ -1,11 +1,23 @@
 {
-  "last_updated": "2025-12-18T22:27:26.447587",
+  "last_updated": "2025-12-18T23:26:19.947052",
   "transactions": [
     {
       "date": "2025-12-18",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated 3BNoelvi Marte.",
-      "player": "Noelvi Marte"
+      "details": "Cincinnati Redssigned free agent LHPCaleb Ferguson.",
+      "player": "Caleb Ferguson"
+    },
+    {
+      "date": "2025-12-18",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPLuis Mey.",
+      "player": "Luis Mey"
+    },
+    {
+      "date": "2025-12-18",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssigned free agent LFChristopher Morel.",
+      "player": "Christopher Morel"
     },
     {
       "date": "2025-12-18",
@@ -28,26 +40,20 @@
     {
       "date": "2025-12-18",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated RHPLuis Mey.",
-      "player": "Luis Mey"
-    },
-    {
-      "date": "2025-12-18",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssigned free agent LFChristopher Morel.",
-      "player": "Christopher Morel"
-    },
-    {
-      "date": "2025-12-18",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssigned free agent LHPCaleb Ferguson.",
-      "player": "Caleb Ferguson"
-    },
-    {
-      "date": "2025-12-18",
-      "team": "Cincinnati Reds",
       "details": "Cincinnati Redsactivated 3BSal Stewart.",
       "player": "Sal Stewart"
+    },
+    {
+      "date": "2025-12-18",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated 3BNoelvi Marte.",
+      "player": "Noelvi Marte"
+    },
+    {
+      "date": "2025-12-18",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent RHPBrad Keller.",
+      "player": "Brad Keller"
     },
     {
       "date": "2025-12-18",
