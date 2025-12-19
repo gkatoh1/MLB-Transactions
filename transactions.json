@@ -1,17 +1,11 @@
 {
-  "last_updated": "2025-12-19T19:22:15.335146",
+  "last_updated": "2025-12-19T20:30:58.053453",
   "transactions": [
     {
       "date": "2025-12-19",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresactivated RHPMichael King.",
-      "player": "Michael King"
-    },
-    {
-      "date": "2025-12-19",
-      "team": "Arizona Diamondbacks",
-      "details": "CFAvery Owusu-Asieduroster status changed byArizona Diamondbacks.",
-      "player": "Avery Owusu-Asiedu"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated LHPJosh Walkerfor assignment.",
+      "player": "Josh Walker"
     },
     {
       "date": "2025-12-19",
@@ -27,14 +21,20 @@
     },
     {
       "date": "2025-12-19",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliestraded LHP Matt Strahm toKansas City Royalsfor RHPJonathan Bowlan.",
-      "player": "Jonathan Bowlan"
+      "team": "Tampa Bay Rays",
+      "details": "RHPMichael Forretroster status changed byTampa Bay Rays.",
+      "player": "Michael Forret"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated RHPMichael King.",
+      "player": "Michael King"
     },
     {
       "date": "2025-12-19",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackstraded LHP Kyle Backhus toPhiladelphia Philliesfor CFAvery Owusu-Asiedu.",
+      "details": "CFAvery Owusu-Asieduroster status changed byArizona Diamondbacks.",
       "player": "Avery Owusu-Asiedu"
     },
     {
@@ -45,9 +45,51 @@
     },
     {
       "date": "2025-12-19",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHPShane BaztoBaltimore Oriolesfor C Caden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
+      "player": "Shane Baz"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHP Shane Baz toBaltimore Oriolesfor CCaden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
+      "player": "Caden Bodine"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHP Shane Baz toBaltimore Oriolesfor C Caden Bodine, OF Slater de Brun, RHP Michael Forret, OFAustin Overnand Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
+      "player": "Austin Overn"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHP Shane Baz toBaltimore Oriolesfor C Caden Bodine, OFSlater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
+      "player": "Slater de Brun"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHP Shane Baz toBaltimore Oriolesfor C Caden Bodine, OF Slater de Brun, RHPMichael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
+      "player": "Michael Forret"
+    },
+    {
+      "date": "2025-12-19",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbackstraded LHPKyle BackhustoPhiladelphia Philliesfor CF Avery Owusu-Asiedu.",
       "player": "Kyle Backhus"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackstraded LHP Kyle Backhus toPhiladelphia Philliesfor CFAvery Owusu-Asiedu.",
+      "player": "Avery Owusu-Asiedu"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliestraded LHP Matt Strahm toKansas City Royalsfor RHPJonathan Bowlan.",
+      "player": "Jonathan Bowlan"
     }
   ]
 }
