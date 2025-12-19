@@ -1,18 +1,6 @@
 {
-  "last_updated": "2025-12-19T18:39:17.061111",
+  "last_updated": "2025-12-19T19:22:15.335146",
   "transactions": [
-    {
-      "date": "2025-12-19",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned free agent RHPAdrian Houser.",
-      "player": "Adrian Houser"
-    },
-    {
-      "date": "2025-12-19",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressigned free agent RHPMichael King.",
-      "player": "Michael King"
-    },
     {
       "date": "2025-12-19",
       "team": "San Diego Padres",
@@ -27,6 +15,24 @@
     },
     {
       "date": "2025-12-19",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssigned free agent RHPAdrian Houser.",
+      "player": "Adrian Houser"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent RHPMichael King.",
+      "player": "Michael King"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliestraded LHP Matt Strahm toKansas City Royalsfor RHPJonathan Bowlan.",
+      "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2025-12-19",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbackstraded LHP Kyle Backhus toPhiladelphia Philliesfor CFAvery Owusu-Asiedu.",
       "player": "Avery Owusu-Asiedu"
@@ -36,12 +42,6 @@
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliestraded LHPMatt StrahmtoKansas City Royalsfor RHP Jonathan Bowlan.",
       "player": "Matt Strahm"
-    },
-    {
-      "date": "2025-12-19",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliestraded LHP Matt Strahm toKansas City Royalsfor RHPJonathan Bowlan.",
-      "player": "Jonathan Bowlan"
     },
     {
       "date": "2025-12-19",
