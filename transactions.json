@@ -1,6 +1,12 @@
 {
-  "last_updated": "2025-12-19T21:25:38.894109",
+  "last_updated": "2025-12-19T22:27:20.353817",
   "transactions": [
+    {
+      "date": "2025-12-19",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssigned free agent RHPAdrian Houser.",
+      "player": "Adrian Houser"
+    },
     {
       "date": "2025-12-19",
       "team": "San Diego Padres",
@@ -15,21 +21,21 @@
     },
     {
       "date": "2025-12-19",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssigned free agent RHPMerrill Kelly.",
-      "player": "Merrill Kelly"
-    },
-    {
-      "date": "2025-12-19",
       "team": "Tampa Bay Rays",
       "details": "RHPMichael Forretroster status changed byTampa Bay Rays.",
       "player": "Michael Forret"
     },
     {
       "date": "2025-12-19",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned free agent RHPAdrian Houser.",
-      "player": "Adrian Houser"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned free agent RHPMerrill Kelly.",
+      "player": "Merrill Kelly"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated LHPJosh Walkerfor assignment.",
+      "player": "Josh Walker"
     },
     {
       "date": "2025-12-19",
@@ -39,9 +45,15 @@
     },
     {
       "date": "2025-12-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated LHPJosh Walkerfor assignment.",
-      "player": "Josh Walker"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHPShane BaztoBaltimore Oriolesfor C Caden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
+      "player": "Shane Baz"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHP Shane Baz toBaltimore Oriolesfor CCaden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
+      "player": "Caden Bodine"
     },
     {
       "date": "2025-12-19",
@@ -69,18 +81,6 @@
     },
     {
       "date": "2025-12-19",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackstraded LHP Kyle Backhus toPhiladelphia Philliesfor CFAvery Owusu-Asiedu.",
-      "player": "Avery Owusu-Asiedu"
-    },
-    {
-      "date": "2025-12-19",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RHPShane BaztoBaltimore Oriolesfor C Caden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
-      "player": "Shane Baz"
-    },
-    {
-      "date": "2025-12-19",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliestraded LHP Matt Strahm toKansas City Royalsfor RHPJonathan Bowlan.",
       "player": "Jonathan Bowlan"
@@ -93,9 +93,9 @@
     },
     {
       "date": "2025-12-19",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RHP Shane Baz toBaltimore Oriolesfor CCaden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
-      "player": "Caden Bodine"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackstraded LHP Kyle Backhus toPhiladelphia Philliesfor CFAvery Owusu-Asiedu.",
+      "player": "Avery Owusu-Asiedu"
     }
   ]
 }
