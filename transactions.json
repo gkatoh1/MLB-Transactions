@@ -1,17 +1,53 @@
 {
-  "last_updated": "2025-12-19T23:25:38.630031",
+  "last_updated": "2025-12-20T02:03:24.454224",
   "transactions": [
     {
       "date": "2025-12-19",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresactivated RHPMichael King.",
-      "player": "Michael King"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent RHPChris Martin.",
+      "player": "Chris Martin"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent LFMatt Koperniakoutright to Memphis Redbirds.",
+      "player": "Matt Koperniak"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsdesignated OFWade Mecklerfor assignment.",
+      "player": "Wade Meckler"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated LHPJosh Walkerfor assignment.",
+      "player": "Josh Walker"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated OFMarco Lucianofor assignment.",
+      "player": "Marco Luciano"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated SSTsung-Che Chengfor assignment.",
+      "player": "Tsung-Che Cheng"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "New York Mets",
+      "details": "New York Metssent LHPBrandon Waddelloutright to Syracuse Mets.",
+      "player": "Brandon Waddell"
     },
     {
       "date": "2025-12-19",
       "team": "Arizona Diamondbacks",
-      "details": "CFAvery Owusu-Asieduroster status changed byArizona Diamondbacks.",
-      "player": "Avery Owusu-Asiedu"
+      "details": "Arizona Diamondbackssigned free agent RHPMerrill Kelly.",
+      "player": "Merrill Kelly"
     },
     {
       "date": "2025-12-19",
@@ -21,9 +57,15 @@
     },
     {
       "date": "2025-12-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated LHPJosh Walkerfor assignment.",
-      "player": "Josh Walker"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPBryce Jarvisoutright to Reno Aces.",
+      "player": "Bryce Jarvis"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent 1BJosh Bell.",
+      "player": "Josh Bell"
     },
     {
       "date": "2025-12-19",
@@ -39,27 +81,15 @@
     },
     {
       "date": "2025-12-19",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsdesignated OFWade Mecklerfor assignment.",
-      "player": "Wade Meckler"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated RHPMichael King.",
+      "player": "Michael King"
     },
     {
       "date": "2025-12-19",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssigned free agent RHPMerrill Kelly.",
-      "player": "Merrill Kelly"
-    },
-    {
-      "date": "2025-12-19",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliestraded LHP Matt Strahm toKansas City Royalsfor RHPJonathan Bowlan.",
-      "player": "Jonathan Bowlan"
-    },
-    {
-      "date": "2025-12-19",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratestraded RHPMike BurrowstoHouston Astros.",
-      "player": "Mike Burrows"
+      "details": "CFAvery Owusu-Asieduroster status changed byArizona Diamondbacks.",
+      "player": "Avery Owusu-Asiedu"
     },
     {
       "date": "2025-12-19",
@@ -81,33 +111,27 @@
     },
     {
       "date": "2025-12-19",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackstraded LHPKyle BackhustoPhiladelphia Philliesfor CF Avery Owusu-Asiedu.",
-      "player": "Kyle Backhus"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliestraded LHP Matt Strahm toKansas City Royalsfor RHPJonathan Bowlan.",
+      "player": "Jonathan Bowlan"
     },
     {
       "date": "2025-12-19",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackstraded LHP Kyle Backhus toPhiladelphia Philliesfor CFAvery Owusu-Asiedu.",
-      "player": "Avery Owusu-Asiedu"
-    },
-    {
-      "date": "2025-12-19",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RHPShane BaztoBaltimore Oriolesfor C Caden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
-      "player": "Shane Baz"
-    },
-    {
-      "date": "2025-12-19",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RHP Shane Baz toBaltimore Oriolesfor CCaden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
-      "player": "Caden Bodine"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliestraded LHPMatt StrahmtoKansas City Royalsfor RHP Jonathan Bowlan.",
+      "player": "Matt Strahm"
     },
     {
       "date": "2025-12-19",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raystraded RHP Shane Baz toBaltimore Oriolesfor C Caden Bodine, OF Slater de Brun, RHP Michael Forret, OFAustin Overnand Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
       "player": "Austin Overn"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratestraded RHPMike BurrowstoHouston Astros.",
+      "player": "Mike Burrows"
     },
     {
       "date": "2025-12-19",
@@ -123,6 +147,24 @@
     },
     {
       "date": "2025-12-19",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackstraded LHPKyle BackhustoPhiladelphia Philliesfor CF Avery Owusu-Asiedu.",
+      "player": "Kyle Backhus"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackstraded LHP Kyle Backhus toPhiladelphia Philliesfor CFAvery Owusu-Asiedu.",
+      "player": "Avery Owusu-Asiedu"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysclaimed RHPOsvaldo Bidooff waivers fromAtlanta Braves.",
+      "player": "Osvaldo Bido"
+    },
+    {
+      "date": "2025-12-19",
       "team": "Houston Astros",
       "details": "Houston Astrostraded LFJacob Meltonand RHP Anderson Brito toTampa Bay Rays.",
       "player": "Jacob Melton"
@@ -135,9 +177,15 @@
     },
     {
       "date": "2025-12-19",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliestraded LHPMatt StrahmtoKansas City Royalsfor RHP Jonathan Bowlan.",
-      "player": "Matt Strahm"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHPShane BaztoBaltimore Oriolesfor C Caden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
+      "player": "Shane Baz"
+    },
+    {
+      "date": "2025-12-19",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHP Shane Baz toBaltimore Oriolesfor CCaden Bodine, OF Slater de Brun, RHP Michael Forret, OF Austin Overn and Draft Pick. 2026 Competitive Balance Round A pick (No. 33).",
+      "player": "Caden Bodine"
     }
   ]
 }
