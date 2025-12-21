@@ -1,17 +1,17 @@
 {
-  "last_updated": "2025-12-21T22:26:21.100144",
+  "last_updated": "2025-12-21T23:25:13.698194",
   "transactions": [
-    {
-      "date": "2025-12-21",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned free agent IFMunetaka Murakami.",
-      "player": "Munetaka Murakami"
-    },
     {
       "date": "2025-12-21",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardianssigned free agent RHPShawn Armstrong.",
       "player": "Shawn Armstrong"
+    },
+    {
+      "date": "2025-12-21",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent IFMunetaka Murakami.",
+      "player": "Munetaka Murakami"
     }
   ]
 }
