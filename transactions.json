@@ -1,23 +1,11 @@
 {
-  "last_updated": "2025-12-23T20:30:22.028671",
+  "last_updated": "2025-12-23T21:25:48.212783",
   "transactions": [
-    {
-      "date": "2025-12-23",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesinvited non-roster RFDominic Fletcherto spring training.",
-      "player": "Dominic Fletcher"
-    },
     {
       "date": "2025-12-23",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxsigned free agent LHPSean Newcomb.",
       "player": "Sean Newcomb"
-    },
-    {
-      "date": "2025-12-23",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesinvited non-roster 2BRonny Simonto spring training.",
-      "player": "Ronny Simon"
     },
     {
       "date": "2025-12-23",
@@ -51,21 +39,9 @@
     },
     {
       "date": "2025-12-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated LHPRyan Rolisonfor assignment.",
-      "player": "Ryan Rolison"
-    },
-    {
-      "date": "2025-12-23",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesinvited non-roster LHPJoe La Sorsato spring training.",
       "player": "Joe La Sorsa"
-    },
-    {
-      "date": "2025-12-23",
-      "team": "Unknown Team",
-      "details": "RFDaylen Lilechanged number to 4.",
-      "player": "Daylen Lile"
     },
     {
       "date": "2025-12-23",
@@ -75,9 +51,33 @@
     },
     {
       "date": "2025-12-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated LHPRyan Rolisonfor assignment.",
+      "player": "Ryan Rolison"
+    },
+    {
+      "date": "2025-12-23",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesinvited non-roster 2BRonny Simonto spring training.",
+      "player": "Ronny Simon"
+    },
+    {
+      "date": "2025-12-23",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesinvited non-roster RHPBeau Burrowsto spring training.",
       "player": "Beau Burrows"
+    },
+    {
+      "date": "2025-12-23",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesinvited non-roster RFDominic Fletcherto spring training.",
+      "player": "Dominic Fletcher"
+    },
+    {
+      "date": "2025-12-23",
+      "team": "Unknown Team",
+      "details": "RFDaylen Lilechanged number to 4.",
+      "player": "Daylen Lile"
     }
   ]
 }
