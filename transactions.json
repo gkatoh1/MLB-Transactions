@@ -1,17 +1,47 @@
 {
-  "last_updated": "2025-12-23T19:22:58.246303",
+  "last_updated": "2025-12-23T20:30:22.028671",
   "transactions": [
     {
       "date": "2025-12-23",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesinvited non-roster LHPOddanier Mosquedato spring training.",
-      "player": "Oddanier Mosqueda"
+      "details": "Pittsburgh Piratesinvited non-roster RFDominic Fletcherto spring training.",
+      "player": "Dominic Fletcher"
+    },
+    {
+      "date": "2025-12-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent LHPSean Newcomb.",
+      "player": "Sean Newcomb"
+    },
+    {
+      "date": "2025-12-23",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesinvited non-roster 2BRonny Simonto spring training.",
+      "player": "Ronny Simon"
     },
     {
       "date": "2025-12-23",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesinvited non-roster 3BDavis Wendzelto spring training.",
       "player": "Davis Wendzel"
+    },
+    {
+      "date": "2025-12-23",
+      "team": "Unknown Team",
+      "details": "3BBrady Housechanged number to 12.",
+      "player": "Brady House"
+    },
+    {
+      "date": "2025-12-23",
+      "team": "Unknown Team",
+      "details": "RHPBrad Lordchanged number to 41.",
+      "player": "Brad Lord"
+    },
+    {
+      "date": "2025-12-23",
+      "team": "Unknown Team",
+      "details": "RHPJackson Rutledgechanged number to 44.",
+      "player": "Jackson Rutledge"
     },
     {
       "date": "2025-12-23",
@@ -33,27 +63,21 @@
     },
     {
       "date": "2025-12-23",
+      "team": "Unknown Team",
+      "details": "RFDaylen Lilechanged number to 4.",
+      "player": "Daylen Lile"
+    },
+    {
+      "date": "2025-12-23",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesinvited non-roster LHPOddanier Mosquedato spring training.",
+      "player": "Oddanier Mosqueda"
+    },
+    {
+      "date": "2025-12-23",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesinvited non-roster RHPBeau Burrowsto spring training.",
       "player": "Beau Burrows"
-    },
-    {
-      "date": "2025-12-23",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesinvited non-roster RFDominic Fletcherto spring training.",
-      "player": "Dominic Fletcher"
-    },
-    {
-      "date": "2025-12-23",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesinvited non-roster 2BRonny Simonto spring training.",
-      "player": "Ronny Simon"
-    },
-    {
-      "date": "2025-12-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned free agent LHPSean Newcomb.",
-      "player": "Sean Newcomb"
     }
   ]
 }
