@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-12-23T22:26:58.484491",
+  "last_updated": "2025-12-23T23:25:49.103676",
   "transactions": [
-    {
-      "date": "2025-12-23",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesinvited non-roster LHPOddanier Mosquedato spring training.",
-      "player": "Oddanier Mosqueda"
-    },
     {
       "date": "2025-12-23",
       "team": "Pittsburgh Pirates",
@@ -24,12 +18,6 @@
       "team": "Unknown Team",
       "details": "3BBrady Housechanged number to 12.",
       "player": "Brady House"
-    },
-    {
-      "date": "2025-12-23",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesinvited non-roster LHPJoe La Sorsato spring training.",
-      "player": "Joe La Sorsa"
     },
     {
       "date": "2025-12-23",
@@ -64,6 +52,12 @@
     {
       "date": "2025-12-23",
       "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesinvited non-roster LHPJoe La Sorsato spring training.",
+      "player": "Joe La Sorsa"
+    },
+    {
+      "date": "2025-12-23",
+      "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesinvited non-roster 2BRonny Simonto spring training.",
       "player": "Ronny Simon"
     },
@@ -78,6 +72,12 @@
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesinvited non-roster RHPBeau Burrowsto spring training.",
       "player": "Beau Burrows"
+    },
+    {
+      "date": "2025-12-23",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesinvited non-roster LHPOddanier Mosquedato spring training.",
+      "player": "Oddanier Mosqueda"
     }
   ]
 }
