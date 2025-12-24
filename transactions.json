@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-23T23:25:49.103676",
+  "last_updated": "2025-12-24T02:09:32.741229",
   "transactions": [
     {
       "date": "2025-12-23",
@@ -15,15 +15,39 @@
     },
     {
       "date": "2025-12-23",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesinvited non-roster 2BRonny Simonto spring training.",
+      "player": "Ronny Simon"
+    },
+    {
+      "date": "2025-12-23",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesinvited non-roster LHPOddanier Mosquedato spring training.",
+      "player": "Oddanier Mosqueda"
+    },
+    {
+      "date": "2025-12-23",
       "team": "Unknown Team",
-      "details": "3BBrady Housechanged number to 12.",
-      "player": "Brady House"
+      "details": "RFDaylen Lilechanged number to 4.",
+      "player": "Daylen Lile"
+    },
+    {
+      "date": "2025-12-23",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent RHPJacob Webb.",
+      "player": "Jacob Webb"
     },
     {
       "date": "2025-12-23",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesinvited non-roster 3BDavis Wendzelto spring training.",
       "player": "Davis Wendzel"
+    },
+    {
+      "date": "2025-12-23",
+      "team": "Unknown Team",
+      "details": "3BBrady Housechanged number to 12.",
+      "player": "Brady House"
     },
     {
       "date": "2025-12-23",
@@ -58,26 +82,8 @@
     {
       "date": "2025-12-23",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesinvited non-roster 2BRonny Simonto spring training.",
-      "player": "Ronny Simon"
-    },
-    {
-      "date": "2025-12-23",
-      "team": "Unknown Team",
-      "details": "RFDaylen Lilechanged number to 4.",
-      "player": "Daylen Lile"
-    },
-    {
-      "date": "2025-12-23",
-      "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesinvited non-roster RHPBeau Burrowsto spring training.",
       "player": "Beau Burrows"
-    },
-    {
-      "date": "2025-12-23",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesinvited non-roster LHPOddanier Mosquedato spring training.",
-      "player": "Oddanier Mosqueda"
     }
   ]
 }
