@@ -1,6 +1,18 @@
 {
-  "last_updated": "2025-12-27T21:24:05.762243",
+  "last_updated": "2025-12-27T22:26:03.975224",
   "transactions": [
+    {
+      "date": "2025-12-27",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsdesignated RHPKeegan Thompsonfor assignment.",
+      "player": "Keegan Thompson"
+    },
+    {
+      "date": "2025-12-27",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsdesignated RHPLyon Richardsonfor assignment.",
+      "player": "Lyon Richardson"
+    },
     {
       "date": "2025-12-27",
       "team": "Cincinnati Reds",
@@ -10,8 +22,14 @@
     {
       "date": "2025-12-27",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsdesignated RHPKeegan Thompsonfor assignment.",
-      "player": "Keegan Thompson"
+      "details": "Cincinnati Redstraded CFEthan O'DonnelltoMiami Marlinsfor CF Dane Myers.",
+      "player": "Ethan O'Donnell"
+    },
+    {
+      "date": "2025-12-27",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redstraded CF Ethan O'Donnell toMiami Marlinsfor CFDane Myers.",
+      "player": "Dane Myers"
     }
   ]
 }
