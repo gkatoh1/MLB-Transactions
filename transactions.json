@@ -1,12 +1,6 @@
 {
-  "last_updated": "2025-12-30T20:31:25.862413",
+  "last_updated": "2025-12-30T21:26:32.694968",
   "transactions": [
-    {
-      "date": "2025-12-30",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated 3BNate Eaton.",
-      "player": "Nate Eaton"
-    },
     {
       "date": "2025-12-30",
       "team": "Boston Red Sox",
@@ -15,15 +9,21 @@
     },
     {
       "date": "2025-12-30",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsdesignated 1BEric Wagamanfor assignment.",
-      "player": "Eric Wagaman"
-    },
-    {
-      "date": "2025-12-30",
       "team": "New York Yankees",
       "details": "New York Yankeessigned free agent 3BAmed Rosario.",
       "player": "Amed Rosario"
+    },
+    {
+      "date": "2025-12-30",
+      "team": "Boston Red Sox",
+      "details": "3BNate Eatonchanged number to 18.Boston Red Sox3B Nate Eaton changed number from 40 to 18.",
+      "player": "Nate Eaton"
+    },
+    {
+      "date": "2025-12-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsdesignated 1BEric Wagamanfor assignment.",
+      "player": "Eric Wagaman"
     },
     {
       "date": "2025-12-30",
