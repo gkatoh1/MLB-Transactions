@@ -1,11 +1,11 @@
 {
-  "last_updated": "2025-12-31T02:18:26.931353",
+  "last_updated": "2025-12-31T04:02:59.447677",
   "transactions": [
     {
       "date": "2025-12-30",
-      "team": "Unknown Team",
-      "details": "3BNate Eatonchanged number to 18.",
-      "player": "Nate Eaton"
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned free agent 3BAmed Rosario.",
+      "player": "Amed Rosario"
     },
     {
       "date": "2025-12-30",
@@ -15,27 +15,27 @@
     },
     {
       "date": "2025-12-30",
+      "team": "Unknown Team",
+      "details": "3BNate Eatonchanged number to 18.",
+      "player": "Nate Eaton"
+    },
+    {
+      "date": "2025-12-30",
       "team": "Miami Marlins",
       "details": "Miami Marlinsdesignated 1BEric Wagamanfor assignment.",
       "player": "Eric Wagaman"
     },
     {
       "date": "2025-12-30",
-      "team": "New York Yankees",
-      "details": "New York Yankeessigned free agent 3BAmed Rosario.",
-      "player": "Amed Rosario"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerstraded LF Esteury Ruiz toMiami Marlinsfor RHPAdriano Marrero.",
+      "player": "Adriano Marrero"
     },
     {
       "date": "2025-12-30",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgerstraded LFEsteury RuiztoMiami Marlinsfor RHP Adriano Marrero.",
       "player": "Esteury Ruiz"
-    },
-    {
-      "date": "2025-12-30",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerstraded LF Esteury Ruiz toMiami Marlinsfor RHPAdriano Marrero.",
-      "player": "Adriano Marrero"
     }
   ]
 }
