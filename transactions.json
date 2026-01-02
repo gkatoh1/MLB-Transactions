@@ -1,4 +1,23 @@
 {
-  "last_updated": "2026-01-02T19:18:46.521517",
-  "transactions": []
+  "last_updated": "2026-01-02T20:30:28.520779",
+  "transactions": [
+    {
+      "date": "2026-01-02",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsdesignated 3BRyan Fitzgeraldfor assignment.",
+      "player": "Ryan Fitzgerald"
+    },
+    {
+      "date": "2026-01-02",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded 1B Eric Wagaman toMinnesota Twinsfor LHPKade Bragg.",
+      "player": "Kade Bragg"
+    },
+    {
+      "date": "2026-01-02",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded 1BEric WagamantoMinnesota Twinsfor LHP Kade Bragg.",
+      "player": "Eric Wagaman"
+    }
+  ]
 }
