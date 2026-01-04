@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-01-04T19:21:30.524207",
+  "last_updated": "2026-01-04T20:31:06.876536",
   "transactions": [
     {
       "date": "2026-01-04",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalssigned free agent SSMichael Braswell IIIto a minor league contract.",
       "player": "Michael Braswell III"
+    },
+    {
+      "date": "2026-01-04",
+      "team": "Unknown Team",
+      "details": "RHPLogan Evanschanged number to 23.",
+      "player": "Logan Evans"
+    },
+    {
+      "date": "2026-01-04",
+      "team": "Unknown Team",
+      "details": "RHPCarlos Rodriguezchanged number to 27.",
+      "player": "Carlos Rodriguez"
     }
   ]
 }
