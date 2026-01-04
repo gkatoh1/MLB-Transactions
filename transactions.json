@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-01-04T22:27:21.645955",
+  "last_updated": "2026-01-04T23:26:04.575733",
   "transactions": [
     {
       "date": "2026-01-04",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent SSMichael Braswell IIIto a minor league contract.",
-      "player": "Michael Braswell III"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssigned free agent 3BKazuma Okamoto.",
+      "player": "Kazuma Okamoto"
     },
     {
       "date": "2026-01-04",
@@ -15,9 +15,21 @@
     },
     {
       "date": "2026-01-04",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent SSMichael Braswell IIIto a minor league contract.",
+      "player": "Michael Braswell III"
+    },
+    {
+      "date": "2026-01-04",
       "team": "Unknown Team",
       "details": "RHPCarlos Rodriguezchanged number to 27.",
       "player": "Carlos Rodriguez"
+    },
+    {
+      "date": "2026-01-04",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated RHPPaxton Schultzfor assignment.",
+      "player": "Paxton Schultz"
     }
   ]
 }
