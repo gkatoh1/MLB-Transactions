@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-01-05T19:25:59.364553",
+  "last_updated": "2026-01-05T20:33:25.300552",
   "transactions": [
     {
       "date": "2026-01-05",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantssigned free agent RHPTyler Mahle.",
       "player": "Tyler Mahle"
+    },
+    {
+      "date": "2026-01-05",
+      "team": "Unknown Team",
+      "details": "CFRobert Hassell IIIchanged number to 6.",
+      "player": "Robert Hassell III"
+    },
+    {
+      "date": "2026-01-05",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPGeorge Sorianofor assignment.",
+      "player": "George Soriano"
+    },
+    {
+      "date": "2026-01-05",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsclaimed LFJoey Wiemeroff waivers fromSan Francisco Giants.",
+      "player": "Joey Wiemer"
+    },
+    {
+      "date": "2026-01-05",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed RFJhonkensy Noeloff waivers fromCleveland Guardians.",
+      "player": "Jhonkensy Noel"
     }
   ]
 }
