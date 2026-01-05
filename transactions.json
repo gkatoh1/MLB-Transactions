@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-01-05T21:28:40.136761",
+  "last_updated": "2026-01-05T22:28:39.479456",
   "transactions": [
+    {
+      "date": "2026-01-05",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssigned free agent RHPTyler Mahle.",
+      "player": "Tyler Mahle"
+    },
     {
       "date": "2026-01-05",
       "team": "Unknown Team",
@@ -15,21 +21,15 @@
     },
     {
       "date": "2026-01-05",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned free agent RHPTyler Mahle.",
-      "player": "Tyler Mahle"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsclaimed LFJoey Wiemeroff waivers fromSan Francisco Giants.",
+      "player": "Joey Wiemer"
     },
     {
       "date": "2026-01-05",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesclaimed RFJhonkensy Noeloff waivers fromCleveland Guardians.",
       "player": "Jhonkensy Noel"
-    },
-    {
-      "date": "2026-01-05",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsclaimed LFJoey Wiemeroff waivers fromSan Francisco Giants.",
-      "player": "Joey Wiemer"
     }
   ]
 }
