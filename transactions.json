@@ -1,4 +1,35 @@
 {
-  "last_updated": "2026-01-06T19:23:32.028930",
-  "transactions": []
+  "last_updated": "2026-01-06T20:32:12.095734",
+  "transactions": [
+    {
+      "date": "2026-01-06",
+      "team": "Unknown Team",
+      "details": "CDrew Millaschanged number to 14.",
+      "player": "Drew Millas"
+    },
+    {
+      "date": "2026-01-06",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsdesignated RHPZak Kentfor assignment.",
+      "player": "Zak Kent"
+    },
+    {
+      "date": "2026-01-06",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent LHPEric Torresto a minor league contract.",
+      "player": "Eric Torres"
+    },
+    {
+      "date": "2026-01-06",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianstraded LHPJustin BruihltoSt. Louis Cardinalsfor cash.",
+      "player": "Justin Bruihl"
+    },
+    {
+      "date": "2026-01-06",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerstraded RFJustyn-Henry MalloytoTampa Bay Raysfor cash.",
+      "player": "Justyn-Henry Malloy"
+    }
+  ]
 }
