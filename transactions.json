@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-06T21:28:26.024951",
+  "last_updated": "2026-01-06T22:29:12.499691",
   "transactions": [
     {
       "date": "2026-01-06",
@@ -33,15 +33,15 @@
     },
     {
       "date": "2026-01-06",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianstraded LHPJustin BruihltoSt. Louis Cardinalsfor cash.",
-      "player": "Justin Bruihl"
-    },
-    {
-      "date": "2026-01-06",
       "team": "Detroit Tigers",
       "details": "Detroit Tigerstraded RFJustyn-Henry MalloytoTampa Bay Raysfor cash.",
       "player": "Justyn-Henry Malloy"
+    },
+    {
+      "date": "2026-01-06",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianstraded LHPJustin BruihltoSt. Louis Cardinalsfor cash.",
+      "player": "Justin Bruihl"
     }
   ]
 }
