@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-07T22:28:52.367231",
+  "last_updated": "2026-01-07T23:27:43.646453",
   "transactions": [
     {
       "date": "2026-01-07",
@@ -9,9 +9,33 @@
     },
     {
       "date": "2026-01-07",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysclaimed SSTsung-Che Chengoff waivers fromPittsburgh Pirates.",
+      "player": "Tsung-Che Cheng"
+    },
+    {
+      "date": "2026-01-07",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded RHP Edward Cabrera toChicago Cubsfor RF Owen Caissie, SSCristian Hernandezand IF Edgardo De Leon.",
+      "player": "Cristian Hernandez"
+    },
+    {
+      "date": "2026-01-07",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent LHPJosh Walkeroutright to Norfolk Tides.",
       "player": "Josh Walker"
+    },
+    {
+      "date": "2026-01-07",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPLyon Richardsonoutright to Louisville Bats.",
+      "player": "Lyon Richardson"
+    },
+    {
+      "date": "2026-01-07",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed OFMarco Lucianooff waivers fromPittsburgh Pirates.",
+      "player": "Marco Luciano"
     },
     {
       "date": "2026-01-07",
@@ -27,9 +51,27 @@
     },
     {
       "date": "2026-01-07",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesclaimed OFMarco Lucianooff waivers fromPittsburgh Pirates.",
-      "player": "Marco Luciano"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesclaimed RHPKeegan Thompsonoff waivers fromCincinnati Reds.",
+      "player": "Keegan Thompson"
+    },
+    {
+      "date": "2026-01-07",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded RHP Edward Cabrera toChicago Cubsfor RF Owen Caissie, SS Cristian Hernandez and IFEdgardo De Leon.",
+      "player": "Edgardo De Leon"
+    },
+    {
+      "date": "2026-01-07",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded RHPEdward CabreratoChicago Cubsfor RF Owen Caissie, SS Cristian Hernandez and IF Edgardo De Leon.",
+      "player": "Edward Cabrera"
+    },
+    {
+      "date": "2026-01-07",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded RHP Edward Cabrera toChicago Cubsfor RFOwen Caissie, SS Cristian Hernandez and IF Edgardo De Leon.",
+      "player": "Owen Caissie"
     }
   ]
 }
