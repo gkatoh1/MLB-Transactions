@@ -1,11 +1,29 @@
 {
-  "last_updated": "2026-01-08T19:25:44.524132",
+  "last_updated": "2026-01-08T20:33:15.522230",
   "transactions": [
+    {
+      "date": "2026-01-08",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned free agent 1BRyan O'Hearn.",
+      "player": "Ryan O'Hearn"
+    },
     {
       "date": "2026-01-08",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiessigned free agent 2BJack O'Dowdto a minor league contract.",
       "player": "Jack O'Dowd"
+    },
+    {
+      "date": "2026-01-08",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated 3BBen Cowlesfor assignment.",
+      "player": "Ben Cowles"
+    },
+    {
+      "date": "2026-01-08",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxclaimed CDrew Romooff waivers fromNew York Mets.",
+      "player": "Drew Romo"
     }
   ]
 }
