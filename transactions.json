@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08T02:20:14.683766",
+  "last_updated": "2026-01-08T04:04:54.856622",
   "transactions": [
     {
       "date": "2026-01-07",
@@ -12,6 +12,48 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent LHPJosh Walkeroutright to Norfolk Tides.",
       "player": "Josh Walker"
+    },
+    {
+      "date": "2026-01-07",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded RHP Edward Cabrera toChicago Cubsfor RF Owen Caissie, SSCristian Hernandezand IF Edgardo De Leon.",
+      "player": "Cristian Hernandez"
+    },
+    {
+      "date": "2026-01-07",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed OFMarco Lucianooff waivers fromPittsburgh Pirates.",
+      "player": "Marco Luciano"
+    },
+    {
+      "date": "2026-01-07",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsclaimed OFWade Meckleroff waivers fromSan Francisco Giants.",
+      "player": "Wade Meckler"
+    },
+    {
+      "date": "2026-01-07",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysclaimed SSTsung-Che Chengoff waivers fromPittsburgh Pirates.",
+      "player": "Tsung-Che Cheng"
+    },
+    {
+      "date": "2026-01-07",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesclaimed RHPKeegan Thompsonoff waivers fromCincinnati Reds.",
+      "player": "Keegan Thompson"
+    },
+    {
+      "date": "2026-01-07",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsclaimed LHPRyan Rolisonoff waivers fromChicago White Sox.",
+      "player": "Ryan Rolison"
+    },
+    {
+      "date": "2026-01-07",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPLyon Richardsonoutright to Louisville Bats.",
+      "player": "Lyon Richardson"
     },
     {
       "date": "2026-01-07",
@@ -30,48 +72,6 @@
       "team": "Miami Marlins",
       "details": "Miami Marlinstraded RHP Edward Cabrera toChicago Cubsfor RFOwen Caissie, SS Cristian Hernandez and IF Edgardo De Leon.",
       "player": "Owen Caissie"
-    },
-    {
-      "date": "2026-01-07",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinstraded RHP Edward Cabrera toChicago Cubsfor RF Owen Caissie, SSCristian Hernandezand IF Edgardo De Leon.",
-      "player": "Cristian Hernandez"
-    },
-    {
-      "date": "2026-01-07",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysclaimed SSTsung-Che Chengoff waivers fromPittsburgh Pirates.",
-      "player": "Tsung-Che Cheng"
-    },
-    {
-      "date": "2026-01-07",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsclaimed LHPRyan Rolisonoff waivers fromChicago White Sox.",
-      "player": "Ryan Rolison"
-    },
-    {
-      "date": "2026-01-07",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsclaimed OFWade Meckleroff waivers fromSan Francisco Giants.",
-      "player": "Wade Meckler"
-    },
-    {
-      "date": "2026-01-07",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesclaimed OFMarco Lucianooff waivers fromPittsburgh Pirates.",
-      "player": "Marco Luciano"
-    },
-    {
-      "date": "2026-01-07",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesclaimed RHPKeegan Thompsonoff waivers fromCincinnati Reds.",
-      "player": "Keegan Thompson"
-    },
-    {
-      "date": "2026-01-07",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RHPLyon Richardsonoutright to Louisville Bats.",
-      "player": "Lyon Richardson"
     }
   ]
 }
