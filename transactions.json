@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-01-08T22:28:58.542858",
+  "last_updated": "2026-01-08T23:24:25.843111",
   "transactions": [
-    {
-      "date": "2026-01-08",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessigned free agent 2BJack O'Dowdto a minor league contract.",
-      "player": "Jack O'Dowd"
-    },
     {
       "date": "2026-01-08",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratessigned free agent 1BRyan O'Hearn.",
       "player": "Ryan O'Hearn"
+    },
+    {
+      "date": "2026-01-08",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated 3BVidal Brujánfor assignment.",
+      "player": "Vidal Bruján"
     },
     {
       "date": "2026-01-08",
@@ -21,9 +21,27 @@
     },
     {
       "date": "2026-01-08",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessigned free agent 2BJack O'Dowdto a minor league contract.",
+      "player": "Jack O'Dowd"
+    },
+    {
+      "date": "2026-01-08",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed LHPKen Waldichukoff waivers fromAthletics.",
+      "player": "Ken Waldichuk"
+    },
+    {
+      "date": "2026-01-08",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxclaimed CDrew Romooff waivers fromNew York Mets.",
       "player": "Drew Romo"
+    },
+    {
+      "date": "2026-01-08",
+      "team": "New York Mets",
+      "details": "New York Metssent CFJi Hwan Baeoutright to Syracuse Mets.",
+      "player": "Ji Hwan Bae"
     }
   ]
 }
