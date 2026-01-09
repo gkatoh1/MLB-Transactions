@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-01-09T22:28:31.634833",
+  "last_updated": "2026-01-09T23:27:20.568460",
   "transactions": [
-    {
-      "date": "2026-01-09",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsreleased RHPSauryn Lao.",
-      "player": "Sauryn Lao"
-    },
     {
       "date": "2026-01-09",
       "team": "Atlanta Braves",
@@ -16,8 +10,8 @@
     {
       "date": "2026-01-09",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsclaimed RHPPaxton Schultzoff waivers fromToronto Blue Jays.",
-      "player": "Paxton Schultz"
+      "details": "Washington Nationalsreleased RHPSauryn Lao.",
+      "player": "Sauryn Lao"
     },
     {
       "date": "2026-01-09",
@@ -27,9 +21,9 @@
     },
     {
       "date": "2026-01-09",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesclaimed RHPGeorge Sorianooff waivers fromBaltimore Orioles.",
-      "player": "George Soriano"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersclaimed RHPZak Kentoff waivers fromSt. Louis Cardinals.",
+      "player": "Zak Kent"
     },
     {
       "date": "2026-01-09",
@@ -45,9 +39,15 @@
     },
     {
       "date": "2026-01-09",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersclaimed RHPZak Kentoff waivers fromSt. Louis Cardinals.",
-      "player": "Zak Kent"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsclaimed RHPPaxton Schultzoff waivers fromToronto Blue Jays.",
+      "player": "Paxton Schultz"
+    },
+    {
+      "date": "2026-01-09",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed RHPGeorge Sorianooff waivers fromBaltimore Orioles.",
+      "player": "George Soriano"
     }
   ]
 }
