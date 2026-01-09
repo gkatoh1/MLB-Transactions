@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-01-08T23:24:25.843111",
+  "last_updated": "2026-01-09T02:21:09.009966",
   "transactions": [
-    {
-      "date": "2026-01-08",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessigned free agent 1BRyan O'Hearn.",
-      "player": "Ryan O'Hearn"
-    },
     {
       "date": "2026-01-08",
       "team": "Atlanta Braves",
@@ -15,9 +9,9 @@
     },
     {
       "date": "2026-01-08",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated 3BBen Cowlesfor assignment.",
-      "player": "Ben Cowles"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned free agent 1BRyan O'Hearn.",
+      "player": "Ryan O'Hearn"
     },
     {
       "date": "2026-01-08",
@@ -27,15 +21,21 @@
     },
     {
       "date": "2026-01-08",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesclaimed LHPKen Waldichukoff waivers fromAthletics.",
-      "player": "Ken Waldichuk"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated 3BBen Cowlesfor assignment.",
+      "player": "Ben Cowles"
     },
     {
       "date": "2026-01-08",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxclaimed CDrew Romooff waivers fromNew York Mets.",
       "player": "Drew Romo"
+    },
+    {
+      "date": "2026-01-08",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed LHPKen Waldichukoff waivers fromAthletics.",
+      "player": "Ken Waldichuk"
     },
     {
       "date": "2026-01-08",
