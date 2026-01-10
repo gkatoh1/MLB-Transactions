@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-01-10T02:10:50.488048",
+  "last_updated": "2026-01-10T03:59:26.004870",
   "transactions": [
-    {
-      "date": "2026-01-09",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated 2BBrett Wiselyfor assignment.",
-      "player": "Brett Wisely"
-    },
     {
       "date": "2026-01-09",
       "team": "Washington Nationals",
@@ -15,9 +9,27 @@
     },
     {
       "date": "2026-01-09",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated 2BBrett Wiselyfor assignment.",
+      "player": "Brett Wisely"
+    },
+    {
+      "date": "2026-01-09",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent LFWill Robertsonoutright to Norfolk Tides.",
       "player": "Will Robertson"
+    },
+    {
+      "date": "2026-01-09",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsclaimed RHPPaxton Schultzoff waivers fromToronto Blue Jays.",
+      "player": "Paxton Schultz"
+    },
+    {
+      "date": "2026-01-09",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed RHPGeorge Sorianooff waivers fromBaltimore Orioles.",
+      "player": "George Soriano"
     },
     {
       "date": "2026-01-09",
@@ -36,18 +48,6 @@
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersclaimed 3BRyan Fitzgeraldoff waivers fromMinnesota Twins.",
       "player": "Ryan Fitzgerald"
-    },
-    {
-      "date": "2026-01-09",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsclaimed RHPPaxton Schultzoff waivers fromToronto Blue Jays.",
-      "player": "Paxton Schultz"
-    },
-    {
-      "date": "2026-01-09",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesclaimed RHPGeorge Sorianooff waivers fromBaltimore Orioles.",
-      "player": "George Soriano"
     }
   ]
 }
