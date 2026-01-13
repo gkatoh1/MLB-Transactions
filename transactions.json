@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-01-13T21:28:54.822496",
+  "last_updated": "2026-01-13T22:30:15.088612",
   "transactions": [
-    {
-      "date": "2026-01-13",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersdesignated 3BRyan Fitzgeraldfor assignment.",
-      "player": "Ryan Fitzgerald"
-    },
-    {
-      "date": "2026-01-13",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssigned free agent 3BAndy Ibáñez.",
-      "player": "Andy Ibáñez"
-    },
     {
       "date": "2026-01-13",
       "team": "Unknown Team",
@@ -24,6 +12,30 @@
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardianssigned free agent 3BCarter Kieboomto a minor league contract and invited him to spring training.",
       "player": "Carter Kieboom"
+    },
+    {
+      "date": "2026-01-13",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssigned free agent 3BAndy Ibáñez.",
+      "player": "Andy Ibáñez"
+    },
+    {
+      "date": "2026-01-13",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated 3BRyan Fitzgeraldfor assignment.",
+      "player": "Ryan Fitzgerald"
+    },
+    {
+      "date": "2026-01-13",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratestraded RHP Chase Shugart toPhiladelphia Philliesfor IFFrancisco Loreto.",
+      "player": "Francisco Loreto"
+    },
+    {
+      "date": "2026-01-13",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratestraded RHPChase ShugarttoPhiladelphia Philliesfor IF Francisco Loreto.",
+      "player": "Chase Shugart"
     },
     {
       "date": "2026-01-13",
@@ -42,18 +54,6 @@
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalstraded 3B Nolan Arenado and cash toArizona Diamondbacksfor RHPJack Martinez.",
       "player": "Jack Martinez"
-    },
-    {
-      "date": "2026-01-13",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratestraded RHPChase ShugarttoPhiladelphia Philliesfor IF Francisco Loreto.",
-      "player": "Chase Shugart"
-    },
-    {
-      "date": "2026-01-13",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratestraded RHP Chase Shugart toPhiladelphia Philliesfor IFFrancisco Loreto.",
-      "player": "Francisco Loreto"
     }
   ]
 }
