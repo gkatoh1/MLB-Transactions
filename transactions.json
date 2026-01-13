@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-01-12T23:23:18.092593",
+  "last_updated": "2026-01-13T02:18:26.882925",
   "transactions": [
+    {
+      "date": "2026-01-12",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated RHPOsvaldo Bidofor assignment.",
+      "player": "Osvaldo Bido"
+    },
     {
       "date": "2026-01-12",
       "team": "Unknown Team",
       "details": "1BJonathan Arandachanged number to 8.",
       "player": "Jonathan Aranda"
+    },
+    {
+      "date": "2026-01-12",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated SSTsung-Che Chengfor assignment.",
+      "player": "Tsung-Che Cheng"
+    },
+    {
+      "date": "2026-01-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestraded LHPKen Waldichukand 2B Brett Wisely toTampa Bay Rays.",
+      "player": "Ken Waldichuk"
+    },
+    {
+      "date": "2026-01-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestraded LHP Ken Waldichuk and 2BBrett WiselytoTampa Bay Rays.",
+      "player": "Brett Wisely"
     }
   ]
 }
