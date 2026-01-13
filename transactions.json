@@ -1,11 +1,29 @@
 {
-  "last_updated": "2026-01-13T17:33:32.779683",
+  "last_updated": "2026-01-13T18:40:27.957771",
   "transactions": [
+    {
+      "date": "2026-01-13",
+      "team": "Unknown Team",
+      "details": "1BTyler Locklearchanged number to 31.",
+      "player": "Tyler Locklear"
+    },
     {
       "date": "2026-01-13",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardianssigned free agent 3BCarter Kieboomto a minor league contract and invited him to spring training.",
       "player": "Carter Kieboom"
+    },
+    {
+      "date": "2026-01-13",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalstraded 3BNolan Arenadoand cash toArizona Diamondbacksfor RHP Jack Martinez.",
+      "player": "Nolan Arenado"
+    },
+    {
+      "date": "2026-01-13",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalstraded 3B Nolan Arenado and cash toArizona Diamondbacksfor RHPJack Martinez.",
+      "player": "Jack Martinez"
     }
   ]
 }
