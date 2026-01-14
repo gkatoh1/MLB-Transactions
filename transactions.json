@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-01-14T20:29:48.680965",
+  "last_updated": "2026-01-14T21:29:37.049246",
   "transactions": [
+    {
+      "date": "2026-01-14",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssigned free agent OFEloy Jiménezto a minor league contract and invited him to spring training.",
+      "player": "Eloy Jiménez"
+    },
     {
       "date": "2026-01-14",
       "team": "Unknown Team",
@@ -9,15 +15,21 @@
     },
     {
       "date": "2026-01-14",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssigned free agent 3BAlex Bregman.",
-      "player": "Alex Bregman"
-    },
-    {
-      "date": "2026-01-14",
       "team": "Unknown Team",
       "details": "LHPMatthew Liberatorechanged number to 32.",
       "player": "Matthew Liberatore"
+    },
+    {
+      "date": "2026-01-14",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssigned free agent 2BRafael Lantiguato a minor league contract and invited him to spring training.",
+      "player": "Rafael Lantigua"
+    },
+    {
+      "date": "2026-01-14",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent 3BAlex Bregman.",
+      "player": "Alex Bregman"
     },
     {
       "date": "2026-01-14",
