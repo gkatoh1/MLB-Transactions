@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-01-14T16:40:09.103497",
+  "last_updated": "2026-01-14T17:33:36.271880",
   "transactions": [
     {
       "date": "2026-01-14",
       "team": "Unknown Team",
-      "details": "CLeonardo Bernalchanged number to 13.",
-      "player": "Leonardo Bernal"
+      "details": "RHPRiley O'Brienchanged number to 61.",
+      "player": "Riley O'Brien"
+    },
+    {
+      "date": "2026-01-14",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent 3BAlex Bregman.",
+      "player": "Alex Bregman"
+    },
+    {
+      "date": "2026-01-14",
+      "team": "Unknown Team",
+      "details": "LHPCooper Hjerpechanged number to 56.",
+      "player": "Cooper Hjerpe"
     },
     {
       "date": "2026-01-14",
@@ -16,14 +28,8 @@
     {
       "date": "2026-01-14",
       "team": "Unknown Team",
-      "details": "RHPRiley O'Brienchanged number to 61.",
-      "player": "Riley O'Brien"
-    },
-    {
-      "date": "2026-01-14",
-      "team": "Unknown Team",
-      "details": "LHPCooper Hjerpechanged number to 56.",
-      "player": "Cooper Hjerpe"
+      "details": "CLeonardo Bernalchanged number to 13.",
+      "player": "Leonardo Bernal"
     }
   ]
 }
