@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-01-15T02:20:02.557689",
+  "last_updated": "2026-01-15T04:08:03.438706",
   "transactions": [
-    {
-      "date": "2026-01-14",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssigned free agent 3BAlex Bregman.",
-      "player": "Alex Bregman"
-    },
     {
       "date": "2026-01-14",
       "team": "Unknown Team",
@@ -39,6 +33,12 @@
     },
     {
       "date": "2026-01-14",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent 3BAlex Bregman.",
+      "player": "Alex Bregman"
+    },
+    {
+      "date": "2026-01-14",
       "team": "Unknown Team",
       "details": "CLeonardo Bernalchanged number to 13.",
       "player": "Leonardo Bernal"
@@ -51,15 +51,15 @@
     },
     {
       "date": "2026-01-14",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsclaimed 3BVidal Brujánoff waivers fromAtlanta Braves.",
-      "player": "Vidal Bruján"
-    },
-    {
-      "date": "2026-01-14",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent RFJhonkensy Noeloutright to Norfolk Tides.",
       "player": "Jhonkensy Noel"
+    },
+    {
+      "date": "2026-01-14",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsclaimed 3BVidal Brujánoff waivers fromAtlanta Braves.",
+      "player": "Vidal Bruján"
     }
   ]
 }
