@@ -1,11 +1,41 @@
 {
-  "last_updated": "2026-01-15T17:39:24.981062",
+  "last_updated": "2026-01-15T18:48:29.110048",
   "transactions": [
+    {
+      "date": "2026-01-15",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent OFCleiner Ramirezto a minor league contract.",
+      "player": "Cleiner Ramirez"
+    },
     {
       "date": "2026-01-15",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessigned free agent CSam Huffto a minor league contract.",
       "player": "Sam Huff"
+    },
+    {
+      "date": "2026-01-15",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssigned free agent SSEzequiel Melburneto a minor league contract.",
+      "player": "Ezequiel Melburne"
+    },
+    {
+      "date": "2026-01-15",
+      "team": "Athletics",
+      "details": "Athleticssigned free agent SSJohenssy Colometo a minor league contract.",
+      "player": "Johenssy Colome"
+    },
+    {
+      "date": "2026-01-15",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned free agent CJhosep Villarroelto a minor league contract.",
+      "player": "Jhosep Villarroel"
+    },
+    {
+      "date": "2026-01-15",
+      "team": "Athletics",
+      "details": "Athleticssigned free agent SSRicky Duranto a minor league contract.",
+      "player": "Ricky Duran"
     },
     {
       "date": "2026-01-15",
@@ -18,6 +48,60 @@
       "team": "Colorado Rockies",
       "details": "Colorado Rockiessigned free agent RHPMichael Lorenzen.",
       "player": "Michael Lorenzen"
+    },
+    {
+      "date": "2026-01-15",
+      "team": "Athletics",
+      "details": "Athleticssigned free agent 3BErick Encarnacionto a minor league contract.",
+      "player": "Erick Encarnacion"
+    },
+    {
+      "date": "2026-01-15",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned free agent SSAlexandel Pioto a minor league contract.",
+      "player": "Alexandel Pio"
+    },
+    {
+      "date": "2026-01-15",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent SSJoniel Hernandezto a minor league contract.",
+      "player": "Joniel Hernandez"
+    },
+    {
+      "date": "2026-01-15",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssigned free agent OFRubel Ariasto a minor league contract.",
+      "player": "Rubel Arias"
+    },
+    {
+      "date": "2026-01-15",
+      "team": "Athletics",
+      "details": "Athleticssigned free agent CJose Perdomoto a minor league contract.",
+      "player": "Jose Perdomo"
+    },
+    {
+      "date": "2026-01-15",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent SSWandy Asigento a minor league contract.",
+      "player": "Wandy Asigen"
+    },
+    {
+      "date": "2026-01-15",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned free agent SSWilton Guerrero Jr.to a minor league contract.",
+      "player": "Wilton Guerrero Jr."
+    },
+    {
+      "date": "2026-01-15",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned free agent OFDionis Leybato a minor league contract.",
+      "player": "Dionis Leyba"
+    },
+    {
+      "date": "2026-01-15",
+      "team": "New York Mets",
+      "details": "New York Metstraded LHPFranklin GomeztoCleveland Guardiansfor Future Considerations. International Bonus Pool Money.",
+      "player": "Franklin Gomez"
     }
   ]
 }
