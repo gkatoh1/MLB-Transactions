@@ -1,41 +1,23 @@
 {
-  "last_updated": "2026-01-17T02:09:16.283763",
+  "last_updated": "2026-01-17T03:58:25.662119",
   "transactions": [
+    {
+      "date": "2026-01-16",
+      "team": "Houston Astros",
+      "details": "Houston Astrosinvited non-roster RHPAlimber Santato spring training.",
+      "player": "Alimber Santa"
+    },
+    {
+      "date": "2026-01-16",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesinvited non-roster COmar Alfonzoto spring training.",
+      "player": "Omar Alfonzo"
+    },
     {
       "date": "2026-01-16",
       "team": "Houston Astros",
       "details": "Houston Astrosinvited non-roster RFKellen Strahmto spring training.",
       "player": "Kellen Strahm"
-    },
-    {
-      "date": "2026-01-16",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesinvited non-roster 2BDuce Goursonto spring training.",
-      "player": "Duce Gourson"
-    },
-    {
-      "date": "2026-01-16",
-      "team": "Houston Astros",
-      "details": "Houston Astrosinvited non-roster RHPLogan VanWeyto spring training.",
-      "player": "Logan VanWey"
-    },
-    {
-      "date": "2026-01-16",
-      "team": "Houston Astros",
-      "details": "Houston Astrosinvited non-roster RHPAnthony Maldonadoto spring training.",
-      "player": "Anthony Maldonado"
-    },
-    {
-      "date": "2026-01-16",
-      "team": "Houston Astros",
-      "details": "CCarlos Pérezroster status changed byHouston Astros.",
-      "player": "Carlos Pérez"
-    },
-    {
-      "date": "2026-01-16",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesinvited non-roster 2BTermarr Johnsonto spring training.",
-      "player": "Termarr Johnson"
     },
     {
       "date": "2026-01-16",
@@ -52,38 +34,14 @@
     {
       "date": "2026-01-16",
       "team": "Houston Astros",
-      "details": "Houston Astrosinvited non-roster CJohn Garciato spring training.",
-      "player": "John Garcia"
+      "details": "Houston Astrosinvited non-roster CCollin Priceto spring training.",
+      "player": "Collin Price"
     },
     {
       "date": "2026-01-16",
       "team": "Houston Astros",
-      "details": "Houston Astrosinvited non-roster LFTaylor Trammellto spring training.",
-      "player": "Taylor Trammell"
-    },
-    {
-      "date": "2026-01-16",
-      "team": "Houston Astros",
-      "details": "Houston Astrosinvited non-roster CWalker Janekto spring training.",
-      "player": "Walker Janek"
-    },
-    {
-      "date": "2026-01-16",
-      "team": "Houston Astros",
-      "details": "Houston Astrosinvited non-roster RHPChristian Roato spring training.",
-      "player": "Christian Roa"
-    },
-    {
-      "date": "2026-01-16",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesinvited non-roster CShawn Rossto spring training.",
-      "player": "Shawn Ross"
-    },
-    {
-      "date": "2026-01-16",
-      "team": "Houston Astros",
-      "details": "Houston Astrosinvited non-roster CGarret Guillemetteto spring training.",
-      "player": "Garret Guillemette"
+      "details": "Houston Astrosinvited non-roster OFLucas Spenceto spring training.",
+      "player": "Lucas Spence"
     },
     {
       "date": "2026-01-16",
@@ -100,14 +58,26 @@
     {
       "date": "2026-01-16",
       "team": "Houston Astros",
-      "details": "Houston Astrosinvited non-roster 2BJax Biggersto spring training.",
-      "player": "Jax Biggers"
+      "details": "Houston Astrosinvited non-roster CWill Bushto spring training.",
+      "player": "Will Bush"
     },
     {
       "date": "2026-01-16",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesinvited non-roster SSKonnor Griffinto spring training.",
-      "player": "Konnor Griffin"
+      "team": "Houston Astros",
+      "details": "Houston Astrosinvited non-roster RHPPeter Lambertto spring training.",
+      "player": "Peter Lambert"
+    },
+    {
+      "date": "2026-01-16",
+      "team": "Houston Astros",
+      "details": "Houston Astrosinvited non-roster RHPAnthony Maldonadoto spring training.",
+      "player": "Anthony Maldonado"
+    },
+    {
+      "date": "2026-01-16",
+      "team": "Houston Astros",
+      "details": "CCarlos Pérezroster status changed byHouston Astros.",
+      "player": "Carlos Pérez"
     },
     {
       "date": "2026-01-16",
@@ -123,15 +93,9 @@
     },
     {
       "date": "2026-01-16",
-      "team": "Houston Astros",
-      "details": "Houston Astrosinvited non-roster CWill Bushto spring training.",
-      "player": "Will Bush"
-    },
-    {
-      "date": "2026-01-16",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesinvited non-roster COmar Alfonzoto spring training.",
-      "player": "Omar Alfonzo"
+      "details": "Pittsburgh Piratesinvited non-roster 2BTermarr Johnsonto spring training.",
+      "player": "Termarr Johnson"
     },
     {
       "date": "2026-01-16",
@@ -142,8 +106,14 @@
     {
       "date": "2026-01-16",
       "team": "Houston Astros",
-      "details": "Houston Astrosinvited non-roster RHPPeter Lambertto spring training.",
-      "player": "Peter Lambert"
+      "details": "Houston Astrosinvited non-roster CJohn Garciato spring training.",
+      "player": "John Garcia"
+    },
+    {
+      "date": "2026-01-16",
+      "team": "Houston Astros",
+      "details": "Houston Astrosinvited non-roster LFTaylor Trammellto spring training.",
+      "player": "Taylor Trammell"
     },
     {
       "date": "2026-01-16",
@@ -154,14 +124,26 @@
     {
       "date": "2026-01-16",
       "team": "Houston Astros",
-      "details": "Houston Astrosinvited non-roster CCollin Priceto spring training.",
-      "player": "Collin Price"
+      "details": "Houston Astrosinvited non-roster CWalker Janekto spring training.",
+      "player": "Walker Janek"
     },
     {
       "date": "2026-01-16",
       "team": "Houston Astros",
-      "details": "Houston Astrosinvited non-roster OFLucas Spenceto spring training.",
-      "player": "Lucas Spence"
+      "details": "Houston Astrosinvited non-roster RHPChristian Roato spring training.",
+      "player": "Christian Roa"
+    },
+    {
+      "date": "2026-01-16",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesinvited non-roster 2BDuce Goursonto spring training.",
+      "player": "Duce Gourson"
+    },
+    {
+      "date": "2026-01-16",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesinvited non-roster CShawn Rossto spring training.",
+      "player": "Shawn Ross"
     },
     {
       "date": "2026-01-16",
@@ -172,8 +154,8 @@
     {
       "date": "2026-01-16",
       "team": "Houston Astros",
-      "details": "Houston Astrosinvited non-roster RHPAlimber Santato spring training.",
-      "player": "Alimber Santa"
+      "details": "Houston Astrosinvited non-roster CGarret Guillemetteto spring training.",
+      "player": "Garret Guillemette"
     },
     {
       "date": "2026-01-16",
@@ -183,27 +165,27 @@
     },
     {
       "date": "2026-01-16",
-      "team": "New York Mets",
-      "details": "New York Metsclaimed SSTsung-Che Chengoff waivers fromTampa Bay Rays.",
-      "player": "Tsung-Che Cheng"
+      "team": "Houston Astros",
+      "details": "Houston Astrosinvited non-roster 2BJax Biggersto spring training.",
+      "player": "Jax Biggers"
     },
     {
       "date": "2026-01-16",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RF Josh Lowe toLos Angeles Angelsfor RHPChris Clarkand LF Gavin Lux.",
-      "player": "Chris Clark"
+      "team": "Houston Astros",
+      "details": "Houston Astrosinvited non-roster RHPLogan VanWeyto spring training.",
+      "player": "Logan VanWey"
+    },
+    {
+      "date": "2026-01-16",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesinvited non-roster SSKonnor Griffinto spring training.",
+      "player": "Konnor Griffin"
     },
     {
       "date": "2026-01-16",
       "team": "Miami Marlins",
       "details": "Miami Marlinsclaimed RHPOsvaldo Bidooff waivers fromTampa Bay Rays.",
       "player": "Osvaldo Bido"
-    },
-    {
-      "date": "2026-01-16",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RF Josh Lowe to Los Angeles Angels for RHP Chris Clark and LFGavin Lux.",
-      "player": "Gavin Lux"
     },
     {
       "date": "2026-01-16",
@@ -216,6 +198,24 @@
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raystraded RFJosh LowetoLos Angeles Angelsfor RHP Chris Clark and LF Gavin Lux.",
       "player": "Josh Lowe"
+    },
+    {
+      "date": "2026-01-16",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RF Josh Lowe toLos Angeles Angelsfor RHPChris Clarkand LF Gavin Lux.",
+      "player": "Chris Clark"
+    },
+    {
+      "date": "2026-01-16",
+      "team": "New York Mets",
+      "details": "New York Metsclaimed SSTsung-Che Chengoff waivers fromTampa Bay Rays.",
+      "player": "Tsung-Che Cheng"
+    },
+    {
+      "date": "2026-01-16",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RF Josh Lowe to Los Angeles Angels for RHP Chris Clark and LFGavin Lux.",
+      "player": "Gavin Lux"
     }
   ]
 }
