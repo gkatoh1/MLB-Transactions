@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-01-20T16:44:41.927502",
+  "last_updated": "2026-01-20T17:37:06.506532",
   "transactions": [
-    {
-      "date": "2026-01-20",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent CJ.T. Realmuto.",
-      "player": "J.T. Realmuto"
-    },
     {
       "date": "2026-01-20",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessigned free agent RHPHans Crouseto a minor league contract.",
       "player": "Hans Crouse"
+    },
+    {
+      "date": "2026-01-20",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent CJ.T. Realmuto.",
+      "player": "J.T. Realmuto"
     }
   ]
 }
