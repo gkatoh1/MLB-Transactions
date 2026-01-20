@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-01-20T17:37:06.506532",
+  "last_updated": "2026-01-20T18:56:26.094082",
   "transactions": [
+    {
+      "date": "2026-01-20",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent CJ.T. Realmuto.",
+      "player": "J.T. Realmuto"
+    },
     {
       "date": "2026-01-20",
       "team": "Baltimore Orioles",
@@ -9,9 +15,15 @@
     },
     {
       "date": "2026-01-20",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent CJ.T. Realmuto.",
-      "player": "J.T. Realmuto"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiestraded RHP Bradley Blalock toMiami Marlinsfor RHPJake Brooks.",
+      "player": "Jake Brooks"
+    },
+    {
+      "date": "2026-01-20",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiestraded RHPBradley BlalocktoMiami Marlinsfor RHP Jake Brooks.",
+      "player": "Bradley Blalock"
     }
   ]
 }
