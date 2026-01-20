@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-20T20:17:04.632182",
+  "last_updated": "2026-01-20T21:28:45.869774",
   "transactions": [
     {
       "date": "2026-01-20",
@@ -15,6 +15,12 @@
     },
     {
       "date": "2026-01-20",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsdesignated RHPAndry Larafor assignment.",
+      "player": "Andry Lara"
+    },
+    {
+      "date": "2026-01-20",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiestraded RHP Bradley Blalock toMiami Marlinsfor RHPJake Brooks.",
       "player": "Jake Brooks"
@@ -24,6 +30,12 @@
       "team": "Colorado Rockies",
       "details": "Colorado Rockiestraded RHPBradley BlalocktoMiami Marlinsfor RHP Jake Brooks.",
       "player": "Bradley Blalock"
+    },
+    {
+      "date": "2026-01-20",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsclaimed 2BMickey Gasperoff waivers fromMinnesota Twins.",
+      "player": "Mickey Gasper"
     }
   ]
 }
