@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-01-20T23:30:33.438563",
+  "last_updated": "2026-01-21T02:25:09.118573",
   "transactions": [
     {
       "date": "2026-01-20",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravessigned free agent SSJorge Mateo.",
       "player": "Jorge Mateo"
+    },
+    {
+      "date": "2026-01-20",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent RHPHans Crouseto a minor league contract.",
+      "player": "Hans Crouse"
+    },
+    {
+      "date": "2026-01-20",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsdesignated RHPAndry Larafor assignment.",
+      "player": "Andry Lara"
     },
     {
       "date": "2026-01-20",
@@ -33,27 +45,15 @@
     },
     {
       "date": "2026-01-20",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssigned free agent RHPJosh Sborzto a minor league contract and invited him to spring training.",
-      "player": "Josh Sborz"
-    },
-    {
-      "date": "2026-01-20",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent RHPHans Crouseto a minor league contract.",
-      "player": "Hans Crouse"
-    },
-    {
-      "date": "2026-01-20",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsdesignated RHPAndry Larafor assignment.",
-      "player": "Andry Lara"
-    },
-    {
-      "date": "2026-01-20",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesdesignated LFWeston Wilsonfor assignment.",
       "player": "Weston Wilson"
+    },
+    {
+      "date": "2026-01-20",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent RHPJosh Sborzto a minor league contract and invited him to spring training.",
+      "player": "Josh Sborz"
     },
     {
       "date": "2026-01-20",
