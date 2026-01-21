@@ -1,4 +1,29 @@
 {
-  "last_updated": "2026-01-21T14:39:07.752382",
-  "transactions": []
+  "last_updated": "2026-01-21T15:40:08.861434",
+  "transactions": [
+    {
+      "date": "2026-01-21",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsdesignated 3BVidal Brujánfor assignment.",
+      "player": "Vidal Bruján"
+    },
+    {
+      "date": "2026-01-21",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned free agent LHPRanger Suárez.",
+      "player": "Ranger Suárez"
+    },
+    {
+      "date": "2026-01-21",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstraded C Nate Baez toBoston Red Soxfor 3BTristan Gray.",
+      "player": "Tristan Gray"
+    },
+    {
+      "date": "2026-01-21",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstraded CNate BaeztoBoston Red Soxfor 3B Tristan Gray.",
+      "player": "Nate Baez"
+    }
+  ]
 }
