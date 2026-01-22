@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-01-22T21:30:51.000200",
+  "last_updated": "2026-01-22T22:31:20.217026",
   "transactions": [
     {
       "date": "2026-01-22",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantstraded CCarlos MartineztoMiami Marlinsfor cash.",
       "player": "Carlos Martinez"
+    },
+    {
+      "date": "2026-01-22",
+      "team": "New York Yankees",
+      "details": "New York Yankeesclaimed OFMarco Lucianooff waivers fromBaltimore Orioles.",
+      "player": "Marco Luciano"
     }
   ]
 }
