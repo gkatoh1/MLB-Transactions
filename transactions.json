@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-01-22T22:31:20.217026",
+  "last_updated": "2026-01-22T23:29:04.470680",
   "transactions": [
+    {
+      "date": "2026-01-22",
+      "team": "Unknown Team",
+      "details": "CFDrew Gilbertchanged number to 1.",
+      "player": "Drew Gilbert"
+    },
+    {
+      "date": "2026-01-22",
+      "team": "Unknown Team",
+      "details": "1BBryce Eldridgechanged number to 8.",
+      "player": "Bryce Eldridge"
+    },
+    {
+      "date": "2026-01-22",
+      "team": "Unknown Team",
+      "details": "RFJerar Encarnacionchanged number to 19.",
+      "player": "Jerar Encarnacion"
+    },
+    {
+      "date": "2026-01-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated LHPJosé Suarezfor assignment.",
+      "player": "José Suarez"
+    },
     {
       "date": "2026-01-22",
       "team": "San Francisco Giants",
@@ -9,9 +33,51 @@
     },
     {
       "date": "2026-01-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded LHP MacKenzie Gore toTexas Rangersfor 3B Gavin Fien, 1B Abimelec Ortiz, SS Devin Fitz-Gerald, RHPAlejandro Rosarioand CF Yeremy Cabrera.",
+      "player": "Alejandro Rosario"
+    },
+    {
+      "date": "2026-01-22",
       "team": "New York Yankees",
       "details": "New York Yankeesclaimed OFMarco Lucianooff waivers fromBaltimore Orioles.",
       "player": "Marco Luciano"
+    },
+    {
+      "date": "2026-01-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded LHPMacKenzie GoretoTexas Rangersfor 3B Gavin Fien, 1B Abimelec Ortiz, SS Devin Fitz-Gerald, RHP Alejandro Rosario and CF Yeremy Cabrera.",
+      "player": "MacKenzie Gore"
+    },
+    {
+      "date": "2026-01-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded LHP MacKenzie Gore toTexas Rangersfor 3BGavin Fien, 1B Abimelec Ortiz, SS Devin Fitz-Gerald, RHP Alejandro Rosario and CF Yeremy Cabrera.",
+      "player": "Gavin Fien"
+    },
+    {
+      "date": "2026-01-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded LHP MacKenzie Gore toTexas Rangersfor 3B Gavin Fien, 1BAbimelec Ortiz, SS Devin Fitz-Gerald, RHP Alejandro Rosario and CF Yeremy Cabrera.",
+      "player": "Abimelec Ortiz"
+    },
+    {
+      "date": "2026-01-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded LHP MacKenzie Gore toTexas Rangersfor 3B Gavin Fien, 1B Abimelec Ortiz, SSDevin Fitz-Gerald, RHP Alejandro Rosario and CF Yeremy Cabrera.",
+      "player": "Devin Fitz-Gerald"
+    },
+    {
+      "date": "2026-01-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded LHP MacKenzie Gore toTexas Rangersfor 3B Gavin Fien, 1B Abimelec Ortiz, SS Devin Fitz-Gerald, RHP Alejandro Rosario and CFYeremy Cabrera.",
+      "player": "Yeremy Cabrera"
+    },
+    {
+      "date": "2026-01-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed LFWeston Wilsonoff waivers fromPhiladelphia Phillies.",
+      "player": "Weston Wilson"
     }
   ]
 }
