@@ -1,24 +1,6 @@
 {
-  "last_updated": "2026-01-23T02:22:23.003602",
+  "last_updated": "2026-01-23T04:08:20.227125",
   "transactions": [
-    {
-      "date": "2026-01-22",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated LHPRichard Loveladyfor assignment.",
-      "player": "Richard Lovelady"
-    },
-    {
-      "date": "2026-01-22",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessigned free agent LFWilli Castro.",
-      "player": "Willi Castro"
-    },
-    {
-      "date": "2026-01-22",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated LHPJosé Suarezfor assignment.",
-      "player": "José Suarez"
-    },
     {
       "date": "2026-01-22",
       "team": "Unknown Team",
@@ -33,9 +15,21 @@
     },
     {
       "date": "2026-01-22",
+      "team": "Unknown Team",
+      "details": "1BBryce Eldridgechanged number to 8.",
+      "player": "Bryce Eldridge"
+    },
+    {
+      "date": "2026-01-22",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated LHPRichard Loveladyfor assignment.",
+      "player": "Richard Lovelady"
+    },
+    {
+      "date": "2026-01-22",
       "team": "Colorado Rockies",
-      "details": "Colorado Rockiesdesignated RHPGarrett Actonfor assignment.",
-      "player": "Garrett Acton"
+      "details": "Colorado Rockiessigned free agent LFWilli Castro.",
+      "player": "Willi Castro"
     },
     {
       "date": "2026-01-22",
@@ -45,15 +39,63 @@
     },
     {
       "date": "2026-01-22",
-      "team": "Unknown Team",
-      "details": "1BBryce Eldridgechanged number to 8.",
-      "player": "Bryce Eldridge"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesdesignated RHPGarrett Actonfor assignment.",
+      "player": "Garrett Acton"
+    },
+    {
+      "date": "2026-01-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated LHPJosé Suarezfor assignment.",
+      "player": "José Suarez"
     },
     {
       "date": "2026-01-22",
       "team": "New York Yankees",
       "details": "New York Yankeesclaimed OFMarco Lucianooff waivers fromBaltimore Orioles.",
       "player": "Marco Luciano"
+    },
+    {
+      "date": "2026-01-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded LHP MacKenzie Gore toTexas Rangersfor 3B Gavin Fien, 1B Abimelec Ortiz, SS Devin Fitz-Gerald, RHP Alejandro Rosario and CFYeremy Cabrera.",
+      "player": "Yeremy Cabrera"
+    },
+    {
+      "date": "2026-01-22",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstraded CCarlos MartineztoMiami Marlinsfor cash.",
+      "player": "Carlos Martinez"
+    },
+    {
+      "date": "2026-01-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstraded 3BVidal BrujántoNew York Metsfor cash.",
+      "player": "Vidal Bruján"
+    },
+    {
+      "date": "2026-01-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed LFWeston Wilsonoff waivers fromPhiladelphia Phillies.",
+      "player": "Weston Wilson"
+    },
+    {
+      "date": "2026-01-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsclaimed RHPGus Varlandoff waivers fromArizona Diamondbacks.",
+      "player": "Gus Varland"
+    },
+    {
+      "date": "2026-01-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded LHP MacKenzie Gore toTexas Rangersfor 3B Gavin Fien, 1B Abimelec Ortiz, SS Devin Fitz-Gerald, RHPAlejandro Rosarioand CF Yeremy Cabrera.",
+      "player": "Alejandro Rosario"
+    },
+    {
+      "date": "2026-01-22",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent 2BSamad Tayloroutright to Tacoma Rainiers.",
+      "player": "Samad Taylor"
     },
     {
       "date": "2026-01-22",
@@ -78,48 +120,6 @@
       "team": "Washington Nationals",
       "details": "Washington Nationalstraded LHP MacKenzie Gore toTexas Rangersfor 3B Gavin Fien, 1B Abimelec Ortiz, SSDevin Fitz-Gerald, RHP Alejandro Rosario and CF Yeremy Cabrera.",
       "player": "Devin Fitz-Gerald"
-    },
-    {
-      "date": "2026-01-22",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssent 2BSamad Tayloroutright to Tacoma Rainiers.",
-      "player": "Samad Taylor"
-    },
-    {
-      "date": "2026-01-22",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesclaimed LFWeston Wilsonoff waivers fromPhiladelphia Phillies.",
-      "player": "Weston Wilson"
-    },
-    {
-      "date": "2026-01-22",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantstraded CCarlos MartineztoMiami Marlinsfor cash.",
-      "player": "Carlos Martinez"
-    },
-    {
-      "date": "2026-01-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded LHP MacKenzie Gore toTexas Rangersfor 3B Gavin Fien, 1B Abimelec Ortiz, SS Devin Fitz-Gerald, RHP Alejandro Rosario and CFYeremy Cabrera.",
-      "player": "Yeremy Cabrera"
-    },
-    {
-      "date": "2026-01-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsclaimed RHPGus Varlandoff waivers fromArizona Diamondbacks.",
-      "player": "Gus Varland"
-    },
-    {
-      "date": "2026-01-22",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinstraded 3BVidal BrujántoNew York Metsfor cash.",
-      "player": "Vidal Bruján"
-    },
-    {
-      "date": "2026-01-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded LHP MacKenzie Gore toTexas Rangersfor 3B Gavin Fien, 1B Abimelec Ortiz, SS Devin Fitz-Gerald, RHPAlejandro Rosarioand CF Yeremy Cabrera.",
-      "player": "Alejandro Rosario"
     }
   ]
 }
