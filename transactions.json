@@ -1,72 +1,6 @@
 {
-  "last_updated": "2026-01-23T18:45:44.487472",
+  "last_updated": "2026-01-23T19:29:42.877352",
   "transactions": [
-    {
-      "date": "2026-01-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster RHPAndrew Bechtoldto spring training.",
-      "player": "Andrew Bechtold"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster OFDante Norito spring training.",
-      "player": "Dante Nori"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster OFBryan De La Cruzto spring training.",
-      "player": "Bryan De La Cruz"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster RHPBryse Wilsonto spring training.",
-      "player": "Bryse Wilson"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster SSChristian Cairoto spring training.",
-      "player": "Christian Cairo"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster CFDylan Campbellto spring training.",
-      "player": "Dylan Campbell"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster CFJustin Crawfordto spring training.",
-      "player": "Justin Crawford"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster CPaul McIntoshto spring training.",
-      "player": "Paul McIntosh"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster CRené Pintoto spring training.",
-      "player": "René Pinto"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster RHPTrevor Richardsto spring training.",
-      "player": "Trevor Richards"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster LHPAndrew Wallingto spring training.",
-      "player": "Andrew Walling"
-    },
     {
       "date": "2026-01-23",
       "team": "Philadelphia Phillies",
@@ -112,38 +46,20 @@
     {
       "date": "2026-01-23",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster SSJosé Rodríguezto spring training.",
-      "player": "José Rodríguez"
+      "details": "Philadelphia Philliesinvited non-roster RHPAndrew Bechtoldto spring training.",
+      "player": "Andrew Bechtold"
     },
     {
       "date": "2026-01-23",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent LHPTim Mayzato a minor league contract and invited him to spring training.",
-      "player": "Tim Mayza"
+      "details": "Philadelphia Philliesinvited non-roster OFDante Norito spring training.",
+      "player": "Dante Nori"
     },
     {
       "date": "2026-01-23",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster CMark Kolozsvaryto spring training.",
-      "player": "Mark Kolozsvary"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster 1BFelix Reyesto spring training.",
-      "player": "Felix Reyes"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster RHPMichael Mercadoto spring training.",
-      "player": "Michael Mercado"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster SSAidan Millerto spring training.",
-      "player": "Aidan Miller"
+      "details": "Philadelphia Philliesinvited non-roster OFBryan De La Cruzto spring training.",
+      "player": "Bryan De La Cruz"
     },
     {
       "date": "2026-01-23",
@@ -160,8 +76,92 @@
     {
       "date": "2026-01-23",
       "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesinvited non-roster SSChristian Cairoto spring training.",
+      "player": "Christian Cairo"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesinvited non-roster CFDylan Campbellto spring training.",
+      "player": "Dylan Campbell"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesinvited non-roster CFJustin Crawfordto spring training.",
+      "player": "Justin Crawford"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesinvited non-roster CPaul McIntoshto spring training.",
+      "player": "Paul McIntosh"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesinvited non-roster CKehden Hettigerto spring training.",
       "player": "Kehden Hettiger"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent LHPTim Mayzato a minor league contract and invited him to spring training.",
+      "player": "Tim Mayza"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesinvited non-roster RHPBryse Wilsonto spring training.",
+      "player": "Bryse Wilson"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesinvited non-roster RHPMichael Mercadoto spring training.",
+      "player": "Michael Mercado"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesinvited non-roster SSAidan Millerto spring training.",
+      "player": "Aidan Miller"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesinvited non-roster CRené Pintoto spring training.",
+      "player": "René Pinto"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesinvited non-roster RHPTrevor Richardsto spring training.",
+      "player": "Trevor Richards"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesinvited non-roster LHPAndrew Wallingto spring training.",
+      "player": "Andrew Walling"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesinvited non-roster SSJosé Rodríguezto spring training.",
+      "player": "José Rodríguez"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesinvited non-roster CMark Kolozsvaryto spring training.",
+      "player": "Mark Kolozsvary"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesinvited non-roster 1BFelix Reyesto spring training.",
+      "player": "Felix Reyes"
     }
   ]
 }
