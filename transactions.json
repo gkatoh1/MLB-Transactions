@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-01-23T21:28:43.877378",
+  "last_updated": "2026-01-23T22:26:51.202546",
   "transactions": [
-    {
-      "date": "2026-01-23",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsinvited non-roster CMichael Trautweinto spring training.",
-      "player": "Michael Trautwein"
-    },
     {
       "date": "2026-01-23",
       "team": "New York Yankees",
@@ -34,20 +28,50 @@
     {
       "date": "2026-01-23",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster CRené Pintoto spring training.",
-      "player": "René Pinto"
+      "details": "Philadelphia Philliesinvited non-roster CKehden Hettigerto spring training.",
+      "player": "Kehden Hettiger"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Cincinnati Reds",
+      "details": "RHPYunior Marteroster status changed byCincinnati Reds.",
+      "player": "Yunior Marte"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxinvited non-roster CFBraiden Wardto spring training.",
+      "player": "Braiden Ward"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxinvited non-roster CRonald Rosarioto spring training.",
+      "player": "Ronald Rosario"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxinvited non-roster RHPTayron Guerreroto spring training.",
+      "player": "Tayron Guerrero"
     },
     {
       "date": "2026-01-23",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster RHPTrevor Richardsto spring training.",
-      "player": "Trevor Richards"
+      "details": "Philadelphia Philliesinvited non-roster RHPAndrew Bechtoldto spring training.",
+      "player": "Andrew Bechtold"
     },
     {
       "date": "2026-01-23",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster LHPAndrew Wallingto spring training.",
-      "player": "Andrew Walling"
+      "details": "Philadelphia Philliesinvited non-roster OFDante Norito spring training.",
+      "player": "Dante Nori"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxinvited non-roster RHPJacob Webbto spring training.",
+      "player": "Jacob Webb"
     },
     {
       "date": "2026-01-23",
@@ -106,44 +130,26 @@
     {
       "date": "2026-01-23",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster LHPGénesis Cabrerato spring training.",
-      "player": "Génesis Cabrera"
+      "details": "Philadelphia Philliesinvited non-roster SSChristian Cairoto spring training.",
+      "player": "Christian Cairo"
     },
     {
       "date": "2026-01-23",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster SSBryan Rinconto spring training.",
-      "player": "Bryan Rincon"
+      "details": "Philadelphia Philliesinvited non-roster CFDylan Campbellto spring training.",
+      "player": "Dylan Campbell"
     },
     {
       "date": "2026-01-23",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster CKehden Hettigerto spring training.",
-      "player": "Kehden Hettiger"
+      "details": "Philadelphia Philliesinvited non-roster CFJustin Crawfordto spring training.",
+      "player": "Justin Crawford"
     },
     {
       "date": "2026-01-23",
-      "team": "Cincinnati Reds",
-      "details": "RHPYunior Marteroster status changed byCincinnati Reds.",
-      "player": "Yunior Marte"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxinvited non-roster CFBraiden Wardto spring training.",
-      "player": "Braiden Ward"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxinvited non-roster CRonald Rosarioto spring training.",
-      "player": "Ronald Rosario"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxinvited non-roster RHPTayron Guerreroto spring training.",
-      "player": "Tayron Guerrero"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesinvited non-roster CPaul McIntoshto spring training.",
+      "player": "Paul McIntosh"
     },
     {
       "date": "2026-01-23",
@@ -159,33 +165,39 @@
     },
     {
       "date": "2026-01-23",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxinvited non-roster CFAllan Castroto spring training.",
-      "player": "Allan Castro"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxinvited non-roster RHPSeth Martinezto spring training.",
-      "player": "Seth Martinez"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsinvited non-roster CMichael Trautweinto spring training.",
+      "player": "Michael Trautwein"
     },
     {
       "date": "2026-01-23",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster RHPAndrew Bechtoldto spring training.",
-      "player": "Andrew Bechtold"
+      "details": "Philadelphia Philliesinvited non-roster CMark Kolozsvaryto spring training.",
+      "player": "Mark Kolozsvary"
     },
     {
       "date": "2026-01-23",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster OFDante Norito spring training.",
-      "player": "Dante Nori"
+      "details": "Philadelphia Philliesinvited non-roster 1BFelix Reyesto spring training.",
+      "player": "Felix Reyes"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent RHPYunior Marteto a minor league contract and invited him to spring training.",
+      "player": "Yunior Marte"
     },
     {
       "date": "2026-01-23",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxinvited non-roster RHPJacob Webbto spring training.",
-      "player": "Jacob Webb"
+      "details": "Boston Red Soxinvited non-roster OFTyler McDonoughto spring training.",
+      "player": "Tyler McDonough"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxinvited non-roster LHPJeremy Wu-Yellandto spring training.",
+      "player": "Jeremy Wu-Yelland"
     },
     {
       "date": "2026-01-23",
@@ -226,26 +238,32 @@
     {
       "date": "2026-01-23",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster SSChristian Cairoto spring training.",
-      "player": "Christian Cairo"
+      "details": "Philadelphia Philliesinvited non-roster LHPGénesis Cabrerato spring training.",
+      "player": "Génesis Cabrera"
     },
     {
       "date": "2026-01-23",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster CFDylan Campbellto spring training.",
-      "player": "Dylan Campbell"
+      "details": "Philadelphia Philliesinvited non-roster SSBryan Rinconto spring training.",
+      "player": "Bryan Rincon"
     },
     {
       "date": "2026-01-23",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster CFJustin Crawfordto spring training.",
-      "player": "Justin Crawford"
+      "details": "Philadelphia Philliesinvited non-roster CRené Pintoto spring training.",
+      "player": "René Pinto"
     },
     {
       "date": "2026-01-23",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster CPaul McIntoshto spring training.",
-      "player": "Paul McIntosh"
+      "details": "Philadelphia Philliesinvited non-roster RHPTrevor Richardsto spring training.",
+      "player": "Trevor Richards"
+    },
+    {
+      "date": "2026-01-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesinvited non-roster LHPAndrew Wallingto spring training.",
+      "player": "Andrew Walling"
     },
     {
       "date": "2026-01-23",
@@ -267,33 +285,15 @@
     },
     {
       "date": "2026-01-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster CMark Kolozsvaryto spring training.",
-      "player": "Mark Kolozsvary"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesinvited non-roster 1BFelix Reyesto spring training.",
-      "player": "Felix Reyes"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssigned free agent RHPYunior Marteto a minor league contract and invited him to spring training.",
-      "player": "Yunior Marte"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxinvited non-roster CFAllan Castroto spring training.",
+      "player": "Allan Castro"
     },
     {
       "date": "2026-01-23",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxinvited non-roster OFTyler McDonoughto spring training.",
-      "player": "Tyler McDonough"
-    },
-    {
-      "date": "2026-01-23",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxinvited non-roster LHPJeremy Wu-Yellandto spring training.",
-      "player": "Jeremy Wu-Yelland"
+      "details": "Boston Red Soxinvited non-roster RHPSeth Martinezto spring training.",
+      "player": "Seth Martinez"
     },
     {
       "date": "2026-01-23",
