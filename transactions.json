@@ -1,114 +1,6 @@
 {
-  "last_updated": "2026-01-27T02:28:25.246397",
+  "last_updated": "2026-01-27T04:12:06.357482",
   "transactions": [
-    {
-      "date": "2026-01-26",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsinvited non-roster LHPPete Hansento spring training.",
-      "player": "Pete Hansen"
-    },
-    {
-      "date": "2026-01-26",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsinvited non-roster CCarlos Linarezto spring training.",
-      "player": "Carlos Linarez"
-    },
-    {
-      "date": "2026-01-26",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssigned free agent LHPZack Thompsonto a minor league contract and invited him to spring training.",
-      "player": "Zack Thompson"
-    },
-    {
-      "date": "2026-01-26",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsinvited non-roster 2BRamon Mendozato spring training.",
-      "player": "Ramon Mendoza"
-    },
-    {
-      "date": "2026-01-26",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsinvited non-roster SSJJ Wetherholtto spring training.",
-      "player": "JJ Wetherholt"
-    },
-    {
-      "date": "2026-01-26",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsinvited non-roster 3BCayden Wallaceto spring training.",
-      "player": "Cayden Wallace"
-    },
-    {
-      "date": "2026-01-26",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsinvited non-roster RHPLuis Gastelumto spring training.",
-      "player": "Luis Gastelum"
-    },
-    {
-      "date": "2026-01-26",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsinvited non-roster CAndy Yerzyto spring training.",
-      "player": "Andy Yerzy"
-    },
-    {
-      "date": "2026-01-26",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsinvited non-roster RHPGerson Morenoto spring training.",
-      "player": "Gerson Moreno"
-    },
-    {
-      "date": "2026-01-26",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsinvited non-roster 2BBrody Mooreto spring training.",
-      "player": "Brody Moore"
-    },
-    {
-      "date": "2026-01-26",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsinvited non-roster SSSeaver Kingto spring training.",
-      "player": "Seaver King"
-    },
-    {
-      "date": "2026-01-26",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsinvited non-roster RHPSkylar Halesto spring training.",
-      "player": "Skylar Hales"
-    },
-    {
-      "date": "2026-01-26",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsinvited non-roster LHPIxan Hendersonto spring training.",
-      "player": "Ixan Henderson"
-    },
-    {
-      "date": "2026-01-26",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsinvited non-roster CFChase Davisto spring training.",
-      "player": "Chase Davis"
-    },
-    {
-      "date": "2026-01-26",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsinvited non-roster LHPQuinn Mathewsto spring training.",
-      "player": "Quinn Mathews"
-    },
-    {
-      "date": "2026-01-26",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsinvited non-roster RHPTravis Sykorato spring training.",
-      "player": "Travis Sykora"
-    },
-    {
-      "date": "2026-01-26",
-      "team": "New York Yankees",
-      "details": "New York Yankeessigned free agent LFCody Bellinger.",
-      "player": "Cody Bellinger"
-    },
-    {
-      "date": "2026-01-26",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsinvited non-roster LFMatt Koperniakto spring training.",
-      "player": "Matt Koperniak"
-    },
     {
       "date": "2026-01-26",
       "team": "St. Louis Cardinals",
@@ -141,9 +33,57 @@
     },
     {
       "date": "2026-01-26",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssigned free agent LHPZack Thompsonto a minor league contract and invited him to spring training.",
+      "player": "Zack Thompson"
+    },
+    {
+      "date": "2026-01-26",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsinvited non-roster 2BRamon Mendozato spring training.",
+      "player": "Ramon Mendoza"
+    },
+    {
+      "date": "2026-01-26",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsinvited non-roster SSJJ Wetherholtto spring training.",
+      "player": "JJ Wetherholt"
+    },
+    {
+      "date": "2026-01-26",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsinvited non-roster 3BCayden Wallaceto spring training.",
+      "player": "Cayden Wallace"
+    },
+    {
+      "date": "2026-01-26",
       "team": "Washington Nationals",
       "details": "Washington Nationalsinvited non-roster 3BTrey Lipscombto spring training.",
       "player": "Trey Lipscomb"
+    },
+    {
+      "date": "2026-01-26",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsinvited non-roster LHPPete Hansento spring training.",
+      "player": "Pete Hansen"
+    },
+    {
+      "date": "2026-01-26",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsinvited non-roster CCarlos Linarezto spring training.",
+      "player": "Carlos Linarez"
+    },
+    {
+      "date": "2026-01-26",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsinvited non-roster RHPGerson Morenoto spring training.",
+      "player": "Gerson Moreno"
+    },
+    {
+      "date": "2026-01-26",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsinvited non-roster 2BBrody Mooreto spring training.",
+      "player": "Brody Moore"
     },
     {
       "date": "2026-01-26",
@@ -186,6 +126,66 @@
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsinvited non-roster LHPPacky Naughtonto spring training.",
       "player": "Packy Naughton"
+    },
+    {
+      "date": "2026-01-26",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsinvited non-roster RHPTravis Sykorato spring training.",
+      "player": "Travis Sykora"
+    },
+    {
+      "date": "2026-01-26",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned free agent LFCody Bellinger.",
+      "player": "Cody Bellinger"
+    },
+    {
+      "date": "2026-01-26",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsinvited non-roster LFMatt Koperniakto spring training.",
+      "player": "Matt Koperniak"
+    },
+    {
+      "date": "2026-01-26",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsinvited non-roster RHPLuis Gastelumto spring training.",
+      "player": "Luis Gastelum"
+    },
+    {
+      "date": "2026-01-26",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsinvited non-roster CAndy Yerzyto spring training.",
+      "player": "Andy Yerzy"
+    },
+    {
+      "date": "2026-01-26",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsinvited non-roster SSSeaver Kingto spring training.",
+      "player": "Seaver King"
+    },
+    {
+      "date": "2026-01-26",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsinvited non-roster RHPSkylar Halesto spring training.",
+      "player": "Skylar Hales"
+    },
+    {
+      "date": "2026-01-26",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsinvited non-roster LHPIxan Hendersonto spring training.",
+      "player": "Ixan Henderson"
+    },
+    {
+      "date": "2026-01-26",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsinvited non-roster CFChase Davisto spring training.",
+      "player": "Chase Davis"
+    },
+    {
+      "date": "2026-01-26",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsinvited non-roster LHPQuinn Mathewsto spring training.",
+      "player": "Quinn Mathews"
     },
     {
       "date": "2026-01-26",
