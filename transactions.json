@@ -1,4 +1,41 @@
 {
-  "last_updated": "2026-01-28T17:38:55.723284",
-  "transactions": []
+  "last_updated": "2026-01-28T18:47:51.040236",
+  "transactions": [
+    {
+      "date": "2026-01-28",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesdesignated RFYanquiel Fernándezfor assignment.",
+      "player": "Yanquiel Fernández"
+    },
+    {
+      "date": "2026-01-28",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiestraded RHPAngel ChivillitoNew York Yankeesfor 1B T.J. Rumfield.",
+      "player": "Angel Chivilli"
+    },
+    {
+      "date": "2026-01-28",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiestraded RHP Angel Chivilli toNew York Yankeesfor 1BT.J. Rumfield.",
+      "player": "T.J. Rumfield"
+    },
+    {
+      "date": "2026-01-28",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstraded 2B Edouard Julien and RHP Pierson Ohl toColorado Rockiesfor RHPJace Kaminskaand cash.",
+      "player": "Jace Kaminska"
+    },
+    {
+      "date": "2026-01-28",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstraded 2BEdouard Julienand RHP Pierson Ohl toColorado Rockiesfor RHP Jace Kaminska and cash.",
+      "player": "Edouard Julien"
+    },
+    {
+      "date": "2026-01-28",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstraded 2B Edouard Julien and RHPPierson OhltoColorado Rockiesfor RHP Jace Kaminska and cash.",
+      "player": "Pierson Ohl"
+    }
+  ]
 }
