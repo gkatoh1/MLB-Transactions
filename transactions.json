@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-01-27T23:30:14.016745",
+  "last_updated": "2026-01-28T02:24:38.473981",
   "transactions": [
-    {
-      "date": "2026-01-27",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsinvited non-roster SSDaniel Vazquezto spring training.",
-      "player": "Daniel Vazquez"
-    },
-    {
-      "date": "2026-01-27",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersinvited non-roster 3BLuke Adamsto spring training.",
-      "player": "Luke Adams"
-    },
-    {
-      "date": "2026-01-27",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsinvited non-roster CBlake Mitchellto spring training.",
-      "player": "Blake Mitchell"
-    },
-    {
-      "date": "2026-01-27",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsinvited non-roster CElih Marreroto spring training.",
-      "player": "Elih Marrero"
-    },
-    {
-      "date": "2026-01-27",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsinvited non-roster RHPShane Panzinito spring training.",
-      "player": "Shane Panzini"
-    },
     {
       "date": "2026-01-27",
       "team": "Kansas City Royals",
@@ -52,14 +22,74 @@
     {
       "date": "2026-01-27",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalsinvited non-roster RFGavin Crossto spring training.",
-      "player": "Gavin Cross"
+      "details": "Kansas City Royalsinvited non-roster LHPChazz Martinezto spring training.",
+      "player": "Chazz Martinez"
+    },
+    {
+      "date": "2026-01-27",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsinvited non-roster LHPFrank Mozzicatoto spring training.",
+      "player": "Frank Mozzicato"
+    },
+    {
+      "date": "2026-01-27",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsinvited non-roster 2BPeyton Wilsonto spring training.",
+      "player": "Peyton Wilson"
+    },
+    {
+      "date": "2026-01-27",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsinvited non-roster CCanyon Brownto spring training.",
+      "player": "Canyon Brown"
+    },
+    {
+      "date": "2026-01-27",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsinvited non-roster CLuca Treshto spring training.",
+      "player": "Luca Tresh"
+    },
+    {
+      "date": "2026-01-27",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsinvited non-roster CBlake Mitchellto spring training.",
+      "player": "Blake Mitchell"
+    },
+    {
+      "date": "2026-01-27",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsinvited non-roster CElih Marreroto spring training.",
+      "player": "Elih Marrero"
+    },
+    {
+      "date": "2026-01-27",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsinvited non-roster RHPDennis Colleranto spring training.",
+      "player": "Dennis Colleran"
+    },
+    {
+      "date": "2026-01-27",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent RHPHéctor Neristo a minor league contract and invited him to spring training.",
+      "player": "Héctor Neris"
     },
     {
       "date": "2026-01-27",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersinvited non-roster SSCooper Prattto spring training.",
-      "player": "Cooper Pratt"
+      "details": "Milwaukee Brewersinvited non-roster CRamón Rodríguezto spring training.",
+      "player": "Ramón Rodríguez"
+    },
+    {
+      "date": "2026-01-27",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersinvited non-roster CMatthew Woodto spring training.",
+      "player": "Matthew Wood"
+    },
+    {
+      "date": "2026-01-27",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsinvited non-roster RHPShane Panzinito spring training.",
+      "player": "Shane Panzini"
     },
     {
       "date": "2026-01-27",
@@ -100,6 +130,30 @@
     {
       "date": "2026-01-27",
       "team": "Kansas City Royals",
+      "details": "Kansas City Royalsinvited non-roster SSDaniel Vazquezto spring training.",
+      "player": "Daniel Vazquez"
+    },
+    {
+      "date": "2026-01-27",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersinvited non-roster 3BLuke Adamsto spring training.",
+      "player": "Luke Adams"
+    },
+    {
+      "date": "2026-01-27",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsinvited non-roster RFGavin Crossto spring training.",
+      "player": "Gavin Cross"
+    },
+    {
+      "date": "2026-01-27",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersinvited non-roster SSCooper Prattto spring training.",
+      "player": "Cooper Pratt"
+    },
+    {
+      "date": "2026-01-27",
+      "team": "Kansas City Royals",
       "details": "Kansas City Royalsinvited non-roster COmar Hernandezto spring training.",
       "player": "Omar Hernandez"
     },
@@ -114,60 +168,6 @@
       "team": "Unknown Team",
       "details": "CJeferson Querochanged number to 15.",
       "player": "Jeferson Quero"
-    },
-    {
-      "date": "2026-01-27",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsinvited non-roster CCanyon Brownto spring training.",
-      "player": "Canyon Brown"
-    },
-    {
-      "date": "2026-01-27",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsinvited non-roster CLuca Treshto spring training.",
-      "player": "Luca Tresh"
-    },
-    {
-      "date": "2026-01-27",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsinvited non-roster LHPChazz Martinezto spring training.",
-      "player": "Chazz Martinez"
-    },
-    {
-      "date": "2026-01-27",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsinvited non-roster LHPFrank Mozzicatoto spring training.",
-      "player": "Frank Mozzicato"
-    },
-    {
-      "date": "2026-01-27",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsinvited non-roster 2BPeyton Wilsonto spring training.",
-      "player": "Peyton Wilson"
-    },
-    {
-      "date": "2026-01-27",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsinvited non-roster RHPDennis Colleranto spring training.",
-      "player": "Dennis Colleran"
-    },
-    {
-      "date": "2026-01-27",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent RHPHéctor Neristo a minor league contract and invited him to spring training.",
-      "player": "Héctor Neris"
-    },
-    {
-      "date": "2026-01-27",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersinvited non-roster CRamón Rodríguezto spring training.",
-      "player": "Ramón Rodríguez"
-    },
-    {
-      "date": "2026-01-27",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersinvited non-roster CMatthew Woodto spring training.",
-      "player": "Matthew Wood"
     },
     {
       "date": "2026-01-27",
@@ -201,6 +201,12 @@
     },
     {
       "date": "2026-01-27",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated RHPJackson Kowarfor assignment.",
+      "player": "Jackson Kowar"
+    },
+    {
+      "date": "2026-01-27",
       "team": "Unknown Team",
       "details": "LHPKody Funderburkchanged number to 57.",
       "player": "Kody Funderburk"
@@ -222,6 +228,24 @@
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersinvited non-roster LHPTate Kuehnerto spring training.",
       "player": "Tate Kuehner"
+    },
+    {
+      "date": "2026-01-27",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsclaimed RHPOsvaldo Bidooff waivers fromMiami Marlins.",
+      "player": "Osvaldo Bido"
+    },
+    {
+      "date": "2026-01-27",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstraded CJhonny PeredatoSeattle Marinersfor cash.",
+      "player": "Jhonny Pereda"
+    },
+    {
+      "date": "2026-01-27",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPAndry Laraoutright to Rochester Red Wings.",
+      "player": "Andry Lara"
     },
     {
       "date": "2026-01-27",
