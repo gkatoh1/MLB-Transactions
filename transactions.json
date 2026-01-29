@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-01-29T18:58:31.841379",
+  "last_updated": "2026-01-29T19:36:50.422771",
   "transactions": [
     {
       "date": "2026-01-29",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent RHPCraig Kimbrelto a minor league contract and invited him to spring training.",
+      "player": "Craig Kimbrel"
+    },
+    {
+      "date": "2026-01-29",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxinvited non-roster RHPMason Adamsto spring training.",
-      "player": "Mason Adams"
+      "details": "Chicago White Soxinvited non-roster CMichael Turnerto spring training.",
+      "player": "Michael Turner"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxinvited non-roster SSSam Antonaccito spring training.",
+      "player": "Sam Antonacci"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxinvited non-roster SSJacob Gonzalezto spring training.",
+      "player": "Jacob Gonzalez"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxinvited non-roster CFDru Bakerto spring training.",
+      "player": "Dru Baker"
     },
     {
       "date": "2026-01-29",
@@ -18,6 +42,12 @@
       "team": "Chicago White Sox",
       "details": "Chicago White Soxinvited non-roster OFBraden Montgomeryto spring training.",
       "player": "Braden Montgomery"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated RHPOsvaldo Bidofor assignment.",
+      "player": "Osvaldo Bido"
     },
     {
       "date": "2026-01-29",
@@ -34,8 +64,26 @@
     {
       "date": "2026-01-29",
       "team": "Chicago White Sox",
+      "details": "Chicago White Soxinvited non-roster RHPMason Adamsto spring training.",
+      "player": "Mason Adams"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Chicago White Sox",
       "details": "Chicago White Soxinvited non-roster LHPHagen Smithto spring training.",
       "player": "Hagen Smith"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxinvited non-roster 2B William Bergolla to spring training.",
+      "player": "Unknown Player"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxinvited non-roster RHPZach Franklinto spring training.",
+      "player": "Zach Franklin"
     },
     {
       "date": "2026-01-29",
@@ -75,39 +123,9 @@
     },
     {
       "date": "2026-01-29",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxinvited non-roster RHPZach Franklinto spring training.",
-      "player": "Zach Franklin"
-    },
-    {
-      "date": "2026-01-29",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxinvited non-roster CMichael Turnerto spring training.",
-      "player": "Michael Turner"
-    },
-    {
-      "date": "2026-01-29",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxinvited non-roster SSSam Antonaccito spring training.",
-      "player": "Sam Antonacci"
-    },
-    {
-      "date": "2026-01-29",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxinvited non-roster SSJacob Gonzalezto spring training.",
-      "player": "Jacob Gonzalez"
-    },
-    {
-      "date": "2026-01-29",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxinvited non-roster CFDru Bakerto spring training.",
-      "player": "Dru Baker"
-    },
-    {
-      "date": "2026-01-29",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxinvited non-roster 2B William Bergolla to spring training.",
-      "player": "Unknown Player"
+      "team": "New York Yankees",
+      "details": "New York Yankeestraded LHPJayvien SandridgetoLos Angeles Angelsfor cash.",
+      "player": "Jayvien Sandridge"
     }
   ]
 }
