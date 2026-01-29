@@ -1,11 +1,143 @@
 {
-  "last_updated": "2026-01-29T19:36:50.422771",
+  "last_updated": "2026-01-29T20:39:07.643271",
   "transactions": [
     {
       "date": "2026-01-29",
-      "team": "New York Mets",
-      "details": "New York Metssigned free agent RHPCraig Kimbrelto a minor league contract and invited him to spring training.",
-      "player": "Craig Kimbrel"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsinvited non-roster RHPZach Brzykcyto spring training.",
+      "player": "Zach Brzykcy"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxinvited non-roster LHPShane Murphyto spring training.",
+      "player": "Shane Murphy"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxinvited non-roster RHPBen Peoplesto spring training.",
+      "player": "Ben Peoples"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent RHPSeranthony Domínguez.",
+      "player": "Seranthony Domínguez"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated 3BBryan Ramosfor assignment.",
+      "player": "Bryan Ramos"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxinvited non-roster LHPHagen Smithto spring training.",
+      "player": "Hagen Smith"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsinvited non-roster LHPJustin Kingto spring training.",
+      "player": "Justin King"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsinvited non-roster LHPPatrick Monteverdeto spring training.",
+      "player": "Patrick Monteverde"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsinvited non-roster RHPNigel Belgraveto spring training.",
+      "player": "Nigel Belgrave"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxinvited non-roster RHPMason Adamsto spring training.",
+      "player": "Mason Adams"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxinvited non-roster LHPNoah Schultzto spring training.",
+      "player": "Noah Schultz"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxinvited non-roster OFBraden Montgomeryto spring training.",
+      "player": "Braden Montgomery"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated RHPOsvaldo Bidofor assignment.",
+      "player": "Osvaldo Bido"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent LHPAustin Gomberto a minor league contract and invited him to spring training.",
+      "player": "Austin Gomber"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersinvited non-roster LHPJosh Trentadueto spring training.",
+      "player": "Josh Trentadue"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersinvited non-roster RHPRyan Lobusto spring training.",
+      "player": "Ryan Lobus"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsinvited non-roster LHPDale Stanavichto spring training.",
+      "player": "Dale Stanavich"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsinvited non-roster RHPJosh Eknessto spring training.",
+      "player": "Josh Ekness"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsinvited non-roster RHPEvan McKendryto spring training.",
+      "player": "Evan McKendry"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsinvited non-roster RHPKarson Milbrandtto spring training.",
+      "player": "Karson Milbrandt"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsinvited non-roster RHPJack Ralstonto spring training.",
+      "player": "Jack Ralston"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsinvited non-roster RHPJesus Tinocoto spring training.",
+      "player": "Jesus Tinoco"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxinvited non-roster RHPZach Franklinto spring training.",
+      "player": "Zach Franklin"
     },
     {
       "date": "2026-01-29",
@@ -33,57 +165,75 @@
     },
     {
       "date": "2026-01-29",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxinvited non-roster LHPNoah Schultzto spring training.",
-      "player": "Noah Schultz"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersinvited non-roster LHPDalton Penceto spring training.",
+      "player": "Dalton Pence"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsinvited non-roster RHPSamuel Vasquezto spring training.",
+      "player": "Samuel Vasquez"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsinvited non-roster RHPTyler Zuberto spring training.",
+      "player": "Tyler Zuber"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersinvited non-roster RHPEric Loomisto spring training.",
+      "player": "Eric Loomis"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersinvited non-roster SSCameron Cauleyto spring training.",
+      "player": "Cameron Cauley"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersinvited non-roster RFTrevor Hauverto spring training.",
+      "player": "Trevor Hauver"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersinvited non-roster SSSebastian Walcottto spring training.",
+      "player": "Sebastian Walcott"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersinvited non-roster LFAaron Zavalato spring training.",
+      "player": "Aaron Zavala"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsinvited non-roster LHPThomas Whiteto spring training.",
+      "player": "Thomas White"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsinvited non-roster OFDillon Lewisto spring training.",
+      "player": "Dillon Lewis"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsinvited non-roster CFBrendan Jonesto spring training.",
+      "player": "Brendan Jones"
     },
     {
       "date": "2026-01-29",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxinvited non-roster OFBraden Montgomeryto spring training.",
-      "player": "Braden Montgomery"
-    },
-    {
-      "date": "2026-01-29",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsdesignated RHPOsvaldo Bidofor assignment.",
-      "player": "Osvaldo Bido"
-    },
-    {
-      "date": "2026-01-29",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned free agent RHPSeranthony Domínguez.",
-      "player": "Seranthony Domínguez"
-    },
-    {
-      "date": "2026-01-29",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated 3BBryan Ramosfor assignment.",
-      "player": "Bryan Ramos"
-    },
-    {
-      "date": "2026-01-29",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxinvited non-roster RHPMason Adamsto spring training.",
-      "player": "Mason Adams"
-    },
-    {
-      "date": "2026-01-29",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxinvited non-roster LHPHagen Smithto spring training.",
-      "player": "Hagen Smith"
-    },
-    {
-      "date": "2026-01-29",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxinvited non-roster 2B William Bergolla to spring training.",
-      "player": "Unknown Player"
-    },
-    {
-      "date": "2026-01-29",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxinvited non-roster RHPZach Franklinto spring training.",
-      "player": "Zach Franklin"
+      "details": "Chicago White Soxsigned free agent 1BLaMonte Wade Jr.to a minor league contract and invited him to spring training.",
+      "player": "LaMonte Wade Jr."
     },
     {
       "date": "2026-01-29",
@@ -106,20 +256,32 @@
     {
       "date": "2026-01-29",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned free agent 1BLaMonte Wade Jr.to a minor league contract and invited him to spring training.",
-      "player": "LaMonte Wade Jr."
+      "details": "Chicago White Soxinvited non-roster 2B William Bergolla to spring training.",
+      "player": "Unknown Player"
     },
     {
       "date": "2026-01-29",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxinvited non-roster LHPShane Murphyto spring training.",
-      "player": "Shane Murphy"
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent RHPCraig Kimbrelto a minor league contract and invited him to spring training.",
+      "player": "Craig Kimbrel"
     },
     {
       "date": "2026-01-29",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxinvited non-roster RHPBen Peoplesto spring training.",
-      "player": "Ben Peoples"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersinvited non-roster LHPRobby Ahlstromto spring training.",
+      "player": "Robby Ahlstrom"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsinvited non-roster LHPRobby Snellingto spring training.",
+      "player": "Robby Snelling"
+    },
+    {
+      "date": "2026-01-29",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsinvited non-roster RFKemp Aldermanto spring training.",
+      "player": "Kemp Alderman"
     },
     {
       "date": "2026-01-29",
