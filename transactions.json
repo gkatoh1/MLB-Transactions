@@ -1,4 +1,35 @@
 {
-  "last_updated": "2026-02-01T20:35:58.336371",
-  "transactions": []
+  "last_updated": "2026-02-01T21:31:05.021972",
+  "transactions": [
+    {
+      "date": "2026-02-01",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RHPJairo Iriartefor assignment.",
+      "player": "Jairo Iriarte"
+    },
+    {
+      "date": "2026-02-01",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated CDrew Romofor assignment.",
+      "player": "Drew Romo"
+    },
+    {
+      "date": "2026-02-01",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtraded RHP David Sandlin, RHPJordan Hicks, Player To Be Named Later, Player To Be Named Later and cash toChicago White Soxfor RHP Gage Ziehl and Player To Be Named Later.",
+      "player": "Jordan Hicks"
+    },
+    {
+      "date": "2026-02-01",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtraded RHPDavid Sandlin, RHP Jordan Hicks, Player To Be Named Later, Player To Be Named Later and cash toChicago White Soxfor RHP Gage Ziehl and Player To Be Named Later.",
+      "player": "David Sandlin"
+    },
+    {
+      "date": "2026-02-01",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtraded RHP David Sandlin, RHP Jordan Hicks, Player To Be Named Later, Player To Be Named Later and cash toChicago White Soxfor RHPGage Ziehland Player To Be Named Later.",
+      "player": "Gage Ziehl"
+    }
+  ]
 }
