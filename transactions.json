@@ -1,4 +1,29 @@
 {
-  "last_updated": "2026-02-02T17:48:06.686006",
-  "transactions": []
+  "last_updated": "2026-02-02T23:35:58.073834",
+  "transactions": [
+    {
+      "date": "2026-02-02",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated RHPCody Lawerysonfor assignment.",
+      "player": "Cody Laweryson"
+    },
+    {
+      "date": "2026-02-02",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssigned free agent 3BYoán Moncada.",
+      "player": "Yoán Moncada"
+    },
+    {
+      "date": "2026-02-02",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssigned free agent LHPKolby Allardto a minor league contract and invited him to spring training.",
+      "player": "Kolby Allard"
+    },
+    {
+      "date": "2026-02-02",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent OFWade Meckleroutright to Salt Lake Bees.",
+      "player": "Wade Meckler"
+    }
+  ]
 }
