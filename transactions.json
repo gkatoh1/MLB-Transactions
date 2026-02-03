@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-02-03T21:42:23.286280",
+  "last_updated": "2026-02-03T22:38:08.168034",
   "transactions": [
-    {
-      "date": "2026-02-03",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersdesignated 3BAndy Ibáñezfor assignment.",
-      "player": "Andy Ibáñez"
-    },
     {
       "date": "2026-02-03",
       "team": "Pittsburgh Pirates",
@@ -69,6 +63,12 @@
     },
     {
       "date": "2026-02-03",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated 3BAndy Ibáñezfor assignment.",
+      "player": "Andy Ibáñez"
+    },
+    {
+      "date": "2026-02-03",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redssigned free agent 3BEugenio Suárez.",
       "player": "Eugenio Suárez"
@@ -81,15 +81,27 @@
     },
     {
       "date": "2026-02-03",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsclaimed RHPJackson Kowaroff waivers fromSeattle Mariners.",
+      "player": "Jackson Kowar"
+    },
+    {
+      "date": "2026-02-03",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersclaimed CFMichael Sianioff waivers fromNew York Yankees.",
+      "player": "Michael Siani"
+    },
+    {
+      "date": "2026-02-03",
       "team": "Miami Marlins",
       "details": "Miami Marlinsclaimed RHPGarrett Actonoff waivers fromColorado Rockies.",
       "player": "Garrett Acton"
     },
     {
       "date": "2026-02-03",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsclaimed RHPJackson Kowaroff waivers fromSeattle Mariners.",
-      "player": "Jackson Kowar"
+      "team": "New York Yankees",
+      "details": "New York Yankeessent OFMarco Lucianooutright to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Marco Luciano"
     }
   ]
 }
