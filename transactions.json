@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-02-03T20:48:15.354131",
+  "last_updated": "2026-02-03T21:42:23.286280",
   "transactions": [
+    {
+      "date": "2026-02-03",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated 3BAndy Ibáñezfor assignment.",
+      "player": "Andy Ibáñez"
+    },
     {
       "date": "2026-02-03",
       "team": "Pittsburgh Pirates",
@@ -75,15 +81,15 @@
     },
     {
       "date": "2026-02-03",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsclaimed RHPJackson Kowaroff waivers fromSeattle Mariners.",
-      "player": "Jackson Kowar"
-    },
-    {
-      "date": "2026-02-03",
       "team": "Miami Marlins",
       "details": "Miami Marlinsclaimed RHPGarrett Actonoff waivers fromColorado Rockies.",
       "player": "Garrett Acton"
+    },
+    {
+      "date": "2026-02-03",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsclaimed RHPJackson Kowaroff waivers fromSeattle Mariners.",
+      "player": "Jackson Kowar"
     }
   ]
 }
