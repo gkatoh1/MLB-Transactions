@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-02-03T17:04:31.339233",
+  "last_updated": "2026-02-03T19:05:27.180997",
   "transactions": [
-    {
-      "date": "2026-02-03",
-      "team": "Pittsburgh Pirates",
-      "details": "LFMitch Jebbroster status changed byPittsburgh Pirates.",
-      "player": "Mitch Jebb"
-    },
     {
       "date": "2026-02-03",
       "team": "Pittsburgh Pirates",
@@ -60,6 +54,24 @@
       "team": "Pittsburgh Pirates",
       "details": "2BAlika Williamsroster status changed byPittsburgh Pirates.",
       "player": "Alika Williams"
+    },
+    {
+      "date": "2026-02-03",
+      "team": "Pittsburgh Pirates",
+      "details": "LFMitch Jebbroster status changed byPittsburgh Pirates.",
+      "player": "Mitch Jebb"
+    },
+    {
+      "date": "2026-02-03",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent 3BEugenio Suárez.",
+      "player": "Eugenio Suárez"
+    },
+    {
+      "date": "2026-02-03",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsdesignated CBen Rortvedtfor assignment.",
+      "player": "Ben Rortvedt"
     }
   ]
 }
