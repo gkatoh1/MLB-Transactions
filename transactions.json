@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-03T19:05:27.180997",
+  "last_updated": "2026-02-03T20:48:15.354131",
   "transactions": [
     {
       "date": "2026-02-03",
@@ -72,6 +72,18 @@
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsdesignated CBen Rortvedtfor assignment.",
       "player": "Ben Rortvedt"
+    },
+    {
+      "date": "2026-02-03",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsclaimed RHPJackson Kowaroff waivers fromSeattle Mariners.",
+      "player": "Jackson Kowar"
+    },
+    {
+      "date": "2026-02-03",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsclaimed RHPGarrett Actonoff waivers fromColorado Rockies.",
+      "player": "Garrett Acton"
     }
   ]
 }
