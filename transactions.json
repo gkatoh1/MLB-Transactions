@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T20:44:28.277242",
+  "last_updated": "2026-02-04T21:40:55.925770",
   "transactions": [
     {
       "date": "2026-02-04",
@@ -16,26 +16,32 @@
     {
       "date": "2026-02-04",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesinvited non-roster RHPCarlos Carrascoto spring training.",
-      "player": "Carlos Carrasco"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesinvited non-roster SSAlex Lodiseto spring training.",
-      "player": "Alex Lodise"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Atlanta Braves",
       "details": "Atlanta Bravesinvited non-roster SSJim Jarvisto spring training.",
       "player": "Jim Jarvis"
     },
     {
       "date": "2026-02-04",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesinvited non-roster SSLuke Waddellto spring training.",
-      "player": "Luke Waddell"
+      "details": "Atlanta Bravesinvited non-roster RHPCarlos Carrascoto spring training.",
+      "player": "Carlos Carrasco"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesinvited non-roster RHPJR Ritchieto spring training.",
+      "player": "JR Ritchie"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated LHPBryan Hudsonfor assignment.",
+      "player": "Bryan Hudson"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesinvited non-roster SSAlex Lodiseto spring training.",
+      "player": "Alex Lodise"
     },
     {
       "date": "2026-02-04",
@@ -58,8 +64,8 @@
     {
       "date": "2026-02-04",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesinvited non-roster RHPJR Ritchieto spring training.",
-      "player": "JR Ritchie"
+      "details": "Atlanta Bravesinvited non-roster SSLuke Waddellto spring training.",
+      "player": "Luke Waddell"
     },
     {
       "date": "2026-02-04",
@@ -294,12 +300,6 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesinvited non-roster CCreed Willemsto spring training.",
       "player": "Creed Willems"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesinvited non-roster SSJosé Barreroto spring training.",
-      "player": "José Barrero"
     }
   ]
 }
