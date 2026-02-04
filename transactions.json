@@ -1,23 +1,35 @@
 {
-  "last_updated": "2026-02-04T22:36:55.179807",
+  "last_updated": "2026-02-04T23:35:34.939343",
   "transactions": [
     {
       "date": "2026-02-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsinvited non-roster RHPGeorge Klassento spring training.",
+      "player": "George Klassen"
+    },
+    {
+      "date": "2026-02-04",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned free agent LHPMartín Pérezto a minor league contract and invited him to spring training.",
-      "player": "Martín Pérez"
+      "details": "Atlanta Bravesinvited non-roster RHPGarrett Baumannto spring training.",
+      "player": "Garrett Baumann"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesinvited non-roster RHPOwen Murphyto spring training.",
+      "player": "Owen Murphy"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesinvited non-roster 3BJohn Gilto spring training.",
+      "player": "John Gil"
     },
     {
       "date": "2026-02-04",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesinvited non-roster CJair Camargoto spring training.",
       "player": "Jair Camargo"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesinvited non-roster SSJim Jarvisto spring training.",
-      "player": "Jim Jarvis"
     },
     {
       "date": "2026-02-04",
@@ -58,6 +70,12 @@
     {
       "date": "2026-02-04",
       "team": "Atlanta Braves",
+      "details": "Atlanta Bravesinvited non-roster SSAlex Lodiseto spring training.",
+      "player": "Alex Lodise"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "Atlanta Braves",
       "details": "Atlanta Bravesinvited non-roster RHPCarlos Carrascoto spring training.",
       "player": "Carlos Carrasco"
     },
@@ -69,15 +87,15 @@
     },
     {
       "date": "2026-02-04",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated LHPBryan Hudsonfor assignment.",
-      "player": "Bryan Hudson"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesinvited non-roster SSLuke Waddellto spring training.",
+      "player": "Luke Waddell"
     },
     {
       "date": "2026-02-04",
       "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsinvited non-roster RHPGeorge Klassento spring training.",
-      "player": "George Klassen"
+      "details": "Los Angeles Angelsinvited non-roster COmar Martinezto spring training.",
+      "player": "Omar Martinez"
     },
     {
       "date": "2026-02-04",
@@ -90,6 +108,78 @@
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsinvited non-roster LHPAngel Perdomoto spring training.",
       "player": "Angel Perdomo"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsinvited non-roster RHPJoel Hurtadoto spring training.",
+      "player": "Joel Hurtado"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsinvited non-roster RHPNick Sandlinto spring training.",
+      "player": "Nick Sandlin"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsinvited non-roster RHPNate Sneadto spring training.",
+      "player": "Nate Snead"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsinvited non-roster RHPHuascar Ynoato spring training.",
+      "player": "Huascar Ynoa"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsinvited non-roster CMarlon Quinteroto spring training.",
+      "player": "Marlon Quintero"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsinvited non-roster CSebastián Riveroto spring training.",
+      "player": "Sebastián Rivero"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsinvited non-roster OFWade Mecklerto spring training.",
+      "player": "Wade Meckler"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsinvited non-roster CFNelson Radato spring training.",
+      "player": "Nelson Rada"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsinvited non-roster CFRaudi Rodriguezto spring training.",
+      "player": "Raudi Rodriguez"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesinvited non-roster SSJim Jarvisto spring training.",
+      "player": "Jim Jarvis"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated LHPBryan Hudsonfor assignment.",
+      "player": "Bryan Hudson"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsinvited non-roster RHPTyler Bremnerto spring training.",
+      "player": "Tyler Bremner"
     },
     {
       "date": "2026-02-04",
@@ -118,120 +208,6 @@
     {
       "date": "2026-02-04",
       "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsinvited non-roster RHPNate Sneadto spring training.",
-      "player": "Nate Snead"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsinvited non-roster RHPHuascar Ynoato spring training.",
-      "player": "Huascar Ynoa"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsinvited non-roster CMarlon Quinteroto spring training.",
-      "player": "Marlon Quintero"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsinvited non-roster OFNiko Kavadasto spring training.",
-      "player": "Niko Kavadas"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsinvited non-roster 1BTrey Mancinito spring training.",
-      "player": "Trey Mancini"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsinvited non-roster 3BYolmer Sánchezto spring training.",
-      "player": "Yolmer Sánchez"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsinvited non-roster OFGustavo Camperoto spring training.",
-      "player": "Gustavo Campero"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsinvited non-roster CFRaudi Rodriguezto spring training.",
-      "player": "Raudi Rodriguez"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesinvited non-roster SSAlex Lodiseto spring training.",
-      "player": "Alex Lodise"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesinvited non-roster RHPGarrett Baumannto spring training.",
-      "player": "Garrett Baumann"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesinvited non-roster RHPOwen Murphyto spring training.",
-      "player": "Owen Murphy"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesinvited non-roster 3BJohn Gilto spring training.",
-      "player": "John Gil"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesinvited non-roster SSLuke Waddellto spring training.",
-      "player": "Luke Waddell"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssigned free agent LHPTyler Anderson.",
-      "player": "Tyler Anderson"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Los Angeles Angels",
-      "details": "LHPTyler Andersonroster status changed byLos Angeles Angels.",
-      "player": "Tyler Anderson"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsinvited non-roster COmar Martinezto spring training.",
-      "player": "Omar Martinez"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsinvited non-roster RHPTyler Bremnerto spring training.",
-      "player": "Tyler Bremner"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsinvited non-roster RHPJoel Hurtadoto spring training.",
-      "player": "Joel Hurtado"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsinvited non-roster RHPNick Sandlinto spring training.",
-      "player": "Nick Sandlin"
-    },
-    {
-      "date": "2026-02-04",
-      "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsinvited non-roster LHPTayler Saucedoto spring training.",
       "player": "Tayler Saucedo"
     },
@@ -256,20 +232,26 @@
     {
       "date": "2026-02-04",
       "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsinvited non-roster CSebastián Riveroto spring training.",
-      "player": "Sebastián Rivero"
+      "details": "Los Angeles Angelsinvited non-roster OFNiko Kavadasto spring training.",
+      "player": "Niko Kavadas"
     },
     {
       "date": "2026-02-04",
       "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsinvited non-roster OFWade Mecklerto spring training.",
-      "player": "Wade Meckler"
+      "details": "Los Angeles Angelsinvited non-roster 1BTrey Mancinito spring training.",
+      "player": "Trey Mancini"
     },
     {
       "date": "2026-02-04",
       "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsinvited non-roster CFNelson Radato spring training.",
-      "player": "Nelson Rada"
+      "details": "Los Angeles Angelsinvited non-roster 3BYolmer Sánchezto spring training.",
+      "player": "Yolmer Sánchez"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsinvited non-roster OFGustavo Camperoto spring training.",
+      "player": "Gustavo Campero"
     },
     {
       "date": "2026-02-04",
@@ -300,6 +282,24 @@
       "team": "San Diego Padres",
       "details": "San Diego Padresinvited non-roster CRodolfo Duránto spring training.",
       "player": "Rodolfo Durán"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresinvited non-roster CEthan Salasto spring training.",
+      "player": "Ethan Salas"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresinvited non-roster CAnthony Vilarto spring training.",
+      "player": "Anthony Vilar"
+    },
+    {
+      "date": "2026-02-04",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresinvited non-roster 3BFrancisco Acunato spring training.",
+      "player": "Francisco Acuna"
     }
   ]
 }
