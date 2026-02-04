@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-02-03T23:35:56.565346",
+  "last_updated": "2026-02-04T02:43:08.066461",
   "transactions": [
-    {
-      "date": "2026-02-03",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersdesignated 3BAndy Ibáñezfor assignment.",
-      "player": "Andy Ibáñez"
-    },
     {
       "date": "2026-02-03",
       "team": "Pittsburgh Pirates",
@@ -81,9 +75,21 @@
     },
     {
       "date": "2026-02-03",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated 3BAndy Ibáñezfor assignment.",
+      "player": "Andy Ibáñez"
+    },
+    {
+      "date": "2026-02-03",
       "team": "Miami Marlins",
-      "details": "Miami Marlinsclaimed RHPGarrett Actonoff waivers fromColorado Rockies.",
-      "player": "Garrett Acton"
+      "details": "Miami Marlinsdesignated CFVictor Mesa Jr.for assignment.",
+      "player": "Victor Mesa Jr."
+    },
+    {
+      "date": "2026-02-03",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsclaimed RHPJackson Kowaroff waivers fromSeattle Mariners.",
+      "player": "Jackson Kowar"
     },
     {
       "date": "2026-02-03",
@@ -99,9 +105,9 @@
     },
     {
       "date": "2026-02-03",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsclaimed RHPJackson Kowaroff waivers fromSeattle Mariners.",
-      "player": "Jackson Kowar"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsclaimed RHPGarrett Actonoff waivers fromColorado Rockies.",
+      "player": "Garrett Acton"
     }
   ]
 }
