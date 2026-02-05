@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-02-05T19:00:47.842261",
+  "last_updated": "2026-02-05T20:42:35.809718",
   "transactions": [
     {
       "date": "2026-02-05",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratessigned free agent SSJhoendris Santosto a minor league contract.",
       "player": "Jhoendris Santos"
+    },
+    {
+      "date": "2026-02-05",
+      "team": "New York Yankees",
+      "details": "New York Yankeesdesignated SSBraden Shewmakefor assignment.",
+      "player": "Braden Shewmake"
+    },
+    {
+      "date": "2026-02-05",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsdesignated RHPGeorge Sorianofor assignment.",
+      "player": "George Soriano"
+    },
+    {
+      "date": "2026-02-05",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsclaimed LHPKen Waldichukoff waivers fromTampa Bay Rays.",
+      "player": "Ken Waldichuk"
+    },
+    {
+      "date": "2026-02-05",
+      "team": "New York Yankees",
+      "details": "New York Yankeesclaimed RHPOsvaldo Bidooff waivers fromLos Angeles Angels.",
+      "player": "Osvaldo Bido"
     }
   ]
 }
