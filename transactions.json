@@ -1,4 +1,59 @@
 {
-  "last_updated": "2026-02-06T19:01:35.724912",
-  "transactions": []
+  "last_updated": "2026-02-06T20:42:30.184066",
+  "transactions": [
+    {
+      "date": "2026-02-06",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated LHPAnthony Bandafor assignment.",
+      "player": "Anthony Banda"
+    },
+    {
+      "date": "2026-02-06",
+      "team": "Athletics",
+      "details": "Athleticsdesignated 3BMax Schuemannfor assignment.",
+      "player": "Max Schuemann"
+    },
+    {
+      "date": "2026-02-06",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated RHPKaleb Ortfor assignment.",
+      "player": "Kaleb Ort"
+    },
+    {
+      "date": "2026-02-06",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssigned free agent LHPBrent Suter.",
+      "player": "Brent Suter"
+    },
+    {
+      "date": "2026-02-06",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxclaimed SSTsung-Che Chengoff waivers fromWashington Nationals.",
+      "player": "Tsung-Che Cheng"
+    },
+    {
+      "date": "2026-02-06",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsclaimed 3BBryan Ramosoff waivers fromBaltimore Orioles.",
+      "player": "Bryan Ramos"
+    },
+    {
+      "date": "2026-02-06",
+      "team": "Athletics",
+      "details": "Athleticsclaimed 3BAndy Ibáñezoff waivers fromLos Angeles Dodgers.",
+      "player": "Andy Ibáñez"
+    },
+    {
+      "date": "2026-02-06",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersclaimed CBen Rortvedtoff waivers fromCincinnati Reds.",
+      "player": "Ben Rortvedt"
+    },
+    {
+      "date": "2026-02-06",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LFWeston Wilsonoutright to Norfolk Tides.",
+      "player": "Weston Wilson"
+    }
+  ]
 }
