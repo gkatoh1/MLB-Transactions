@@ -1,4 +1,23 @@
 {
-  "last_updated": "2026-02-07T15:33:07.744849",
-  "transactions": []
+  "last_updated": "2026-02-07T16:40:27.020734",
+  "transactions": [
+    {
+      "date": "2026-02-07",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssigned free agent LHPJosh Flemingto a minor league contract and invited him to spring training.",
+      "player": "Josh Fleming"
+    },
+    {
+      "date": "2026-02-07",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysinvited non-roster RHPNate Garkowto spring training.",
+      "player": "Nate Garkow"
+    },
+    {
+      "date": "2026-02-07",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysinvited non-roster RHPTanner Andrewsto spring training.",
+      "player": "Tanner Andrews"
+    }
+  ]
 }
