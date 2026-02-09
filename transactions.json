@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-02-09T21:48:54.290074",
+  "last_updated": "2026-02-09T22:47:50.843608",
   "transactions": [
     {
       "date": "2026-02-09",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinsinvited non-roster CFWalker Jenkinsto spring training.",
-      "player": "Walker Jenkins"
+      "details": "Minnesota Twinsinvited non-roster RHPCory Lewisto spring training.",
+      "player": "Cory Lewis"
+    },
+    {
+      "date": "2026-02-09",
+      "team": "Unknown Team",
+      "details": "RHPJustin Hagenmanchanged number to 47.",
+      "player": "Justin Hagenman"
     },
     {
       "date": "2026-02-09",
@@ -45,21 +51,27 @@
     },
     {
       "date": "2026-02-09",
-      "team": "New York Mets",
-      "details": "New York Metsinvited non-roster CKevin Paradato spring training.",
-      "player": "Kevin Parada"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsinvited non-roster LHPChristian MacLeodto spring training.",
+      "player": "Christian MacLeod"
     },
     {
       "date": "2026-02-09",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinsinvited non-roster CNoah Cardenasto spring training.",
-      "player": "Noah Cardenas"
+      "details": "Minnesota Twinsinvited non-roster CAndrew Cossettito spring training.",
+      "player": "Andrew Cossetti"
+    },
+    {
+      "date": "2026-02-09",
+      "team": "Unknown Team",
+      "details": "RHPRiley Corneliochanged number to 74.",
+      "player": "Riley Cornelio"
     },
     {
       "date": "2026-02-09",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsinvited non-roster RHPConnor Schultzto spring training.",
-      "player": "Connor Schultz"
+      "details": "Chicago Cubsinvited non-roster RHPJaxon Wigginsto spring training.",
+      "player": "Jaxon Wiggins"
     },
     {
       "date": "2026-02-09",
@@ -81,15 +93,27 @@
     },
     {
       "date": "2026-02-09",
-      "team": "Unknown Team",
-      "details": "RHPBubba Chandlerchanged number to 36.",
-      "player": "Bubba Chandler"
+      "team": "New York Mets",
+      "details": "New York Metsinvited non-roster LHPBrandon Waddellto spring training.",
+      "player": "Brandon Waddell"
     },
     {
       "date": "2026-02-09",
       "team": "Unknown Team",
-      "details": "RHPJack Leiterchanged number to 22.",
-      "player": "Jack Leiter"
+      "details": "CHayden Sengerchanged number to 6.",
+      "player": "Hayden Senger"
+    },
+    {
+      "date": "2026-02-09",
+      "team": "Unknown Team",
+      "details": "RHPTylor Megillchanged number to 58.",
+      "player": "Tylor Megill"
+    },
+    {
+      "date": "2026-02-09",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsinvited non-roster RHPGrant Kippto spring training.",
+      "player": "Grant Kipp"
     },
     {
       "date": "2026-02-09",
@@ -99,57 +123,39 @@
     },
     {
       "date": "2026-02-09",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsinvited non-roster CFWalker Jenkinsto spring training.",
+      "player": "Walker Jenkins"
+    },
+    {
+      "date": "2026-02-09",
       "team": "New York Mets",
-      "details": "New York Metsinvited non-roster LHPBrandon Waddellto spring training.",
-      "player": "Brandon Waddell"
+      "details": "New York Metsinvited non-roster RHPJack Wenningerto spring training.",
+      "player": "Jack Wenninger"
     },
     {
       "date": "2026-02-09",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinsinvited non-roster RHPCory Lewisto spring training.",
-      "player": "Cory Lewis"
+      "details": "Minnesota Twinsinvited non-roster 1BAaron Sabatoto spring training.",
+      "player": "Aaron Sabato"
     },
     {
       "date": "2026-02-09",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesinvited non-roster RHPKhristian Curtisto spring training.",
-      "player": "Khristian Curtis"
+      "team": "New York Yankees",
+      "details": "New York Yankeesdesignated RFYanquiel Fernándezfor assignment.",
+      "player": "Yanquiel Fernández"
     },
     {
       "date": "2026-02-09",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsinvited non-roster LHPChristian MacLeodto spring training.",
-      "player": "Christian MacLeod"
+      "team": "New York Mets",
+      "details": "New York Metsinvited non-roster OFCarson Bengeto spring training.",
+      "player": "Carson Benge"
     },
     {
       "date": "2026-02-09",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsinvited non-roster CAndrew Cossettito spring training.",
-      "player": "Andrew Cossetti"
-    },
-    {
-      "date": "2026-02-09",
-      "team": "Unknown Team",
-      "details": "RHPRiley Corneliochanged number to 74.",
-      "player": "Riley Cornelio"
-    },
-    {
-      "date": "2026-02-09",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsinvited non-roster RHPMatt Canterinoto spring training.",
-      "player": "Matt Canterino"
-    },
-    {
-      "date": "2026-02-09",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsinvited non-roster SSKaelen Culpepperto spring training.",
-      "player": "Kaelen Culpepper"
-    },
-    {
-      "date": "2026-02-09",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsinvited non-roster LFKyler Fedkoto spring training.",
-      "player": "Kyler Fedko"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned free agent 2BBrendan Rodgersto a minor league contract and invited him to spring training.",
+      "player": "Brendan Rodgers"
     },
     {
       "date": "2026-02-09",
@@ -180,12 +186,6 @@
       "team": "Unknown Team",
       "details": "RHPDylan Rosschanged number to 66.",
       "player": "Dylan Ross"
-    },
-    {
-      "date": "2026-02-09",
-      "team": "Los Angeles Angels",
-      "details": "RHPKaleb Ortroster status changed byLos Angeles Angels.",
-      "player": "Kaleb Ort"
     },
     {
       "date": "2026-02-09",
@@ -244,8 +244,26 @@
     {
       "date": "2026-02-09",
       "team": "Unknown Team",
-      "details": "RHPJustin Hagenmanchanged number to 47.",
-      "player": "Justin Hagenman"
+      "details": "RHPBubba Chandlerchanged number to 36.",
+      "player": "Bubba Chandler"
+    },
+    {
+      "date": "2026-02-09",
+      "team": "New York Mets",
+      "details": "New York Metsinvited non-roster CKevin Paradato spring training.",
+      "player": "Kevin Parada"
+    },
+    {
+      "date": "2026-02-09",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsinvited non-roster CNoah Cardenasto spring training.",
+      "player": "Noah Cardenas"
+    },
+    {
+      "date": "2026-02-09",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesinvited non-roster RHPKhristian Curtisto spring training.",
+      "player": "Khristian Curtis"
     },
     {
       "date": "2026-02-09",
@@ -255,45 +273,27 @@
     },
     {
       "date": "2026-02-09",
-      "team": "New York Mets",
-      "details": "New York Metsinvited non-roster RHPJack Wenningerto spring training.",
-      "player": "Jack Wenninger"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsinvited non-roster RHPMatt Canterinoto spring training.",
+      "player": "Matt Canterino"
     },
     {
       "date": "2026-02-09",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinsinvited non-roster 1BAaron Sabatoto spring training.",
-      "player": "Aaron Sabato"
+      "details": "Minnesota Twinsinvited non-roster SSKaelen Culpepperto spring training.",
+      "player": "Kaelen Culpepper"
     },
     {
       "date": "2026-02-09",
-      "team": "New York Yankees",
-      "details": "New York Yankeesdesignated RFYanquiel Fernándezfor assignment.",
-      "player": "Yanquiel Fernández"
-    },
-    {
-      "date": "2026-02-09",
-      "team": "New York Mets",
-      "details": "New York Metsinvited non-roster OFCarson Bengeto spring training.",
-      "player": "Carson Benge"
-    },
-    {
-      "date": "2026-02-09",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsigned free agent 2BBrendan Rodgersto a minor league contract and invited him to spring training.",
-      "player": "Brendan Rodgers"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsinvited non-roster LFKyler Fedkoto spring training.",
+      "player": "Kyler Fedko"
     },
     {
       "date": "2026-02-09",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsinvited non-roster 3BBJ Murrayto spring training.",
       "player": "BJ Murray"
-    },
-    {
-      "date": "2026-02-09",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsinvited non-roster RHPJaxon Wigginsto spring training.",
-      "player": "Jaxon Wiggins"
     },
     {
       "date": "2026-02-09",
