@@ -1,4 +1,23 @@
 {
-  "last_updated": "2026-02-09T13:26:29.791518",
-  "transactions": []
+  "last_updated": "2026-02-09T15:00:28.869590",
+  "transactions": [
+    {
+      "date": "2026-02-09",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesinvited non-roster RHPKhristian Curtisto spring training.",
+      "player": "Khristian Curtis"
+    },
+    {
+      "date": "2026-02-09",
+      "team": "Unknown Team",
+      "details": "RHPBubba Chandlerchanged number to 36.",
+      "player": "Bubba Chandler"
+    },
+    {
+      "date": "2026-02-09",
+      "team": "Unknown Team",
+      "details": "RHPJared Joneschanged number to 17.",
+      "player": "Jared Jones"
+    }
+  ]
 }
