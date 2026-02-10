@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-02-10T17:12:08.362420",
+  "last_updated": "2026-02-10T19:17:28.072243",
   "transactions": [
+    {
+      "date": "2026-02-10",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced LHPAndrew Saalfrankon the 60-day injured list. Left labrum repair surgery.",
+      "player": "Andrew Saalfrank"
+    },
+    {
+      "date": "2026-02-10",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced DHKris Bryanton the 60-day injured list. Lumbar degenerative disk disease.",
+      "player": "Kris Bryant"
+    },
+    {
+      "date": "2026-02-10",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced RHPTanner Houckon the 60-day injured list.",
+      "player": "Tanner Houck"
+    },
+    {
+      "date": "2026-02-10",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned free agent 1BCarlos Santana.",
+      "player": "Carlos Santana"
+    },
+    {
+      "date": "2026-02-10",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssigned free agent IFLuis Arraez.",
+      "player": "Luis Arraez"
+    },
     {
       "date": "2026-02-10",
       "team": "Boston Red Sox",
@@ -9,9 +39,15 @@
     },
     {
       "date": "2026-02-10",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced RHPTanner Houckon the 60-day injured list.",
-      "player": "Tanner Houck"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent RHPJustin Verlander.",
+      "player": "Justin Verlander"
+    },
+    {
+      "date": "2026-02-10",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessigned free agent RHPTomoyuki Sugano.",
+      "player": "Tomoyuki Sugano"
     }
   ]
 }
