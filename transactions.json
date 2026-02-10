@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-02-10T21:52:04.298207",
+  "last_updated": "2026-02-10T22:51:15.230749",
   "transactions": [
+    {
+      "date": "2026-02-10",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent RHPErick Fedde.",
+      "player": "Erick Fedde"
+    },
     {
       "date": "2026-02-10",
       "team": "Arizona Diamondbacks",
@@ -15,15 +21,27 @@
     },
     {
       "date": "2026-02-10",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced RHPTanner Houckon the 60-day injured list.",
+      "player": "Tanner Houck"
+    },
+    {
+      "date": "2026-02-10",
       "team": "Washington Nationals",
       "details": "Washington Nationalsplaced RHPTrevor Williamson the 60-day injured list.",
       "player": "Trevor Williams"
     },
     {
       "date": "2026-02-10",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessigned free agent RHPTomoyuki Sugano.",
-      "player": "Tomoyuki Sugano"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced LHPKy Bushon the 60-day injured list.",
+      "player": "Ky Bush"
+    },
+    {
+      "date": "2026-02-10",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned free agent 1BCarlos Santana.",
+      "player": "Carlos Santana"
     },
     {
       "date": "2026-02-10",
@@ -39,21 +57,15 @@
     },
     {
       "date": "2026-02-10",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessigned free agent RHPTomoyuki Sugano.",
+      "player": "Tomoyuki Sugano"
+    },
+    {
+      "date": "2026-02-10",
       "team": "Detroit Tigers",
       "details": "Detroit Tigerssigned free agent RHPJustin Verlander.",
       "player": "Justin Verlander"
-    },
-    {
-      "date": "2026-02-10",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced RHPTanner Houckon the 60-day injured list.",
-      "player": "Tanner Houck"
-    },
-    {
-      "date": "2026-02-10",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssigned free agent 1BCarlos Santana.",
-      "player": "Carlos Santana"
     },
     {
       "date": "2026-02-10",
