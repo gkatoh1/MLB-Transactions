@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10T19:17:28.072243",
+  "last_updated": "2026-02-10T20:54:34.274449",
   "transactions": [
     {
       "date": "2026-02-10",
@@ -15,30 +15,6 @@
     },
     {
       "date": "2026-02-10",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced RHPTanner Houckon the 60-day injured list.",
-      "player": "Tanner Houck"
-    },
-    {
-      "date": "2026-02-10",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssigned free agent 1BCarlos Santana.",
-      "player": "Carlos Santana"
-    },
-    {
-      "date": "2026-02-10",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned free agent IFLuis Arraez.",
-      "player": "Luis Arraez"
-    },
-    {
-      "date": "2026-02-10",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsigned free agent SSIsiah Kiner-Falefa.",
-      "player": "Isiah Kiner-Falefa"
-    },
-    {
-      "date": "2026-02-10",
       "team": "Detroit Tigers",
       "details": "Detroit Tigerssigned free agent RHPJustin Verlander.",
       "player": "Justin Verlander"
@@ -48,6 +24,54 @@
       "team": "Colorado Rockies",
       "details": "Colorado Rockiessigned free agent RHPTomoyuki Sugano.",
       "player": "Tomoyuki Sugano"
+    },
+    {
+      "date": "2026-02-10",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced RHPTanner Houckon the 60-day injured list.",
+      "player": "Tanner Houck"
+    },
+    {
+      "date": "2026-02-10",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced RHPTrevor Williamson the 60-day injured list.",
+      "player": "Trevor Williams"
+    },
+    {
+      "date": "2026-02-10",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned free agent 1BCarlos Santana.",
+      "player": "Carlos Santana"
+    },
+    {
+      "date": "2026-02-10",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned free agent SSIsiah Kiner-Falefa.",
+      "player": "Isiah Kiner-Falefa"
+    },
+    {
+      "date": "2026-02-10",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssigned free agent RHPJack Cushingto a minor league contract.",
+      "player": "Jack Cushing"
+    },
+    {
+      "date": "2026-02-10",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssigned free agent IFLuis Arraez.",
+      "player": "Luis Arraez"
+    },
+    {
+      "date": "2026-02-10",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded RHP George Soriano toSt. Louis Cardinalsfor RHPAndre Granillo.",
+      "player": "Andre Granillo"
+    },
+    {
+      "date": "2026-02-10",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded RHPGeorge SorianotoSt. Louis Cardinalsfor RHP Andre Granillo.",
+      "player": "George Soriano"
     }
   ]
 }
