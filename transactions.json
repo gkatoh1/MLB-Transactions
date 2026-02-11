@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-02-11T22:38:06.745886",
+  "last_updated": "2026-02-11T23:40:07.519690",
   "transactions": [
-    {
-      "date": "2026-02-11",
-      "team": "Unknown Team",
-      "details": "RFJack Suwinskichanged number to 18.",
-      "player": "Jack Suwinski"
-    },
-    {
-      "date": "2026-02-11",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressigned free agent LFMiguel Andujar.",
-      "player": "Miguel Andujar"
-    },
-    {
-      "date": "2026-02-11",
-      "team": "Unknown Team",
-      "details": "CFDrew Gilbertchanged number to 0.",
-      "player": "Drew Gilbert"
-    },
-    {
-      "date": "2026-02-11",
-      "team": "Unknown Team",
-      "details": "RHPDidier Fuenteschanged number to 72.",
-      "player": "Didier Fuentes"
-    },
-    {
-      "date": "2026-02-11",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsinvited non-roster RHPEli Morganto spring training.",
-      "player": "Eli Morgan"
-    },
     {
       "date": "2026-02-11",
       "team": "Los Angeles Dodgers",
@@ -51,9 +21,51 @@
     },
     {
       "date": "2026-02-11",
+      "team": "Unknown Team",
+      "details": "RHPDidier Fuenteschanged number to 72.",
+      "player": "Didier Fuentes"
+    },
+    {
+      "date": "2026-02-11",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsinvited non-roster RHPEli Morganto spring training.",
+      "player": "Eli Morgan"
+    },
+    {
+      "date": "2026-02-11",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersdesignated CBen Rortvedtfor assignment.",
       "player": "Ben Rortvedt"
+    },
+    {
+      "date": "2026-02-11",
+      "team": "Unknown Team",
+      "details": "RFJack Suwinskichanged number to 18.",
+      "player": "Jack Suwinski"
+    },
+    {
+      "date": "2026-02-11",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent LFMiguel Andujar.",
+      "player": "Miguel Andujar"
+    },
+    {
+      "date": "2026-02-11",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned free agent RHPMiles Mikolas.",
+      "player": "Miles Mikolas"
+    },
+    {
+      "date": "2026-02-11",
+      "team": "Unknown Team",
+      "details": "CFDrew Gilbertchanged number to 0.",
+      "player": "Drew Gilbert"
+    },
+    {
+      "date": "2026-02-11",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced LHPDJ Herzon the 60-day injured list.",
+      "player": "DJ Herz"
     }
   ]
 }
