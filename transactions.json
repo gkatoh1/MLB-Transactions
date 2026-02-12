@@ -1,35 +1,17 @@
 {
-  "last_updated": "2026-02-12T21:41:05.684262",
+  "last_updated": "2026-02-12T22:39:25.825432",
   "transactions": [
     {
       "date": "2026-02-12",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced RHPAlec Marshon the 60-day injured list. Right shoulder impingement.",
-      "player": "Alec Marsh"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessigned free agent LHPJose Quintana.",
+      "player": "Jose Quintana"
     },
     {
       "date": "2026-02-12",
       "team": "Athletics",
       "details": "Athleticsinvited non-roster RHPA.J. Causeyto spring training.",
       "player": "A.J. Causey"
-    },
-    {
-      "date": "2026-02-12",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersinvited non-roster RHPTroy Watsonto spring training.",
-      "player": "Troy Watson"
-    },
-    {
-      "date": "2026-02-12",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssigned free agent RHPYanixan Resendizto a minor league contract.",
-      "player": "Yanixan Resendiz"
-    },
-    {
-      "date": "2026-02-12",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssigned free agent RHPLiam Hendriksto a minor league contract and invited him to spring training.",
-      "player": "Liam Hendriks"
     },
     {
       "date": "2026-02-12",
@@ -63,75 +45,15 @@
     },
     {
       "date": "2026-02-12",
-      "team": "Unknown Team",
-      "details": "3BMax Muncychanged number to 3.",
-      "player": "Max Muncy"
-    },
-    {
-      "date": "2026-02-12",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersinvited non-roster RHPTyler Owensto spring training.",
-      "player": "Tyler Owens"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssigned free agent CFrancisco Del Campoto a minor league contract.",
+      "player": "Francisco Del Campo"
     },
     {
       "date": "2026-02-12",
       "team": "Unknown Team",
       "details": "RHPLuis Moraleschanged number to 19.",
       "player": "Luis Morales"
-    },
-    {
-      "date": "2026-02-12",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersinvited non-roster SSKevin McGonigleto spring training.",
-      "player": "Kevin McGonigle"
-    },
-    {
-      "date": "2026-02-12",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersinvited non-roster CJosue Briceñoto spring training.",
-      "player": "Josue Briceño"
-    },
-    {
-      "date": "2026-02-12",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersinvited non-roster CFBen Malgerito spring training.",
-      "player": "Ben Malgeri"
-    },
-    {
-      "date": "2026-02-12",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersinvited non-roster CFMax Clarkto spring training.",
-      "player": "Max Clark"
-    },
-    {
-      "date": "2026-02-12",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssigned free agent RHPJulian Merryweatherto a minor league contract and invited him to spring training.",
-      "player": "Julian Merryweather"
-    },
-    {
-      "date": "2026-02-12",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersinvited non-roster RHPMatt Seelingerto spring training.",
-      "player": "Matt Seelinger"
-    },
-    {
-      "date": "2026-02-12",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersinvited non-roster SSJohn Peckto spring training.",
-      "player": "John Peck"
-    },
-    {
-      "date": "2026-02-12",
-      "team": "New York Mets",
-      "details": "New York Metssigned free agent LFMJ Melendez.",
-      "player": "MJ Melendez"
-    },
-    {
-      "date": "2026-02-12",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssigned free agent CFrancisco Del Campoto a minor league contract.",
-      "player": "Francisco Del Campo"
     },
     {
       "date": "2026-02-12",
@@ -153,9 +75,117 @@
     },
     {
       "date": "2026-02-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersinvited non-roster CFMax Clarkto spring training.",
+      "player": "Max Clark"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPJulian Merryweatherto a minor league contract and invited him to spring training.",
+      "player": "Julian Merryweather"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersinvited non-roster RHPTroy Watsonto spring training.",
+      "player": "Troy Watson"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersinvited non-roster RHPMatt Seelingerto spring training.",
+      "player": "Matt Seelinger"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssigned free agent RHPYanixan Resendizto a minor league contract.",
+      "player": "Yanixan Resendiz"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersinvited non-roster SSJohn Peckto spring training.",
+      "player": "John Peck"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent LFMJ Melendez.",
+      "player": "MJ Melendez"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPLiam Hendriksto a minor league contract and invited him to spring training.",
+      "player": "Liam Hendriks"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Unknown Team",
+      "details": "3BMax Muncychanged number to 3.",
+      "player": "Max Muncy"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersinvited non-roster RHPTyler Owensto spring training.",
+      "player": "Tyler Owens"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssigned free agent RHPChris Paddack.",
+      "player": "Chris Paddack"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersinvited non-roster SSKevin McGonigleto spring training.",
+      "player": "Kevin McGonigle"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersinvited non-roster CJosue Briceñoto spring training.",
+      "player": "Josue Briceño"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersinvited non-roster CFBen Malgerito spring training.",
+      "player": "Ben Malgeri"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPJeff Criswellon the 60-day injured list.",
+      "player": "Jeff Criswell"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent OFAdam Fogelto a minor league contract.",
+      "player": "Adam Fogel"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced RHPRonny Henriquezon the 60-day injured list. Right Elbow Surgery.",
+      "player": "Ronny Henriquez"
+    },
+    {
+      "date": "2026-02-12",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliessigned free agent RHPFrancisco Mercedesto a minor league contract.",
       "player": "Francisco Mercedes"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPAlec Marshon the 60-day injured list. Right shoulder impingement.",
+      "player": "Alec Marsh"
     },
     {
       "date": "2026-02-12",
