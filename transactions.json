@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-02-12T17:59:06.063868",
+  "last_updated": "2026-02-12T19:16:37.011214",
   "transactions": [
+    {
+      "date": "2026-02-12",
+      "team": "Athletics",
+      "details": "Athleticsinvited non-roster RHPA.J. Causeyto spring training.",
+      "player": "A.J. Causey"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersinvited non-roster CTomás Nidoto spring training.",
+      "player": "Tomás Nido"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersinvited non-roster RHPMatt Seelingerto spring training.",
+      "player": "Matt Seelinger"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent RHPLuis Encarnacionto a minor league contract.",
+      "player": "Luis Encarnacion"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersinvited non-roster SSJohn Peckto spring training.",
+      "player": "John Peck"
+    },
     {
       "date": "2026-02-12",
       "team": "Detroit Tigers",
@@ -9,9 +39,51 @@
     },
     {
       "date": "2026-02-12",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssigned free agent RHPLuis Encarnacionto a minor league contract.",
-      "player": "Luis Encarnacion"
+      "team": "Unknown Team",
+      "details": "3BMax Muncychanged number to 3.",
+      "player": "Max Muncy"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersinvited non-roster RHPTyler Owensto spring training.",
+      "player": "Tyler Owens"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssigned free agent CFrancisco Del Campoto a minor league contract.",
+      "player": "Francisco Del Campo"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersinvited non-roster RHPRicky Vanascoto spring training.",
+      "player": "Ricky Vanasco"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersinvited non-roster CJosue Briceñoto spring training.",
+      "player": "Josue Briceño"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersinvited non-roster CFBen Malgerito spring training.",
+      "player": "Ben Malgeri"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersinvited non-roster CFMax Clarkto spring training.",
+      "player": "Max Clark"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersinvited non-roster RHPTroy Watsonto spring training.",
+      "player": "Troy Watson"
     },
     {
       "date": "2026-02-12",
@@ -22,26 +94,44 @@
     {
       "date": "2026-02-12",
       "team": "Unknown Team",
-      "details": "3BMax Muncychanged number to 3.",
-      "player": "Max Muncy"
-    },
-    {
-      "date": "2026-02-12",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssigned free agent CFrancisco Del Campoto a minor league contract.",
-      "player": "Francisco Del Campo"
-    },
-    {
-      "date": "2026-02-12",
-      "team": "Unknown Team",
       "details": "RHPLuis Moraleschanged number to 19.",
       "player": "Luis Morales"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersinvited non-roster SSKevin McGonigleto spring training.",
+      "player": "Kevin McGonigle"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersinvited non-roster 2BMax Andersonto spring training.",
+      "player": "Max Anderson"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssigned free agent 1BEnrique Hernández.",
+      "player": "Enrique Hernández"
     },
     {
       "date": "2026-02-12",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliessigned free agent RHPFrancisco Mercedesto a minor league contract.",
       "player": "Francisco Mercedes"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Athletics",
+      "details": "Athleticstraded RHPMitch SpencetoKansas City Royalsfor RHP A.J. Causey.",
+      "player": "Mitch Spence"
+    },
+    {
+      "date": "2026-02-12",
+      "team": "Athletics",
+      "details": "Athleticstraded RHP Mitch Spence toKansas City Royalsfor RHPA.J. Causey.",
+      "player": "A.J. Causey"
     }
   ]
 }
