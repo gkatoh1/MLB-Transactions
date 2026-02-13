@@ -1,17 +1,35 @@
 {
-  "last_updated": "2026-02-13T21:44:31.053476",
+  "last_updated": "2026-02-13T22:41:09.369436",
   "transactions": [
     {
       "date": "2026-02-13",
+      "team": "Unknown Team",
+      "details": "SSDenzer Guzmanchanged number to 23.",
+      "player": "Denzer Guzman"
+    },
+    {
+      "date": "2026-02-13",
       "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned free agent RHPRowan Wick.",
-      "player": "Rowan Wick"
+      "details": "San Francisco Giantsplaced RHPJason Foleyon the 60-day injured list.",
+      "player": "Jason Foley"
+    },
+    {
+      "date": "2026-02-13",
+      "team": "Unknown Team",
+      "details": "CFMichael Helmanchanged number to 23.",
+      "player": "Michael Helman"
     },
     {
       "date": "2026-02-13",
       "team": "Texas Rangers",
       "details": "Texas Rangerssigned free agent LHPJordan Montgomery.",
       "player": "Jordan Montgomery"
+    },
+    {
+      "date": "2026-02-13",
+      "team": "Unknown Team",
+      "details": "3BOswald Perazachanged number to 17.",
+      "player": "Oswald Peraza"
     },
     {
       "date": "2026-02-13",
@@ -27,9 +45,15 @@
     },
     {
       "date": "2026-02-13",
+      "team": "Unknown Team",
+      "details": "RHPJosé Ferminchanged number to 65.",
+      "player": "José Fermin"
+    },
+    {
+      "date": "2026-02-13",
       "team": "San Francisco Giants",
-      "details": "San Francisco Giantsplaced RHPJason Foleyon the 60-day injured list.",
-      "player": "Jason Foley"
+      "details": "San Francisco Giantssigned free agent RHPRowan Wick.",
+      "player": "Rowan Wick"
     },
     {
       "date": "2026-02-13",
@@ -46,14 +70,14 @@
     {
       "date": "2026-02-13",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaystraded LFJoey LoperfidotoHouston Astrosfor RF Jesús Sánchez.",
-      "player": "Joey Loperfido"
+      "details": "Toronto Blue Jaystraded LF Joey Loperfido toHouston Astrosfor RFJesús Sánchez.",
+      "player": "Jesús Sánchez"
     },
     {
       "date": "2026-02-13",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaystraded LF Joey Loperfido toHouston Astrosfor RFJesús Sánchez.",
-      "player": "Jesús Sánchez"
+      "details": "Toronto Blue Jaystraded LFJoey LoperfidotoHouston Astrosfor RF Jesús Sánchez.",
+      "player": "Joey Loperfido"
     }
   ]
 }
