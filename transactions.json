@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-02-13T17:49:13.701566",
+  "last_updated": "2026-02-13T19:01:34.075759",
   "transactions": [
-    {
-      "date": "2026-02-13",
-      "team": "New York Yankees",
-      "details": "New York Yankeessigned free agent RHPRafael Monteroto a minor league contract and invited him to spring training.",
-      "player": "Rafael Montero"
-    },
     {
       "date": "2026-02-13",
       "team": "Miami Marlins",
@@ -15,15 +9,21 @@
     },
     {
       "date": "2026-02-13",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaystraded LFJoey LoperfidotoHouston Astrosfor RF Jesús Sánchez.",
-      "player": "Joey Loperfido"
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned free agent RHPRafael Monteroto a minor league contract and invited him to spring training.",
+      "player": "Rafael Montero"
     },
     {
       "date": "2026-02-13",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaystraded LF Joey Loperfido toHouston Astrosfor RFJesús Sánchez.",
       "player": "Jesús Sánchez"
+    },
+    {
+      "date": "2026-02-13",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystraded LFJoey LoperfidotoHouston Astrosfor RF Jesús Sánchez.",
+      "player": "Joey Loperfido"
     }
   ]
 }
