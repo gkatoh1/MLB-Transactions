@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-02-13T22:41:09.369436",
+  "last_updated": "2026-02-13T23:37:52.636693",
   "transactions": [
     {
       "date": "2026-02-13",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssigned free agent RHPRowan Wick.",
+      "player": "Rowan Wick"
+    },
+    {
+      "date": "2026-02-13",
       "team": "Unknown Team",
-      "details": "SSDenzer Guzmanchanged number to 23.",
-      "player": "Denzer Guzman"
+      "details": "3BOswald Perazachanged number to 17.",
+      "player": "Oswald Peraza"
     },
     {
       "date": "2026-02-13",
       "team": "San Francisco Giants",
-      "details": "San Francisco Giantsplaced RHPJason Foleyon the 60-day injured list.",
+      "details": "San Francisco Giantsplaced RHPJason Foleyon the 60-day injured list. Recovery from right shoulder surgery.",
       "player": "Jason Foley"
-    },
-    {
-      "date": "2026-02-13",
-      "team": "Unknown Team",
-      "details": "CFMichael Helmanchanged number to 23.",
-      "player": "Michael Helman"
     },
     {
       "date": "2026-02-13",
@@ -28,32 +28,14 @@
     {
       "date": "2026-02-13",
       "team": "Unknown Team",
-      "details": "3BOswald Perazachanged number to 17.",
-      "player": "Oswald Peraza"
-    },
-    {
-      "date": "2026-02-13",
-      "team": "New York Yankees",
-      "details": "New York Yankeessigned free agent RHPRafael Monteroto a minor league contract and invited him to spring training.",
-      "player": "Rafael Montero"
-    },
-    {
-      "date": "2026-02-13",
-      "team": "Unknown Team",
-      "details": "1BCurtis Meadchanged number to 17.",
-      "player": "Curtis Mead"
-    },
-    {
-      "date": "2026-02-13",
-      "team": "Unknown Team",
       "details": "RHPJosé Ferminchanged number to 65.",
       "player": "José Fermin"
     },
     {
       "date": "2026-02-13",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned free agent RHPRowan Wick.",
-      "player": "Rowan Wick"
+      "team": "Unknown Team",
+      "details": "SSDenzer Guzmanchanged number to 23.",
+      "player": "Denzer Guzman"
     },
     {
       "date": "2026-02-13",
@@ -69,15 +51,45 @@
     },
     {
       "date": "2026-02-13",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaystraded LF Joey Loperfido toHouston Astrosfor RFJesús Sánchez.",
-      "player": "Jesús Sánchez"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent LHPJohn Meansto a minor league contract.",
+      "player": "John Means"
+    },
+    {
+      "date": "2026-02-13",
+      "team": "Unknown Team",
+      "details": "CFMichael Helmanchanged number to 23.",
+      "player": "Michael Helman"
+    },
+    {
+      "date": "2026-02-13",
+      "team": "Kansas City Royals",
+      "details": "LHPJohn Meansroster status changed byKansas City Royals.",
+      "player": "John Means"
+    },
+    {
+      "date": "2026-02-13",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned free agent RHPRafael Monteroto a minor league contract and invited him to spring training.",
+      "player": "Rafael Montero"
+    },
+    {
+      "date": "2026-02-13",
+      "team": "Unknown Team",
+      "details": "1BCurtis Meadchanged number to 17.",
+      "player": "Curtis Mead"
     },
     {
       "date": "2026-02-13",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaystraded LFJoey LoperfidotoHouston Astrosfor RF Jesús Sánchez.",
       "player": "Joey Loperfido"
+    },
+    {
+      "date": "2026-02-13",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystraded LF Joey Loperfido toHouston Astrosfor RFJesús Sánchez.",
+      "player": "Jesús Sánchez"
     }
   ]
 }
