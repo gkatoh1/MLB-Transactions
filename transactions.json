@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-02-13T13:18:44.336728",
+  "last_updated": "2026-02-13T14:50:53.844621",
   "transactions": [
     {
       "date": "2026-02-13",
       "team": "Miami Marlins",
       "details": "Miami Marlinssigned free agent LHPJohn King.",
       "player": "John King"
+    },
+    {
+      "date": "2026-02-13",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystraded LFJoey LoperfidotoHouston Astrosfor RF Jesús Sánchez.",
+      "player": "Joey Loperfido"
+    },
+    {
+      "date": "2026-02-13",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystraded LF Joey Loperfido toHouston Astrosfor RFJesús Sánchez.",
+      "player": "Jesús Sánchez"
     }
   ]
 }
