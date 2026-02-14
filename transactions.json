@@ -1,23 +1,11 @@
 {
-  "last_updated": "2026-02-14T22:32:38.791663",
+  "last_updated": "2026-02-14T23:32:43.751429",
   "transactions": [
     {
       "date": "2026-02-14",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssigned free agent 1BNathaniel Loweto a minor league contract and invited him to spring training.",
-      "player": "Nathaniel Lowe"
-    },
-    {
-      "date": "2026-02-14",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssigned free agent CGary Sánchez.",
-      "player": "Gary Sánchez"
-    },
-    {
-      "date": "2026-02-14",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssigned free agent RHPPaul Sewald.",
-      "player": "Paul Sewald"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPCody Lawerysonto a minor league contract and invited him to spring training.",
+      "player": "Cody Laweryson"
     },
     {
       "date": "2026-02-14",
@@ -33,9 +21,57 @@
     },
     {
       "date": "2026-02-14",
+      "team": "Minnesota Twins",
+      "details": "RHPCody Lawerysonroster status changed byMinnesota Twins.",
+      "player": "Cody Laweryson"
+    },
+    {
+      "date": "2026-02-14",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssigned free agent CGary Sánchez.",
+      "player": "Gary Sánchez"
+    },
+    {
+      "date": "2026-02-14",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersactivated CGary Sánchez.",
       "player": "Gary Sánchez"
+    },
+    {
+      "date": "2026-02-14",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent LHPAndrew Chafinto a minor league contract and invited him to spring training.",
+      "player": "Andrew Chafin"
+    },
+    {
+      "date": "2026-02-14",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent 1BNathaniel Loweto a minor league contract and invited him to spring training.",
+      "player": "Nathaniel Lowe"
+    },
+    {
+      "date": "2026-02-14",
+      "team": "Minnesota Twins",
+      "details": "LHPAndrew Chafinroster status changed byMinnesota Twins.",
+      "player": "Andrew Chafin"
+    },
+    {
+      "date": "2026-02-14",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPColin Selbyon the 60-day injured list. Right shoulder inflammation.",
+      "player": "Colin Selby"
+    },
+    {
+      "date": "2026-02-14",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned free agent RHPPaul Sewald.",
+      "player": "Paul Sewald"
+    },
+    {
+      "date": "2026-02-14",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstraded RHPJackson KowartoBaltimore Orioles.",
+      "player": "Jackson Kowar"
     }
   ]
 }
