@@ -1,17 +1,11 @@
 {
-  "last_updated": "2026-02-14T19:31:14.986802",
+  "last_updated": "2026-02-14T20:35:29.255698",
   "transactions": [
     {
       "date": "2026-02-14",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssigned free agent RHPJesse Hahnto a minor league contract and invited him to spring training.",
-      "player": "Jesse Hahn"
-    },
-    {
-      "date": "2026-02-14",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksplaced RHPJustin Martinezon the 60-day injured list. Recovery from right ulnar collateral ligament surgery.",
-      "player": "Justin Martinez"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent 1BNathaniel Loweto a minor league contract and invited him to spring training.",
+      "player": "Nathaniel Lowe"
     },
     {
       "date": "2026-02-14",
@@ -27,15 +21,21 @@
     },
     {
       "date": "2026-02-14",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated CGary Sánchez.",
-      "player": "Gary Sánchez"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssigned free agent RHPJesse Hahnto a minor league contract and invited him to spring training.",
+      "player": "Jesse Hahn"
     },
     {
       "date": "2026-02-14",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssigned free agent 1BNathaniel Loweto a minor league contract and invited him to spring training.",
-      "player": "Nathaniel Lowe"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced RHPJustin Martinezon the 60-day injured list. Recovery from right ulnar collateral ligament surgery.",
+      "player": "Justin Martinez"
+    },
+    {
+      "date": "2026-02-14",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated CGary Sánchez.",
+      "player": "Gary Sánchez"
     }
   ]
 }
