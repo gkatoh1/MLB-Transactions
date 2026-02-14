@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-02-14T15:33:30.721064",
+  "last_updated": "2026-02-14T16:39:29.428846",
   "transactions": [
+    {
+      "date": "2026-02-14",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned free agent RHPPaul Sewald.",
+      "player": "Paul Sewald"
+    },
     {
       "date": "2026-02-14",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssigned free agent RHPJesse Hahnto a minor league contract and invited him to spring training.",
       "player": "Jesse Hahn"
+    },
+    {
+      "date": "2026-02-14",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced RHPJustin Martinezon the 60-day injured list. Recovery from right ulnar collateral ligament surgery.",
+      "player": "Justin Martinez"
     }
   ]
 }
