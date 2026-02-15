@@ -1,4 +1,23 @@
 {
-  "last_updated": "2026-02-15T15:32:53.914193",
-  "transactions": []
+  "last_updated": "2026-02-15T16:40:17.758128",
+  "transactions": [
+    {
+      "date": "2026-02-15",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced RHPCorbin Burneson the 60-day injured list. Right ulnar collateral ligament surgery recovery.",
+      "player": "Corbin Burnes"
+    },
+    {
+      "date": "2026-02-15",
+      "team": "Arizona Diamondbacks",
+      "details": "RHPZac Gallenassigned toArizona Diamondbacks.",
+      "player": "Zac Gallen"
+    },
+    {
+      "date": "2026-02-15",
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned free agent 1BCavan Biggioto a minor league contract and invited him to spring training.",
+      "player": "Cavan Biggio"
+    }
+  ]
 }
