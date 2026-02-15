@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-02-15T19:33:01.537244",
+  "last_updated": "2026-02-15T20:36:20.710878",
   "transactions": [
     {
       "date": "2026-02-15",
-      "team": "Houston Astros",
-      "details": "Houston Astrossigned free agent 1BCavan Biggioto a minor league contract and invited him to spring training.",
-      "player": "Cavan Biggio"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced RHPCorbin Burneson the 60-day injured list. Right ulnar collateral ligament surgery recovery.",
+      "player": "Corbin Burnes"
+    },
+    {
+      "date": "2026-02-15",
+      "team": "Arizona Diamondbacks",
+      "details": "RHPZac Gallenassigned toArizona Diamondbacks.",
+      "player": "Zac Gallen"
+    },
+    {
+      "date": "2026-02-15",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated 3BBen Cowlesfor assignment.",
+      "player": "Ben Cowles"
     },
     {
       "date": "2026-02-15",
@@ -28,20 +40,26 @@
     {
       "date": "2026-02-15",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksplaced RHPCorbin Burneson the 60-day injured list. Right ulnar collateral ligament surgery recovery.",
-      "player": "Corbin Burnes"
+      "details": "Arizona Diamondbacksplaced LHPA.J. Pukon the 60-day injured list. Left ulnar collateral ligament surgery recovery.",
+      "player": "A.J. Puk"
+    },
+    {
+      "date": "2026-02-15",
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned free agent 1BCavan Biggioto a minor league contract and invited him to spring training.",
+      "player": "Cavan Biggio"
+    },
+    {
+      "date": "2026-02-15",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent RFNick Castellanos.",
+      "player": "Nick Castellanos"
     },
     {
       "date": "2026-02-15",
       "team": "Arizona Diamondbacks",
-      "details": "RHPZac Gallenassigned toArizona Diamondbacks.",
-      "player": "Zac Gallen"
-    },
-    {
-      "date": "2026-02-15",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsdesignated 3BBen Cowlesfor assignment.",
-      "player": "Ben Cowles"
+      "details": "Arizona Diamondbacksclaimed RHPGrant Holmanoff waivers fromAthletics.",
+      "player": "Grant Holman"
     }
   ]
 }
