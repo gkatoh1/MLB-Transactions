@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T18:48:30.112948",
+  "last_updated": "2026-02-15T19:33:01.537244",
   "transactions": [
     {
       "date": "2026-02-15",
@@ -21,15 +21,27 @@
     },
     {
       "date": "2026-02-15",
-      "team": "Arizona Diamondbacks",
-      "details": "RHPZac Gallenassigned toArizona Diamondbacks.",
-      "player": "Zac Gallen"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent RHPShelby Miller.",
+      "player": "Shelby Miller"
     },
     {
       "date": "2026-02-15",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksplaced RHPCorbin Burneson the 60-day injured list. Right ulnar collateral ligament surgery recovery.",
       "player": "Corbin Burnes"
+    },
+    {
+      "date": "2026-02-15",
+      "team": "Arizona Diamondbacks",
+      "details": "RHPZac Gallenassigned toArizona Diamondbacks.",
+      "player": "Zac Gallen"
+    },
+    {
+      "date": "2026-02-15",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated 3BBen Cowlesfor assignment.",
+      "player": "Ben Cowles"
     }
   ]
 }
