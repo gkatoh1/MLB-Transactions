@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-02-16T17:45:02.502421",
+  "last_updated": "2026-02-16T18:56:01.091184",
   "transactions": [
-    {
-      "date": "2026-02-16",
-      "team": "Unknown Team",
-      "details": "LFTirso Ornelaschanged number to 8.",
-      "player": "Tirso Ornelas"
-    },
     {
       "date": "2026-02-16",
       "team": "Pittsburgh Pirates",
@@ -36,6 +30,24 @@
       "team": "San Diego Padres",
       "details": "San Diego Padresplaced RHPJhony Britoon the 60-day injured list. Right elbow surgery, UCL reconstruction.",
       "player": "Jhony Brito"
+    },
+    {
+      "date": "2026-02-16",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersplaced RHPLogan Evanson the 60-day injured list. Recovery from torn UCL in right arm.",
+      "player": "Logan Evans"
+    },
+    {
+      "date": "2026-02-16",
+      "team": "Unknown Team",
+      "details": "LFTirso Ornelaschanged number to 8.",
+      "player": "Tirso Ornelas"
+    },
+    {
+      "date": "2026-02-16",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded LHPJosh SimpsontoSeattle Marinersfor cash.",
+      "player": "Josh Simpson"
     }
   ]
 }
