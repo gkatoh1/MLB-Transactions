@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-02-16T19:37:15.661203",
+  "last_updated": "2026-02-16T20:39:42.394624",
   "transactions": [
+    {
+      "date": "2026-02-16",
+      "team": "Unknown Team",
+      "details": "LFTirso Ornelaschanged number to 8.",
+      "player": "Tirso Ornelas"
+    },
     {
       "date": "2026-02-16",
       "team": "Pittsburgh Pirates",
@@ -33,21 +39,45 @@
     },
     {
       "date": "2026-02-16",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsdesignated 3BBryan Ramosfor assignment.",
+      "player": "Bryan Ramos"
+    },
+    {
+      "date": "2026-02-16",
+      "team": "New York Yankees",
+      "details": "New York Yankeesinvited non-roster RFYanquiel Fernándezto spring training.",
+      "player": "Yanquiel Fernández"
+    },
+    {
+      "date": "2026-02-16",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssigned free agent 3BLuis Rengifo.",
+      "player": "Luis Rengifo"
+    },
+    {
+      "date": "2026-02-16",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersplaced RHPLogan Evanson the 60-day injured list. Recovery from torn UCL in right arm.",
       "player": "Logan Evans"
     },
     {
       "date": "2026-02-16",
-      "team": "Unknown Team",
-      "details": "LFTirso Ornelaschanged number to 8.",
-      "player": "Tirso Ornelas"
-    },
-    {
-      "date": "2026-02-16",
       "team": "Miami Marlins",
       "details": "Miami Marlinstraded LHPJosh SimpsontoSeattle Marinersfor cash.",
       "player": "Josh Simpson"
+    },
+    {
+      "date": "2026-02-16",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RFYanquiel Fernándezoutright to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Yanquiel Fernández"
+    },
+    {
+      "date": "2026-02-16",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsclaimed RHPZak Kentoff waivers fromTexas Rangers.",
+      "player": "Zak Kent"
     }
   ]
 }
