@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17T20:48:34.991522",
+  "last_updated": "2026-02-17T21:42:02.101318",
   "transactions": [
     {
       "date": "2026-02-17",
@@ -12,6 +12,24 @@
       "team": "San Diego Padres",
       "details": "San Diego Padresdesignated LFTirso Ornelasfor assignment.",
       "player": "Tirso Ornelas"
+    },
+    {
+      "date": "2026-02-17",
+      "team": "New York Yankees",
+      "details": "CAbrahan Gutierrezroster status changed byNew York Yankees.",
+      "player": "Abrahan Gutierrez"
+    },
+    {
+      "date": "2026-02-17",
+      "team": "New York Yankees",
+      "details": "RHPAlexander Cornielleroster status changed byNew York Yankees.",
+      "player": "Alexander Cornielle"
+    },
+    {
+      "date": "2026-02-17",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent RHPWalker Buehlerto a minor league contract and invited him to spring training.",
+      "player": "Walker Buehler"
     }
   ]
 }
