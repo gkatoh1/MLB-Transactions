@@ -1,35 +1,17 @@
 {
-  "last_updated": "2026-02-20T20:41:32.419664",
+  "last_updated": "2026-02-20T21:32:57.967315",
   "transactions": [
     {
       "date": "2026-02-20",
-      "team": "Arizona Diamondbacks",
-      "details": "RHPJose Cabreraassigned toArizona Diamondbacks.",
-      "player": "Jose Cabrera"
+      "team": "Seattle Mariners",
+      "details": "LHPPeyton Alfordassigned toSeattle Mariners.",
+      "player": "Peyton Alford"
     },
     {
       "date": "2026-02-20",
-      "team": "New York Yankees",
-      "details": "RFJackson Castilloassigned toNew York Yankees.",
-      "player": "Jackson Castillo"
-    },
-    {
-      "date": "2026-02-20",
-      "team": "Colorado Rockies",
-      "details": "LHPMason Greenassigned toColorado Rockies.",
-      "player": "Mason Green"
-    },
-    {
-      "date": "2026-02-20",
-      "team": "Chicago White Sox",
-      "details": "SSJordan Sprinkleassigned toChicago White Sox.",
-      "player": "Jordan Sprinkle"
-    },
-    {
-      "date": "2026-02-20",
-      "team": "Chicago Cubs",
-      "details": "RHPAdam Stoneassigned toChicago Cubs.",
-      "player": "Adam Stone"
+      "team": "Texas Rangers",
+      "details": "RHPAidan Andersonassigned toTexas Rangers.",
+      "player": "Aidan Anderson"
     },
     {
       "date": "2026-02-20",
@@ -57,66 +39,6 @@
     },
     {
       "date": "2026-02-20",
-      "team": "New York Yankees",
-      "details": "RHPAaron Nixonassigned toNew York Yankees.",
-      "player": "Aaron Nixon"
-    },
-    {
-      "date": "2026-02-20",
-      "team": "Boston Red Sox",
-      "details": "LHPMichael Sansoneassigned toBoston Red Sox.",
-      "player": "Michael Sansone"
-    },
-    {
-      "date": "2026-02-20",
-      "team": "Colorado Rockies",
-      "details": "RHPRyan Millerassigned toColorado Rockies.",
-      "player": "Ryan Miller"
-    },
-    {
-      "date": "2026-02-20",
-      "team": "Chicago Cubs",
-      "details": "LFJordan Nwoguassigned toChicago Cubs.",
-      "player": "Jordan Nwogu"
-    },
-    {
-      "date": "2026-02-20",
-      "team": "Seattle Mariners",
-      "details": "LHPPeyton Alfordassigned toSeattle Mariners.",
-      "player": "Peyton Alford"
-    },
-    {
-      "date": "2026-02-20",
-      "team": "Boston Red Sox",
-      "details": "OFCaden Roseassigned toBoston Red Sox.",
-      "player": "Caden Rose"
-    },
-    {
-      "date": "2026-02-20",
-      "team": "Chicago White Sox",
-      "details": "RHPRiley Gowensassigned toChicago White Sox.",
-      "player": "Riley Gowens"
-    },
-    {
-      "date": "2026-02-20",
-      "team": "Baltimore Orioles",
-      "details": "CIke Irishassigned toBaltimore Orioles.",
-      "player": "Ike Irish"
-    },
-    {
-      "date": "2026-02-20",
-      "team": "New York Yankees",
-      "details": "SSKaeden Kentassigned toNew York Yankees.",
-      "player": "Kaeden Kent"
-    },
-    {
-      "date": "2026-02-20",
-      "team": "Chicago White Sox",
-      "details": "RHPJackson Kelleyassigned toChicago White Sox.",
-      "player": "Jackson Kelley"
-    },
-    {
-      "date": "2026-02-20",
       "team": "Boston Red Sox",
       "details": "3BJack Winnayassigned toBoston Red Sox.",
       "player": "Jack Winnay"
@@ -135,9 +57,105 @@
     },
     {
       "date": "2026-02-20",
+      "team": "Colorado Rockies",
+      "details": "CFCaleb Hobsonassigned toColorado Rockies.",
+      "player": "Caleb Hobson"
+    },
+    {
+      "date": "2026-02-20",
+      "team": "Colorado Rockies",
+      "details": "3BSkyler Messingerassigned toColorado Rockies.",
+      "player": "Skyler Messinger"
+    },
+    {
+      "date": "2026-02-20",
+      "team": "Colorado Rockies",
+      "details": "RFGJ Hillassigned toColorado Rockies.",
+      "player": "GJ Hill"
+    },
+    {
+      "date": "2026-02-20",
+      "team": "Chicago White Sox",
+      "details": "2BDarren Bakerassigned toChicago White Sox.",
+      "player": "Darren Baker"
+    },
+    {
+      "date": "2026-02-20",
+      "team": "San Diego Padres",
+      "details": "CVictor Duarteassigned toSan Diego Padres.",
+      "player": "Victor Duarte"
+    },
+    {
+      "date": "2026-02-20",
+      "team": "Arizona Diamondbacks",
+      "details": "RFÓscar Mercadoroster status changed byArizona Diamondbacks.",
+      "player": "Óscar Mercado"
+    },
+    {
+      "date": "2026-02-20",
       "team": "Kansas City Royals",
-      "details": "SSJack Pinedaassigned toKansas City Royals.",
-      "player": "Jack Pineda"
+      "details": "RHPBeck Wayassigned toKansas City Royals.",
+      "player": "Beck Way"
+    },
+    {
+      "date": "2026-02-20",
+      "team": "Colorado Rockies",
+      "details": "RHPRyan Millerassigned toColorado Rockies.",
+      "player": "Ryan Miller"
+    },
+    {
+      "date": "2026-02-20",
+      "team": "Chicago White Sox",
+      "details": "RHPJackson Kelleyassigned toChicago White Sox.",
+      "player": "Jackson Kelley"
+    },
+    {
+      "date": "2026-02-20",
+      "team": "Boston Red Sox",
+      "details": "3BNazzan Zanetelloassigned toBoston Red Sox.",
+      "player": "Nazzan Zanetello"
+    },
+    {
+      "date": "2026-02-20",
+      "team": "Chicago Cubs",
+      "details": "2BHayden Cantrelleassigned toChicago Cubs.",
+      "player": "Hayden Cantrelle"
+    },
+    {
+      "date": "2026-02-20",
+      "team": "Baltimore Orioles",
+      "details": "SSBrandon Butterworthroster status changed byBaltimore Orioles.",
+      "player": "Brandon Butterworth"
+    },
+    {
+      "date": "2026-02-20",
+      "team": "New York Yankees",
+      "details": "1BTyler Hardmanassigned toNew York Yankees.",
+      "player": "Tyler Hardman"
+    },
+    {
+      "date": "2026-02-20",
+      "team": "Chicago Cubs",
+      "details": "RHPFrankie Scalzo Jr.assigned toChicago Cubs.",
+      "player": "Frankie Scalzo Jr."
+    },
+    {
+      "date": "2026-02-20",
+      "team": "San Diego Padres",
+      "details": "RHPClay Edmondsonassigned toSan Diego Padres.",
+      "player": "Clay Edmondson"
+    },
+    {
+      "date": "2026-02-20",
+      "team": "Texas Rangers",
+      "details": "LFJake Sniderassigned toTexas Rangers.",
+      "player": "Jake Snider"
+    },
+    {
+      "date": "2026-02-20",
+      "team": "Texas Rangers",
+      "details": "CTucker Mitchellassigned toTexas Rangers.",
+      "player": "Tucker Mitchell"
     },
     {
       "date": "2026-02-20",
@@ -183,33 +201,39 @@
     },
     {
       "date": "2026-02-20",
+      "team": "New York Yankees",
+      "details": "SSBryce Martin-Grudzielanekassigned toNew York Yankees.",
+      "player": "Bryce Martin-Grudzielanek"
+    },
+    {
+      "date": "2026-02-20",
       "team": "Chicago White Sox",
-      "details": "LHPGarrett Schoenleassigned toChicago White Sox.",
-      "player": "Garrett Schoenle"
-    },
-    {
-      "date": "2026-02-20",
-      "team": "Boston Red Sox",
-      "details": "SSMarvin Alcantaraassigned toBoston Red Sox.",
-      "player": "Marvin Alcantara"
-    },
-    {
-      "date": "2026-02-20",
-      "team": "Seattle Mariners",
-      "details": "RHPJimmy Kingsburyassigned toSeattle Mariners.",
-      "player": "Jimmy Kingsbury"
-    },
-    {
-      "date": "2026-02-20",
-      "team": "Kansas City Royals",
-      "details": "RFTyler Gentryassigned toKansas City Royals.",
-      "player": "Tyler Gentry"
+      "details": "CFMatt Hoganassigned toChicago White Sox.",
+      "player": "Matt Hogan"
     },
     {
       "date": "2026-02-20",
       "team": "Texas Rangers",
       "details": "SSKeyber Rodriguezassigned toTexas Rangers.",
       "player": "Keyber Rodriguez"
+    },
+    {
+      "date": "2026-02-20",
+      "team": "Chicago Cubs",
+      "details": "2BOwen Millerassigned toChicago Cubs.",
+      "player": "Owen Miller"
+    },
+    {
+      "date": "2026-02-20",
+      "team": "Baltimore Orioles",
+      "details": "CFRJ Austinassigned toBaltimore Orioles.",
+      "player": "RJ Austin"
+    },
+    {
+      "date": "2026-02-20",
+      "team": "Texas Rangers",
+      "details": "RHPMason Thompsonassigned toTexas Rangers.",
+      "player": "Mason Thompson"
     },
     {
       "date": "2026-02-20",
@@ -276,30 +300,6 @@
       "team": "San Diego Padres",
       "details": "LHPMiguel Cienfuegosassigned toSan Diego Padres.",
       "player": "Miguel Cienfuegos"
-    },
-    {
-      "date": "2026-02-20",
-      "team": "Texas Rangers",
-      "details": "OFOrlando Martinezassigned toTexas Rangers.",
-      "player": "Orlando Martinez"
-    },
-    {
-      "date": "2026-02-20",
-      "team": "Kansas City Royals",
-      "details": "RHPBen Searsassigned toKansas City Royals.",
-      "player": "Ben Sears"
-    },
-    {
-      "date": "2026-02-20",
-      "team": "Chicago White Sox",
-      "details": "1BRyan Galanieassigned toChicago White Sox.",
-      "player": "Ryan Galanie"
-    },
-    {
-      "date": "2026-02-20",
-      "team": "Chicago White Sox",
-      "details": "RHPJared Kelleyassigned toChicago White Sox.",
-      "player": "Jared Kelley"
     }
   ]
 }
