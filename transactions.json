@@ -1,17 +1,35 @@
 {
-  "last_updated": "2026-02-21T14:34:14.749358",
+  "last_updated": "2026-02-21T15:32:31.901020",
   "transactions": [
     {
       "date": "2026-02-21",
-      "team": "St. Louis Cardinals",
-      "details": "3BNoah Mendlingerassigned toSt. Louis Cardinals.",
-      "player": "Noah Mendlinger"
+      "team": "Houston Astros",
+      "details": "LHPTom Cosgroveassigned toHouston Astros.",
+      "player": "Tom Cosgrove"
     },
     {
       "date": "2026-02-21",
-      "team": "Atlanta Braves",
-      "details": "LFEthan Workingerassigned toAtlanta Braves.",
-      "player": "Ethan Workinger"
+      "team": "Colorado Rockies",
+      "details": "LHPCarson Skipperassigned toColorado Rockies.",
+      "player": "Carson Skipper"
+    },
+    {
+      "date": "2026-02-21",
+      "team": "Pittsburgh Pirates",
+      "details": "RHPJarod Baylessassigned toPittsburgh Pirates.",
+      "player": "Jarod Bayless"
+    },
+    {
+      "date": "2026-02-21",
+      "team": "Tampa Bay Rays",
+      "details": "CJ.D. Gonzalezassigned toTampa Bay Rays.",
+      "player": "J.D. Gonzalez"
+    },
+    {
+      "date": "2026-02-21",
+      "team": "Los Angeles Dodgers",
+      "details": "3BSantiago Espinalassigned toLos Angeles Dodgers.",
+      "player": "Santiago Espinal"
     },
     {
       "date": "2026-02-21",
@@ -36,6 +54,12 @@
       "team": "New York Yankees",
       "details": "RHPBrandon Deckerassigned toNew York Yankees.",
       "player": "Brandon Decker"
+    },
+    {
+      "date": "2026-02-21",
+      "team": "Tampa Bay Rays",
+      "details": "RHPSeth Chavezassigned toTampa Bay Rays.",
+      "player": "Seth Chavez"
     },
     {
       "date": "2026-02-21",
@@ -75,6 +99,30 @@
     },
     {
       "date": "2026-02-21",
+      "team": "Miami Marlins",
+      "details": "RHPAlex Williamsassigned toMiami Marlins.",
+      "player": "Alex Williams"
+    },
+    {
+      "date": "2026-02-21",
+      "team": "Miami Marlins",
+      "details": "CSpencer Bramwellassigned toMiami Marlins.",
+      "player": "Spencer Bramwell"
+    },
+    {
+      "date": "2026-02-21",
+      "team": "Colorado Rockies",
+      "details": "RHPJake Brooksassigned toColorado Rockies.",
+      "player": "Jake Brooks"
+    },
+    {
+      "date": "2026-02-21",
+      "team": "Pittsburgh Pirates",
+      "details": "RHPDavid Matomaassigned toPittsburgh Pirates.",
+      "player": "David Matoma"
+    },
+    {
+      "date": "2026-02-21",
       "team": "Detroit Tigers",
       "details": "RHPDuque Hebbertassigned toDetroit Tigers.",
       "player": "Duque Hebbert"
@@ -105,33 +153,21 @@
     },
     {
       "date": "2026-02-21",
-      "team": "Detroit Tigers",
-      "details": "LHPCarlos Peñaassigned toDetroit Tigers.",
-      "player": "Carlos Peña"
+      "team": "Miami Marlins",
+      "details": "2BIan Lewis Jr.assigned toMiami Marlins.",
+      "player": "Ian Lewis Jr."
     },
     {
       "date": "2026-02-21",
-      "team": "Houston Astros",
-      "details": "3BJames Nelsonassigned toHouston Astros.",
-      "player": "James Nelson"
+      "team": "Pittsburgh Pirates",
+      "details": "CAxiel Plazassigned toPittsburgh Pirates.",
+      "player": "Axiel Plaz"
     },
     {
       "date": "2026-02-21",
-      "team": "Detroit Tigers",
-      "details": "CSergio Tapiaassigned toDetroit Tigers.",
-      "player": "Sergio Tapia"
-    },
-    {
-      "date": "2026-02-21",
-      "team": "Atlanta Braves",
-      "details": "2BKyle Farmerassigned toAtlanta Braves.",
-      "player": "Kyle Farmer"
-    },
-    {
-      "date": "2026-02-21",
-      "team": "New York Mets",
-      "details": "LFDiego Mosqueraassigned toNew York Mets.",
-      "player": "Diego Mosquera"
+      "team": "Washington Nationals",
+      "details": "SSLuke Dickersonassigned toWashington Nationals.",
+      "player": "Luke Dickerson"
     },
     {
       "date": "2026-02-21",
@@ -159,147 +195,111 @@
     },
     {
       "date": "2026-02-21",
-      "team": "New York Mets",
-      "details": "RHPBen Simonassigned toNew York Mets.",
-      "player": "Ben Simon"
+      "team": "Detroit Tigers",
+      "details": "OFCal Stevensonassigned toDetroit Tigers.",
+      "player": "Cal Stevenson"
+    },
+    {
+      "date": "2026-02-21",
+      "team": "Detroit Tigers",
+      "details": "OFPatrick Leeassigned toDetroit Tigers.",
+      "player": "Patrick Lee"
+    },
+    {
+      "date": "2026-02-21",
+      "team": "Washington Nationals",
+      "details": "RHPChance Huffassigned toWashington Nationals.",
+      "player": "Chance Huff"
     },
     {
       "date": "2026-02-21",
       "team": "Atlanta Braves",
-      "details": "CFPatrick Clohisyassigned toAtlanta Braves.",
-      "player": "Patrick Clohisy"
+      "details": "SSLizandro Espinozaassigned toAtlanta Braves.",
+      "player": "Lizandro Espinoza"
     },
     {
       "date": "2026-02-21",
-      "team": "New York Yankees",
-      "details": "RHPTony Rossiassigned toNew York Yankees.",
-      "player": "Tony Rossi"
+      "team": "Tampa Bay Rays",
+      "details": "LHPT.J. Fondtainassigned toTampa Bay Rays.",
+      "player": "T.J. Fondtain"
+    },
+    {
+      "date": "2026-02-21",
+      "team": "Athletics",
+      "details": "3BLuke Mannassigned toAthletics.",
+      "player": "Luke Mann"
+    },
+    {
+      "date": "2026-02-21",
+      "team": "Athletics",
+      "details": "OFDevin Taylorassigned toAthletics.",
+      "player": "Devin Taylor"
+    },
+    {
+      "date": "2026-02-21",
+      "team": "Athletics",
+      "details": "LHPJames Gonzalezassigned toAthletics.",
+      "player": "James Gonzalez"
     },
     {
       "date": "2026-02-21",
       "team": "Boston Red Sox",
-      "details": "RHPCooper Adamsassigned toBoston Red Sox.",
-      "player": "Cooper Adams"
-    },
-    {
-      "date": "2026-02-21",
-      "team": "St. Louis Cardinals",
-      "details": "RHPD.J. Carpenterassigned toSt. Louis Cardinals.",
-      "player": "D.J. Carpenter"
-    },
-    {
-      "date": "2026-02-21",
-      "team": "Washington Nationals",
-      "details": "CMatt Suggsassigned toWashington Nationals.",
-      "player": "Matt Suggs"
-    },
-    {
-      "date": "2026-02-21",
-      "team": "New York Mets",
-      "details": "LHPTrey McGoughassigned toNew York Mets.",
-      "player": "Trey McGough"
-    },
-    {
-      "date": "2026-02-21",
-      "team": "Houston Astros",
-      "details": "CFAnthony Huezoassigned toHouston Astros.",
-      "player": "Anthony Huezo"
-    },
-    {
-      "date": "2026-02-21",
-      "team": "New York Yankees",
-      "details": "3BEnmanuel Tejedaassigned toNew York Yankees.",
-      "player": "Enmanuel Tejeda"
-    },
-    {
-      "date": "2026-02-21",
-      "team": "Washington Nationals",
-      "details": "CMaxwell Romero Jr.assigned toWashington Nationals.",
-      "player": "Maxwell Romero Jr."
-    },
-    {
-      "date": "2026-02-21",
-      "team": "New York Yankees",
-      "details": "LHPWill Brianassigned toNew York Yankees.",
-      "player": "Will Brian"
-    },
-    {
-      "date": "2026-02-21",
-      "team": "New York Yankees",
-      "details": "RHPHayden Merdaassigned toNew York Yankees.",
-      "player": "Hayden Merda"
-    },
-    {
-      "date": "2026-02-21",
-      "team": "Houston Astros",
-      "details": "RHPRailin Perezassigned toHouston Astros.",
-      "player": "Railin Perez"
-    },
-    {
-      "date": "2026-02-21",
-      "team": "Washington Nationals",
-      "details": "SSMarcus Brownassigned toWashington Nationals.",
-      "player": "Marcus Brown"
-    },
-    {
-      "date": "2026-02-21",
-      "team": "Washington Nationals",
-      "details": "SSRonny Cruzassigned toWashington Nationals.",
-      "player": "Ronny Cruz"
-    },
-    {
-      "date": "2026-02-21",
-      "team": "New York Mets",
-      "details": "SSWyatt Youngassigned toNew York Mets.",
-      "player": "Wyatt Young"
-    },
-    {
-      "date": "2026-02-21",
-      "team": "New York Mets",
-      "details": "SSYonny Hernándezassigned toNew York Mets.",
-      "player": "Yonny Hernández"
-    },
-    {
-      "date": "2026-02-21",
-      "team": "Washington Nationals",
-      "details": "SSLuke Dickersonassigned toWashington Nationals.",
-      "player": "Luke Dickerson"
-    },
-    {
-      "date": "2026-02-21",
-      "team": "New York Mets",
-      "details": "3BNick Lorussoassigned toNew York Mets.",
-      "player": "Nick Lorusso"
-    },
-    {
-      "date": "2026-02-21",
-      "team": "Detroit Tigers",
-      "details": "RHPCarlos Lequericaassigned toDetroit Tigers.",
-      "player": "Carlos Lequerica"
+      "details": "RHPPatrick Halliganassigned toBoston Red Sox.",
+      "player": "Patrick Halligan"
     },
     {
       "date": "2026-02-21",
       "team": "Atlanta Braves",
-      "details": "RHPAnthony Molinaassigned toAtlanta Braves.",
-      "player": "Anthony Molina"
-    },
-    {
-      "date": "2026-02-21",
-      "team": "Detroit Tigers",
-      "details": "2BSamuel Gilassigned toDetroit Tigers.",
-      "player": "Samuel Gil"
-    },
-    {
-      "date": "2026-02-21",
-      "team": "St. Louis Cardinals",
-      "details": "SSDakota Harrisassigned toSt. Louis Cardinals.",
-      "player": "Dakota Harris"
+      "details": "CFKevin Kilpatrick Jr.assigned toAtlanta Braves.",
+      "player": "Kevin Kilpatrick Jr."
     },
     {
       "date": "2026-02-21",
       "team": "Washington Nationals",
-      "details": "RHPDarrel Lunarassigned toWashington Nationals.",
-      "player": "Darrel Lunar"
+      "details": "CFSam Petersenassigned toWashington Nationals.",
+      "player": "Sam Petersen"
+    },
+    {
+      "date": "2026-02-21",
+      "team": "Milwaukee Brewers",
+      "details": "RHPBlake Holubassigned toMilwaukee Brewers.",
+      "player": "Blake Holub"
+    },
+    {
+      "date": "2026-02-21",
+      "team": "Boston Red Sox",
+      "details": "SSMason Whiteassigned toBoston Red Sox.",
+      "player": "Mason White"
+    },
+    {
+      "date": "2026-02-21",
+      "team": "St. Louis Cardinals",
+      "details": "OFZach Levensonassigned toSt. Louis Cardinals.",
+      "player": "Zach Levenson"
+    },
+    {
+      "date": "2026-02-21",
+      "team": "Pittsburgh Pirates",
+      "details": "RHPMatt Agerassigned toPittsburgh Pirates.",
+      "player": "Matt Ager"
+    },
+    {
+      "date": "2026-02-21",
+      "team": "Atlanta Braves",
+      "details": "RHPBlane Abeytaassigned toAtlanta Braves.",
+      "player": "Blane Abeyta"
+    },
+    {
+      "date": "2026-02-21",
+      "team": "Miami Marlins",
+      "details": "OFColby Shadeassigned toMiami Marlins.",
+      "player": "Colby Shade"
+    },
+    {
+      "date": "2026-02-21",
+      "team": "Milwaukee Brewers",
+      "details": "RHPMichael Fowlerassigned toMilwaukee Brewers.",
+      "player": "Michael Fowler"
     }
   ]
 }
