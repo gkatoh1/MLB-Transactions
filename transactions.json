@@ -1,6 +1,258 @@
 {
-  "last_updated": "2026-02-22T17:32:46.374234",
+  "last_updated": "2026-02-22T18:48:31.565163",
   "transactions": [
+    {
+      "date": "2026-02-22",
+      "team": "Houston Astros",
+      "details": "OFEthan Freyassigned toHouston Astros.",
+      "player": "Ethan Frey"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Miami Marlins",
+      "details": "LHPBrayan Mendozaassigned toMiami Marlins.",
+      "player": "Brayan Mendoza"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Houston Astros",
+      "details": "RHPJose Guedezassigned toHouston Astros.",
+      "player": "Jose Guedez"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Atlanta Braves",
+      "details": "RHPAdam Maierassigned toAtlanta Braves.",
+      "player": "Adam Maier"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Atlanta Braves",
+      "details": "RHPLJ McDonoughassigned toAtlanta Braves.",
+      "player": "LJ McDonough"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Pittsburgh Pirates",
+      "details": "CFTres Gonzalezassigned toPittsburgh Pirates.",
+      "player": "Tres Gonzalez"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Pittsburgh Pirates",
+      "details": "OFBrandon Cainassigned toPittsburgh Pirates.",
+      "player": "Brandon Cain"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Pittsburgh Pirates",
+      "details": "LHPBrandon Neeckassigned toPittsburgh Pirates.",
+      "player": "Brandon Neeck"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Chicago White Sox",
+      "details": "SSRyan Burrowesassigned toChicago White Sox.",
+      "player": "Ryan Burrowes"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Milwaukee Brewers",
+      "details": "RHPTanner Gillisassigned toMilwaukee Brewers.",
+      "player": "Tanner Gillis"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Milwaukee Brewers",
+      "details": "RHPKaleb Bowmanassigned toMilwaukee Brewers.",
+      "player": "Kaleb Bowman"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Milwaukee Brewers",
+      "details": "RHPJoshua Quezadaassigned toMilwaukee Brewers.",
+      "player": "Joshua Quezada"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Cincinnati Reds",
+      "details": "LHPNick Sandoassigned toCincinnati Reds.",
+      "player": "Nick Sando"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Cincinnati Reds",
+      "details": "RHPJulian Garciaassigned toCincinnati Reds.",
+      "player": "Julian Garcia"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Texas Rangers",
+      "details": "2BLuke Hansonassigned toTexas Rangers.",
+      "player": "Luke Hanson"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "San Diego Padres",
+      "details": "RHPJohan Morenoassigned toSan Diego Padres.",
+      "player": "Johan Moreno"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Los Angeles Dodgers",
+      "details": "RHPRoque Gutierrezassigned toLos Angeles Dodgers.",
+      "player": "Roque Gutierrez"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Detroit Tigers",
+      "details": "OFChris Meyersassigned toDetroit Tigers.",
+      "player": "Chris Meyers"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "St. Louis Cardinals",
+      "details": "RHPDomenic Piconeassigned toSt. Louis Cardinals.",
+      "player": "Domenic Picone"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Houston Astros",
+      "details": "RHPNic Swansonassigned toHouston Astros.",
+      "player": "Nic Swanson"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Pittsburgh Pirates",
+      "details": "3BJesus Castilloassigned toPittsburgh Pirates.",
+      "player": "Jesus Castillo"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Tampa Bay Rays",
+      "details": "RHPTrey Pooserassigned toTampa Bay Rays.",
+      "player": "Trey Pooser"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Milwaukee Brewers",
+      "details": "CFDasan Brownassigned toMilwaukee Brewers.",
+      "player": "Dasan Brown"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Milwaukee Brewers",
+      "details": "RHPBishop Letsonassigned toMilwaukee Brewers.",
+      "player": "Bishop Letson"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Milwaukee Brewers",
+      "details": "RHPPatricio Aquinoassigned toMilwaukee Brewers.",
+      "player": "Patricio Aquino"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Milwaukee Brewers",
+      "details": "RHPK.C. Huntassigned toMilwaukee Brewers.",
+      "player": "K.C. Hunt"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Toronto Blue Jays",
+      "details": "IFCarter Cunninghamassigned toToronto Blue Jays.",
+      "player": "Carter Cunningham"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Toronto Blue Jays",
+      "details": "RFEddie Micheletti Jr.assigned toToronto Blue Jays.",
+      "player": "Eddie Micheletti Jr."
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Minnesota Twins",
+      "details": "2BJose Salasassigned toMinnesota Twins.",
+      "player": "Jose Salas"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "San Francisco Giants",
+      "details": "LHPJohn Michael Bertrandassigned toSan Francisco Giants.",
+      "player": "John Michael Bertrand"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Detroit Tigers",
+      "details": "3BGage Workmanassigned toDetroit Tigers.",
+      "player": "Gage Workman"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "St. Louis Cardinals",
+      "details": "RHPRyan Murphyassigned toSt. Louis Cardinals.",
+      "player": "Ryan Murphy"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "St. Louis Cardinals",
+      "details": "3BCade McGeeassigned toSt. Louis Cardinals.",
+      "player": "Cade McGee"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Colorado Rockies",
+      "details": "RHPConnor Staineassigned toColorado Rockies.",
+      "player": "Connor Staine"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Pittsburgh Pirates",
+      "details": "RHPPeyton Stumboassigned toPittsburgh Pirates.",
+      "player": "Peyton Stumbo"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Baltimore Orioles",
+      "details": "RHPCohen Achenassigned toBaltimore Orioles.",
+      "player": "Cohen Achen"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Baltimore Orioles",
+      "details": "RHPKenny Leinerassigned toBaltimore Orioles.",
+      "player": "Kenny Leiner"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Kansas City Royals",
+      "details": "SSDustin Dickersonassigned toKansas City Royals.",
+      "player": "Dustin Dickerson"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "New York Mets",
+      "details": "RHPCristofer Gomezassigned toNew York Mets.",
+      "player": "Cristofer Gomez"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Detroit Tigers",
+      "details": "SSCarson Ruckerassigned toDetroit Tigers.",
+      "player": "Carson Rucker"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Pittsburgh Pirates",
+      "details": "RHPKyle Larsenassigned toPittsburgh Pirates.",
+      "player": "Kyle Larsen"
+    },
+    {
+      "date": "2026-02-22",
+      "team": "Minnesota Twins",
+      "details": "RHPXander Hamiltonassigned toMinnesota Twins.",
+      "player": "Xander Hamilton"
+    },
     {
       "date": "2026-02-22",
       "team": "Colorado Rockies",
@@ -48,258 +300,6 @@
       "team": "St. Louis Cardinals",
       "details": "CRainiel Rodriguezassigned toSt. Louis Cardinals.",
       "player": "Rainiel Rodriguez"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Boston Red Sox",
-      "details": "RHPCalvin Bickerstaffassigned toBoston Red Sox.",
-      "player": "Calvin Bickerstaff"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Miami Marlins",
-      "details": "3BMichael Snyderassigned toMiami Marlins.",
-      "player": "Michael Snyder"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Atlanta Braves",
-      "details": "CAdam Zebrowskiassigned toAtlanta Braves.",
-      "player": "Adam Zebrowski"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Colorado Rockies",
-      "details": "CFBenny Montgomeryassigned toColorado Rockies.",
-      "player": "Benny Montgomery"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Colorado Rockies",
-      "details": "2BRoc Riggioassigned toColorado Rockies.",
-      "player": "Roc Riggio"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Colorado Rockies",
-      "details": "IFKevin Fitzerassigned toColorado Rockies.",
-      "player": "Kevin Fitzer"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Tampa Bay Rays",
-      "details": "LFAngel Mateoassigned toTampa Bay Rays.",
-      "player": "Angel Mateo"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Baltimore Orioles",
-      "details": "SSCobb Hightowerassigned toBaltimore Orioles.",
-      "player": "Cobb Hightower"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Los Angeles Angels",
-      "details": "3BBen Gobbelassigned toLos Angeles Angels.",
-      "player": "Ben Gobbel"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Los Angeles Angels",
-      "details": "1BRyan Nicholsonassigned toLos Angeles Angels.",
-      "player": "Ryan Nicholson"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Los Angeles Angels",
-      "details": "LHPDylan Phillipsassigned toLos Angeles Angels.",
-      "player": "Dylan Phillips"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Milwaukee Brewers",
-      "details": "SSEthan Murrayassigned toMilwaukee Brewers.",
-      "player": "Ethan Murray"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Kansas City Royals",
-      "details": "LHPRyan Ramseyassigned toKansas City Royals.",
-      "player": "Ryan Ramsey"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Toronto Blue Jays",
-      "details": "2BNick Goodwinassigned toToronto Blue Jays.",
-      "player": "Nick Goodwin"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Toronto Blue Jays",
-      "details": "3BTucker Tomanassigned toToronto Blue Jays.",
-      "player": "Tucker Toman"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Chicago Cubs",
-      "details": "LFChristian Olivoassigned toChicago Cubs.",
-      "player": "Christian Olivo"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "New York Mets",
-      "details": "1BJT Schwartzassigned toNew York Mets.",
-      "player": "JT Schwartz"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "New York Mets",
-      "details": "RHPDouglas Orellanaassigned toNew York Mets.",
-      "player": "Douglas Orellana"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "New York Yankees",
-      "details": "RHPRory Foxassigned toNew York Yankees.",
-      "player": "Rory Fox"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "New York Yankees",
-      "details": "RHPJackson Fristoeassigned toNew York Yankees.",
-      "player": "Jackson Fristoe"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Detroit Tigers",
-      "details": "RHPGarrett Burhennassigned toDetroit Tigers.",
-      "player": "Garrett Burhenn"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "St. Louis Cardinals",
-      "details": "LFMiguel Uguetoassigned toSt. Louis Cardinals.",
-      "player": "Miguel Ugueto"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Pittsburgh Pirates",
-      "details": "SSWyatt Sanfordassigned toPittsburgh Pirates.",
-      "player": "Wyatt Sanford"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Pittsburgh Pirates",
-      "details": "LFBrian Sanchezassigned toPittsburgh Pirates.",
-      "player": "Brian Sanchez"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Arizona Diamondbacks",
-      "details": "RHPLuke Albrightassigned toArizona Diamondbacks.",
-      "player": "Luke Albright"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Los Angeles Angels",
-      "details": "RHPLuke Murphyassigned toLos Angeles Angels.",
-      "player": "Luke Murphy"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Milwaukee Brewers",
-      "details": "SSBrady Ebelassigned toMilwaukee Brewers.",
-      "player": "Brady Ebel"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Milwaukee Brewers",
-      "details": "RHPBryce Meccageassigned toMilwaukee Brewers.",
-      "player": "Bryce Meccage"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Chicago Cubs",
-      "details": "OFKane Kepleyassigned toChicago Cubs.",
-      "player": "Kane Kepley"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Texas Rangers",
-      "details": "LHPThomas Irelandassigned toTexas Rangers.",
-      "player": "Thomas Ireland"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Detroit Tigers",
-      "details": "RHPRyan Harveyassigned toDetroit Tigers.",
-      "player": "Ryan Harvey"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Colorado Rockies",
-      "details": "CJose Cordovaassigned toColorado Rockies.",
-      "player": "Jose Cordova"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Tampa Bay Rays",
-      "details": "RHPTy Cummingsassigned toTampa Bay Rays.",
-      "player": "Ty Cummings"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Texas Rangers",
-      "details": "2BFrainyer Chavezassigned toTexas Rangers.",
-      "player": "Frainyer Chavez"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Los Angeles Angels",
-      "details": "OFLeTrey McCollumroster status changed byLos Angeles Angels.",
-      "player": "LeTrey McCollum"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Washington Nationals",
-      "details": "RHPTucker Bivenassigned toWashington Nationals.",
-      "player": "Tucker Biven"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Milwaukee Brewers",
-      "details": "SSDaniel Guilarteassigned toMilwaukee Brewers.",
-      "player": "Daniel Guilarte"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Milwaukee Brewers",
-      "details": "LHPBjorn Johnsonassigned toMilwaukee Brewers.",
-      "player": "Bjorn Johnson"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Houston Astros",
-      "details": "SSZach Daudetassigned toHouston Astros.",
-      "player": "Zach Daudet"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Pittsburgh Pirates",
-      "details": "CFLonnie White Jr.assigned toPittsburgh Pirates.",
-      "player": "Lonnie White Jr."
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Baltimore Orioles",
-      "details": "RHPChristian Herberholzassigned toBaltimore Orioles.",
-      "player": "Christian Herberholz"
-    },
-    {
-      "date": "2026-02-22",
-      "team": "Houston Astros",
-      "details": "OFEthan Freyassigned toHouston Astros.",
-      "player": "Ethan Frey"
     }
   ]
 }
