@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-02-23T23:39:20.993818",
+  "last_updated": "2026-02-24T02:49:14.586962",
   "transactions": [
-    {
-      "date": "2026-02-23",
-      "team": "Detroit Tigers",
-      "details": "CFSeth Stephensonassigned toDetroit Tigers.",
-      "player": "Seth Stephenson"
-    },
     {
       "date": "2026-02-23",
       "team": "St. Louis Cardinals",
@@ -87,57 +81,57 @@
     },
     {
       "date": "2026-02-23",
-      "team": "St. Louis Cardinals",
-      "details": "CRyan Camposassigned toSt. Louis Cardinals.",
-      "player": "Ryan Campos"
+      "team": "Milwaukee Brewers",
+      "details": "SSEric Brown Jr.assigned toMilwaukee Brewers.",
+      "player": "Eric Brown Jr."
     },
     {
       "date": "2026-02-23",
-      "team": "Texas Rangers",
-      "details": "RHPAnthony Hoopii-Tuionetoaassigned toTexas Rangers.",
-      "player": "Anthony Hoopii-Tuionetoa"
-    },
-    {
-      "date": "2026-02-23",
-      "team": "Washington Nationals",
-      "details": "RHPYeuris Jimenezassigned toWashington Nationals.",
-      "player": "Yeuris Jimenez"
-    },
-    {
-      "date": "2026-02-23",
-      "team": "Washington Nationals",
-      "details": "RHPRiley Maddoxassigned toWashington Nationals.",
-      "player": "Riley Maddox"
+      "team": "Los Angeles Angels",
+      "details": "OFJorge Ruizassigned toLos Angeles Angels.",
+      "player": "Jorge Ruiz"
     },
     {
       "date": "2026-02-23",
       "team": "Detroit Tigers",
-      "details": "RHPLogan Berrierassigned toDetroit Tigers.",
-      "player": "Logan Berrier"
+      "details": "LHPJorger Petriassigned toDetroit Tigers.",
+      "player": "Jorger Petri"
     },
     {
       "date": "2026-02-23",
-      "team": "Toronto Blue Jays",
-      "details": "CJacob Sharpassigned toToronto Blue Jays.",
-      "player": "Jacob Sharp"
+      "team": "Miami Marlins",
+      "details": "2BGage Millerassigned toMiami Marlins.",
+      "player": "Gage Miller"
     },
     {
       "date": "2026-02-23",
-      "team": "Philadelphia Phillies",
-      "details": "RHPDanyony Pulidoassigned toPhiladelphia Phillies.",
-      "player": "Danyony Pulido"
+      "team": "Chicago White Sox",
+      "details": "RHPMark McLaughlinassigned toChicago White Sox.",
+      "player": "Mark McLaughlin"
     },
     {
       "date": "2026-02-23",
-      "team": "Philadelphia Phillies",
-      "details": "RHPLevi Stoudtassigned toPhiladelphia Phillies.",
-      "player": "Levi Stoudt"
+      "team": "Cleveland Guardians",
+      "details": "RHPSean Matsonassigned toCleveland Guardians.",
+      "player": "Sean Matson"
+    },
+    {
+      "date": "2026-02-23",
+      "team": "Chicago Cubs",
+      "details": "CCarter Triceassigned toChicago Cubs.",
+      "player": "Carter Trice"
+    },
+    {
+      "date": "2026-02-23",
+      "team": "Athletics",
+      "details": "RHPSteven Echavarriaassigned toAthletics.",
+      "player": "Steven Echavarria"
     },
     {
       "date": "2026-02-23",
       "team": "New York Mets",
-      "details": "RHPHoss Brewerassigned toNew York Mets.",
-      "player": "Hoss Brewer"
+      "details": "LHPJefry Yanassigned toNew York Mets.",
+      "player": "Jefry Yan"
     },
     {
       "date": "2026-02-23",
@@ -255,51 +249,57 @@
     },
     {
       "date": "2026-02-23",
+      "team": "St. Louis Cardinals",
+      "details": "CRyan Camposassigned toSt. Louis Cardinals.",
+      "player": "Ryan Campos"
+    },
+    {
+      "date": "2026-02-23",
+      "team": "Texas Rangers",
+      "details": "RHPAnthony Hoopii-Tuionetoaassigned toTexas Rangers.",
+      "player": "Anthony Hoopii-Tuionetoa"
+    },
+    {
+      "date": "2026-02-23",
+      "team": "Washington Nationals",
+      "details": "RHPYeuris Jimenezassigned toWashington Nationals.",
+      "player": "Yeuris Jimenez"
+    },
+    {
+      "date": "2026-02-23",
+      "team": "Washington Nationals",
+      "details": "RHPRiley Maddoxassigned toWashington Nationals.",
+      "player": "Riley Maddox"
+    },
+    {
+      "date": "2026-02-23",
       "team": "Detroit Tigers",
-      "details": "RHPJohn Stankiewiczassigned toDetroit Tigers.",
-      "player": "John Stankiewicz"
+      "details": "RHPLogan Berrierassigned toDetroit Tigers.",
+      "player": "Logan Berrier"
     },
     {
       "date": "2026-02-23",
-      "team": "Boston Red Sox",
-      "details": "RHPCade Feeneyassigned toBoston Red Sox.",
-      "player": "Cade Feeney"
+      "team": "Toronto Blue Jays",
+      "details": "CJacob Sharpassigned toToronto Blue Jays.",
+      "player": "Jacob Sharp"
     },
     {
       "date": "2026-02-23",
-      "team": "Miami Marlins",
-      "details": "LHPJulio Mendezassigned toMiami Marlins.",
-      "player": "Julio Mendez"
+      "team": "Philadelphia Phillies",
+      "details": "RHPDanyony Pulidoassigned toPhiladelphia Phillies.",
+      "player": "Danyony Pulido"
     },
     {
       "date": "2026-02-23",
-      "team": "Chicago Cubs",
-      "details": "3BDrew Bowserassigned toChicago Cubs.",
-      "player": "Drew Bowser"
-    },
-    {
-      "date": "2026-02-23",
-      "team": "Los Angeles Angels",
-      "details": "CFKevyn Castilloassigned toLos Angeles Angels.",
-      "player": "Kevyn Castillo"
+      "team": "Philadelphia Phillies",
+      "details": "RHPLevi Stoudtassigned toPhiladelphia Phillies.",
+      "player": "Levi Stoudt"
     },
     {
       "date": "2026-02-23",
       "team": "Arizona Diamondbacks",
-      "details": "3BYassel Solerassigned toArizona Diamondbacks.",
-      "player": "Yassel Soler"
-    },
-    {
-      "date": "2026-02-23",
-      "team": "Athletics",
-      "details": "RHPJorge Marchecoassigned toAthletics.",
-      "player": "Jorge Marcheco"
-    },
-    {
-      "date": "2026-02-23",
-      "team": "San Francisco Giants",
-      "details": "LHPJack Choateassigned toSan Francisco Giants.",
-      "player": "Jack Choate"
+      "details": "SSDemetrio Crisantesassigned toArizona Diamondbacks.",
+      "player": "Demetrio Crisantes"
     }
   ]
 }
