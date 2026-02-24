@@ -1,89 +1,23 @@
 {
-  "last_updated": "2026-02-24T14:58:42.533627",
+  "last_updated": "2026-02-24T16:09:07.676104",
   "transactions": [
-    {
-      "date": "2026-02-24",
-      "team": "Miami Marlins",
-      "details": "RHPWill Schombergassigned toMiami Marlins.",
-      "player": "Will Schomberg"
-    },
-    {
-      "date": "2026-02-24",
-      "team": "Atlanta Braves",
-      "details": "RHPRyan Bourassaassigned toAtlanta Braves.",
-      "player": "Ryan Bourassa"
-    },
-    {
-      "date": "2026-02-24",
-      "team": "Miami Marlins",
-      "details": "RHPJacob Millerassigned toMiami Marlins.",
-      "player": "Jacob Miller"
-    },
-    {
-      "date": "2026-02-24",
-      "team": "Atlanta Braves",
-      "details": "RHPTrent Buchananassigned toAtlanta Braves.",
-      "player": "Trent Buchanan"
-    },
-    {
-      "date": "2026-02-24",
-      "team": "Tampa Bay Rays",
-      "details": "RHPKyle Whittenassigned toTampa Bay Rays.",
-      "player": "Kyle Whitten"
-    },
-    {
-      "date": "2026-02-24",
-      "team": "Atlanta Braves",
-      "details": "OFOwen Careyassigned toAtlanta Braves.",
-      "player": "Owen Carey"
-    },
-    {
-      "date": "2026-02-24",
-      "team": "Minnesota Twins",
-      "details": "3BBilly Amickassigned toMinnesota Twins.",
-      "player": "Billy Amick"
-    },
-    {
-      "date": "2026-02-24",
-      "team": "Tampa Bay Rays",
-      "details": "CFBrock Jonesassigned toTampa Bay Rays.",
-      "player": "Brock Jones"
-    },
-    {
-      "date": "2026-02-24",
-      "team": "Miami Marlins",
-      "details": "SSCarter Johnsonassigned toMiami Marlins.",
-      "player": "Carter Johnson"
-    },
-    {
-      "date": "2026-02-24",
-      "team": "Detroit Tigers",
-      "details": "1BClayton Campbellassigned toDetroit Tigers.",
-      "player": "Clayton Campbell"
-    },
-    {
-      "date": "2026-02-24",
-      "team": "Miami Marlins",
-      "details": "CFEsmil Valenciaassigned toMiami Marlins.",
-      "player": "Esmil Valencia"
-    },
-    {
-      "date": "2026-02-24",
-      "team": "Minnesota Twins",
-      "details": "RHPXavier Kolhosserassigned toMinnesota Twins.",
-      "player": "Xavier Kolhosser"
-    },
-    {
-      "date": "2026-02-24",
-      "team": "Detroit Tigers",
-      "details": "CFJackson Strongassigned toDetroit Tigers.",
-      "player": "Jackson Strong"
-    },
     {
       "date": "2026-02-24",
       "team": "Detroit Tigers",
       "details": "RHPDariel Fregioassigned toDetroit Tigers.",
       "player": "Dariel Fregio"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "New York Yankees",
+      "details": "CEdinson Duranassigned toNew York Yankees.",
+      "player": "Edinson Duran"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Philadelphia Phillies",
+      "details": "RHPJaydenn Estanistaassigned toPhiladelphia Phillies.",
+      "player": "Jaydenn Estanista"
     },
     {
       "date": "2026-02-24",
@@ -105,6 +39,120 @@
     },
     {
       "date": "2026-02-24",
+      "team": "Tampa Bay Rays",
+      "details": "RHPKyle Whittenassigned toTampa Bay Rays.",
+      "player": "Kyle Whitten"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Minnesota Twins",
+      "details": "3BBilly Amickassigned toMinnesota Twins.",
+      "player": "Billy Amick"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Miami Marlins",
+      "details": "SSCarter Johnsonassigned toMiami Marlins.",
+      "player": "Carter Johnson"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Detroit Tigers",
+      "details": "SSWoody Hadeenassigned toDetroit Tigers.",
+      "player": "Woody Hadeen"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Houston Astros",
+      "details": "1BCJ Alexanderassigned toHouston Astros.",
+      "player": "CJ Alexander"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Detroit Tigers",
+      "details": "RHPKenny Serwaassigned toDetroit Tigers.",
+      "player": "Kenny Serwa"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Miami Marlins",
+      "details": "RHPWill Schombergassigned toMiami Marlins.",
+      "player": "Will Schomberg"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Atlanta Braves",
+      "details": "RHPRyan Bourassaassigned toAtlanta Braves.",
+      "player": "Ryan Bourassa"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Minnesota Twins",
+      "details": "RHPDarren Bowenassigned toMinnesota Twins.",
+      "player": "Darren Bowen"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Miami Marlins",
+      "details": "RHPJacob Millerassigned toMiami Marlins.",
+      "player": "Jacob Miller"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Atlanta Braves",
+      "details": "RHPTrent Buchananassigned toAtlanta Braves.",
+      "player": "Trent Buchanan"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Pittsburgh Pirates",
+      "details": "RHPEmmanuel Chapmanassigned toPittsburgh Pirates.",
+      "player": "Emmanuel Chapman"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Pittsburgh Pirates",
+      "details": "RHPAlexis Torresassigned toPittsburgh Pirates.",
+      "player": "Alexis Torres"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "New York Yankees",
+      "details": "RHPGus Hughesassigned toNew York Yankees.",
+      "player": "Gus Hughes"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Atlanta Braves",
+      "details": "OFOwen Careyassigned toAtlanta Braves.",
+      "player": "Owen Carey"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Tampa Bay Rays",
+      "details": "CFBrock Jonesassigned toTampa Bay Rays.",
+      "player": "Brock Jones"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "New York Yankees",
+      "details": "RHPTommy O'Rourkeassigned toNew York Yankees.",
+      "player": "Tommy O'Rourke"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Boston Red Sox",
+      "details": "RHPGriffin Kilanderassigned toBoston Red Sox.",
+      "player": "Griffin Kilander"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "New York Yankees",
+      "details": "LHPTanner Baumanassigned toNew York Yankees.",
+      "player": "Tanner Bauman"
+    },
+    {
+      "date": "2026-02-24",
       "team": "Minnesota Twins",
       "details": "OFKyle Hessassigned toMinnesota Twins.",
       "player": "Kyle Hess"
@@ -123,9 +171,39 @@
     },
     {
       "date": "2026-02-24",
-      "team": "Houston Astros",
-      "details": "1BCJ Alexanderassigned toHouston Astros.",
-      "player": "CJ Alexander"
+      "team": "Arizona Diamondbacks",
+      "details": "3BJesus Valdezassigned toArizona Diamondbacks.",
+      "player": "Jesus Valdez"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Detroit Tigers",
+      "details": "1BClayton Campbellassigned toDetroit Tigers.",
+      "player": "Clayton Campbell"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Boston Red Sox",
+      "details": "RHPSteven Brooksassigned toBoston Red Sox.",
+      "player": "Steven Brooks"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Miami Marlins",
+      "details": "CFEsmil Valenciaassigned toMiami Marlins.",
+      "player": "Esmil Valencia"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Minnesota Twins",
+      "details": "RHPXavier Kolhosserassigned toMinnesota Twins.",
+      "player": "Xavier Kolhosser"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Minnesota Twins",
+      "details": "SSHarry Genthassigned toMinnesota Twins.",
+      "player": "Harry Genth"
     },
     {
       "date": "2026-02-24",
@@ -138,6 +216,12 @@
       "team": "Tampa Bay Rays",
       "details": "1BWill Simpsonassigned toTampa Bay Rays.",
       "player": "Will Simpson"
+    },
+    {
+      "date": "2026-02-24",
+      "team": "Arizona Diamondbacks",
+      "details": "CAdrian De Leonassigned toArizona Diamondbacks.",
+      "player": "Adrian De Leon"
     },
     {
       "date": "2026-02-24",
@@ -159,6 +243,12 @@
     },
     {
       "date": "2026-02-24",
+      "team": "New York Yankees",
+      "details": "RHPCade Smithassigned toNew York Yankees.",
+      "player": "Cade Smith"
+    },
+    {
+      "date": "2026-02-24",
       "team": "Minnesota Twins",
       "details": "SSShai Robinsonassigned toMinnesota Twins.",
       "player": "Shai Robinson"
@@ -171,21 +261,15 @@
     },
     {
       "date": "2026-02-24",
-      "team": "Detroit Tigers",
-      "details": "SSWoody Hadeenassigned toDetroit Tigers.",
-      "player": "Woody Hadeen"
-    },
-    {
-      "date": "2026-02-24",
-      "team": "Minnesota Twins",
-      "details": "SSHarry Genthassigned toMinnesota Twins.",
-      "player": "Harry Genth"
+      "team": "Arizona Diamondbacks",
+      "details": "LHPCarlos Reyassigned toArizona Diamondbacks.",
+      "player": "Carlos Rey"
     },
     {
       "date": "2026-02-24",
       "team": "Detroit Tigers",
-      "details": "RHPKenny Serwaassigned toDetroit Tigers.",
-      "player": "Kenny Serwa"
+      "details": "CFJackson Strongassigned toDetroit Tigers.",
+      "player": "Jackson Strong"
     }
   ]
 }
