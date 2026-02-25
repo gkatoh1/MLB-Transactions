@@ -1,11 +1,29 @@
 {
-  "last_updated": "2026-02-25T14:58:28.079875",
+  "last_updated": "2026-02-25T16:14:12.524138",
   "transactions": [
     {
       "date": "2026-02-25",
       "team": "Detroit Tigers",
-      "details": "OFNick Dumesnilassigned toDetroit Tigers.",
-      "player": "Nick Dumesnil"
+      "details": "LFBrett Callahanassigned toDetroit Tigers.",
+      "player": "Brett Callahan"
+    },
+    {
+      "date": "2026-02-25",
+      "team": "Detroit Tigers",
+      "details": "RHPZack Leeassigned toDetroit Tigers.",
+      "player": "Zack Lee"
+    },
+    {
+      "date": "2026-02-25",
+      "team": "Miami Marlins",
+      "details": "CVictor Ortegaassigned toMiami Marlins.",
+      "player": "Victor Ortega"
+    },
+    {
+      "date": "2026-02-25",
+      "team": "Detroit Tigers",
+      "details": "RHPTrevin Michaelassigned toDetroit Tigers.",
+      "player": "Trevin Michael"
     },
     {
       "date": "2026-02-25",
@@ -18,6 +36,12 @@
       "team": "Miami Marlins",
       "details": "RHPOrlando Ortiz-Mayrassigned toMiami Marlins.",
       "player": "Orlando Ortiz-Mayr"
+    },
+    {
+      "date": "2026-02-25",
+      "team": "Tampa Bay Rays",
+      "details": "OFJose Perezassigned toTampa Bay Rays.",
+      "player": "Jose Perez"
     },
     {
       "date": "2026-02-25",
@@ -51,18 +75,6 @@
     },
     {
       "date": "2026-02-25",
-      "team": "Detroit Tigers",
-      "details": "3BCristian Santanaassigned toDetroit Tigers.",
-      "player": "Cristian Santana"
-    },
-    {
-      "date": "2026-02-25",
-      "team": "Detroit Tigers",
-      "details": "RHPMoises Rodriguezassigned toDetroit Tigers.",
-      "player": "Moises Rodriguez"
-    },
-    {
-      "date": "2026-02-25",
       "team": "Miami Marlins",
       "details": "CFDillon Headassigned toMiami Marlins.",
       "player": "Dillon Head"
@@ -75,39 +87,63 @@
     },
     {
       "date": "2026-02-25",
-      "team": "St. Louis Cardinals",
-      "details": "CChase Heathassigned toSt. Louis Cardinals.",
-      "player": "Chase Heath"
+      "team": "Tampa Bay Rays",
+      "details": "SSÉmilien Pitreassigned toTampa Bay Rays.",
+      "player": "Émilien Pitre"
     },
     {
       "date": "2026-02-25",
       "team": "Detroit Tigers",
-      "details": "LFBrett Callahanassigned toDetroit Tigers.",
-      "player": "Brett Callahan"
+      "details": "3BCristian Santanaassigned toDetroit Tigers.",
+      "player": "Cristian Santana"
+    },
+    {
+      "date": "2026-02-25",
+      "team": "Philadelphia Phillies",
+      "details": "RFRaylin Herediaassigned toPhiladelphia Phillies.",
+      "player": "Raylin Heredia"
     },
     {
       "date": "2026-02-25",
       "team": "Detroit Tigers",
-      "details": "RHPZack Leeassigned toDetroit Tigers.",
-      "player": "Zack Lee"
+      "details": "OFNick Dumesnilassigned toDetroit Tigers.",
+      "player": "Nick Dumesnil"
     },
     {
       "date": "2026-02-25",
-      "team": "Miami Marlins",
-      "details": "CVictor Ortegaassigned toMiami Marlins.",
-      "player": "Victor Ortega"
+      "team": "Philadelphia Phillies",
+      "details": "2BTrent Farquharassigned toPhiladelphia Phillies.",
+      "player": "Trent Farquhar"
     },
     {
       "date": "2026-02-25",
-      "team": "Detroit Tigers",
-      "details": "RHPTrevin Michaelassigned toDetroit Tigers.",
-      "player": "Trevin Michael"
+      "team": "Tampa Bay Rays",
+      "details": "SSAdrian Santanaassigned toTampa Bay Rays.",
+      "player": "Adrian Santana"
+    },
+    {
+      "date": "2026-02-25",
+      "team": "Philadelphia Phillies",
+      "details": "SSDevin Saltibanassigned toPhiladelphia Phillies.",
+      "player": "Devin Saltiban"
     },
     {
       "date": "2026-02-25",
       "team": "Detroit Tigers",
       "details": "CRicardo Hurtadoassigned toDetroit Tigers.",
       "player": "Ricardo Hurtado"
+    },
+    {
+      "date": "2026-02-25",
+      "team": "Detroit Tigers",
+      "details": "RHPMoises Rodriguezassigned toDetroit Tigers.",
+      "player": "Moises Rodriguez"
+    },
+    {
+      "date": "2026-02-25",
+      "team": "St. Louis Cardinals",
+      "details": "CChase Heathassigned toSt. Louis Cardinals.",
+      "player": "Chase Heath"
     }
   ]
 }
