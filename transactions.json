@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-25T21:41:27.690284",
+  "last_updated": "2026-02-25T22:41:36.756073",
   "transactions": [
     {
       "date": "2026-02-25",
@@ -70,32 +70,8 @@
     {
       "date": "2026-02-25",
       "team": "Detroit Tigers",
-      "details": "RHPTanner Kohlheppassigned toDetroit Tigers.",
-      "player": "Tanner Kohlhepp"
-    },
-    {
-      "date": "2026-02-25",
-      "team": "Minnesota Twins",
-      "details": "RFJaime Ferrerassigned toMinnesota Twins.",
-      "player": "Jaime Ferrer"
-    },
-    {
-      "date": "2026-02-25",
-      "team": "Detroit Tigers",
-      "details": "1BAndrew Jenkinsassigned toDetroit Tigers.",
-      "player": "Andrew Jenkins"
-    },
-    {
-      "date": "2026-02-25",
-      "team": "Detroit Tigers",
-      "details": "RHPYosber Sanchezassigned toDetroit Tigers.",
-      "player": "Yosber Sanchez"
-    },
-    {
-      "date": "2026-02-25",
-      "team": "Detroit Tigers",
-      "details": "RHPMoises Rodriguezassigned toDetroit Tigers.",
-      "player": "Moises Rodriguez"
+      "details": "3BCristian Santanaassigned toDetroit Tigers.",
+      "player": "Cristian Santana"
     },
     {
       "date": "2026-02-25",
@@ -129,45 +105,15 @@
     },
     {
       "date": "2026-02-25",
-      "team": "Miami Marlins",
-      "details": "RHPOrlando Ortiz-Mayrassigned toMiami Marlins.",
-      "player": "Orlando Ortiz-Mayr"
-    },
-    {
-      "date": "2026-02-25",
-      "team": "Tampa Bay Rays",
-      "details": "OFJose Perezassigned toTampa Bay Rays.",
-      "player": "Jose Perez"
-    },
-    {
-      "date": "2026-02-25",
-      "team": "Chicago Cubs",
-      "details": "LFDerik Alcantaraassigned toChicago Cubs.",
-      "player": "Derik Alcantara"
-    },
-    {
-      "date": "2026-02-25",
-      "team": "Minnesota Twins",
-      "details": "RHPKyle Bischoffroster status changed byMinnesota Twins.",
-      "player": "Kyle Bischoff"
-    },
-    {
-      "date": "2026-02-25",
       "team": "Detroit Tigers",
-      "details": "CBennett Leeassigned toDetroit Tigers.",
-      "player": "Bennett Lee"
+      "details": "RHPLuke Stofelassigned toDetroit Tigers.",
+      "player": "Luke Stofel"
     },
     {
       "date": "2026-02-25",
-      "team": "Atlanta Braves",
-      "details": "CArcher Brookmanassigned toAtlanta Braves.",
-      "player": "Archer Brookman"
-    },
-    {
-      "date": "2026-02-25",
-      "team": "Washington Nationals",
-      "details": "CCaleb Farmerassigned toWashington Nationals.",
-      "player": "Caleb Farmer"
+      "team": "Baltimore Orioles",
+      "details": "SSWehiwa Aloyassigned toBaltimore Orioles.",
+      "player": "Wehiwa Aloy"
     },
     {
       "date": "2026-02-25",
@@ -178,8 +124,14 @@
     {
       "date": "2026-02-25",
       "team": "Detroit Tigers",
-      "details": "3BCristian Santanaassigned toDetroit Tigers.",
-      "player": "Cristian Santana"
+      "details": "1BAndrew Jenkinsassigned toDetroit Tigers.",
+      "player": "Andrew Jenkins"
+    },
+    {
+      "date": "2026-02-25",
+      "team": "Detroit Tigers",
+      "details": "RHPYosber Sanchezassigned toDetroit Tigers.",
+      "player": "Yosber Sanchez"
     },
     {
       "date": "2026-02-25",
@@ -207,9 +159,15 @@
     },
     {
       "date": "2026-02-25",
-      "team": "Chicago White Sox",
-      "details": "3BJeral Perezassigned toChicago White Sox.",
-      "player": "Jeral Perez"
+      "team": "Philadelphia Phillies",
+      "details": "RFRaylin Herediaassigned toPhiladelphia Phillies.",
+      "player": "Raylin Heredia"
+    },
+    {
+      "date": "2026-02-25",
+      "team": "Detroit Tigers",
+      "details": "RHPMoises Rodriguezassigned toDetroit Tigers.",
+      "player": "Moises Rodriguez"
     },
     {
       "date": "2026-02-25",
@@ -286,14 +244,56 @@
     {
       "date": "2026-02-25",
       "team": "Detroit Tigers",
-      "details": "RHPLuke Stofelassigned toDetroit Tigers.",
-      "player": "Luke Stofel"
+      "details": "RHPTanner Kohlheppassigned toDetroit Tigers.",
+      "player": "Tanner Kohlhepp"
     },
     {
       "date": "2026-02-25",
-      "team": "Baltimore Orioles",
-      "details": "SSWehiwa Aloyassigned toBaltimore Orioles.",
-      "player": "Wehiwa Aloy"
+      "team": "Miami Marlins",
+      "details": "RHPOrlando Ortiz-Mayrassigned toMiami Marlins.",
+      "player": "Orlando Ortiz-Mayr"
+    },
+    {
+      "date": "2026-02-25",
+      "team": "Tampa Bay Rays",
+      "details": "OFJose Perezassigned toTampa Bay Rays.",
+      "player": "Jose Perez"
+    },
+    {
+      "date": "2026-02-25",
+      "team": "Chicago Cubs",
+      "details": "LFDerik Alcantaraassigned toChicago Cubs.",
+      "player": "Derik Alcantara"
+    },
+    {
+      "date": "2026-02-25",
+      "team": "Minnesota Twins",
+      "details": "RFJaime Ferrerassigned toMinnesota Twins.",
+      "player": "Jaime Ferrer"
+    },
+    {
+      "date": "2026-02-25",
+      "team": "Minnesota Twins",
+      "details": "RHPKyle Bischoffroster status changed byMinnesota Twins.",
+      "player": "Kyle Bischoff"
+    },
+    {
+      "date": "2026-02-25",
+      "team": "Detroit Tigers",
+      "details": "CBennett Leeassigned toDetroit Tigers.",
+      "player": "Bennett Lee"
+    },
+    {
+      "date": "2026-02-25",
+      "team": "Atlanta Braves",
+      "details": "CArcher Brookmanassigned toAtlanta Braves.",
+      "player": "Archer Brookman"
+    },
+    {
+      "date": "2026-02-25",
+      "team": "Washington Nationals",
+      "details": "CCaleb Farmerassigned toWashington Nationals.",
+      "player": "Caleb Farmer"
     },
     {
       "date": "2026-02-25",
