@@ -1,11 +1,95 @@
 {
-  "last_updated": "2026-02-26T21:39:00.891331",
+  "last_updated": "2026-02-26T22:41:15.339854",
   "transactions": [
     {
       "date": "2026-02-26",
       "team": "New York Mets",
       "details": "2BD'Andre Smithassigned toNew York Mets.",
       "player": "D'Andre Smith"
+    },
+    {
+      "date": "2026-02-26",
+      "team": "Tampa Bay Rays",
+      "details": "CBryan Broeckerassigned toTampa Bay Rays.",
+      "player": "Bryan Broecker"
+    },
+    {
+      "date": "2026-02-26",
+      "team": "Seattle Mariners",
+      "details": "RHPAbdiel Mendozaassigned toSeattle Mariners.",
+      "player": "Abdiel Mendoza"
+    },
+    {
+      "date": "2026-02-26",
+      "team": "Chicago Cubs",
+      "details": "CMiguel Usecheassigned toChicago Cubs.",
+      "player": "Miguel Useche"
+    },
+    {
+      "date": "2026-02-26",
+      "team": "Atlanta Braves",
+      "details": "3BJordan Groshansassigned toAtlanta Braves.",
+      "player": "Jordan Groshans"
+    },
+    {
+      "date": "2026-02-26",
+      "team": "Washington Nationals",
+      "details": "SSKervin Pichardoassigned toWashington Nationals.",
+      "player": "Kervin Pichardo"
+    },
+    {
+      "date": "2026-02-26",
+      "team": "San Diego Padres",
+      "details": "CYoiber Ocopioassigned toSan Diego Padres.",
+      "player": "Yoiber Ocopio"
+    },
+    {
+      "date": "2026-02-26",
+      "team": "St. Louis Cardinals",
+      "details": "SSYairo Padillaassigned toSt. Louis Cardinals.",
+      "player": "Yairo Padilla"
+    },
+    {
+      "date": "2026-02-26",
+      "team": "Texas Rangers",
+      "details": "RHPJoey Danielsonassigned toTexas Rangers.",
+      "player": "Joey Danielson"
+    },
+    {
+      "date": "2026-02-26",
+      "team": "Colorado Rockies",
+      "details": "RHPCade Dentonassigned toColorado Rockies.",
+      "player": "Cade Denton"
+    },
+    {
+      "date": "2026-02-26",
+      "team": "Houston Astros",
+      "details": "RHPNolan DeVosassigned toHouston Astros.",
+      "player": "Nolan DeVos"
+    },
+    {
+      "date": "2026-02-26",
+      "team": "Cincinnati Reds",
+      "details": "RHPJeanPierre Ortizassigned toCincinnati Reds.",
+      "player": "JeanPierre Ortiz"
+    },
+    {
+      "date": "2026-02-26",
+      "team": "Detroit Tigers",
+      "details": "RHPTim Naughtonassigned toDetroit Tigers.",
+      "player": "Tim Naughton"
+    },
+    {
+      "date": "2026-02-26",
+      "team": "Texas Rangers",
+      "details": "2BLuis Marquezassigned toTexas Rangers.",
+      "player": "Luis Marquez"
+    },
+    {
+      "date": "2026-02-26",
+      "team": "Detroit Tigers",
+      "details": "SSJack Goodmanassigned toDetroit Tigers.",
+      "player": "Jack Goodman"
     },
     {
       "date": "2026-02-26",
@@ -39,105 +123,33 @@
     },
     {
       "date": "2026-02-26",
-      "team": "Washington Nationals",
-      "details": "SSKervin Pichardoassigned toWashington Nationals.",
-      "player": "Kervin Pichardo"
-    },
-    {
-      "date": "2026-02-26",
-      "team": "San Diego Padres",
-      "details": "CYoiber Ocopioassigned toSan Diego Padres.",
-      "player": "Yoiber Ocopio"
-    },
-    {
-      "date": "2026-02-26",
-      "team": "Detroit Tigers",
-      "details": "SSJack Goodmanassigned toDetroit Tigers.",
-      "player": "Jack Goodman"
+      "team": "Houston Astros",
+      "details": "LFJuan Sierraassigned toHouston Astros.",
+      "player": "Juan Sierra"
     },
     {
       "date": "2026-02-26",
       "team": "Texas Rangers",
-      "details": "RHPJoey Danielsonassigned toTexas Rangers.",
-      "player": "Joey Danielson"
-    },
-    {
-      "date": "2026-02-26",
-      "team": "St. Louis Cardinals",
-      "details": "SSYairo Padillaassigned toSt. Louis Cardinals.",
-      "player": "Yairo Padilla"
-    },
-    {
-      "date": "2026-02-26",
-      "team": "Tampa Bay Rays",
-      "details": "CBryan Broeckerassigned toTampa Bay Rays.",
-      "player": "Bryan Broecker"
-    },
-    {
-      "date": "2026-02-26",
-      "team": "Seattle Mariners",
-      "details": "RHPAbdiel Mendozaassigned toSeattle Mariners.",
-      "player": "Abdiel Mendoza"
-    },
-    {
-      "date": "2026-02-26",
-      "team": "Chicago Cubs",
-      "details": "CMiguel Usecheassigned toChicago Cubs.",
-      "player": "Miguel Useche"
-    },
-    {
-      "date": "2026-02-26",
-      "team": "Atlanta Braves",
-      "details": "3BJordan Groshansassigned toAtlanta Braves.",
-      "player": "Jordan Groshans"
-    },
-    {
-      "date": "2026-02-26",
-      "team": "New York Yankees",
-      "details": "RHPJack Sokolassigned toNew York Yankees.",
-      "player": "Jack Sokol"
-    },
-    {
-      "date": "2026-02-26",
-      "team": "Cincinnati Reds",
-      "details": "RHPTaylor Floydassigned toCincinnati Reds.",
-      "player": "Taylor Floyd"
-    },
-    {
-      "date": "2026-02-26",
-      "team": "Colorado Rockies",
-      "details": "RHPCade Dentonassigned toColorado Rockies.",
-      "player": "Cade Denton"
-    },
-    {
-      "date": "2026-02-26",
-      "team": "Houston Astros",
-      "details": "RHPNolan DeVosassigned toHouston Astros.",
-      "player": "Nolan DeVos"
-    },
-    {
-      "date": "2026-02-26",
-      "team": "Cincinnati Reds",
-      "details": "RHPJeanPierre Ortizassigned toCincinnati Reds.",
-      "player": "JeanPierre Ortiz"
-    },
-    {
-      "date": "2026-02-26",
-      "team": "Arizona Diamondbacks",
-      "details": "SSAdrian Rodriguezassigned toArizona Diamondbacks.",
-      "player": "Adrian Rodriguez"
+      "details": "RFMaxton Martinassigned toTexas Rangers.",
+      "player": "Maxton Martin"
     },
     {
       "date": "2026-02-26",
       "team": "Los Angeles Angels",
-      "details": "2BAlec Gomezassigned toLos Angeles Angels.",
-      "player": "Alec Gomez"
+      "details": "SSGreylin De La Pazassigned toLos Angeles Angels.",
+      "player": "Greylin De La Paz"
     },
     {
       "date": "2026-02-26",
-      "team": "Boston Red Sox",
-      "details": "RHPWuilliams Rodriguezassigned toBoston Red Sox.",
-      "player": "Wuilliams Rodriguez"
+      "team": "Los Angeles Angels",
+      "details": "SSFelix Morrobelassigned toLos Angeles Angels.",
+      "player": "Felix Morrobel"
+    },
+    {
+      "date": "2026-02-26",
+      "team": "Athletics",
+      "details": "RHPJake Garlandassigned toAthletics.",
+      "player": "Jake Garland"
     },
     {
       "date": "2026-02-26",
@@ -207,6 +219,12 @@
     },
     {
       "date": "2026-02-26",
+      "team": "Cleveland Guardians",
+      "details": "SSWelbyn Franciscaassigned toCleveland Guardians.",
+      "player": "Welbyn Francisca"
+    },
+    {
+      "date": "2026-02-26",
       "team": "Detroit Tigers",
       "details": "RHPLuke Taggartassigned toDetroit Tigers.",
       "player": "Luke Taggart"
@@ -249,6 +267,18 @@
     },
     {
       "date": "2026-02-26",
+      "team": "New York Yankees",
+      "details": "RHPJack Sokolassigned toNew York Yankees.",
+      "player": "Jack Sokol"
+    },
+    {
+      "date": "2026-02-26",
+      "team": "Cincinnati Reds",
+      "details": "RHPTaylor Floydassigned toCincinnati Reds.",
+      "player": "Taylor Floyd"
+    },
+    {
+      "date": "2026-02-26",
       "team": "Tampa Bay Rays",
       "details": "OFMarshall Tooleassigned toTampa Bay Rays.",
       "player": "Marshall Toole"
@@ -267,39 +297,9 @@
     },
     {
       "date": "2026-02-26",
-      "team": "Houston Astros",
-      "details": "LFJuan Sierraassigned toHouston Astros.",
-      "player": "Juan Sierra"
-    },
-    {
-      "date": "2026-02-26",
-      "team": "Texas Rangers",
-      "details": "RFMaxton Martinassigned toTexas Rangers.",
-      "player": "Maxton Martin"
-    },
-    {
-      "date": "2026-02-26",
-      "team": "Los Angeles Angels",
-      "details": "SSGreylin De La Pazassigned toLos Angeles Angels.",
-      "player": "Greylin De La Paz"
-    },
-    {
-      "date": "2026-02-26",
-      "team": "Los Angeles Angels",
-      "details": "SSFelix Morrobelassigned toLos Angeles Angels.",
-      "player": "Felix Morrobel"
-    },
-    {
-      "date": "2026-02-26",
-      "team": "Athletics",
-      "details": "RHPJake Garlandassigned toAthletics.",
-      "player": "Jake Garland"
-    },
-    {
-      "date": "2026-02-26",
-      "team": "Detroit Tigers",
-      "details": "RHPTim Naughtonassigned toDetroit Tigers.",
-      "player": "Tim Naughton"
+      "team": "Arizona Diamondbacks",
+      "details": "SSAdrian Rodriguezassigned toArizona Diamondbacks.",
+      "player": "Adrian Rodriguez"
     }
   ]
 }
