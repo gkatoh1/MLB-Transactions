@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-02-26T14:54:46.735505",
+  "last_updated": "2026-02-26T16:00:04.582974",
   "transactions": [
     {
       "date": "2026-02-26",
-      "team": "Tampa Bay Rays",
-      "details": "OFMarshall Tooleassigned toTampa Bay Rays.",
-      "player": "Marshall Toole"
+      "team": "Colorado Rockies",
+      "details": "RHPCade Dentonassigned toColorado Rockies.",
+      "player": "Cade Denton"
     },
     {
       "date": "2026-02-26",
@@ -27,9 +27,15 @@
     },
     {
       "date": "2026-02-26",
-      "team": "Colorado Rockies",
-      "details": "RHPCade Dentonassigned toColorado Rockies.",
-      "player": "Cade Denton"
+      "team": "New York Yankees",
+      "details": "RHPJack Sokolassigned toNew York Yankees.",
+      "player": "Jack Sokol"
+    },
+    {
+      "date": "2026-02-26",
+      "team": "Tampa Bay Rays",
+      "details": "OFMarshall Tooleassigned toTampa Bay Rays.",
+      "player": "Marshall Toole"
     }
   ]
 }
