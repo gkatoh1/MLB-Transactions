@@ -1,17 +1,29 @@
 {
-  "last_updated": "2026-02-27T14:48:32.905918",
+  "last_updated": "2026-02-27T15:44:58.210572",
   "transactions": [
     {
       "date": "2026-02-27",
       "team": "Philadelphia Phillies",
-      "details": "1BAlex Binelasassigned toPhiladelphia Phillies.",
-      "player": "Alex Binelas"
+      "details": "LFCade Fergusassigned toPhiladelphia Phillies.",
+      "player": "Cade Fergus"
     },
     {
       "date": "2026-02-27",
-      "team": "Philadelphia Phillies",
-      "details": "RFNick Biddisonassigned toPhiladelphia Phillies.",
-      "player": "Nick Biddison"
+      "team": "Pittsburgh Pirates",
+      "details": "LHPJaden Woodsassigned toPittsburgh Pirates.",
+      "player": "Jaden Woods"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Toronto Blue Jays",
+      "details": "2BMaddox Lattaassigned toToronto Blue Jays.",
+      "player": "Maddox Latta"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Toronto Blue Jays",
+      "details": "2BJ.R. Freethyassigned toToronto Blue Jays.",
+      "player": "J.R. Freethy"
     },
     {
       "date": "2026-02-27",
@@ -64,8 +76,20 @@
     {
       "date": "2026-02-27",
       "team": "Philadelphia Phillies",
-      "details": "LFCade Fergusassigned toPhiladelphia Phillies.",
-      "player": "Cade Fergus"
+      "details": "1BAlex Binelasassigned toPhiladelphia Phillies.",
+      "player": "Alex Binelas"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Philadelphia Phillies",
+      "details": "RFNick Biddisonassigned toPhiladelphia Phillies.",
+      "player": "Nick Biddison"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Pittsburgh Pirates",
+      "details": "RHPJoshua Loeschornassigned toPittsburgh Pirates.",
+      "player": "Joshua Loeschorn"
     }
   ]
 }
