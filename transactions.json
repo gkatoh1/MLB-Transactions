@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-02-27T21:36:09.783664",
+  "last_updated": "2026-02-27T22:32:39.417255",
   "transactions": [
+    {
+      "date": "2026-02-27",
+      "team": "Minnesota Twins",
+      "details": "2BRamiro Dominguezassigned toMinnesota Twins.",
+      "player": "Ramiro Dominguez"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Cleveland Guardians",
+      "details": "OFAaron Waltonassigned toCleveland Guardians.",
+      "player": "Aaron Walton"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Philadelphia Phillies",
+      "details": "OFJack Barkerassigned toPhiladelphia Phillies.",
+      "player": "Jack Barker"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Philadelphia Phillies",
+      "details": "CKodey Shojinagaassigned toPhiladelphia Phillies.",
+      "player": "Kodey Shojinaga"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Minnesota Twins",
+      "details": "3BJay Thomasonassigned toMinnesota Twins.",
+      "player": "Jay Thomason"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Cincinnati Reds",
+      "details": "LFYerlin Confidanassigned toCincinnati Reds.",
+      "player": "Yerlin Confidan"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Cleveland Guardians",
+      "details": "1BMaick Colladoassigned toCleveland Guardians.",
+      "player": "Maick Collado"
+    },
     {
       "date": "2026-02-27",
       "team": "Philadelphia Phillies",
@@ -18,36 +60,6 @@
       "team": "Chicago White Sox",
       "details": "CJackson Appelassigned toChicago White Sox.",
       "player": "Jackson Appel"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Boston Red Sox",
-      "details": "SSAvinson Pintoassigned toBoston Red Sox.",
-      "player": "Avinson Pinto"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Toronto Blue Jays",
-      "details": "2BMaddox Lattaassigned toToronto Blue Jays.",
-      "player": "Maddox Latta"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "San Diego Padres",
-      "details": "OFKasen Wellsassigned toSan Diego Padres.",
-      "player": "Kasen Wells"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Chicago White Sox",
-      "details": "3BAnthony DePinoassigned toChicago White Sox.",
-      "player": "Anthony DePino"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Toronto Blue Jays",
-      "details": "2BJ.R. Freethyassigned toToronto Blue Jays.",
-      "player": "J.R. Freethy"
     },
     {
       "date": "2026-02-27",
@@ -99,9 +111,33 @@
     },
     {
       "date": "2026-02-27",
-      "team": "Los Angeles Dodgers",
-      "details": "1BJoe Vetranoassigned toLos Angeles Dodgers.",
-      "player": "Joe Vetrano"
+      "team": "Toronto Blue Jays",
+      "details": "2BMaddox Lattaassigned toToronto Blue Jays.",
+      "player": "Maddox Latta"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "San Diego Padres",
+      "details": "OFKasen Wellsassigned toSan Diego Padres.",
+      "player": "Kasen Wells"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Chicago White Sox",
+      "details": "3BAnthony DePinoassigned toChicago White Sox.",
+      "player": "Anthony DePino"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Philadelphia Phillies",
+      "details": "RHPSam Highfillassigned toPhiladelphia Phillies.",
+      "player": "Sam Highfill"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Chicago White Sox",
+      "details": "SSKyle Lodiseassigned toChicago White Sox.",
+      "player": "Kyle Lodise"
     },
     {
       "date": "2026-02-27",
@@ -177,57 +213,33 @@
     },
     {
       "date": "2026-02-27",
-      "team": "Minnesota Twins",
-      "details": "2BRamiro Dominguezassigned toMinnesota Twins.",
-      "player": "Ramiro Dominguez"
+      "team": "Boston Red Sox",
+      "details": "SSAvinson Pintoassigned toBoston Red Sox.",
+      "player": "Avinson Pinto"
     },
     {
       "date": "2026-02-27",
-      "team": "Cleveland Guardians",
-      "details": "OFAaron Waltonassigned toCleveland Guardians.",
-      "player": "Aaron Walton"
+      "team": "Toronto Blue Jays",
+      "details": "2BJ.R. Freethyassigned toToronto Blue Jays.",
+      "player": "J.R. Freethy"
     },
     {
       "date": "2026-02-27",
-      "team": "Philadelphia Phillies",
-      "details": "OFJack Barkerassigned toPhiladelphia Phillies.",
-      "player": "Jack Barker"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Philadelphia Phillies",
-      "details": "CKodey Shojinagaassigned toPhiladelphia Phillies.",
-      "player": "Kodey Shojinaga"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Minnesota Twins",
-      "details": "3BJay Thomasonassigned toMinnesota Twins.",
-      "player": "Jay Thomason"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Cincinnati Reds",
-      "details": "LFYerlin Confidanassigned toCincinnati Reds.",
-      "player": "Yerlin Confidan"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Cleveland Guardians",
-      "details": "1BMaick Colladoassigned toCleveland Guardians.",
-      "player": "Maick Collado"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Philadelphia Phillies",
-      "details": "RHPSam Highfillassigned toPhiladelphia Phillies.",
-      "player": "Sam Highfill"
+      "team": "Milwaukee Brewers",
+      "details": "CMarco Dingesassigned toMilwaukee Brewers.",
+      "player": "Marco Dinges"
     },
     {
       "date": "2026-02-27",
       "team": "Chicago White Sox",
-      "details": "SSKyle Lodiseassigned toChicago White Sox.",
-      "player": "Kyle Lodise"
+      "details": "CFSamuel Zavalaassigned toChicago White Sox.",
+      "player": "Samuel Zavala"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Los Angeles Dodgers",
+      "details": "1BJoe Vetranoassigned toLos Angeles Dodgers.",
+      "player": "Joe Vetrano"
     },
     {
       "date": "2026-02-27",
@@ -282,18 +294,6 @@
       "team": "Cincinnati Reds",
       "details": "RHPNestor Lorantassigned toCincinnati Reds.",
       "player": "Nestor Lorant"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Milwaukee Brewers",
-      "details": "CMarco Dingesassigned toMilwaukee Brewers.",
-      "player": "Marco Dinges"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Chicago White Sox",
-      "details": "CFSamuel Zavalaassigned toChicago White Sox.",
-      "player": "Samuel Zavala"
     }
   ]
 }
