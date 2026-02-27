@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T17:42:19.555402",
+  "last_updated": "2026-02-27T18:56:09.457433",
   "transactions": [
     {
       "date": "2026-02-27",
@@ -45,15 +45,45 @@
     },
     {
       "date": "2026-02-27",
+      "team": "Milwaukee Brewers",
+      "details": "OFJosiah Ragsdaleassigned toMilwaukee Brewers.",
+      "player": "Josiah Ragsdale"
+    },
+    {
+      "date": "2026-02-27",
       "team": "Boston Red Sox",
       "details": "SSAvinson Pintoassigned toBoston Red Sox.",
       "player": "Avinson Pinto"
     },
     {
       "date": "2026-02-27",
+      "team": "Toronto Blue Jays",
+      "details": "2BMaddox Lattaassigned toToronto Blue Jays.",
+      "player": "Maddox Latta"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "San Diego Padres",
+      "details": "OFKasen Wellsassigned toSan Diego Padres.",
+      "player": "Kasen Wells"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Los Angeles Dodgers",
+      "details": "1BJoe Vetranoassigned toLos Angeles Dodgers.",
+      "player": "Joe Vetrano"
+    },
+    {
+      "date": "2026-02-27",
       "team": "Cincinnati Reds",
-      "details": "SSAlexander Vargasassigned toCincinnati Reds.",
-      "player": "Alexander Vargas"
+      "details": "CDiego Omanaassigned toCincinnati Reds.",
+      "player": "Diego Omana"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Cincinnati Reds",
+      "details": "RHPJared Lyonsassigned toCincinnati Reds.",
+      "player": "Jared Lyons"
     },
     {
       "date": "2026-02-27",
@@ -105,51 +135,9 @@
     },
     {
       "date": "2026-02-27",
-      "team": "Toronto Blue Jays",
-      "details": "2BMaddox Lattaassigned toToronto Blue Jays.",
-      "player": "Maddox Latta"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "San Diego Padres",
-      "details": "OFKasen Wellsassigned toSan Diego Padres.",
-      "player": "Kasen Wells"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Toronto Blue Jays",
-      "details": "2BJ.R. Freethyassigned toToronto Blue Jays.",
-      "player": "J.R. Freethy"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Los Angeles Dodgers",
-      "details": "1BJoe Vetranoassigned toLos Angeles Dodgers.",
-      "player": "Joe Vetrano"
-    },
-    {
-      "date": "2026-02-27",
       "team": "Philadelphia Phillies",
       "details": "RHPSam Highfillassigned toPhiladelphia Phillies.",
       "player": "Sam Highfill"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Detroit Tigers",
-      "details": "LHPJoe Millerassigned toDetroit Tigers.",
-      "player": "Joe Miller"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Cincinnati Reds",
-      "details": "CDiego Omanaassigned toCincinnati Reds.",
-      "player": "Diego Omana"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Cincinnati Reds",
-      "details": "RHPJared Lyonsassigned toCincinnati Reds.",
-      "player": "Jared Lyons"
     },
     {
       "date": "2026-02-27",
@@ -177,9 +165,9 @@
     },
     {
       "date": "2026-02-27",
-      "team": "Philadelphia Phillies",
-      "details": "OFNathan Humphreysassigned toPhiladelphia Phillies.",
-      "player": "Nathan Humphreys"
+      "team": "Colorado Rockies",
+      "details": "LHPEvan Justiceassigned toColorado Rockies.",
+      "player": "Evan Justice"
     },
     {
       "date": "2026-02-27",
@@ -195,15 +183,9 @@
     },
     {
       "date": "2026-02-27",
-      "team": "San Diego Padres",
-      "details": "CJack Matheyassigned toSan Diego Padres.",
-      "player": "Jack Mathey"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Cincinnati Reds",
-      "details": "RHPNestor Lorantassigned toCincinnati Reds.",
-      "player": "Nestor Lorant"
+      "team": "Texas Rangers",
+      "details": "3BRafe Perichassigned toTexas Rangers.",
+      "player": "Rafe Perich"
     },
     {
       "date": "2026-02-27",
@@ -219,9 +201,45 @@
     },
     {
       "date": "2026-02-27",
-      "team": "Texas Rangers",
-      "details": "3BRafe Perichassigned toTexas Rangers.",
-      "player": "Rafe Perich"
+      "team": "Toronto Blue Jays",
+      "details": "2BJ.R. Freethyassigned toToronto Blue Jays.",
+      "player": "J.R. Freethy"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Milwaukee Brewers",
+      "details": "CMarco Dingesassigned toMilwaukee Brewers.",
+      "player": "Marco Dinges"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Detroit Tigers",
+      "details": "LHPJoe Millerassigned toDetroit Tigers.",
+      "player": "Joe Miller"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Cincinnati Reds",
+      "details": "SSAlexander Vargasassigned toCincinnati Reds.",
+      "player": "Alexander Vargas"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Philadelphia Phillies",
+      "details": "OFNathan Humphreysassigned toPhiladelphia Phillies.",
+      "player": "Nathan Humphreys"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "San Diego Padres",
+      "details": "CJack Matheyassigned toSan Diego Padres.",
+      "player": "Jack Mathey"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Cincinnati Reds",
+      "details": "RHPNestor Lorantassigned toCincinnati Reds.",
+      "player": "Nestor Lorant"
     }
   ]
 }
