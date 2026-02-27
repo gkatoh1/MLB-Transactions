@@ -1,17 +1,35 @@
 {
-  "last_updated": "2026-02-27T15:44:58.210572",
+  "last_updated": "2026-02-27T16:50:24.409116",
   "transactions": [
     {
       "date": "2026-02-27",
       "team": "Philadelphia Phillies",
-      "details": "LFCade Fergusassigned toPhiladelphia Phillies.",
-      "player": "Cade Fergus"
+      "details": "1BAlex Binelasassigned toPhiladelphia Phillies.",
+      "player": "Alex Binelas"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Miami Marlins",
+      "details": "RHPCarson Lawsassigned toMiami Marlins.",
+      "player": "Carson Laws"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Philadelphia Phillies",
+      "details": "RFNick Biddisonassigned toPhiladelphia Phillies.",
+      "player": "Nick Biddison"
     },
     {
       "date": "2026-02-27",
       "team": "Pittsburgh Pirates",
-      "details": "LHPJaden Woodsassigned toPittsburgh Pirates.",
-      "player": "Jaden Woods"
+      "details": "RHPJoshua Loeschornassigned toPittsburgh Pirates.",
+      "player": "Joshua Loeschorn"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Boston Red Sox",
+      "details": "SSAvinson Pintoassigned toBoston Red Sox.",
+      "player": "Avinson Pinto"
     },
     {
       "date": "2026-02-27",
@@ -33,6 +51,30 @@
     },
     {
       "date": "2026-02-27",
+      "team": "Philadelphia Phillies",
+      "details": "OFNathan Humphreysassigned toPhiladelphia Phillies.",
+      "player": "Nathan Humphreys"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Boston Red Sox",
+      "details": "CFYophery Rodriguezassigned toBoston Red Sox.",
+      "player": "Yophery Rodriguez"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Philadelphia Phillies",
+      "details": "LFCade Fergusassigned toPhiladelphia Phillies.",
+      "player": "Cade Fergus"
+    },
+    {
+      "date": "2026-02-27",
+      "team": "Pittsburgh Pirates",
+      "details": "LHPJaden Woodsassigned toPittsburgh Pirates.",
+      "player": "Jaden Woods"
+    },
+    {
+      "date": "2026-02-27",
       "team": "Detroit Tigers",
       "details": "LHPJoe Millerassigned toDetroit Tigers.",
       "player": "Joe Miller"
@@ -51,9 +93,9 @@
     },
     {
       "date": "2026-02-27",
-      "team": "Philadelphia Phillies",
-      "details": "OFNathan Humphreysassigned toPhiladelphia Phillies.",
-      "player": "Nathan Humphreys"
+      "team": "Minnesota Twins",
+      "details": "2BRamiro Dominguezassigned toMinnesota Twins.",
+      "player": "Ramiro Dominguez"
     },
     {
       "date": "2026-02-27",
@@ -69,27 +111,15 @@
     },
     {
       "date": "2026-02-27",
+      "team": "Minnesota Twins",
+      "details": "3BJay Thomasonassigned toMinnesota Twins.",
+      "player": "Jay Thomason"
+    },
+    {
+      "date": "2026-02-27",
       "team": "Texas Rangers",
       "details": "3BRafe Perichassigned toTexas Rangers.",
       "player": "Rafe Perich"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Philadelphia Phillies",
-      "details": "1BAlex Binelasassigned toPhiladelphia Phillies.",
-      "player": "Alex Binelas"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Philadelphia Phillies",
-      "details": "RFNick Biddisonassigned toPhiladelphia Phillies.",
-      "player": "Nick Biddison"
-    },
-    {
-      "date": "2026-02-27",
-      "team": "Pittsburgh Pirates",
-      "details": "RHPJoshua Loeschornassigned toPittsburgh Pirates.",
-      "player": "Joshua Loeschorn"
     }
   ]
 }
