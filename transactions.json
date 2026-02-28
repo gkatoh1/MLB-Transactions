@@ -1,47 +1,11 @@
 {
-  "last_updated": "2026-02-28T22:31:01.325196",
+  "last_updated": "2026-02-28T23:29:31.735747",
   "transactions": [
     {
       "date": "2026-02-28",
-      "team": "Miami Marlins",
-      "details": "IFAndrew Salasassigned toMiami Marlins.",
-      "player": "Andrew Salas"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Washington Nationals",
-      "details": "2BViandel Penaroster status changed byWashington Nationals.",
-      "player": "Viandel Pena"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Washington Nationals",
-      "details": "RFJohnathon Thomasassigned toWashington Nationals.",
-      "player": "Johnathon Thomas"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "New York Yankees",
-      "details": "IFCoby Moralesassigned toNew York Yankees.",
-      "player": "Coby Morales"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "New York Yankees",
-      "details": "OFNicholas Torresassigned toNew York Yankees.",
-      "player": "Nicholas Torres"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "San Diego Padres",
-      "details": "RHPEnmanuel Pinalesassigned toSan Diego Padres.",
-      "player": "Enmanuel Pinales"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Los Angeles Dodgers",
-      "details": "CFrank Rodriguezassigned toLos Angeles Dodgers.",
-      "player": "Frank Rodriguez"
+      "team": "Los Angeles Angels",
+      "details": "SSJohn Wimmerassigned toLos Angeles Angels.",
+      "player": "John Wimmer"
     },
     {
       "date": "2026-02-28",
@@ -63,21 +27,27 @@
     },
     {
       "date": "2026-02-28",
-      "team": "Texas Rangers",
-      "details": "RFWady Mendezassigned toTexas Rangers.",
-      "player": "Wady Mendez"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "San Francisco Giants",
-      "details": "CAdrián Sugasteyassigned toSan Francisco Giants.",
-      "player": "Adrián Sugastey"
+      "team": "Arizona Diamondbacks",
+      "details": "SSWallace Clarkassigned toArizona Diamondbacks.",
+      "player": "Wallace Clark"
     },
     {
       "date": "2026-02-28",
       "team": "Washington Nationals",
       "details": "2BViandel Penaassigned toWashington Nationals.",
       "player": "Viandel Pena"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Los Angeles Dodgers",
+      "details": "2BMairoshendrick Martinusassigned toLos Angeles Dodgers.",
+      "player": "Mairoshendrick Martinus"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Baltimore Orioles",
+      "details": "CJuan Ortegaassigned toBaltimore Orioles.",
+      "player": "Juan Ortega"
     },
     {
       "date": "2026-02-28",
@@ -129,6 +99,18 @@
     },
     {
       "date": "2026-02-28",
+      "team": "Miami Marlins",
+      "details": "OFCam Cannarellaassigned toMiami Marlins.",
+      "player": "Cam Cannarella"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Pittsburgh Pirates",
+      "details": "1BJared Jonesassigned toPittsburgh Pirates.",
+      "player": "Jared Jones"
+    },
+    {
+      "date": "2026-02-28",
       "team": "Arizona Diamondbacks",
       "details": "CFJack Hurleyassigned toArizona Diamondbacks.",
       "player": "Jack Hurley"
@@ -147,9 +129,33 @@
     },
     {
       "date": "2026-02-28",
-      "team": "St. Louis Cardinals",
-      "details": "SSJesus Baezassigned toSt. Louis Cardinals.",
-      "player": "Jesus Baez"
+      "team": "Texas Rangers",
+      "details": "RFWady Mendezassigned toTexas Rangers.",
+      "player": "Wady Mendez"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "San Francisco Giants",
+      "details": "CAdrián Sugasteyassigned toSan Francisco Giants.",
+      "player": "Adrián Sugastey"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "San Francisco Giants",
+      "details": "CFTurner Hillassigned toSan Francisco Giants.",
+      "player": "Turner Hill"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Toronto Blue Jays",
+      "details": "RHPAlex Amalfiassigned toToronto Blue Jays.",
+      "player": "Alex Amalfi"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Los Angeles Dodgers",
+      "details": "CFEduardo Quinteroassigned toLos Angeles Dodgers.",
+      "player": "Eduardo Quintero"
     },
     {
       "date": "2026-02-28",
@@ -166,20 +172,44 @@
     {
       "date": "2026-02-28",
       "team": "Miami Marlins",
-      "details": "OFCam Cannarellaassigned toMiami Marlins.",
-      "player": "Cam Cannarella"
+      "details": "IFAndrew Salasassigned toMiami Marlins.",
+      "player": "Andrew Salas"
     },
     {
       "date": "2026-02-28",
-      "team": "Los Angeles Angels",
-      "details": "SSJohn Wimmerassigned toLos Angeles Angels.",
-      "player": "John Wimmer"
+      "team": "Washington Nationals",
+      "details": "2BViandel Penaroster status changed byWashington Nationals.",
+      "player": "Viandel Pena"
     },
     {
       "date": "2026-02-28",
-      "team": "Pittsburgh Pirates",
-      "details": "1BJared Jonesassigned toPittsburgh Pirates.",
-      "player": "Jared Jones"
+      "team": "Washington Nationals",
+      "details": "RFJohnathon Thomasassigned toWashington Nationals.",
+      "player": "Johnathon Thomas"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "New York Yankees",
+      "details": "IFCoby Moralesassigned toNew York Yankees.",
+      "player": "Coby Morales"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "New York Yankees",
+      "details": "OFNicholas Torresassigned toNew York Yankees.",
+      "player": "Nicholas Torres"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "San Diego Padres",
+      "details": "RHPEnmanuel Pinalesassigned toSan Diego Padres.",
+      "player": "Enmanuel Pinales"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Los Angeles Dodgers",
+      "details": "CFrank Rodriguezassigned toLos Angeles Dodgers.",
+      "player": "Frank Rodriguez"
     },
     {
       "date": "2026-02-28",
@@ -198,12 +228,6 @@
       "team": "New York Mets",
       "details": "2BMitch Voitassigned toNew York Mets.",
       "player": "Mitch Voit"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Arizona Diamondbacks",
-      "details": "SSWallace Clarkassigned toArizona Diamondbacks.",
-      "player": "Wallace Clark"
     },
     {
       "date": "2026-02-28",
@@ -237,21 +261,9 @@
     },
     {
       "date": "2026-02-28",
-      "team": "San Francisco Giants",
-      "details": "CFTurner Hillassigned toSan Francisco Giants.",
-      "player": "Turner Hill"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Toronto Blue Jays",
-      "details": "RHPAlex Amalfiassigned toToronto Blue Jays.",
-      "player": "Alex Amalfi"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Los Angeles Dodgers",
-      "details": "CFEduardo Quinteroassigned toLos Angeles Dodgers.",
-      "player": "Eduardo Quintero"
+      "team": "St. Louis Cardinals",
+      "details": "SSJesus Baezassigned toSt. Louis Cardinals.",
+      "player": "Jesus Baez"
     },
     {
       "date": "2026-02-28",
@@ -279,15 +291,15 @@
     },
     {
       "date": "2026-02-28",
-      "team": "Los Angeles Dodgers",
-      "details": "2BMairoshendrick Martinusassigned toLos Angeles Dodgers.",
-      "player": "Mairoshendrick Martinus"
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPHenry Baezto Midland RockHounds.",
+      "player": "Henry Baez"
     },
     {
       "date": "2026-02-28",
-      "team": "Baltimore Orioles",
-      "details": "CJuan Ortegaassigned toBaltimore Orioles.",
-      "player": "Juan Ortega"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned SSNacho Alvarez Jr.to Gwinnett Stripers.",
+      "player": "Nacho Alvarez Jr."
     }
   ]
 }
