@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-02-28T15:30:42.058177",
+  "last_updated": "2026-02-28T16:35:40.384647",
   "transactions": [
+    {
+      "date": "2026-02-28",
+      "team": "Minnesota Twins",
+      "details": "CVictor Lealassigned toMinnesota Twins.",
+      "player": "Victor Leal"
+    },
     {
       "date": "2026-02-28",
       "team": "Cleveland Guardians",
       "details": "CFYerlin Luisassigned toCleveland Guardians.",
       "player": "Yerlin Luis"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Boston Red Sox",
+      "details": "OFIsaiah Jacksonassigned toBoston Red Sox.",
+      "player": "Isaiah Jackson"
     },
     {
       "date": "2026-02-28",
@@ -33,9 +45,21 @@
     },
     {
       "date": "2026-02-28",
-      "team": "Miami Marlins",
-      "details": "OFCam Cannarellaassigned toMiami Marlins.",
-      "player": "Cam Cannarella"
+      "team": "Philadelphia Phillies",
+      "details": "SSBrady Dayassigned toPhiladelphia Phillies.",
+      "player": "Brady Day"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Toronto Blue Jays",
+      "details": "CAlex Stoneassigned toToronto Blue Jays.",
+      "player": "Alex Stone"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Baltimore Orioles",
+      "details": "CJuan Ortegaassigned toBaltimore Orioles.",
+      "player": "Juan Ortega"
     },
     {
       "date": "2026-02-28",
@@ -57,9 +81,9 @@
     },
     {
       "date": "2026-02-28",
-      "team": "Toronto Blue Jays",
-      "details": "CAlex Stoneassigned toToronto Blue Jays.",
-      "player": "Alex Stone"
+      "team": "Miami Marlins",
+      "details": "OFCam Cannarellaassigned toMiami Marlins.",
+      "player": "Cam Cannarella"
     }
   ]
 }
