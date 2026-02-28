@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T19:26:38.322376",
+  "last_updated": "2026-02-28T20:34:11.258911",
   "transactions": [
     {
       "date": "2026-02-28",
@@ -42,6 +42,42 @@
       "team": "Los Angeles Dodgers",
       "details": "CFrank Rodriguezassigned toLos Angeles Dodgers.",
       "player": "Frank Rodriguez"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Toronto Blue Jays",
+      "details": "CAlex Stoneassigned toToronto Blue Jays.",
+      "player": "Alex Stone"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Cincinnati Reds",
+      "details": "SSSteele Hallassigned toCincinnati Reds.",
+      "player": "Steele Hall"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "New York Yankees",
+      "details": "CFWilly Monteroassigned toNew York Yankees.",
+      "player": "Willy Montero"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Texas Rangers",
+      "details": "RFWady Mendezassigned toTexas Rangers.",
+      "player": "Wady Mendez"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "San Francisco Giants",
+      "details": "CAdrián Sugasteyassigned toSan Francisco Giants.",
+      "player": "Adrián Sugastey"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Washington Nationals",
+      "details": "2BViandel Penaassigned toWashington Nationals.",
+      "player": "Viandel Pena"
     },
     {
       "date": "2026-02-28",
@@ -93,27 +129,57 @@
     },
     {
       "date": "2026-02-28",
+      "team": "Arizona Diamondbacks",
+      "details": "CFJack Hurleyassigned toArizona Diamondbacks.",
+      "player": "Jack Hurley"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Pittsburgh Pirates",
+      "details": "RHPDerek Diamondassigned toPittsburgh Pirates.",
+      "player": "Derek Diamond"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Texas Rangers",
+      "details": "LHPSeth Clarkassigned toTexas Rangers.",
+      "player": "Seth Clark"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "St. Louis Cardinals",
+      "details": "SSJesus Baezassigned toSt. Louis Cardinals.",
+      "player": "Jesus Baez"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Philadelphia Phillies",
+      "details": "SSBrady Dayassigned toPhiladelphia Phillies.",
+      "player": "Brady Day"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Kansas City Royals",
+      "details": "LHPCaden Monkeassigned toKansas City Royals.",
+      "player": "Caden Monke"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Miami Marlins",
+      "details": "OFCam Cannarellaassigned toMiami Marlins.",
+      "player": "Cam Cannarella"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Los Angeles Angels",
+      "details": "SSJohn Wimmerassigned toLos Angeles Angels.",
+      "player": "John Wimmer"
+    },
+    {
+      "date": "2026-02-28",
       "team": "Pittsburgh Pirates",
       "details": "1BJared Jonesassigned toPittsburgh Pirates.",
       "player": "Jared Jones"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Toronto Blue Jays",
-      "details": "CAlex Stoneassigned toToronto Blue Jays.",
-      "player": "Alex Stone"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Cincinnati Reds",
-      "details": "SSSteele Hallassigned toCincinnati Reds.",
-      "player": "Steele Hall"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "New York Yankees",
-      "details": "CFWilly Monteroassigned toNew York Yankees.",
-      "player": "Willy Montero"
     },
     {
       "date": "2026-02-28",
@@ -132,12 +198,6 @@
       "team": "New York Mets",
       "details": "2BMitch Voitassigned toNew York Mets.",
       "player": "Mitch Voit"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Arizona Diamondbacks",
-      "details": "CFJack Hurleyassigned toArizona Diamondbacks.",
-      "player": "Jack Hurley"
     },
     {
       "date": "2026-02-28",
@@ -174,42 +234,6 @@
       "team": "Boston Red Sox",
       "details": "OFIsaiah Jacksonassigned toBoston Red Sox.",
       "player": "Isaiah Jackson"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Pittsburgh Pirates",
-      "details": "RHPDerek Diamondassigned toPittsburgh Pirates.",
-      "player": "Derek Diamond"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Texas Rangers",
-      "details": "LHPSeth Clarkassigned toTexas Rangers.",
-      "player": "Seth Clark"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Texas Rangers",
-      "details": "RFWady Mendezassigned toTexas Rangers.",
-      "player": "Wady Mendez"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "San Francisco Giants",
-      "details": "CAdrián Sugasteyassigned toSan Francisco Giants.",
-      "player": "Adrián Sugastey"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "St. Louis Cardinals",
-      "details": "SSJesus Baezassigned toSt. Louis Cardinals.",
-      "player": "Jesus Baez"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Washington Nationals",
-      "details": "2BViandel Penaassigned toWashington Nationals.",
-      "player": "Viandel Pena"
     },
     {
       "date": "2026-02-28",
@@ -255,33 +279,9 @@
     },
     {
       "date": "2026-02-28",
-      "team": "Philadelphia Phillies",
-      "details": "SSBrady Dayassigned toPhiladelphia Phillies.",
-      "player": "Brady Day"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Kansas City Royals",
-      "details": "LHPCaden Monkeassigned toKansas City Royals.",
-      "player": "Caden Monke"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Miami Marlins",
-      "details": "OFCam Cannarellaassigned toMiami Marlins.",
-      "player": "Cam Cannarella"
-    },
-    {
-      "date": "2026-02-28",
       "team": "Los Angeles Dodgers",
       "details": "2BMairoshendrick Martinusassigned toLos Angeles Dodgers.",
       "player": "Mairoshendrick Martinus"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Los Angeles Angels",
-      "details": "SSJohn Wimmerassigned toLos Angeles Angels.",
-      "player": "John Wimmer"
     },
     {
       "date": "2026-02-28",
