@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28T17:27:22.204915",
+  "last_updated": "2026-02-28T18:43:46.363601",
   "transactions": [
     {
       "date": "2026-02-28",
@@ -21,6 +21,18 @@
     },
     {
       "date": "2026-02-28",
+      "team": "New York Yankees",
+      "details": "IFCoby Moralesassigned toNew York Yankees.",
+      "player": "Coby Morales"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "New York Yankees",
+      "details": "OFNicholas Torresassigned toNew York Yankees.",
+      "player": "Nicholas Torres"
+    },
+    {
+      "date": "2026-02-28",
       "team": "Toronto Blue Jays",
       "details": "CAlex Stoneassigned toToronto Blue Jays.",
       "player": "Alex Stone"
@@ -33,39 +45,9 @@
     },
     {
       "date": "2026-02-28",
-      "team": "Cincinnati Reds",
-      "details": "OFAnthony Stephanassigned toCincinnati Reds.",
-      "player": "Anthony Stephan"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "New York Mets",
-      "details": "2BMitch Voitassigned toNew York Mets.",
-      "player": "Mitch Voit"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Boston Red Sox",
-      "details": "OFIsaiah Jacksonassigned toBoston Red Sox.",
-      "player": "Isaiah Jackson"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Pittsburgh Pirates",
-      "details": "RHPDerek Diamondassigned toPittsburgh Pirates.",
-      "player": "Derek Diamond"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Toronto Blue Jays",
-      "details": "RHPAlex Amalfiassigned toToronto Blue Jays.",
-      "player": "Alex Amalfi"
-    },
-    {
-      "date": "2026-02-28",
-      "team": "Minnesota Twins",
-      "details": "CVictor Lealassigned toMinnesota Twins.",
-      "player": "Victor Leal"
+      "team": "New York Yankees",
+      "details": "CFWilly Monteroassigned toNew York Yankees.",
+      "player": "Willy Montero"
     },
     {
       "date": "2026-02-28",
@@ -81,6 +63,42 @@
     },
     {
       "date": "2026-02-28",
+      "team": "Boston Red Sox",
+      "details": "OFIsaiah Jacksonassigned toBoston Red Sox.",
+      "player": "Isaiah Jackson"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Minnesota Twins",
+      "details": "CVictor Lealassigned toMinnesota Twins.",
+      "player": "Victor Leal"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Miami Marlins",
+      "details": "2BAbrahan Ramirezassigned toMiami Marlins.",
+      "player": "Abrahan Ramirez"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Chicago Cubs",
+      "details": "LHPCole Reynoldsassigned toChicago Cubs.",
+      "player": "Cole Reynolds"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Cleveland Guardians",
+      "details": "SSJohan Rodriguezassigned toCleveland Guardians.",
+      "player": "Johan Rodriguez"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Pittsburgh Pirates",
+      "details": "RHPDerek Diamondassigned toPittsburgh Pirates.",
+      "player": "Derek Diamond"
+    },
+    {
+      "date": "2026-02-28",
       "team": "Washington Nationals",
       "details": "2BViandel Penaassigned toWashington Nationals.",
       "player": "Viandel Pena"
@@ -90,6 +108,12 @@
       "team": "Philadelphia Phillies",
       "details": "SSBrady Dayassigned toPhiladelphia Phillies.",
       "player": "Brady Day"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Miami Marlins",
+      "details": "OFCam Cannarellaassigned toMiami Marlins.",
+      "player": "Cam Cannarella"
     },
     {
       "date": "2026-02-28",
@@ -105,9 +129,27 @@
     },
     {
       "date": "2026-02-28",
+      "team": "Cincinnati Reds",
+      "details": "OFAnthony Stephanassigned toCincinnati Reds.",
+      "player": "Anthony Stephan"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "New York Mets",
+      "details": "2BMitch Voitassigned toNew York Mets.",
+      "player": "Mitch Voit"
+    },
+    {
+      "date": "2026-02-28",
       "team": "St. Louis Cardinals",
       "details": "SSJesus Baezassigned toSt. Louis Cardinals.",
       "player": "Jesus Baez"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Toronto Blue Jays",
+      "details": "RHPAlex Amalfiassigned toToronto Blue Jays.",
+      "player": "Alex Amalfi"
     },
     {
       "date": "2026-02-28",
@@ -117,9 +159,21 @@
     },
     {
       "date": "2026-02-28",
-      "team": "Miami Marlins",
-      "details": "OFCam Cannarellaassigned toMiami Marlins.",
-      "player": "Cam Cannarella"
+      "team": "Houston Astros",
+      "details": "RHPAlejandro Torresassigned toHouston Astros.",
+      "player": "Alejandro Torres"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "New York Yankees",
+      "details": "1BJosh Moylanassigned toNew York Yankees.",
+      "player": "Josh Moylan"
+    },
+    {
+      "date": "2026-02-28",
+      "team": "Seattle Mariners",
+      "details": "RHPHouston Rothassigned toSeattle Mariners.",
+      "player": "Houston Roth"
     }
   ]
 }
