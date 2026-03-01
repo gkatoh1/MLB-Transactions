@@ -1,23 +1,59 @@
 {
-  "last_updated": "2026-03-01T16:38:25.431676",
+  "last_updated": "2026-03-01T17:29:38.752262",
   "transactions": [
     {
       "date": "2026-03-01",
-      "team": "Colorado Rockies",
-      "details": "RHPCollin Baumgartnerassigned toColorado Rockies.",
-      "player": "Collin Baumgartner"
+      "team": "Boston Red Sox",
+      "details": "RFNatanael Yutenassigned toBoston Red Sox.",
+      "player": "Natanael Yuten"
     },
     {
       "date": "2026-03-01",
-      "team": "Atlanta Braves",
-      "details": "3BKeshawn Ogansassigned toAtlanta Braves.",
-      "player": "Keshawn Ogans"
+      "team": "Athletics",
+      "details": "3BDrew Swiftassigned toAthletics.",
+      "player": "Drew Swift"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Pittsburgh Pirates",
+      "details": "OFJosh Tateassigned toPittsburgh Pirates.",
+      "player": "Josh Tate"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Athletics",
+      "details": "OFGavin Turleyassigned toAthletics.",
+      "player": "Gavin Turley"
     },
     {
       "date": "2026-03-01",
       "team": "St. Louis Cardinals",
       "details": "RHPEdwin Nuñezassigned toSt. Louis Cardinals.",
       "player": "Edwin Nuñez"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "New York Yankees",
+      "details": "CFCole Gabrielsonassigned toNew York Yankees.",
+      "player": "Cole Gabrielson"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Washington Nationals",
+      "details": "SSRafael Ramirez Jr.assigned toWashington Nationals.",
+      "player": "Rafael Ramirez Jr."
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Atlanta Braves",
+      "details": "OFDiego Tornesassigned toAtlanta Braves.",
+      "player": "Diego Tornes"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "New York Yankees",
+      "details": "RHPBen Grableassigned toNew York Yankees.",
+      "player": "Ben Grable"
     },
     {
       "date": "2026-03-01",
@@ -39,27 +75,33 @@
     },
     {
       "date": "2026-03-01",
-      "team": "Washington Nationals",
-      "details": "SSRafael Ramirez Jr.assigned toWashington Nationals.",
-      "player": "Rafael Ramirez Jr."
+      "team": "Chicago Cubs",
+      "details": "LHPChase Watkinsassigned toChicago Cubs.",
+      "player": "Chase Watkins"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Colorado Rockies",
+      "details": "RHPCollin Baumgartnerassigned toColorado Rockies.",
+      "player": "Collin Baumgartner"
     },
     {
       "date": "2026-03-01",
       "team": "Atlanta Braves",
-      "details": "OFDiego Tornesassigned toAtlanta Braves.",
-      "player": "Diego Tornes"
+      "details": "3BKeshawn Ogansassigned toAtlanta Braves.",
+      "player": "Keshawn Ogans"
     },
     {
       "date": "2026-03-01",
-      "team": "Pittsburgh Pirates",
-      "details": "OFJosh Tateassigned toPittsburgh Pirates.",
-      "player": "Josh Tate"
+      "team": "New York Mets",
+      "details": "3BYonatan Henriquezassigned toNew York Mets.",
+      "player": "Yonatan Henriquez"
     },
     {
       "date": "2026-03-01",
-      "team": "Boston Red Sox",
-      "details": "RFNatanael Yutenassigned toBoston Red Sox.",
-      "player": "Natanael Yuten"
+      "team": "Athletics",
+      "details": "2BCooper Bowmanassigned toAthletics.",
+      "player": "Cooper Bowman"
     }
   ]
 }
