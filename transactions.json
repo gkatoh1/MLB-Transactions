@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-03-01T15:31:10.063143",
+  "last_updated": "2026-03-01T16:38:25.431676",
   "transactions": [
     {
       "date": "2026-03-01",
-      "team": "Pittsburgh Pirates",
-      "details": "OFJosh Tateassigned toPittsburgh Pirates.",
-      "player": "Josh Tate"
+      "team": "Colorado Rockies",
+      "details": "RHPCollin Baumgartnerassigned toColorado Rockies.",
+      "player": "Collin Baumgartner"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Atlanta Braves",
+      "details": "3BKeshawn Ogansassigned toAtlanta Braves.",
+      "player": "Keshawn Ogans"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "St. Louis Cardinals",
+      "details": "RHPEdwin Nuñezassigned toSt. Louis Cardinals.",
+      "player": "Edwin Nuñez"
     },
     {
       "date": "2026-03-01",
@@ -33,15 +45,21 @@
     },
     {
       "date": "2026-03-01",
-      "team": "Colorado Rockies",
-      "details": "RHPCollin Baumgartnerassigned toColorado Rockies.",
-      "player": "Collin Baumgartner"
+      "team": "Atlanta Braves",
+      "details": "OFDiego Tornesassigned toAtlanta Braves.",
+      "player": "Diego Tornes"
     },
     {
       "date": "2026-03-01",
-      "team": "St. Louis Cardinals",
-      "details": "RHPEdwin Nuñezassigned toSt. Louis Cardinals.",
-      "player": "Edwin Nuñez"
+      "team": "Pittsburgh Pirates",
+      "details": "OFJosh Tateassigned toPittsburgh Pirates.",
+      "player": "Josh Tate"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Boston Red Sox",
+      "details": "RFNatanael Yutenassigned toBoston Red Sox.",
+      "player": "Natanael Yuten"
     }
   ]
 }
