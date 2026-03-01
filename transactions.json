@@ -1,23 +1,17 @@
 {
-  "last_updated": "2026-03-01T22:32:43.603937",
+  "last_updated": "2026-03-01T23:31:56.336058",
   "transactions": [
+    {
+      "date": "2026-03-01",
+      "team": "Atlanta Braves",
+      "details": "OFDiego Tornesassigned toAtlanta Braves.",
+      "player": "Diego Tornes"
+    },
     {
       "date": "2026-03-01",
       "team": "San Francisco Giants",
       "details": "LFScott Banduraassigned toSan Francisco Giants.",
       "player": "Scott Bandura"
-    },
-    {
-      "date": "2026-03-01",
-      "team": "Arizona Diamondbacks",
-      "details": "RHPSawyer Hawksassigned toArizona Diamondbacks.",
-      "player": "Sawyer Hawks"
-    },
-    {
-      "date": "2026-03-01",
-      "team": "Cleveland Guardians",
-      "details": "OFYeiferth Castilloassigned toCleveland Guardians.",
-      "player": "Yeiferth Castillo"
     },
     {
       "date": "2026-03-01",
@@ -30,6 +24,12 @@
       "team": "Washington Nationals",
       "details": "LFNick Peoplesassigned toWashington Nationals.",
       "player": "Nick Peoples"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Arizona Diamondbacks",
+      "details": "2BJosé Mejíaassigned toArizona Diamondbacks.",
+      "player": "José Mejía"
     },
     {
       "date": "2026-03-01",
@@ -52,30 +52,6 @@
     {
       "date": "2026-03-01",
       "team": "Cleveland Guardians",
-      "details": "CTyler Howardassigned toCleveland Guardians.",
-      "player": "Tyler Howard"
-    },
-    {
-      "date": "2026-03-01",
-      "team": "Cleveland Guardians",
-      "details": "CFJake Foxassigned toCleveland Guardians.",
-      "player": "Jake Fox"
-    },
-    {
-      "date": "2026-03-01",
-      "team": "New York Yankees",
-      "details": "RHPBen Grableassigned toNew York Yankees.",
-      "player": "Ben Grable"
-    },
-    {
-      "date": "2026-03-01",
-      "team": "Boston Red Sox",
-      "details": "RFNatanael Yutenassigned toBoston Red Sox.",
-      "player": "Natanael Yuten"
-    },
-    {
-      "date": "2026-03-01",
-      "team": "Cleveland Guardians",
       "details": "SSAnthony Silvaassigned toCleveland Guardians.",
       "player": "Anthony Silva"
     },
@@ -87,45 +63,15 @@
     },
     {
       "date": "2026-03-01",
-      "team": "Pittsburgh Pirates",
-      "details": "OFJosh Tateassigned toPittsburgh Pirates.",
-      "player": "Josh Tate"
-    },
-    {
-      "date": "2026-03-01",
-      "team": "Cleveland Guardians",
-      "details": "OFNolan Schubartassigned toCleveland Guardians.",
-      "player": "Nolan Schubart"
-    },
-    {
-      "date": "2026-03-01",
-      "team": "Atlanta Braves",
-      "details": "SSCody Millerassigned toAtlanta Braves.",
-      "player": "Cody Miller"
-    },
-    {
-      "date": "2026-03-01",
       "team": "Athletics",
-      "details": "2BCooper Bowmanassigned toAthletics.",
-      "player": "Cooper Bowman"
+      "details": "OFGavin Turleyassigned toAthletics.",
+      "player": "Gavin Turley"
     },
     {
       "date": "2026-03-01",
-      "team": "San Diego Padres",
-      "details": "2BJose Verdugoassigned toSan Diego Padres.",
-      "player": "Jose Verdugo"
-    },
-    {
-      "date": "2026-03-01",
-      "team": "Washington Nationals",
-      "details": "SSRafael Ramirez Jr.assigned toWashington Nationals.",
-      "player": "Rafael Ramirez Jr."
-    },
-    {
-      "date": "2026-03-01",
-      "team": "Atlanta Braves",
-      "details": "OFDiego Tornesassigned toAtlanta Braves.",
-      "player": "Diego Tornes"
+      "team": "St. Louis Cardinals",
+      "details": "RHPEdwin Nuñezassigned toSt. Louis Cardinals.",
+      "player": "Edwin Nuñez"
     },
     {
       "date": "2026-03-01",
@@ -165,27 +111,27 @@
     },
     {
       "date": "2026-03-01",
+      "team": "Arizona Diamondbacks",
+      "details": "LHPJose Mejiaassigned toArizona Diamondbacks.",
+      "player": "Jose Mejia"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Cleveland Guardians",
+      "details": "CTyler Howardassigned toCleveland Guardians.",
+      "player": "Tyler Howard"
+    },
+    {
+      "date": "2026-03-01",
       "team": "Chicago White Sox",
       "details": "OFEly Brownassigned toChicago White Sox.",
       "player": "Ely Brown"
     },
     {
       "date": "2026-03-01",
-      "team": "Athletics",
-      "details": "OFGavin Turleyassigned toAthletics.",
-      "player": "Gavin Turley"
-    },
-    {
-      "date": "2026-03-01",
-      "team": "St. Louis Cardinals",
-      "details": "RHPEdwin Nuñezassigned toSt. Louis Cardinals.",
-      "player": "Edwin Nuñez"
-    },
-    {
-      "date": "2026-03-01",
-      "team": "Washington Nationals",
-      "details": "CFeldi Tavarezassigned toWashington Nationals.",
-      "player": "Feldi Tavarez"
+      "team": "Atlanta Braves",
+      "details": "SSCody Millerassigned toAtlanta Braves.",
+      "player": "Cody Miller"
     },
     {
       "date": "2026-03-01",
@@ -213,6 +159,78 @@
     },
     {
       "date": "2026-03-01",
+      "team": "Chicago Cubs",
+      "details": "LHPChase Watkinsassigned toChicago Cubs.",
+      "player": "Chase Watkins"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Washington Nationals",
+      "details": "SSRafael Ramirez Jr.assigned toWashington Nationals.",
+      "player": "Rafael Ramirez Jr."
+    },
+    {
+      "date": "2026-03-01",
+      "team": "New York Yankees",
+      "details": "RHPBen Grableassigned toNew York Yankees.",
+      "player": "Ben Grable"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Boston Red Sox",
+      "details": "RFNatanael Yutenassigned toBoston Red Sox.",
+      "player": "Natanael Yuten"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Arizona Diamondbacks",
+      "details": "RHPSawyer Hawksassigned toArizona Diamondbacks.",
+      "player": "Sawyer Hawks"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Cleveland Guardians",
+      "details": "OFYeiferth Castilloassigned toCleveland Guardians.",
+      "player": "Yeiferth Castillo"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Cleveland Guardians",
+      "details": "CFJake Foxassigned toCleveland Guardians.",
+      "player": "Jake Fox"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Pittsburgh Pirates",
+      "details": "OFJosh Tateassigned toPittsburgh Pirates.",
+      "player": "Josh Tate"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Cleveland Guardians",
+      "details": "OFNolan Schubartassigned toCleveland Guardians.",
+      "player": "Nolan Schubart"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Washington Nationals",
+      "details": "CFeldi Tavarezassigned toWashington Nationals.",
+      "player": "Feldi Tavarez"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Athletics",
+      "details": "2BCooper Bowmanassigned toAthletics.",
+      "player": "Cooper Bowman"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "San Diego Padres",
+      "details": "2BJose Verdugoassigned toSan Diego Padres.",
+      "player": "Jose Verdugo"
+    },
+    {
+      "date": "2026-03-01",
       "team": "New York Yankees",
       "details": "CFCole Gabrielsonassigned toNew York Yankees.",
       "player": "Cole Gabrielson"
@@ -225,21 +243,15 @@
     },
     {
       "date": "2026-03-01",
-      "team": "Chicago Cubs",
-      "details": "LHPChase Watkinsassigned toChicago Cubs.",
-      "player": "Chase Watkins"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPAlex Carrilloto Syracuse Mets.",
+      "player": "Alex Carrillo"
     },
     {
       "date": "2026-03-01",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsclaimed 3BBen Cowlesoff waivers fromToronto Blue Jays.",
       "player": "Ben Cowles"
-    },
-    {
-      "date": "2026-03-01",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPAlex Carrilloto Syracuse Mets.",
-      "player": "Alex Carrillo"
     }
   ]
 }
