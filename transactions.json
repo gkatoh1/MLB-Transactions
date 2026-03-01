@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-03-01T14:31:29.055310",
+  "last_updated": "2026-03-01T15:31:10.063143",
   "transactions": [
+    {
+      "date": "2026-03-01",
+      "team": "Pittsburgh Pirates",
+      "details": "OFJosh Tateassigned toPittsburgh Pirates.",
+      "player": "Josh Tate"
+    },
     {
       "date": "2026-03-01",
       "team": "Washington Nationals",
@@ -9,9 +15,33 @@
     },
     {
       "date": "2026-03-01",
+      "team": "Tampa Bay Rays",
+      "details": "OFTheo Gillenassigned toTampa Bay Rays.",
+      "player": "Theo Gillen"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Pittsburgh Pirates",
+      "details": "CSamuel Escuderoassigned toPittsburgh Pirates.",
+      "player": "Samuel Escudero"
+    },
+    {
+      "date": "2026-03-01",
       "team": "Washington Nationals",
       "details": "SSRafael Ramirez Jr.assigned toWashington Nationals.",
       "player": "Rafael Ramirez Jr."
+    },
+    {
+      "date": "2026-03-01",
+      "team": "Colorado Rockies",
+      "details": "RHPCollin Baumgartnerassigned toColorado Rockies.",
+      "player": "Collin Baumgartner"
+    },
+    {
+      "date": "2026-03-01",
+      "team": "St. Louis Cardinals",
+      "details": "RHPEdwin Nuñezassigned toSt. Louis Cardinals.",
+      "player": "Edwin Nuñez"
     }
   ]
 }
