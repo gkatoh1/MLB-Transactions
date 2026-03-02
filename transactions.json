@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T22:35:33.483339",
+  "last_updated": "2026-03-02T23:34:19.090307",
   "transactions": [
     {
       "date": "2026-03-02",
@@ -42,48 +42,6 @@
       "team": "Boston Red Sox",
       "details": "SSFranklin Ariasassigned toBoston Red Sox.",
       "player": "Franklin Arias"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "Texas Rangers",
-      "details": "CJack Collinsassigned toTexas Rangers.",
-      "player": "Jack Collins"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "Tampa Bay Rays",
-      "details": "RHPAndy Rodriguezassigned toTampa Bay Rays.",
-      "player": "Andy Rodriguez"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "San Diego Padres",
-      "details": "LHPIgor Gilassigned toSan Diego Padres.",
-      "player": "Igor Gil"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "Los Angeles Dodgers",
-      "details": "LHPJacob Frostassigned toLos Angeles Dodgers.",
-      "player": "Jacob Frost"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "Los Angeles Dodgers",
-      "details": "RHPJordan Weemsroster status changed byLos Angeles Dodgers.",
-      "player": "Jordan Weems"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "San Diego Padres",
-      "details": "LHPRyan Reedassigned toSan Diego Padres.",
-      "player": "Ryan Reed"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "San Diego Padres",
-      "details": "RHPAbraham Parraassigned toSan Diego Padres.",
-      "player": "Abraham Parra"
     },
     {
       "date": "2026-03-02",
@@ -141,15 +99,27 @@
     },
     {
       "date": "2026-03-02",
+      "team": "San Diego Padres",
+      "details": "LHPRyan Reedassigned toSan Diego Padres.",
+      "player": "Ryan Reed"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "San Diego Padres",
+      "details": "RHPAbraham Parraassigned toSan Diego Padres.",
+      "player": "Abraham Parra"
+    },
+    {
+      "date": "2026-03-02",
       "team": "Colorado Rockies",
       "details": "LHPStu Flesland IIIassigned toColorado Rockies.",
       "player": "Stu Flesland III"
     },
     {
       "date": "2026-03-02",
-      "team": "Washington Nationals",
-      "details": "RHPDrew Smithassigned toWashington Nationals.",
-      "player": "Drew Smith"
+      "team": "Detroit Tigers",
+      "details": "1BGarrett Penningtonassigned toDetroit Tigers.",
+      "player": "Garrett Pennington"
     },
     {
       "date": "2026-03-02",
@@ -172,14 +142,44 @@
     {
       "date": "2026-03-02",
       "team": "Washington Nationals",
+      "details": "RHPDrew Smithassigned toWashington Nationals.",
+      "player": "Drew Smith"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Boston Red Sox",
+      "details": "CFEnddy Azocarassigned toBoston Red Sox.",
+      "player": "Enddy Azocar"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Washington Nationals",
       "details": "RHPJames Colyerassigned toWashington Nationals.",
       "player": "James Colyer"
     },
     {
       "date": "2026-03-02",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsreassigned RHPTekoah Robyto the minor leagues.",
-      "player": "Tekoah Roby"
+      "team": "Texas Rangers",
+      "details": "CJack Collinsassigned toTexas Rangers.",
+      "player": "Jack Collins"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Tampa Bay Rays",
+      "details": "RHPAndy Rodriguezassigned toTampa Bay Rays.",
+      "player": "Andy Rodriguez"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "San Diego Padres",
+      "details": "LHPIgor Gilassigned toSan Diego Padres.",
+      "player": "Igor Gil"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Los Angeles Dodgers",
+      "details": "LHPJacob Frostassigned toLos Angeles Dodgers.",
+      "player": "Jacob Frost"
     },
     {
       "date": "2026-03-02",
@@ -189,15 +189,15 @@
     },
     {
       "date": "2026-03-02",
-      "team": "Detroit Tigers",
-      "details": "1BGarrett Penningtonassigned toDetroit Tigers.",
-      "player": "Garrett Pennington"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPTekoah Robyto Memphis Redbirds.",
+      "player": "Tekoah Roby"
     },
     {
       "date": "2026-03-02",
-      "team": "Boston Red Sox",
-      "details": "CFEnddy Azocarassigned toBoston Red Sox.",
-      "player": "Enddy Azocar"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RFJack Suwinskioutright to Oklahoma City Comets.",
+      "player": "Jack Suwinski"
     },
     {
       "date": "2026-03-02",
