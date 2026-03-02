@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T18:59:56.050586",
+  "last_updated": "2026-03-02T19:46:38.793156",
   "transactions": [
     {
       "date": "2026-03-02",
@@ -63,24 +63,6 @@
     },
     {
       "date": "2026-03-02",
-      "team": "San Francisco Giants",
-      "details": "LHPDylan Carmoucheassigned toSan Francisco Giants.",
-      "player": "Dylan Carmouche"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "Washington Nationals",
-      "details": "RHPJames Colyerassigned toWashington Nationals.",
-      "player": "James Colyer"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "Washington Nationals",
-      "details": "RHPVictor Fariasassigned toWashington Nationals.",
-      "player": "Victor Farias"
-    },
-    {
-      "date": "2026-03-02",
       "team": "San Diego Padres",
       "details": "LHPRyan Reedassigned toSan Diego Padres.",
       "player": "Ryan Reed"
@@ -93,21 +75,33 @@
     },
     {
       "date": "2026-03-02",
-      "team": "Boston Red Sox",
-      "details": "3BFreili Encarnacionassigned toBoston Red Sox.",
-      "player": "Freili Encarnacion"
+      "team": "Colorado Rockies",
+      "details": "LHPStu Flesland IIIassigned toColorado Rockies.",
+      "player": "Stu Flesland III"
     },
     {
       "date": "2026-03-02",
-      "team": "Atlanta Braves",
-      "details": "CFLuis Guanipaassigned toAtlanta Braves.",
-      "player": "Luis Guanipa"
+      "team": "Detroit Tigers",
+      "details": "1BGarrett Penningtonassigned toDetroit Tigers.",
+      "player": "Garrett Pennington"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Detroit Tigers",
+      "details": "CMartin Tamaraassigned toDetroit Tigers.",
+      "player": "Martin Tamara"
     },
     {
       "date": "2026-03-02",
       "team": "Washington Nationals",
-      "details": "RHPMerrick Baldoassigned toWashington Nationals.",
-      "player": "Merrick Baldo"
+      "details": "RHPJames Colyerassigned toWashington Nationals.",
+      "player": "James Colyer"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Washington Nationals",
+      "details": "RHPVictor Fariasassigned toWashington Nationals.",
+      "player": "Victor Farias"
     },
     {
       "date": "2026-03-02",
@@ -135,15 +129,39 @@
     },
     {
       "date": "2026-03-02",
-      "team": "Colorado Rockies",
-      "details": "LHPStu Flesland IIIassigned toColorado Rockies.",
-      "player": "Stu Flesland III"
+      "team": "Los Angeles Dodgers",
+      "details": "RHPJordan Weemsroster status changed byLos Angeles Dodgers.",
+      "player": "Jordan Weems"
     },
     {
       "date": "2026-03-02",
-      "team": "Detroit Tigers",
-      "details": "1BGarrett Penningtonassigned toDetroit Tigers.",
-      "player": "Garrett Pennington"
+      "team": "San Francisco Giants",
+      "details": "CFJonah Coxassigned toSan Francisco Giants.",
+      "player": "Jonah Cox"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "San Francisco Giants",
+      "details": "CFLisbel Diazassigned toSan Francisco Giants.",
+      "player": "Lisbel Diaz"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "San Francisco Giants",
+      "details": "LHPDylan Carmoucheassigned toSan Francisco Giants.",
+      "player": "Dylan Carmouche"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Los Angeles Dodgers",
+      "details": "RHPJordan Weemsassigned toLos Angeles Dodgers.",
+      "player": "Jordan Weems"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Washington Nationals",
+      "details": "RHPDrew Smithassigned toWashington Nationals.",
+      "player": "Drew Smith"
     },
     {
       "date": "2026-03-02",
@@ -159,9 +177,21 @@
     },
     {
       "date": "2026-03-02",
-      "team": "Detroit Tigers",
-      "details": "CMartin Tamaraassigned toDetroit Tigers.",
-      "player": "Martin Tamara"
+      "team": "Boston Red Sox",
+      "details": "3BFreili Encarnacionassigned toBoston Red Sox.",
+      "player": "Freili Encarnacion"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Atlanta Braves",
+      "details": "CFLuis Guanipaassigned toAtlanta Braves.",
+      "player": "Luis Guanipa"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Washington Nationals",
+      "details": "RHPMerrick Baldoassigned toWashington Nationals.",
+      "player": "Merrick Baldo"
     }
   ]
 }
