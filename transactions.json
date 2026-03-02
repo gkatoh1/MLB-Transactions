@@ -1,11 +1,41 @@
 {
-  "last_updated": "2026-03-02T13:16:55.404186",
+  "last_updated": "2026-03-02T14:51:40.885084",
   "transactions": [
+    {
+      "date": "2026-03-02",
+      "team": "Boston Red Sox",
+      "details": "SSFranklin Ariasassigned toBoston Red Sox.",
+      "player": "Franklin Arias"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Tampa Bay Rays",
+      "details": "RHPAndy Rodriguezassigned toTampa Bay Rays.",
+      "player": "Andy Rodriguez"
+    },
     {
       "date": "2026-03-02",
       "team": "Detroit Tigers",
       "details": "1BGarrett Penningtonassigned toDetroit Tigers.",
       "player": "Garrett Pennington"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "St. Louis Cardinals",
+      "details": "SSRyan Mitchellassigned toSt. Louis Cardinals.",
+      "player": "Ryan Mitchell"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Detroit Tigers",
+      "details": "CMartin Tamaraassigned toDetroit Tigers.",
+      "player": "Martin Tamara"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Pittsburgh Pirates",
+      "details": "IFKendrick Herreraassigned toPittsburgh Pirates.",
+      "player": "Kendrick Herrera"
     },
     {
       "date": "2026-03-02",
@@ -15,15 +45,21 @@
     },
     {
       "date": "2026-03-02",
-      "team": "Miami Marlins",
-      "details": "3BJesus Hernandezassigned toMiami Marlins.",
-      "player": "Jesus Hernandez"
+      "team": "Tampa Bay Rays",
+      "details": "CJose Tovarassigned toTampa Bay Rays.",
+      "player": "Jose Tovar"
     },
     {
       "date": "2026-03-02",
-      "team": "Detroit Tigers",
-      "details": "CMartin Tamaraassigned toDetroit Tigers.",
-      "player": "Martin Tamara"
+      "team": "Pittsburgh Pirates",
+      "details": "RHPJaycob Deeseassigned toPittsburgh Pirates.",
+      "player": "Jaycob Deese"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Miami Marlins",
+      "details": "3BJesus Hernandezassigned toMiami Marlins.",
+      "player": "Jesus Hernandez"
     }
   ]
 }
