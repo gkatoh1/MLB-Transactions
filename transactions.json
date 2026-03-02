@@ -1,4 +1,29 @@
 {
-  "last_updated": "2026-03-02T11:37:11.903095",
-  "transactions": []
+  "last_updated": "2026-03-02T13:16:55.404186",
+  "transactions": [
+    {
+      "date": "2026-03-02",
+      "team": "Detroit Tigers",
+      "details": "1BGarrett Penningtonassigned toDetroit Tigers.",
+      "player": "Garrett Pennington"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Miami Marlins",
+      "details": "CFMark Coley IIassigned toMiami Marlins.",
+      "player": "Mark Coley II"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Miami Marlins",
+      "details": "3BJesus Hernandezassigned toMiami Marlins.",
+      "player": "Jesus Hernandez"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Detroit Tigers",
+      "details": "CMartin Tamaraassigned toDetroit Tigers.",
+      "player": "Martin Tamara"
+    }
+  ]
 }
