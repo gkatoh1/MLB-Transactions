@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-03-02T20:45:18.950058",
+  "last_updated": "2026-03-02T21:41:19.317600",
   "transactions": [
     {
       "date": "2026-03-02",
-      "team": "Washington Nationals",
-      "details": "RHPJames Colyerassigned toWashington Nationals.",
-      "player": "James Colyer"
+      "team": "St. Louis Cardinals",
+      "details": "SSRyan Mitchellassigned toSt. Louis Cardinals.",
+      "player": "Ryan Mitchell"
     },
     {
       "date": "2026-03-02",
@@ -87,54 +87,6 @@
     },
     {
       "date": "2026-03-02",
-      "team": "Colorado Rockies",
-      "details": "LHPStu Flesland IIIassigned toColorado Rockies.",
-      "player": "Stu Flesland III"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "Washington Nationals",
-      "details": "RHPDrew Smithassigned toWashington Nationals.",
-      "player": "Drew Smith"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "Detroit Tigers",
-      "details": "1BGarrett Penningtonassigned toDetroit Tigers.",
-      "player": "Garrett Pennington"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "Detroit Tigers",
-      "details": "CMartin Tamaraassigned toDetroit Tigers.",
-      "player": "Martin Tamara"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "Boston Red Sox",
-      "details": "3BFreili Encarnacionassigned toBoston Red Sox.",
-      "player": "Freili Encarnacion"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "Atlanta Braves",
-      "details": "CFLuis Guanipaassigned toAtlanta Braves.",
-      "player": "Luis Guanipa"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "Washington Nationals",
-      "details": "RHPMerrick Baldoassigned toWashington Nationals.",
-      "player": "Merrick Baldo"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "San Francisco Giants",
-      "details": "CFJonah Coxassigned toSan Francisco Giants.",
-      "player": "Jonah Cox"
-    },
-    {
-      "date": "2026-03-02",
       "team": "San Francisco Giants",
       "details": "CFLisbel Diazassigned toSan Francisco Giants.",
       "player": "Lisbel Diaz"
@@ -153,15 +105,9 @@
     },
     {
       "date": "2026-03-02",
-      "team": "Boston Red Sox",
-      "details": "CFEnddy Azocarassigned toBoston Red Sox.",
-      "player": "Enddy Azocar"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "St. Louis Cardinals",
-      "details": "SSRyan Mitchellassigned toSt. Louis Cardinals.",
-      "player": "Ryan Mitchell"
+      "team": "Detroit Tigers",
+      "details": "CMartin Tamaraassigned toDetroit Tigers.",
+      "player": "Martin Tamara"
     },
     {
       "date": "2026-03-02",
@@ -192,6 +138,72 @@
       "team": "Pittsburgh Pirates",
       "details": "RHPJaycob Deeseassigned toPittsburgh Pirates.",
       "player": "Jaycob Deese"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Colorado Rockies",
+      "details": "LHPStu Flesland IIIassigned toColorado Rockies.",
+      "player": "Stu Flesland III"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Washington Nationals",
+      "details": "RHPDrew Smithassigned toWashington Nationals.",
+      "player": "Drew Smith"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Boston Red Sox",
+      "details": "3BFreili Encarnacionassigned toBoston Red Sox.",
+      "player": "Freili Encarnacion"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Atlanta Braves",
+      "details": "CFLuis Guanipaassigned toAtlanta Braves.",
+      "player": "Luis Guanipa"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Washington Nationals",
+      "details": "RHPMerrick Baldoassigned toWashington Nationals.",
+      "player": "Merrick Baldo"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Washington Nationals",
+      "details": "RHPJames Colyerassigned toWashington Nationals.",
+      "player": "James Colyer"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsreassigned RHPTekoah Robyto the minor leagues.",
+      "player": "Tekoah Roby"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "San Francisco Giants",
+      "details": "CFJonah Coxassigned toSan Francisco Giants.",
+      "player": "Jonah Cox"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Detroit Tigers",
+      "details": "1BGarrett Penningtonassigned toDetroit Tigers.",
+      "player": "Garrett Pennington"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Boston Red Sox",
+      "details": "CFEnddy Azocarassigned toBoston Red Sox.",
+      "player": "Enddy Azocar"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPTekoah Robyto Memphis Redbirds.",
+      "player": "Tekoah Roby"
     }
   ]
 }
