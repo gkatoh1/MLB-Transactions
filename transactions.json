@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T14:51:40.885084",
+  "last_updated": "2026-03-02T15:50:07.591723",
   "transactions": [
     {
       "date": "2026-03-02",
@@ -15,9 +15,21 @@
     },
     {
       "date": "2026-03-02",
+      "team": "San Francisco Giants",
+      "details": "LHPDylan Carmoucheassigned toSan Francisco Giants.",
+      "player": "Dylan Carmouche"
+    },
+    {
+      "date": "2026-03-02",
       "team": "Detroit Tigers",
       "details": "1BGarrett Penningtonassigned toDetroit Tigers.",
       "player": "Garrett Pennington"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Miami Marlins",
+      "details": "3BJesus Hernandezassigned toMiami Marlins.",
+      "player": "Jesus Hernandez"
     },
     {
       "date": "2026-03-02",
@@ -39,6 +51,12 @@
     },
     {
       "date": "2026-03-02",
+      "team": "Cleveland Guardians",
+      "details": "OFJuneiker Caceresassigned toCleveland Guardians.",
+      "player": "Juneiker Caceres"
+    },
+    {
+      "date": "2026-03-02",
       "team": "Miami Marlins",
       "details": "CFMark Coley IIassigned toMiami Marlins.",
       "player": "Mark Coley II"
@@ -54,12 +72,6 @@
       "team": "Pittsburgh Pirates",
       "details": "RHPJaycob Deeseassigned toPittsburgh Pirates.",
       "player": "Jaycob Deese"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "Miami Marlins",
-      "details": "3BJesus Hernandezassigned toMiami Marlins.",
-      "player": "Jesus Hernandez"
     }
   ]
 }
