@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-03-02T15:50:07.591723",
+  "last_updated": "2026-03-02T16:59:11.713482",
   "transactions": [
+    {
+      "date": "2026-03-02",
+      "team": "Boston Red Sox",
+      "details": "3BFreili Encarnacionassigned toBoston Red Sox.",
+      "player": "Freili Encarnacion"
+    },
     {
       "date": "2026-03-02",
       "team": "Boston Red Sox",
@@ -27,21 +33,15 @@
     },
     {
       "date": "2026-03-02",
-      "team": "Miami Marlins",
-      "details": "3BJesus Hernandezassigned toMiami Marlins.",
-      "player": "Jesus Hernandez"
+      "team": "Boston Red Sox",
+      "details": "CFEnddy Azocarassigned toBoston Red Sox.",
+      "player": "Enddy Azocar"
     },
     {
       "date": "2026-03-02",
       "team": "St. Louis Cardinals",
       "details": "SSRyan Mitchellassigned toSt. Louis Cardinals.",
       "player": "Ryan Mitchell"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "Detroit Tigers",
-      "details": "CMartin Tamaraassigned toDetroit Tigers.",
-      "player": "Martin Tamara"
     },
     {
       "date": "2026-03-02",
@@ -72,6 +72,18 @@
       "team": "Pittsburgh Pirates",
       "details": "RHPJaycob Deeseassigned toPittsburgh Pirates.",
       "player": "Jaycob Deese"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Miami Marlins",
+      "details": "3BJesus Hernandezassigned toMiami Marlins.",
+      "player": "Jesus Hernandez"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Detroit Tigers",
+      "details": "CMartin Tamaraassigned toDetroit Tigers.",
+      "player": "Martin Tamara"
     }
   ]
 }
