@@ -1,29 +1,11 @@
 {
-  "last_updated": "2026-03-03T17:53:56.236874",
+  "last_updated": "2026-03-03T20:39:35.785575",
   "transactions": [
     {
       "date": "2026-03-03",
-      "team": "Kansas City Royals",
-      "details": "RHPAugusto Mendietaassigned toKansas City Royals.",
-      "player": "Augusto Mendieta"
-    },
-    {
-      "date": "2026-03-03",
-      "team": "Tampa Bay Rays",
-      "details": "RHPNoah Bealassigned toTampa Bay Rays.",
-      "player": "Noah Beal"
-    },
-    {
-      "date": "2026-03-03",
-      "team": "Chicago Cubs",
-      "details": "RHPBen Hellerassigned toChicago Cubs.",
-      "player": "Ben Heller"
-    },
-    {
-      "date": "2026-03-03",
-      "team": "Arizona Diamondbacks",
-      "details": "OFTrent Youngbloodassigned toArizona Diamondbacks.",
-      "player": "Trent Youngblood"
+      "team": "Boston Red Sox",
+      "details": "OFAndrews Opataassigned toBoston Red Sox.",
+      "player": "Andrews Opata"
     },
     {
       "date": "2026-03-03",
@@ -57,6 +39,24 @@
     },
     {
       "date": "2026-03-03",
+      "team": "Kansas City Royals",
+      "details": "IFJose Cericeassigned toKansas City Royals.",
+      "player": "Jose Cerice"
+    },
+    {
+      "date": "2026-03-03",
+      "team": "Pittsburgh Pirates",
+      "details": "CEdgleen Perezassigned toPittsburgh Pirates.",
+      "player": "Edgleen Perez"
+    },
+    {
+      "date": "2026-03-03",
+      "team": "San Francisco Giants",
+      "details": "RHPLogan Martinassigned toSan Francisco Giants.",
+      "player": "Logan Martin"
+    },
+    {
+      "date": "2026-03-03",
       "team": "Seattle Mariners",
       "details": "CMitch Garverassigned toSeattle Mariners.",
       "player": "Mitch Garver"
@@ -81,15 +81,75 @@
     },
     {
       "date": "2026-03-03",
+      "team": "Chicago White Sox",
+      "details": "CGrant Magillassigned toChicago White Sox.",
+      "player": "Grant Magill"
+    },
+    {
+      "date": "2026-03-03",
       "team": "San Diego Padres",
       "details": "CJake Boldassigned toSan Diego Padres.",
       "player": "Jake Bold"
     },
     {
       "date": "2026-03-03",
+      "team": "Kansas City Royals",
+      "details": "RHPFelix Arrondeassigned toKansas City Royals.",
+      "player": "Felix Arronde"
+    },
+    {
+      "date": "2026-03-03",
+      "team": "Miami Marlins",
+      "details": "LHPJoey Voliniassigned toMiami Marlins.",
+      "player": "Joey Volini"
+    },
+    {
+      "date": "2026-03-03",
+      "team": "Kansas City Royals",
+      "details": "SSYandel Ricardoassigned toKansas City Royals.",
+      "player": "Yandel Ricardo"
+    },
+    {
+      "date": "2026-03-03",
       "team": "Tampa Bay Rays",
       "details": "RFJhon Diazassigned toTampa Bay Rays.",
       "player": "Jhon Diaz"
+    },
+    {
+      "date": "2026-03-03",
+      "team": "Tampa Bay Rays",
+      "details": "RHPNoah Bealassigned toTampa Bay Rays.",
+      "player": "Noah Beal"
+    },
+    {
+      "date": "2026-03-03",
+      "team": "Chicago Cubs",
+      "details": "RHPBen Hellerassigned toChicago Cubs.",
+      "player": "Ben Heller"
+    },
+    {
+      "date": "2026-03-03",
+      "team": "Arizona Diamondbacks",
+      "details": "OFTrent Youngbloodassigned toArizona Diamondbacks.",
+      "player": "Trent Youngblood"
+    },
+    {
+      "date": "2026-03-03",
+      "team": "Athletics",
+      "details": "CCarlos Francoassigned toAthletics.",
+      "player": "Carlos Franco"
+    },
+    {
+      "date": "2026-03-03",
+      "team": "Athletics",
+      "details": "OFBreyson Guedezassigned toAthletics.",
+      "player": "Breyson Guedez"
+    },
+    {
+      "date": "2026-03-03",
+      "team": "Chicago Cubs",
+      "details": "CEthan Hearnassigned toChicago Cubs.",
+      "player": "Ethan Hearn"
     },
     {
       "date": "2026-03-03",
@@ -105,42 +165,6 @@
     },
     {
       "date": "2026-03-03",
-      "team": "Kansas City Royals",
-      "details": "IFJose Cericeassigned toKansas City Royals.",
-      "player": "Jose Cerice"
-    },
-    {
-      "date": "2026-03-03",
-      "team": "Pittsburgh Pirates",
-      "details": "CEdgleen Perezassigned toPittsburgh Pirates.",
-      "player": "Edgleen Perez"
-    },
-    {
-      "date": "2026-03-03",
-      "team": "Cleveland Guardians",
-      "details": "2BJonathan Martinezassigned toCleveland Guardians.",
-      "player": "Jonathan Martinez"
-    },
-    {
-      "date": "2026-03-03",
-      "team": "Kansas City Royals",
-      "details": "SSYandel Ricardoassigned toKansas City Royals.",
-      "player": "Yandel Ricardo"
-    },
-    {
-      "date": "2026-03-03",
-      "team": "Boston Red Sox",
-      "details": "OFAndrews Opataassigned toBoston Red Sox.",
-      "player": "Andrews Opata"
-    },
-    {
-      "date": "2026-03-03",
-      "team": "Miami Marlins",
-      "details": "LHPJoey Voliniassigned toMiami Marlins.",
-      "player": "Joey Volini"
-    },
-    {
-      "date": "2026-03-03",
       "team": "Chicago Cubs",
       "details": "3BChristopher Paciollaassigned toChicago Cubs.",
       "player": "Christopher Paciolla"
@@ -150,6 +174,18 @@
       "team": "Toronto Blue Jays",
       "details": "RFJacob Wetzelassigned toToronto Blue Jays.",
       "player": "Jacob Wetzel"
+    },
+    {
+      "date": "2026-03-03",
+      "team": "Kansas City Royals",
+      "details": "RHPAugusto Mendietaassigned toKansas City Royals.",
+      "player": "Augusto Mendieta"
+    },
+    {
+      "date": "2026-03-03",
+      "team": "Cleveland Guardians",
+      "details": "2BJonathan Martinezassigned toCleveland Guardians.",
+      "player": "Jonathan Martinez"
     },
     {
       "date": "2026-03-03",
