@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-03-03T02:49:15.088952",
+  "last_updated": "2026-03-03T04:52:42.906919",
   "transactions": [
     {
       "date": "2026-03-02",
-      "team": "St. Louis Cardinals",
-      "details": "SSRyan Mitchellassigned toSt. Louis Cardinals.",
-      "player": "Ryan Mitchell"
+      "team": "Detroit Tigers",
+      "details": "CMartin Tamaraassigned toDetroit Tigers.",
+      "player": "Martin Tamara"
     },
     {
       "date": "2026-03-02",
@@ -81,6 +81,12 @@
     },
     {
       "date": "2026-03-02",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsdesignated CFDairon Blancofor assignment.",
+      "player": "Dairon Blanco"
+    },
+    {
+      "date": "2026-03-02",
       "team": "Washington Nationals",
       "details": "RHPVictor Fariasassigned toWashington Nationals.",
       "player": "Victor Farias"
@@ -96,12 +102,6 @@
       "team": "San Diego Padres",
       "details": "RHPAbraham Parraassigned toSan Diego Padres.",
       "player": "Abraham Parra"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "Colorado Rockies",
-      "details": "LHPStu Flesland IIIassigned toColorado Rockies.",
-      "player": "Stu Flesland III"
     },
     {
       "date": "2026-03-02",
@@ -129,18 +129,6 @@
     },
     {
       "date": "2026-03-02",
-      "team": "Detroit Tigers",
-      "details": "1BGarrett Penningtonassigned toDetroit Tigers.",
-      "player": "Garrett Pennington"
-    },
-    {
-      "date": "2026-03-02",
-      "team": "Detroit Tigers",
-      "details": "CMartin Tamaraassigned toDetroit Tigers.",
-      "player": "Martin Tamara"
-    },
-    {
-      "date": "2026-03-02",
       "team": "Boston Red Sox",
       "details": "3BFreili Encarnacionassigned toBoston Red Sox.",
       "player": "Freili Encarnacion"
@@ -159,15 +147,15 @@
     },
     {
       "date": "2026-03-02",
-      "team": "Los Angeles Dodgers",
-      "details": "LHPJacob Frostassigned toLos Angeles Dodgers.",
-      "player": "Jacob Frost"
-    },
-    {
-      "date": "2026-03-02",
       "team": "Boston Red Sox",
       "details": "CFEnddy Azocarassigned toBoston Red Sox.",
       "player": "Enddy Azocar"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "St. Louis Cardinals",
+      "details": "SSRyan Mitchellassigned toSt. Louis Cardinals.",
+      "player": "Ryan Mitchell"
     },
     {
       "date": "2026-03-02",
@@ -198,6 +186,24 @@
       "team": "San Diego Padres",
       "details": "LHPIgor Gilassigned toSan Diego Padres.",
       "player": "Igor Gil"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Los Angeles Dodgers",
+      "details": "LHPJacob Frostassigned toLos Angeles Dodgers.",
+      "player": "Jacob Frost"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Colorado Rockies",
+      "details": "LHPStu Flesland IIIassigned toColorado Rockies.",
+      "player": "Stu Flesland III"
+    },
+    {
+      "date": "2026-03-02",
+      "team": "Detroit Tigers",
+      "details": "1BGarrett Penningtonassigned toDetroit Tigers.",
+      "player": "Garrett Pennington"
     },
     {
       "date": "2026-03-02",
