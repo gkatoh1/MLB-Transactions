@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-03-05T14:54:38.361042",
+  "last_updated": "2026-03-05T15:56:28.374027",
   "transactions": [
+    {
+      "date": "2026-03-05",
+      "team": "Arizona Diamondbacks",
+      "details": "2BBrady Counsellassigned toArizona Diamondbacks.",
+      "player": "Brady Counsell"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Colorado Rockies",
+      "details": "SSJose Torresassigned toColorado Rockies.",
+      "player": "Jose Torres"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "New York Yankees",
+      "details": "LHPPico Kohnassigned toNew York Yankees.",
+      "player": "Pico Kohn"
+    },
     {
       "date": "2026-03-05",
       "team": "Miami Marlins",
@@ -15,9 +33,27 @@
     },
     {
       "date": "2026-03-05",
+      "team": "Chicago Cubs",
+      "details": "CFDarlyn De Leonassigned toChicago Cubs.",
+      "player": "Darlyn De Leon"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Baltimore Orioles",
+      "details": "CFDouglas Hodo IIIassigned toBaltimore Orioles.",
+      "player": "Douglas Hodo III"
+    },
+    {
+      "date": "2026-03-05",
       "team": "Miami Marlins",
       "details": "CNestor Riosassigned toMiami Marlins.",
       "player": "Nestor Rios"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Boston Red Sox",
+      "details": "RFMiguel Bleisassigned toBoston Red Sox.",
+      "player": "Miguel Bleis"
     },
     {
       "date": "2026-03-05",
@@ -51,21 +87,21 @@
     },
     {
       "date": "2026-03-05",
-      "team": "Boston Red Sox",
-      "details": "RFMiguel Bleisassigned toBoston Red Sox.",
-      "player": "Miguel Bleis"
+      "team": "Chicago Cubs",
+      "details": "3BMatt Halbachassigned toChicago Cubs.",
+      "player": "Matt Halbach"
     },
     {
       "date": "2026-03-05",
-      "team": "Colorado Rockies",
-      "details": "SSJose Torresassigned toColorado Rockies.",
-      "player": "Jose Torres"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPYilber Díazto Reno Aces.",
+      "player": "Yilber Díaz"
     },
     {
       "date": "2026-03-05",
-      "team": "New York Yankees",
-      "details": "LHPPico Kohnassigned toNew York Yankees.",
-      "player": "Pico Kohn"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPDylan Rayto Reno Aces.",
+      "player": "Dylan Ray"
     }
   ]
 }
