@@ -1,96 +1,6 @@
 {
-  "last_updated": "2026-03-05T23:03:28.783113",
+  "last_updated": "2026-03-06T02:42:28.989813",
   "transactions": [
-    {
-      "date": "2026-03-05",
-      "team": "New York Yankees",
-      "details": "LHPJose Ledesmaassigned toNew York Yankees.",
-      "player": "Jose Ledesma"
-    },
-    {
-      "date": "2026-03-05",
-      "team": "Chicago Cubs",
-      "details": "CFDarlyn De Leonassigned toChicago Cubs.",
-      "player": "Darlyn De Leon"
-    },
-    {
-      "date": "2026-03-05",
-      "team": "Baltimore Orioles",
-      "details": "CFDouglas Hodo IIIassigned toBaltimore Orioles.",
-      "player": "Douglas Hodo III"
-    },
-    {
-      "date": "2026-03-05",
-      "team": "New York Mets",
-      "details": "1BCorey Collinsassigned toNew York Mets.",
-      "player": "Corey Collins"
-    },
-    {
-      "date": "2026-03-05",
-      "team": "Milwaukee Brewers",
-      "details": "SSFilippo Di Turiassigned toMilwaukee Brewers.",
-      "player": "Filippo Di Turi"
-    },
-    {
-      "date": "2026-03-05",
-      "team": "Boston Red Sox",
-      "details": "RFMiguel Bleisassigned toBoston Red Sox.",
-      "player": "Miguel Bleis"
-    },
-    {
-      "date": "2026-03-05",
-      "team": "Colorado Rockies",
-      "details": "SSJose Torresassigned toColorado Rockies.",
-      "player": "Jose Torres"
-    },
-    {
-      "date": "2026-03-05",
-      "team": "New York Yankees",
-      "details": "LHPPico Kohnassigned toNew York Yankees.",
-      "player": "Pico Kohn"
-    },
-    {
-      "date": "2026-03-05",
-      "team": "Toronto Blue Jays",
-      "details": "CHayden Gillilandassigned toToronto Blue Jays.",
-      "player": "Hayden Gilliland"
-    },
-    {
-      "date": "2026-03-05",
-      "team": "Seattle Mariners",
-      "details": "LFColin Davisassigned toSeattle Mariners.",
-      "player": "Colin Davis"
-    },
-    {
-      "date": "2026-03-05",
-      "team": "New York Mets",
-      "details": "RHPOfreidy Gómezassigned toNew York Mets.",
-      "player": "Ofreidy Gómez"
-    },
-    {
-      "date": "2026-03-05",
-      "team": "New York Mets",
-      "details": "RHPTanner Wittassigned toNew York Mets.",
-      "player": "Tanner Witt"
-    },
-    {
-      "date": "2026-03-05",
-      "team": "Miami Marlins",
-      "details": "OFMicah McDowellassigned toMiami Marlins.",
-      "player": "Micah McDowell"
-    },
-    {
-      "date": "2026-03-05",
-      "team": "Los Angeles Angels",
-      "details": "CAlberto Riosassigned toLos Angeles Angels.",
-      "player": "Alberto Rios"
-    },
-    {
-      "date": "2026-03-05",
-      "team": "Los Angeles Angels",
-      "details": "2BCapri Ortizassigned toLos Angeles Angels.",
-      "player": "Capri Ortiz"
-    },
     {
       "date": "2026-03-05",
       "team": "Boston Red Sox",
@@ -171,15 +81,129 @@
     },
     {
       "date": "2026-03-05",
-      "team": "Arizona Diamondbacks",
-      "details": "2BBrady Counsellassigned toArizona Diamondbacks.",
-      "player": "Brady Counsell"
-    },
-    {
-      "date": "2026-03-05",
       "team": "San Diego Padres",
       "details": "2BWyatt Hoffmanassigned toSan Diego Padres.",
       "player": "Wyatt Hoffman"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Boston Red Sox",
+      "details": "RFMiguel Bleisassigned toBoston Red Sox.",
+      "player": "Miguel Bleis"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Colorado Rockies",
+      "details": "SSJose Torresassigned toColorado Rockies.",
+      "player": "Jose Torres"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "New York Yankees",
+      "details": "LHPPico Kohnassigned toNew York Yankees.",
+      "player": "Pico Kohn"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Toronto Blue Jays",
+      "details": "CHayden Gillilandassigned toToronto Blue Jays.",
+      "player": "Hayden Gilliland"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Seattle Mariners",
+      "details": "LFColin Davisassigned toSeattle Mariners.",
+      "player": "Colin Davis"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "New York Mets",
+      "details": "RHPOfreidy Gómezassigned toNew York Mets.",
+      "player": "Ofreidy Gómez"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Chicago White Sox",
+      "details": "CJuan Gonzalezassigned toChicago White Sox.",
+      "player": "Juan Gonzalez"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "New York Mets",
+      "details": "RHPTanner Wittassigned toNew York Mets.",
+      "player": "Tanner Witt"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Texas Rangers",
+      "details": "OFGilberto Celestinoassigned toTexas Rangers.",
+      "player": "Gilberto Celestino"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Cleveland Guardians",
+      "details": "CFJose Pirelaassigned toCleveland Guardians.",
+      "player": "Jose Pirela"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Los Angeles Angels",
+      "details": "CAlberto Riosassigned toLos Angeles Angels.",
+      "player": "Alberto Rios"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Los Angeles Angels",
+      "details": "2BCapri Ortizassigned toLos Angeles Angels.",
+      "player": "Capri Ortiz"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Kansas City Royals",
+      "details": "OFNolan Sailorsassigned toKansas City Royals.",
+      "player": "Nolan Sailors"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Cleveland Guardians",
+      "details": "1BRiley Nelsonassigned toCleveland Guardians.",
+      "player": "Riley Nelson"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Miami Marlins",
+      "details": "OFMicah McDowellassigned toMiami Marlins.",
+      "player": "Micah McDowell"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "New York Yankees",
+      "details": "LHPJose Ledesmaassigned toNew York Yankees.",
+      "player": "Jose Ledesma"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Chicago Cubs",
+      "details": "CFDarlyn De Leonassigned toChicago Cubs.",
+      "player": "Darlyn De Leon"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Baltimore Orioles",
+      "details": "CFDouglas Hodo IIIassigned toBaltimore Orioles.",
+      "player": "Douglas Hodo III"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "New York Mets",
+      "details": "1BCorey Collinsassigned toNew York Mets.",
+      "player": "Corey Collins"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Milwaukee Brewers",
+      "details": "SSFilippo Di Turiassigned toMilwaukee Brewers.",
+      "player": "Filippo Di Turi"
     },
     {
       "date": "2026-03-05",
@@ -189,9 +213,15 @@
     },
     {
       "date": "2026-03-05",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned LHPColton Gordonto Sugar Land Space Cowboys.",
-      "player": "Colton Gordon"
+      "team": "Arizona Diamondbacks",
+      "details": "2BBrady Counsellassigned toArizona Diamondbacks.",
+      "player": "Brady Counsell"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPDylan Rayto Reno Aces.",
+      "player": "Dylan Ray"
     },
     {
       "date": "2026-03-05",
@@ -202,26 +232,14 @@
     {
       "date": "2026-03-05",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned RHPDylan Rayto Reno Aces.",
-      "player": "Dylan Ray"
+      "details": "Arizona Diamondbacksoptioned RHPYilber Díazto Reno Aces.",
+      "player": "Yilber Díaz"
     },
     {
       "date": "2026-03-05",
       "team": "Houston Astros",
       "details": "Houston Astrosoptioned RHPMiguel Ullolato Sugar Land Space Cowboys.",
       "player": "Miguel Ullola"
-    },
-    {
-      "date": "2026-03-05",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPChase Hamptonto Somerset Patriots.",
-      "player": "Chase Hampton"
-    },
-    {
-      "date": "2026-03-05",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned RHPYilber Díazto Reno Aces.",
-      "player": "Yilber Díaz"
     },
     {
       "date": "2026-03-05",
@@ -237,15 +255,27 @@
     },
     {
       "date": "2026-03-05",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned RHPDylan Rayto Reno Aces.",
-      "player": "Dylan Ray"
-    },
-    {
-      "date": "2026-03-05",
       "team": "San Diego Padres",
       "details": "San Diego Padresoptioned RHPMiguel Mendezto San Antonio Missions.",
       "player": "Miguel Mendez"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LHPColton Gordonto Sugar Land Space Cowboys.",
+      "player": "Colton Gordon"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPChase Hamptonto Somerset Patriots.",
+      "player": "Chase Hampton"
+    },
+    {
+      "date": "2026-03-05",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPDylan Rayto Reno Aces.",
+      "player": "Dylan Ray"
     }
   ]
 }
