@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-03-06T16:53:08.789879",
+  "last_updated": "2026-03-06T17:41:49.416413",
   "transactions": [
     {
       "date": "2026-03-06",
-      "team": "Boston Red Sox",
-      "details": "OFAnderson Ferminassigned toBoston Red Sox.",
-      "player": "Anderson Fermin"
+      "team": "Washington Nationals",
+      "details": "SSArmando Cruzassigned toWashington Nationals.",
+      "player": "Armando Cruz"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Baltimore Orioles",
+      "details": "RHPEccel Correaassigned toBaltimore Orioles.",
+      "player": "Eccel Correa"
     },
     {
       "date": "2026-03-06",
@@ -21,9 +27,27 @@
     },
     {
       "date": "2026-03-06",
-      "team": "Washington Nationals",
-      "details": "SSArmando Cruzassigned toWashington Nationals.",
-      "player": "Armando Cruz"
+      "team": "St. Louis Cardinals",
+      "details": "CFYordalin Penaassigned toSt. Louis Cardinals.",
+      "player": "Yordalin Pena"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Toronto Blue Jays",
+      "details": "CFBraden Barryassigned toToronto Blue Jays.",
+      "player": "Braden Barry"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Seattle Mariners",
+      "details": "CMatthew Ellisassigned toSeattle Mariners.",
+      "player": "Matthew Ellis"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Atlanta Braves",
+      "details": "LFJurickson Profarroster status changed byAtlanta Braves.",
+      "player": "Jurickson Profar"
     },
     {
       "date": "2026-03-06",
@@ -48,6 +72,48 @@
       "team": "Baltimore Orioles",
       "details": "RHPJacob Craveyassigned toBaltimore Orioles.",
       "player": "Jacob Cravey"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Boston Red Sox",
+      "details": "CFJustin Barryassigned toBoston Red Sox.",
+      "player": "Justin Barry"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "St. Louis Cardinals",
+      "details": "CSammy Hernandezassigned toSt. Louis Cardinals.",
+      "player": "Sammy Hernandez"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Baltimore Orioles",
+      "details": "LHPSayer Diederichassigned toBaltimore Orioles.",
+      "player": "Sayer Diederich"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Chicago White Sox",
+      "details": "SSBilly Carlsonassigned toChicago White Sox.",
+      "player": "Billy Carlson"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Boston Red Sox",
+      "details": "OFAnderson Ferminassigned toBoston Red Sox.",
+      "player": "Anderson Fermin"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Cleveland Guardians",
+      "details": "SSRicardo Romeroassigned toCleveland Guardians.",
+      "player": "Ricardo Romero"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Seattle Mariners",
+      "details": "OFKorbyn Dickersonassigned toSeattle Mariners.",
+      "player": "Korbyn Dickerson"
     },
     {
       "date": "2026-03-06",
@@ -87,45 +153,15 @@
     },
     {
       "date": "2026-03-06",
-      "team": "Boston Red Sox",
-      "details": "CFJustin Barryassigned toBoston Red Sox.",
-      "player": "Justin Barry"
-    },
-    {
-      "date": "2026-03-06",
-      "team": "St. Louis Cardinals",
-      "details": "CSammy Hernandezassigned toSt. Louis Cardinals.",
-      "player": "Sammy Hernandez"
-    },
-    {
-      "date": "2026-03-06",
-      "team": "Baltimore Orioles",
-      "details": "LHPSayer Diederichassigned toBaltimore Orioles.",
-      "player": "Sayer Diederich"
-    },
-    {
-      "date": "2026-03-06",
-      "team": "Chicago White Sox",
-      "details": "SSBilly Carlsonassigned toChicago White Sox.",
-      "player": "Billy Carlson"
-    },
-    {
-      "date": "2026-03-06",
-      "team": "St. Louis Cardinals",
-      "details": "CFYordalin Penaassigned toSt. Louis Cardinals.",
-      "player": "Yordalin Pena"
-    },
-    {
-      "date": "2026-03-06",
       "team": "St. Louis Cardinals",
       "details": "RFJose Suarezassigned toSt. Louis Cardinals.",
       "player": "Jose Suarez"
     },
     {
       "date": "2026-03-06",
-      "team": "Baltimore Orioles",
-      "details": "RHPEccel Correaassigned toBaltimore Orioles.",
-      "player": "Eccel Correa"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPJulian Aguiarto Louisville Bats.",
+      "player": "Julian Aguiar"
     },
     {
       "date": "2026-03-06",
@@ -141,6 +177,24 @@
     },
     {
       "date": "2026-03-06",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPAustin Petersonto Columbus Clippers.",
+      "player": "Austin Peterson"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPYorman Gómezto Columbus Clippers.",
+      "player": "Yorman Gómez"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned LHPJake Millerto Toledo Mud Hens.",
+      "player": "Jake Miller"
+    },
+    {
+      "date": "2026-03-06",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersoptioned LHPDrew Sommersto Toledo Mud Hens.",
       "player": "Drew Sommers"
@@ -150,18 +204,6 @@
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned SSEdwin Arroyoto Louisville Bats.",
       "player": "Edwin Arroyo"
-    },
-    {
-      "date": "2026-03-06",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPJulian Aguiarto Louisville Bats.",
-      "player": "Julian Aguiar"
-    },
-    {
-      "date": "2026-03-06",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned LHPJake Millerto Toledo Mud Hens.",
-      "player": "Jake Miller"
     },
     {
       "date": "2026-03-06",
