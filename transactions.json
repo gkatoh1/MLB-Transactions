@@ -1,35 +1,53 @@
 {
-  "last_updated": "2026-03-06T23:34:50.485654",
+  "last_updated": "2026-03-07T02:35:13.608639",
   "transactions": [
     {
       "date": "2026-03-06",
+      "team": "Miami Marlins",
+      "details": "OFJacob Jenkins-Cowartassigned toMiami Marlins.",
+      "player": "Jacob Jenkins-Cowart"
+    },
+    {
+      "date": "2026-03-06",
       "team": "San Diego Padres",
-      "details": "RHPCarson Swillingassigned toSan Diego Padres.",
-      "player": "Carson Swilling"
+      "details": "SSJustin DeCriscioassigned toSan Diego Padres.",
+      "player": "Justin DeCriscio"
     },
     {
       "date": "2026-03-06",
-      "team": "Philadelphia Phillies",
-      "details": "SSMatthew Ferraraassigned toPhiladelphia Phillies.",
-      "player": "Matthew Ferrara"
+      "team": "Chicago White Sox",
+      "details": "SSBilly Carlsonassigned toChicago White Sox.",
+      "player": "Billy Carlson"
     },
     {
       "date": "2026-03-06",
-      "team": "Seattle Mariners",
-      "details": "CMatthew Ellisassigned toSeattle Mariners.",
-      "player": "Matthew Ellis"
+      "team": "San Diego Padres",
+      "details": "RHPLuis Germánassigned toSan Diego Padres.",
+      "player": "Luis Germán"
     },
     {
       "date": "2026-03-06",
-      "team": "Atlanta Braves",
-      "details": "LFJurickson Profarroster status changed byAtlanta Braves.",
-      "player": "Jurickson Profar"
+      "team": "Pittsburgh Pirates",
+      "details": "LHPJacob Bimbiassigned toPittsburgh Pirates.",
+      "player": "Jacob Bimbi"
     },
     {
       "date": "2026-03-06",
-      "team": "Washington Nationals",
-      "details": "SSArmando Cruzassigned toWashington Nationals.",
-      "player": "Armando Cruz"
+      "team": "St. Louis Cardinals",
+      "details": "2BMiguel Villarroelassigned toSt. Louis Cardinals.",
+      "player": "Miguel Villarroel"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "San Diego Padres",
+      "details": "RHPClark Candiottiassigned toSan Diego Padres.",
+      "player": "Clark Candiotti"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Cincinnati Reds",
+      "details": "RHPJohnathan Lavalleeassigned toCincinnati Reds.",
+      "player": "Johnathan Lavallee"
     },
     {
       "date": "2026-03-06",
@@ -57,36 +75,6 @@
     },
     {
       "date": "2026-03-06",
-      "team": "Pittsburgh Pirates",
-      "details": "3BMurf Grayassigned toPittsburgh Pirates.",
-      "player": "Murf Gray"
-    },
-    {
-      "date": "2026-03-06",
-      "team": "Pittsburgh Pirates",
-      "details": "CWyatt Hendrieassigned toPittsburgh Pirates.",
-      "player": "Wyatt Hendrie"
-    },
-    {
-      "date": "2026-03-06",
-      "team": "Baltimore Orioles",
-      "details": "RHPJacob Craveyassigned toBaltimore Orioles.",
-      "player": "Jacob Cravey"
-    },
-    {
-      "date": "2026-03-06",
-      "team": "Arizona Diamondbacks",
-      "details": "1BModeifi Marteassigned toArizona Diamondbacks.",
-      "player": "Modeifi Marte"
-    },
-    {
-      "date": "2026-03-06",
-      "team": "Arizona Diamondbacks",
-      "details": "CCarlos Virahondaassigned toArizona Diamondbacks.",
-      "player": "Carlos Virahonda"
-    },
-    {
-      "date": "2026-03-06",
       "team": "Seattle Mariners",
       "details": "OFKorbyn Dickersonassigned toSeattle Mariners.",
       "player": "Korbyn Dickerson"
@@ -99,15 +87,9 @@
     },
     {
       "date": "2026-03-06",
-      "team": "Arizona Diamondbacks",
-      "details": "SSEliesbert Alejosassigned toArizona Diamondbacks.",
-      "player": "Eliesbert Alejos"
-    },
-    {
-      "date": "2026-03-06",
-      "team": "Miami Marlins",
-      "details": "SSCam Claytonassigned toMiami Marlins.",
-      "player": "Cam Clayton"
+      "team": "Los Angeles Dodgers",
+      "details": "LHPMatt Lanzendorferassigned toLos Angeles Dodgers.",
+      "player": "Matt Lanzendorfer"
     },
     {
       "date": "2026-03-06",
@@ -141,30 +123,6 @@
     },
     {
       "date": "2026-03-06",
-      "team": "Pittsburgh Pirates",
-      "details": "LHPJacob Bimbiassigned toPittsburgh Pirates.",
-      "player": "Jacob Bimbi"
-    },
-    {
-      "date": "2026-03-06",
-      "team": "St. Louis Cardinals",
-      "details": "2BMiguel Villarroelassigned toSt. Louis Cardinals.",
-      "player": "Miguel Villarroel"
-    },
-    {
-      "date": "2026-03-06",
-      "team": "San Diego Padres",
-      "details": "RHPClark Candiottiassigned toSan Diego Padres.",
-      "player": "Clark Candiotti"
-    },
-    {
-      "date": "2026-03-06",
-      "team": "Cincinnati Reds",
-      "details": "RHPJohnathan Lavalleeassigned toCincinnati Reds.",
-      "player": "Johnathan Lavallee"
-    },
-    {
-      "date": "2026-03-06",
       "team": "Boston Red Sox",
       "details": "OFAnderson Ferminassigned toBoston Red Sox.",
       "player": "Anderson Fermin"
@@ -189,9 +147,33 @@
     },
     {
       "date": "2026-03-06",
-      "team": "Cincinnati Reds",
-      "details": "CRyan McCrystalassigned toCincinnati Reds.",
-      "player": "Ryan McCrystal"
+      "team": "Pittsburgh Pirates",
+      "details": "3BMurf Grayassigned toPittsburgh Pirates.",
+      "player": "Murf Gray"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Pittsburgh Pirates",
+      "details": "CWyatt Hendrieassigned toPittsburgh Pirates.",
+      "player": "Wyatt Hendrie"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Baltimore Orioles",
+      "details": "RHPJacob Craveyassigned toBaltimore Orioles.",
+      "player": "Jacob Cravey"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Arizona Diamondbacks",
+      "details": "1BModeifi Marteassigned toArizona Diamondbacks.",
+      "player": "Modeifi Marte"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Arizona Diamondbacks",
+      "details": "CCarlos Virahondaassigned toArizona Diamondbacks.",
+      "player": "Carlos Virahonda"
     },
     {
       "date": "2026-03-06",
@@ -216,6 +198,12 @@
       "team": "New York Mets",
       "details": "OFAJ Salgadoassigned toNew York Mets.",
       "player": "AJ Salgado"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Unknown Team",
+      "details": "RHPJoe Elbisretired.",
+      "player": "Joe Elbis"
     },
     {
       "date": "2026-03-06",
@@ -291,15 +279,27 @@
     },
     {
       "date": "2026-03-06",
-      "team": "Boston Red Sox",
-      "details": "CFJustin Barryassigned toBoston Red Sox.",
-      "player": "Justin Barry"
+      "team": "Seattle Mariners",
+      "details": "CMatthew Ellisassigned toSeattle Mariners.",
+      "player": "Matthew Ellis"
     },
     {
       "date": "2026-03-06",
-      "team": "St. Louis Cardinals",
-      "details": "CSammy Hernandezassigned toSt. Louis Cardinals.",
-      "player": "Sammy Hernandez"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent LHPChristopher Romeroto a minor league contract.",
+      "player": "Christopher Romero"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Atlanta Braves",
+      "details": "LFJurickson Profarroster status changed byAtlanta Braves.",
+      "player": "Jurickson Profar"
+    },
+    {
+      "date": "2026-03-06",
+      "team": "Washington Nationals",
+      "details": "SSArmando Cruzassigned toWashington Nationals.",
+      "player": "Armando Cruz"
     }
   ]
 }
