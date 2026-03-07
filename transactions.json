@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T22:31:29.627685",
+  "last_updated": "2026-03-07T23:30:38.945736",
   "transactions": [
     {
       "date": "2026-03-07",
@@ -21,21 +21,45 @@
     },
     {
       "date": "2026-03-07",
+      "team": "Minnesota Twins",
+      "details": "SSBrandon Winokurassigned toMinnesota Twins.",
+      "player": "Brandon Winokur"
+    },
+    {
+      "date": "2026-03-07",
+      "team": "Minnesota Twins",
+      "details": "OFCaden Kendleassigned toMinnesota Twins.",
+      "player": "Caden Kendle"
+    },
+    {
+      "date": "2026-03-07",
       "team": "Baltimore Orioles",
-      "details": "2BBrayden Smithroster status changed byBaltimore Orioles.",
-      "player": "Brayden Smith"
+      "details": "2BJoephillip Guzmanassigned toBaltimore Orioles.",
+      "player": "Joephillip Guzman"
     },
     {
       "date": "2026-03-07",
       "team": "Los Angeles Angels",
-      "details": "RHPRoman Phansalkarassigned toLos Angeles Angels.",
-      "player": "Roman Phansalkar"
+      "details": "CKaden Hopsonassigned toLos Angeles Angels.",
+      "player": "Kaden Hopson"
     },
     {
       "date": "2026-03-07",
-      "team": "Philadelphia Phillies",
-      "details": "LHPWesley Mooreassigned toPhiladelphia Phillies.",
-      "player": "Wesley Moore"
+      "team": "Los Angeles Angels",
+      "details": "3BSlate Alfordassigned toLos Angeles Angels.",
+      "player": "Slate Alford"
+    },
+    {
+      "date": "2026-03-07",
+      "team": "Seattle Mariners",
+      "details": "2BAlejo Lopezassigned toSeattle Mariners.",
+      "player": "Alejo Lopez"
+    },
+    {
+      "date": "2026-03-07",
+      "team": "Arizona Diamondbacks",
+      "details": "RHPJonatan Bernalassigned toArizona Diamondbacks.",
+      "player": "Jonatan Bernal"
     },
     {
       "date": "2026-03-07",
@@ -78,6 +102,24 @@
       "team": "San Francisco Giants",
       "details": "RHPCole Hillierassigned toSan Francisco Giants.",
       "player": "Cole Hillier"
+    },
+    {
+      "date": "2026-03-07",
+      "team": "Baltimore Orioles",
+      "details": "2BBrayden Smithroster status changed byBaltimore Orioles.",
+      "player": "Brayden Smith"
+    },
+    {
+      "date": "2026-03-07",
+      "team": "Los Angeles Angels",
+      "details": "RHPRoman Phansalkarassigned toLos Angeles Angels.",
+      "player": "Roman Phansalkar"
+    },
+    {
+      "date": "2026-03-07",
+      "team": "Philadelphia Phillies",
+      "details": "LHPWesley Mooreassigned toPhiladelphia Phillies.",
+      "player": "Wesley Moore"
     },
     {
       "date": "2026-03-07",
@@ -135,27 +177,15 @@
     },
     {
       "date": "2026-03-07",
-      "team": "Athletics",
-      "details": "CDylan Fienassigned toAthletics.",
-      "player": "Dylan Fien"
+      "team": "Baltimore Orioles",
+      "details": "LFTavian Josenbergerassigned toBaltimore Orioles.",
+      "player": "Tavian Josenberger"
     },
     {
       "date": "2026-03-07",
-      "team": "Boston Red Sox",
-      "details": "RHPHarry Blumassigned toBoston Red Sox.",
-      "player": "Harry Blum"
-    },
-    {
-      "date": "2026-03-07",
-      "team": "San Diego Padres",
-      "details": "RHPAndrew Thurmanassigned toSan Diego Padres.",
-      "player": "Andrew Thurman"
-    },
-    {
-      "date": "2026-03-07",
-      "team": "San Francisco Giants",
-      "details": "CRod Barajas Jr.assigned toSan Francisco Giants.",
-      "player": "Rod Barajas Jr."
+      "team": "St. Louis Cardinals",
+      "details": "CFLuis Pinoassigned toSt. Louis Cardinals.",
+      "player": "Luis Pino"
     },
     {
       "date": "2026-03-07",
@@ -267,39 +297,9 @@
     },
     {
       "date": "2026-03-07",
-      "team": "Baltimore Orioles",
-      "details": "LFTavian Josenbergerassigned toBaltimore Orioles.",
-      "player": "Tavian Josenberger"
-    },
-    {
-      "date": "2026-03-07",
-      "team": "St. Louis Cardinals",
-      "details": "CFLuis Pinoassigned toSt. Louis Cardinals.",
-      "player": "Luis Pino"
-    },
-    {
-      "date": "2026-03-07",
-      "team": "Miami Marlins",
-      "details": "SSEmilio Barrerasassigned toMiami Marlins.",
-      "player": "Emilio Barreras"
-    },
-    {
-      "date": "2026-03-07",
-      "team": "Miami Marlins",
-      "details": "LHPJustin Stormassigned toMiami Marlins.",
-      "player": "Justin Storm"
-    },
-    {
-      "date": "2026-03-07",
-      "team": "Cleveland Guardians",
-      "details": "SSGabriel Rodriguezassigned toCleveland Guardians.",
-      "player": "Gabriel Rodriguez"
-    },
-    {
-      "date": "2026-03-07",
-      "team": "Milwaukee Brewers",
-      "details": "RHPJose Novaassigned toMilwaukee Brewers.",
-      "player": "Jose Nova"
+      "team": "Athletics",
+      "details": "CDylan Fienassigned toAthletics.",
+      "player": "Dylan Fien"
     }
   ]
 }
