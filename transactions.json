@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-03-07T14:31:51.111565",
+  "last_updated": "2026-03-07T15:30:57.819342",
   "transactions": [
     {
       "date": "2026-03-07",
+      "team": "Tampa Bay Rays",
+      "details": "CLarry Martinezassigned toTampa Bay Rays.",
+      "player": "Larry Martinez"
+    },
+    {
+      "date": "2026-03-07",
       "team": "Miami Marlins",
-      "details": "SSStarlyn Cabaassigned toMiami Marlins.",
-      "player": "Starlyn Caba"
+      "details": "RFJohn Cruzassigned toMiami Marlins.",
+      "player": "John Cruz"
+    },
+    {
+      "date": "2026-03-07",
+      "team": "St. Louis Cardinals",
+      "details": "CFLuis Pinoassigned toSt. Louis Cardinals.",
+      "player": "Luis Pino"
     },
     {
       "date": "2026-03-07",
@@ -21,15 +33,21 @@
     },
     {
       "date": "2026-03-07",
-      "team": "Miami Marlins",
-      "details": "RFJohn Cruzassigned toMiami Marlins.",
-      "player": "John Cruz"
+      "team": "Cleveland Guardians",
+      "details": "SSGabriel Rodriguezassigned toCleveland Guardians.",
+      "player": "Gabriel Rodriguez"
     },
     {
       "date": "2026-03-07",
-      "team": "St. Louis Cardinals",
-      "details": "CFLuis Pinoassigned toSt. Louis Cardinals.",
-      "player": "Luis Pino"
+      "team": "Miami Marlins",
+      "details": "SSStarlyn Cabaassigned toMiami Marlins.",
+      "player": "Starlyn Caba"
+    },
+    {
+      "date": "2026-03-07",
+      "team": "Tampa Bay Rays",
+      "details": "RHPJacob Kmatzassigned toTampa Bay Rays.",
+      "player": "Jacob Kmatz"
     },
     {
       "date": "2026-03-07",
