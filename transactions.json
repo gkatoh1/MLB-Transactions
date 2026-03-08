@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-03-08T13:05:00.422257",
+  "last_updated": "2026-03-08T14:32:20.599324",
   "transactions": [
+    {
+      "date": "2026-03-08",
+      "team": "St. Louis Cardinals",
+      "details": "SSJonathan Mejíaassigned toSt. Louis Cardinals.",
+      "player": "Jonathan Mejía"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "St. Louis Cardinals",
+      "details": "OFCameron Nickensassigned toSt. Louis Cardinals.",
+      "player": "Cameron Nickens"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Tampa Bay Rays",
+      "details": "SSRicardo Gonzalezassigned toTampa Bay Rays.",
+      "player": "Ricardo Gonzalez"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Pittsburgh Pirates",
+      "details": "SSEddie Ryndersassigned toPittsburgh Pirates.",
+      "player": "Eddie Rynders"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Pittsburgh Pirates",
+      "details": "OFCarl Calixteassigned toPittsburgh Pirates.",
+      "player": "Carl Calixte"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Miami Marlins",
+      "details": "SSEchedry Vargasassigned toMiami Marlins.",
+      "player": "Echedry Vargas"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "St. Louis Cardinals",
+      "details": "RHPChristian Worleyassigned toSt. Louis Cardinals.",
+      "player": "Christian Worley"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Tampa Bay Rays",
+      "details": "RHPJadon Bercovichassigned toTampa Bay Rays.",
+      "player": "Jadon Bercovich"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Tampa Bay Rays",
+      "details": "CBrody Donayassigned toTampa Bay Rays.",
+      "player": "Brody Donay"
+    },
     {
       "date": "2026-03-08",
       "team": "Boston Red Sox",
@@ -9,9 +63,9 @@
     },
     {
       "date": "2026-03-08",
-      "team": "Miami Marlins",
-      "details": "SSEchedry Vargasassigned toMiami Marlins.",
-      "player": "Echedry Vargas"
+      "team": "Tampa Bay Rays",
+      "details": "3BRyan Spikesassigned toTampa Bay Rays.",
+      "player": "Ryan Spikes"
     }
   ]
 }
