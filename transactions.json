@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-03-08T15:31:37.054375",
+  "last_updated": "2026-03-08T16:38:35.897468",
   "transactions": [
+    {
+      "date": "2026-03-08",
+      "team": "Tampa Bay Rays",
+      "details": "SSRicardo Gonzalezassigned toTampa Bay Rays.",
+      "player": "Ricardo Gonzalez"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Toronto Blue Jays",
+      "details": "3BAldo Gaxiolaassigned toToronto Blue Jays.",
+      "player": "Aldo Gaxiola"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Toronto Blue Jays",
+      "details": "2BDariel Ramonassigned toToronto Blue Jays.",
+      "player": "Dariel Ramon"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Pittsburgh Pirates",
+      "details": "SSEddie Ryndersassigned toPittsburgh Pirates.",
+      "player": "Eddie Rynders"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Toronto Blue Jays",
+      "details": "OFJace Bohrofenassigned toToronto Blue Jays.",
+      "player": "Jace Bohrofen"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Atlanta Braves",
+      "details": "2BDixon Williamsassigned toAtlanta Braves.",
+      "player": "Dixon Williams"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Baltimore Orioles",
+      "details": "RHPBrandon Downerassigned toBaltimore Orioles.",
+      "player": "Brandon Downer"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Baltimore Orioles",
+      "details": "LHPSebastian Gongoraassigned toBaltimore Orioles.",
+      "player": "Sebastian Gongora"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Chicago Cubs",
+      "details": "RHPBrooks Capleassigned toChicago Cubs.",
+      "player": "Brooks Caple"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Miami Marlins",
+      "details": "SSEchedry Vargasassigned toMiami Marlins.",
+      "player": "Echedry Vargas"
+    },
     {
       "date": "2026-03-08",
       "team": "Pittsburgh Pirates",
@@ -15,15 +75,15 @@
     },
     {
       "date": "2026-03-08",
-      "team": "Tampa Bay Rays",
-      "details": "RHPJadon Bercovichassigned toTampa Bay Rays.",
-      "player": "Jadon Bercovich"
+      "team": "Toronto Blue Jays",
+      "details": "SSOwen Greggassigned toToronto Blue Jays.",
+      "player": "Owen Gregg"
     },
     {
       "date": "2026-03-08",
-      "team": "Tampa Bay Rays",
-      "details": "CBrody Donayassigned toTampa Bay Rays.",
-      "player": "Brody Donay"
+      "team": "Washington Nationals",
+      "details": "LFJared McKenzieassigned toWashington Nationals.",
+      "player": "Jared McKenzie"
     },
     {
       "date": "2026-03-08",
@@ -45,21 +105,27 @@
     },
     {
       "date": "2026-03-08",
-      "team": "Toronto Blue Jays",
-      "details": "3BAldo Gaxiolaassigned toToronto Blue Jays.",
-      "player": "Aldo Gaxiola"
+      "team": "Tampa Bay Rays",
+      "details": "RHPJadon Bercovichassigned toTampa Bay Rays.",
+      "player": "Jadon Bercovich"
     },
     {
       "date": "2026-03-08",
-      "team": "Pittsburgh Pirates",
-      "details": "SSEddie Ryndersassigned toPittsburgh Pirates.",
-      "player": "Eddie Rynders"
+      "team": "Baltimore Orioles",
+      "details": "OFFernando Pegueroassigned toBaltimore Orioles.",
+      "player": "Fernando Peguero"
     },
     {
       "date": "2026-03-08",
-      "team": "Atlanta Braves",
-      "details": "2BDixon Williamsassigned toAtlanta Braves.",
-      "player": "Dixon Williams"
+      "team": "Chicago Cubs",
+      "details": "SSLeonel Vivasassigned toChicago Cubs.",
+      "player": "Leonel Vivas"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Tampa Bay Rays",
+      "details": "CBrody Donayassigned toTampa Bay Rays.",
+      "player": "Brody Donay"
     },
     {
       "date": "2026-03-08",
@@ -75,33 +141,9 @@
     },
     {
       "date": "2026-03-08",
-      "team": "Toronto Blue Jays",
-      "details": "2BDariel Ramonassigned toToronto Blue Jays.",
-      "player": "Dariel Ramon"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Toronto Blue Jays",
-      "details": "OFJace Bohrofenassigned toToronto Blue Jays.",
-      "player": "Jace Bohrofen"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Toronto Blue Jays",
-      "details": "SSOwen Greggassigned toToronto Blue Jays.",
-      "player": "Owen Gregg"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Miami Marlins",
-      "details": "SSEchedry Vargasassigned toMiami Marlins.",
-      "player": "Echedry Vargas"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Washington Nationals",
-      "details": "LFJared McKenzieassigned toWashington Nationals.",
-      "player": "Jared McKenzie"
+      "team": "Baltimore Orioles",
+      "details": "LHPJoseph Dzierwaassigned toBaltimore Orioles.",
+      "player": "Joseph Dzierwa"
     },
     {
       "date": "2026-03-08",
@@ -117,9 +159,45 @@
     },
     {
       "date": "2026-03-08",
-      "team": "Tampa Bay Rays",
-      "details": "SSRicardo Gonzalezassigned toTampa Bay Rays.",
-      "player": "Ricardo Gonzalez"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned LHPDax Fultonto Jacksonville Jumbo Shrimp.",
+      "player": "Dax Fulton"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned 2BJames Triantosto Iowa Cubs.",
+      "player": "James Triantos"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPLuis Peralesto Rochester Red Wings.",
+      "player": "Luis Perales"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned LHPRiley Martinto Iowa Cubs.",
+      "player": "Riley Martin"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned SSJared Sernato Jacksonville Jumbo Shrimp.",
+      "player": "Jared Serna"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPJosh Whiteto Jacksonville Jumbo Shrimp.",
+      "player": "Josh White"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned 3BBen Cowlesto Iowa Cubs.",
+      "player": "Ben Cowles"
     },
     {
       "date": "2026-03-08",
@@ -129,15 +207,39 @@
     },
     {
       "date": "2026-03-08",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPJason Alexanderto Sugar Land Space Cowboys.",
+      "player": "Jason Alexander"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned 3BDeyvison De Los Santosto Jacksonville Jumbo Shrimp.",
+      "player": "Deyvison De Los Santos"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPWilliam Kempnerto Jacksonville Jumbo Shrimp.",
+      "player": "William Kempner"
+    },
+    {
+      "date": "2026-03-08",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned LFReed Trimbleto Norfolk Tides.",
       "player": "Reed Trimble"
     },
     {
       "date": "2026-03-08",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPLuis Peralesto Rochester Red Wings.",
-      "player": "Luis Perales"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPJack Neelyto Iowa Cubs.",
+      "player": "Jack Neely"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned 2BPedro Ramirezto Knoxville Smokies.",
+      "player": "Pedro Ramirez"
     }
   ]
 }
