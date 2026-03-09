@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-09T14:59:49.407264",
+  "last_updated": "2026-03-09T16:08:42.277321",
   "transactions": [
     {
       "date": "2026-03-09",
@@ -9,15 +9,21 @@
     },
     {
       "date": "2026-03-09",
-      "team": "Detroit Tigers",
-      "details": "CMichael Olivetoassigned toDetroit Tigers.",
-      "player": "Michael Oliveto"
+      "team": "Miami Marlins",
+      "details": "RHPJuan Reynosoassigned toMiami Marlins.",
+      "player": "Juan Reynoso"
     },
     {
       "date": "2026-03-09",
-      "team": "St. Louis Cardinals",
-      "details": "OFAndrew Sojkaassigned toSt. Louis Cardinals.",
-      "player": "Andrew Sojka"
+      "team": "Miami Marlins",
+      "details": "RHPChase Centalaassigned toMiami Marlins.",
+      "player": "Chase Centala"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Cleveland Guardians",
+      "details": "SSRodny Rosarioassigned toCleveland Guardians.",
+      "player": "Rodny Rosario"
     },
     {
       "date": "2026-03-09",
@@ -33,9 +39,45 @@
     },
     {
       "date": "2026-03-09",
+      "team": "Detroit Tigers",
+      "details": "CMichael Olivetoassigned toDetroit Tigers.",
+      "player": "Michael Oliveto"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "St. Louis Cardinals",
+      "details": "OFAndrew Sojkaassigned toSt. Louis Cardinals.",
+      "player": "Andrew Sojka"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Boston Red Sox",
+      "details": "3BAntonio Andersonassigned toBoston Red Sox.",
+      "player": "Antonio Anderson"
+    },
+    {
+      "date": "2026-03-09",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned 1BChristian Encarnacion-Strandto Louisville Bats.",
       "player": "Christian Encarnacion-Strand"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPMason Barnettto Las Vegas Aviators.",
+      "player": "Mason Barnett"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned CFDairon Blancoto Round Rock Express.",
+      "player": "Dairon Blanco"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned 2BHao-Yu  Leeto Toledo Mud Hens.",
+      "player": "Hao-Yu  Lee"
     },
     {
       "date": "2026-03-09",
@@ -45,15 +87,27 @@
     },
     {
       "date": "2026-03-09",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPJake Bennettto Worcester Red Sox.",
-      "player": "Jake Bennett"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned CEduardo Valenciato Toledo Mud Hens.",
+      "player": "Eduardo Valencia"
     },
     {
       "date": "2026-03-09",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned CFDairon Blancoto Round Rock Express.",
-      "player": "Dairon Blanco"
+      "team": "Athletics",
+      "details": "Athleticsoptioned 3BBrett Harristo Las Vegas Aviators.",
+      "player": "Brett Harris"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned CThayron Liranzoto Erie SeaWolves.",
+      "player": "Thayron Liranzo"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPJake Bennettto Worcester Red Sox.",
+      "player": "Jake Bennett"
     }
   ]
 }
