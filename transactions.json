@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-03-09T13:21:47.591124",
+  "last_updated": "2026-03-09T14:59:49.407264",
   "transactions": [
+    {
+      "date": "2026-03-09",
+      "team": "St. Louis Cardinals",
+      "details": "CJ.P. Cabreraassigned toSt. Louis Cardinals.",
+      "player": "J.P. Cabrera"
+    },
     {
       "date": "2026-03-09",
       "team": "Detroit Tigers",
       "details": "CMichael Olivetoassigned toDetroit Tigers.",
       "player": "Michael Oliveto"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "St. Louis Cardinals",
+      "details": "OFAndrew Sojkaassigned toSt. Louis Cardinals.",
+      "player": "Andrew Sojka"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "St. Louis Cardinals",
+      "details": "RHPJawilme Ramírezassigned toSt. Louis Cardinals.",
+      "player": "Jawilme Ramírez"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "St. Louis Cardinals",
+      "details": "LHPJack Findlayassigned toSt. Louis Cardinals.",
+      "player": "Jack Findlay"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned 1BChristian Encarnacion-Strandto Louisville Bats.",
+      "player": "Christian Encarnacion-Strand"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
+      "player": "Chase Petty"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPJake Bennettto Worcester Red Sox.",
+      "player": "Jake Bennett"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned CFDairon Blancoto Round Rock Express.",
+      "player": "Dairon Blanco"
     }
   ]
 }
