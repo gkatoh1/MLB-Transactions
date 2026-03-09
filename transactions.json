@@ -1,11 +1,95 @@
 {
-  "last_updated": "2026-03-09T16:08:42.277321",
+  "last_updated": "2026-03-09T17:52:26.135818",
   "transactions": [
+    {
+      "date": "2026-03-09",
+      "team": "San Francisco Giants",
+      "details": "RHPCooper McGrathassigned toSan Francisco Giants.",
+      "player": "Cooper McGrath"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Baltimore Orioles",
+      "details": "LHPRyan Cabarcasassigned toBaltimore Orioles.",
+      "player": "Ryan Cabarcas"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Cleveland Guardians",
+      "details": "SSRodny Rosarioassigned toCleveland Guardians.",
+      "player": "Rodny Rosario"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Cincinnati Reds",
+      "details": "RHPEaston Sikorskiassigned toCincinnati Reds.",
+      "player": "Easton Sikorski"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Boston Red Sox",
+      "details": "3BAntonio Andersonassigned toBoston Red Sox.",
+      "player": "Antonio Anderson"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "New York Mets",
+      "details": "LHPZach Thorntonassigned toNew York Mets.",
+      "player": "Zach Thornton"
+    },
     {
       "date": "2026-03-09",
       "team": "St. Louis Cardinals",
       "details": "CJ.P. Cabreraassigned toSt. Louis Cardinals.",
       "player": "J.P. Cabrera"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Baltimore Orioles",
+      "details": "1BTT Bowensassigned toBaltimore Orioles.",
+      "player": "TT Bowens"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Miami Marlins",
+      "details": "OFEric Rataczakassigned toMiami Marlins.",
+      "player": "Eric Rataczak"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Detroit Tigers",
+      "details": "CMichael Olivetoassigned toDetroit Tigers.",
+      "player": "Michael Oliveto"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Miami Marlins",
+      "details": "SSJake McCutcheonassigned toMiami Marlins.",
+      "player": "Jake McCutcheon"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Cincinnati Reds",
+      "details": "OFMyles Smithassigned toCincinnati Reds.",
+      "player": "Myles Smith"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "San Francisco Giants",
+      "details": "SSZane Zielinskiassigned toSan Francisco Giants.",
+      "player": "Zane Zielinski"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "San Francisco Giants",
+      "details": "RHPBrayan Palenciaassigned toSan Francisco Giants.",
+      "player": "Brayan Palencia"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "St. Louis Cardinals",
+      "details": "OFAndrew Sojkaassigned toSt. Louis Cardinals.",
+      "player": "Andrew Sojka"
     },
     {
       "date": "2026-03-09",
@@ -15,15 +99,9 @@
     },
     {
       "date": "2026-03-09",
-      "team": "Miami Marlins",
-      "details": "RHPChase Centalaassigned toMiami Marlins.",
-      "player": "Chase Centala"
-    },
-    {
-      "date": "2026-03-09",
-      "team": "Cleveland Guardians",
-      "details": "SSRodny Rosarioassigned toCleveland Guardians.",
-      "player": "Rodny Rosario"
+      "team": "Cincinnati Reds",
+      "details": "SSAlfredo Alcantaraassigned toCincinnati Reds.",
+      "player": "Alfredo Alcantara"
     },
     {
       "date": "2026-03-09",
@@ -39,27 +117,21 @@
     },
     {
       "date": "2026-03-09",
-      "team": "Detroit Tigers",
-      "details": "CMichael Olivetoassigned toDetroit Tigers.",
-      "player": "Michael Oliveto"
+      "team": "Miami Marlins",
+      "details": "RHPChase Centalaassigned toMiami Marlins.",
+      "player": "Chase Centala"
     },
     {
       "date": "2026-03-09",
-      "team": "St. Louis Cardinals",
-      "details": "OFAndrew Sojkaassigned toSt. Louis Cardinals.",
-      "player": "Andrew Sojka"
+      "team": "San Francisco Giants",
+      "details": "RHPDylan Hechtassigned toSan Francisco Giants.",
+      "player": "Dylan Hecht"
     },
     {
       "date": "2026-03-09",
-      "team": "Boston Red Sox",
-      "details": "3BAntonio Andersonassigned toBoston Red Sox.",
-      "player": "Antonio Anderson"
-    },
-    {
-      "date": "2026-03-09",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned 1BChristian Encarnacion-Strandto Louisville Bats.",
-      "player": "Christian Encarnacion-Strand"
+      "team": "Miami Marlins",
+      "details": "3BWilfredo Laraassigned toMiami Marlins.",
+      "player": "Wilfredo Lara"
     },
     {
       "date": "2026-03-09",
@@ -75,21 +147,21 @@
     },
     {
       "date": "2026-03-09",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned 2BHao-Yu  Leeto Toledo Mud Hens.",
-      "player": "Hao-Yu  Lee"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPJake Bennettto Worcester Red Sox.",
+      "player": "Jake Bennett"
     },
     {
       "date": "2026-03-09",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
-      "player": "Chase Petty"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned CJeferson Queroto Nashville Sounds.",
+      "player": "Jeferson Quero"
     },
     {
       "date": "2026-03-09",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned CEduardo Valenciato Toledo Mud Hens.",
-      "player": "Eduardo Valencia"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned CFNick Morabitoto Syracuse Mets.",
+      "player": "Nick Morabito"
     },
     {
       "date": "2026-03-09",
@@ -105,9 +177,39 @@
     },
     {
       "date": "2026-03-09",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPJake Bennettto Worcester Red Sox.",
-      "player": "Jake Bennett"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LHPSammy Peraltato Nashville Sounds.",
+      "player": "Sammy Peralta"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned CEduardo Valenciato Toledo Mud Hens.",
+      "player": "Eduardo Valencia"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned 1BChristian Encarnacion-Strandto Louisville Bats.",
+      "player": "Christian Encarnacion-Strand"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJonathan Pintaroto Syracuse Mets.",
+      "player": "Jonathan Pintaro"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
+      "player": "Chase Petty"
+    },
+    {
+      "date": "2026-03-09",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned 2BHao-Yu  Leeto Toledo Mud Hens.",
+      "player": "Hao-Yu  Lee"
     }
   ]
 }
