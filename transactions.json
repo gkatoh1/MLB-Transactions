@@ -1,83 +1,11 @@
 {
-  "last_updated": "2026-03-08T23:31:59.747704",
+  "last_updated": "2026-03-09T02:50:20.521120",
   "transactions": [
     {
       "date": "2026-03-08",
-      "team": "Baltimore Orioles",
-      "details": "LHPSebastian Gongoraassigned toBaltimore Orioles.",
-      "player": "Sebastian Gongora"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Chicago Cubs",
-      "details": "RHPBrooks Capleassigned toChicago Cubs.",
-      "player": "Brooks Caple"
-    },
-    {
-      "date": "2026-03-08",
       "team": "Toronto Blue Jays",
-      "details": "SSOwen Greggassigned toToronto Blue Jays.",
-      "player": "Owen Gregg"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Arizona Diamondbacks",
-      "details": "LHPSandro Santanaassigned toArizona Diamondbacks.",
-      "player": "Sandro Santana"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Colorado Rockies",
-      "details": "SSAndy Perezassigned toColorado Rockies.",
-      "player": "Andy Perez"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Cincinnati Reds",
-      "details": "RHPJimmy Romanoassigned toCincinnati Reds.",
-      "player": "Jimmy Romano"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Pittsburgh Pirates",
-      "details": "OFCarl Calixteassigned toPittsburgh Pirates.",
-      "player": "Carl Calixte"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Cincinnati Reds",
-      "details": "2BPeyton Stovallassigned toCincinnati Reds.",
-      "player": "Peyton Stovall"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Cincinnati Reds",
-      "details": "SSJohnny Ascanioassigned toCincinnati Reds.",
-      "player": "Johnny Ascanio"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Colorado Rockies",
-      "details": "OFMax Belyeuassigned toColorado Rockies.",
-      "player": "Max Belyeu"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Boston Red Sox",
-      "details": "OFYan Cruzassigned toBoston Red Sox.",
-      "player": "Yan Cruz"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Tampa Bay Rays",
-      "details": "3BRyan Spikesassigned toTampa Bay Rays.",
-      "player": "Ryan Spikes"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Toronto Blue Jays",
-      "details": "OFBrennan Orfassigned toToronto Blue Jays.",
-      "player": "Brennan Orf"
+      "details": "3BAldo Gaxiolaassigned toToronto Blue Jays.",
+      "player": "Aldo Gaxiola"
     },
     {
       "date": "2026-03-08",
@@ -141,6 +69,24 @@
     },
     {
       "date": "2026-03-08",
+      "team": "Pittsburgh Pirates",
+      "details": "SSEddie Ryndersassigned toPittsburgh Pirates.",
+      "player": "Eddie Rynders"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Athletics",
+      "details": "OFBobby Blandfordassigned toAthletics.",
+      "player": "Bobby Blandford"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Cincinnati Reds",
+      "details": "2BPeyton Stovallassigned toCincinnati Reds.",
+      "player": "Peyton Stovall"
+    },
+    {
+      "date": "2026-03-08",
       "team": "Los Angeles Angels",
       "details": "1BRubel Cespedesassigned toLos Angeles Angels.",
       "player": "Rubel Cespedes"
@@ -153,39 +99,63 @@
     },
     {
       "date": "2026-03-08",
-      "team": "Cincinnati Reds",
-      "details": "RFAustin Hendrickassigned toCincinnati Reds.",
-      "player": "Austin Hendrick"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Toronto Blue Jays",
-      "details": "2BDariel Ramonassigned toToronto Blue Jays.",
-      "player": "Dariel Ramon"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Toronto Blue Jays",
-      "details": "OFJace Bohrofenassigned toToronto Blue Jays.",
-      "player": "Jace Bohrofen"
-    },
-    {
-      "date": "2026-03-08",
       "team": "Baltimore Orioles",
-      "details": "RHPBrandon Downerassigned toBaltimore Orioles.",
-      "player": "Brandon Downer"
+      "details": "LHPSebastian Gongoraassigned toBaltimore Orioles.",
+      "player": "Sebastian Gongora"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Chicago Cubs",
+      "details": "RHPBrooks Capleassigned toChicago Cubs.",
+      "player": "Brooks Caple"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Miami Marlins",
+      "details": "SSEchedry Vargasassigned toMiami Marlins.",
+      "player": "Echedry Vargas"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "San Diego Padres",
+      "details": "RFJoshua Mearsassigned toSan Diego Padres.",
+      "player": "Joshua Mears"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Cincinnati Reds",
+      "details": "SSJohnny Ascanioassigned toCincinnati Reds.",
+      "player": "Johnny Ascanio"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Cincinnati Reds",
+      "details": "RHPJimmy Romanoassigned toCincinnati Reds.",
+      "player": "Jimmy Romano"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Pittsburgh Pirates",
+      "details": "OFCarl Calixteassigned toPittsburgh Pirates.",
+      "player": "Carl Calixte"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Atlanta Braves",
+      "details": "2BDixon Williamsassigned toAtlanta Braves.",
+      "player": "Dixon Williams"
     },
     {
       "date": "2026-03-08",
       "team": "Los Angeles Angels",
-      "details": "RHPBrett Kerryassigned toLos Angeles Angels.",
-      "player": "Brett Kerry"
+      "details": "RHPTrey Gregory-Alfordassigned toLos Angeles Angels.",
+      "player": "Trey Gregory-Alford"
     },
     {
       "date": "2026-03-08",
-      "team": "Los Angeles Dodgers",
-      "details": "RHPLogan Luncefordassigned toLos Angeles Dodgers.",
-      "player": "Logan Lunceford"
+      "team": "Cleveland Guardians",
+      "details": "1BJeffrey Mercedesassigned toCleveland Guardians.",
+      "player": "Jeffrey Mercedes"
     },
     {
       "date": "2026-03-08",
@@ -201,9 +171,33 @@
     },
     {
       "date": "2026-03-08",
+      "team": "Cincinnati Reds",
+      "details": "RHPThomas Farrassigned toCincinnati Reds.",
+      "player": "Thomas Farr"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Washington Nationals",
+      "details": "LFJared McKenzieassigned toWashington Nationals.",
+      "player": "Jared McKenzie"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Colorado Rockies",
+      "details": "1BTanner Thachassigned toColorado Rockies.",
+      "player": "Tanner Thach"
+    },
+    {
+      "date": "2026-03-08",
       "team": "San Diego Padres",
       "details": "3BKerrington Crossassigned toSan Diego Padres.",
       "player": "Kerrington Cross"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Toronto Blue Jays",
+      "details": "2BDariel Ramonassigned toToronto Blue Jays.",
+      "player": "Dariel Ramon"
     },
     {
       "date": "2026-03-08",
@@ -231,6 +225,18 @@
     },
     {
       "date": "2026-03-08",
+      "team": "Toronto Blue Jays",
+      "details": "OFJace Bohrofenassigned toToronto Blue Jays.",
+      "player": "Jace Bohrofen"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Baltimore Orioles",
+      "details": "RHPBrandon Downerassigned toBaltimore Orioles.",
+      "player": "Brandon Downer"
+    },
+    {
+      "date": "2026-03-08",
       "team": "St. Louis Cardinals",
       "details": "RHPChristian Worleyassigned toSt. Louis Cardinals.",
       "player": "Christian Worley"
@@ -249,57 +255,51 @@
     },
     {
       "date": "2026-03-08",
+      "team": "Los Angeles Angels",
+      "details": "RHPBrett Kerryassigned toLos Angeles Angels.",
+      "player": "Brett Kerry"
+    },
+    {
+      "date": "2026-03-08",
       "team": "Los Angeles Dodgers",
       "details": "CFSamuel Munozassigned toLos Angeles Dodgers.",
       "player": "Samuel Munoz"
     },
     {
       "date": "2026-03-08",
-      "team": "Miami Marlins",
-      "details": "SSEchedry Vargasassigned toMiami Marlins.",
-      "player": "Echedry Vargas"
+      "team": "Cincinnati Reds",
+      "details": "RHPBrady Afthimassigned toCincinnati Reds.",
+      "player": "Brady Afthim"
     },
     {
       "date": "2026-03-08",
       "team": "Cincinnati Reds",
-      "details": "RHPThomas Farrassigned toCincinnati Reds.",
-      "player": "Thomas Farr"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Colorado Rockies",
-      "details": "1BTanner Thachassigned toColorado Rockies.",
-      "player": "Tanner Thach"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Cleveland Guardians",
-      "details": "CReiner Herreraassigned toCleveland Guardians.",
-      "player": "Reiner Herrera"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Cleveland Guardians",
-      "details": "OFJuneiker Caceresassigned toCleveland Guardians.",
-      "player": "Juneiker Caceres"
-    },
-    {
-      "date": "2026-03-08",
-      "team": "Athletics",
-      "details": "OFBobby Blandfordassigned toAthletics.",
-      "player": "Bobby Blandford"
+      "details": "1BZavier Warrenassigned toCincinnati Reds.",
+      "player": "Zavier Warren"
     },
     {
       "date": "2026-03-08",
       "team": "San Diego Padres",
-      "details": "RFJoshua Mearsassigned toSan Diego Padres.",
-      "player": "Joshua Mears"
+      "details": "SSRosman Verdugoassigned toSan Diego Padres.",
+      "player": "Rosman Verdugo"
     },
     {
       "date": "2026-03-08",
-      "team": "Washington Nationals",
-      "details": "LFJared McKenzieassigned toWashington Nationals.",
-      "player": "Jared McKenzie"
+      "team": "Toronto Blue Jays",
+      "details": "OFMatt Scannellassigned toToronto Blue Jays.",
+      "player": "Matt Scannell"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Atlanta Braves",
+      "details": "OFDallas Maciasassigned toAtlanta Braves.",
+      "player": "Dallas Macias"
+    },
+    {
+      "date": "2026-03-08",
+      "team": "Cincinnati Reds",
+      "details": "2BTrey Faltineassigned toCincinnati Reds.",
+      "player": "Trey Faltine"
     }
   ]
 }
