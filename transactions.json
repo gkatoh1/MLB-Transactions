@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-03-10T22:36:17.101234",
+  "last_updated": "2026-03-10T23:34:49.645013",
   "transactions": [
     {
       "date": "2026-03-10",
       "team": "Kansas City Royals",
       "details": "CHyungchan Umassigned toKansas City Royals.",
       "player": "Hyungchan Um"
+    },
+    {
+      "date": "2026-03-10",
+      "team": "Washington Nationals",
+      "details": "RFBrenner Coxassigned toWashington Nationals.",
+      "player": "Brenner Cox"
     },
     {
       "date": "2026-03-10",
@@ -39,48 +45,6 @@
     },
     {
       "date": "2026-03-10",
-      "team": "San Diego Padres",
-      "details": "OFConner Westenburgassigned toSan Diego Padres.",
-      "player": "Conner Westenburg"
-    },
-    {
-      "date": "2026-03-10",
-      "team": "Houston Astros",
-      "details": "SSTrevor Austinassigned toHouston Astros.",
-      "player": "Trevor Austin"
-    },
-    {
-      "date": "2026-03-10",
-      "team": "Miami Marlins",
-      "details": "RHPRiskiel Tineoassigned toMiami Marlins.",
-      "player": "Riskiel Tineo"
-    },
-    {
-      "date": "2026-03-10",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsdesignated LHPRichard Loveladyfor assignment.",
-      "player": "Richard Lovelady"
-    },
-    {
-      "date": "2026-03-10",
-      "team": "Los Angeles Angels",
-      "details": "CFDavid Calabreseassigned toLos Angeles Angels.",
-      "player": "David Calabrese"
-    },
-    {
-      "date": "2026-03-10",
-      "team": "Cincinnati Reds",
-      "details": "SSVictor Acostaassigned toCincinnati Reds.",
-      "player": "Victor Acosta"
-    },
-    {
-      "date": "2026-03-10",
-      "team": "Athletics",
-      "details": "CFPedro Pinedaassigned toAthletics.",
-      "player": "Pedro Pineda"
-    },
-    {
-      "date": "2026-03-10",
       "team": "Seattle Mariners",
       "details": "SSCarter Dorighiassigned toSeattle Mariners.",
       "player": "Carter Dorighi"
@@ -93,9 +57,39 @@
     },
     {
       "date": "2026-03-10",
+      "team": "Tampa Bay Rays",
+      "details": "CKamren Jamesassigned toTampa Bay Rays.",
+      "player": "Kamren James"
+    },
+    {
+      "date": "2026-03-10",
       "team": "Washington Nationals",
-      "details": "RFBrenner Coxassigned toWashington Nationals.",
-      "player": "Brenner Cox"
+      "details": "Washington Nationalssigned free agent RHPZack Littell.",
+      "player": "Zack Littell"
+    },
+    {
+      "date": "2026-03-10",
+      "team": "Colorado Rockies",
+      "details": "LFAldalay Kolokieassigned toColorado Rockies.",
+      "player": "Aldalay Kolokie"
+    },
+    {
+      "date": "2026-03-10",
+      "team": "Chicago White Sox",
+      "details": "IFBryce Eblinassigned toChicago White Sox.",
+      "player": "Bryce Eblin"
+    },
+    {
+      "date": "2026-03-10",
+      "team": "San Diego Padres",
+      "details": "OFConner Westenburgassigned toSan Diego Padres.",
+      "player": "Conner Westenburg"
+    },
+    {
+      "date": "2026-03-10",
+      "team": "Houston Astros",
+      "details": "SSTrevor Austinassigned toHouston Astros.",
+      "player": "Trevor Austin"
     },
     {
       "date": "2026-03-10",
@@ -120,6 +114,12 @@
       "team": "San Diego Padres",
       "details": "1BEthan Longassigned toSan Diego Padres.",
       "player": "Ethan Long"
+    },
+    {
+      "date": "2026-03-10",
+      "team": "Detroit Tigers",
+      "details": "OFZach MacDonaldassigned toDetroit Tigers.",
+      "player": "Zach MacDonald"
     },
     {
       "date": "2026-03-10",
@@ -177,39 +177,39 @@
     },
     {
       "date": "2026-03-10",
+      "team": "Miami Marlins",
+      "details": "RHPRiskiel Tineoassigned toMiami Marlins.",
+      "player": "Riskiel Tineo"
+    },
+    {
+      "date": "2026-03-10",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsdesignated LHPRichard Loveladyfor assignment.",
+      "player": "Richard Lovelady"
+    },
+    {
+      "date": "2026-03-10",
       "team": "Los Angeles Angels",
       "details": "CZach Humphreysassigned toLos Angeles Angels.",
       "player": "Zach Humphreys"
     },
     {
       "date": "2026-03-10",
-      "team": "Detroit Tigers",
-      "details": "OFZach MacDonaldassigned toDetroit Tigers.",
-      "player": "Zach MacDonald"
+      "team": "Los Angeles Angels",
+      "details": "CFDavid Calabreseassigned toLos Angeles Angels.",
+      "player": "David Calabrese"
     },
     {
       "date": "2026-03-10",
-      "team": "Tampa Bay Rays",
-      "details": "CKamren Jamesassigned toTampa Bay Rays.",
-      "player": "Kamren James"
+      "team": "Cincinnati Reds",
+      "details": "SSVictor Acostaassigned toCincinnati Reds.",
+      "player": "Victor Acosta"
     },
     {
       "date": "2026-03-10",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned free agent RHPZack Littell.",
-      "player": "Zack Littell"
-    },
-    {
-      "date": "2026-03-10",
-      "team": "Colorado Rockies",
-      "details": "LFAldalay Kolokieassigned toColorado Rockies.",
-      "player": "Aldalay Kolokie"
-    },
-    {
-      "date": "2026-03-10",
-      "team": "Chicago White Sox",
-      "details": "IFBryce Eblinassigned toChicago White Sox.",
-      "player": "Bryce Eblin"
+      "team": "Athletics",
+      "details": "CFPedro Pinedaassigned toAthletics.",
+      "player": "Pedro Pineda"
     },
     {
       "date": "2026-03-10",
@@ -219,15 +219,15 @@
     },
     {
       "date": "2026-03-10",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned RHPVictor Mederosto Salt Lake Bees.",
-      "player": "Victor Mederos"
-    },
-    {
-      "date": "2026-03-10",
       "team": "Houston Astros",
       "details": "Houston Astrosoptioned RHPJayden Murrayto Sugar Land Space Cowboys.",
       "player": "Jayden Murray"
+    },
+    {
+      "date": "2026-03-10",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPVictor Mederosto Salt Lake Bees.",
+      "player": "Victor Mederos"
     },
     {
       "date": "2026-03-10",
