@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-03-11T23:33:58.983099",
+  "last_updated": "2026-03-12T02:46:41.319844",
   "transactions": [
     {
       "date": "2026-03-11",
-      "team": "New York Yankees",
-      "details": "RHPJosh Tiedemannassigned toNew York Yankees.",
-      "player": "Josh Tiedemann"
+      "team": "Athletics",
+      "details": "RHPJay Dillassigned toAthletics.",
+      "player": "Jay Dill"
     },
     {
       "date": "2026-03-11",
@@ -42,6 +42,48 @@
       "team": "Minnesota Twins",
       "details": "CPoncho Ruizassigned toMinnesota Twins.",
       "player": "Poncho Ruiz"
+    },
+    {
+      "date": "2026-03-11",
+      "team": "Los Angeles Angels",
+      "details": "CJosh Crouchassigned toLos Angeles Angels.",
+      "player": "Josh Crouch"
+    },
+    {
+      "date": "2026-03-11",
+      "team": "Los Angeles Angels",
+      "details": "RHPZachary Rednerassigned toLos Angeles Angels.",
+      "player": "Zachary Redner"
+    },
+    {
+      "date": "2026-03-11",
+      "team": "Athletics",
+      "details": "CFCarlos Pachecoassigned toAthletics.",
+      "player": "Carlos Pacheco"
+    },
+    {
+      "date": "2026-03-11",
+      "team": "Houston Astros",
+      "details": "OFMason Lytleassigned toHouston Astros.",
+      "player": "Mason Lytle"
+    },
+    {
+      "date": "2026-03-11",
+      "team": "Kansas City Royals",
+      "details": "SSTyriq Kempassigned toKansas City Royals.",
+      "player": "Tyriq Kemp"
+    },
+    {
+      "date": "2026-03-11",
+      "team": "New York Yankees",
+      "details": "RHPJosh Tiedemannassigned toNew York Yankees.",
+      "player": "Josh Tiedemann"
+    },
+    {
+      "date": "2026-03-11",
+      "team": "Athletics",
+      "details": "3BBryan Andradeassigned toAthletics.",
+      "player": "Bryan Andrade"
     },
     {
       "date": "2026-03-11",
@@ -123,6 +165,36 @@
     },
     {
       "date": "2026-03-11",
+      "team": "St. Louis Cardinals",
+      "details": "RHPGerardo Salasassigned toSt. Louis Cardinals.",
+      "player": "Gerardo Salas"
+    },
+    {
+      "date": "2026-03-11",
+      "team": "Washington Nationals",
+      "details": "3BLuis Ariasassigned toWashington Nationals.",
+      "player": "Luis Arias"
+    },
+    {
+      "date": "2026-03-11",
+      "team": "Kansas City Royals",
+      "details": "CKyle Hayesassigned toKansas City Royals.",
+      "player": "Kyle Hayes"
+    },
+    {
+      "date": "2026-03-11",
+      "team": "Minnesota Twins",
+      "details": "RHPMike McKennaassigned toMinnesota Twins.",
+      "player": "Mike McKenna"
+    },
+    {
+      "date": "2026-03-11",
+      "team": "Washington Nationals",
+      "details": "RHPJuan Abreuassigned toWashington Nationals.",
+      "player": "Juan Abreu"
+    },
+    {
+      "date": "2026-03-11",
       "team": "Kansas City Royals",
       "details": "SSAustin Charlesassigned toKansas City Royals.",
       "player": "Austin Charles"
@@ -144,78 +216,6 @@
       "team": "Cincinnati Reds",
       "details": "LHPBrandon Leibrandtassigned toCincinnati Reds.",
       "player": "Brandon Leibrandt"
-    },
-    {
-      "date": "2026-03-11",
-      "team": "Athletics",
-      "details": "RHPJay Dillassigned toAthletics.",
-      "player": "Jay Dill"
-    },
-    {
-      "date": "2026-03-11",
-      "team": "Kansas City Royals",
-      "details": "CKyle Hayesassigned toKansas City Royals.",
-      "player": "Kyle Hayes"
-    },
-    {
-      "date": "2026-03-11",
-      "team": "Athletics",
-      "details": "3BBryan Andradeassigned toAthletics.",
-      "player": "Bryan Andrade"
-    },
-    {
-      "date": "2026-03-11",
-      "team": "St. Louis Cardinals",
-      "details": "RHPGerardo Salasassigned toSt. Louis Cardinals.",
-      "player": "Gerardo Salas"
-    },
-    {
-      "date": "2026-03-11",
-      "team": "Washington Nationals",
-      "details": "3BLuis Ariasassigned toWashington Nationals.",
-      "player": "Luis Arias"
-    },
-    {
-      "date": "2026-03-11",
-      "team": "Washington Nationals",
-      "details": "RHPJuan Abreuassigned toWashington Nationals.",
-      "player": "Juan Abreu"
-    },
-    {
-      "date": "2026-03-11",
-      "team": "Minnesota Twins",
-      "details": "RHPMike McKennaassigned toMinnesota Twins.",
-      "player": "Mike McKenna"
-    },
-    {
-      "date": "2026-03-11",
-      "team": "Los Angeles Angels",
-      "details": "CJosh Crouchassigned toLos Angeles Angels.",
-      "player": "Josh Crouch"
-    },
-    {
-      "date": "2026-03-11",
-      "team": "Los Angeles Angels",
-      "details": "RHPZachary Rednerassigned toLos Angeles Angels.",
-      "player": "Zachary Redner"
-    },
-    {
-      "date": "2026-03-11",
-      "team": "Athletics",
-      "details": "CFCarlos Pachecoassigned toAthletics.",
-      "player": "Carlos Pacheco"
-    },
-    {
-      "date": "2026-03-11",
-      "team": "Houston Astros",
-      "details": "OFMason Lytleassigned toHouston Astros.",
-      "player": "Mason Lytle"
-    },
-    {
-      "date": "2026-03-11",
-      "team": "Kansas City Royals",
-      "details": "SSTyriq Kempassigned toKansas City Royals.",
-      "player": "Tyriq Kemp"
     },
     {
       "date": "2026-03-11",
