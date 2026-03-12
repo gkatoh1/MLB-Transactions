@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-03-12T22:34:41.947314",
+  "last_updated": "2026-03-12T23:35:46.493745",
   "transactions": [
+    {
+      "date": "2026-03-12",
+      "team": "Chicago Cubs",
+      "details": "SSJose Escobarassigned toChicago Cubs.",
+      "player": "Jose Escobar"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Washington Nationals",
+      "details": "RHPLuke Johnsonassigned toWashington Nationals.",
+      "player": "Luke Johnson"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "San Diego Padres",
+      "details": "RHPTyler Schmittassigned toSan Diego Padres.",
+      "player": "Tyler Schmitt"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Athletics",
+      "details": "CRamon Landaetaassigned toAthletics.",
+      "player": "Ramon Landaeta"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Detroit Tigers",
+      "details": "SSJude Warwickassigned toDetroit Tigers.",
+      "player": "Jude Warwick"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Kansas City Royals",
+      "details": "LHPJacob Widenerassigned toKansas City Royals.",
+      "player": "Jacob Widener"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Cincinnati Reds",
+      "details": "RHPLuke Haydenassigned toCincinnati Reds.",
+      "player": "Luke Hayden"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Houston Astros",
+      "details": "SSAlberto Hernandezassigned toHouston Astros.",
+      "player": "Alberto Hernandez"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "San Diego Padres",
+      "details": "LHPFernando Sanchezassigned toSan Diego Padres.",
+      "player": "Fernando Sanchez"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Athletics",
+      "details": "LHPTucker Novotnyassigned toAthletics.",
+      "player": "Tucker Novotny"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Athletics",
+      "details": "LHPRyan Magdicassigned toAthletics.",
+      "player": "Ryan Magdic"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Colorado Rockies",
+      "details": "SSJacob Hinderleiderassigned toColorado Rockies.",
+      "player": "Jacob Hinderleider"
+    },
     {
       "date": "2026-03-12",
       "team": "Milwaukee Brewers",
@@ -21,27 +93,9 @@
     },
     {
       "date": "2026-03-12",
-      "team": "Athletics",
-      "details": "LHPTucker Novotnyassigned toAthletics.",
-      "player": "Tucker Novotny"
-    },
-    {
-      "date": "2026-03-12",
-      "team": "Athletics",
-      "details": "LHPRyan Magdicassigned toAthletics.",
-      "player": "Ryan Magdic"
-    },
-    {
-      "date": "2026-03-12",
-      "team": "Houston Astros",
-      "details": "SSAlberto Hernandezassigned toHouston Astros.",
-      "player": "Alberto Hernandez"
-    },
-    {
-      "date": "2026-03-12",
-      "team": "Colorado Rockies",
-      "details": "SSJacob Hinderleiderassigned toColorado Rockies.",
-      "player": "Jacob Hinderleider"
+      "team": "Kansas City Royals",
+      "details": "RHPAndrew Moronesassigned toKansas City Royals.",
+      "player": "Andrew Morones"
     },
     {
       "date": "2026-03-12",
@@ -63,39 +117,9 @@
     },
     {
       "date": "2026-03-12",
-      "team": "Athletics",
-      "details": "CRamon Landaetaassigned toAthletics.",
-      "player": "Ramon Landaeta"
-    },
-    {
-      "date": "2026-03-12",
       "team": "Chicago Cubs",
-      "details": "SSJose Escobarassigned toChicago Cubs.",
-      "player": "Jose Escobar"
-    },
-    {
-      "date": "2026-03-12",
-      "team": "Detroit Tigers",
-      "details": "SSJude Warwickassigned toDetroit Tigers.",
-      "player": "Jude Warwick"
-    },
-    {
-      "date": "2026-03-12",
-      "team": "Washington Nationals",
-      "details": "RHPLuke Johnsonassigned toWashington Nationals.",
-      "player": "Luke Johnson"
-    },
-    {
-      "date": "2026-03-12",
-      "team": "Kansas City Royals",
-      "details": "LHPJacob Widenerassigned toKansas City Royals.",
-      "player": "Jacob Widener"
-    },
-    {
-      "date": "2026-03-12",
-      "team": "Cincinnati Reds",
-      "details": "RHPLuke Haydenassigned toCincinnati Reds.",
-      "player": "Luke Hayden"
+      "details": "Chicago Cubsoptioned CFJustin Deanto Iowa Cubs.",
+      "player": "Justin Dean"
     },
     {
       "date": "2026-03-12",
@@ -108,12 +132,6 @@
       "team": "Chicago Cubs",
       "details": "Chicago Cubsoptioned LHPLuke Littleto Iowa Cubs.",
       "player": "Luke Little"
-    },
-    {
-      "date": "2026-03-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned CFJustin Deanto Iowa Cubs.",
-      "player": "Justin Dean"
     },
     {
       "date": "2026-03-12",
