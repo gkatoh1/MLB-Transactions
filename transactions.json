@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-03-12T19:03:53.790147",
+  "last_updated": "2026-03-12T20:44:39.187018",
   "transactions": [
+    {
+      "date": "2026-03-12",
+      "team": "Detroit Tigers",
+      "details": "SSJude Warwickassigned toDetroit Tigers.",
+      "player": "Jude Warwick"
+    },
     {
       "date": "2026-03-12",
       "team": "Washington Nationals",
       "details": "RHPLuke Johnsonassigned toWashington Nationals.",
       "player": "Luke Johnson"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Minnesota Twins",
+      "details": "RHPChristian Becerraassigned toMinnesota Twins.",
+      "player": "Christian Becerra"
     },
     {
       "date": "2026-03-12",
@@ -27,15 +39,15 @@
     },
     {
       "date": "2026-03-12",
-      "team": "Detroit Tigers",
-      "details": "SSJude Warwickassigned toDetroit Tigers.",
-      "player": "Jude Warwick"
-    },
-    {
-      "date": "2026-03-12",
       "team": "Athletics",
       "details": "CRamon Landaetaassigned toAthletics.",
       "player": "Ramon Landaeta"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Chicago Cubs",
+      "details": "SSJose Escobarassigned toChicago Cubs.",
+      "player": "Jose Escobar"
     },
     {
       "date": "2026-03-12",
@@ -69,15 +81,15 @@
     },
     {
       "date": "2026-03-12",
-      "team": "Minnesota Twins",
-      "details": "RHPChristian Becerraassigned toMinnesota Twins.",
-      "player": "Christian Becerra"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned CFJustin Deanto Iowa Cubs.",
+      "player": "Justin Dean"
     },
     {
       "date": "2026-03-12",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned CFJustin Deanto Iowa Cubs.",
-      "player": "Justin Dean"
+      "details": "Chicago Cubsoptioned LHPLuke Littleto Iowa Cubs.",
+      "player": "Luke Little"
     },
     {
       "date": "2026-03-12",
@@ -90,12 +102,6 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned LHPHayden Harristo Gwinnett Stripers.",
       "player": "Hayden Harris"
-    },
-    {
-      "date": "2026-03-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned LHPLuke Littleto Iowa Cubs.",
-      "player": "Luke Little"
     }
   ]
 }
