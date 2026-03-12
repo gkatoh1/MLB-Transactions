@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-03-12T16:07:22.807435",
+  "last_updated": "2026-03-12T17:54:14.410703",
   "transactions": [
+    {
+      "date": "2026-03-12",
+      "team": "Athletics",
+      "details": "CRamon Landaetaassigned toAthletics.",
+      "player": "Ramon Landaeta"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Washington Nationals",
+      "details": "RHPLuke Johnsonassigned toWashington Nationals.",
+      "player": "Luke Johnson"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Athletics",
+      "details": "LHPTucker Novotnyassigned toAthletics.",
+      "player": "Tucker Novotny"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Athletics",
+      "details": "LHPRyan Magdicassigned toAthletics.",
+      "player": "Ryan Magdic"
+    },
     {
       "date": "2026-03-12",
       "team": "Colorado Rockies",
@@ -12,6 +36,18 @@
       "team": "Milwaukee Brewers",
       "details": "CYannic Waltherassigned toMilwaukee Brewers.",
       "player": "Yannic Walther"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Atlanta Braves",
+      "details": "OFDalton McIntyreassigned toAtlanta Braves.",
+      "player": "Dalton McIntyre"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Minnesota Twins",
+      "details": "RHPChristian Becerraassigned toMinnesota Twins.",
+      "player": "Christian Becerra"
     },
     {
       "date": "2026-03-12",
@@ -30,6 +66,18 @@
       "team": "Detroit Tigers",
       "details": "SSJude Warwickassigned toDetroit Tigers.",
       "player": "Jude Warwick"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Athletics",
+      "details": "SSMyles Naylorassigned toAthletics.",
+      "player": "Myles Naylor"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned LHPHayden Harristo Gwinnett Stripers.",
+      "player": "Hayden Harris"
     }
   ]
 }
