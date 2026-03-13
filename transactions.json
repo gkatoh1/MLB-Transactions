@@ -1,23 +1,11 @@
 {
-  "last_updated": "2026-03-12T23:35:46.493745",
+  "last_updated": "2026-03-13T02:44:08.333643",
   "transactions": [
     {
       "date": "2026-03-12",
-      "team": "Chicago Cubs",
-      "details": "SSJose Escobarassigned toChicago Cubs.",
-      "player": "Jose Escobar"
-    },
-    {
-      "date": "2026-03-12",
-      "team": "Washington Nationals",
-      "details": "RHPLuke Johnsonassigned toWashington Nationals.",
-      "player": "Luke Johnson"
-    },
-    {
-      "date": "2026-03-12",
-      "team": "San Diego Padres",
-      "details": "RHPTyler Schmittassigned toSan Diego Padres.",
-      "player": "Tyler Schmitt"
+      "team": "Cleveland Guardians",
+      "details": "1BLuke Cantwellassigned toCleveland Guardians.",
+      "player": "Luke Cantwell"
     },
     {
       "date": "2026-03-12",
@@ -27,9 +15,21 @@
     },
     {
       "date": "2026-03-12",
+      "team": "Chicago Cubs",
+      "details": "SSJose Escobarassigned toChicago Cubs.",
+      "player": "Jose Escobar"
+    },
+    {
+      "date": "2026-03-12",
       "team": "Detroit Tigers",
       "details": "SSJude Warwickassigned toDetroit Tigers.",
       "player": "Jude Warwick"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Washington Nationals",
+      "details": "RHPLuke Johnsonassigned toWashington Nationals.",
+      "player": "Luke Johnson"
     },
     {
       "date": "2026-03-12",
@@ -42,6 +42,18 @@
       "team": "Cincinnati Reds",
       "details": "RHPLuke Haydenassigned toCincinnati Reds.",
       "player": "Luke Hayden"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Cleveland Guardians",
+      "details": "CDavid Leonassigned toCleveland Guardians.",
+      "player": "David Leon"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Los Angeles Dodgers",
+      "details": "OFBrendan Tuninkassigned toLos Angeles Dodgers.",
+      "player": "Brendan Tunink"
     },
     {
       "date": "2026-03-12",
@@ -117,15 +129,15 @@
     },
     {
       "date": "2026-03-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned CFJustin Deanto Iowa Cubs.",
-      "player": "Justin Dean"
+      "team": "San Diego Padres",
+      "details": "RHPTyler Schmittassigned toSan Diego Padres.",
+      "player": "Tyler Schmitt"
     },
     {
       "date": "2026-03-12",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned LHPRyan Rolisonto Iowa Cubs.",
-      "player": "Ryan Rolison"
+      "details": "Chicago Cubsoptioned CFJustin Deanto Iowa Cubs.",
+      "player": "Justin Dean"
     },
     {
       "date": "2026-03-12",
@@ -138,6 +150,12 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned LHPHayden Harristo Gwinnett Stripers.",
       "player": "Hayden Harris"
+    },
+    {
+      "date": "2026-03-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned LHPRyan Rolisonto Iowa Cubs.",
+      "player": "Ryan Rolison"
     }
   ]
 }
