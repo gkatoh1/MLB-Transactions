@@ -1,17 +1,23 @@
 {
-  "last_updated": "2026-03-13T18:54:31.647467",
+  "last_updated": "2026-03-13T19:37:26.147573",
   "transactions": [
     {
       "date": "2026-03-13",
-      "team": "Tampa Bay Rays",
-      "details": "RHPRyan Andradeassigned toTampa Bay Rays.",
-      "player": "Ryan Andrade"
+      "team": "Athletics",
+      "details": "SSEdgar Monteroassigned toAthletics.",
+      "player": "Edgar Montero"
     },
     {
       "date": "2026-03-13",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersdesignated RHPAlexis Díazfor assignment.",
-      "player": "Alexis Díaz"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned free agent LHPDanny Coulombe.",
+      "player": "Danny Coulombe"
+    },
+    {
+      "date": "2026-03-13",
+      "team": "Atlanta Braves",
+      "details": "CFJake Steelsassigned toAtlanta Braves.",
+      "player": "Jake Steels"
     },
     {
       "date": "2026-03-13",
@@ -27,9 +33,9 @@
     },
     {
       "date": "2026-03-13",
-      "team": "Athletics",
-      "details": "SSEdgar Monteroassigned toAthletics.",
-      "player": "Edgar Montero"
+      "team": "San Francisco Giants",
+      "details": "LHPSeth Lonswayassigned toSan Francisco Giants.",
+      "player": "Seth Lonsway"
     },
     {
       "date": "2026-03-13",
@@ -105,6 +111,18 @@
     },
     {
       "date": "2026-03-13",
+      "team": "Athletics",
+      "details": "RHPAlejandro Manzanoassigned toAthletics.",
+      "player": "Alejandro Manzano"
+    },
+    {
+      "date": "2026-03-13",
+      "team": "Athletics",
+      "details": "LHPRiley Hugeassigned toAthletics.",
+      "player": "Riley Huge"
+    },
+    {
+      "date": "2026-03-13",
       "team": "Philadelphia Phillies",
       "details": "CLuis Caicutoassigned toPhiladelphia Phillies.",
       "player": "Luis Caicuto"
@@ -141,6 +159,12 @@
     },
     {
       "date": "2026-03-13",
+      "team": "Athletics",
+      "details": "RHPKade Brownassigned toAthletics.",
+      "player": "Kade Brown"
+    },
+    {
+      "date": "2026-03-13",
       "team": "Minnesota Twins",
       "details": "CFYasser Mercedesassigned toMinnesota Twins.",
       "player": "Yasser Mercedes"
@@ -153,15 +177,21 @@
     },
     {
       "date": "2026-03-13",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsigned free agent LHPDanny Coulombe.",
-      "player": "Danny Coulombe"
+      "team": "Tampa Bay Rays",
+      "details": "RHPRyan Andradeassigned toTampa Bay Rays.",
+      "player": "Ryan Andrade"
     },
     {
       "date": "2026-03-13",
-      "team": "Atlanta Braves",
-      "details": "CFJake Steelsassigned toAtlanta Braves.",
-      "player": "Jake Steels"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersdesignated RHPAlexis Díazfor assignment.",
+      "player": "Alexis Díaz"
+    },
+    {
+      "date": "2026-03-13",
+      "team": "Athletics",
+      "details": "COwen Carapellottiassigned toAthletics.",
+      "player": "Owen Carapellotti"
     }
   ]
 }
