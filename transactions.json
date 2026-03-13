@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-03-13T15:51:51.813954",
+  "last_updated": "2026-03-13T16:51:28.834264",
   "transactions": [
     {
       "date": "2026-03-13",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned free agent LHPDanny Coulombe.",
+      "player": "Danny Coulombe"
+    },
+    {
+      "date": "2026-03-13",
       "team": "Atlanta Braves",
-      "details": "LHPSamuel Stricklandassigned toAtlanta Braves.",
-      "player": "Samuel Strickland"
+      "details": "CFJake Steelsassigned toAtlanta Braves.",
+      "player": "Jake Steels"
     },
     {
       "date": "2026-03-13",
@@ -21,9 +27,39 @@
     },
     {
       "date": "2026-03-13",
+      "team": "Milwaukee Brewers",
+      "details": "OFBraylon Payneassigned toMilwaukee Brewers.",
+      "player": "Braylon Payne"
+    },
+    {
+      "date": "2026-03-13",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent LHPJalen Beeks.",
+      "player": "Jalen Beeks"
+    },
+    {
+      "date": "2026-03-13",
+      "team": "Cleveland Guardians",
+      "details": "1BAnthony Martinezassigned toCleveland Guardians.",
+      "player": "Anthony Martinez"
+    },
+    {
+      "date": "2026-03-13",
+      "team": "Cleveland Guardians",
+      "details": "OFEstivel Morilloassigned toCleveland Guardians.",
+      "player": "Estivel Morillo"
+    },
+    {
+      "date": "2026-03-13",
       "team": "Philadelphia Phillies",
       "details": "CLuis Caicutoassigned toPhiladelphia Phillies.",
       "player": "Luis Caicuto"
+    },
+    {
+      "date": "2026-03-13",
+      "team": "Cleveland Guardians",
+      "details": "2BAlejandro Blascoassigned toCleveland Guardians.",
+      "player": "Alejandro Blasco"
     },
     {
       "date": "2026-03-13",
@@ -39,21 +75,21 @@
     },
     {
       "date": "2026-03-13",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsigned free agent LHPDanny Coulombe.",
-      "player": "Danny Coulombe"
+      "team": "Tampa Bay Rays",
+      "details": "RHPRyan Andradeassigned toTampa Bay Rays.",
+      "player": "Ryan Andrade"
+    },
+    {
+      "date": "2026-03-13",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersdesignated RHPAlexis Díazfor assignment.",
+      "player": "Alexis Díaz"
     },
     {
       "date": "2026-03-13",
       "team": "Atlanta Braves",
-      "details": "CFJake Steelsassigned toAtlanta Braves.",
-      "player": "Jake Steels"
-    },
-    {
-      "date": "2026-03-13",
-      "team": "Tampa Bay Rays",
-      "details": "RHPRyan Andradeassigned toTampa Bay Rays.",
-      "player": "Ryan Andrade"
+      "details": "LHPSamuel Stricklandassigned toAtlanta Braves.",
+      "player": "Samuel Strickland"
     }
   ]
 }
