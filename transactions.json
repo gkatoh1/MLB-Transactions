@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-03-14T11:31:43.151064",
+  "last_updated": "2026-03-14T13:09:10.770848",
   "transactions": [
+    {
+      "date": "2026-03-14",
+      "team": "Tampa Bay Rays",
+      "details": "OFDerek Datilassigned toTampa Bay Rays.",
+      "player": "Derek Datil"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Detroit Tigers",
+      "details": "CSteven Maderoassigned toDetroit Tigers.",
+      "player": "Steven Madero"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "New York Yankees",
+      "details": "LFLuis Durangoassigned toNew York Yankees.",
+      "player": "Luis Durango"
+    },
     {
       "date": "2026-03-14",
       "team": "Washington Nationals",
@@ -10,14 +28,14 @@
     {
       "date": "2026-03-14",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned LHPJake Ederto Rochester Red Wings.",
-      "player": "Jake Eder"
+      "details": "Washington Nationalsoptioned LHPMitchell Parkerto Rochester Red Wings.",
+      "player": "Mitchell Parker"
     },
     {
       "date": "2026-03-14",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned LHPMitchell Parkerto Rochester Red Wings.",
-      "player": "Mitchell Parker"
+      "details": "Washington Nationalsoptioned LHPJake Ederto Rochester Red Wings.",
+      "player": "Jake Eder"
     }
   ]
 }
