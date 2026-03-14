@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T22:34:40.958317",
+  "last_updated": "2026-03-14T23:34:58.398379",
   "transactions": [
     {
       "date": "2026-03-14",
@@ -42,36 +42,6 @@
       "team": "Cleveland Guardians",
       "details": "2BJhorvic Abreusassigned toCleveland Guardians.",
       "player": "Jhorvic Abreus"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Colorado Rockies",
-      "details": "LHPJustin Loerassigned toColorado Rockies.",
-      "player": "Justin Loer"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Cleveland Guardians",
-      "details": "SSAngel Abreuassigned toCleveland Guardians.",
-      "player": "Angel Abreu"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Seattle Mariners",
-      "details": "OFRyan Picolloassigned toSeattle Mariners.",
-      "player": "Ryan Picollo"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Seattle Mariners",
-      "details": "RHPWyatt Lunsford-Shenkmanassigned toSeattle Mariners.",
-      "player": "Wyatt Lunsford-Shenkman"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "San Diego Padres",
-      "details": "LHPBraian Salazarassigned toSan Diego Padres.",
-      "player": "Braian Salazar"
     },
     {
       "date": "2026-03-14",
@@ -129,15 +99,15 @@
     },
     {
       "date": "2026-03-14",
-      "team": "Los Angeles Dodgers",
-      "details": "RHPDilan Figueredoassigned toLos Angeles Dodgers.",
-      "player": "Dilan Figueredo"
-    },
-    {
-      "date": "2026-03-14",
       "team": "San Diego Padres",
       "details": "3BLuis Verdugoassigned toSan Diego Padres.",
       "player": "Luis Verdugo"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Seattle Mariners",
+      "details": "RHPWyatt Lunsford-Shenkmanassigned toSeattle Mariners.",
+      "player": "Wyatt Lunsford-Shenkman"
     },
     {
       "date": "2026-03-14",
@@ -150,36 +120,6 @@
       "team": "New York Mets",
       "details": "New York Metsplaced RHPJustin Hagenmanon the 60-day injured list. Rib Fracture.",
       "player": "Justin Hagenman"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "San Diego Padres",
-      "details": "RHPJosh Mallitzassigned toSan Diego Padres.",
-      "player": "Josh Mallitz"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "San Diego Padres",
-      "details": "OFKavares Tearsassigned toSan Diego Padres.",
-      "player": "Kavares Tears"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "San Diego Padres",
-      "details": "RHPAdam Conradassigned toSan Diego Padres.",
-      "player": "Adam Conrad"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "San Diego Padres",
-      "details": "LFKai Murphyassigned toSan Diego Padres.",
-      "player": "Kai Murphy"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "San Diego Padres",
-      "details": "3BAlbert Fabianassigned toSan Diego Padres.",
-      "player": "Albert Fabian"
     },
     {
       "date": "2026-03-14",
@@ -270,6 +210,66 @@
       "team": "Texas Rangers",
       "details": "OFPaxton Klingassigned toTexas Rangers.",
       "player": "Paxton Kling"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Colorado Rockies",
+      "details": "LHPJustin Loerassigned toColorado Rockies.",
+      "player": "Justin Loer"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Cleveland Guardians",
+      "details": "SSAngel Abreuassigned toCleveland Guardians.",
+      "player": "Angel Abreu"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Seattle Mariners",
+      "details": "OFRyan Picolloassigned toSeattle Mariners.",
+      "player": "Ryan Picollo"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Los Angeles Dodgers",
+      "details": "RHPDilan Figueredoassigned toLos Angeles Dodgers.",
+      "player": "Dilan Figueredo"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "San Diego Padres",
+      "details": "LHPBraian Salazarassigned toSan Diego Padres.",
+      "player": "Braian Salazar"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "San Diego Padres",
+      "details": "RHPJosh Mallitzassigned toSan Diego Padres.",
+      "player": "Josh Mallitz"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "San Diego Padres",
+      "details": "OFKavares Tearsassigned toSan Diego Padres.",
+      "player": "Kavares Tears"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "San Diego Padres",
+      "details": "RHPAdam Conradassigned toSan Diego Padres.",
+      "player": "Adam Conrad"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "San Diego Padres",
+      "details": "LFKai Murphyassigned toSan Diego Padres.",
+      "player": "Kai Murphy"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "San Diego Padres",
+      "details": "3BAlbert Fabianassigned toSan Diego Padres.",
+      "player": "Albert Fabian"
     },
     {
       "date": "2026-03-14",
