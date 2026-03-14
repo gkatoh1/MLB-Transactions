@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-03-14T14:36:34.254234",
+  "last_updated": "2026-03-14T15:35:24.385365",
   "transactions": [
     {
       "date": "2026-03-14",
       "team": "Colorado Rockies",
-      "details": "SSEthan Hollidayassigned toColorado Rockies.",
-      "player": "Ethan Holliday"
+      "details": "RHPZach Harrisassigned toColorado Rockies.",
+      "player": "Zach Harris"
     },
     {
       "date": "2026-03-14",
@@ -18,6 +18,12 @@
       "team": "Washington Nationals",
       "details": "CKevin Bazzellassigned toWashington Nationals.",
       "player": "Kevin Bazzell"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Pittsburgh Pirates",
+      "details": "2BHunter Stovallassigned toPittsburgh Pirates.",
+      "player": "Hunter Stovall"
     },
     {
       "date": "2026-03-14",
@@ -36,6 +42,36 @@
       "team": "Miami Marlins",
       "details": "3BYoffry Solanoassigned toMiami Marlins.",
       "player": "Yoffry Solano"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Baltimore Orioles",
+      "details": "1BVictor Figueroaassigned toBaltimore Orioles.",
+      "player": "Victor Figueroa"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Colorado Rockies",
+      "details": "LHPJustin Loerassigned toColorado Rockies.",
+      "player": "Justin Loer"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Miami Marlins",
+      "details": "1BJulio Henriquezassigned toMiami Marlins.",
+      "player": "Julio Henriquez"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Colorado Rockies",
+      "details": "SSEthan Hollidayassigned toColorado Rockies.",
+      "player": "Ethan Holliday"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Colorado Rockies",
+      "details": "OFDerek Bernardassigned toColorado Rockies.",
+      "player": "Derek Bernard"
     },
     {
       "date": "2026-03-14",
@@ -93,21 +129,15 @@
     },
     {
       "date": "2026-03-14",
+      "team": "Pittsburgh Pirates",
+      "details": "RHPYulian Quintanaassigned toPittsburgh Pirates.",
+      "player": "Yulian Quintana"
+    },
+    {
+      "date": "2026-03-14",
       "team": "Miami Marlins",
-      "details": "1BJulio Henriquezassigned toMiami Marlins.",
-      "player": "Julio Henriquez"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Colorado Rockies",
-      "details": "RHPZach Harrisassigned toColorado Rockies.",
-      "player": "Zach Harris"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Colorado Rockies",
-      "details": "LHPJustin Loerassigned toColorado Rockies.",
-      "player": "Justin Loer"
+      "details": "CJeremy Almonteassigned toMiami Marlins.",
+      "player": "Jeremy Almonte"
     },
     {
       "date": "2026-03-14",
@@ -142,8 +172,8 @@
     {
       "date": "2026-03-14",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned LHPMitchell Parkerto Rochester Red Wings.",
-      "player": "Mitchell Parker"
+      "details": "Washington Nationalsoptioned LHPAndrew Alvarezto Rochester Red Wings.",
+      "player": "Andrew Alvarez"
     },
     {
       "date": "2026-03-14",
@@ -154,8 +184,8 @@
     {
       "date": "2026-03-14",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned LHPAndrew Alvarezto Rochester Red Wings.",
-      "player": "Andrew Alvarez"
+      "details": "Washington Nationalsoptioned LHPMitchell Parkerto Rochester Red Wings.",
+      "player": "Mitchell Parker"
     }
   ]
 }
