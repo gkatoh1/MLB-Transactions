@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-03-15T14:38:12.540940",
+  "last_updated": "2026-03-15T15:36:13.295763",
   "transactions": [
     {
       "date": "2026-03-15",
-      "team": "Tampa Bay Rays",
-      "details": "RHPJack Snyderassigned toTampa Bay Rays.",
-      "player": "Jack Snyder"
+      "team": "New York Yankees",
+      "details": "SSKevin Verdeassigned toNew York Yankees.",
+      "player": "Kevin Verde"
     },
     {
       "date": "2026-03-15",
@@ -51,6 +51,12 @@
     },
     {
       "date": "2026-03-15",
+      "team": "Tampa Bay Rays",
+      "details": "RHPJack Snyderassigned toTampa Bay Rays.",
+      "player": "Jack Snyder"
+    },
+    {
+      "date": "2026-03-15",
       "team": "Houston Astros",
       "details": "OFKevin Alvarezassigned toHouston Astros.",
       "player": "Kevin Alvarez"
@@ -58,14 +64,14 @@
     {
       "date": "2026-03-15",
       "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned CJoe Mackto Jacksonville Jumbo Shrimp.",
-      "player": "Joe Mack"
+      "details": "Miami Marlinsoptioned RHPRyan Gustoto Jacksonville Jumbo Shrimp.",
+      "player": "Ryan Gusto"
     },
     {
       "date": "2026-03-15",
       "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPRyan Gustoto Jacksonville Jumbo Shrimp.",
-      "player": "Ryan Gusto"
+      "details": "Miami Marlinsoptioned CJoe Mackto Jacksonville Jumbo Shrimp.",
+      "player": "Joe Mack"
     }
   ]
 }
