@@ -1,4 +1,23 @@
 {
-  "last_updated": "2026-03-15T11:33:18.957883",
-  "transactions": []
+  "last_updated": "2026-03-15T13:10:09.541859",
+  "transactions": [
+    {
+      "date": "2026-03-15",
+      "team": "Washington Nationals",
+      "details": "CEdgardo Figueroaassigned toWashington Nationals.",
+      "player": "Edgardo Figueroa"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Houston Astros",
+      "details": "OFKevin Alvarezassigned toHouston Astros.",
+      "player": "Kevin Alvarez"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Washington Nationals",
+      "details": "SSMarconi Germanassigned toWashington Nationals.",
+      "player": "Marconi German"
+    }
+  ]
 }
