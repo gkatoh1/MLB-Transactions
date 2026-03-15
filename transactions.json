@@ -1,125 +1,11 @@
 {
-  "last_updated": "2026-03-14T23:34:58.398379",
+  "last_updated": "2026-03-15T03:21:19.080458",
   "transactions": [
-    {
-      "date": "2026-03-14",
-      "team": "New York Yankees",
-      "details": "LFLuis Durangoassigned toNew York Yankees.",
-      "player": "Luis Durango"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Washington Nationals",
-      "details": "CKevin Bazzellassigned toWashington Nationals.",
-      "player": "Kevin Bazzell"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Pittsburgh Pirates",
-      "details": "2BHunter Stovallassigned toPittsburgh Pirates.",
-      "player": "Hunter Stovall"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Milwaukee Brewers",
-      "details": "CAndrick Navaassigned toMilwaukee Brewers.",
-      "player": "Andrick Nava"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Cincinnati Reds",
-      "details": "LHPJonah Hurneyassigned toCincinnati Reds.",
-      "player": "Jonah Hurney"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Chicago White Sox",
-      "details": "RHPJarold Rosadoassigned toChicago White Sox.",
-      "player": "Jarold Rosado"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Cleveland Guardians",
-      "details": "2BJhorvic Abreusassigned toCleveland Guardians.",
-      "player": "Jhorvic Abreus"
-    },
     {
       "date": "2026-03-14",
       "team": "Colorado Rockies",
       "details": "RHPZach Harrisassigned toColorado Rockies.",
       "player": "Zach Harris"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "St. Louis Cardinals",
-      "details": "2BChristian Martinassigned toSt. Louis Cardinals.",
-      "player": "Christian Martin"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Colorado Rockies",
-      "details": "SSWilder Dalisassigned toColorado Rockies.",
-      "player": "Wilder Dalis"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Miami Marlins",
-      "details": "3BYoffry Solanoassigned toMiami Marlins.",
-      "player": "Yoffry Solano"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Baltimore Orioles",
-      "details": "1BVictor Figueroaassigned toBaltimore Orioles.",
-      "player": "Victor Figueroa"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "San Francisco Giants",
-      "details": "RHPNick Sinacolaassigned toSan Francisco Giants.",
-      "player": "Nick Sinacola"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Chicago White Sox",
-      "details": "OFNathan Archerassigned toChicago White Sox.",
-      "player": "Nathan Archer"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Los Angeles Dodgers",
-      "details": "LFJaron Elkinsassigned toLos Angeles Dodgers.",
-      "player": "Jaron Elkins"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Los Angeles Dodgers",
-      "details": "3BChase Harlanassigned toLos Angeles Dodgers.",
-      "player": "Chase Harlan"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "San Diego Padres",
-      "details": "3BLuis Verdugoassigned toSan Diego Padres.",
-      "player": "Luis Verdugo"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Seattle Mariners",
-      "details": "RHPWyatt Lunsford-Shenkmanassigned toSeattle Mariners.",
-      "player": "Wyatt Lunsford-Shenkman"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Chicago White Sox",
-      "details": "RHPAric McAteeassigned toChicago White Sox.",
-      "player": "Aric McAtee"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "New York Mets",
-      "details": "New York Metsplaced RHPJustin Hagenmanon the 60-day injured list. Rib Fracture.",
-      "player": "Justin Hagenman"
     },
     {
       "date": "2026-03-14",
@@ -231,15 +117,129 @@
     },
     {
       "date": "2026-03-14",
-      "team": "Los Angeles Dodgers",
-      "details": "RHPDilan Figueredoassigned toLos Angeles Dodgers.",
-      "player": "Dilan Figueredo"
+      "team": "New York Yankees",
+      "details": "LFLuis Durangoassigned toNew York Yankees.",
+      "player": "Luis Durango"
     },
     {
       "date": "2026-03-14",
-      "team": "San Diego Padres",
-      "details": "LHPBraian Salazarassigned toSan Diego Padres.",
-      "player": "Braian Salazar"
+      "team": "Washington Nationals",
+      "details": "CKevin Bazzellassigned toWashington Nationals.",
+      "player": "Kevin Bazzell"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Pittsburgh Pirates",
+      "details": "2BHunter Stovallassigned toPittsburgh Pirates.",
+      "player": "Hunter Stovall"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Milwaukee Brewers",
+      "details": "CAndrick Navaassigned toMilwaukee Brewers.",
+      "player": "Andrick Nava"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Cincinnati Reds",
+      "details": "LHPJonah Hurneyassigned toCincinnati Reds.",
+      "player": "Jonah Hurney"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Chicago White Sox",
+      "details": "RHPJarold Rosadoassigned toChicago White Sox.",
+      "player": "Jarold Rosado"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Cleveland Guardians",
+      "details": "2BJhorvic Abreusassigned toCleveland Guardians.",
+      "player": "Jhorvic Abreus"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Detroit Tigers",
+      "details": "CSteven Maderoassigned toDetroit Tigers.",
+      "player": "Steven Madero"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Washington Nationals",
+      "details": "1BJacob Walshassigned toWashington Nationals.",
+      "player": "Jacob Walsh"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Washington Nationals",
+      "details": "IFEyeksson Rojasassigned toWashington Nationals.",
+      "player": "Eyeksson Rojas"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Colorado Rockies",
+      "details": "CJesus Freitezassigned toColorado Rockies.",
+      "player": "Jesus Freitez"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Colorado Rockies",
+      "details": "CFJacob Humphreyassigned toColorado Rockies.",
+      "player": "Jacob Humphrey"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Miami Marlins",
+      "details": "1BJulio Henriquezassigned toMiami Marlins.",
+      "player": "Julio Henriquez"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Cincinnati Reds",
+      "details": "RHPDavid Lorduyassigned toCincinnati Reds.",
+      "player": "David Lorduy"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Cincinnati Reds",
+      "details": "RHPStephen Quigleyassigned toCincinnati Reds.",
+      "player": "Stephen Quigley"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Philadelphia Phillies",
+      "details": "RHPLenny Torres Jr.assigned toPhiladelphia Phillies.",
+      "player": "Lenny Torres Jr."
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Colorado Rockies",
+      "details": "SSEthan Hollidayassigned toColorado Rockies.",
+      "player": "Ethan Holliday"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Colorado Rockies",
+      "details": "OFDerek Bernardassigned toColorado Rockies.",
+      "player": "Derek Bernard"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Houston Astros",
+      "details": "OFJustin Trimbleassigned toHouston Astros.",
+      "player": "Justin Trimble"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Los Angeles Dodgers",
+      "details": "2BTaylor Youngassigned toLos Angeles Dodgers.",
+      "player": "Taylor Young"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Seattle Mariners",
+      "details": "RHPWyatt Lunsford-Shenkmanassigned toSeattle Mariners.",
+      "player": "Wyatt Lunsford-Shenkman"
     },
     {
       "date": "2026-03-14",
@@ -273,33 +273,33 @@
     },
     {
       "date": "2026-03-14",
-      "team": "Detroit Tigers",
-      "details": "CSteven Maderoassigned toDetroit Tigers.",
-      "player": "Steven Madero"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Washington Nationals",
-      "details": "1BJacob Walshassigned toWashington Nationals.",
-      "player": "Jacob Walsh"
-    },
-    {
-      "date": "2026-03-14",
-      "team": "Washington Nationals",
-      "details": "IFEyeksson Rojasassigned toWashington Nationals.",
-      "player": "Eyeksson Rojas"
+      "team": "St. Louis Cardinals",
+      "details": "2BChristian Martinassigned toSt. Louis Cardinals.",
+      "player": "Christian Martin"
     },
     {
       "date": "2026-03-14",
       "team": "Colorado Rockies",
-      "details": "CJesus Freitezassigned toColorado Rockies.",
-      "player": "Jesus Freitez"
+      "details": "SSWilder Dalisassigned toColorado Rockies.",
+      "player": "Wilder Dalis"
     },
     {
       "date": "2026-03-14",
-      "team": "Colorado Rockies",
-      "details": "CFJacob Humphreyassigned toColorado Rockies.",
-      "player": "Jacob Humphrey"
+      "team": "Miami Marlins",
+      "details": "3BYoffry Solanoassigned toMiami Marlins.",
+      "player": "Yoffry Solano"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "Baltimore Orioles",
+      "details": "1BVictor Figueroaassigned toBaltimore Orioles.",
+      "player": "Victor Figueroa"
+    },
+    {
+      "date": "2026-03-14",
+      "team": "San Francisco Giants",
+      "details": "RHPNick Sinacolaassigned toSan Francisco Giants.",
+      "player": "Nick Sinacola"
     }
   ]
 }
