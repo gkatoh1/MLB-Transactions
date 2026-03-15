@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-03-15T13:10:09.541859",
+  "last_updated": "2026-03-15T14:38:12.540940",
   "transactions": [
+    {
+      "date": "2026-03-15",
+      "team": "Tampa Bay Rays",
+      "details": "RHPJack Snyderassigned toTampa Bay Rays.",
+      "player": "Jack Snyder"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Pittsburgh Pirates",
+      "details": "CEaston Carmichaelassigned toPittsburgh Pirates.",
+      "player": "Easton Carmichael"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Pittsburgh Pirates",
+      "details": "RHPNoah Takacsassigned toPittsburgh Pirates.",
+      "player": "Noah Takacs"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Washington Nationals",
+      "details": "CFJordan Williamsassigned toWashington Nationals.",
+      "player": "Jordan Williams"
+    },
     {
       "date": "2026-03-15",
       "team": "Washington Nationals",
       "details": "CEdgardo Figueroaassigned toWashington Nationals.",
       "player": "Edgardo Figueroa"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Miami Marlins",
+      "details": "OFLuis Leonassigned toMiami Marlins.",
+      "player": "Luis Leon"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Washington Nationals",
+      "details": "SSMarconi Germanassigned toWashington Nationals.",
+      "player": "Marconi German"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Detroit Tigers",
+      "details": "SSJordan Yostassigned toDetroit Tigers.",
+      "player": "Jordan Yost"
     },
     {
       "date": "2026-03-15",
@@ -15,9 +57,15 @@
     },
     {
       "date": "2026-03-15",
-      "team": "Washington Nationals",
-      "details": "SSMarconi Germanassigned toWashington Nationals.",
-      "player": "Marconi German"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned CJoe Mackto Jacksonville Jumbo Shrimp.",
+      "player": "Joe Mack"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPRyan Gustoto Jacksonville Jumbo Shrimp.",
+      "player": "Ryan Gusto"
     }
   ]
 }
