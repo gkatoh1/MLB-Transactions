@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-03-15T15:36:13.295763",
+  "last_updated": "2026-03-15T16:41:10.005963",
   "transactions": [
-    {
-      "date": "2026-03-15",
-      "team": "New York Yankees",
-      "details": "SSKevin Verdeassigned toNew York Yankees.",
-      "player": "Kevin Verde"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "Pittsburgh Pirates",
-      "details": "CEaston Carmichaelassigned toPittsburgh Pirates.",
-      "player": "Easton Carmichael"
-    },
     {
       "date": "2026-03-15",
       "team": "Pittsburgh Pirates",
@@ -21,9 +9,57 @@
     },
     {
       "date": "2026-03-15",
+      "team": "Cincinnati Reds",
+      "details": "CJirvin Morilloassigned toCincinnati Reds.",
+      "player": "Jirvin Morillo"
+    },
+    {
+      "date": "2026-03-15",
       "team": "Washington Nationals",
       "details": "CFJordan Williamsassigned toWashington Nationals.",
       "player": "Jordan Williams"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Milwaukee Brewers",
+      "details": "3BLuiyin Alastreassigned toMilwaukee Brewers.",
+      "player": "Luiyin Alastre"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Cleveland Guardians",
+      "details": "RHPAngel Perezassigned toCleveland Guardians.",
+      "player": "Angel Perez"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Cleveland Guardians",
+      "details": "LFHeribert Silvaassigned toCleveland Guardians.",
+      "player": "Heribert Silva"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Cincinnati Reds",
+      "details": "RHPVictor Diazassigned toCincinnati Reds.",
+      "player": "Victor Diaz"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Houston Astros",
+      "details": "CFKenni Gomezassigned toHouston Astros.",
+      "player": "Kenni Gomez"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Tampa Bay Rays",
+      "details": "RHPJack Snyderassigned toTampa Bay Rays.",
+      "player": "Jack Snyder"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "New York Yankees",
+      "details": "SSKevin Verdeassigned toNew York Yankees.",
+      "player": "Kevin Verde"
     },
     {
       "date": "2026-03-15",
@@ -39,6 +75,30 @@
     },
     {
       "date": "2026-03-15",
+      "team": "Pittsburgh Pirates",
+      "details": "CEaston Carmichaelassigned toPittsburgh Pirates.",
+      "player": "Easton Carmichael"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Cleveland Guardians",
+      "details": "CPedro Dalmagroassigned toCleveland Guardians.",
+      "player": "Pedro Dalmagro"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Cleveland Guardians",
+      "details": "OFLuis De La Cruzassigned toCleveland Guardians.",
+      "player": "Luis De La Cruz"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Houston Astros",
+      "details": "OFKevin Alvarezassigned toHouston Astros.",
+      "player": "Kevin Alvarez"
+    },
+    {
+      "date": "2026-03-15",
       "team": "Washington Nationals",
       "details": "SSMarconi Germanassigned toWashington Nationals.",
       "player": "Marconi German"
@@ -51,27 +111,33 @@
     },
     {
       "date": "2026-03-15",
-      "team": "Tampa Bay Rays",
-      "details": "RHPJack Snyderassigned toTampa Bay Rays.",
-      "player": "Jack Snyder"
-    },
-    {
-      "date": "2026-03-15",
       "team": "Houston Astros",
-      "details": "OFKevin Alvarezassigned toHouston Astros.",
-      "player": "Kevin Alvarez"
+      "details": "SSAlejandro Nunezassigned toHouston Astros.",
+      "player": "Alejandro Nunez"
     },
     {
       "date": "2026-03-15",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPRyan Gustoto Jacksonville Jumbo Shrimp.",
-      "player": "Ryan Gusto"
+      "team": "Cincinnati Reds",
+      "details": "2BAnielson Butenassigned toCincinnati Reds.",
+      "player": "Anielson Buten"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPDrey Jamesonto Reno Aces.",
+      "player": "Drey Jameson"
     },
     {
       "date": "2026-03-15",
       "team": "Miami Marlins",
       "details": "Miami Marlinsoptioned CJoe Mackto Jacksonville Jumbo Shrimp.",
       "player": "Joe Mack"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPRyan Gustoto Jacksonville Jumbo Shrimp.",
+      "player": "Ryan Gusto"
     }
   ]
 }
