@@ -1,11 +1,77 @@
 {
-  "last_updated": "2026-03-15T19:34:55.735423",
+  "last_updated": "2026-03-15T20:38:25.709674",
   "transactions": [
     {
       "date": "2026-03-15",
-      "team": "Pittsburgh Pirates",
-      "details": "RHPNoah Takacsassigned toPittsburgh Pirates.",
-      "player": "Noah Takacs"
+      "team": "Chicago Cubs",
+      "details": "OFCesar Lugoassigned toChicago Cubs.",
+      "player": "Cesar Lugo"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Washington Nationals",
+      "details": "SSMarconi Germanassigned toWashington Nationals.",
+      "player": "Marconi German"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Detroit Tigers",
+      "details": "SSJordan Yostassigned toDetroit Tigers.",
+      "player": "Jordan Yost"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Seattle Mariners",
+      "details": "OFKonni Durschlagassigned toSeattle Mariners.",
+      "player": "Konni Durschlag"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Arizona Diamondbacks",
+      "details": "CAlejandro Riosassigned toArizona Diamondbacks.",
+      "player": "Alejandro Rios"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Washington Nationals",
+      "details": "CEdgardo Figueroaassigned toWashington Nationals.",
+      "player": "Edgardo Figueroa"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Miami Marlins",
+      "details": "OFLuis Leonassigned toMiami Marlins.",
+      "player": "Luis Leon"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Colorado Rockies",
+      "details": "OFCristian Arguellesassigned toColorado Rockies.",
+      "player": "Cristian Arguelles"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "San Diego Padres",
+      "details": "RHPMaikel Mirallesassigned toSan Diego Padres.",
+      "player": "Maikel Miralles"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Cleveland Guardians",
+      "details": "OFLuis De La Cruzassigned toCleveland Guardians.",
+      "player": "Luis De La Cruz"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "San Diego Padres",
+      "details": "RHPEric Yostassigned toSan Diego Padres.",
+      "player": "Eric Yost"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "San Diego Padres",
+      "details": "OFGeorge Bileckiassigned toSan Diego Padres.",
+      "player": "George Bilecki"
     },
     {
       "date": "2026-03-15",
@@ -39,6 +105,12 @@
     },
     {
       "date": "2026-03-15",
+      "team": "Pittsburgh Pirates",
+      "details": "CEaston Carmichaelassigned toPittsburgh Pirates.",
+      "player": "Easton Carmichael"
+    },
+    {
+      "date": "2026-03-15",
       "team": "Houston Astros",
       "details": "OFKevin Alvarezassigned toHouston Astros.",
       "player": "Kevin Alvarez"
@@ -48,120 +120,6 @@
       "team": "Cincinnati Reds",
       "details": "CJirvin Morilloassigned toCincinnati Reds.",
       "player": "Jirvin Morillo"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "Los Angeles Dodgers",
-      "details": "RHPAccimias Moralesassigned toLos Angeles Dodgers.",
-      "player": "Accimias Morales"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "Houston Astros",
-      "details": "CFKenni Gomezassigned toHouston Astros.",
-      "player": "Kenni Gomez"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "Los Angeles Dodgers",
-      "details": "SSEduardo Guerreroassigned toLos Angeles Dodgers.",
-      "player": "Eduardo Guerrero"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "Baltimore Orioles",
-      "details": "RHPEvan Yatesassigned toBaltimore Orioles.",
-      "player": "Evan Yates"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "Tampa Bay Rays",
-      "details": "RHPJack Snyderassigned toTampa Bay Rays.",
-      "player": "Jack Snyder"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "New York Yankees",
-      "details": "SSKevin Verdeassigned toNew York Yankees.",
-      "player": "Kevin Verde"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "Colorado Rockies",
-      "details": "SSJeremy Ciriacoassigned toColorado Rockies.",
-      "player": "Jeremy Ciriaco"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "Miami Marlins",
-      "details": "OFLuis Leonassigned toMiami Marlins.",
-      "player": "Luis Leon"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "Colorado Rockies",
-      "details": "OFCristian Arguellesassigned toColorado Rockies.",
-      "player": "Cristian Arguelles"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "San Diego Padres",
-      "details": "RHPMaikel Mirallesassigned toSan Diego Padres.",
-      "player": "Maikel Miralles"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "Chicago Cubs",
-      "details": "OFCesar Lugoassigned toChicago Cubs.",
-      "player": "Cesar Lugo"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "Pittsburgh Pirates",
-      "details": "CEaston Carmichaelassigned toPittsburgh Pirates.",
-      "player": "Easton Carmichael"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "Cleveland Guardians",
-      "details": "OFLuis De La Cruzassigned toCleveland Guardians.",
-      "player": "Luis De La Cruz"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "Los Angeles Angels",
-      "details": "RHPCarlos Espinosaassigned toLos Angeles Angels.",
-      "player": "Carlos Espinosa"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "New York Mets",
-      "details": "CVincent Perozoassigned toNew York Mets.",
-      "player": "Vincent Perozo"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "Washington Nationals",
-      "details": "SSMarconi Germanassigned toWashington Nationals.",
-      "player": "Marconi German"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "Detroit Tigers",
-      "details": "SSJordan Yostassigned toDetroit Tigers.",
-      "player": "Jordan Yost"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "San Diego Padres",
-      "details": "RHPEric Yostassigned toSan Diego Padres.",
-      "player": "Eric Yost"
-    },
-    {
-      "date": "2026-03-15",
-      "team": "San Diego Padres",
-      "details": "OFGeorge Bileckiassigned toSan Diego Padres.",
-      "player": "George Bilecki"
     },
     {
       "date": "2026-03-15",
@@ -213,33 +171,69 @@
     },
     {
       "date": "2026-03-15",
-      "team": "Seattle Mariners",
-      "details": "OFKonni Durschlagassigned toSeattle Mariners.",
-      "player": "Konni Durschlag"
+      "team": "Houston Astros",
+      "details": "CFKenni Gomezassigned toHouston Astros.",
+      "player": "Kenni Gomez"
     },
     {
       "date": "2026-03-15",
-      "team": "Arizona Diamondbacks",
-      "details": "CAlejandro Riosassigned toArizona Diamondbacks.",
-      "player": "Alejandro Rios"
+      "team": "Los Angeles Dodgers",
+      "details": "SSEduardo Guerreroassigned toLos Angeles Dodgers.",
+      "player": "Eduardo Guerrero"
     },
     {
       "date": "2026-03-15",
-      "team": "Washington Nationals",
-      "details": "CEdgardo Figueroaassigned toWashington Nationals.",
-      "player": "Edgardo Figueroa"
+      "team": "Baltimore Orioles",
+      "details": "RHPEvan Yatesassigned toBaltimore Orioles.",
+      "player": "Evan Yates"
     },
     {
       "date": "2026-03-15",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned CWillie MacIverto Round Rock Express.",
-      "player": "Willie MacIver"
+      "team": "Tampa Bay Rays",
+      "details": "RHPJack Snyderassigned toTampa Bay Rays.",
+      "player": "Jack Snyder"
     },
     {
       "date": "2026-03-15",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned RHPJose Corniellto Frisco RoughRiders.",
-      "player": "Jose Corniell"
+      "team": "New York Yankees",
+      "details": "SSKevin Verdeassigned toNew York Yankees.",
+      "player": "Kevin Verde"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Colorado Rockies",
+      "details": "SSJeremy Ciriacoassigned toColorado Rockies.",
+      "player": "Jeremy Ciriaco"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Los Angeles Angels",
+      "details": "RHPCarlos Espinosaassigned toLos Angeles Angels.",
+      "player": "Carlos Espinosa"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Pittsburgh Pirates",
+      "details": "RHPNoah Takacsassigned toPittsburgh Pirates.",
+      "player": "Noah Takacs"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Los Angeles Dodgers",
+      "details": "LHPEvan Shawassigned toLos Angeles Dodgers.",
+      "player": "Evan Shaw"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "New York Mets",
+      "details": "CVincent Perozoassigned toNew York Mets.",
+      "player": "Vincent Perozo"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Los Angeles Dodgers",
+      "details": "RHPAccimias Moralesassigned toLos Angeles Dodgers.",
+      "player": "Accimias Morales"
     },
     {
       "date": "2026-03-15",
@@ -255,15 +249,33 @@
     },
     {
       "date": "2026-03-15",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPRyan Fernandezto Memphis Redbirds.",
+      "player": "Ryan Fernandez"
+    },
+    {
+      "date": "2026-03-15",
       "team": "Texas Rangers",
       "details": "Texas Rangerssent RHPAlexis Díazoutright to Round Rock Express.",
       "player": "Alexis Díaz"
     },
     {
       "date": "2026-03-15",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPJose Corniellto Frisco RoughRiders.",
+      "player": "Jose Corniell"
+    },
+    {
+      "date": "2026-03-15",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksoptioned RHPDrey Jamesonto Reno Aces.",
       "player": "Drey Jameson"
+    },
+    {
+      "date": "2026-03-15",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned CWillie MacIverto Round Rock Express.",
+      "player": "Willie MacIver"
     }
   ]
 }
