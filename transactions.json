@@ -1,17 +1,23 @@
 {
-  "last_updated": "2026-03-16T21:49:38.098766",
+  "last_updated": "2026-03-16T22:42:08.091266",
   "transactions": [
     {
       "date": "2026-03-16",
-      "team": "Tampa Bay Rays",
-      "details": "OFLeonardo Pinedaassigned toTampa Bay Rays.",
-      "player": "Leonardo Pineda"
+      "team": "Philadelphia Phillies",
+      "details": "CJordan Dissinassigned toPhiladelphia Phillies.",
+      "player": "Jordan Dissin"
     },
     {
       "date": "2026-03-16",
-      "team": "Los Angeles Angels",
-      "details": "2BEdgar Alfonsoassigned toLos Angeles Angels.",
-      "player": "Edgar Alfonso"
+      "team": "Pittsburgh Pirates",
+      "details": "OFGabriel Rodriguezassigned toPittsburgh Pirates.",
+      "player": "Gabriel Rodriguez"
+    },
+    {
+      "date": "2026-03-16",
+      "team": "Tampa Bay Rays",
+      "details": "SSAlberth Palmaassigned toTampa Bay Rays.",
+      "player": "Alberth Palma"
     },
     {
       "date": "2026-03-16",
@@ -21,9 +27,9 @@
     },
     {
       "date": "2026-03-16",
-      "team": "Boston Red Sox",
-      "details": "2BHenry Godboutassigned toBoston Red Sox.",
-      "player": "Henry Godbout"
+      "team": "Tampa Bay Rays",
+      "details": "OFLeonardo Pinedaassigned toTampa Bay Rays.",
+      "player": "Leonardo Pineda"
     },
     {
       "date": "2026-03-16",
@@ -39,15 +45,9 @@
     },
     {
       "date": "2026-03-16",
-      "team": "Pittsburgh Pirates",
-      "details": "OFGabriel Rodriguezassigned toPittsburgh Pirates.",
-      "player": "Gabriel Rodriguez"
-    },
-    {
-      "date": "2026-03-16",
-      "team": "Tampa Bay Rays",
-      "details": "SSAlberth Palmaassigned toTampa Bay Rays.",
-      "player": "Alberth Palma"
+      "team": "Boston Red Sox",
+      "details": "2BHenry Godboutassigned toBoston Red Sox.",
+      "player": "Henry Godbout"
     },
     {
       "date": "2026-03-16",
@@ -78,6 +78,24 @@
       "team": "San Francisco Giants",
       "details": "CDrew Cavanaughassigned toSan Francisco Giants.",
       "player": "Drew Cavanaugh"
+    },
+    {
+      "date": "2026-03-16",
+      "team": "Miami Marlins",
+      "details": "RHPJake Clementeassigned toMiami Marlins.",
+      "player": "Jake Clemente"
+    },
+    {
+      "date": "2026-03-16",
+      "team": "Athletics",
+      "details": "RHPAbel Mercedesassigned toAthletics.",
+      "player": "Abel Mercedes"
+    },
+    {
+      "date": "2026-03-16",
+      "team": "Texas Rangers",
+      "details": "CFAndry Batistaassigned toTexas Rangers.",
+      "player": "Andry Batista"
     },
     {
       "date": "2026-03-16",
@@ -117,21 +135,9 @@
     },
     {
       "date": "2026-03-16",
-      "team": "Miami Marlins",
-      "details": "RHPJake Clementeassigned toMiami Marlins.",
-      "player": "Jake Clemente"
-    },
-    {
-      "date": "2026-03-16",
-      "team": "Athletics",
-      "details": "RHPAbel Mercedesassigned toAthletics.",
-      "player": "Abel Mercedes"
-    },
-    {
-      "date": "2026-03-16",
-      "team": "Philadelphia Phillies",
-      "details": "CJordan Dissinassigned toPhiladelphia Phillies.",
-      "player": "Jordan Dissin"
+      "team": "Texas Rangers",
+      "details": "SSCurley Marthaassigned toTexas Rangers.",
+      "player": "Curley Martha"
     },
     {
       "date": "2026-03-16",
@@ -159,9 +165,27 @@
     },
     {
       "date": "2026-03-16",
+      "team": "Los Angeles Angels",
+      "details": "2BEdgar Alfonsoassigned toLos Angeles Angels.",
+      "player": "Edgar Alfonso"
+    },
+    {
+      "date": "2026-03-16",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned 1BEnmanuel Valdezto Indianapolis Indians.",
+      "player": "Enmanuel Valdez"
+    },
+    {
+      "date": "2026-03-16",
       "team": "Miami Marlins",
       "details": "Miami Marlinsoptioned RHPGarrett Actonto Jacksonville Jumbo Shrimp.",
       "player": "Garrett Acton"
+    },
+    {
+      "date": "2026-03-16",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPBradley Blalockto Jacksonville Jumbo Shrimp.",
+      "player": "Bradley Blalock"
     },
     {
       "date": "2026-03-16",
@@ -171,9 +195,15 @@
     },
     {
       "date": "2026-03-16",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPBradley Blalockto Jacksonville Jumbo Shrimp.",
-      "player": "Bradley Blalock"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFJonatan Claseto Buffalo Bisons.",
+      "player": "Jonatan Clase"
+    },
+    {
+      "date": "2026-03-16",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPCaden Danato Salt Lake Bees.",
+      "player": "Caden Dana"
     },
     {
       "date": "2026-03-16",
@@ -186,12 +216,6 @@
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned LFBlake Dunnto Louisville Bats.",
       "player": "Blake Dunn"
-    },
-    {
-      "date": "2026-03-16",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned 1BEnmanuel Valdezto Indianapolis Indians.",
-      "player": "Enmanuel Valdez"
     }
   ]
 }
