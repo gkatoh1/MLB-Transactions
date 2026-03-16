@@ -1,4 +1,23 @@
 {
-  "last_updated": "2026-03-16T11:02:42.756695",
-  "transactions": []
+  "last_updated": "2026-03-16T13:44:38.229801",
+  "transactions": [
+    {
+      "date": "2026-03-16",
+      "team": "Pittsburgh Pirates",
+      "details": "OFCarter Gwostassigned toPittsburgh Pirates.",
+      "player": "Carter Gwost"
+    },
+    {
+      "date": "2026-03-16",
+      "team": "Pittsburgh Pirates",
+      "details": "OFGabriel Rodriguezassigned toPittsburgh Pirates.",
+      "player": "Gabriel Rodriguez"
+    },
+    {
+      "date": "2026-03-16",
+      "team": "Miami Marlins",
+      "details": "RHPJake Clementeassigned toMiami Marlins.",
+      "player": "Jake Clemente"
+    }
+  ]
 }
