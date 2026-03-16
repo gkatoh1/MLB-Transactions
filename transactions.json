@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16T20:49:09.274043",
+  "last_updated": "2026-03-16T21:49:38.098766",
   "transactions": [
     {
       "date": "2026-03-16",
@@ -9,9 +9,21 @@
     },
     {
       "date": "2026-03-16",
-      "team": "Athletics",
-      "details": "RHPAbel Mercedesassigned toAthletics.",
-      "player": "Abel Mercedes"
+      "team": "Los Angeles Angels",
+      "details": "2BEdgar Alfonsoassigned toLos Angeles Angels.",
+      "player": "Edgar Alfonso"
+    },
+    {
+      "date": "2026-03-16",
+      "team": "Cleveland Guardians",
+      "details": "CVictor Izturisassigned toCleveland Guardians.",
+      "player": "Victor Izturis"
+    },
+    {
+      "date": "2026-03-16",
+      "team": "Boston Red Sox",
+      "details": "2BHenry Godboutassigned toBoston Red Sox.",
+      "player": "Henry Godbout"
     },
     {
       "date": "2026-03-16",
@@ -81,48 +93,6 @@
     },
     {
       "date": "2026-03-16",
-      "team": "Philadelphia Phillies",
-      "details": "CFJoel Dragooassigned toPhiladelphia Phillies.",
-      "player": "Joel Dragoo"
-    },
-    {
-      "date": "2026-03-16",
-      "team": "Los Angeles Angels",
-      "details": "2BMac McCroskeyassigned toLos Angeles Angels.",
-      "player": "Mac McCroskey"
-    },
-    {
-      "date": "2026-03-16",
-      "team": "Cincinnati Reds",
-      "details": "CIan Francisassigned toCincinnati Reds.",
-      "player": "Ian Francis"
-    },
-    {
-      "date": "2026-03-16",
-      "team": "Los Angeles Angels",
-      "details": "2BEdgar Alfonsoassigned toLos Angeles Angels.",
-      "player": "Edgar Alfonso"
-    },
-    {
-      "date": "2026-03-16",
-      "team": "Cleveland Guardians",
-      "details": "CVictor Izturisassigned toCleveland Guardians.",
-      "player": "Victor Izturis"
-    },
-    {
-      "date": "2026-03-16",
-      "team": "Boston Red Sox",
-      "details": "2BHenry Godboutassigned toBoston Red Sox.",
-      "player": "Henry Godbout"
-    },
-    {
-      "date": "2026-03-16",
-      "team": "Philadelphia Phillies",
-      "details": "CJordan Dissinassigned toPhiladelphia Phillies.",
-      "player": "Jordan Dissin"
-    },
-    {
-      "date": "2026-03-16",
       "team": "Pittsburgh Pirates",
       "details": "OFCarter Gwostassigned toPittsburgh Pirates.",
       "player": "Carter Gwost"
@@ -153,9 +123,63 @@
     },
     {
       "date": "2026-03-16",
+      "team": "Athletics",
+      "details": "RHPAbel Mercedesassigned toAthletics.",
+      "player": "Abel Mercedes"
+    },
+    {
+      "date": "2026-03-16",
+      "team": "Philadelphia Phillies",
+      "details": "CJordan Dissinassigned toPhiladelphia Phillies.",
+      "player": "Jordan Dissin"
+    },
+    {
+      "date": "2026-03-16",
+      "team": "Philadelphia Phillies",
+      "details": "CFJoel Dragooassigned toPhiladelphia Phillies.",
+      "player": "Joel Dragoo"
+    },
+    {
+      "date": "2026-03-16",
+      "team": "Los Angeles Angels",
+      "details": "2BMac McCroskeyassigned toLos Angeles Angels.",
+      "player": "Mac McCroskey"
+    },
+    {
+      "date": "2026-03-16",
+      "team": "Cincinnati Reds",
+      "details": "CIan Francisassigned toCincinnati Reds.",
+      "player": "Ian Francis"
+    },
+    {
+      "date": "2026-03-16",
+      "team": "New York Mets",
+      "details": "1BRoybert Herreraassigned toNew York Mets.",
+      "player": "Roybert Herrera"
+    },
+    {
+      "date": "2026-03-16",
       "team": "Miami Marlins",
       "details": "Miami Marlinsoptioned RHPGarrett Actonto Jacksonville Jumbo Shrimp.",
       "player": "Garrett Acton"
+    },
+    {
+      "date": "2026-03-16",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned 1BJustin Foscueto Round Rock Express.",
+      "player": "Justin Foscue"
+    },
+    {
+      "date": "2026-03-16",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPBradley Blalockto Jacksonville Jumbo Shrimp.",
+      "player": "Bradley Blalock"
+    },
+    {
+      "date": "2026-03-16",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPMarc Churchto Round Rock Express.",
+      "player": "Marc Church"
     },
     {
       "date": "2026-03-16",
@@ -168,12 +192,6 @@
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesoptioned 1BEnmanuel Valdezto Indianapolis Indians.",
       "player": "Enmanuel Valdez"
-    },
-    {
-      "date": "2026-03-16",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPBradley Blalockto Jacksonville Jumbo Shrimp.",
-      "player": "Bradley Blalock"
     }
   ]
 }
