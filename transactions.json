@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-03-17T13:41:57.854409",
+  "last_updated": "2026-03-17T15:04:53.296987",
   "transactions": [
+    {
+      "date": "2026-03-17",
+      "team": "Washington Nationals",
+      "details": "CDaniel Hernandezassigned toWashington Nationals.",
+      "player": "Daniel Hernandez"
+    },
+    {
+      "date": "2026-03-17",
+      "team": "Baltimore Orioles",
+      "details": "3BAnderson De Los Santosassigned toBaltimore Orioles.",
+      "player": "Anderson De Los Santos"
+    },
     {
       "date": "2026-03-17",
       "team": "Detroit Tigers",
@@ -21,6 +33,12 @@
     },
     {
       "date": "2026-03-17",
+      "team": "Philadelphia Phillies",
+      "details": "CGuillermo Rosarioassigned toPhiladelphia Phillies.",
+      "player": "Guillermo Rosario"
+    },
+    {
+      "date": "2026-03-17",
       "team": "Miami Marlins",
       "details": "SSCody Schrierassigned toMiami Marlins.",
       "player": "Cody Schrier"
@@ -33,15 +51,9 @@
     },
     {
       "date": "2026-03-17",
-      "team": "Detroit Tigers",
-      "details": "CBrady Cerkownykassigned toDetroit Tigers.",
-      "player": "Brady Cerkownyk"
-    },
-    {
-      "date": "2026-03-17",
-      "team": "Miami Marlins",
-      "details": "CAdrian Belloassigned toMiami Marlins.",
-      "player": "Adrian Bello"
+      "team": "Houston Astros",
+      "details": "2BYamal Encarnacionassigned toHouston Astros.",
+      "player": "Yamal Encarnacion"
     },
     {
       "date": "2026-03-17",
@@ -51,9 +63,57 @@
     },
     {
       "date": "2026-03-17",
-      "team": "Washington Nationals",
-      "details": "CDaniel Hernandezassigned toWashington Nationals.",
-      "player": "Daniel Hernandez"
+      "team": "Baltimore Orioles",
+      "details": "2BLeandro Ariasassigned toBaltimore Orioles.",
+      "player": "Leandro Arias"
+    },
+    {
+      "date": "2026-03-17",
+      "team": "Baltimore Orioles",
+      "details": "SSMaikol Hernándezassigned toBaltimore Orioles.",
+      "player": "Maikol Hernández"
+    },
+    {
+      "date": "2026-03-17",
+      "team": "Baltimore Orioles",
+      "details": "LHPBraeden Sloanassigned toBaltimore Orioles.",
+      "player": "Braeden Sloan"
+    },
+    {
+      "date": "2026-03-17",
+      "team": "Miami Marlins",
+      "details": "CAdrian Belloassigned toMiami Marlins.",
+      "player": "Adrian Bello"
+    },
+    {
+      "date": "2026-03-17",
+      "team": "Baltimore Orioles",
+      "details": "CFBraylin Taveraassigned toBaltimore Orioles.",
+      "player": "Braylin Tavera"
+    },
+    {
+      "date": "2026-03-17",
+      "team": "Baltimore Orioles",
+      "details": "2BElis Cuevasassigned toBaltimore Orioles.",
+      "player": "Elis Cuevas"
+    },
+    {
+      "date": "2026-03-17",
+      "team": "Detroit Tigers",
+      "details": "CBrady Cerkownykassigned toDetroit Tigers.",
+      "player": "Brady Cerkownyk"
+    },
+    {
+      "date": "2026-03-17",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned LFMJ Melendezto Syracuse Mets.",
+      "player": "MJ Melendez"
+    },
+    {
+      "date": "2026-03-17",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPChristian Scottto Syracuse Mets.",
+      "player": "Christian Scott"
     }
   ]
 }
