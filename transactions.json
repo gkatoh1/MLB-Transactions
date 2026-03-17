@@ -1,17 +1,41 @@
 {
-  "last_updated": "2026-03-17T22:41:48.950652",
+  "last_updated": "2026-03-17T23:39:18.406774",
   "transactions": [
     {
       "date": "2026-03-17",
-      "team": "Seattle Mariners",
-      "details": "OFBrayden Cornassigned toSeattle Mariners.",
-      "player": "Brayden Corn"
+      "team": "Baltimore Orioles",
+      "details": "SSMaikol Hernándezassigned toBaltimore Orioles.",
+      "player": "Maikol Hernández"
+    },
+    {
+      "date": "2026-03-17",
+      "team": "Miami Marlins",
+      "details": "SSCody Schrierassigned toMiami Marlins.",
+      "player": "Cody Schrier"
+    },
+    {
+      "date": "2026-03-17",
+      "team": "Atlanta Braves",
+      "details": "LHPJack Dashwoodassigned toAtlanta Braves.",
+      "player": "Jack Dashwood"
     },
     {
       "date": "2026-03-17",
       "team": "Seattle Mariners",
       "details": "RHPGunner Mayerassigned toSeattle Mariners.",
       "player": "Gunner Mayer"
+    },
+    {
+      "date": "2026-03-17",
+      "team": "Baltimore Orioles",
+      "details": "2BLeandro Ariasassigned toBaltimore Orioles.",
+      "player": "Leandro Arias"
+    },
+    {
+      "date": "2026-03-17",
+      "team": "Seattle Mariners",
+      "details": "OFBrayden Cornassigned toSeattle Mariners.",
+      "player": "Brayden Corn"
     },
     {
       "date": "2026-03-17",
@@ -45,15 +69,15 @@
     },
     {
       "date": "2026-03-17",
-      "team": "Baltimore Orioles",
-      "details": "2BLeandro Ariasassigned toBaltimore Orioles.",
-      "player": "Leandro Arias"
+      "team": "Washington Nationals",
+      "details": "CDaniel Hernandezassigned toWashington Nationals.",
+      "player": "Daniel Hernandez"
     },
     {
       "date": "2026-03-17",
-      "team": "Baltimore Orioles",
-      "details": "SSMaikol Hernándezassigned toBaltimore Orioles.",
-      "player": "Maikol Hernández"
+      "team": "Atlanta Braves",
+      "details": "LHPKyle Nelsonroster status changed byAtlanta Braves.",
+      "player": "Kyle Nelson"
     },
     {
       "date": "2026-03-17",
@@ -141,57 +165,21 @@
     },
     {
       "date": "2026-03-17",
-      "team": "Washington Nationals",
-      "details": "CDaniel Hernandezassigned toWashington Nationals.",
-      "player": "Daniel Hernandez"
-    },
-    {
-      "date": "2026-03-17",
-      "team": "Atlanta Braves",
-      "details": "LHPKyle Nelsonroster status changed byAtlanta Braves.",
-      "player": "Kyle Nelson"
-    },
-    {
-      "date": "2026-03-17",
-      "team": "Miami Marlins",
-      "details": "SSCody Schrierassigned toMiami Marlins.",
-      "player": "Cody Schrier"
-    },
-    {
-      "date": "2026-03-17",
-      "team": "Atlanta Braves",
-      "details": "LHPJack Dashwoodassigned toAtlanta Braves.",
-      "player": "Jack Dashwood"
-    },
-    {
-      "date": "2026-03-17",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RFJohn Raveto Omaha Storm Chasers.",
-      "player": "John Rave"
-    },
-    {
-      "date": "2026-03-17",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned 2BAdael Amadorto Albuquerque Isotopes.",
-      "player": "Adael Amador"
-    },
-    {
-      "date": "2026-03-17",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesoptioned RHPTanner Gordonto Albuquerque Isotopes.",
       "player": "Tanner Gordon"
     },
     {
       "date": "2026-03-17",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned LFMJ Melendezto Syracuse Mets.",
-      "player": "MJ Melendez"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned SSCarson Williamsto Durham Bulls.",
+      "player": "Carson Williams"
     },
     {
       "date": "2026-03-17",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned CFKameron Misnerto Omaha Storm Chasers.",
-      "player": "Kameron Misner"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPTy Adcockto El Paso Chihuahuas.",
+      "player": "Ty Adcock"
     },
     {
       "date": "2026-03-17",
@@ -201,9 +189,33 @@
     },
     {
       "date": "2026-03-17",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPChristian Scottto Syracuse Mets.",
-      "player": "Christian Scott"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned LHPEvan Siskto Indianapolis Indians.",
+      "player": "Evan Sisk"
+    },
+    {
+      "date": "2026-03-17",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned LFJacob Meltonto Durham Bulls.",
+      "player": "Jacob Melton"
+    },
+    {
+      "date": "2026-03-17",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned CFKameron Misnerto Omaha Storm Chasers.",
+      "player": "Kameron Misner"
+    },
+    {
+      "date": "2026-03-17",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned 2BAdael Amadorto Albuquerque Isotopes.",
+      "player": "Adael Amador"
+    },
+    {
+      "date": "2026-03-17",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RFJohn Raveto Omaha Storm Chasers.",
+      "player": "John Rave"
     },
     {
       "date": "2026-03-17",
@@ -213,9 +225,15 @@
     },
     {
       "date": "2026-03-17",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned LHPEvan Siskto Indianapolis Indians.",
-      "player": "Evan Sisk"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned LFMJ Melendezto Syracuse Mets.",
+      "player": "MJ Melendez"
+    },
+    {
+      "date": "2026-03-17",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPChristian Scottto Syracuse Mets.",
+      "player": "Christian Scott"
     }
   ]
 }
