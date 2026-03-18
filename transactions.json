@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-18T21:42:16.168459",
+  "last_updated": "2026-03-18T22:39:11.890704",
   "transactions": [
     {
       "date": "2026-03-18",
@@ -10,32 +10,14 @@
     {
       "date": "2026-03-18",
       "team": "Pittsburgh Pirates",
-      "details": "RFRaymond Molaassigned toPittsburgh Pirates.",
-      "player": "Raymond Mola"
+      "details": "3BCarlos Caroassigned toPittsburgh Pirates.",
+      "player": "Carlos Caro"
     },
     {
       "date": "2026-03-18",
-      "team": "Detroit Tigers",
-      "details": "SSJunior Tilienassigned toDetroit Tigers.",
-      "player": "Junior Tilien"
-    },
-    {
-      "date": "2026-03-18",
-      "team": "Philadelphia Phillies",
-      "details": "RFManolfi Jimenezassigned toPhiladelphia Phillies.",
-      "player": "Manolfi Jimenez"
-    },
-    {
-      "date": "2026-03-18",
-      "team": "Chicago Cubs",
-      "details": "OFEli Lovichassigned toChicago Cubs.",
-      "player": "Eli Lovich"
-    },
-    {
-      "date": "2026-03-18",
-      "team": "Pittsburgh Pirates",
-      "details": "OFEdgar Walkerassigned toPittsburgh Pirates.",
-      "player": "Edgar Walker"
+      "team": "Los Angeles Dodgers",
+      "details": "SSNico Perezassigned toLos Angeles Dodgers.",
+      "player": "Nico Perez"
     },
     {
       "date": "2026-03-18",
@@ -63,15 +45,21 @@
     },
     {
       "date": "2026-03-18",
-      "team": "Pittsburgh Pirates",
-      "details": "3BCarlos Caroassigned toPittsburgh Pirates.",
-      "player": "Carlos Caro"
+      "team": "Milwaukee Brewers",
+      "details": "CEric Martinezassigned toMilwaukee Brewers.",
+      "player": "Eric Martinez"
     },
     {
       "date": "2026-03-18",
-      "team": "Los Angeles Dodgers",
-      "details": "SSNico Perezassigned toLos Angeles Dodgers.",
-      "player": "Nico Perez"
+      "team": "Pittsburgh Pirates",
+      "details": "SSAdbiel Felizassigned toPittsburgh Pirates.",
+      "player": "Adbiel Feliz"
+    },
+    {
+      "date": "2026-03-18",
+      "team": "Los Angeles Angels",
+      "details": "RHPEybersson Polancoassigned toLos Angeles Angels.",
+      "player": "Eybersson Polanco"
     },
     {
       "date": "2026-03-18",
@@ -105,21 +93,33 @@
     },
     {
       "date": "2026-03-18",
-      "team": "Milwaukee Brewers",
-      "details": "CEric Martinezassigned toMilwaukee Brewers.",
-      "player": "Eric Martinez"
+      "team": "Pittsburgh Pirates",
+      "details": "RFRaymond Molaassigned toPittsburgh Pirates.",
+      "player": "Raymond Mola"
+    },
+    {
+      "date": "2026-03-18",
+      "team": "Detroit Tigers",
+      "details": "SSJunior Tilienassigned toDetroit Tigers.",
+      "player": "Junior Tilien"
+    },
+    {
+      "date": "2026-03-18",
+      "team": "Philadelphia Phillies",
+      "details": "RFManolfi Jimenezassigned toPhiladelphia Phillies.",
+      "player": "Manolfi Jimenez"
+    },
+    {
+      "date": "2026-03-18",
+      "team": "Chicago Cubs",
+      "details": "OFEli Lovichassigned toChicago Cubs.",
+      "player": "Eli Lovich"
     },
     {
       "date": "2026-03-18",
       "team": "Pittsburgh Pirates",
-      "details": "SSAdbiel Felizassigned toPittsburgh Pirates.",
-      "player": "Adbiel Feliz"
-    },
-    {
-      "date": "2026-03-18",
-      "team": "Los Angeles Angels",
-      "details": "RHPEybersson Polancoassigned toLos Angeles Angels.",
-      "player": "Eybersson Polanco"
+      "details": "OFEdgar Walkerassigned toPittsburgh Pirates.",
+      "player": "Edgar Walker"
     },
     {
       "date": "2026-03-18",
@@ -147,6 +147,12 @@
     },
     {
       "date": "2026-03-18",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersselected the contract of 3BSantiago Espinalfrom Oklahoma City Comets.",
+      "player": "Santiago Espinal"
+    },
+    {
+      "date": "2026-03-18",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsoptioned LHPCarson Whisenhuntto Sacramento River Cats.",
       "player": "Carson Whisenhunt"
@@ -159,15 +165,33 @@
     },
     {
       "date": "2026-03-18",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPJose Espadato Norfolk Tides.",
-      "player": "Jose Espada"
-    },
-    {
-      "date": "2026-03-18",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsoptioned CJesus Rodriguezto Sacramento River Cats.",
       "player": "Jesus Rodriguez"
+    },
+    {
+      "date": "2026-03-18",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPMitch Spenceto Omaha Storm Chasers.",
+      "player": "Mitch Spence"
+    },
+    {
+      "date": "2026-03-18",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned CBrandon Valenzuelato Buffalo Bisons.",
+      "player": "Brandon Valenzuela"
+    },
+    {
+      "date": "2026-03-18",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned CHarry Fordto Rochester Red Wings.",
+      "player": "Harry Ford"
+    },
+    {
+      "date": "2026-03-18",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPJose Espadato Norfolk Tides.",
+      "player": "Jose Espada"
     }
   ]
 }
