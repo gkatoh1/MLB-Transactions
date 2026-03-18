@@ -1,4 +1,47 @@
 {
-  "last_updated": "2026-03-18T13:43:47.197996",
-  "transactions": []
+  "last_updated": "2026-03-18T15:13:20.185838",
+  "transactions": [
+    {
+      "date": "2026-03-18",
+      "team": "Milwaukee Brewers",
+      "details": "CEric Martinezassigned toMilwaukee Brewers.",
+      "player": "Eric Martinez"
+    },
+    {
+      "date": "2026-03-18",
+      "team": "New York Yankees",
+      "details": "SSAustin Greenassigned toNew York Yankees.",
+      "player": "Austin Green"
+    },
+    {
+      "date": "2026-03-18",
+      "team": "New York Yankees",
+      "details": "SSConnor McGinnisassigned toNew York Yankees.",
+      "player": "Connor McGinnis"
+    },
+    {
+      "date": "2026-03-18",
+      "team": "Colorado Rockies",
+      "details": "RFAlessander De La Cruzassigned toColorado Rockies.",
+      "player": "Alessander De La Cruz"
+    },
+    {
+      "date": "2026-03-18",
+      "team": "Baltimore Orioles",
+      "details": "SSCarter Youngassigned toBaltimore Orioles.",
+      "player": "Carter Young"
+    },
+    {
+      "date": "2026-03-18",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPRichard Fittsto Memphis Redbirds.",
+      "player": "Richard Fitts"
+    },
+    {
+      "date": "2026-03-18",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPJose Espadato Norfolk Tides.",
+      "player": "Jose Espada"
+    }
+  ]
 }
