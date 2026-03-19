@@ -1,17 +1,65 @@
 {
-  "last_updated": "2026-03-19T19:09:11.471835",
+  "last_updated": "2026-03-19T20:49:27.818400",
   "transactions": [
     {
       "date": "2026-03-19",
-      "team": "Toronto Blue Jays",
-      "details": "2BEric Snowassigned toToronto Blue Jays.",
-      "player": "Eric Snow"
+      "team": "Tampa Bay Rays",
+      "details": "SSJose Monzonassigned toTampa Bay Rays.",
+      "player": "Jose Monzon"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "Boston Red Sox",
+      "details": "3BStarlyn Nunezroster status changed byBoston Red Sox.",
+      "player": "Starlyn Nunez"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "New York Yankees",
+      "details": "RHPJordarlin Mendozaassigned toNew York Yankees.",
+      "player": "Jordarlin Mendoza"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "Boston Red Sox",
+      "details": "3BStarlyn Nunezassigned toBoston Red Sox.",
+      "player": "Starlyn Nunez"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "Baltimore Orioles",
+      "details": "3BMax Wagnerassigned toBaltimore Orioles.",
+      "player": "Max Wagner"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "Washington Nationals",
+      "details": "RFTeo Banksassigned toWashington Nationals.",
+      "player": "Teo Banks"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "Tampa Bay Rays",
+      "details": "CFAlfonzo Martinezassigned toTampa Bay Rays.",
+      "player": "Alfonzo Martinez"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "New York Yankees",
+      "details": "OFIsael Ariasassigned toNew York Yankees.",
+      "player": "Isael Arias"
     },
     {
       "date": "2026-03-19",
       "team": "Pittsburgh Pirates",
       "details": "IFFredderick Ovalleassigned toPittsburgh Pirates.",
       "player": "Fredderick Ovalle"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned free agent RHPTommy Kahnleto a minor league contract and invited him to spring training.",
+      "player": "Tommy Kahnle"
     },
     {
       "date": "2026-03-19",
@@ -27,39 +75,9 @@
     },
     {
       "date": "2026-03-19",
-      "team": "Tampa Bay Rays",
-      "details": "SSJose Monzonassigned toTampa Bay Rays.",
-      "player": "Jose Monzon"
-    },
-    {
-      "date": "2026-03-19",
-      "team": "Tampa Bay Rays",
-      "details": "CFAlfonzo Martinezassigned toTampa Bay Rays.",
-      "player": "Alfonzo Martinez"
-    },
-    {
-      "date": "2026-03-19",
-      "team": "New York Yankees",
-      "details": "RHPJordarlin Mendozaassigned toNew York Yankees.",
-      "player": "Jordarlin Mendoza"
-    },
-    {
-      "date": "2026-03-19",
-      "team": "New York Yankees",
-      "details": "OFIsael Ariasassigned toNew York Yankees.",
-      "player": "Isael Arias"
-    },
-    {
-      "date": "2026-03-19",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsigned free agent RHPTommy Kahnleto a minor league contract and invited him to spring training.",
-      "player": "Tommy Kahnle"
-    },
-    {
-      "date": "2026-03-19",
-      "team": "Washington Nationals",
-      "details": "RFTeo Banksassigned toWashington Nationals.",
-      "player": "Teo Banks"
+      "team": "Toronto Blue Jays",
+      "details": "2BEric Snowassigned toToronto Blue Jays.",
+      "player": "Eric Snow"
     },
     {
       "date": "2026-03-19",
@@ -87,9 +105,9 @@
     },
     {
       "date": "2026-03-19",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned 1BEndy Rodríguezto Indianapolis Indians.",
-      "player": "Endy Rodríguez"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned 3BRonny Mauricioto Syracuse Mets.",
+      "player": "Ronny Mauricio"
     },
     {
       "date": "2026-03-19",
@@ -105,9 +123,9 @@
     },
     {
       "date": "2026-03-19",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned 3BRonny Mauricioto Syracuse Mets.",
-      "player": "Ronny Mauricio"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned 1BEndy Rodríguezto Indianapolis Indians.",
+      "player": "Endy Rodríguez"
     }
   ]
 }
