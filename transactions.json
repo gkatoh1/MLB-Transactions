@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-03-19T21:43:08.791041",
+  "last_updated": "2026-03-19T22:37:19.792259",
   "transactions": [
+    {
+      "date": "2026-03-19",
+      "team": "Toronto Blue Jays",
+      "details": "2BEric Snowassigned toToronto Blue Jays.",
+      "player": "Eric Snow"
+    },
     {
       "date": "2026-03-19",
       "team": "St. Louis Cardinals",
@@ -21,39 +27,21 @@
     },
     {
       "date": "2026-03-19",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsigned free agent RHPTommy Kahnleto a minor league contract and invited him to spring training.",
-      "player": "Tommy Kahnle"
+      "team": "New York Yankees",
+      "details": "LHPXavier Rivasassigned toNew York Yankees.",
+      "player": "Xavier Rivas"
     },
     {
       "date": "2026-03-19",
-      "team": "Washington Nationals",
-      "details": "RFTeo Banksassigned toWashington Nationals.",
-      "player": "Teo Banks"
+      "team": "Toronto Blue Jays",
+      "details": "1BJuan Yepezassigned toToronto Blue Jays.",
+      "player": "Juan Yepez"
     },
     {
       "date": "2026-03-19",
       "team": "Boston Red Sox",
       "details": "3BStarlyn Nunezroster status changed byBoston Red Sox.",
       "player": "Starlyn Nunez"
-    },
-    {
-      "date": "2026-03-19",
-      "team": "New York Yankees",
-      "details": "RHPJordarlin Mendozaassigned toNew York Yankees.",
-      "player": "Jordarlin Mendoza"
-    },
-    {
-      "date": "2026-03-19",
-      "team": "Boston Red Sox",
-      "details": "3BStarlyn Nunezassigned toBoston Red Sox.",
-      "player": "Starlyn Nunez"
-    },
-    {
-      "date": "2026-03-19",
-      "team": "Baltimore Orioles",
-      "details": "3BMax Wagnerassigned toBaltimore Orioles.",
-      "player": "Max Wagner"
     },
     {
       "date": "2026-03-19",
@@ -75,9 +63,33 @@
     },
     {
       "date": "2026-03-19",
-      "team": "Toronto Blue Jays",
-      "details": "2BEric Snowassigned toToronto Blue Jays.",
-      "player": "Eric Snow"
+      "team": "Washington Nationals",
+      "details": "RFTeo Banksassigned toWashington Nationals.",
+      "player": "Teo Banks"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "New York Yankees",
+      "details": "RHPJordarlin Mendozaassigned toNew York Yankees.",
+      "player": "Jordarlin Mendoza"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "Boston Red Sox",
+      "details": "3BStarlyn Nunezassigned toBoston Red Sox.",
+      "player": "Starlyn Nunez"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "Baltimore Orioles",
+      "details": "3BMax Wagnerassigned toBaltimore Orioles.",
+      "player": "Max Wagner"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned free agent RHPTommy Kahnleto a minor league contract and invited him to spring training.",
+      "player": "Tommy Kahnle"
     },
     {
       "date": "2026-03-19",
@@ -105,18 +117,6 @@
     },
     {
       "date": "2026-03-19",
-      "team": "New York Yankees",
-      "details": "LHPXavier Rivasassigned toNew York Yankees.",
-      "player": "Xavier Rivas"
-    },
-    {
-      "date": "2026-03-19",
-      "team": "Toronto Blue Jays",
-      "details": "1BJuan Yepezassigned toToronto Blue Jays.",
-      "player": "Juan Yepez"
-    },
-    {
-      "date": "2026-03-19",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned 1BNick Sogardto Worcester Red Sox.",
       "player": "Nick Sogard"
@@ -124,8 +124,20 @@
     {
       "date": "2026-03-19",
       "team": "New York Mets",
+      "details": "New York Metsoptioned 3BRonny Mauricioto Syracuse Mets.",
+      "player": "Ronny Mauricio"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "New York Mets",
       "details": "New York Metsoptioned RHPJoey Gerberto Syracuse Mets.",
       "player": "Joey Gerber"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned SSTsung-Che Chengto Worcester Red Sox.",
+      "player": "Tsung-Che Cheng"
     },
     {
       "date": "2026-03-19",
@@ -138,18 +150,6 @@
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPAngel Chivillito Scranton/Wilkes-Barre RailRiders.",
       "player": "Angel Chivilli"
-    },
-    {
-      "date": "2026-03-19",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned SSTsung-Che Chengto Worcester Red Sox.",
-      "player": "Tsung-Che Cheng"
-    },
-    {
-      "date": "2026-03-19",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned 3BRonny Mauricioto Syracuse Mets.",
-      "player": "Ronny Mauricio"
     }
   ]
 }
