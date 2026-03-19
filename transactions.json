@@ -1,47 +1,17 @@
 {
-  "last_updated": "2026-03-19T17:55:20.247992",
+  "last_updated": "2026-03-19T19:09:11.471835",
   "transactions": [
     {
       "date": "2026-03-19",
-      "team": "Tampa Bay Rays",
-      "details": "CFAlfonzo Martinezassigned toTampa Bay Rays.",
-      "player": "Alfonzo Martinez"
+      "team": "Toronto Blue Jays",
+      "details": "2BEric Snowassigned toToronto Blue Jays.",
+      "player": "Eric Snow"
     },
     {
       "date": "2026-03-19",
-      "team": "Philadelphia Phillies",
-      "details": "CCesar Mujicaassigned toPhiladelphia Phillies.",
-      "player": "Cesar Mujica"
-    },
-    {
-      "date": "2026-03-19",
-      "team": "Tampa Bay Rays",
-      "details": "SSCarlos Colmenarezassigned toTampa Bay Rays.",
-      "player": "Carlos Colmenarez"
-    },
-    {
-      "date": "2026-03-19",
-      "team": "New York Yankees",
-      "details": "RHPJordarlin Mendozaassigned toNew York Yankees.",
-      "player": "Jordarlin Mendoza"
-    },
-    {
-      "date": "2026-03-19",
-      "team": "New York Yankees",
-      "details": "OFIsael Ariasassigned toNew York Yankees.",
-      "player": "Isael Arias"
-    },
-    {
-      "date": "2026-03-19",
-      "team": "St. Louis Cardinals",
-      "details": "LHPBraden Davisassigned toSt. Louis Cardinals.",
-      "player": "Braden Davis"
-    },
-    {
-      "date": "2026-03-19",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsigned free agent RHPTommy Kahnleto a minor league contract and invited him to spring training.",
-      "player": "Tommy Kahnle"
+      "team": "Pittsburgh Pirates",
+      "details": "IFFredderick Ovalleassigned toPittsburgh Pirates.",
+      "player": "Fredderick Ovalle"
     },
     {
       "date": "2026-03-19",
@@ -57,9 +27,33 @@
     },
     {
       "date": "2026-03-19",
-      "team": "Toronto Blue Jays",
-      "details": "2BEric Snowassigned toToronto Blue Jays.",
-      "player": "Eric Snow"
+      "team": "Tampa Bay Rays",
+      "details": "SSJose Monzonassigned toTampa Bay Rays.",
+      "player": "Jose Monzon"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "Tampa Bay Rays",
+      "details": "CFAlfonzo Martinezassigned toTampa Bay Rays.",
+      "player": "Alfonzo Martinez"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "New York Yankees",
+      "details": "RHPJordarlin Mendozaassigned toNew York Yankees.",
+      "player": "Jordarlin Mendoza"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "New York Yankees",
+      "details": "OFIsael Ariasassigned toNew York Yankees.",
+      "player": "Isael Arias"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned free agent RHPTommy Kahnleto a minor league contract and invited him to spring training.",
+      "player": "Tommy Kahnle"
     },
     {
       "date": "2026-03-19",
@@ -69,15 +63,51 @@
     },
     {
       "date": "2026-03-19",
+      "team": "St. Louis Cardinals",
+      "details": "LHPBraden Davisassigned toSt. Louis Cardinals.",
+      "player": "Braden Davis"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "Philadelphia Phillies",
+      "details": "CCesar Mujicaassigned toPhiladelphia Phillies.",
+      "player": "Cesar Mujica"
+    },
+    {
+      "date": "2026-03-19",
       "team": "Tampa Bay Rays",
-      "details": "SSJose Monzonassigned toTampa Bay Rays.",
-      "player": "Jose Monzon"
+      "details": "SSCarlos Colmenarezassigned toTampa Bay Rays.",
+      "player": "Carlos Colmenarez"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned SSTsung-Che Chengto Worcester Red Sox.",
+      "player": "Tsung-Che Cheng"
     },
     {
       "date": "2026-03-19",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesoptioned 1BEndy Rodríguezto Indianapolis Indians.",
       "player": "Endy Rodríguez"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJoey Gerberto Syracuse Mets.",
+      "player": "Joey Gerber"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned 1BNick Sogardto Worcester Red Sox.",
+      "player": "Nick Sogard"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned 3BRonny Mauricioto Syracuse Mets.",
+      "player": "Ronny Mauricio"
     }
   ]
 }
