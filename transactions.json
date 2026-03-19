@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-03-19T13:24:03.863588",
+  "last_updated": "2026-03-19T14:56:45.412759",
   "transactions": [
+    {
+      "date": "2026-03-19",
+      "team": "Washington Nationals",
+      "details": "RFTeo Banksassigned toWashington Nationals.",
+      "player": "Teo Banks"
+    },
     {
       "date": "2026-03-19",
       "team": "St. Louis Cardinals",
       "details": "LHPBraden Davisassigned toSt. Louis Cardinals.",
       "player": "Braden Davis"
+    },
+    {
+      "date": "2026-03-19",
+      "team": "Philadelphia Phillies",
+      "details": "CCesar Mujicaassigned toPhiladelphia Phillies.",
+      "player": "Cesar Mujica"
     }
   ]
 }
