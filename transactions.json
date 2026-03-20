@@ -1,11 +1,41 @@
 {
-  "last_updated": "2026-03-20T13:17:21.043193",
+  "last_updated": "2026-03-20T14:52:04.244518",
   "transactions": [
+    {
+      "date": "2026-03-20",
+      "team": "St. Louis Cardinals",
+      "details": "OFYaxson Lucenaassigned toSt. Louis Cardinals.",
+      "player": "Yaxson Lucena"
+    },
+    {
+      "date": "2026-03-20",
+      "team": "Boston Red Sox",
+      "details": "LHPEduardo Riveraassigned toBoston Red Sox.",
+      "player": "Eduardo Rivera"
+    },
+    {
+      "date": "2026-03-20",
+      "team": "St. Louis Cardinals",
+      "details": "SSSebastian Dos Santosassigned toSt. Louis Cardinals.",
+      "player": "Sebastian Dos Santos"
+    },
     {
       "date": "2026-03-20",
       "team": "Boston Red Sox",
       "details": "RHPBlake Wehuntassigned toBoston Red Sox.",
       "player": "Blake Wehunt"
+    },
+    {
+      "date": "2026-03-20",
+      "team": "Philadelphia Phillies",
+      "details": "OFJohn Spikermanassigned toPhiladelphia Phillies.",
+      "player": "John Spikerman"
+    },
+    {
+      "date": "2026-03-20",
+      "team": "Philadelphia Phillies",
+      "details": "LHPCristhian Tortosaassigned toPhiladelphia Phillies.",
+      "player": "Cristhian Tortosa"
     }
   ]
 }
