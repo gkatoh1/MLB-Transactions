@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T15:51:49.538922",
+  "last_updated": "2026-03-20T16:54:51.025529",
   "transactions": [
     {
       "date": "2026-03-20",
@@ -27,12 +27,6 @@
     },
     {
       "date": "2026-03-20",
-      "team": "Boston Red Sox",
-      "details": "RHPBlake Wehuntassigned toBoston Red Sox.",
-      "player": "Blake Wehunt"
-    },
-    {
-      "date": "2026-03-20",
       "team": "St. Louis Cardinals",
       "details": "OFYaxson Lucenaassigned toSt. Louis Cardinals.",
       "player": "Yaxson Lucena"
@@ -42,6 +36,18 @@
       "team": "Philadelphia Phillies",
       "details": "LHPCristhian Tortosaassigned toPhiladelphia Phillies.",
       "player": "Cristhian Tortosa"
+    },
+    {
+      "date": "2026-03-20",
+      "team": "Boston Red Sox",
+      "details": "RHPBlake Wehuntassigned toBoston Red Sox.",
+      "player": "Blake Wehunt"
+    },
+    {
+      "date": "2026-03-20",
+      "team": "Atlanta Braves",
+      "details": "OFLogan Braunschweigassigned toAtlanta Braves.",
+      "player": "Logan Braunschweig"
     }
   ]
 }
