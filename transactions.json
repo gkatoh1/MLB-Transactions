@@ -1,47 +1,11 @@
 {
-  "last_updated": "2026-03-20T20:41:43.918130",
+  "last_updated": "2026-03-20T21:37:43.581404",
   "transactions": [
     {
       "date": "2026-03-20",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsreleased LHPAndrew Chafin.",
-      "player": "Andrew Chafin"
-    },
-    {
-      "date": "2026-03-20",
-      "team": "St. Louis Cardinals",
-      "details": "SSSebastian Dos Santosassigned toSt. Louis Cardinals.",
-      "player": "Sebastian Dos Santos"
-    },
-    {
-      "date": "2026-03-20",
-      "team": "New York Yankees",
-      "details": "OFKyle Westassigned toNew York Yankees.",
-      "player": "Kyle West"
-    },
-    {
-      "date": "2026-03-20",
-      "team": "Los Angeles Angels",
-      "details": "CJ.J. D'Orazioassigned toLos Angeles Angels.",
-      "player": "J.J. D'Orazio"
-    },
-    {
-      "date": "2026-03-20",
-      "team": "Chicago White Sox",
-      "details": "3BAlec Makarewiczassigned toChicago White Sox.",
-      "player": "Alec Makarewicz"
-    },
-    {
-      "date": "2026-03-20",
-      "team": "Philadelphia Phillies",
-      "details": "OFJohn Spikermanassigned toPhiladelphia Phillies.",
-      "player": "John Spikerman"
-    },
-    {
-      "date": "2026-03-20",
-      "team": "St. Louis Cardinals",
-      "details": "OFYaxson Lucenaassigned toSt. Louis Cardinals.",
-      "player": "Yaxson Lucena"
+      "team": "Pittsburgh Pirates",
+      "details": "CJavier Acevedoassigned toPittsburgh Pirates.",
+      "player": "Javier Acevedo"
     },
     {
       "date": "2026-03-20",
@@ -63,21 +27,39 @@
     },
     {
       "date": "2026-03-20",
-      "team": "New York Mets",
-      "details": "RHPTyler McLoughlinassigned toNew York Mets.",
-      "player": "Tyler McLoughlin"
+      "team": "Pittsburgh Pirates",
+      "details": "OFEddie King Jr.assigned toPittsburgh Pirates.",
+      "player": "Eddie King Jr."
     },
     {
       "date": "2026-03-20",
-      "team": "Boston Red Sox",
-      "details": "RHPBlake Wehuntassigned toBoston Red Sox.",
-      "player": "Blake Wehunt"
+      "team": "New York Yankees",
+      "details": "OFKyle Westassigned toNew York Yankees.",
+      "player": "Kyle West"
+    },
+    {
+      "date": "2026-03-20",
+      "team": "St. Louis Cardinals",
+      "details": "OFYaxson Lucenaassigned toSt. Louis Cardinals.",
+      "player": "Yaxson Lucena"
     },
     {
       "date": "2026-03-20",
       "team": "Los Angeles Angels",
-      "details": "CFEdwardo Espinalassigned toLos Angeles Angels.",
-      "player": "Edwardo Espinal"
+      "details": "CJ.J. D'Orazioassigned toLos Angeles Angels.",
+      "player": "J.J. D'Orazio"
+    },
+    {
+      "date": "2026-03-20",
+      "team": "Chicago White Sox",
+      "details": "3BAlec Makarewiczassigned toChicago White Sox.",
+      "player": "Alec Makarewicz"
+    },
+    {
+      "date": "2026-03-20",
+      "team": "New York Mets",
+      "details": "RHPTyler McLoughlinassigned toNew York Mets.",
+      "player": "Tyler McLoughlin"
     },
     {
       "date": "2026-03-20",
@@ -111,15 +93,45 @@
     },
     {
       "date": "2026-03-20",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned LFRichie Palaciosto Durham Bulls.",
-      "player": "Richie Palacios"
+      "team": "Boston Red Sox",
+      "details": "RHPBlake Wehuntassigned toBoston Red Sox.",
+      "player": "Blake Wehunt"
+    },
+    {
+      "date": "2026-03-20",
+      "team": "Los Angeles Angels",
+      "details": "CFEdwardo Espinalassigned toLos Angeles Angels.",
+      "player": "Edwardo Espinal"
     },
     {
       "date": "2026-03-20",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPZebby Matthewsto St. Paul Saints.",
-      "player": "Zebby Matthews"
+      "details": "Minnesota Twinsreleased LHPAndrew Chafin.",
+      "player": "Andrew Chafin"
+    },
+    {
+      "date": "2026-03-20",
+      "team": "Pittsburgh Pirates",
+      "details": "SSMatt Kingassigned toPittsburgh Pirates.",
+      "player": "Matt King"
+    },
+    {
+      "date": "2026-03-20",
+      "team": "Philadelphia Phillies",
+      "details": "OFJohn Spikermanassigned toPhiladelphia Phillies.",
+      "player": "John Spikerman"
+    },
+    {
+      "date": "2026-03-20",
+      "team": "St. Louis Cardinals",
+      "details": "SSSebastian Dos Santosassigned toSt. Louis Cardinals.",
+      "player": "Sebastian Dos Santos"
+    },
+    {
+      "date": "2026-03-20",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned LFRichie Palaciosto Durham Bulls.",
+      "player": "Richie Palacios"
     },
     {
       "date": "2026-03-20",
@@ -132,6 +144,12 @@
       "team": "Miami Marlins",
       "details": "Miami Marlinsoptioned LHPBraxton Garrettto Jacksonville Jumbo Shrimp.",
       "player": "Braxton Garrett"
+    },
+    {
+      "date": "2026-03-20",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPZebby Matthewsto St. Paul Saints.",
+      "player": "Zebby Matthews"
     }
   ]
 }
