@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-03-21T14:34:37.649144",
+  "last_updated": "2026-03-21T15:33:50.886418",
   "transactions": [
     {
       "date": "2026-03-21",
-      "team": "New York Mets",
-      "details": "RHPJoander Suarezassigned toNew York Mets.",
-      "player": "Joander Suarez"
+      "team": "Pittsburgh Pirates",
+      "details": "RHPDraven Zeiglerassigned toPittsburgh Pirates.",
+      "player": "Draven Zeigler"
     },
     {
       "date": "2026-03-21",
@@ -15,15 +15,39 @@
     },
     {
       "date": "2026-03-21",
-      "team": "Pittsburgh Pirates",
-      "details": "OFCristian Jaureguiassigned toPittsburgh Pirates.",
-      "player": "Cristian Jauregui"
+      "team": "Tampa Bay Rays",
+      "details": "RHPMason Nicholsassigned toTampa Bay Rays.",
+      "player": "Mason Nichols"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Philadelphia Phillies",
+      "details": "OFVictor Cardozaassigned toPhiladelphia Phillies.",
+      "player": "Victor Cardoza"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Minnesota Twins",
+      "details": "OFMerphy Hernandezassigned toMinnesota Twins.",
+      "player": "Merphy Hernandez"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "New York Mets",
+      "details": "RHPJoander Suarezassigned toNew York Mets.",
+      "player": "Joander Suarez"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Philadelphia Phillies",
+      "details": "RHPRyan Cusickassigned toPhiladelphia Phillies.",
+      "player": "Ryan Cusick"
     },
     {
       "date": "2026-03-21",
       "team": "Pittsburgh Pirates",
-      "details": "RHPDraven Zeiglerassigned toPittsburgh Pirates.",
-      "player": "Draven Zeigler"
+      "details": "OFCristian Jaureguiassigned toPittsburgh Pirates.",
+      "player": "Cristian Jauregui"
     },
     {
       "date": "2026-03-21",
@@ -39,15 +63,27 @@
     },
     {
       "date": "2026-03-21",
-      "team": "Tampa Bay Rays",
-      "details": "RHPMason Nicholsassigned toTampa Bay Rays.",
-      "player": "Mason Nichols"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
+      "player": "Hayden Senger"
     },
     {
       "date": "2026-03-21",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned 2BKristian Campbellto Worcester Red Sox.",
       "player": "Kristian Campbell"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned LFTyler Callihanto Indianapolis Indians.",
+      "player": "Tyler Callihan"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned CFJhostynxon Garciato Indianapolis Indians.",
+      "player": "Jhostynxon Garcia"
     }
   ]
 }
