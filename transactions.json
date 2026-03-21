@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T17:32:17.445992",
+  "last_updated": "2026-03-21T18:48:24.074728",
   "transactions": [
     {
       "date": "2026-03-21",
@@ -9,21 +9,15 @@
     },
     {
       "date": "2026-03-21",
-      "team": "Houston Astros",
-      "details": "RHPDylan Howardassigned toHouston Astros.",
-      "player": "Dylan Howard"
+      "team": "Tampa Bay Rays",
+      "details": "RHPMason Nicholsassigned toTampa Bay Rays.",
+      "player": "Mason Nichols"
     },
     {
       "date": "2026-03-21",
-      "team": "New York Mets",
-      "details": "RHPParker Carlsonassigned toNew York Mets.",
-      "player": "Parker Carlson"
-    },
-    {
-      "date": "2026-03-21",
-      "team": "Houston Astros",
-      "details": "RHPFrancisco Friasassigned toHouston Astros.",
-      "player": "Francisco Frias"
+      "team": "Philadelphia Phillies",
+      "details": "OFVictor Cardozaassigned toPhiladelphia Phillies.",
+      "player": "Victor Cardoza"
     },
     {
       "date": "2026-03-21",
@@ -51,15 +45,39 @@
     },
     {
       "date": "2026-03-21",
-      "team": "Houston Astros",
-      "details": "RHPEurys Martichassigned toHouston Astros.",
-      "player": "Eurys Martich"
+      "team": "Philadelphia Phillies",
+      "details": "RHPRyan Cusickassigned toPhiladelphia Phillies.",
+      "player": "Ryan Cusick"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Colorado Rockies",
+      "details": "SSKamuel Villarassigned toColorado Rockies.",
+      "player": "Kamuel Villar"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Cleveland Guardians",
+      "details": "RHPWes Burtonassigned toCleveland Guardians.",
+      "player": "Wes Burton"
     },
     {
       "date": "2026-03-21",
       "team": "Houston Astros",
-      "details": "RHPCharlie Weberassigned toHouston Astros.",
-      "player": "Charlie Weber"
+      "details": "RHPDylan Howardassigned toHouston Astros.",
+      "player": "Dylan Howard"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "New York Mets",
+      "details": "RHPParker Carlsonassigned toNew York Mets.",
+      "player": "Parker Carlson"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Houston Astros",
+      "details": "RHPFrancisco Friasassigned toHouston Astros.",
+      "player": "Francisco Frias"
     },
     {
       "date": "2026-03-21",
@@ -81,12 +99,6 @@
     },
     {
       "date": "2026-03-21",
-      "team": "Philadelphia Phillies",
-      "details": "RHPRyan Cusickassigned toPhiladelphia Phillies.",
-      "player": "Ryan Cusick"
-    },
-    {
-      "date": "2026-03-21",
       "team": "Pittsburgh Pirates",
       "details": "OFCristian Jaureguiassigned toPittsburgh Pirates.",
       "player": "Cristian Jauregui"
@@ -96,6 +108,30 @@
       "team": "Houston Astros",
       "details": "OFDJ Newmanassigned toHouston Astros.",
       "player": "DJ Newman"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Houston Astros",
+      "details": "RHPEurys Martichassigned toHouston Astros.",
+      "player": "Eurys Martich"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Houston Astros",
+      "details": "RHPCharlie Weberassigned toHouston Astros.",
+      "player": "Charlie Weber"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Cleveland Guardians",
+      "details": "IFRandy Martinezassigned toCleveland Guardians.",
+      "player": "Randy Martinez"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "New York Mets",
+      "details": "RHPWill Watsonassigned toNew York Mets.",
+      "player": "Will Watson"
     },
     {
       "date": "2026-03-21",
@@ -111,21 +147,9 @@
     },
     {
       "date": "2026-03-21",
-      "team": "Tampa Bay Rays",
-      "details": "RHPMason Nicholsassigned toTampa Bay Rays.",
-      "player": "Mason Nichols"
-    },
-    {
-      "date": "2026-03-21",
-      "team": "Philadelphia Phillies",
-      "details": "OFVictor Cardozaassigned toPhiladelphia Phillies.",
-      "player": "Victor Cardoza"
-    },
-    {
-      "date": "2026-03-21",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned 3BOswaldo Cabrerato Scranton/Wilkes-Barre RailRiders.",
-      "player": "Oswaldo Cabrera"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPDean Kremerto Norfolk Tides.",
+      "player": "Dean Kremer"
     },
     {
       "date": "2026-03-21",
@@ -156,6 +180,12 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned 2BKristian Campbellto Worcester Red Sox.",
       "player": "Kristian Campbell"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned 3BOswaldo Cabrerato Scranton/Wilkes-Barre RailRiders.",
+      "player": "Oswaldo Cabrera"
     }
   ]
 }
