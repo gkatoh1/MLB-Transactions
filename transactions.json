@@ -1,17 +1,29 @@
 {
-  "last_updated": "2026-03-21T16:39:22.389557",
+  "last_updated": "2026-03-21T17:32:17.445992",
   "transactions": [
     {
       "date": "2026-03-21",
-      "team": "Houston Astros",
-      "details": "RHPEurys Martichassigned toHouston Astros.",
-      "player": "Eurys Martich"
+      "team": "Pittsburgh Pirates",
+      "details": "RHPDraven Zeiglerassigned toPittsburgh Pirates.",
+      "player": "Draven Zeigler"
     },
     {
       "date": "2026-03-21",
       "team": "Houston Astros",
-      "details": "RHPCharlie Weberassigned toHouston Astros.",
-      "player": "Charlie Weber"
+      "details": "RHPDylan Howardassigned toHouston Astros.",
+      "player": "Dylan Howard"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "New York Mets",
+      "details": "RHPParker Carlsonassigned toNew York Mets.",
+      "player": "Parker Carlson"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Houston Astros",
+      "details": "RHPFrancisco Friasassigned toHouston Astros.",
+      "player": "Francisco Frias"
     },
     {
       "date": "2026-03-21",
@@ -40,20 +52,14 @@
     {
       "date": "2026-03-21",
       "team": "Houston Astros",
-      "details": "RHPDylan Howardassigned toHouston Astros.",
-      "player": "Dylan Howard"
-    },
-    {
-      "date": "2026-03-21",
-      "team": "New York Mets",
-      "details": "RHPParker Carlsonassigned toNew York Mets.",
-      "player": "Parker Carlson"
+      "details": "RHPEurys Martichassigned toHouston Astros.",
+      "player": "Eurys Martich"
     },
     {
       "date": "2026-03-21",
       "team": "Houston Astros",
-      "details": "RHPFrancisco Friasassigned toHouston Astros.",
-      "player": "Francisco Frias"
+      "details": "RHPCharlie Weberassigned toHouston Astros.",
+      "player": "Charlie Weber"
     },
     {
       "date": "2026-03-21",
@@ -93,12 +99,6 @@
     },
     {
       "date": "2026-03-21",
-      "team": "Pittsburgh Pirates",
-      "details": "RHPDraven Zeiglerassigned toPittsburgh Pirates.",
-      "player": "Draven Zeigler"
-    },
-    {
-      "date": "2026-03-21",
       "team": "Miami Marlins",
       "details": "SSPayton Greenassigned toMiami Marlins.",
       "player": "Payton Green"
@@ -123,15 +123,21 @@
     },
     {
       "date": "2026-03-21",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned 2BKristian Campbellto Worcester Red Sox.",
-      "player": "Kristian Campbell"
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned 3BOswaldo Cabrerato Scranton/Wilkes-Barre RailRiders.",
+      "player": "Oswaldo Cabrera"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned 3BMax Schuemannto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Max Schuemann"
     },
     {
       "date": "2026-03-21",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned CFJhostynxon Garciato Indianapolis Indians.",
-      "player": "Jhostynxon Garcia"
+      "details": "Pittsburgh Piratesoptioned LFTyler Callihanto Indianapolis Indians.",
+      "player": "Tyler Callihan"
     },
     {
       "date": "2026-03-21",
@@ -142,8 +148,14 @@
     {
       "date": "2026-03-21",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned LFTyler Callihanto Indianapolis Indians.",
-      "player": "Tyler Callihan"
+      "details": "Pittsburgh Piratesoptioned CFJhostynxon Garciato Indianapolis Indians.",
+      "player": "Jhostynxon Garcia"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned 2BKristian Campbellto Worcester Red Sox.",
+      "player": "Kristian Campbell"
     }
   ]
 }
