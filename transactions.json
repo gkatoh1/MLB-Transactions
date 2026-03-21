@@ -1,4 +1,53 @@
 {
-  "last_updated": "2026-03-21T13:06:15.605578",
-  "transactions": []
+  "last_updated": "2026-03-21T14:34:37.649144",
+  "transactions": [
+    {
+      "date": "2026-03-21",
+      "team": "New York Mets",
+      "details": "RHPJoander Suarezassigned toNew York Mets.",
+      "player": "Joander Suarez"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Miami Marlins",
+      "details": "3BTony Bullardassigned toMiami Marlins.",
+      "player": "Tony Bullard"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Pittsburgh Pirates",
+      "details": "OFCristian Jaureguiassigned toPittsburgh Pirates.",
+      "player": "Cristian Jauregui"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Pittsburgh Pirates",
+      "details": "RHPDraven Zeiglerassigned toPittsburgh Pirates.",
+      "player": "Draven Zeigler"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Miami Marlins",
+      "details": "SSPayton Greenassigned toMiami Marlins.",
+      "player": "Payton Green"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Tampa Bay Rays",
+      "details": "RHPJackson Baumeisterassigned toTampa Bay Rays.",
+      "player": "Jackson Baumeister"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Tampa Bay Rays",
+      "details": "RHPMason Nicholsassigned toTampa Bay Rays.",
+      "player": "Mason Nichols"
+    },
+    {
+      "date": "2026-03-21",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned 2BKristian Campbellto Worcester Red Sox.",
+      "player": "Kristian Campbell"
+    }
+  ]
 }
