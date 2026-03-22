@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-03-22T14:35:53.047466",
+  "last_updated": "2026-03-22T15:33:38.168583",
   "transactions": [
     {
       "date": "2026-03-22",
-      "team": "St. Louis Cardinals",
-      "details": "CFFacundo Velásquezassigned toSt. Louis Cardinals.",
-      "player": "Facundo Velásquez"
+      "team": "Pittsburgh Pirates",
+      "details": "SSGustavo Melendezassigned toPittsburgh Pirates.",
+      "player": "Gustavo Melendez"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Pittsburgh Pirates",
+      "details": "SSDarell Morelassigned toPittsburgh Pirates.",
+      "player": "Darell Morel"
     },
     {
       "date": "2026-03-22",
@@ -16,8 +22,26 @@
     {
       "date": "2026-03-22",
       "team": "St. Louis Cardinals",
+      "details": "CFFacundo Velásquezassigned toSt. Louis Cardinals.",
+      "player": "Facundo Velásquez"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "St. Louis Cardinals",
       "details": "3BJohnfrank Salazarassigned toSt. Louis Cardinals.",
       "player": "Johnfrank Salazar"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned CRafael Flores Jr.to Indianapolis Indians.",
+      "player": "Rafael Flores Jr."
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPCam Sandersto Indianapolis Indians.",
+      "player": "Cam Sanders"
     }
   ]
 }
