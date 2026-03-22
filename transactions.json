@@ -1,83 +1,23 @@
 {
-  "last_updated": "2026-03-22T20:37:11.608854",
+  "last_updated": "2026-03-22T21:33:46.543845",
   "transactions": [
     {
       "date": "2026-03-22",
-      "team": "St. Louis Cardinals",
-      "details": "SSMiguel Hernándezassigned toSt. Louis Cardinals.",
-      "player": "Miguel Hernández"
-    },
-    {
-      "date": "2026-03-22",
-      "team": "Pittsburgh Pirates",
-      "details": "SSGustavo Melendezassigned toPittsburgh Pirates.",
-      "player": "Gustavo Melendez"
-    },
-    {
-      "date": "2026-03-22",
-      "team": "Philadelphia Phillies",
-      "details": "2BJose Colmenaresassigned toPhiladelphia Phillies.",
-      "player": "Jose Colmenares"
-    },
-    {
-      "date": "2026-03-22",
       "team": "Milwaukee Brewers",
-      "details": "LHPJose Menesesassigned toMilwaukee Brewers.",
-      "player": "Jose Meneses"
+      "details": "RFKay-Lan Nicasiaassigned toMilwaukee Brewers.",
+      "player": "Kay-Lan Nicasia"
     },
     {
       "date": "2026-03-22",
-      "team": "Milwaukee Brewers",
-      "details": "2BJadyn Fielderassigned toMilwaukee Brewers.",
-      "player": "Jadyn Fielder"
-    },
-    {
-      "date": "2026-03-22",
-      "team": "Colorado Rockies",
-      "details": "RHPNathan Blasickassigned toColorado Rockies.",
-      "player": "Nathan Blasick"
-    },
-    {
-      "date": "2026-03-22",
-      "team": "Milwaukee Brewers",
-      "details": "LHPAnfernny Reyesassigned toMilwaukee Brewers.",
-      "player": "Anfernny Reyes"
-    },
-    {
-      "date": "2026-03-22",
-      "team": "St. Louis Cardinals",
-      "details": "3BJohnfrank Salazarassigned toSt. Louis Cardinals.",
-      "player": "Johnfrank Salazar"
-    },
-    {
-      "date": "2026-03-22",
-      "team": "Chicago Cubs",
-      "details": "RHPEthan Bellassigned toChicago Cubs.",
-      "player": "Ethan Bell"
-    },
-    {
-      "date": "2026-03-22",
-      "team": "Tampa Bay Rays",
-      "details": "2BFelix Cotesassigned toTampa Bay Rays.",
-      "player": "Felix Cotes"
-    },
-    {
-      "date": "2026-03-22",
-      "team": "Tampa Bay Rays",
-      "details": "3BTony Santa Mariaassigned toTampa Bay Rays.",
-      "player": "Tony Santa Maria"
+      "team": "Seattle Mariners",
+      "details": "2BRicardo Covaassigned toSeattle Mariners.",
+      "player": "Ricardo Cova"
     },
     {
       "date": "2026-03-22",
       "team": "St. Louis Cardinals",
       "details": "CFFacundo Velásquezassigned toSt. Louis Cardinals.",
       "player": "Facundo Velásquez"
-    },
-    {
-      "date": "2026-03-22",
-      "team": "New York Yankees",
-      "details": "SSDexters Peraltaassigned toNew York Yankees.",
-      "player": "Dexters Peralta"
     },
     {
       "date": "2026-03-22",
@@ -105,9 +45,69 @@
     },
     {
       "date": "2026-03-22",
+      "team": "Seattle Mariners",
+      "details": "CFCesar Quintasassigned toSeattle Mariners.",
+      "player": "Cesar Quintas"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "St. Louis Cardinals",
+      "details": "3BJohnfrank Salazarassigned toSt. Louis Cardinals.",
+      "player": "Johnfrank Salazar"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Chicago Cubs",
+      "details": "RHPEthan Bellassigned toChicago Cubs.",
+      "player": "Ethan Bell"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Tampa Bay Rays",
+      "details": "2BFelix Cotesassigned toTampa Bay Rays.",
+      "player": "Felix Cotes"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "St. Louis Cardinals",
+      "details": "SSMiguel Hernándezassigned toSt. Louis Cardinals.",
+      "player": "Miguel Hernández"
+    },
+    {
+      "date": "2026-03-22",
       "team": "Milwaukee Brewers",
-      "details": "RFKay-Lan Nicasiaassigned toMilwaukee Brewers.",
-      "player": "Kay-Lan Nicasia"
+      "details": "2BJadyn Fielderassigned toMilwaukee Brewers.",
+      "player": "Jadyn Fielder"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Colorado Rockies",
+      "details": "RHPNathan Blasickassigned toColorado Rockies.",
+      "player": "Nathan Blasick"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Milwaukee Brewers",
+      "details": "LHPAnfernny Reyesassigned toMilwaukee Brewers.",
+      "player": "Anfernny Reyes"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Tampa Bay Rays",
+      "details": "3BTony Santa Mariaassigned toTampa Bay Rays.",
+      "player": "Tony Santa Maria"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "New York Yankees",
+      "details": "SSDexters Peraltaassigned toNew York Yankees.",
+      "player": "Dexters Peralta"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Milwaukee Brewers",
+      "details": "LHPJose Menesesassigned toMilwaukee Brewers.",
+      "player": "Jose Meneses"
     },
     {
       "date": "2026-03-22",
@@ -120,6 +120,24 @@
       "team": "Chicago Cubs",
       "details": "RHPJake Knappassigned toChicago Cubs.",
       "player": "Jake Knapp"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Pittsburgh Pirates",
+      "details": "SSGustavo Melendezassigned toPittsburgh Pirates.",
+      "player": "Gustavo Melendez"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Philadelphia Phillies",
+      "details": "2BJose Colmenaresassigned toPhiladelphia Phillies.",
+      "player": "Jose Colmenares"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent CReese McGuire.",
+      "player": "Reese McGuire"
     },
     {
       "date": "2026-03-22",
@@ -141,15 +159,9 @@
     },
     {
       "date": "2026-03-22",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned RHPCodi Heuerto Columbus Clippers.",
-      "player": "Codi Heuer"
-    },
-    {
-      "date": "2026-03-22",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersoptioned 2BHyeseong Kimto Oklahoma City Comets.",
-      "player": "Hyeseong Kim"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPCam Sandersto Indianapolis Indians.",
+      "player": "Cam Sanders"
     },
     {
       "date": "2026-03-22",
@@ -165,9 +177,27 @@
     },
     {
       "date": "2026-03-22",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPCam Sandersto Indianapolis Indians.",
-      "player": "Cam Sanders"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansselected the contract of RHPCodi Heuerfrom Columbus Clippers.",
+      "player": "Codi Heuer"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LHPShane Drohanto Nashville Sounds.",
+      "player": "Shane Drohan"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned 2BHyeseong Kimto Oklahoma City Comets.",
+      "player": "Hyeseong Kim"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned LHPPhilip Abnerto Reno Aces.",
+      "player": "Philip Abner"
     },
     {
       "date": "2026-03-22",
@@ -177,27 +207,33 @@
     },
     {
       "date": "2026-03-22",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPCodi Heuerto Columbus Clippers.",
+      "player": "Codi Heuer"
+    },
+    {
+      "date": "2026-03-22",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsoptioned LFAlan Rodento St. Paul Saints.",
       "player": "Alan Roden"
     },
     {
       "date": "2026-03-22",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned CRafael Flores Jr.to Indianapolis Indians.",
-      "player": "Rafael Flores Jr."
-    },
-    {
-      "date": "2026-03-22",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansselected the contract of RHPCodi Heuerfrom Columbus Clippers.",
-      "player": "Codi Heuer"
-    },
-    {
-      "date": "2026-03-22",
       "team": "Miami Marlins",
       "details": "Miami Marlinsoptioned LHPCade Gibsonto Jacksonville Jumbo Shrimp.",
       "player": "Cade Gibson"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LHPRobert Gasserto Nashville Sounds.",
+      "player": "Robert Gasser"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned CRafael Flores Jr.to Indianapolis Indians.",
+      "player": "Rafael Flores Jr."
     }
   ]
 }
