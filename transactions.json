@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-03-22T13:08:25.089415",
+  "last_updated": "2026-03-22T14:35:53.047466",
   "transactions": [
+    {
+      "date": "2026-03-22",
+      "team": "St. Louis Cardinals",
+      "details": "CFFacundo Velásquezassigned toSt. Louis Cardinals.",
+      "player": "Facundo Velásquez"
+    },
     {
       "date": "2026-03-22",
       "team": "St. Louis Cardinals",
       "details": "SSMiguel Hernándezassigned toSt. Louis Cardinals.",
       "player": "Miguel Hernández"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "St. Louis Cardinals",
+      "details": "3BJohnfrank Salazarassigned toSt. Louis Cardinals.",
+      "player": "Johnfrank Salazar"
     }
   ]
 }
