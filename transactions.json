@@ -1,42 +1,6 @@
 {
-  "last_updated": "2026-03-22T17:32:38.954048",
+  "last_updated": "2026-03-22T18:49:09.946588",
   "transactions": [
-    {
-      "date": "2026-03-22",
-      "team": "Pittsburgh Pirates",
-      "details": "SSDarell Morelassigned toPittsburgh Pirates.",
-      "player": "Darell Morel"
-    },
-    {
-      "date": "2026-03-22",
-      "team": "St. Louis Cardinals",
-      "details": "3BJohnfrank Salazarassigned toSt. Louis Cardinals.",
-      "player": "Johnfrank Salazar"
-    },
-    {
-      "date": "2026-03-22",
-      "team": "St. Louis Cardinals",
-      "details": "CFFacundo Velásquezassigned toSt. Louis Cardinals.",
-      "player": "Facundo Velásquez"
-    },
-    {
-      "date": "2026-03-22",
-      "team": "Pittsburgh Pirates",
-      "details": "SSGustavo Melendezassigned toPittsburgh Pirates.",
-      "player": "Gustavo Melendez"
-    },
-    {
-      "date": "2026-03-22",
-      "team": "Philadelphia Phillies",
-      "details": "2BJose Colmenaresassigned toPhiladelphia Phillies.",
-      "player": "Jose Colmenares"
-    },
-    {
-      "date": "2026-03-22",
-      "team": "St. Louis Cardinals",
-      "details": "SSMiguel Hernándezassigned toSt. Louis Cardinals.",
-      "player": "Miguel Hernández"
-    },
     {
       "date": "2026-03-22",
       "team": "Milwaukee Brewers",
@@ -51,33 +15,27 @@
     },
     {
       "date": "2026-03-22",
+      "team": "St. Louis Cardinals",
+      "details": "3BJohnfrank Salazarassigned toSt. Louis Cardinals.",
+      "player": "Johnfrank Salazar"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Chicago Cubs",
+      "details": "RHPEthan Bellassigned toChicago Cubs.",
+      "player": "Ethan Bell"
+    },
+    {
+      "date": "2026-03-22",
       "team": "Tampa Bay Rays",
       "details": "2BFelix Cotesassigned toTampa Bay Rays.",
       "player": "Felix Cotes"
     },
     {
       "date": "2026-03-22",
-      "team": "Toronto Blue Jays",
-      "details": "CJaxson Westassigned toToronto Blue Jays.",
-      "player": "Jaxson West"
-    },
-    {
-      "date": "2026-03-22",
-      "team": "Tampa Bay Rays",
-      "details": "3BTony Santa Mariaassigned toTampa Bay Rays.",
-      "player": "Tony Santa Maria"
-    },
-    {
-      "date": "2026-03-22",
-      "team": "New York Yankees",
-      "details": "SSDexters Peraltaassigned toNew York Yankees.",
-      "player": "Dexters Peralta"
-    },
-    {
-      "date": "2026-03-22",
-      "team": "Milwaukee Brewers",
-      "details": "LHPJose Menesesassigned toMilwaukee Brewers.",
-      "player": "Jose Meneses"
+      "team": "St. Louis Cardinals",
+      "details": "CFFacundo Velásquezassigned toSt. Louis Cardinals.",
+      "player": "Facundo Velásquez"
     },
     {
       "date": "2026-03-22",
@@ -106,14 +64,116 @@
     {
       "date": "2026-03-22",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned CRafael Flores Jr.to Indianapolis Indians.",
-      "player": "Rafael Flores Jr."
+      "details": "SSDarell Morelassigned toPittsburgh Pirates.",
+      "player": "Darell Morel"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Tampa Bay Rays",
+      "details": "3BTony Santa Mariaassigned toTampa Bay Rays.",
+      "player": "Tony Santa Maria"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "New York Yankees",
+      "details": "SSDexters Peraltaassigned toNew York Yankees.",
+      "player": "Dexters Peralta"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Milwaukee Brewers",
+      "details": "LHPJose Menesesassigned toMilwaukee Brewers.",
+      "player": "Jose Meneses"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Toronto Blue Jays",
+      "details": "CJaxson Westassigned toToronto Blue Jays.",
+      "player": "Jaxson West"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Chicago Cubs",
+      "details": "RHPJake Knappassigned toChicago Cubs.",
+      "player": "Jake Knapp"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Pittsburgh Pirates",
+      "details": "SSGustavo Melendezassigned toPittsburgh Pirates.",
+      "player": "Gustavo Melendez"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "St. Louis Cardinals",
+      "details": "SSMiguel Hernándezassigned toSt. Louis Cardinals.",
+      "player": "Miguel Hernández"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Philadelphia Phillies",
+      "details": "2BJose Colmenaresassigned toPhiladelphia Phillies.",
+      "player": "Jose Colmenares"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned LHPCade Gibsonto Jacksonville Jumbo Shrimp.",
+      "player": "Cade Gibson"
     },
     {
       "date": "2026-03-22",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesoptioned RHPCam Sandersto Indianapolis Indians.",
       "player": "Cam Sanders"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Miami Marlins",
+      "details": "RHPZach McCambleyreturned toMiami MarlinsfromPhiladelphia Phillies.",
+      "player": "Zach McCambley"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "New York Yankees",
+      "details": "New York Yankeestraded 2BJorbit VivastoWashington Nationalsfor RHP Sean Paul Liñan.",
+      "player": "Jorbit Vivas"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "New York Yankees",
+      "details": "New York Yankeestraded 2B Jorbit Vivas toWashington Nationalsfor RHPSean Paul Liñan.",
+      "player": "Sean Paul Liñan"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned 2BHyeseong Kimto Oklahoma City Comets.",
+      "player": "Hyeseong Kim"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned CRafael Flores Jr.to Indianapolis Indians.",
+      "player": "Rafael Flores Jr."
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPChase Shugartto Lehigh Valley IronPigs.",
+      "player": "Chase Shugart"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansselected the contract of RHPCodi Heuerfrom Columbus Clippers.",
+      "player": "Codi Heuer"
+    },
+    {
+      "date": "2026-03-22",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPCodi Heuerto Columbus Clippers.",
+      "player": "Codi Heuer"
     }
   ]
 }
