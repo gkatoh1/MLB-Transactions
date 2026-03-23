@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-03-23T15:04:08.921746",
+  "last_updated": "2026-03-23T17:01:31.335149",
   "transactions": [
+    {
+      "date": "2026-03-23",
+      "team": "Pittsburgh Pirates",
+      "details": "CJonathan Riveroassigned toPittsburgh Pirates.",
+      "player": "Jonathan Rivero"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Boston Red Sox",
+      "details": "SSIlan Fernandezassigned toBoston Red Sox.",
+      "player": "Ilan Fernandez"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Atlanta Braves",
+      "details": "SSJoe Olsavskyassigned toAtlanta Braves.",
+      "player": "Joe Olsavsky"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Boston Red Sox",
+      "details": "SSJhorman Bravoassigned toBoston Red Sox.",
+      "player": "Jhorman Bravo"
+    },
     {
       "date": "2026-03-23",
       "team": "Philadelphia Phillies",
@@ -9,9 +33,15 @@
     },
     {
       "date": "2026-03-23",
-      "team": "Pittsburgh Pirates",
-      "details": "CJonathan Riveroassigned toPittsburgh Pirates.",
-      "player": "Jonathan Rivero"
+      "team": "Baltimore Orioles",
+      "details": "RHPJean Henriquezassigned toBaltimore Orioles.",
+      "player": "Jean Henriquez"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned 1BEric Wagamanto St. Paul Saints.",
+      "player": "Eric Wagaman"
     },
     {
       "date": "2026-03-23",
@@ -28,14 +58,14 @@
     {
       "date": "2026-03-23",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned 2BMickey Gasperto Worcester Red Sox.",
-      "player": "Mickey Gasper"
+      "details": "Boston Red Soxoptioned LHPTyler Samaniegoto Worcester Red Sox.",
+      "player": "Tyler Samaniego"
     },
     {
       "date": "2026-03-23",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned 1BEric Wagamanto St. Paul Saints.",
-      "player": "Eric Wagaman"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned 2BMickey Gasperto Worcester Red Sox.",
+      "player": "Mickey Gasper"
     }
   ]
 }
