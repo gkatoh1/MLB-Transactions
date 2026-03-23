@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T20:47:10.688400",
+  "last_updated": "2026-03-23T21:45:21.058197",
   "transactions": [
     {
       "date": "2026-03-23",
@@ -9,9 +9,27 @@
     },
     {
       "date": "2026-03-23",
+      "team": "San Diego Padres",
+      "details": "1BKale Fountainassigned toSan Diego Padres.",
+      "player": "Kale Fountain"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Chicago Cubs",
+      "details": "OFFreiker Betencourtassigned toChicago Cubs.",
+      "player": "Freiker Betencourt"
+    },
+    {
+      "date": "2026-03-23",
       "team": "Colorado Rockies",
       "details": "LHPAlberto Pachecoassigned toColorado Rockies.",
       "player": "Alberto Pacheco"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Philadelphia Phillies",
+      "details": "2BDylan Mooreassigned toPhiladelphia Phillies.",
+      "player": "Dylan Moore"
     },
     {
       "date": "2026-03-23",
@@ -21,21 +39,21 @@
     },
     {
       "date": "2026-03-23",
-      "team": "San Diego Padres",
-      "details": "1BKale Fountainassigned toSan Diego Padres.",
-      "player": "Kale Fountain"
+      "team": "Baltimore Orioles",
+      "details": "RHPJean Henriquezassigned toBaltimore Orioles.",
+      "player": "Jean Henriquez"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent RHPConnor Seabold.",
+      "player": "Connor Seabold"
     },
     {
       "date": "2026-03-23",
       "team": "Seattle Mariners",
       "details": "2BBrady O'Brienassigned toSeattle Mariners.",
       "player": "Brady O'Brien"
-    },
-    {
-      "date": "2026-03-23",
-      "team": "Baltimore Orioles",
-      "details": "RHPJean Henriquezassigned toBaltimore Orioles.",
-      "player": "Jean Henriquez"
     },
     {
       "date": "2026-03-23",
@@ -60,12 +78,6 @@
       "team": "Pittsburgh Pirates",
       "details": "CJonathan Riveroassigned toPittsburgh Pirates.",
       "player": "Jonathan Rivero"
-    },
-    {
-      "date": "2026-03-23",
-      "team": "Philadelphia Phillies",
-      "details": "2BDylan Mooreassigned toPhiladelphia Phillies.",
-      "player": "Dylan Moore"
     },
     {
       "date": "2026-03-23",
@@ -99,21 +111,21 @@
     },
     {
       "date": "2026-03-23",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned 2BMickey Gasperto Worcester Red Sox.",
-      "player": "Mickey Gasper"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced RHPBeau Brieskeon the 60-day injured list. Left adductor strain.",
+      "player": "Beau Brieske"
     },
     {
       "date": "2026-03-23",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned 3BNate Eatonto Worcester Red Sox.",
-      "player": "Nate Eaton"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHPGerlin RosariotoAthleticsfor 2B Cooper Bowman.",
+      "player": "Gerlin Rosario"
     },
     {
       "date": "2026-03-23",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPTyler Samaniegoto Worcester Red Sox.",
-      "player": "Tyler Samaniego"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHP Gerlin Rosario toAthleticsfor 2BCooper Bowman.",
+      "player": "Cooper Bowman"
     },
     {
       "date": "2026-03-23",
@@ -123,15 +135,33 @@
     },
     {
       "date": "2026-03-23",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned CFRyan Kreidlerto St. Paul Saints.",
-      "player": "Ryan Kreidler"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPTyler Samaniegoto Worcester Red Sox.",
+      "player": "Tyler Samaniego"
     },
     {
       "date": "2026-03-23",
       "team": "Houston Astros",
       "details": "Houston Astrosoptioned LFShay Whitcombto Sugar Land Space Cowboys.",
       "player": "Shay Whitcomb"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned CFRyan Kreidlerto St. Paul Saints.",
+      "player": "Ryan Kreidler"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned 2BMickey Gasperto Worcester Red Sox.",
+      "player": "Mickey Gasper"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned 3BNate Eatonto Worcester Red Sox.",
+      "player": "Nate Eaton"
     }
   ]
 }
