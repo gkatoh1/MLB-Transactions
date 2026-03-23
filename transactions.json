@@ -1,29 +1,11 @@
 {
-  "last_updated": "2026-03-23T21:45:21.058197",
+  "last_updated": "2026-03-23T22:40:56.475299",
   "transactions": [
     {
       "date": "2026-03-23",
-      "team": "Atlanta Braves",
-      "details": "SSJoe Olsavskyassigned toAtlanta Braves.",
-      "player": "Joe Olsavsky"
-    },
-    {
-      "date": "2026-03-23",
       "team": "San Diego Padres",
-      "details": "1BKale Fountainassigned toSan Diego Padres.",
-      "player": "Kale Fountain"
-    },
-    {
-      "date": "2026-03-23",
-      "team": "Chicago Cubs",
-      "details": "OFFreiker Betencourtassigned toChicago Cubs.",
-      "player": "Freiker Betencourt"
-    },
-    {
-      "date": "2026-03-23",
-      "team": "Colorado Rockies",
-      "details": "LHPAlberto Pachecoassigned toColorado Rockies.",
-      "player": "Alberto Pacheco"
+      "details": "LFSantiago Contrerasassigned toSan Diego Padres.",
+      "player": "Santiago Contreras"
     },
     {
       "date": "2026-03-23",
@@ -33,39 +15,9 @@
     },
     {
       "date": "2026-03-23",
-      "team": "Boston Red Sox",
-      "details": "SSIlan Fernandezassigned toBoston Red Sox.",
-      "player": "Ilan Fernandez"
-    },
-    {
-      "date": "2026-03-23",
-      "team": "Baltimore Orioles",
-      "details": "RHPJean Henriquezassigned toBaltimore Orioles.",
-      "player": "Jean Henriquez"
-    },
-    {
-      "date": "2026-03-23",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssigned free agent RHPConnor Seabold.",
-      "player": "Connor Seabold"
-    },
-    {
-      "date": "2026-03-23",
-      "team": "Seattle Mariners",
-      "details": "2BBrady O'Brienassigned toSeattle Mariners.",
-      "player": "Brady O'Brien"
-    },
-    {
-      "date": "2026-03-23",
-      "team": "San Diego Padres",
-      "details": "LFSantiago Contrerasassigned toSan Diego Padres.",
-      "player": "Santiago Contreras"
-    },
-    {
-      "date": "2026-03-23",
-      "team": "Colorado Rockies",
-      "details": "RHPHunter Mannassigned toColorado Rockies.",
-      "player": "Hunter Mann"
+      "team": "Atlanta Braves",
+      "details": "SSJoe Olsavskyassigned toAtlanta Braves.",
+      "player": "Joe Olsavsky"
     },
     {
       "date": "2026-03-23",
@@ -75,15 +27,69 @@
     },
     {
       "date": "2026-03-23",
+      "team": "Seattle Mariners",
+      "details": "SSLeandro Romeroassigned toSeattle Mariners.",
+      "player": "Leandro Romero"
+    },
+    {
+      "date": "2026-03-23",
       "team": "Pittsburgh Pirates",
       "details": "CJonathan Riveroassigned toPittsburgh Pirates.",
       "player": "Jonathan Rivero"
     },
     {
       "date": "2026-03-23",
+      "team": "Boston Red Sox",
+      "details": "SSIlan Fernandezassigned toBoston Red Sox.",
+      "player": "Ilan Fernandez"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "San Diego Padres",
+      "details": "1BKale Fountainassigned toSan Diego Padres.",
+      "player": "Kale Fountain"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Colorado Rockies",
+      "details": "RHPHunter Mannassigned toColorado Rockies.",
+      "player": "Hunter Mann"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Chicago Cubs",
+      "details": "OFFreiker Betencourtassigned toChicago Cubs.",
+      "player": "Freiker Betencourt"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced RHPHunter Greeneon the 60-day injured list. Right elbow surgery.",
+      "player": "Hunter Greene"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Colorado Rockies",
+      "details": "LHPAlberto Pachecoassigned toColorado Rockies.",
+      "player": "Alberto Pacheco"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Athletics",
+      "details": "Athleticsplaced RHPGunnar Hoglundon the 15-day injured list retroactive to March 22, 2026. Sprained right knee.",
+      "player": "Gunnar Hoglund"
+    },
+    {
+      "date": "2026-03-23",
       "team": "Seattle Mariners",
       "details": "RHPCasey Hintzassigned toSeattle Mariners.",
       "player": "Casey Hintz"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced RHPPaxton Schultzon the 15-day injured list retroactive to March 22, 2026. Right elbow inflammation.",
+      "player": "Paxton Schultz"
     },
     {
       "date": "2026-03-23",
@@ -94,8 +100,26 @@
     {
       "date": "2026-03-23",
       "team": "Seattle Mariners",
-      "details": "SSLeandro Romeroassigned toSeattle Mariners.",
-      "player": "Leandro Romero"
+      "details": "2BBrady O'Brienassigned toSeattle Mariners.",
+      "player": "Brady O'Brien"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesreleased RHPJohn Brebbia.",
+      "player": "John Brebbia"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent RHPConnor Seabold.",
+      "player": "Connor Seabold"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Baltimore Orioles",
+      "details": "RHPJean Henriquezassigned toBaltimore Orioles.",
+      "player": "Jean Henriquez"
     },
     {
       "date": "2026-03-23",
@@ -105,15 +129,99 @@
     },
     {
       "date": "2026-03-23",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPConnor Seabold.",
+      "player": "Connor Seabold"
+    },
+    {
+      "date": "2026-03-23",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesreleased 2BThairo Estrada.",
       "player": "Thairo Estrada"
     },
     {
       "date": "2026-03-23",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced RHPJosiah Grayon the 60-day injured list. Right flexor strain.",
+      "player": "Josiah Gray"
+    },
+    {
+      "date": "2026-03-23",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersplaced RHPBeau Brieskeon the 60-day injured list. Left adductor strain.",
       "player": "Beau Brieske"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPPayton Tolleto Worcester Red Sox.",
+      "player": "Payton Tolle"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPTyler Samaniegoto Worcester Red Sox.",
+      "player": "Tyler Samaniego"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPSpencer Arrighettito Sugar Land Space Cowboys.",
+      "player": "Spencer Arrighetti"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned 2BMickey Gasperto Worcester Red Sox.",
+      "player": "Mickey Gasper"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPZack Kellyto Worcester Red Sox.",
+      "player": "Zack Kelly"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPTyler Uberstineto Worcester Red Sox.",
+      "player": "Tyler Uberstine"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsselected the contract of LHPCionel Pérezfrom Rochester Red Wings.",
+      "player": "Cionel Pérez"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned 3BNate Eatonto Worcester Red Sox.",
+      "player": "Nate Eaton"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned CFRyan Kreidlerto St. Paul Saints.",
+      "player": "Ryan Kreidler"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LFShay Whitcombto Sugar Land Space Cowboys.",
+      "player": "Shay Whitcomb"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of 1BNathaniel Lowefrom Louisville Bats.",
+      "player": "Nathaniel Lowe"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned 1BEric Wagamanto St. Paul Saints.",
+      "player": "Eric Wagaman"
     },
     {
       "date": "2026-03-23",
@@ -129,39 +237,9 @@
     },
     {
       "date": "2026-03-23",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned 1BEric Wagamanto St. Paul Saints.",
-      "player": "Eric Wagaman"
-    },
-    {
-      "date": "2026-03-23",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPTyler Samaniegoto Worcester Red Sox.",
-      "player": "Tyler Samaniego"
-    },
-    {
-      "date": "2026-03-23",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned LFShay Whitcombto Sugar Land Space Cowboys.",
-      "player": "Shay Whitcomb"
-    },
-    {
-      "date": "2026-03-23",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned CFRyan Kreidlerto St. Paul Saints.",
-      "player": "Ryan Kreidler"
-    },
-    {
-      "date": "2026-03-23",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned 2BMickey Gasperto Worcester Red Sox.",
-      "player": "Mickey Gasper"
-    },
-    {
-      "date": "2026-03-23",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned 3BNate Eatonto Worcester Red Sox.",
-      "player": "Nate Eaton"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPJosiah Grayfrom Rochester Red Wings.",
+      "player": "Josiah Gray"
     }
   ]
 }
