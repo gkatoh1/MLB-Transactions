@@ -1,17 +1,23 @@
 {
-  "last_updated": "2026-03-23T17:01:31.335149",
+  "last_updated": "2026-03-23T19:04:45.789071",
   "transactions": [
-    {
-      "date": "2026-03-23",
-      "team": "Pittsburgh Pirates",
-      "details": "CJonathan Riveroassigned toPittsburgh Pirates.",
-      "player": "Jonathan Rivero"
-    },
     {
       "date": "2026-03-23",
       "team": "Boston Red Sox",
       "details": "SSIlan Fernandezassigned toBoston Red Sox.",
       "player": "Ilan Fernandez"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "San Diego Padres",
+      "details": "1BKale Fountainassigned toSan Diego Padres.",
+      "player": "Kale Fountain"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Philadelphia Phillies",
+      "details": "2BDylan Mooreassigned toPhiladelphia Phillies.",
+      "player": "Dylan Moore"
     },
     {
       "date": "2026-03-23",
@@ -21,9 +27,15 @@
     },
     {
       "date": "2026-03-23",
-      "team": "Boston Red Sox",
-      "details": "SSJhorman Bravoassigned toBoston Red Sox.",
-      "player": "Jhorman Bravo"
+      "team": "Seattle Mariners",
+      "details": "SSLeandro Romeroassigned toSeattle Mariners.",
+      "player": "Leandro Romero"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "San Diego Padres",
+      "details": "LFSantiago Contrerasassigned toSan Diego Padres.",
+      "player": "Santiago Contreras"
     },
     {
       "date": "2026-03-23",
@@ -33,9 +45,33 @@
     },
     {
       "date": "2026-03-23",
+      "team": "Pittsburgh Pirates",
+      "details": "CJonathan Riveroassigned toPittsburgh Pirates.",
+      "player": "Jonathan Rivero"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Seattle Mariners",
+      "details": "2BBrady O'Brienassigned toSeattle Mariners.",
+      "player": "Brady O'Brien"
+    },
+    {
+      "date": "2026-03-23",
       "team": "Baltimore Orioles",
       "details": "RHPJean Henriquezassigned toBaltimore Orioles.",
       "player": "Jean Henriquez"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Seattle Mariners",
+      "details": "RHPCasey Hintzassigned toSeattle Mariners.",
+      "player": "Casey Hintz"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Boston Red Sox",
+      "details": "SSJhorman Bravoassigned toBoston Red Sox.",
+      "player": "Jhorman Bravo"
     },
     {
       "date": "2026-03-23",
@@ -46,8 +82,14 @@
     {
       "date": "2026-03-23",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned 3BNate Eatonto Worcester Red Sox.",
-      "player": "Nate Eaton"
+      "details": "Boston Red Soxoptioned 2BMickey Gasperto Worcester Red Sox.",
+      "player": "Mickey Gasper"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPTyler Samaniegoto Worcester Red Sox.",
+      "player": "Tyler Samaniego"
     },
     {
       "date": "2026-03-23",
@@ -58,14 +100,8 @@
     {
       "date": "2026-03-23",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPTyler Samaniegoto Worcester Red Sox.",
-      "player": "Tyler Samaniego"
-    },
-    {
-      "date": "2026-03-23",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned 2BMickey Gasperto Worcester Red Sox.",
-      "player": "Mickey Gasper"
+      "details": "Boston Red Soxoptioned 3BNate Eatonto Worcester Red Sox.",
+      "player": "Nate Eaton"
     }
   ]
 }
