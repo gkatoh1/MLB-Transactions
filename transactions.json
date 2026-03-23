@@ -1,4 +1,41 @@
 {
-  "last_updated": "2026-03-23T13:26:03.681202",
-  "transactions": []
+  "last_updated": "2026-03-23T15:04:08.921746",
+  "transactions": [
+    {
+      "date": "2026-03-23",
+      "team": "Philadelphia Phillies",
+      "details": "SSRomeli Espinosaassigned toPhiladelphia Phillies.",
+      "player": "Romeli Espinosa"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Pittsburgh Pirates",
+      "details": "CJonathan Riveroassigned toPittsburgh Pirates.",
+      "player": "Jonathan Rivero"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned 3BNate Eatonto Worcester Red Sox.",
+      "player": "Nate Eaton"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned CFRyan Kreidlerto St. Paul Saints.",
+      "player": "Ryan Kreidler"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned 2BMickey Gasperto Worcester Red Sox.",
+      "player": "Mickey Gasper"
+    },
+    {
+      "date": "2026-03-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned 1BEric Wagamanto St. Paul Saints.",
+      "player": "Eric Wagaman"
+    }
+  ]
 }
