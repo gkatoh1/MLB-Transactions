@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-03-24T22:40:05.982526",
+  "last_updated": "2026-03-24T23:38:54.493632",
   "transactions": [
-    {
-      "date": "2026-03-24",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysplaced LFGavin Luxon the 10-day injured list retroactive to March 23, 2026.",
-      "player": "Gavin Lux"
-    },
     {
       "date": "2026-03-24",
       "team": "Chicago Cubs",
@@ -15,27 +9,15 @@
     },
     {
       "date": "2026-03-24",
-      "team": "Tampa Bay Rays",
-      "details": "OFBrendan Summerhillassigned toTampa Bay Rays.",
-      "player": "Brendan Summerhill"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced LHPJoey Wentzon the 60-day injured list. Right knee ACL tear.",
+      "player": "Joey Wentz"
     },
     {
       "date": "2026-03-24",
-      "team": "Tampa Bay Rays",
-      "details": "OFIsrafell Bautistaassigned toTampa Bay Rays.",
-      "player": "Israfell Bautista"
-    },
-    {
-      "date": "2026-03-24",
-      "team": "Cleveland Guardians",
-      "details": "RHPZane Pettyassigned toCleveland Guardians.",
-      "player": "Zane Petty"
-    },
-    {
-      "date": "2026-03-24",
-      "team": "Tampa Bay Rays",
-      "details": "SSAndreimi Antunezroster status changed byTampa Bay Rays.",
-      "player": "Andreimi Antunez"
+      "team": "Unknown Team",
+      "details": "OFCarson Bengechanged number to 3.",
+      "player": "Carson Benge"
     },
     {
       "date": "2026-03-24",
@@ -58,6 +40,42 @@
     {
       "date": "2026-03-24",
       "team": "Tampa Bay Rays",
+      "details": "OFBrendan Summerhillassigned toTampa Bay Rays.",
+      "player": "Brendan Summerhill"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Tampa Bay Rays",
+      "details": "OFIsrafell Bautistaassigned toTampa Bay Rays.",
+      "player": "Israfell Bautista"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Cleveland Guardians",
+      "details": "RHPZane Pettyassigned toCleveland Guardians.",
+      "player": "Zane Petty"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Tampa Bay Rays",
+      "details": "SSDaniel Pierceassigned toTampa Bay Rays.",
+      "player": "Daniel Pierce"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced LFGavin Luxon the 10-day injured list retroactive to March 23, 2026.",
+      "player": "Gavin Lux"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Tampa Bay Rays",
+      "details": "SSAndreimi Antunezroster status changed byTampa Bay Rays.",
+      "player": "Andreimi Antunez"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Tampa Bay Rays",
       "details": "RHPGary Gill Hillassigned toTampa Bay Rays.",
       "player": "Gary Gill Hill"
     },
@@ -66,6 +84,18 @@
       "team": "Colorado Rockies",
       "details": "Colorado Rockiessigned free agent LHPParker Mushinskito a minor league contract.",
       "player": "Parker Mushinski"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssigned free agent RHPJake Cousins.",
+      "player": "Jake Cousins"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced SSTaylor Wallson the 10-day injured list retroactive to March 22, 2026.",
+      "player": "Taylor Walls"
     },
     {
       "date": "2026-03-24",
@@ -105,39 +135,81 @@
     },
     {
       "date": "2026-03-24",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced LHPJoey Wentzon the 60-day injured list. Right knee ACL tear.",
-      "player": "Joey Wentz"
-    },
-    {
-      "date": "2026-03-24",
-      "team": "Unknown Team",
-      "details": "OFCarson Bengechanged number to 3.",
-      "player": "Carson Benge"
-    },
-    {
-      "date": "2026-03-24",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssigned free agent RHPJake Cousins.",
-      "player": "Jake Cousins"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned CFDrew Gilbertto Sacramento River Cats.",
+      "player": "Drew Gilbert"
     },
     {
       "date": "2026-03-24",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysplaced SSTaylor Wallson the 10-day injured list retroactive to March 22, 2026.",
-      "player": "Taylor Walls"
+      "details": "Tampa Bay Raysrecalled SSCarson Williamsfrom Durham Bulls.",
+      "player": "Carson Williams"
     },
     {
       "date": "2026-03-24",
-      "team": "Tampa Bay Rays",
-      "details": "SSDaniel Pierceassigned toTampa Bay Rays.",
-      "player": "Daniel Pierce"
+      "team": "Philadelphia Phillies",
+      "details": "RHPGriff McGarryreturned toPhiladelphia PhilliesfromWashington Nationals.",
+      "player": "Griff McGarry"
     },
     {
       "date": "2026-03-24",
       "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned CFDrew Gilbertto Sacramento River Cats.",
-      "player": "Drew Gilbert"
+      "details": "San Francisco Giantsoptioned RFWill Brennanto Sacramento River Cats.",
+      "player": "Will Brennan"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianstraded 3BCarter KieboomtoPhiladelphia Philliesfor cash.",
+      "player": "Carter Kieboom"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHPJake WoodfordtoMilwaukee Brewersfor RHP K.C. Hunt and cash.",
+      "player": "Jake Woodford"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPHunter Biggeto Durham Bulls.",
+      "player": "Hunter Bigge"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPJoe Boylefrom Durham Bulls.",
+      "player": "Joe Boyle"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHP Jake Woodford toMilwaukee Brewersfor RHPK.C. Huntand cash.",
+      "player": "K.C. Hunt"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "New York Yankees",
+      "details": "New York Yankeestraded 3BZack ShorttoWashington Nationalsfor cash.",
+      "player": "Zack Short"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned CFTrei Cruzto Toledo Mud Hens.",
+      "player": "Trei Cruz"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled LFRichie Palaciosfrom Durham Bulls.",
+      "player": "Richie Palacios"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed RHPOsvaldo Bidooff waivers fromNew York Yankees.",
+      "player": "Osvaldo Bido"
     },
     {
       "date": "2026-03-24",
@@ -159,75 +231,9 @@
     },
     {
       "date": "2026-03-24",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned RFWill Brennanto Sacramento River Cats.",
-      "player": "Will Brennan"
-    },
-    {
-      "date": "2026-03-24",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled SSCarson Williamsfrom Durham Bulls.",
-      "player": "Carson Williams"
-    },
-    {
-      "date": "2026-03-24",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RHPJake WoodfordtoMilwaukee Brewersfor RHP K.C. Hunt and cash.",
-      "player": "Jake Woodford"
-    },
-    {
-      "date": "2026-03-24",
-      "team": "New York Yankees",
-      "details": "New York Yankeestraded 3BZack ShorttoWashington Nationalsfor cash.",
-      "player": "Zack Short"
-    },
-    {
-      "date": "2026-03-24",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystraded RHP Jake Woodford toMilwaukee Brewersfor RHPK.C. Huntand cash.",
-      "player": "K.C. Hunt"
-    },
-    {
-      "date": "2026-03-24",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPJoe Boylefrom Durham Bulls.",
-      "player": "Joe Boyle"
-    },
-    {
-      "date": "2026-03-24",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled LFRichie Palaciosfrom Durham Bulls.",
-      "player": "Richie Palacios"
-    },
-    {
-      "date": "2026-03-24",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned CFTrei Cruzto Toledo Mud Hens.",
-      "player": "Trei Cruz"
-    },
-    {
-      "date": "2026-03-24",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsselected the contract of LFDylan Carlsonfrom Iowa Cubs.",
       "player": "Dylan Carlson"
-    },
-    {
-      "date": "2026-03-24",
-      "team": "Philadelphia Phillies",
-      "details": "RHPGriff McGarryreturned toPhiladelphia PhilliesfromWashington Nationals.",
-      "player": "Griff McGarry"
-    },
-    {
-      "date": "2026-03-24",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPHunter Biggeto Durham Bulls.",
-      "player": "Hunter Bigge"
-    },
-    {
-      "date": "2026-03-24",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesclaimed RHPOsvaldo Bidooff waivers fromNew York Yankees.",
-      "player": "Osvaldo Bido"
     }
   ]
 }
