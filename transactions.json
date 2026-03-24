@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-03-24T20:51:22.651737",
+  "last_updated": "2026-03-24T21:46:11.572866",
   "transactions": [
+    {
+      "date": "2026-03-24",
+      "team": "Unknown Team",
+      "details": "OFCarson Bengechanged number to 3.",
+      "player": "Carson Benge"
+    },
     {
       "date": "2026-03-24",
       "team": "Tampa Bay Rays",
@@ -21,33 +27,27 @@
     },
     {
       "date": "2026-03-24",
-      "team": "Tampa Bay Rays",
-      "details": "OFIsrafell Bautistaassigned toTampa Bay Rays.",
-      "player": "Israfell Bautista"
+      "team": "Unknown Team",
+      "details": "SSKevin McGoniglechanged number to 7.",
+      "player": "Kevin McGonigle"
     },
     {
       "date": "2026-03-24",
-      "team": "Cleveland Guardians",
-      "details": "RHPZane Pettyassigned toCleveland Guardians.",
-      "player": "Zane Petty"
-    },
-    {
-      "date": "2026-03-24",
-      "team": "Minnesota Twins",
-      "details": "RHPMatthew DesMaretsassigned toMinnesota Twins.",
-      "player": "Matthew DesMarets"
-    },
-    {
-      "date": "2026-03-24",
-      "team": "Tampa Bay Rays",
-      "details": "SSDaniel Pierceassigned toTampa Bay Rays.",
-      "player": "Daniel Pierce"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced LHPJoey Wentzon the 60-day injured list. Right knee ACL tear.",
+      "player": "Joey Wentz"
     },
     {
       "date": "2026-03-24",
       "team": "Tampa Bay Rays",
       "details": "SSAndreimi Antunezroster status changed byTampa Bay Rays.",
       "player": "Andreimi Antunez"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Tampa Bay Rays",
+      "details": "SSDaniel Pierceassigned toTampa Bay Rays.",
+      "player": "Daniel Pierce"
     },
     {
       "date": "2026-03-24",
@@ -63,9 +63,27 @@
     },
     {
       "date": "2026-03-24",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced LHPJoey Wentzon the 60-day injured list. Right knee ACL tear.",
-      "player": "Joey Wentz"
+      "team": "Tampa Bay Rays",
+      "details": "OFBrendan Summerhillassigned toTampa Bay Rays.",
+      "player": "Brendan Summerhill"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Tampa Bay Rays",
+      "details": "OFIsrafell Bautistaassigned toTampa Bay Rays.",
+      "player": "Israfell Bautista"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Cleveland Guardians",
+      "details": "RHPZane Pettyassigned toCleveland Guardians.",
+      "player": "Zane Petty"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Unknown Team",
+      "details": "SSJJ Wetherholtchanged number to 26.",
+      "player": "JJ Wetherholt"
     },
     {
       "date": "2026-03-24",
@@ -81,9 +99,21 @@
     },
     {
       "date": "2026-03-24",
-      "team": "Tampa Bay Rays",
-      "details": "OFBrendan Summerhillassigned toTampa Bay Rays.",
-      "player": "Brendan Summerhill"
+      "team": "Minnesota Twins",
+      "details": "RHPMatthew DesMaretsassigned toMinnesota Twins.",
+      "player": "Matthew DesMarets"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned 3BJace Jungto Toledo Mud Hens.",
+      "player": "Jace Jung"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned CFTrei Cruzto Toledo Mud Hens.",
+      "player": "Trei Cruz"
     },
     {
       "date": "2026-03-24",
@@ -93,15 +123,9 @@
     },
     {
       "date": "2026-03-24",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned RFWenceel Pérezto Toledo Mud Hens.",
-      "player": "Wenceel Pérez"
-    },
-    {
-      "date": "2026-03-24",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned 3BJace Jungto Toledo Mud Hens.",
-      "player": "Jace Jung"
+      "team": "Philadelphia Phillies",
+      "details": "RHPGriff McGarryreturned toPhiladelphia PhilliesfromWashington Nationals.",
+      "player": "Griff McGarry"
     },
     {
       "date": "2026-03-24",
@@ -118,14 +142,14 @@
     {
       "date": "2026-03-24",
       "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned CFTrei Cruzto Toledo Mud Hens.",
-      "player": "Trei Cruz"
+      "details": "Detroit Tigersoptioned RFWenceel Pérezto Toledo Mud Hens.",
+      "player": "Wenceel Pérez"
     },
     {
       "date": "2026-03-24",
-      "team": "Philadelphia Phillies",
-      "details": "RHPGriff McGarryreturned toPhiladelphia PhilliesfromWashington Nationals.",
-      "player": "Griff McGarry"
+      "team": "New York Yankees",
+      "details": "New York Yankeestraded 3BZack ShorttoWashington Nationalsfor cash.",
+      "player": "Zack Short"
     }
   ]
 }
