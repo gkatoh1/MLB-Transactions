@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-03-24T17:09:26.644376",
+  "last_updated": "2026-03-24T19:14:50.208888",
   "transactions": [
-    {
-      "date": "2026-03-24",
-      "team": "Minnesota Twins",
-      "details": "RHPMatthew DesMaretsassigned toMinnesota Twins.",
-      "player": "Matthew DesMarets"
-    },
     {
       "date": "2026-03-24",
       "team": "Tampa Bay Rays",
@@ -21,15 +15,15 @@
     },
     {
       "date": "2026-03-24",
-      "team": "Tampa Bay Rays",
-      "details": "SSAndreimi Antunezassigned toTampa Bay Rays.",
-      "player": "Andreimi Antunez"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced LFAkil Baddooon the 60-day injured list.",
+      "player": "Akil Baddoo"
     },
     {
       "date": "2026-03-24",
-      "team": "Tampa Bay Rays",
-      "details": "SSDaniel Pierceassigned toTampa Bay Rays.",
-      "player": "Daniel Pierce"
+      "team": "Minnesota Twins",
+      "details": "RHPMatthew DesMaretsassigned toMinnesota Twins.",
+      "player": "Matthew DesMarets"
     },
     {
       "date": "2026-03-24",
@@ -45,6 +39,18 @@
     },
     {
       "date": "2026-03-24",
+      "team": "Cleveland Guardians",
+      "details": "RHPZane Pettyassigned toCleveland Guardians.",
+      "player": "Zane Petty"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Tampa Bay Rays",
+      "details": "SSDaniel Pierceassigned toTampa Bay Rays.",
+      "player": "Daniel Pierce"
+    },
+    {
+      "date": "2026-03-24",
       "team": "Tampa Bay Rays",
       "details": "SSAndreimi Antunezroster status changed byTampa Bay Rays.",
       "player": "Andreimi Antunez"
@@ -54,6 +60,30 @@
       "team": "Tampa Bay Rays",
       "details": "RHPGary Gill Hillassigned toTampa Bay Rays.",
       "player": "Gary Gill Hill"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Tampa Bay Rays",
+      "details": "SSAndreimi Antunezassigned toTampa Bay Rays.",
+      "player": "Andreimi Antunez"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed RHPOsvaldo Bidooff waivers fromNew York Yankees.",
+      "player": "Osvaldo Bido"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHPJake WoodfordtoMilwaukee Brewersfor RHP K.C. Hunt and cash.",
+      "player": "Jake Woodford"
+    },
+    {
+      "date": "2026-03-24",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHP Jake Woodford toMilwaukee Brewersfor RHPK.C. Huntand cash.",
+      "player": "K.C. Hunt"
     }
   ]
 }
