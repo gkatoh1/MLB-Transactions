@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-03-25T15:09:20.634515",
+  "last_updated": "2026-03-25T17:12:47.264812",
   "transactions": [
+    {
+      "date": "2026-03-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced LHPKeegan Akinon the 10-day injured list retroactive to March 22, 2026. Left groin strain.",
+      "player": "Keegan Akin"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced LFZach Dezenzoon the 10-day injured list. Right elbow sprain.",
+      "player": "Zach Dezenzo"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPAndrew Kittredgeon the 15-day injured list retroactive to March 22, 2026. Right shoulder inflammation.",
+      "player": "Andrew Kittredge"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced RHPCraig Yohoon the 15-day injured list retroactive to March 22, 2026. Right calf strain.",
+      "player": "Craig Yoho"
+    },
     {
       "date": "2026-03-25",
       "team": "New York Yankees",
@@ -9,21 +33,21 @@
     },
     {
       "date": "2026-03-25",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssigned free agent LHPJoey Lucchesi.",
-      "player": "Joey Lucchesi"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPStephen Kolekon the 15-day injured list retroactive to March 22, 2026. Left oblique strain.",
+      "player": "Stephen Kolek"
     },
     {
       "date": "2026-03-25",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced RHPGerrit Coleon the 15-day injured list. Tommy John surgery recovery.",
-      "player": "Gerrit Cole"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced 2BMichael Masseyon the 10-day injured list retroactive to March 22, 2026. Left calf strain.",
+      "player": "Michael Massey"
     },
     {
       "date": "2026-03-25",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksactivated RHPPaul Sewald.",
-      "player": "Paul Sewald"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPJackson Kowarfor assignment.",
+      "player": "Jackson Kowar"
     },
     {
       "date": "2026-03-25",
@@ -39,51 +63,243 @@
     },
     {
       "date": "2026-03-25",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced SSAnthony Volpeon the 10-day injured list retroactive to March 22, 2026. Left shoulder surgery recovery.",
-      "player": "Anthony Volpe"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced RHPDaysbel Hernándezon the 15-day injured list. Right shoulder sebaceous cyst.",
+      "player": "Daysbel Hernández"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced RHPHurston Waldrepon the 15-day injured list. Right elbow surgery.",
+      "player": "Hurston Waldrep"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced LHPDanny Youngon the 15-day injured list. Left elbow reconstruction.",
+      "player": "Danny Young"
     },
     {
       "date": "2026-03-25",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated RHPAndrew Painter.",
-      "player": "Andrew Painter"
+      "details": "Philadelphia Philliesplaced RHPOrion Kerkeringon the 15-day injured list retroactive to March 22, 2026. Right hamstring strain.",
+      "player": "Orion Kerkering"
     },
     {
       "date": "2026-03-25",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated 3BCaleb Durbin.",
-      "player": "Caleb Durbin"
+      "team": "New York Mets",
+      "details": "New York Metsdesignated CBen Rortvedtfor assignment.",
+      "player": "Ben Rortvedt"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "New York Mets",
+      "details": "New York Metsplaced LHPA.J. Minteron the 15-day injured list retroactive to March 22, 2026. Left lat surgery.",
+      "player": "A.J. Minter"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesdesignated RHPKeegan Thompsonfor assignment.",
+      "player": "Keegan Thompson"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced LFZac Veenon the 10-day injured list.",
+      "player": "Zac Veen"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced RHPAndrew Walterson the 15-day injured list retroactive to March 22, 2026. Recovery from 2025 Right Lat Surgery.",
+      "player": "Andrew Walters"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated RHPDylan Smithfor assignment.",
+      "player": "Dylan Smith"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated 1BCurtis Meadfor assignment.",
+      "player": "Curtis Mead"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced LHPNick Lodoloon the 15-day injured list retroactive to March 23, 2026. Left index finger blister.",
+      "player": "Nick Lodolo"
     },
     {
       "date": "2026-03-25",
       "team": "Houston Astros",
-      "details": "Houston Astrosreassigned LFShay Whitcombto the minor leagues.",
-      "player": "Shay Whitcomb"
+      "details": "Houston Astrosplaced LHPBennett Sousaon the 15-day injured list. Left oblique strain.",
+      "player": "Bennett Sousa"
     },
     {
       "date": "2026-03-25",
-      "team": "New York Yankees",
-      "details": "New York Yankeesselected the contract of RFRandal Grichukfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Randal Grichuk"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced LHPJustin Steeleon the 60-day injured list. Left elbow injury.",
+      "player": "Justin Steele"
     },
     {
       "date": "2026-03-25",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPLuis Gilto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Luis Gil"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated RHPJack Neelyfor assignment.",
+      "player": "Jack Neely"
     },
     {
       "date": "2026-03-25",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsselected the contract of 3BJeimer Candelariofrom Salt Lake Bees.",
-      "player": "Jeimer Candelario"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced RHPQuinn Priesteron the 15-day injured list retroactive to March 22, 2026. Right thoracic outlet syndrome.",
+      "player": "Quinn Priester"
     },
     {
       "date": "2026-03-25",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsselected the contract of 2BAdam Frazierfrom Salt Lake Bees.",
-      "player": "Adam Frazier"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated 2BBrett Wiselyfor assignment.",
+      "player": "Brett Wisely"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced LHPCaleb Fergusonon the 15-day injured list retroactive to March 22, 2026. Oblique muscle strain.",
+      "player": "Caleb Ferguson"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated CCésar Salazarfor assignment.",
+      "player": "César Salazar"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced RHPJoel Pegueroon the 15-day injured list retroactive to March 22, 2026. Left hamstring strain.",
+      "player": "Joel Peguero"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced 2BJackson Hollidayon the 10-day injured list retroactive to March 22, 2026. Right hamate surgery.",
+      "player": "Jackson Holliday"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced RHPMax Lazaron the 15-day injured list retroactive to March 22, 2026. Left oblique strain.",
+      "player": "Max Lazar"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RFTyler Freemanon the 10-day injured list.",
+      "player": "Tyler Freeman"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPPierson Ohlon the 60-day injured list.",
+      "player": "Pierson Ohl"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced CAdrian Del Castilloon the 10-day injured list retroactive to March 22, 2026. Left calf strain.",
+      "player": "Adrian Del Castillo"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced RHPHunter Gaddison the 15-day injured list retroactive to March 22, 2026. Right forearm strain.",
+      "player": "Hunter Gaddis"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced 3BJordan Westburgon the 10-day injured list retroactive to March 23, 2026. Right elbow UCL sprain.",
+      "player": "Jordan Westburg"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced SSTrey Sweeneyon the 10-day injured list retroactive to March 22, 2026. Right shoulder strain.",
+      "player": "Trey Sweeney"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced LHPJordan Wickson the 15-day injured list retroactive to March 22, 2026. Left elbow inflammation.",
+      "player": "Jordan Wicks"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPJames McArthuron the 15-day injured list retroactive to March 22, 2026. Right elbow inflammation.",
+      "player": "James McArthur"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced RHPSpencer Strideron the 15-day injured list. Left oblique muscle strain.",
+      "player": "Spencer Strider"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced LHPBlake Walstonon the 60-day injured list. Left UCL surgery.",
+      "player": "Blake Walston"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksdesignated RHPGrant Holmanfor assignment.",
+      "player": "Grant Holman"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPTravis Adamson the 15-day injured list retroactive to March 22, 2026. Right triceps strain.",
+      "player": "Travis Adams"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced CSean Murphyon the 10-day injured list. Right hip labrum repair.",
+      "player": "Sean Murphy"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsreassigned RHPEli Morganto the minor leagues.",
+      "player": "Eli Morgan"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced RHPZack Wheeleron the 15-day injured list retroactive to March 22, 2026. Right shoulder surgery.",
+      "player": "Zack Wheeler"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersdesignated CFDairon Blancofor assignment.",
+      "player": "Dairon Blanco"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated 3BBryan Ramosfor assignment.",
+      "player": "Bryan Ramos"
+    },
+    {
+      "date": "2026-03-25",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsdesignated RFLuis Matosfor assignment.",
+      "player": "Luis Matos"
     }
   ]
 }
