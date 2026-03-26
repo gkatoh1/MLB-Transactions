@@ -1,11 +1,41 @@
 {
-  "last_updated": "2026-03-26T13:46:36.190066",
+  "last_updated": "2026-03-26T15:14:52.656346",
   "transactions": [
+    {
+      "date": "2026-03-26",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated RHPGus Varland.",
+      "player": "Gus Varland"
+    },
+    {
+      "date": "2026-03-26",
+      "team": "Unknown Team",
+      "details": "RHPCarter Baumlerchanged number to 45.",
+      "player": "Carter Baumler"
+    },
+    {
+      "date": "2026-03-26",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced CFJackson Chourioon the 10-day injured list retroactive to March 25, 2026. Left hand fracture.",
+      "player": "Jackson Chourio"
+    },
+    {
+      "date": "2026-03-26",
+      "team": "Unknown Team",
+      "details": "LHPRichard Loveladychanged number to 55.",
+      "player": "Richard Lovelady"
+    },
     {
       "date": "2026-03-26",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesplaced RHPMcCade Brownon the 15-day injured list retroactive to March 25, 2026.",
       "player": "McCade Brown"
+    },
+    {
+      "date": "2026-03-26",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled CFBlake Perkinsfrom Nashville Sounds.",
+      "player": "Blake Perkins"
     }
   ]
 }
