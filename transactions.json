@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-03-26T22:39:35.727599",
+  "last_updated": "2026-03-26T23:39:51.350720",
   "transactions": [
+    {
+      "date": "2026-03-26",
+      "team": "Unknown Team",
+      "details": "CEdgar Querochanged number to 26.",
+      "player": "Edgar Quero"
+    },
+    {
+      "date": "2026-03-26",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced CFJackson Chourioon the 10-day injured list retroactive to March 25, 2026. Left hand fracture.",
+      "player": "Jackson Chourio"
+    },
     {
       "date": "2026-03-26",
       "team": "Colorado Rockies",
@@ -12,6 +24,18 @@
       "team": "Washington Nationals",
       "details": "Washington Nationalsactivated RHPGus Varland.",
       "player": "Gus Varland"
+    },
+    {
+      "date": "2026-03-26",
+      "team": "Unknown Team",
+      "details": "RHPCooper Criswellchanged number to 88.",
+      "player": "Cooper Criswell"
+    },
+    {
+      "date": "2026-03-26",
+      "team": "Unknown Team",
+      "details": "LHPRichard Loveladychanged number to 55.",
+      "player": "Richard Lovelady"
     },
     {
       "date": "2026-03-26",
@@ -28,50 +52,14 @@
     {
       "date": "2026-03-26",
       "team": "Unknown Team",
-      "details": "LHPRichard Loveladychanged number to 55.",
-      "player": "Richard Lovelady"
-    },
-    {
-      "date": "2026-03-26",
-      "team": "Unknown Team",
       "details": "RHPCarter Baumlerchanged number to 45.",
       "player": "Carter Baumler"
-    },
-    {
-      "date": "2026-03-26",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced CFJackson Chourioon the 10-day injured list retroactive to March 25, 2026. Left hand fracture.",
-      "player": "Jackson Chourio"
-    },
-    {
-      "date": "2026-03-26",
-      "team": "Unknown Team",
-      "details": "RHPCooper Criswellchanged number to 88.",
-      "player": "Cooper Criswell"
-    },
-    {
-      "date": "2026-03-26",
-      "team": "Unknown Team",
-      "details": "CEdgar Querochanged number to 26.",
-      "player": "Edgar Quero"
-    },
-    {
-      "date": "2026-03-26",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesselected the contract of RHPValente Bellozofrom Albuquerque Isotopes.",
-      "player": "Valente Bellozo"
     },
     {
       "date": "2026-03-26",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesoptioned RHPValente Bellozoto Albuquerque Isotopes.",
       "player": "Valente Bellozo"
-    },
-    {
-      "date": "2026-03-26",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled CFBlake Perkinsfrom Nashville Sounds.",
-      "player": "Blake Perkins"
     },
     {
       "date": "2026-03-26",
@@ -84,6 +72,18 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent 3BBryan Ramosoutright to Norfolk Tides.",
       "player": "Bryan Ramos"
+    },
+    {
+      "date": "2026-03-26",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled CFBlake Perkinsfrom Nashville Sounds.",
+      "player": "Blake Perkins"
+    },
+    {
+      "date": "2026-03-26",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesselected the contract of RHPValente Bellozofrom Albuquerque Isotopes.",
+      "player": "Valente Bellozo"
     }
   ]
 }
