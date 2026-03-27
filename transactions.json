@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-03-27T21:44:48.131791",
+  "last_updated": "2026-03-27T22:41:40.992997",
   "transactions": [
+    {
+      "date": "2026-03-27",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent LHPAndrew Chafinto a minor league contract.",
+      "player": "Andrew Chafin"
+    },
     {
       "date": "2026-03-27",
       "team": "Colorado Rockies",
@@ -9,9 +15,15 @@
     },
     {
       "date": "2026-03-27",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent RFÓscar Mercadoto a minor league contract.",
-      "player": "Óscar Mercado"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent 2BJackson Hollidayon a rehab assignment to Norfolk Tides.",
+      "player": "Jackson Holliday"
+    },
+    {
+      "date": "2026-03-27",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent RHPRyan Brasierto a minor league contract.",
+      "player": "Ryan Brasier"
     },
     {
       "date": "2026-03-27",
@@ -27,21 +39,9 @@
     },
     {
       "date": "2026-03-27",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent SSSergio Alcántarato a minor league contract.",
-      "player": "Sergio Alcántara"
-    },
-    {
-      "date": "2026-03-27",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssigned free agent LHPAndrew Chafinto a minor league contract.",
-      "player": "Andrew Chafin"
-    },
-    {
-      "date": "2026-03-27",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssigned free agent RHPRyan Brasierto a minor league contract.",
-      "player": "Ryan Brasier"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPEnyel De Los Santoson a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Enyel De Los Santos"
     },
     {
       "date": "2026-03-27",
@@ -51,21 +51,33 @@
     },
     {
       "date": "2026-03-27",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent SSSergio Alcántarato a minor league contract.",
+      "player": "Sergio Alcántara"
+    },
+    {
+      "date": "2026-03-27",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent RFÓscar Mercadoto a minor league contract.",
+      "player": "Óscar Mercado"
+    },
+    {
+      "date": "2026-03-27",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersrecalled RHPCole Wilcoxfrom Tacoma Rainiers.",
       "player": "Cole Wilcox"
     },
     {
       "date": "2026-03-27",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent CCésar Salazaroutright to Sugar Land Space Cowboys.",
-      "player": "César Salazar"
-    },
-    {
-      "date": "2026-03-27",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesrecalled CBraxton Fulfordfrom Albuquerque Isotopes.",
       "player": "Braxton Fulford"
+    },
+    {
+      "date": "2026-03-27",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent CCésar Salazaroutright to Sugar Land Space Cowboys.",
+      "player": "César Salazar"
     },
     {
       "date": "2026-03-27",
