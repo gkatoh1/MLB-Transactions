@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-03-27T19:05:25.935404",
+  "last_updated": "2026-03-27T20:49:51.524907",
   "transactions": [
-    {
-      "date": "2026-03-27",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent RFÓscar Mercadoto a minor league contract.",
-      "player": "Óscar Mercado"
-    },
     {
       "date": "2026-03-27",
       "team": "Colorado Rockies",
@@ -21,15 +15,39 @@
     },
     {
       "date": "2026-03-27",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled CBraxton Fulfordfrom Albuquerque Isotopes.",
-      "player": "Braxton Fulford"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersplaced RHPCarlos Vargason the 15-day injured list retroactive to March 24, 2026. Right lat strain.",
+      "player": "Carlos Vargas"
+    },
+    {
+      "date": "2026-03-27",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent RFÓscar Mercadoto a minor league contract.",
+      "player": "Óscar Mercado"
+    },
+    {
+      "date": "2026-03-27",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled RHPCole Wilcoxfrom Tacoma Rainiers.",
+      "player": "Cole Wilcox"
     },
     {
       "date": "2026-03-27",
       "team": "Houston Astros",
       "details": "Houston Astrossent CCésar Salazaroutright to Sugar Land Space Cowboys.",
       "player": "César Salazar"
+    },
+    {
+      "date": "2026-03-27",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxclaimed LHPBryan Hudsonoff waivers fromNew York Mets.",
+      "player": "Bryan Hudson"
+    },
+    {
+      "date": "2026-03-27",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled CBraxton Fulfordfrom Albuquerque Isotopes.",
+      "player": "Braxton Fulford"
     }
   ]
 }
