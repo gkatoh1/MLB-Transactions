@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T20:49:51.524907",
+  "last_updated": "2026-03-27T21:44:48.131791",
   "transactions": [
     {
       "date": "2026-03-27",
@@ -10,20 +10,44 @@
     {
       "date": "2026-03-27",
       "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent RFÓscar Mercadoto a minor league contract.",
+      "player": "Óscar Mercado"
+    },
+    {
+      "date": "2026-03-27",
+      "team": "Detroit Tigers",
+      "details": "CTomás Nidoassigned toDetroit Tigers.",
+      "player": "Tomás Nido"
+    },
+    {
+      "date": "2026-03-27",
+      "team": "Minnesota Twins",
+      "details": "RHPJohn Brebbiaassigned toMinnesota Twins.",
+      "player": "John Brebbia"
+    },
+    {
+      "date": "2026-03-27",
+      "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliessigned free agent SSSergio Alcántarato a minor league contract.",
       "player": "Sergio Alcántara"
+    },
+    {
+      "date": "2026-03-27",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent LHPAndrew Chafinto a minor league contract.",
+      "player": "Andrew Chafin"
+    },
+    {
+      "date": "2026-03-27",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent RHPRyan Brasierto a minor league contract.",
+      "player": "Ryan Brasier"
     },
     {
       "date": "2026-03-27",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersplaced RHPCarlos Vargason the 15-day injured list retroactive to March 24, 2026. Right lat strain.",
       "player": "Carlos Vargas"
-    },
-    {
-      "date": "2026-03-27",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent RFÓscar Mercadoto a minor league contract.",
-      "player": "Óscar Mercado"
     },
     {
       "date": "2026-03-27",
@@ -39,15 +63,15 @@
     },
     {
       "date": "2026-03-27",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxclaimed LHPBryan Hudsonoff waivers fromNew York Mets.",
-      "player": "Bryan Hudson"
-    },
-    {
-      "date": "2026-03-27",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesrecalled CBraxton Fulfordfrom Albuquerque Isotopes.",
       "player": "Braxton Fulford"
+    },
+    {
+      "date": "2026-03-27",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxclaimed LHPBryan Hudsonoff waivers fromNew York Mets.",
+      "player": "Bryan Hudson"
     }
   ]
 }
