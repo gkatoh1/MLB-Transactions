@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T17:53:36.527579",
+  "last_updated": "2026-03-27T19:05:25.935404",
   "transactions": [
     {
       "date": "2026-03-27",
@@ -9,9 +9,27 @@
     },
     {
       "date": "2026-03-27",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RFMickey Moniakon the 10-day injured list retroactive to March 24, 2026. Right ring finger sprain.",
+      "player": "Mickey Moniak"
+    },
+    {
+      "date": "2026-03-27",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliessigned free agent SSSergio Alcántarato a minor league contract.",
       "player": "Sergio Alcántara"
+    },
+    {
+      "date": "2026-03-27",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled CBraxton Fulfordfrom Albuquerque Isotopes.",
+      "player": "Braxton Fulford"
+    },
+    {
+      "date": "2026-03-27",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent CCésar Salazaroutright to Sugar Land Space Cowboys.",
+      "player": "César Salazar"
     }
   ]
 }
