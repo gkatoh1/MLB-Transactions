@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T22:39:49.665401",
+  "last_updated": "2026-03-29T23:41:52.736993",
   "transactions": [
     {
       "date": "2026-03-29",
@@ -12,24 +12,6 @@
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsdesignated RHPVictor Mederosfor assignment.",
       "player": "Victor Mederos"
-    },
-    {
-      "date": "2026-03-29",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned RHPWalbert Urenato Salt Lake Bees.",
-      "player": "Walbert Urena"
-    },
-    {
-      "date": "2026-03-29",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianstraded RF Johnathan Rodríguez toBaltimore Oriolesfor RHPCarter Rustad.",
-      "player": "Carter Rustad"
-    },
-    {
-      "date": "2026-03-29",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianstraded RFJohnathan RodrígueztoBaltimore Oriolesfor RHP Carter Rustad.",
-      "player": "Johnathan Rodríguez"
     },
     {
       "date": "2026-03-29",
@@ -51,14 +33,32 @@
     },
     {
       "date": "2026-03-29",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned LHPJayvien Sandridgeto Norfolk Tides.",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstraded LHPJayvien SandridgetoBaltimore Oriolesfor cash.",
       "player": "Jayvien Sandridge"
     },
     {
       "date": "2026-03-29",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianstraded RF Johnathan Rodríguez toBaltimore Oriolesfor RHPCarter Rustad.",
+      "player": "Carter Rustad"
+    },
+    {
+      "date": "2026-03-29",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianstraded RFJohnathan RodrígueztoBaltimore Oriolesfor RHP Carter Rustad.",
+      "player": "Johnathan Rodríguez"
+    },
+    {
+      "date": "2026-03-29",
       "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelstraded LHPJayvien SandridgetoBaltimore Oriolesfor cash.",
+      "details": "Los Angeles Angelsoptioned RHPWalbert Urenato Salt Lake Bees.",
+      "player": "Walbert Urena"
+    },
+    {
+      "date": "2026-03-29",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPJayvien Sandridgeto Norfolk Tides.",
       "player": "Jayvien Sandridge"
     }
   ]
