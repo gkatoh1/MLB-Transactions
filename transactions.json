@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T19:38:07.100240",
+  "last_updated": "2026-03-29T20:42:01.045658",
   "transactions": [
     {
       "date": "2026-03-29",
@@ -15,18 +15,6 @@
     },
     {
       "date": "2026-03-29",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelstraded LHPJayvien SandridgetoBaltimore Oriolesfor cash.",
-      "player": "Jayvien Sandridge"
-    },
-    {
-      "date": "2026-03-29",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned RHPWalbert Urenato Salt Lake Bees.",
-      "player": "Walbert Urena"
-    },
-    {
-      "date": "2026-03-29",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned LHPJayvien Sandridgeto Norfolk Tides.",
       "player": "Jayvien Sandridge"
@@ -34,8 +22,20 @@
     {
       "date": "2026-03-29",
       "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstraded LHPJayvien SandridgetoBaltimore Oriolesfor cash.",
+      "player": "Jayvien Sandridge"
+    },
+    {
+      "date": "2026-03-29",
+      "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsselected the contract of RHPShaun Andersonfrom Salt Lake Bees.",
       "player": "Shaun Anderson"
+    },
+    {
+      "date": "2026-03-29",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPWalbert Urenato Salt Lake Bees.",
+      "player": "Walbert Urena"
     }
   ]
 }
