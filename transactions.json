@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-03-30T17:05:01.141477",
+  "last_updated": "2026-03-30T19:11:07.309587",
   "transactions": [
     {
       "date": "2026-03-30",
       "team": "Washington Nationals",
       "details": "Washington Nationalsactivated 1BCurtis Mead.",
       "player": "Curtis Mead"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated SSLeo Jiménez.",
+      "player": "Leo Jiménez"
     },
     {
       "date": "2026-03-30",
@@ -24,6 +30,12 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPDidier Fuentesto Gwinnett Stripers.",
       "player": "Didier Fuentes"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned 3BDeyvison De Los Santosto Jacksonville Jumbo Shrimp.",
+      "player": "Deyvison De Los Santos"
     }
   ]
 }
