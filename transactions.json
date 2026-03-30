@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-03-30T20:55:37.082978",
+  "last_updated": "2026-03-30T21:51:32.128727",
   "transactions": [
-    {
-      "date": "2026-03-30",
-      "team": "Houston Astros",
-      "details": "Houston Astrostransferred RHPHayden Wesneskifrom the 15-day injured list to the 60-day injured list. Recovery from right elbow surgery.",
-      "player": "Hayden Wesneski"
-    },
     {
       "date": "2026-03-30",
       "team": "Washington Nationals",
@@ -33,9 +27,15 @@
     },
     {
       "date": "2026-03-30",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantstraded RFLuis MatostoMilwaukee Brewersfor cash.",
-      "player": "Luis Matos"
+      "team": "Houston Astros",
+      "details": "Houston Astrostransferred RHPHayden Wesneskifrom the 15-day injured list to the 60-day injured list. Recovery from right elbow surgery.",
+      "player": "Hayden Wesneski"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent RHPJhoriel De La Rosato a minor league contract.",
+      "player": "Jhoriel De La Rosa"
     },
     {
       "date": "2026-03-30",
@@ -45,21 +45,15 @@
     },
     {
       "date": "2026-03-30",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned 3BDeyvison De Los Santosto Jacksonville Jumbo Shrimp.",
-      "player": "Deyvison De Los Santos"
-    },
-    {
-      "date": "2026-03-30",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of LHPMartín Pérezfrom Columbus Clingstones.",
-      "player": "Martín Pérez"
-    },
-    {
-      "date": "2026-03-30",
       "team": "Detroit Tigers",
       "details": "Detroit Tigerstraded RHPDylan SmithtoSan Francisco Giantsfor cash.",
       "player": "Dylan Smith"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned 3BDeyvison De Los Santosto Jacksonville Jumbo Shrimp.",
+      "player": "Deyvison De Los Santos"
     },
     {
       "date": "2026-03-30",
@@ -75,6 +69,12 @@
     },
     {
       "date": "2026-03-30",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstraded RFLuis MatostoMilwaukee Brewersfor cash.",
+      "player": "Luis Matos"
+    },
+    {
+      "date": "2026-03-30",
       "team": "Houston Astros",
       "details": "Houston Astrosoptioned RHPChristian Roato Sugar Land Space Cowboys.",
       "player": "Christian Roa"
@@ -84,6 +84,12 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPDidier Fuentesto Gwinnett Stripers.",
       "player": "Didier Fuentes"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of LHPMartín Pérezfrom Columbus Clingstones.",
+      "player": "Martín Pérez"
     }
   ]
 }
