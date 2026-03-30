@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-03-30T19:11:07.309587",
+  "last_updated": "2026-03-30T20:55:37.082978",
   "transactions": [
+    {
+      "date": "2026-03-30",
+      "team": "Houston Astros",
+      "details": "Houston Astrostransferred RHPHayden Wesneskifrom the 15-day injured list to the 60-day injured list. Recovery from right elbow surgery.",
+      "player": "Hayden Wesneski"
+    },
     {
       "date": "2026-03-30",
       "team": "Washington Nationals",
@@ -15,9 +21,21 @@
     },
     {
       "date": "2026-03-30",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of LHPMartín Pérezfrom Columbus Clingstones.",
-      "player": "Martín Pérez"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsdesignated 2BTyler Fitzgeraldfor assignment.",
+      "player": "Tyler Fitzgerald"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated LHPSammy Peraltafor assignment.",
+      "player": "Sammy Peralta"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstraded RFLuis MatostoMilwaukee Brewersfor cash.",
+      "player": "Luis Matos"
     },
     {
       "date": "2026-03-30",
@@ -27,15 +45,45 @@
     },
     {
       "date": "2026-03-30",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPDidier Fuentesto Gwinnett Stripers.",
-      "player": "Didier Fuentes"
-    },
-    {
-      "date": "2026-03-30",
       "team": "Miami Marlins",
       "details": "Miami Marlinsoptioned 3BDeyvison De Los Santosto Jacksonville Jumbo Shrimp.",
       "player": "Deyvison De Los Santos"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of LHPMartín Pérezfrom Columbus Clingstones.",
+      "player": "Martín Pérez"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerstraded RHPDylan SmithtoSan Francisco Giantsfor cash.",
+      "player": "Dylan Smith"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPDylan Smithto Sacramento River Cats.",
+      "player": "Dylan Smith"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "Houston Astros",
+      "details": "Houston Astrosselected the contract of RHPCody Boltonfrom Sugar Land Space Cowboys.",
+      "player": "Cody Bolton"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPChristian Roato Sugar Land Space Cowboys.",
+      "player": "Christian Roa"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPDidier Fuentesto Gwinnett Stripers.",
+      "player": "Didier Fuentes"
     }
   ]
 }
