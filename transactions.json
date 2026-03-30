@@ -1,17 +1,11 @@
 {
-  "last_updated": "2026-03-30T21:51:32.128727",
+  "last_updated": "2026-03-30T22:46:49.332104",
   "transactions": [
     {
       "date": "2026-03-30",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated 1BCurtis Mead.",
-      "player": "Curtis Mead"
-    },
-    {
-      "date": "2026-03-30",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsactivated SSLeo Jiménez.",
-      "player": "Leo Jiménez"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent RHPJhoriel De La Rosato a minor league contract.",
+      "player": "Jhoriel De La Rosa"
     },
     {
       "date": "2026-03-30",
@@ -27,33 +21,39 @@
     },
     {
       "date": "2026-03-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated SSLeo Jiménez.",
+      "player": "Leo Jiménez"
+    },
+    {
+      "date": "2026-03-30",
       "team": "Houston Astros",
       "details": "Houston Astrostransferred RHPHayden Wesneskifrom the 15-day injured list to the 60-day injured list. Recovery from right elbow surgery.",
       "player": "Hayden Wesneski"
     },
     {
       "date": "2026-03-30",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned free agent RHPJhoriel De La Rosato a minor league contract.",
-      "player": "Jhoriel De La Rosa"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansdesignated LHPDoug Nikhazyfor assignment.",
+      "player": "Doug Nikhazy"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced 1BPavin Smithon the 10-day injured list. Left elbow inflammation.",
+      "player": "Pavin Smith"
     },
     {
       "date": "2026-03-30",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned 1BAndrés Chaparroto Rochester Red Wings.",
-      "player": "Andrés Chaparro"
+      "details": "Washington Nationalsactivated 1BCurtis Mead.",
+      "player": "Curtis Mead"
     },
     {
       "date": "2026-03-30",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerstraded RHPDylan SmithtoSan Francisco Giantsfor cash.",
-      "player": "Dylan Smith"
-    },
-    {
-      "date": "2026-03-30",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned 3BDeyvison De Los Santosto Jacksonville Jumbo Shrimp.",
-      "player": "Deyvison De Los Santos"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent CFDairon Blancooutright to Round Rock Express.",
+      "player": "Dairon Blanco"
     },
     {
       "date": "2026-03-30",
@@ -69,9 +69,9 @@
     },
     {
       "date": "2026-03-30",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantstraded RFLuis MatostoMilwaukee Brewersfor cash.",
-      "player": "Luis Matos"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of LHPMartín Pérezfrom Columbus Clingstones.",
+      "player": "Martín Pérez"
     },
     {
       "date": "2026-03-30",
@@ -87,9 +87,45 @@
     },
     {
       "date": "2026-03-30",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of LHPMartín Pérezfrom Columbus Clingstones.",
-      "player": "Martín Pérez"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansselected the contract of LHPKolby Allardfrom Columbus Clippers.",
+      "player": "Kolby Allard"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerstraded RHPDylan SmithtoSan Francisco Giantsfor cash.",
+      "player": "Dylan Smith"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned 3BDeyvison De Los Santosto Jacksonville Jumbo Shrimp.",
+      "player": "Deyvison De Los Santos"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPColin Holdermanto Columbus Clippers.",
+      "player": "Colin Holderman"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstraded RFLuis MatostoMilwaukee Brewersfor cash.",
+      "player": "Luis Matos"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned 1BAndrés Chaparroto Rochester Red Wings.",
+      "player": "Andrés Chaparro"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled SSJose Fernandezfrom Reno Aces.",
+      "player": "Jose Fernandez"
     }
   ]
 }
