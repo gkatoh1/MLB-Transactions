@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-03-30T13:57:21.093269",
+  "last_updated": "2026-03-30T15:15:10.102712",
   "transactions": [
+    {
+      "date": "2026-03-30",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of LHPMartín Pérezfrom Columbus Clingstones.",
+      "player": "Martín Pérez"
+    },
     {
       "date": "2026-03-30",
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned 1BAndrés Chaparroto Rochester Red Wings.",
       "player": "Andrés Chaparro"
+    },
+    {
+      "date": "2026-03-30",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPDidier Fuentesto Gwinnett Stripers.",
+      "player": "Didier Fuentes"
     }
   ]
 }
