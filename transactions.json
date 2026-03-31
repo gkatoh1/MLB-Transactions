@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-03-31T20:51:56.726077",
+  "last_updated": "2026-03-31T21:48:50.381848",
   "transactions": [
     {
       "date": "2026-03-31",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent RFGeorge Valeraon a rehab assignment to Columbus Clippers.",
-      "player": "George Valera"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent CAdrian Del Castilloon a rehab assignment to Reno Aces.",
+      "player": "Adrian Del Castillo"
+    },
+    {
+      "date": "2026-03-31",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RFSteward Berroaon a rehab assignment to Nashville Sounds.",
+      "player": "Steward Berroa"
     },
     {
       "date": "2026-03-31",
@@ -22,8 +28,8 @@
     {
       "date": "2026-03-31",
       "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsplaced RHPMatt Pushardon the 15-day injured list retroactive to March 30, 2026. Right knee patellar tendinitis.",
-      "player": "Matt Pushard"
+      "details": "St. Louis Cardinalssent RHPHunter Dobbinson a rehab assignment to Memphis Redbirds.",
+      "player": "Hunter Dobbins"
     },
     {
       "date": "2026-03-31",
@@ -33,6 +39,18 @@
     },
     {
       "date": "2026-03-31",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent SSJ.P. Crawfordon a rehab assignment to Tacoma Rainiers.",
+      "player": "J.P. Crawford"
+    },
+    {
+      "date": "2026-03-31",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent 1BBlaine Crimon a rehab assignment to Albuquerque Isotopes.",
+      "player": "Blaine Crim"
+    },
+    {
+      "date": "2026-03-31",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerssent RFSteward Berroaon a rehab assignment to Nashville Sounds.",
       "player": "Steward Berroa"
@@ -46,14 +64,20 @@
     {
       "date": "2026-03-31",
       "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssent RHPHunter Dobbinson a rehab assignment to Memphis Redbirds.",
-      "player": "Hunter Dobbins"
+      "details": "St. Louis Cardinalsplaced RHPMatt Pushardon the 15-day injured list retroactive to March 30, 2026. Right knee patellar tendinitis.",
+      "player": "Matt Pushard"
     },
     {
       "date": "2026-03-31",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent RFSteward Berroaon a rehab assignment to Nashville Sounds.",
-      "player": "Steward Berroa"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent LFZac Veenon a rehab assignment to Albuquerque Isotopes.",
+      "player": "Zac Veen"
+    },
+    {
+      "date": "2026-03-31",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RFGeorge Valeraon a rehab assignment to Columbus Clippers.",
+      "player": "George Valera"
     },
     {
       "date": "2026-03-31",
