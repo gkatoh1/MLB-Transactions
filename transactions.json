@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-01T20:54:55.254291",
+  "last_updated": "2026-04-01T21:51:43.436257",
   "transactions": [
     {
       "date": "2026-04-01",
@@ -10,8 +10,32 @@
     {
       "date": "2026-04-01",
       "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPAndrew Kittredgeon a rehab assignment to Norfolk Tides.",
+      "player": "Andrew Kittredge"
+    },
+    {
+      "date": "2026-04-01",
+      "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesplaced RHPZach Eflinon the 15-day injured list. Right elbow discomfort.",
       "player": "Zach Eflin"
+    },
+    {
+      "date": "2026-04-01",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestransferred 3BJordan Westburgfrom the 10-day injured list to the 60-day injured list. Right elbow UCL sprain.",
+      "player": "Jordan Westburg"
+    },
+    {
+      "date": "2026-04-01",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RHPJedixson Paezfor assignment.",
+      "player": "Jedixson Paez"
+    },
+    {
+      "date": "2026-04-01",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPCarlos Estévezon the 15-day injured list retroactive to March 29, 2026. Left foot contusion.",
+      "player": "Carlos Estévez"
     },
     {
       "date": "2026-04-01",
@@ -22,32 +46,14 @@
     {
       "date": "2026-04-01",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated RHPJedixson Paezfor assignment.",
-      "player": "Jedixson Paez"
+      "details": "Chicago White Soxselected the contract of RHPLucas Simsfrom Charlotte Knights.",
+      "player": "Lucas Sims"
     },
     {
       "date": "2026-04-01",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolestransferred 3BJordan Westburgfrom the 10-day injured list to the 60-day injured list. Right elbow UCL sprain.",
-      "player": "Jordan Westburg"
-    },
-    {
-      "date": "2026-04-01",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced RHPCarlos Estévezon the 15-day injured list retroactive to March 29, 2026. Left foot contusion.",
-      "player": "Carlos Estévez"
-    },
-    {
-      "date": "2026-04-01",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent RHPAndrew Kittredgeon a rehab assignment to Norfolk Tides.",
-      "player": "Andrew Kittredge"
-    },
-    {
-      "date": "2026-04-01",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPSteven Cruzfrom Omaha Storm Chasers.",
-      "player": "Steven Cruz"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded LHPJake EdertoLos Angeles Dodgersfor cash.",
+      "player": "Jake Eder"
     },
     {
       "date": "2026-04-01",
@@ -57,21 +63,15 @@
     },
     {
       "date": "2026-04-01",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of RHPLucas Simsfrom Charlotte Knights.",
-      "player": "Lucas Sims"
-    },
-    {
-      "date": "2026-04-01",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesselected the contract of RHPAlbert Suárezfrom Norfolk Tides.",
       "player": "Albert Suárez"
     },
     {
       "date": "2026-04-01",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded LHPJake EdertoLos Angeles Dodgersfor cash.",
-      "player": "Jake Eder"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPSteven Cruzfrom Omaha Storm Chasers.",
+      "player": "Steven Cruz"
     }
   ]
 }
