@@ -1,23 +1,11 @@
 {
-  "last_updated": "2026-03-31T23:41:14.153374",
+  "last_updated": "2026-04-01T03:31:51.477174",
   "transactions": [
     {
       "date": "2026-03-31",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssent RHPHunter Dobbinson a rehab assignment to Memphis Redbirds.",
-      "player": "Hunter Dobbins"
-    },
-    {
-      "date": "2026-03-31",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsplaced RHPMatt Pushardon the 15-day injured list retroactive to March 30, 2026. Right knee patellar tendinitis.",
-      "player": "Matt Pushard"
-    },
-    {
-      "date": "2026-03-31",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced RHPCody Ponceon the 15-day injured list. Right knee ACL sprain.",
-      "player": "Cody Ponce"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent 2BVaughn Grissomon a rehab assignment to Salt Lake Bees.",
+      "player": "Vaughn Grissom"
     },
     {
       "date": "2026-03-31",
@@ -27,9 +15,15 @@
     },
     {
       "date": "2026-03-31",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent LFZac Veenon a rehab assignment to Albuquerque Isotopes.",
-      "player": "Zac Veen"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsplaced RHPMatt Pushardon the 15-day injured list retroactive to March 30, 2026. Right knee patellar tendinitis.",
+      "player": "Matt Pushard"
+    },
+    {
+      "date": "2026-03-31",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RFSteward Berroaon a rehab assignment to Nashville Sounds.",
+      "player": "Steward Berroa"
     },
     {
       "date": "2026-03-31",
@@ -39,9 +33,21 @@
     },
     {
       "date": "2026-03-31",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent RFSteward Berroaon a rehab assignment to Nashville Sounds.",
-      "player": "Steward Berroa"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent SSJ.P. Crawfordon a rehab assignment to Tacoma Rainiers.",
+      "player": "J.P. Crawford"
+    },
+    {
+      "date": "2026-03-31",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent LFZac Veenon a rehab assignment to Albuquerque Isotopes.",
+      "player": "Zac Veen"
+    },
+    {
+      "date": "2026-03-31",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent 1BBlaine Crimon a rehab assignment to Albuquerque Isotopes.",
+      "player": "Blaine Crim"
     },
     {
       "date": "2026-03-31",
@@ -57,33 +63,27 @@
     },
     {
       "date": "2026-03-31",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent LHPRob Zastryznyon a rehab assignment to Nashville Sounds.",
-      "player": "Rob Zastryzny"
-    },
-    {
-      "date": "2026-03-31",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssent SSJ.P. Crawfordon a rehab assignment to Tacoma Rainiers.",
-      "player": "J.P. Crawford"
-    },
-    {
-      "date": "2026-03-31",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent 1BBlaine Crimon a rehab assignment to Albuquerque Isotopes.",
-      "player": "Blaine Crim"
-    },
-    {
-      "date": "2026-03-31",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent 2BVaughn Grissomon a rehab assignment to Salt Lake Bees.",
-      "player": "Vaughn Grissom"
-    },
-    {
-      "date": "2026-03-31",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbackssent CAdrian Del Castilloon a rehab assignment to Reno Aces.",
       "player": "Adrian Del Castillo"
+    },
+    {
+      "date": "2026-03-31",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RHPCody Ponceon the 15-day injured list. Right knee ACL sprain.",
+      "player": "Cody Ponce"
+    },
+    {
+      "date": "2026-03-31",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent RHPHunter Dobbinson a rehab assignment to Memphis Redbirds.",
+      "player": "Hunter Dobbins"
+    },
+    {
+      "date": "2026-03-31",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPRob Zastryznyon a rehab assignment to Nashville Sounds.",
+      "player": "Rob Zastryzny"
     },
     {
       "date": "2026-03-31",
