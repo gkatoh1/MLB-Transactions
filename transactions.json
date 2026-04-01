@@ -1,17 +1,23 @@
 {
-  "last_updated": "2026-04-01T15:14:41.847564",
+  "last_updated": "2026-04-01T17:04:39.740963",
   "transactions": [
-    {
-      "date": "2026-04-01",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolestransferred 3BJordan Westburgfrom the 10-day injured list to the 60-day injured list. Right elbow UCL sprain.",
-      "player": "Jordan Westburg"
-    },
     {
       "date": "2026-04-01",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxdesignated RHPJedixson Paezfor assignment.",
       "player": "Jedixson Paez"
+    },
+    {
+      "date": "2026-04-01",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated RFTyler Freemanfrom the 10-day injured list.",
+      "player": "Tyler Freeman"
+    },
+    {
+      "date": "2026-04-01",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerstransferred RHPJake Cousinsfrom the 15-day injured list to the 60-day injured list.",
+      "player": "Jake Cousins"
     },
     {
       "date": "2026-04-01",
@@ -21,9 +27,15 @@
     },
     {
       "date": "2026-04-01",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesactivated RFTyler Freemanfrom the 10-day injured list.",
-      "player": "Tyler Freeman"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPAndrew Kittredgeon a rehab assignment to Norfolk Tides.",
+      "player": "Andrew Kittredge"
+    },
+    {
+      "date": "2026-04-01",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestransferred 3BJordan Westburgfrom the 10-day injured list to the 60-day injured list. Right elbow UCL sprain.",
+      "player": "Jordan Westburg"
     },
     {
       "date": "2026-04-01",
@@ -42,6 +54,12 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesselected the contract of RHPAlbert Suárezfrom Norfolk Tides.",
       "player": "Albert Suárez"
+    },
+    {
+      "date": "2026-04-01",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded LHPJake EdertoLos Angeles Dodgersfor cash.",
+      "player": "Jake Eder"
     }
   ]
 }
