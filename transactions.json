@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-04-01T21:51:43.436257",
+  "last_updated": "2026-04-01T22:48:59.965496",
   "transactions": [
     {
       "date": "2026-04-01",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerstransferred RHPJake Cousinsfrom the 15-day injured list to the 60-day injured list.",
-      "player": "Jake Cousins"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RHPJedixson Paezfor assignment.",
+      "player": "Jedixson Paez"
     },
     {
       "date": "2026-04-01",
@@ -15,9 +15,9 @@
     },
     {
       "date": "2026-04-01",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced RHPZach Eflinon the 15-day injured list. Right elbow discomfort.",
-      "player": "Zach Eflin"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPCarlos Estévezon the 15-day injured list retroactive to March 29, 2026. Left foot contusion.",
+      "player": "Carlos Estévez"
     },
     {
       "date": "2026-04-01",
@@ -27,39 +27,27 @@
     },
     {
       "date": "2026-04-01",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated RHPJedixson Paezfor assignment.",
-      "player": "Jedixson Paez"
-    },
-    {
-      "date": "2026-04-01",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced RHPCarlos Estévezon the 15-day injured list retroactive to March 29, 2026. Left foot contusion.",
-      "player": "Carlos Estévez"
-    },
-    {
-      "date": "2026-04-01",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesactivated RFTyler Freemanfrom the 10-day injured list.",
       "player": "Tyler Freeman"
     },
     {
       "date": "2026-04-01",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of RHPLucas Simsfrom Charlotte Knights.",
-      "player": "Lucas Sims"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerstransferred RHPJake Cousinsfrom the 15-day injured list to the 60-day injured list.",
+      "player": "Jake Cousins"
     },
     {
       "date": "2026-04-01",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded LHPJake EdertoLos Angeles Dodgersfor cash.",
-      "player": "Jake Eder"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPZach Eflinon the 15-day injured list. Right elbow discomfort.",
+      "player": "Zach Eflin"
     },
     {
       "date": "2026-04-01",
       "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned CBraxton Fulfordto Albuquerque Isotopes.",
-      "player": "Braxton Fulford"
+      "details": "Colorado Rockiessigned free agent CAndrew Kniznerto a minor league contract.",
+      "player": "Andrew Knizner"
     },
     {
       "date": "2026-04-01",
@@ -72,6 +60,24 @@
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsrecalled RHPSteven Cruzfrom Omaha Storm Chasers.",
       "player": "Steven Cruz"
+    },
+    {
+      "date": "2026-04-01",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of RHPLucas Simsfrom Charlotte Knights.",
+      "player": "Lucas Sims"
+    },
+    {
+      "date": "2026-04-01",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned CBraxton Fulfordto Albuquerque Isotopes.",
+      "player": "Braxton Fulford"
+    },
+    {
+      "date": "2026-04-01",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded LHPJake EdertoLos Angeles Dodgersfor cash.",
+      "player": "Jake Eder"
     }
   ]
 }
