@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-04-01T23:43:50.085073",
+  "last_updated": "2026-04-02T02:56:40.602850",
   "transactions": [
+    {
+      "date": "2026-04-01",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPAndrew Kittredgeon a rehab assignment to Norfolk Tides.",
+      "player": "Andrew Kittredge"
+    },
+    {
+      "date": "2026-04-01",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPCarlos Estévezon the 15-day injured list retroactive to March 29, 2026. Left foot contusion.",
+      "player": "Carlos Estévez"
+    },
+    {
+      "date": "2026-04-01",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerstransferred RHPGavin Stonefrom the 15-day injured list to the 60-day injured list. Right shoulder inflammation.",
+      "player": "Gavin Stone"
+    },
+    {
+      "date": "2026-04-01",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPZach Eflinon the 15-day injured list. Right elbow discomfort.",
+      "player": "Zach Eflin"
+    },
+    {
+      "date": "2026-04-01",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessigned free agent CAndrew Kniznerto a minor league contract.",
+      "player": "Andrew Knizner"
+    },
+    {
+      "date": "2026-04-01",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersreassigned RHPGrant Holmanto the minor leagues.",
+      "player": "Grant Holman"
+    },
     {
       "date": "2026-04-01",
       "team": "Colorado Rockies",
@@ -9,9 +45,15 @@
     },
     {
       "date": "2026-04-01",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessigned free agent CAndrew Kniznerto a minor league contract.",
-      "player": "Andrew Knizner"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RHPJedixson Paezfor assignment.",
+      "player": "Jedixson Paez"
+    },
+    {
+      "date": "2026-04-01",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent LHPNick Lodoloon a rehab assignment to Daytona Tortugas.",
+      "player": "Nick Lodolo"
     },
     {
       "date": "2026-04-01",
@@ -28,62 +70,20 @@
     {
       "date": "2026-04-01",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated RHPJedixson Paezfor assignment.",
-      "player": "Jedixson Paez"
-    },
-    {
-      "date": "2026-04-01",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced RHPZach Eflinon the 15-day injured list. Right elbow discomfort.",
-      "player": "Zach Eflin"
-    },
-    {
-      "date": "2026-04-01",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced RHPCarlos Estévezon the 15-day injured list retroactive to March 29, 2026. Left foot contusion.",
-      "player": "Carlos Estévez"
-    },
-    {
-      "date": "2026-04-01",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersreassigned RHPGrant Holmanto the minor leagues.",
-      "player": "Grant Holman"
-    },
-    {
-      "date": "2026-04-01",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerstransferred RHPGavin Stonefrom the 15-day injured list to the 60-day injured list. Right shoulder inflammation.",
-      "player": "Gavin Stone"
-    },
-    {
-      "date": "2026-04-01",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent RHPAndrew Kittredgeon a rehab assignment to Norfolk Tides.",
-      "player": "Andrew Kittredge"
-    },
-    {
-      "date": "2026-04-01",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersoptioned RHPGrant Holmanto ACL Dodgers.",
-      "player": "Grant Holman"
-    },
-    {
-      "date": "2026-04-01",
-      "team": "Chicago White Sox",
       "details": "Chicago White Soxselected the contract of RHPLucas Simsfrom Charlotte Knights.",
       "player": "Lucas Sims"
     },
     {
       "date": "2026-04-01",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPSteven Cruzfrom Omaha Storm Chasers.",
-      "player": "Steven Cruz"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of RHPAlbert Suárezfrom Norfolk Tides.",
+      "player": "Albert Suárez"
     },
     {
       "date": "2026-04-01",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent 2BBrett Wiselyoutright to Gwinnett Stripers.",
-      "player": "Brett Wisely"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded LHPJake EdertoLos Angeles Dodgersfor cash.",
+      "player": "Jake Eder"
     },
     {
       "date": "2026-04-01",
@@ -105,21 +105,27 @@
     },
     {
       "date": "2026-04-01",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent 2BBrett Wiselyoutright to Gwinnett Stripers.",
+      "player": "Brett Wisely"
+    },
+    {
+      "date": "2026-04-01",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersclaimed RHPGrant Holmanoff waivers fromArizona Diamondbacks.",
       "player": "Grant Holman"
     },
     {
       "date": "2026-04-01",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded LHPJake EdertoLos Angeles Dodgersfor cash.",
-      "player": "Jake Eder"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPGrant Holmanto ACL Dodgers.",
+      "player": "Grant Holman"
     },
     {
       "date": "2026-04-01",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of RHPAlbert Suárezfrom Norfolk Tides.",
-      "player": "Albert Suárez"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPSteven Cruzfrom Omaha Storm Chasers.",
+      "player": "Steven Cruz"
     }
   ]
 }
