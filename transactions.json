@@ -1,11 +1,29 @@
 {
-  "last_updated": "2026-04-02T21:47:39.957371",
+  "last_updated": "2026-04-02T22:40:12.265771",
   "transactions": [
     {
       "date": "2026-04-02",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced LHPJose Quintanaon the 15-day injured list retroactive to March 30, 2026. Right hamstring strain.",
+      "player": "Jose Quintana"
+    },
+    {
+      "date": "2026-04-02",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent LFGavin Luxon a rehab assignment to Durham Bulls.",
+      "player": "Gavin Lux"
+    },
+    {
+      "date": "2026-04-02",
       "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated SSJ.P. Crawfordfrom the 10-day injured list.",
-      "player": "J.P. Crawford"
+      "details": "Seattle Marinersreleased RHPRyan Loutos.",
+      "player": "Ryan Loutos"
+    },
+    {
+      "date": "2026-04-02",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced RHPJosé Buttóon the 15-day injured list. Right arm fatigue.",
+      "player": "José Buttó"
     },
     {
       "date": "2026-04-02",
@@ -22,8 +40,14 @@
     {
       "date": "2026-04-02",
       "team": "Seattle Mariners",
-      "details": "Seattle Marinersreleased RHPRyan Loutos.",
-      "player": "Ryan Loutos"
+      "details": "Seattle Marinersactivated SSJ.P. Crawfordfrom the 10-day injured list.",
+      "player": "J.P. Crawford"
+    },
+    {
+      "date": "2026-04-02",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPBlade Tidwellfrom Sacramento River Cats.",
+      "player": "Blade Tidwell"
     },
     {
       "date": "2026-04-02",
@@ -33,15 +57,27 @@
     },
     {
       "date": "2026-04-02",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned OFBilly Cookto Indianapolis Indians.",
-      "player": "Billy Cook"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPValente Bellozofrom Albuquerque Isotopes.",
+      "player": "Valente Bellozo"
+    },
+    {
+      "date": "2026-04-02",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned SSRyan Ritterto Albuquerque Isotopes.",
+      "player": "Ryan Ritter"
     },
     {
       "date": "2026-04-02",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersoptioned 2BRyan Blissto Tacoma Rainiers.",
       "player": "Ryan Bliss"
+    },
+    {
+      "date": "2026-04-02",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned OFBilly Cookto Indianapolis Indians.",
+      "player": "Billy Cook"
     }
   ]
 }
