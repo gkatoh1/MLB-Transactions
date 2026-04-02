@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-04-02T19:06:56.798572",
+  "last_updated": "2026-04-02T20:43:49.268267",
   "transactions": [
+    {
+      "date": "2026-04-02",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated SSJ.P. Crawfordfrom the 10-day injured list.",
+      "player": "J.P. Crawford"
+    },
+    {
+      "date": "2026-04-02",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPEnyel De Los Santoson a rehab assignment to Corpus Christi Hooks.",
+      "player": "Enyel De Los Santos"
+    },
     {
       "date": "2026-04-02",
       "team": "Chicago Cubs",
@@ -9,9 +21,21 @@
     },
     {
       "date": "2026-04-02",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RHPEnyel De Los Santoson a rehab assignment to Corpus Christi Hooks.",
-      "player": "Enyel De Los Santos"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersreleased RHPRyan Loutos.",
+      "player": "Ryan Loutos"
+    },
+    {
+      "date": "2026-04-02",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RFSteward Berroato Nashville Sounds.",
+      "player": "Steward Berroa"
+    },
+    {
+      "date": "2026-04-02",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned 2BRyan Blissto Tacoma Rainiers.",
+      "player": "Ryan Bliss"
     }
   ]
 }
