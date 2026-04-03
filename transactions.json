@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-04-03T19:48:02.330330",
+  "last_updated": "2026-04-03T20:46:33.337211",
   "transactions": [
     {
       "date": "2026-04-03",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated RFMickey Moniakfrom the 10-day injured list.",
+      "player": "Mickey Moniak"
+    },
+    {
+      "date": "2026-04-03",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced LHPBailey Falteron the 15-day injured list retroactive to April 2, 2026. Left elbow inflammation.",
+      "player": "Bailey Falter"
+    },
+    {
+      "date": "2026-04-03",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced RHPGarrett Whitlockon the paternity list.",
-      "player": "Garrett Whitlock"
+      "details": "Boston Red Soxplaced RHPJohan Oviedoon the 15-day injured list retroactive to March 31, 2026. Right elbow strain.",
+      "player": "Johan Oviedo"
     },
     {
       "date": "2026-04-03",
@@ -21,33 +33,9 @@
     },
     {
       "date": "2026-04-03",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesactivated RFMickey Moniakfrom the 10-day injured list.",
-      "player": "Mickey Moniak"
-    },
-    {
-      "date": "2026-04-03",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RHPSawyer Gipson-Longon a rehab assignment to Lakeland Flying Tigers.",
-      "player": "Sawyer Gipson-Long"
-    },
-    {
-      "date": "2026-04-03",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysplaced LHPGarrett Cleavingeron the 15-day injured list retroactive to March 31, 2026. Right calf tightness.",
       "player": "Garrett Cleavinger"
-    },
-    {
-      "date": "2026-04-03",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced RHPJohan Oviedoon the 15-day injured list retroactive to March 31, 2026. Right elbow strain.",
-      "player": "Johan Oviedo"
-    },
-    {
-      "date": "2026-04-03",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced LHPBailey Falteron the 15-day injured list retroactive to April 2, 2026. Left elbow inflammation.",
-      "player": "Bailey Falter"
     },
     {
       "date": "2026-04-03",
@@ -57,15 +45,45 @@
     },
     {
       "date": "2026-04-03",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesselected the contract of SSKonnor Griffinfrom Indianapolis Indians.",
-      "player": "Konnor Griffin"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPSawyer Gipson-Longon a rehab assignment to Lakeland Flying Tigers.",
+      "player": "Sawyer Gipson-Long"
+    },
+    {
+      "date": "2026-04-03",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced 3BIsaac Paredeson the bereavement list.",
+      "player": "Isaac Paredes"
+    },
+    {
+      "date": "2026-04-03",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated RFSteward Berroafor assignment.",
+      "player": "Steward Berroa"
+    },
+    {
+      "date": "2026-04-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced RHPGarrett Whitlockon the paternity list.",
+      "player": "Garrett Whitlock"
     },
     {
       "date": "2026-04-03",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxrecalled RHPTyler Uberstinefrom Worcester Red Sox.",
       "player": "Tyler Uberstine"
+    },
+    {
+      "date": "2026-04-03",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled LFShay Whitcombfrom Sugar Land Space Cowboys.",
+      "player": "Shay Whitcomb"
+    },
+    {
+      "date": "2026-04-03",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned SSCooper Prattto Nashville Sounds.",
+      "player": "Cooper Pratt"
     },
     {
       "date": "2026-04-03",
@@ -84,6 +102,18 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxrecalled RHPZack Kellyfrom Worcester Red Sox.",
       "player": "Zack Kelly"
+    },
+    {
+      "date": "2026-04-03",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesselected the contract of SSKonnor Griffinfrom Indianapolis Indians.",
+      "player": "Konnor Griffin"
+    },
+    {
+      "date": "2026-04-03",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of SSCooper Prattfrom Nashville Sounds.",
+      "player": "Cooper Pratt"
     }
   ]
 }
