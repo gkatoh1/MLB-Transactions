@@ -1,11 +1,29 @@
 {
-  "last_updated": "2026-04-03T15:46:42.654970",
+  "last_updated": "2026-04-03T16:52:05.662655",
   "transactions": [
+    {
+      "date": "2026-04-03",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned free agent RHPBenjamin Ariasto a minor league contract.",
+      "player": "Benjamin Arias"
+    },
     {
       "date": "2026-04-03",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesdesignated 1BEnmanuel Valdezfor assignment.",
       "player": "Enmanuel Valdez"
+    },
+    {
+      "date": "2026-04-03",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated RFMickey Moniakfrom the 10-day injured list.",
+      "player": "Mickey Moniak"
+    },
+    {
+      "date": "2026-04-03",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced LHPGarrett Cleavingeron the 15-day injured list retroactive to March 31, 2026. Right calf tightness.",
+      "player": "Garrett Cleavinger"
     },
     {
       "date": "2026-04-03",
@@ -15,15 +33,15 @@
     },
     {
       "date": "2026-04-03",
-      "team": "New York Yankees",
-      "details": "New York Yankeessigned free agent RHPBenjamin Ariasto a minor league contract.",
-      "player": "Benjamin Arias"
-    },
-    {
-      "date": "2026-04-03",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxplaced RHPGarrett Whitlockon the paternity list.",
       "player": "Garrett Whitlock"
+    },
+    {
+      "date": "2026-04-03",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPHunter Biggefrom Durham Bulls.",
+      "player": "Hunter Bigge"
     },
     {
       "date": "2026-04-03",
@@ -33,15 +51,15 @@
     },
     {
       "date": "2026-04-03",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPTyler Uberstinefrom Worcester Red Sox.",
-      "player": "Tyler Uberstine"
-    },
-    {
-      "date": "2026-04-03",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesselected the contract of SSKonnor Griffinfrom Indianapolis Indians.",
       "player": "Konnor Griffin"
+    },
+    {
+      "date": "2026-04-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPTyler Uberstinefrom Worcester Red Sox.",
+      "player": "Tyler Uberstine"
     }
   ]
 }
