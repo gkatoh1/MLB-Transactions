@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-04-03T14:53:09.819827",
+  "last_updated": "2026-04-03T15:46:42.654970",
   "transactions": [
     {
       "date": "2026-04-03",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced RHPGarrett Whitlockon the paternity list.",
-      "player": "Garrett Whitlock"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated 1BEnmanuel Valdezfor assignment.",
+      "player": "Enmanuel Valdez"
     },
     {
       "date": "2026-04-03",
@@ -15,15 +15,33 @@
     },
     {
       "date": "2026-04-03",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned free agent RHPBenjamin Ariasto a minor league contract.",
+      "player": "Benjamin Arias"
+    },
+    {
+      "date": "2026-04-03",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPTyler Uberstinefrom Worcester Red Sox.",
-      "player": "Tyler Uberstine"
+      "details": "Boston Red Soxplaced RHPGarrett Whitlockon the paternity list.",
+      "player": "Garrett Whitlock"
     },
     {
       "date": "2026-04-03",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxrecalled RHPZack Kellyfrom Worcester Red Sox.",
       "player": "Zack Kelly"
+    },
+    {
+      "date": "2026-04-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPTyler Uberstinefrom Worcester Red Sox.",
+      "player": "Tyler Uberstine"
+    },
+    {
+      "date": "2026-04-03",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesselected the contract of SSKonnor Griffinfrom Indianapolis Indians.",
+      "player": "Konnor Griffin"
     }
   ]
 }
