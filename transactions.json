@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T21:39:10.350295",
+  "last_updated": "2026-04-04T22:38:40.104602",
   "transactions": [
     {
       "date": "2026-04-04",
@@ -15,27 +15,33 @@
     },
     {
       "date": "2026-04-04",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated 1BBlaine Crimfrom the 10-day injured list.",
+      "player": "Blaine Crim"
+    },
+    {
+      "date": "2026-04-04",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated LFZac Veenfrom the 10-day injured list.",
+      "player": "Zac Veen"
+    },
+    {
+      "date": "2026-04-04",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent RHPGriffin Canningon a rehab assignment to El Paso Chihuahuas.",
+      "player": "Griffin Canning"
+    },
+    {
+      "date": "2026-04-04",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent LHPYuki Matsuion a rehab assignment to El Paso Chihuahuas.",
+      "player": "Yuki Matsui"
+    },
+    {
+      "date": "2026-04-04",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysplaced CAlejandro Kirkon the 10-day injured list. Left thumb fracture.",
       "player": "Alejandro Kirk"
-    },
-    {
-      "date": "2026-04-04",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled CBrandon Valenzuelafrom Buffalo Bisons.",
-      "player": "Brandon Valenzuela"
-    },
-    {
-      "date": "2026-04-04",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled RHPKeider Monterofrom Toledo Mud Hens.",
-      "player": "Keider Montero"
-    },
-    {
-      "date": "2026-04-04",
-      "team": "Boston Red Sox",
-      "details": "RHPJedixson Paezreturned toBoston Red SoxfromChicago White Sox.",
-      "player": "Jedixson Paez"
     },
     {
       "date": "2026-04-04",
@@ -51,15 +57,57 @@
     },
     {
       "date": "2026-04-04",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned LFZac Veento Albuquerque Isotopes.",
+      "player": "Zac Veen"
+    },
+    {
+      "date": "2026-04-04",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPLogan Hendersonfrom Nashville Sounds.",
+      "player": "Logan Henderson"
+    },
+    {
+      "date": "2026-04-04",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned 1BBlaine Crimto Albuquerque Isotopes.",
+      "player": "Blaine Crim"
+    },
+    {
+      "date": "2026-04-04",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPKeider Monterofrom Toledo Mud Hens.",
+      "player": "Keider Montero"
+    },
+    {
+      "date": "2026-04-04",
+      "team": "Boston Red Sox",
+      "details": "RHPJedixson Paezreturned toBoston Red SoxfromChicago White Sox.",
+      "player": "Jedixson Paez"
+    },
+    {
+      "date": "2026-04-04",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantstraded 2BTyler FitzgeraldtoToronto Blue Jaysfor cash.",
       "player": "Tyler Fitzgerald"
     },
     {
       "date": "2026-04-04",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPEli Morganfrom Omaha Storm Chasers.",
+      "player": "Eli Morgan"
+    },
+    {
+      "date": "2026-04-04",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesclaimed LHPSammy Peraltaoff waivers fromMilwaukee Brewers.",
       "player": "Sammy Peralta"
+    },
+    {
+      "date": "2026-04-04",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled CBrandon Valenzuelafrom Buffalo Bisons.",
+      "player": "Brandon Valenzuela"
     }
   ]
 }
