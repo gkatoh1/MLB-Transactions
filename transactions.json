@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-04-04T18:55:07.564947",
+  "last_updated": "2026-04-04T19:37:07.657381",
   "transactions": [
-    {
-      "date": "2026-04-04",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced CAlejandro Kirkon the 10-day injured list. Left thumb fracture.",
-      "player": "Alejandro Kirk"
-    },
     {
       "date": "2026-04-04",
       "team": "Detroit Tigers",
@@ -16,8 +10,26 @@
     {
       "date": "2026-04-04",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled CBrandon Valenzuelafrom Buffalo Bisons.",
-      "player": "Brandon Valenzuela"
+      "details": "Toronto Blue Jaysplaced CAlejandro Kirkon the 10-day injured list. Left thumb fracture.",
+      "player": "Alejandro Kirk"
+    },
+    {
+      "date": "2026-04-04",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiestransferred RHPMcCade Brownfrom the 15-day injured list to the 60-day injured list. Right shoulder inflammation.",
+      "player": "McCade Brown"
+    },
+    {
+      "date": "2026-04-04",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesclaimed LHPSammy Peraltaoff waivers fromMilwaukee Brewers.",
+      "player": "Sammy Peralta"
+    },
+    {
+      "date": "2026-04-04",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned LHPSammy Peraltato Albuquerque Isotopes.",
+      "player": "Sammy Peralta"
     },
     {
       "date": "2026-04-04",
@@ -30,6 +42,24 @@
       "team": "Boston Red Sox",
       "details": "RHPJedixson Paezreturned toBoston Red SoxfromChicago White Sox.",
       "player": "Jedixson Paez"
+    },
+    {
+      "date": "2026-04-04",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstraded 2BTyler FitzgeraldtoToronto Blue Jaysfor cash.",
+      "player": "Tyler Fitzgerald"
+    },
+    {
+      "date": "2026-04-04",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned 2BTyler Fitzgeraldto Buffalo Bisons.",
+      "player": "Tyler Fitzgerald"
+    },
+    {
+      "date": "2026-04-04",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled CBrandon Valenzuelafrom Buffalo Bisons.",
+      "player": "Brandon Valenzuela"
     }
   ]
 }
