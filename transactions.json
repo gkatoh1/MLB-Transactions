@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-04-04T20:41:36.102812",
+  "last_updated": "2026-04-04T21:39:10.350295",
   "transactions": [
-    {
-      "date": "2026-04-04",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiestransferred RHPMcCade Brownfrom the 15-day injured list to the 60-day injured list. Right shoulder inflammation.",
-      "player": "McCade Brown"
-    },
     {
       "date": "2026-04-04",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersplaced RHPJustin Verlanderon the 15-day injured list retroactive to April 1, 2026. Left hip inflammation.",
       "player": "Justin Verlander"
+    },
+    {
+      "date": "2026-04-04",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiestransferred RHPMcCade Brownfrom the 15-day injured list to the 60-day injured list. Right shoulder inflammation.",
+      "player": "McCade Brown"
     },
     {
       "date": "2026-04-04",
@@ -21,9 +21,9 @@
     },
     {
       "date": "2026-04-04",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantstraded 2BTyler FitzgeraldtoToronto Blue Jaysfor cash.",
-      "player": "Tyler Fitzgerald"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled CBrandon Valenzuelafrom Buffalo Bisons.",
+      "player": "Brandon Valenzuela"
     },
     {
       "date": "2026-04-04",
@@ -51,15 +51,15 @@
     },
     {
       "date": "2026-04-04",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesclaimed LHPSammy Peraltaoff waivers fromMilwaukee Brewers.",
-      "player": "Sammy Peralta"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstraded 2BTyler FitzgeraldtoToronto Blue Jaysfor cash.",
+      "player": "Tyler Fitzgerald"
     },
     {
       "date": "2026-04-04",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled CBrandon Valenzuelafrom Buffalo Bisons.",
-      "player": "Brandon Valenzuela"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesclaimed LHPSammy Peraltaoff waivers fromMilwaukee Brewers.",
+      "player": "Sammy Peralta"
     }
   ]
 }
