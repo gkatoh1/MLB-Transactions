@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T16:46:02.738270",
+  "last_updated": "2026-04-04T17:38:44.546205",
   "transactions": [
     {
       "date": "2026-04-04",
@@ -9,9 +9,27 @@
     },
     {
       "date": "2026-04-04",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced RHPJustin Verlanderon the 15-day injured list retroactive to April 1, 2026. Left hip inflammation.",
+      "player": "Justin Verlander"
+    },
+    {
+      "date": "2026-04-04",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysrecalled CBrandon Valenzuelafrom Buffalo Bisons.",
       "player": "Brandon Valenzuela"
+    },
+    {
+      "date": "2026-04-04",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPKeider Monterofrom Toledo Mud Hens.",
+      "player": "Keider Montero"
+    },
+    {
+      "date": "2026-04-04",
+      "team": "Boston Red Sox",
+      "details": "RHPJedixson Paezreturned toBoston Red SoxfromChicago White Sox.",
+      "player": "Jedixson Paez"
     }
   ]
 }
