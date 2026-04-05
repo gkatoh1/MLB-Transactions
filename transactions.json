@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-04-05T14:42:36.247207",
+  "last_updated": "2026-04-05T15:40:43.016405",
   "transactions": [
     {
       "date": "2026-04-05",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced RHPCade Hortonon the 15-day injured list retroactive to April 4, 2026. Right forearm strain.",
-      "player": "Cade Horton"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced SSJared Trioloon the 10-day injured list retroactive to April 4, 2026. Right knee patellar tendon injury.",
+      "player": "Jared Triolo"
     },
     {
       "date": "2026-04-05",
@@ -15,9 +15,33 @@
     },
     {
       "date": "2026-04-05",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPGarrett Actonfrom St. Paul Saints.",
-      "player": "Garrett Acton"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPCade Hortonon the 15-day injured list retroactive to April 4, 2026. Right forearm strain.",
+      "player": "Cade Horton"
+    },
+    {
+      "date": "2026-04-05",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPYaramil Hiraldoon the 15-day injured list retroactive to April 2, 2026. Right shoulder inflammation.",
+      "player": "Yaramil Hiraldo"
+    },
+    {
+      "date": "2026-04-05",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled OFBilly Cookfrom Indianapolis Indians.",
+      "player": "Billy Cook"
+    },
+    {
+      "date": "2026-04-05",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled 2BTanner Murrayfrom Charlotte Knights.",
+      "player": "Tanner Murray"
+    },
+    {
+      "date": "2026-04-05",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPRiley Martinfrom Iowa Cubs.",
+      "player": "Riley Martin"
     },
     {
       "date": "2026-04-05",
@@ -28,14 +52,20 @@
     {
       "date": "2026-04-05",
       "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPGarrett Actonfrom St. Paul Saints.",
+      "player": "Garrett Acton"
+    },
+    {
+      "date": "2026-04-05",
+      "team": "Minnesota Twins",
       "details": "Minnesota Twinsoptioned RHPZak Kentto St. Paul Saints.",
       "player": "Zak Kent"
     },
     {
       "date": "2026-04-05",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled 2BTanner Murrayfrom Charlotte Knights.",
-      "player": "Tanner Murray"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPEli Morganto Omaha Storm Chasers.",
+      "player": "Eli Morgan"
     },
     {
       "date": "2026-04-05",
@@ -45,9 +75,9 @@
     },
     {
       "date": "2026-04-05",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled LHPRiley Martinfrom Iowa Cubs.",
-      "player": "Riley Martin"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled LHPCade Povichfrom Norfolk Tides.",
+      "player": "Cade Povich"
     }
   ]
 }
