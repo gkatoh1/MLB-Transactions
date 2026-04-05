@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-04-05T18:56:36.788939",
+  "last_updated": "2026-04-05T19:40:17.013025",
   "transactions": [
-    {
-      "date": "2026-04-05",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced CFEverson Pereiraon the 10-day injured list retroactive to April 2, 2026. Left ankle sprain.",
-      "player": "Everson Pereira"
-    },
     {
       "date": "2026-04-05",
       "team": "Houston Astros",
@@ -21,15 +15,15 @@
     },
     {
       "date": "2026-04-05",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsactivated RHPGeorge Klassen.",
-      "player": "George Klassen"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPYaramil Hiraldoon the 15-day injured list retroactive to April 2, 2026. Right shoulder inflammation.",
+      "player": "Yaramil Hiraldo"
     },
     {
       "date": "2026-04-05",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced SSJared Trioloon the 10-day injured list retroactive to April 4, 2026. Right knee patellar tendon injury.",
-      "player": "Jared Triolo"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated RHPGeorge Klassen.",
+      "player": "George Klassen"
     },
     {
       "date": "2026-04-05",
@@ -39,27 +33,15 @@
     },
     {
       "date": "2026-04-05",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersplaced RHPCarter Baumleron the 15-day injured list. Right intercostal strain.",
-      "player": "Carter Baumler"
-    },
-    {
-      "date": "2026-04-05",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersplaced SSMookie Bettson the 10-day injured list. Right oblique strain.",
-      "player": "Mookie Betts"
-    },
-    {
-      "date": "2026-04-05",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaystransferred RFAnthony Santanderfrom the 10-day injured list to the 60-day injured list. Left shoulder labral tear.",
       "player": "Anthony Santander"
     },
     {
       "date": "2026-04-05",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced RHPYaramil Hiraldoon the 15-day injured list retroactive to April 2, 2026. Right shoulder inflammation.",
-      "player": "Yaramil Hiraldo"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced SSJared Trioloon the 10-day injured list retroactive to April 4, 2026. Right knee patellar tendon injury.",
+      "player": "Jared Triolo"
     },
     {
       "date": "2026-04-05",
@@ -69,33 +51,21 @@
     },
     {
       "date": "2026-04-05",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsselected the contract of RHPGeorge Klassenfrom Salt Lake Bees.",
-      "player": "George Klassen"
-    },
-    {
-      "date": "2026-04-05",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPZak Kentto St. Paul Saints.",
-      "player": "Zak Kent"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced SSMookie Bettson the 10-day injured list. Right oblique strain.",
+      "player": "Mookie Betts"
     },
     {
       "date": "2026-04-05",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled 2BTanner Murrayfrom Charlotte Knights.",
-      "player": "Tanner Murray"
+      "details": "Chicago White Soxplaced CFEverson Pereiraon the 10-day injured list retroactive to April 2, 2026. Left ankle sprain.",
+      "player": "Everson Pereira"
     },
     {
       "date": "2026-04-05",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled LHPRiley Martinfrom Iowa Cubs.",
-      "player": "Riley Martin"
-    },
-    {
-      "date": "2026-04-05",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled RHPEthan Robertsfrom Iowa Cubs.",
-      "player": "Ethan Roberts"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPCarter Baumleron the 15-day injured list. Right intercostal strain.",
+      "player": "Carter Baumler"
     },
     {
       "date": "2026-04-05",
@@ -105,33 +75,15 @@
     },
     {
       "date": "2026-04-05",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LHPBrendon Littleto Buffalo Bisons.",
-      "player": "Brendon Little"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled LHPLogan Allenfrom Columbus Clippers.",
+      "player": "Logan Allen"
     },
     {
       "date": "2026-04-05",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPGarrett Actonfrom St. Paul Saints.",
-      "player": "Garrett Acton"
-    },
-    {
-      "date": "2026-04-05",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPLogan Hendersonto Nashville Sounds.",
-      "player": "Logan Henderson"
-    },
-    {
-      "date": "2026-04-05",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPLazaro Estradato Buffalo Bisons.",
-      "player": "Lazaro Estrada"
-    },
-    {
-      "date": "2026-04-05",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPEli Morganto Omaha Storm Chasers.",
-      "player": "Eli Morgan"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled 2BHyeseong Kimfrom Oklahoma City Comets.",
+      "player": "Hyeseong Kim"
     },
     {
       "date": "2026-04-05",
@@ -153,27 +105,75 @@
     },
     {
       "date": "2026-04-05",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled LHPLogan Allenfrom Columbus Clippers.",
-      "player": "Logan Allen"
-    },
-    {
-      "date": "2026-04-05",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysselected the contract of RHPAustin Vothfrom Buffalo Bisons.",
       "player": "Austin Voth"
     },
     {
       "date": "2026-04-05",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled 2BHyeseong Kimfrom Oklahoma City Comets.",
-      "player": "Hyeseong Kim"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPLogan Hendersonto Nashville Sounds.",
+      "player": "Logan Henderson"
+    },
+    {
+      "date": "2026-04-05",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPLazaro Estradato Buffalo Bisons.",
+      "player": "Lazaro Estrada"
+    },
+    {
+      "date": "2026-04-05",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPEli Morganto Omaha Storm Chasers.",
+      "player": "Eli Morgan"
+    },
+    {
+      "date": "2026-04-05",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPZak Kentto St. Paul Saints.",
+      "player": "Zak Kent"
     },
     {
       "date": "2026-04-05",
       "team": "Houston Astros",
       "details": "Houston Astrosrecalled RHPChristian Roafrom Sugar Land Space Cowboys.",
       "player": "Christian Roa"
+    },
+    {
+      "date": "2026-04-05",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsselected the contract of RHPGeorge Klassenfrom Salt Lake Bees.",
+      "player": "George Klassen"
+    },
+    {
+      "date": "2026-04-05",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled 2BTanner Murrayfrom Charlotte Knights.",
+      "player": "Tanner Murray"
+    },
+    {
+      "date": "2026-04-05",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPRiley Martinfrom Iowa Cubs.",
+      "player": "Riley Martin"
+    },
+    {
+      "date": "2026-04-05",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPEthan Robertsfrom Iowa Cubs.",
+      "player": "Ethan Roberts"
+    },
+    {
+      "date": "2026-04-05",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPBrendon Littleto Buffalo Bisons.",
+      "player": "Brendon Little"
+    },
+    {
+      "date": "2026-04-05",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPGarrett Actonfrom St. Paul Saints.",
+      "player": "Garrett Acton"
     }
   ]
 }
