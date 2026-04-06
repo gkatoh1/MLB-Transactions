@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-04-06T17:58:19.575918",
+  "last_updated": "2026-04-06T19:14:30.194772",
   "transactions": [
+    {
+      "date": "2026-04-06",
+      "team": "New York Mets",
+      "details": "New York Metsplaced RFJuan Sotoon the 10-day injured list retroactive to April 4, 2026. Right calf strain.",
+      "player": "Juan Soto"
+    },
     {
       "date": "2026-04-06",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesplaced LHPDietrich Ennson the 15-day injured list retroactive to April 4, 2026. Left foot infection.",
       "player": "Dietrich Enns"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced LHPMatthew Boydon the 15-day injured list retroactive to April 3, 2026. Left biceps strain.",
+      "player": "Matthew Boyd"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPGarrett Whitlockfrom the paternity list.",
+      "player": "Garrett Whitlock"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated SSTaylor Wallsfrom the 10-day injured list.",
+      "player": "Taylor Walls"
     },
     {
       "date": "2026-04-06",
@@ -15,9 +39,21 @@
     },
     {
       "date": "2026-04-06",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated SSTaylor Wallsfrom the 10-day injured list.",
-      "player": "Taylor Walls"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced RHPPete Fairbankson the paternity list.",
+      "player": "Pete Fairbanks"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPJavier Assadfrom Iowa Cubs.",
+      "player": "Javier Assad"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPRyan Gustofrom Jacksonville Jumbo Shrimp.",
+      "player": "Ryan Gusto"
     },
     {
       "date": "2026-04-06",
@@ -33,15 +69,45 @@
     },
     {
       "date": "2026-04-06",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned SSCarson Williamsto Durham Bulls.",
-      "player": "Carson Williams"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPTyler Uberstineto Worcester Red Sox.",
+      "player": "Tyler Uberstine"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Cleveland Guardians",
+      "details": "LHPLogan Allenreturned to Columbus Clippers fromCleveland Guardians.",
+      "player": "Logan Allen"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPDoug Nikhazyto Charlotte Knights.",
+      "player": "Doug Nikhazy"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled 3BRonny Mauriciofrom Syracuse Mets.",
+      "player": "Ronny Mauricio"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxclaimed LHPDoug Nikhazyoff waivers fromCleveland Guardians.",
+      "player": "Doug Nikhazy"
     },
     {
       "date": "2026-04-06",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Norfolk Tides.",
       "player": "Brandon Young"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned SSCarson Williamsto Durham Bulls.",
+      "player": "Carson Williams"
     }
   ]
 }
