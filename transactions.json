@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-04-06T21:45:27.350979",
+  "last_updated": "2026-04-06T22:46:54.714284",
   "transactions": [
+    {
+      "date": "2026-04-06",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced RHPPete Fairbankson the paternity list.",
+      "player": "Pete Fairbanks"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPSawyer Gipson-Longfrom the 15-day injured list.",
+      "player": "Sawyer Gipson-Long"
+    },
     {
       "date": "2026-04-06",
       "team": "Houston Astros",
@@ -21,42 +33,6 @@
     },
     {
       "date": "2026-04-06",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced LHPJared Koenigon the 15-day injured list retroactive to April 5, 2026. Left elbow sprain.",
-      "player": "Jared Koenig"
-    },
-    {
-      "date": "2026-04-06",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated RHPEnyel De Los Santosfrom the 15-day injured list.",
-      "player": "Enyel De Los Santos"
-    },
-    {
-      "date": "2026-04-06",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated SSTaylor Wallsfrom the 10-day injured list.",
-      "player": "Taylor Walls"
-    },
-    {
-      "date": "2026-04-06",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsplaced RHPPete Fairbankson the paternity list.",
-      "player": "Pete Fairbanks"
-    },
-    {
-      "date": "2026-04-06",
-      "team": "New York Mets",
-      "details": "New York Metsplaced RFJuan Sotoon the 10-day injured list retroactive to April 4, 2026. Right calf strain.",
-      "player": "Juan Soto"
-    },
-    {
-      "date": "2026-04-06",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated RHPGarrett Whitlockfrom the paternity list.",
-      "player": "Garrett Whitlock"
-    },
-    {
-      "date": "2026-04-06",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysdesignated RHPAustin Vothfor assignment.",
       "player": "Austin Voth"
@@ -69,15 +45,57 @@
     },
     {
       "date": "2026-04-06",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced LHPMatthew Boydon the 15-day injured list retroactive to April 3, 2026. Left biceps strain.",
-      "player": "Matthew Boyd"
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated RHPEnyel De Los Santosfrom the 15-day injured list.",
+      "player": "Enyel De Los Santos"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPGarrett Whitlockfrom the paternity list.",
+      "player": "Garrett Whitlock"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced LHPJared Koenigon the 15-day injured list retroactive to April 5, 2026. Left elbow sprain.",
+      "player": "Jared Koenig"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "New York Mets",
+      "details": "New York Metsplaced RFJuan Sotoon the 10-day injured list retroactive to April 4, 2026. Right calf strain.",
+      "player": "Juan Soto"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated SSTaylor Wallsfrom the 10-day injured list.",
+      "player": "Taylor Walls"
     },
     {
       "date": "2026-04-06",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsactivated 2BMichael Masseyfrom the 10-day injured list.",
       "player": "Michael Massey"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced LHPMatthew Boydon the 15-day injured list retroactive to April 3, 2026. Left biceps strain.",
+      "player": "Matthew Boyd"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled LHPMitch Farrisfrom Salt Lake Bees.",
+      "player": "Mitch Farris"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPTyler Uberstineto Worcester Red Sox.",
+      "player": "Tyler Uberstine"
     },
     {
       "date": "2026-04-06",
@@ -93,15 +111,33 @@
     },
     {
       "date": "2026-04-06",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of LHPJosh Flemingfrom Buffalo Bisons.",
-      "player": "Josh Fleming"
-    },
-    {
-      "date": "2026-04-06",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsoptioned LFNick Loftinto Omaha Storm Chasers.",
       "player": "Nick Loftin"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxclaimed LHPDoug Nikhazyoff waivers fromCleveland Guardians.",
+      "player": "Doug Nikhazy"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPLuis Moralesto Las Vegas Aviators.",
+      "player": "Luis Morales"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Norfolk Tides.",
+      "player": "Brandon Young"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPSawyer Gipson-Longto Toledo Mud Hens.",
+      "player": "Sawyer Gipson-Long"
     },
     {
       "date": "2026-04-06",
@@ -117,9 +153,27 @@
     },
     {
       "date": "2026-04-06",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPDoug Nikhazyto Charlotte Knights.",
+      "player": "Doug Nikhazy"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of LHPJosh Flemingfrom Buffalo Bisons.",
+      "player": "Josh Fleming"
+    },
+    {
+      "date": "2026-04-06",
       "team": "Cleveland Guardians",
       "details": "LHPLogan Allenreturned to Columbus Clippers fromCleveland Guardians.",
       "player": "Logan Allen"
+    },
+    {
+      "date": "2026-04-06",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LFShay Whitcombto Sugar Land Space Cowboys.",
+      "player": "Shay Whitcomb"
     },
     {
       "date": "2026-04-06",
@@ -132,42 +186,6 @@
       "team": "New York Mets",
       "details": "New York Metsrecalled 3BRonny Mauriciofrom Syracuse Mets.",
       "player": "Ronny Mauricio"
-    },
-    {
-      "date": "2026-04-06",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsrecalled LHPMitch Farrisfrom Salt Lake Bees.",
-      "player": "Mitch Farris"
-    },
-    {
-      "date": "2026-04-06",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned LHPDoug Nikhazyto Charlotte Knights.",
-      "player": "Doug Nikhazy"
-    },
-    {
-      "date": "2026-04-06",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPBrandon Youngfrom Norfolk Tides.",
-      "player": "Brandon Young"
-    },
-    {
-      "date": "2026-04-06",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned LFShay Whitcombto Sugar Land Space Cowboys.",
-      "player": "Shay Whitcomb"
-    },
-    {
-      "date": "2026-04-06",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxclaimed LHPDoug Nikhazyoff waivers fromCleveland Guardians.",
-      "player": "Doug Nikhazy"
-    },
-    {
-      "date": "2026-04-06",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPTyler Uberstineto Worcester Red Sox.",
-      "player": "Tyler Uberstine"
     }
   ]
 }
