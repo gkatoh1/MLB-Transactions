@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-04-05T23:41:31.456231",
+  "last_updated": "2026-04-06T03:30:06.203611",
   "transactions": [
+    {
+      "date": "2026-04-05",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated LHPJoey Lucchesifor assignment.",
+      "player": "Joey Lucchesi"
+    },
+    {
+      "date": "2026-04-05",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsdesignated LHPNick Raquetfor assignment.",
+      "player": "Nick Raquet"
+    },
     {
       "date": "2026-04-05",
       "team": "Chicago White Sox",
@@ -16,14 +28,20 @@
     {
       "date": "2026-04-05",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaystransferred RHPCody Poncefrom the 15-day injured list to the 60-day injured list. Right knee ACL sprain.",
-      "player": "Cody Ponce"
+      "details": "Toronto Blue Jaystransferred RFAnthony Santanderfrom the 10-day injured list to the 60-day injured list. Left shoulder labral tear.",
+      "player": "Anthony Santander"
+    },
+    {
+      "date": "2026-04-05",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced SSJared Trioloon the 10-day injured list retroactive to April 4, 2026. Right knee patellar tendon injury.",
+      "player": "Jared Triolo"
     },
     {
       "date": "2026-04-05",
       "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsdesignated LHPJoey Lucchesifor assignment.",
-      "player": "Joey Lucchesi"
+      "details": "Los Angeles Angelsactivated RHPGeorge Klassen.",
+      "player": "George Klassen"
     },
     {
       "date": "2026-04-05",
@@ -39,33 +57,15 @@
     },
     {
       "date": "2026-04-05",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsactivated RHPGeorge Klassen.",
-      "player": "George Klassen"
-    },
-    {
-      "date": "2026-04-05",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaystransferred RFAnthony Santanderfrom the 10-day injured list to the 60-day injured list. Left shoulder labral tear.",
-      "player": "Anthony Santander"
-    },
-    {
-      "date": "2026-04-05",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersplaced SSMookie Bettson the 10-day injured list. Right oblique strain.",
       "player": "Mookie Betts"
     },
     {
       "date": "2026-04-05",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced SSJared Trioloon the 10-day injured list retroactive to April 4, 2026. Right knee patellar tendon injury.",
-      "player": "Jared Triolo"
-    },
-    {
-      "date": "2026-04-05",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsdesignated LHPNick Raquetfor assignment.",
-      "player": "Nick Raquet"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystransferred RHPCody Poncefrom the 15-day injured list to the 60-day injured list. Right knee ACL sprain.",
+      "player": "Cody Ponce"
     },
     {
       "date": "2026-04-05",
@@ -75,21 +75,21 @@
     },
     {
       "date": "2026-04-05",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPGarrett Actonfrom St. Paul Saints.",
-      "player": "Garrett Acton"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled 2BHyeseong Kimfrom Oklahoma City Comets.",
+      "player": "Hyeseong Kim"
     },
     {
       "date": "2026-04-05",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPZak Kentto St. Paul Saints.",
-      "player": "Zak Kent"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of LHPJoe Mantiplyfrom Buffalo Bisons.",
+      "player": "Joe Mantiply"
     },
     {
       "date": "2026-04-05",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled RHPLuis Curvelofrom Round Rock Express.",
-      "player": "Luis Curvelo"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsselected the contract of LHPJared Shusterfrom Memphis Redbirds.",
+      "player": "Jared Shuster"
     },
     {
       "date": "2026-04-05",
@@ -99,15 +99,15 @@
     },
     {
       "date": "2026-04-05",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of RHPAustin Vothfrom Buffalo Bisons.",
-      "player": "Austin Voth"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPEthan Robertsfrom Iowa Cubs.",
+      "player": "Ethan Roberts"
     },
     {
       "date": "2026-04-05",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled 2BHyeseong Kimfrom Oklahoma City Comets.",
-      "player": "Hyeseong Kim"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of RHPAustin Vothfrom Buffalo Bisons.",
+      "player": "Austin Voth"
     },
     {
       "date": "2026-04-05",
@@ -135,15 +135,27 @@
     },
     {
       "date": "2026-04-05",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled OFBilly Cookfrom Indianapolis Indians.",
-      "player": "Billy Cook"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPBrendon Littleto Buffalo Bisons.",
+      "player": "Brendon Little"
     },
     {
       "date": "2026-04-05",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of LHPJoe Mantiplyfrom Buffalo Bisons.",
-      "player": "Joe Mantiply"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPGarrett Actonfrom St. Paul Saints.",
+      "player": "Garrett Acton"
+    },
+    {
+      "date": "2026-04-05",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPZak Kentto St. Paul Saints.",
+      "player": "Zak Kent"
+    },
+    {
+      "date": "2026-04-05",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled OFBilly Cookfrom Indianapolis Indians.",
+      "player": "Billy Cook"
     },
     {
       "date": "2026-04-05",
@@ -156,18 +168,6 @@
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsselected the contract of RHPGeorge Klassenfrom Salt Lake Bees.",
       "player": "George Klassen"
-    },
-    {
-      "date": "2026-04-05",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent RHPJoe Rossoutright to Reno Aces.",
-      "player": "Joe Ross"
-    },
-    {
-      "date": "2026-04-05",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsselected the contract of LHPJared Shusterfrom Memphis Redbirds.",
-      "player": "Jared Shuster"
     },
     {
       "date": "2026-04-05",
@@ -189,15 +189,15 @@
     },
     {
       "date": "2026-04-05",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled RHPEthan Robertsfrom Iowa Cubs.",
-      "player": "Ethan Roberts"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPLuis Curvelofrom Round Rock Express.",
+      "player": "Luis Curvelo"
     },
     {
       "date": "2026-04-05",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LHPBrendon Littleto Buffalo Bisons.",
-      "player": "Brendon Little"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPJoe Rossoutright to Reno Aces.",
+      "player": "Joe Ross"
     }
   ]
 }
