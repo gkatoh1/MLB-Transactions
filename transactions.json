@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-04-08T17:14:27.209577",
+  "last_updated": "2026-04-08T19:35:32.827725",
   "transactions": [
     {
       "date": "2026-04-08",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced CJose Trevinoon the 10-day injured list retroactive to April 5, 2026. Thoracic spine strain.",
-      "player": "Jose Trevino"
+      "details": "Cincinnati Redsdesignated 1BChristian Encarnacion-Strandfor assignment.",
+      "player": "Christian Encarnacion-Strand"
+    },
+    {
+      "date": "2026-04-08",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced RHPDrew Rasmussenon the paternity list.",
+      "player": "Drew Rasmussen"
+    },
+    {
+      "date": "2026-04-08",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent RHPSeth Chavezto a minor league contract.",
+      "player": "Seth Chavez"
     },
     {
       "date": "2026-04-08",
@@ -28,14 +40,14 @@
     {
       "date": "2026-04-08",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsdesignated 1BChristian Encarnacion-Strandfor assignment.",
-      "player": "Christian Encarnacion-Strand"
+      "details": "Cincinnati Redsplaced CJose Trevinoon the 10-day injured list retroactive to April 5, 2026. Thoracic spine strain.",
+      "player": "Jose Trevino"
     },
     {
       "date": "2026-04-08",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of RFConnor Joefrom Tacoma Rainiers.",
-      "player": "Connor Joe"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesdesignated RHPYoniel Curetfor assignment.",
+      "player": "Yoniel Curet"
     },
     {
       "date": "2026-04-08",
@@ -45,9 +57,21 @@
     },
     {
       "date": "2026-04-08",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPJesse Scholtensfrom Durham Bulls.",
+      "player": "Jesse Scholtens"
+    },
+    {
+      "date": "2026-04-08",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of LHPTyler Schweitzerfrom Charlotte Knights.",
-      "player": "Tyler Schweitzer"
+      "details": "Chicago White Soxoptioned RHPShane Smithto Charlotte Knights.",
+      "player": "Shane Smith"
+    },
+    {
+      "date": "2026-04-08",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of RFConnor Joefrom Tacoma Rainiers.",
+      "player": "Connor Joe"
     },
     {
       "date": "2026-04-08",
@@ -57,9 +81,21 @@
     },
     {
       "date": "2026-04-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerstraded RFSteward BerroatoPhiladelphia Philliesfor cash.",
+      "player": "Steward Berroa"
+    },
+    {
+      "date": "2026-04-08",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPShane Smithto Charlotte Knights.",
-      "player": "Shane Smith"
+      "details": "Chicago White Soxselected the contract of LHPTyler Schweitzerfrom Charlotte Knights.",
+      "player": "Tyler Schweitzer"
+    },
+    {
+      "date": "2026-04-08",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RFSteward Berroato Lehigh Valley IronPigs.",
+      "player": "Steward Berroa"
     }
   ]
 }
