@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-08T23:48:07.639711",
+  "last_updated": "2026-04-09T03:16:57.670136",
   "transactions": [
     {
       "date": "2026-04-08",
@@ -10,8 +10,14 @@
     {
       "date": "2026-04-08",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssigned free agent SSFranklin Merisuto a minor league contract.",
-      "player": "Franklin Merisu"
+      "details": "Tampa Bay Rayssigned free agent OFLuis Perezto a minor league contract.",
+      "player": "Luis Perez"
+    },
+    {
+      "date": "2026-04-08",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced CJose Trevinoon the 10-day injured list retroactive to April 5, 2026. Thoracic spine strain.",
+      "player": "Jose Trevino"
     },
     {
       "date": "2026-04-08",
@@ -33,18 +39,6 @@
     },
     {
       "date": "2026-04-08",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent LHPPatrick Sandovalon a rehab assignment to Worcester Red Sox.",
-      "player": "Patrick Sandoval"
-    },
-    {
-      "date": "2026-04-08",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssigned free agent OFLuis Perezto a minor league contract.",
-      "player": "Luis Perez"
-    },
-    {
-      "date": "2026-04-08",
       "team": "Seattle Mariners",
       "details": "Seattle Marinerssent 3BMiles Mastrobuonion a rehab assignment to Tacoma Rainiers.",
       "player": "Miles Mastrobuoni"
@@ -63,45 +57,27 @@
     },
     {
       "date": "2026-04-08",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced CJose Trevinoon the 10-day injured list retroactive to April 5, 2026. Thoracic spine strain.",
-      "player": "Jose Trevino"
-    },
-    {
-      "date": "2026-04-08",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysplaced RHPDrew Rasmussenon the paternity list.",
       "player": "Drew Rasmussen"
     },
     {
       "date": "2026-04-08",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPShane Smithto Charlotte Knights.",
-      "player": "Shane Smith"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssigned free agent SSFranklin Merisuto a minor league contract.",
+      "player": "Franklin Merisu"
     },
     {
       "date": "2026-04-08",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerstraded RFSteward BerroatoPhiladelphia Philliesfor cash.",
-      "player": "Steward Berroa"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent LHPPatrick Sandovalon a rehab assignment to Worcester Red Sox.",
+      "player": "Patrick Sandoval"
     },
     {
       "date": "2026-04-08",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent 1BEnmanuel Valdezoutright to Indianapolis Indians.",
-      "player": "Enmanuel Valdez"
-    },
-    {
-      "date": "2026-04-08",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of LHPTyler Schweitzerfrom Charlotte Knights.",
-      "player": "Tyler Schweitzer"
-    },
-    {
-      "date": "2026-04-08",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RFSteward Berroato Lehigh Valley IronPigs.",
-      "player": "Steward Berroa"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of CP.J. Higginsfrom Louisville Bats.",
+      "player": "P.J. Higgins"
     },
     {
       "date": "2026-04-08",
@@ -111,9 +87,9 @@
     },
     {
       "date": "2026-04-08",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPJesse Scholtensfrom Durham Bulls.",
-      "player": "Jesse Scholtens"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of LHPTyler Schweitzerfrom Charlotte Knights.",
+      "player": "Tyler Schweitzer"
     },
     {
       "date": "2026-04-08",
@@ -123,9 +99,33 @@
     },
     {
       "date": "2026-04-08",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsselected the contract of CP.J. Higginsfrom Louisville Bats.",
-      "player": "P.J. Higgins"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPJesse Scholtensfrom Durham Bulls.",
+      "player": "Jesse Scholtens"
+    },
+    {
+      "date": "2026-04-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerstraded RFSteward BerroatoPhiladelphia Philliesfor cash.",
+      "player": "Steward Berroa"
+    },
+    {
+      "date": "2026-04-08",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPShane Smithto Charlotte Knights.",
+      "player": "Shane Smith"
+    },
+    {
+      "date": "2026-04-08",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent 1BEnmanuel Valdezoutright to Indianapolis Indians.",
+      "player": "Enmanuel Valdez"
+    },
+    {
+      "date": "2026-04-08",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RFSteward Berroato Lehigh Valley IronPigs.",
+      "player": "Steward Berroa"
     }
   ]
 }
