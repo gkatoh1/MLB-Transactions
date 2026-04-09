@@ -1,4 +1,29 @@
 {
-  "last_updated": "2026-04-09T14:01:01.580809",
-  "transactions": []
+  "last_updated": "2026-04-09T16:22:00.191974",
+  "transactions": [
+    {
+      "date": "2026-04-09",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated RHPPete Fairbanksfrom the paternity list.",
+      "player": "Pete Fairbanks"
+    },
+    {
+      "date": "2026-04-09",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPJack Perkinsfrom Las Vegas Aviators.",
+      "player": "Jack Perkins"
+    },
+    {
+      "date": "2026-04-09",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPRyan Gustoto Jacksonville Jumbo Shrimp.",
+      "player": "Ryan Gusto"
+    },
+    {
+      "date": "2026-04-09",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPMichael Kellyto Las Vegas Aviators.",
+      "player": "Michael Kelly"
+    }
+  ]
 }
