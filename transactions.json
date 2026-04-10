@@ -1,17 +1,11 @@
 {
-  "last_updated": "2026-04-10T19:05:18.493254",
+  "last_updated": "2026-04-10T20:49:13.260375",
   "transactions": [
     {
       "date": "2026-04-10",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxactivated 2BAnthony Seiglerfrom the 10-day injured list.",
       "player": "Anthony Seigler"
-    },
-    {
-      "date": "2026-04-10",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsdesignated LFDylan Carlsonfor assignment.",
-      "player": "Dylan Carlson"
     },
     {
       "date": "2026-04-10",
@@ -27,15 +21,51 @@
     },
     {
       "date": "2026-04-10",
+      "team": "Athletics",
+      "details": "Athleticsplaced RFBrent Rookeron the 10-day injured list. Oblique strain.",
+      "player": "Brent Rooker"
+    },
+    {
+      "date": "2026-04-10",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced CFParker Meadowson the 10-day injured list. Left radius fracture.",
+      "player": "Parker Meadows"
+    },
+    {
+      "date": "2026-04-10",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced LFGriffin Conineon the 10-day injured list. Left hamstring strain.",
+      "player": "Griffin Conine"
+    },
+    {
+      "date": "2026-04-10",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated LFDylan Carlsonfor assignment.",
+      "player": "Dylan Carlson"
+    },
+    {
+      "date": "2026-04-10",
+      "team": "New York Yankees",
+      "details": "New York Yankeesdesignated RHPCade Winquestfor assignment.",
+      "player": "Cade Winquest"
+    },
+    {
+      "date": "2026-04-10",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent LFKyle Stowerson a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Kyle Stowers"
+    },
+    {
+      "date": "2026-04-10",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsrecalled RHPKyle Nicolasfrom Louisville Bats.",
       "player": "Kyle Nicolas"
     },
     {
       "date": "2026-04-10",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled LHPJoe Rockfrom Durham Bulls.",
-      "player": "Joe Rock"
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPLuis Gilfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Luis Gil"
     },
     {
       "date": "2026-04-10",
@@ -51,9 +81,39 @@
     },
     {
       "date": "2026-04-10",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPEaston McGeefrom Nashville Sounds.",
+      "player": "Easton McGee"
+    },
+    {
+      "date": "2026-04-10",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled 3BDeyvison De Los Santosfrom Jacksonville Jumbo Shrimp.",
+      "player": "Deyvison De Los Santos"
+    },
+    {
+      "date": "2026-04-10",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned 2BAnthony Seiglerto Worcester Red Sox.",
       "player": "Anthony Seigler"
+    },
+    {
+      "date": "2026-04-10",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled LHPJoe Rockfrom Durham Bulls.",
+      "player": "Joe Rock"
+    },
+    {
+      "date": "2026-04-10",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RFWenceel Pérezfrom Toledo Mud Hens.",
+      "player": "Wenceel Pérez"
+    },
+    {
+      "date": "2026-04-10",
+      "team": "Athletics",
+      "details": "Athleticsrecalled 2BZack Geloffrom Las Vegas Aviators.",
+      "player": "Zack Gelof"
     }
   ]
 }
