@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T16:01:50.504507",
+  "last_updated": "2026-04-10T17:52:52.319002",
   "transactions": [
     {
       "date": "2026-04-10",
@@ -9,9 +9,51 @@
     },
     {
       "date": "2026-04-10",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated LFDylan Carlsonfor assignment.",
+      "player": "Dylan Carlson"
+    },
+    {
+      "date": "2026-04-10",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RFSeiya Suzukifrom the 10-day injured list.",
+      "player": "Seiya Suzuki"
+    },
+    {
+      "date": "2026-04-10",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPPhil Matonon the 15-day injured list retroactive to April 8, 2026. Right knee tendinitis.",
+      "player": "Phil Maton"
+    },
+    {
+      "date": "2026-04-10",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPKyle Nicolasfrom Louisville Bats.",
+      "player": "Kyle Nicolas"
+    },
+    {
+      "date": "2026-04-10",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled LHPJoe Rockfrom Durham Bulls.",
+      "player": "Joe Rock"
+    },
+    {
+      "date": "2026-04-10",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPEthan Robertsfrom Iowa Cubs.",
+      "player": "Ethan Roberts"
+    },
+    {
+      "date": "2026-04-10",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned 2BAnthony Seiglerto Worcester Red Sox.",
       "player": "Anthony Seigler"
+    },
+    {
+      "date": "2026-04-10",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPJose Francoto Louisville Bats.",
+      "player": "Jose Franco"
     }
   ]
 }
