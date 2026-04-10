@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T17:52:52.319002",
+  "last_updated": "2026-04-10T19:05:18.493254",
   "transactions": [
     {
       "date": "2026-04-10",
@@ -45,15 +45,15 @@
     },
     {
       "date": "2026-04-10",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned 2BAnthony Seiglerto Worcester Red Sox.",
-      "player": "Anthony Seigler"
-    },
-    {
-      "date": "2026-04-10",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned RHPJose Francoto Louisville Bats.",
       "player": "Jose Franco"
+    },
+    {
+      "date": "2026-04-10",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned 2BAnthony Seiglerto Worcester Red Sox.",
+      "player": "Anthony Seigler"
     }
   ]
 }
