@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-04-11T16:48:23.131625",
+  "last_updated": "2026-04-11T17:39:25.736394",
   "transactions": [
     {
       "date": "2026-04-11",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced 3BRoyce Lewison the 10-day injured list retroactive to April 10, 2025. Left knee sprain.",
-      "player": "Royce Lewis"
+      "team": "New York Mets",
+      "details": "New York Metsdesignated LHPRichard Loveladyfor assignment.",
+      "player": "Richard Lovelady"
     },
     {
       "date": "2026-04-11",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced RHPCody Lawerysonon the 15-day injured list retroactive to April 9, 2026. Right forearm strain.",
-      "player": "Cody Laweryson"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated 2BVaughn Grissomfrom the 10-day injured list.",
+      "player": "Vaughn Grissom"
     },
     {
       "date": "2026-04-11",
@@ -21,9 +21,21 @@
     },
     {
       "date": "2026-04-11",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsactivated 2BVaughn Grissomfrom the 10-day injured list.",
-      "player": "Vaughn Grissom"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced 3BRoyce Lewison the 10-day injured list retroactive to April 10, 2025. Left knee sprain.",
+      "player": "Royce Lewis"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent OFTyler Gentryto a minor league contract.",
+      "player": "Tyler Gentry"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPCody Lawerysonon the 15-day injured list retroactive to April 9, 2026. Right forearm strain.",
+      "player": "Cody Laweryson"
     },
     {
       "date": "2026-04-11",
@@ -36,6 +48,12 @@
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsrecalled CFRyan Kreidlerfrom St. Paul Saints.",
       "player": "Ryan Kreidler"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPCraig Kimbrelfrom St. Lucie Mets.",
+      "player": "Craig Kimbrel"
     }
   ]
 }
