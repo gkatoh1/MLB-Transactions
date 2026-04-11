@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-04-11T19:41:39.070030",
+  "last_updated": "2026-04-11T20:44:34.468998",
   "transactions": [
     {
       "date": "2026-04-11",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravestransferred LHPDanny Youngfrom the 15-day injured list to the 60-day injured list. Left elbow reconstruction.",
       "player": "Danny Young"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Tampa Bay Rays",
+      "details": "RHPJonathan Heasleyassigned toTampa Bay Rays.",
+      "player": "Jonathan Heasley"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced RHPJoe Boyleon the 15-day injured list retroactive to April 10, 2026. Right elbow strain.",
+      "player": "Joe Boyle"
     },
     {
       "date": "2026-04-11",
@@ -33,15 +45,9 @@
     },
     {
       "date": "2026-04-11",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsactivated 2BVaughn Grissomfrom the 10-day injured list.",
-      "player": "Vaughn Grissom"
-    },
-    {
-      "date": "2026-04-11",
-      "team": "Tampa Bay Rays",
-      "details": "RHPJonathan Heasleyassigned toTampa Bay Rays.",
-      "player": "Jonathan Heasley"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced CFMichael Harris IIon the paternity list.",
+      "player": "Michael Harris II"
     },
     {
       "date": "2026-04-11",
@@ -63,21 +69,39 @@
     },
     {
       "date": "2026-04-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced CFMichael Harris IIon the paternity list.",
-      "player": "Michael Harris II"
+      "team": "Tampa Bay Rays",
+      "details": "RHPDrew Rasmussenroster status changed byTampa Bay Rays.",
+      "player": "Drew Rasmussen"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated 2BVaughn Grissomfrom the 10-day injured list.",
+      "player": "Vaughn Grissom"
     },
     {
       "date": "2026-04-11",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPDaysbel Hernándezto Gwinnett Stripers.",
-      "player": "Daysbel Hernández"
+      "details": "Atlanta Bravesselected the contract of SSLuke Williamsfrom Gwinnett Stripers.",
+      "player": "Luke Williams"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPJesse Scholtensfrom Durham Bulls.",
+      "player": "Jesse Scholtens"
     },
     {
       "date": "2026-04-11",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsrecalled RHPAndrew Morrisfrom St. Paul Saints.",
       "player": "Andrew Morris"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPDaysbel Hernándezto Gwinnett Stripers.",
+      "player": "Daysbel Hernández"
     },
     {
       "date": "2026-04-11",
@@ -90,12 +114,6 @@
       "team": "New York Mets",
       "details": "New York Metsselected the contract of RHPCraig Kimbrelfrom St. Lucie Mets.",
       "player": "Craig Kimbrel"
-    },
-    {
-      "date": "2026-04-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of SSLuke Williamsfrom Gwinnett Stripers.",
-      "player": "Luke Williams"
     }
   ]
 }
