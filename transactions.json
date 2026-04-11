@@ -1,29 +1,17 @@
 {
-  "last_updated": "2026-04-11T22:40:25.540640",
+  "last_updated": "2026-04-11T23:44:00.448304",
   "transactions": [
-    {
-      "date": "2026-04-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravestransferred LHPDanny Youngfrom the 15-day injured list to the 60-day injured list. Left elbow reconstruction.",
-      "player": "Danny Young"
-    },
-    {
-      "date": "2026-04-11",
-      "team": "Tampa Bay Rays",
-      "details": "RHPJonathan Heasleyassigned toTampa Bay Rays.",
-      "player": "Jonathan Heasley"
-    },
-    {
-      "date": "2026-04-11",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysplaced RHPJoe Boyleon the 15-day injured list retroactive to April 10, 2026. Right elbow strain.",
-      "player": "Joe Boyle"
-    },
     {
       "date": "2026-04-11",
       "team": "Houston Astros",
       "details": "Houston Astrossent LHPBennett Sousaon a rehab assignment to Sugar Land Space Cowboys.",
       "player": "Bennett Sousa"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPChayce McDermottfor assignment.",
+      "player": "Chayce McDermott"
     },
     {
       "date": "2026-04-11",
@@ -57,9 +45,33 @@
     },
     {
       "date": "2026-04-11",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsactivated 2BVaughn Grissomfrom the 10-day injured list.",
-      "player": "Vaughn Grissom"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestransferred LHPDanny Youngfrom the 15-day injured list to the 60-day injured list. Left elbow reconstruction.",
+      "player": "Danny Young"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced CAdley Rutschmanon the 10-day injured list. Left ankle inflammation.",
+      "player": "Adley Rutschman"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Tampa Bay Rays",
+      "details": "RHPDrew Rasmussenroster status changed byTampa Bay Rays.",
+      "player": "Drew Rasmussen"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Tampa Bay Rays",
+      "details": "RHPJonathan Heasleyassigned toTampa Bay Rays.",
+      "player": "Jonathan Heasley"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced RHPJoe Boyleon the 15-day injured list retroactive to April 10, 2026. Right elbow strain.",
+      "player": "Joe Boyle"
     },
     {
       "date": "2026-04-11",
@@ -81,21 +93,21 @@
     },
     {
       "date": "2026-04-11",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated 2BVaughn Grissomfrom the 10-day injured list.",
+      "player": "Vaughn Grissom"
+    },
+    {
+      "date": "2026-04-11",
       "team": "Tampa Bay Rays",
-      "details": "RHPDrew Rasmussenroster status changed byTampa Bay Rays.",
-      "player": "Drew Rasmussen"
+      "details": "Tampa Bay Raysrecalled RHPJesse Scholtensfrom Durham Bulls.",
+      "player": "Jesse Scholtens"
     },
     {
       "date": "2026-04-11",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned RHPJ.P. Franceto Sugar Land Space Cowboys.",
-      "player": "J.P. France"
-    },
-    {
-      "date": "2026-04-11",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled RHPJayden Murrayfrom Sugar Land Space Cowboys.",
-      "player": "Jayden Murray"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPGrant Holmanto FCL Tigers.",
+      "player": "Grant Holman"
     },
     {
       "date": "2026-04-11",
@@ -105,15 +117,27 @@
     },
     {
       "date": "2026-04-11",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPCraig Kimbrelfrom St. Lucie Mets.",
-      "player": "Craig Kimbrel"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of CMaverick Handleyfrom Chesapeake Baysox.",
+      "player": "Maverick Handley"
     },
     {
       "date": "2026-04-11",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPJesse Scholtensfrom Durham Bulls.",
-      "player": "Jesse Scholtens"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersclaimed RHPGrant Holmanoff waivers fromLos Angeles Dodgers.",
+      "player": "Grant Holman"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled CFRyan Kreidlerfrom St. Paul Saints.",
+      "player": "Ryan Kreidler"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPCraig Kimbrelfrom St. Lucie Mets.",
+      "player": "Craig Kimbrel"
     },
     {
       "date": "2026-04-11",
@@ -129,9 +153,15 @@
     },
     {
       "date": "2026-04-11",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled CFRyan Kreidlerfrom St. Paul Saints.",
-      "player": "Ryan Kreidler"
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPJ.P. Franceto Sugar Land Space Cowboys.",
+      "player": "J.P. France"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPJayden Murrayfrom Sugar Land Space Cowboys.",
+      "player": "Jayden Murray"
     }
   ]
 }
