@@ -1,4 +1,29 @@
 {
-  "last_updated": "2026-04-12T13:18:03.808635",
-  "transactions": []
+  "last_updated": "2026-04-12T14:49:12.672899",
+  "transactions": [
+    {
+      "date": "2026-04-12",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPLuis Garcíafor assignment.",
+      "player": "Luis García"
+    },
+    {
+      "date": "2026-04-12",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RHPDrew Rasmussen.",
+      "player": "Drew Rasmussen"
+    },
+    {
+      "date": "2026-04-12",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned LHPJoe Rockto Durham Bulls.",
+      "player": "Joe Rock"
+    },
+    {
+      "date": "2026-04-12",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJoey Gerberfrom Syracuse Mets.",
+      "player": "Joey Gerber"
+    }
+  ]
 }
