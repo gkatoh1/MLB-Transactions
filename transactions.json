@@ -1,6 +1,66 @@
 {
-  "last_updated": "2026-04-11T23:44:00.448304",
+  "last_updated": "2026-04-12T03:34:28.330524",
   "transactions": [
+    {
+      "date": "2026-04-11",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPCody Lawerysonon the 15-day injured list retroactive to April 9, 2026. Right forearm strain.",
+      "player": "Cody Laweryson"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated 3BJeimer Candelariofor assignment.",
+      "player": "Jeimer Candelario"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated LHPRichard Loveladyfor assignment.",
+      "player": "Richard Lovelady"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Tampa Bay Rays",
+      "details": "RHPDrew Rasmussenroster status changed byTampa Bay Rays.",
+      "player": "Drew Rasmussen"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated 2BVaughn Grissomfrom the 10-day injured list.",
+      "player": "Vaughn Grissom"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced CFMichael Harris IIon the paternity list.",
+      "player": "Michael Harris II"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestransferred LHPDanny Youngfrom the 15-day injured list to the 60-day injured list. Left elbow reconstruction.",
+      "player": "Danny Young"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced CAdley Rutschmanon the 10-day injured list. Left ankle inflammation.",
+      "player": "Adley Rutschman"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Tampa Bay Rays",
+      "details": "RHPJonathan Heasleyassigned toTampa Bay Rays.",
+      "player": "Jonathan Heasley"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced RHPJoe Boyleon the 15-day injured list retroactive to April 10, 2026. Right elbow strain.",
+      "player": "Joe Boyle"
+    },
     {
       "date": "2026-04-11",
       "team": "Houston Astros",
@@ -39,69 +99,33 @@
     },
     {
       "date": "2026-04-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced CFMichael Harris IIon the paternity list.",
-      "player": "Michael Harris II"
-    },
-    {
-      "date": "2026-04-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravestransferred LHPDanny Youngfrom the 15-day injured list to the 60-day injured list. Left elbow reconstruction.",
-      "player": "Danny Young"
-    },
-    {
-      "date": "2026-04-11",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced CAdley Rutschmanon the 10-day injured list. Left ankle inflammation.",
-      "player": "Adley Rutschman"
-    },
-    {
-      "date": "2026-04-11",
-      "team": "Tampa Bay Rays",
-      "details": "RHPDrew Rasmussenroster status changed byTampa Bay Rays.",
-      "player": "Drew Rasmussen"
-    },
-    {
-      "date": "2026-04-11",
-      "team": "Tampa Bay Rays",
-      "details": "RHPJonathan Heasleyassigned toTampa Bay Rays.",
-      "player": "Jonathan Heasley"
-    },
-    {
-      "date": "2026-04-11",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysplaced RHPJoe Boyleon the 15-day injured list retroactive to April 10, 2026. Right elbow strain.",
-      "player": "Joe Boyle"
-    },
-    {
-      "date": "2026-04-11",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced RHPCody Lawerysonon the 15-day injured list retroactive to April 9, 2026. Right forearm strain.",
-      "player": "Cody Laweryson"
-    },
-    {
-      "date": "2026-04-11",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsdesignated 3BJeimer Candelariofor assignment.",
-      "player": "Jeimer Candelario"
-    },
-    {
-      "date": "2026-04-11",
       "team": "New York Mets",
-      "details": "New York Metsdesignated LHPRichard Loveladyfor assignment.",
-      "player": "Richard Lovelady"
+      "details": "New York Metsselected the contract of RHPCraig Kimbrelfrom St. Lucie Mets.",
+      "player": "Craig Kimbrel"
     },
     {
       "date": "2026-04-11",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsactivated 2BVaughn Grissomfrom the 10-day injured list.",
-      "player": "Vaughn Grissom"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of SSLuke Williamsfrom Gwinnett Stripers.",
+      "player": "Luke Williams"
     },
     {
       "date": "2026-04-11",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysrecalled RHPJesse Scholtensfrom Durham Bulls.",
       "player": "Jesse Scholtens"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled CFRyan Kreidlerfrom St. Paul Saints.",
+      "player": "Ryan Kreidler"
+    },
+    {
+      "date": "2026-04-11",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of CMaverick Handleyfrom Chesapeake Baysox.",
+      "player": "Maverick Handley"
     },
     {
       "date": "2026-04-11",
@@ -117,33 +141,9 @@
     },
     {
       "date": "2026-04-11",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of CMaverick Handleyfrom Chesapeake Baysox.",
-      "player": "Maverick Handley"
-    },
-    {
-      "date": "2026-04-11",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersclaimed RHPGrant Holmanoff waivers fromLos Angeles Dodgers.",
       "player": "Grant Holman"
-    },
-    {
-      "date": "2026-04-11",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled CFRyan Kreidlerfrom St. Paul Saints.",
-      "player": "Ryan Kreidler"
-    },
-    {
-      "date": "2026-04-11",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPCraig Kimbrelfrom St. Lucie Mets.",
-      "player": "Craig Kimbrel"
-    },
-    {
-      "date": "2026-04-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of SSLuke Williamsfrom Gwinnett Stripers.",
-      "player": "Luke Williams"
     },
     {
       "date": "2026-04-11",
