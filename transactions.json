@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T17:42:24.695978",
+  "last_updated": "2026-04-12T19:01:15.845094",
   "transactions": [
     {
       "date": "2026-04-12",
@@ -9,21 +9,15 @@
     },
     {
       "date": "2026-04-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced RHPHunter Harveyon the 15-day injured list retroactive to April 9, 2026. Right triceps inflammation.",
-      "player": "Hunter Harvey"
-    },
-    {
-      "date": "2026-04-12",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesplaced RFTyler O'Neillon the 7-day injured list retroactive to April 9, 2026. Concussion.",
       "player": "Tyler O'Neill"
     },
     {
       "date": "2026-04-12",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced RFGeorge Springeron the 10-day injured list. Left great toe fracture.",
-      "player": "George Springer"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPHunter Harveyon the 15-day injured list retroactive to April 9, 2026. Right triceps inflammation.",
+      "player": "Hunter Harvey"
     },
     {
       "date": "2026-04-12",
@@ -39,9 +33,9 @@
     },
     {
       "date": "2026-04-12",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent RHPStephen Kolekon a rehab assignment to Omaha Storm Chasers.",
-      "player": "Stephen Kolek"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RFGeorge Springeron the 10-day injured list. Left great toe fracture.",
+      "player": "George Springer"
     },
     {
       "date": "2026-04-12",
@@ -51,9 +45,15 @@
     },
     {
       "date": "2026-04-12",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RFJohnathan Rodríguezfrom Norfolk Tides.",
-      "player": "Johnathan Rodríguez"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent RHPStephen Kolekon a rehab assignment to Omaha Storm Chasers.",
+      "player": "Stephen Kolek"
+    },
+    {
+      "date": "2026-04-12",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJoey Gerberfrom Syracuse Mets.",
+      "player": "Joey Gerber"
     },
     {
       "date": "2026-04-12",
@@ -81,18 +81,6 @@
     },
     {
       "date": "2026-04-12",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPJoey Gerberfrom Syracuse Mets.",
-      "player": "Joey Gerber"
-    },
-    {
-      "date": "2026-04-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsselected the contract of LHPCharlie Barnesfrom Iowa Cubs.",
-      "player": "Charlie Barnes"
-    },
-    {
-      "date": "2026-04-12",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysoptioned LHPJoe Rockto Durham Bulls.",
       "player": "Joe Rock"
@@ -102,6 +90,18 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysselected the contract of OFEloy Jiménezfrom Buffalo Bisons.",
       "player": "Eloy Jiménez"
+    },
+    {
+      "date": "2026-04-12",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RFJohnathan Rodríguezfrom Norfolk Tides.",
+      "player": "Johnathan Rodríguez"
+    },
+    {
+      "date": "2026-04-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsselected the contract of LHPCharlie Barnesfrom Iowa Cubs.",
+      "player": "Charlie Barnes"
     }
   ]
 }
