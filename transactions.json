@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12T22:44:10.188201",
+  "last_updated": "2026-04-12T23:44:47.621414",
   "transactions": [
     {
       "date": "2026-04-12",
@@ -21,12 +21,6 @@
     },
     {
       "date": "2026-04-12",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssigned free agent LHPJosh Flemingto a minor league contract.",
-      "player": "Josh Fleming"
-    },
-    {
-      "date": "2026-04-12",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalssent RHPStephen Kolekon a rehab assignment to Omaha Storm Chasers.",
       "player": "Stephen Kolek"
@@ -36,6 +30,12 @@
       "team": "San Francisco Giants",
       "details": "San Francisco Giantssent LHPSam Hentgeson a rehab assignment to San Jose Giants.",
       "player": "Sam Hentges"
+    },
+    {
+      "date": "2026-04-12",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssigned free agent LHPJosh Flemingto a minor league contract.",
+      "player": "Josh Fleming"
     },
     {
       "date": "2026-04-12",
@@ -63,51 +63,15 @@
     },
     {
       "date": "2026-04-12",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned RHPGeorge Klassento Salt Lake Bees.",
-      "player": "George Klassen"
-    },
-    {
-      "date": "2026-04-12",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsselected the contract of RHPNick Sandlinfrom Salt Lake Bees.",
-      "player": "Nick Sandlin"
-    },
-    {
-      "date": "2026-04-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled LHPDylan Doddfrom Gwinnett Stripers.",
-      "player": "Dylan Dodd"
-    },
-    {
-      "date": "2026-04-12",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of OFEloy Jiménezfrom Buffalo Bisons.",
-      "player": "Eloy Jiménez"
-    },
-    {
-      "date": "2026-04-12",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPDuncan Davittto Charlotte Knights.",
-      "player": "Duncan Davitt"
-    },
-    {
-      "date": "2026-04-12",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPJoey Gerberfrom Syracuse Mets.",
-      "player": "Joey Gerber"
-    },
-    {
-      "date": "2026-04-12",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysoptioned LHPJoe Rockto Durham Bulls.",
       "player": "Joe Rock"
     },
     {
       "date": "2026-04-12",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RFJohnathan Rodríguezfrom Norfolk Tides.",
-      "player": "Johnathan Rodríguez"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsselected the contract of RHPNick Sandlinfrom Salt Lake Bees.",
+      "player": "Nick Sandlin"
     },
     {
       "date": "2026-04-12",
@@ -118,8 +82,44 @@
     {
       "date": "2026-04-12",
       "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPDuncan Davittto Charlotte Knights.",
+      "player": "Duncan Davitt"
+    },
+    {
+      "date": "2026-04-12",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of OFEloy Jiménezfrom Buffalo Bisons.",
+      "player": "Eloy Jiménez"
+    },
+    {
+      "date": "2026-04-12",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RFJohnathan Rodríguezfrom Norfolk Tides.",
+      "player": "Johnathan Rodríguez"
+    },
+    {
+      "date": "2026-04-12",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJoey Gerberfrom Syracuse Mets.",
+      "player": "Joey Gerber"
+    },
+    {
+      "date": "2026-04-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled LHPDylan Doddfrom Gwinnett Stripers.",
+      "player": "Dylan Dodd"
+    },
+    {
+      "date": "2026-04-12",
+      "team": "Chicago White Sox",
       "details": "Chicago White Soxrecalled RHPJonathan Cannonfrom Charlotte Knights.",
       "player": "Jonathan Cannon"
+    },
+    {
+      "date": "2026-04-12",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPGeorge Klassento Salt Lake Bees.",
+      "player": "George Klassen"
     }
   ]
 }
