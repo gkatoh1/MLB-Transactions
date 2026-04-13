@@ -1,4 +1,23 @@
 {
-  "last_updated": "2026-04-13T11:22:46.000731",
-  "transactions": []
+  "last_updated": "2026-04-13T13:59:33.695238",
+  "transactions": [
+    {
+      "date": "2026-04-13",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned LHPDylan Doddto Gwinnett Stripers.",
+      "player": "Dylan Dodd"
+    },
+    {
+      "date": "2026-04-13",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPRolddy Muñozfrom Gwinnett Stripers.",
+      "player": "Rolddy Muñoz"
+    },
+    {
+      "date": "2026-04-13",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPValente Bellozoto Albuquerque Isotopes.",
+      "player": "Valente Bellozo"
+    }
+  ]
 }
