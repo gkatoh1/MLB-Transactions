@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-04-13T13:59:33.695238",
+  "last_updated": "2026-04-13T15:39:44.857855",
   "transactions": [
+    {
+      "date": "2026-04-13",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned OFNoelvi Marteto Louisville Bats.",
+      "player": "Noelvi Marte"
+    },
+    {
+      "date": "2026-04-13",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPValente Bellozoto Albuquerque Isotopes.",
+      "player": "Valente Bellozo"
+    },
     {
       "date": "2026-04-13",
       "team": "Atlanta Braves",
@@ -12,12 +24,6 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesrecalled RHPRolddy Muñozfrom Gwinnett Stripers.",
       "player": "Rolddy Muñoz"
-    },
-    {
-      "date": "2026-04-13",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPValente Bellozoto Albuquerque Isotopes.",
-      "player": "Valente Bellozo"
     }
   ]
 }
