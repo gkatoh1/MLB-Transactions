@@ -1,35 +1,11 @@
 {
-  "last_updated": "2026-04-13T23:52:29.682805",
+  "last_updated": "2026-04-14T03:30:35.472657",
   "transactions": [
-    {
-      "date": "2026-04-13",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesplaced RHPJonathan Bowlanon the 15-day injured list. Right groin strain.",
-      "player": "Jonathan Bowlan"
-    },
-    {
-      "date": "2026-04-13",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated SSLuke Williamsfor assignment.",
-      "player": "Luke Williams"
-    },
-    {
-      "date": "2026-04-13",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssigned free agent RHPEduardo Villegasto a minor league contract.",
-      "player": "Eduardo Villegas"
-    },
     {
       "date": "2026-04-13",
       "team": "Detroit Tigers",
       "details": "Detroit Tigerstransferred CFParker Meadowsfrom the 10-day injured list to the 60-day injured list. Left radius fracture.",
       "player": "Parker Meadows"
-    },
-    {
-      "date": "2026-04-13",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsdesignated LHPJared Shusterfor assignment.",
-      "player": "Jared Shuster"
     },
     {
       "date": "2026-04-13",
@@ -39,15 +15,15 @@
     },
     {
       "date": "2026-04-13",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansdesignated LHPKolby Allardfor assignment.",
-      "player": "Kolby Allard"
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced RHPTatsuya Imaion the 15-day injured list retroactive to April 12, 2026. Right arm fatigue.",
+      "player": "Tatsuya Imai"
     },
     {
       "date": "2026-04-13",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolestransferred RHPYaramil Hiraldofrom the 15-day injured list to the 60-day injured list. Right shoulder inflammation.",
-      "player": "Yaramil Hiraldo"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent OFStharling De Los Santosto a minor league contract.",
+      "player": "Stharling De Los Santos"
     },
     {
       "date": "2026-04-13",
@@ -60,18 +36,6 @@
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansactivated RHPHunter Gaddisfrom the 15-day injured list.",
       "player": "Hunter Gaddis"
-    },
-    {
-      "date": "2026-04-13",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersplaced RHPBen Caspariuson the 15-day injured list. Right shoulder inflammation.",
-      "player": "Ben Casparius"
-    },
-    {
-      "date": "2026-04-13",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated CFMichael Harris IIfrom the paternity list.",
-      "player": "Michael Harris II"
     },
     {
       "date": "2026-04-13",
@@ -93,15 +57,21 @@
     },
     {
       "date": "2026-04-13",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced RHPTatsuya Imaion the 15-day injured list retroactive to April 12, 2026. Right arm fatigue.",
-      "player": "Tatsuya Imai"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsdesignated LHPJared Shusterfor assignment.",
+      "player": "Jared Shuster"
     },
     {
       "date": "2026-04-13",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssigned free agent OFStharling De Los Santosto a minor league contract.",
-      "player": "Stharling De Los Santos"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansdesignated LHPKolby Allardfor assignment.",
+      "player": "Kolby Allard"
+    },
+    {
+      "date": "2026-04-13",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestransferred RHPYaramil Hiraldofrom the 15-day injured list to the 60-day injured list. Right shoulder inflammation.",
+      "player": "Yaramil Hiraldo"
     },
     {
       "date": "2026-04-13",
@@ -111,45 +81,33 @@
     },
     {
       "date": "2026-04-13",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned 1BChristian Encarnacion-Strandto Norfolk Tides.",
-      "player": "Christian Encarnacion-Strand"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced RHPJonathan Bowlanon the 15-day injured list. Right groin strain.",
+      "player": "Jonathan Bowlan"
     },
     {
       "date": "2026-04-13",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned LHPCade Povichto Norfolk Tides.",
-      "player": "Cade Povich"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated SSLuke Williamsfor assignment.",
+      "player": "Luke Williams"
     },
     {
       "date": "2026-04-13",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned 3BRonny Mauricioto Syracuse Mets.",
-      "player": "Ronny Mauricio"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssigned free agent RHPEduardo Villegasto a minor league contract.",
+      "player": "Eduardo Villegas"
     },
     {
       "date": "2026-04-13",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPOrlando Ribaltafrom Rochester Red Wings.",
-      "player": "Orlando Ribalta"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced RHPBen Caspariuson the 15-day injured list. Right shoulder inflammation.",
+      "player": "Ben Casparius"
     },
     {
       "date": "2026-04-13",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redstraded 1BChristian Encarnacion-StrandtoBaltimore Oriolesfor cash.",
-      "player": "Christian Encarnacion-Strand"
-    },
-    {
-      "date": "2026-04-13",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent 3BJeimer Candelariooutright to Salt Lake Bees.",
-      "player": "Jeimer Candelario"
-    },
-    {
-      "date": "2026-04-13",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesselected the contract of LFWeston Wilsonfrom Norfolk Tides.",
-      "player": "Weston Wilson"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated CFMichael Harris IIfrom the paternity list.",
+      "player": "Michael Harris II"
     },
     {
       "date": "2026-04-13",
@@ -159,27 +117,27 @@
     },
     {
       "date": "2026-04-13",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxtraded 2BLenyn SosatoToronto Blue Jaysfor OF Jordan Rich and Future Considerations.",
-      "player": "Lenyn Sosa"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned LHPHunter Barcoto Indianapolis Indians.",
+      "player": "Hunter Barco"
     },
     {
       "date": "2026-04-13",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPRyan Fernandezfrom Memphis Redbirds.",
-      "player": "Ryan Fernandez"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPOrlando Ribaltafrom Rochester Red Wings.",
+      "player": "Orlando Ribalta"
     },
     {
       "date": "2026-04-13",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxtraded 2B Lenyn Sosa toToronto Blue Jaysfor OFJordan Richand Future Considerations.",
-      "player": "Jordan Rich"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPCade Povichto Norfolk Tides.",
+      "player": "Cade Povich"
     },
     {
       "date": "2026-04-13",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
-      "player": "Seth Johnson"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned LHPDylan Doddto Gwinnett Stripers.",
+      "player": "Dylan Dodd"
     },
     {
       "date": "2026-04-13",
@@ -189,57 +147,9 @@
     },
     {
       "date": "2026-04-13",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersclaimed RHPYoniel Curetoff waivers fromPhiladelphia Phillies.",
-      "player": "Yoniel Curet"
-    },
-    {
-      "date": "2026-04-13",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPRolddy Muñozfrom Gwinnett Stripers.",
-      "player": "Rolddy Muñoz"
-    },
-    {
-      "date": "2026-04-13",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPDean Kremerfrom Norfolk Tides.",
-      "player": "Dean Kremer"
-    },
-    {
-      "date": "2026-04-13",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned RHPJayden Murrayto Sugar Land Space Cowboys.",
-      "player": "Jayden Murray"
-    },
-    {
-      "date": "2026-04-13",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPJackson Rutledgefrom Rochester Red Wings.",
-      "player": "Jackson Rutledge"
-    },
-    {
-      "date": "2026-04-13",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of LFTommy Phamfrom St. Lucie Mets.",
-      "player": "Tommy Pham"
-    },
-    {
-      "date": "2026-04-13",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPValente Bellozoto Albuquerque Isotopes.",
-      "player": "Valente Bellozo"
-    },
-    {
-      "date": "2026-04-13",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled LHPEvan Siskfrom Indianapolis Indians.",
-      "player": "Evan Sisk"
-    },
-    {
-      "date": "2026-04-13",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled RHPJ.P. Francefrom Sugar Land Space Cowboys.",
-      "player": "J.P. France"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxtraded 2BLenyn SosatoToronto Blue Jaysfor OF Jordan Rich and Future Considerations.",
+      "player": "Lenyn Sosa"
     },
     {
       "date": "2026-04-13",
@@ -249,21 +159,39 @@
     },
     {
       "date": "2026-04-13",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPJackson Rutledgefrom Rochester Red Wings.",
+      "player": "Jackson Rutledge"
+    },
+    {
+      "date": "2026-04-13",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPValente Bellozoto Albuquerque Isotopes.",
+      "player": "Valente Bellozo"
+    },
+    {
+      "date": "2026-04-13",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxtraded 2B Lenyn Sosa toToronto Blue Jaysfor OFJordan Richand Future Considerations.",
+      "player": "Jordan Rich"
+    },
+    {
+      "date": "2026-04-13",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redstraded 1BChristian Encarnacion-StrandtoBaltimore Oriolesfor cash.",
+      "player": "Christian Encarnacion-Strand"
+    },
+    {
+      "date": "2026-04-13",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned OFNoelvi Marteto Louisville Bats.",
       "player": "Noelvi Marte"
     },
     {
       "date": "2026-04-13",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned LHPHunter Barcoto Indianapolis Indians.",
-      "player": "Hunter Barco"
-    },
-    {
-      "date": "2026-04-13",
       "team": "Houston Astros",
-      "details": "Houston Astrosrecalled LHPColton Gordonfrom Sugar Land Space Cowboys.",
-      "player": "Colton Gordon"
+      "details": "Houston Astrosoptioned RHPJayden Murrayto Sugar Land Space Cowboys.",
+      "player": "Jayden Murray"
     },
     {
       "date": "2026-04-13",
@@ -279,9 +207,81 @@
     },
     {
       "date": "2026-04-13",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of LFTommy Phamfrom St. Lucie Mets.",
+      "player": "Tommy Pham"
+    },
+    {
+      "date": "2026-04-13",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned LHPDylan Doddto Gwinnett Stripers.",
-      "player": "Dylan Dodd"
+      "details": "Atlanta Bravesrecalled RHPRolddy Muñozfrom Gwinnett Stripers.",
+      "player": "Rolddy Muñoz"
+    },
+    {
+      "date": "2026-04-13",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersclaimed RHPYoniel Curetoff waivers fromPhiladelphia Phillies.",
+      "player": "Yoniel Curet"
+    },
+    {
+      "date": "2026-04-13",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPRyan Fernandezfrom Memphis Redbirds.",
+      "player": "Ryan Fernandez"
+    },
+    {
+      "date": "2026-04-13",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned 1BChristian Encarnacion-Strandto Norfolk Tides.",
+      "player": "Christian Encarnacion-Strand"
+    },
+    {
+      "date": "2026-04-13",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned 3BRonny Mauricioto Syracuse Mets.",
+      "player": "Ronny Mauricio"
+    },
+    {
+      "date": "2026-04-13",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of LFWeston Wilsonfrom Norfolk Tides.",
+      "player": "Weston Wilson"
+    },
+    {
+      "date": "2026-04-13",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPJ.P. Francefrom Sugar Land Space Cowboys.",
+      "player": "J.P. France"
+    },
+    {
+      "date": "2026-04-13",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled LHPColton Gordonfrom Sugar Land Space Cowboys.",
+      "player": "Colton Gordon"
+    },
+    {
+      "date": "2026-04-13",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPDean Kremerfrom Norfolk Tides.",
+      "player": "Dean Kremer"
+    },
+    {
+      "date": "2026-04-13",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent 3BJeimer Candelariooutright to Salt Lake Bees.",
+      "player": "Jeimer Candelario"
+    },
+    {
+      "date": "2026-04-13",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
+      "player": "Seth Johnson"
+    },
+    {
+      "date": "2026-04-13",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled LHPEvan Siskfrom Indianapolis Indians.",
+      "player": "Evan Sisk"
     }
   ]
 }
