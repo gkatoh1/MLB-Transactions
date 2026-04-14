@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-04-14T16:16:03.916442",
+  "last_updated": "2026-04-14T18:11:36.559402",
   "transactions": [
     {
       "date": "2026-04-14",
       "team": "Houston Astros",
       "details": "Houston Astrossent LHPBennett Sousaon a rehab assignment to Corpus Christi Hooks.",
       "player": "Bennett Sousa"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssigned free agent RHPLuis Acevedoto a minor league contract.",
+      "player": "Luis Acevedo"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssigned free agent RHPRonelbi Garciato a minor league contract.",
+      "player": "Ronelbi Garcia"
     },
     {
       "date": "2026-04-14",
@@ -18,6 +30,12 @@
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsrecalled RFRece Hindsfrom Louisville Bats.",
       "player": "Rece Hinds"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled LHPMitchell Parkerfrom Rochester Red Wings.",
+      "player": "Mitchell Parker"
     }
   ]
 }
