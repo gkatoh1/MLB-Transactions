@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-04-14T12:02:40.686784",
+  "last_updated": "2026-04-14T14:53:48.453125",
   "transactions": [
     {
       "date": "2026-04-14",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPJake Birdto Scranton/Wilkes-Barre RailRiders.",
       "player": "Jake Bird"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RFRece Hindsfrom Louisville Bats.",
+      "player": "Rece Hinds"
     }
   ]
 }
