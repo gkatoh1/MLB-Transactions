@@ -1,47 +1,11 @@
 {
-  "last_updated": "2026-04-14T22:55:57.505915",
+  "last_updated": "2026-04-14T23:52:45.475867",
   "transactions": [
     {
       "date": "2026-04-14",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated 2BLenyn Sosa.",
-      "player": "Lenyn Sosa"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced RHPEthan Robertson the 15-day injured list retroactive to April 13, 2026. Right middle finger laceration.",
-      "player": "Ethan Roberts"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssigned free agent RHPMichael Grove.",
-      "player": "Michael Grove"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssent LHPSam Hentgeson a rehab assignment to Sacramento River Cats.",
-      "player": "Sam Hentges"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent CSean Murphyon a rehab assignment to Rome Emperors.",
-      "player": "Sean Murphy"
-    },
-    {
-      "date": "2026-04-14",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackstransferred 1BPavin Smithfrom the 10-day injured list to the 60-day injured list. Left elbow inflammation.",
-      "player": "Pavin Smith"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "New York Mets",
-      "details": "New York Metsreleased RHPLuis García.",
-      "player": "Luis García"
+      "details": "Arizona Diamondbacksplaced CGabriel Morenoon the 10-day injured list retroactive to April 11, 2026. Left oblique strain.",
+      "player": "Gabriel Moreno"
     },
     {
       "date": "2026-04-14",
@@ -57,45 +21,21 @@
     },
     {
       "date": "2026-04-14",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssigned free agent RHPRonelbi Garciato a minor league contract.",
-      "player": "Ronelbi Garcia"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced LHPRob Zastryznyon the 60-day injured list. Left shoulder strain.",
-      "player": "Rob Zastryzny"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssigned free agent RHPLuis Acevedoto a minor league contract.",
-      "player": "Luis Acevedo"
-    },
-    {
-      "date": "2026-04-14",
       "team": "New York Mets",
       "details": "New York Metsplaced RHPJoey Gerberon the 15-day injured list. Right finger blister.",
       "player": "Joey Gerber"
     },
     {
       "date": "2026-04-14",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksactivated RHPMerrill Kellyfrom the 15-day injured list.",
-      "player": "Merrill Kelly"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent RHPPaul Campbellto a minor league contract.",
+      "player": "Paul Campbell"
     },
     {
       "date": "2026-04-14",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersplaced RFRob Refsnyderon the paternity list.",
-      "player": "Rob Refsnyder"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksplaced CGabriel Morenoon the 10-day injured list retroactive to April 11, 2026. Left oblique strain.",
-      "player": "Gabriel Moreno"
+      "team": "New York Mets",
+      "details": "New York Metsreleased RHPLuis García.",
+      "player": "Luis García"
     },
     {
       "date": "2026-04-14",
@@ -108,24 +48,6 @@
       "team": "Chicago White Sox",
       "details": "Chicago White Soxplaced RHPJonathan Cannonon the 15-day injured list retroactive to April 13, 2026. Right hip inflammation.",
       "player": "Jonathan Cannon"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssigned free agent RHPPaul Campbellto a minor league contract.",
-      "player": "Paul Campbell"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent SSAnthony Volpeon a rehab assignment to Somerset Patriots.",
-      "player": "Anthony Volpe"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent LHPBennett Sousaon a rehab assignment to Corpus Christi Hooks.",
-      "player": "Bennett Sousa"
     },
     {
       "date": "2026-04-14",
@@ -153,15 +75,135 @@
     },
     {
       "date": "2026-04-14",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPEthan Robertson the 15-day injured list retroactive to April 13, 2026. Right middle finger laceration.",
+      "player": "Ethan Roberts"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackstransferred 1BPavin Smithfrom the 10-day injured list to the 60-day injured list. Left elbow inflammation.",
+      "player": "Pavin Smith"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssigned free agent RHPRonelbi Garciato a minor league contract.",
+      "player": "Ronelbi Garcia"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated 2BLenyn Sosa.",
+      "player": "Lenyn Sosa"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssigned free agent RHPMichael Grove.",
+      "player": "Michael Grove"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent LHPSam Hentgeson a rehab assignment to Sacramento River Cats.",
+      "player": "Sam Hentges"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresplaced RHPNick Pivettaon the 15-day injured list retroactive to April 13, 2026. Right elbow inflammation.",
+      "player": "Nick Pivetta"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent CSean Murphyon a rehab assignment to Rome Emperors.",
+      "player": "Sean Murphy"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent LHPBennett Sousaon a rehab assignment to Corpus Christi Hooks.",
+      "player": "Bennett Sousa"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent SSAnthony Volpeon a rehab assignment to Somerset Patriots.",
+      "player": "Anthony Volpe"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced LHPRob Zastryznyon the 60-day injured list. Left shoulder strain.",
+      "player": "Rob Zastryzny"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssigned free agent RHPLuis Acevedoto a minor league contract.",
+      "player": "Luis Acevedo"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated RHPMerrill Kellyfrom the 15-day injured list.",
+      "player": "Merrill Kelly"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersplaced RFRob Refsnyderon the paternity list.",
+      "player": "Rob Refsnyder"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned LHPMitch Farristo Salt Lake Bees.",
+      "player": "Mitch Farris"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of RHPJack Andersonfrom Worcester Red Sox.",
+      "player": "Jack Anderson"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned 2BTyler Fitzgeraldto Buffalo Bisons.",
+      "player": "Tyler Fitzgerald"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent LHPMartín Pérezoutright to Gwinnett Stripers.",
+      "player": "Martín Pérez"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RFRece Hindsfrom Louisville Bats.",
+      "player": "Rece Hinds"
+    },
+    {
+      "date": "2026-04-14",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPJake Birdto Scranton/Wilkes-Barre RailRiders.",
       "player": "Jake Bird"
     },
     {
       "date": "2026-04-14",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPJackson Rutledgeto Rochester Red Wings.",
-      "player": "Jackson Rutledge"
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
+      "player": "Austin Warren"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled LHPHayden Harrisfrom Gwinnett Stripers.",
+      "player": "Hayden Harris"
     },
     {
       "date": "2026-04-14",
@@ -171,9 +213,51 @@
     },
     {
       "date": "2026-04-14",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned LHPMitch Farristo Salt Lake Bees.",
-      "player": "Mitch Farris"
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPYerry De los Santosfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Yerry De los Santos"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of 1BPatrick Wisdomfrom Tacoma Rainiers.",
+      "player": "Patrick Wisdom"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPRolddy Muñozto Gwinnett Stripers.",
+      "player": "Rolddy Muñoz"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPTanner Gordonfrom Albuquerque Isotopes.",
+      "player": "Tanner Gordon"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of RFGreg Jonesfrom Nashville Sounds.",
+      "player": "Greg Jones"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPJackson Rutledgeto Rochester Red Wings.",
+      "player": "Jackson Rutledge"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned LHPCharlie Barnesto Iowa Cubs.",
+      "player": "Charlie Barnes"
+    },
+    {
+      "date": "2026-04-14",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPLuke Littlefrom Iowa Cubs.",
+      "player": "Luke Little"
     },
     {
       "date": "2026-04-14",
@@ -201,27 +285,9 @@
     },
     {
       "date": "2026-04-14",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of LHPNoah Schultzfrom Charlotte Knights.",
-      "player": "Noah Schultz"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
-      "player": "Austin Warren"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of 1BPatrick Wisdomfrom Tacoma Rainiers.",
-      "player": "Patrick Wisdom"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersselected the contract of RFGreg Jonesfrom Nashville Sounds.",
-      "player": "Greg Jones"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPTaylor Rashito Reno Aces.",
+      "player": "Taylor Rashi"
     },
     {
       "date": "2026-04-14",
@@ -231,75 +297,9 @@
     },
     {
       "date": "2026-04-14",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled LHPRyan Rolisonfrom Iowa Cubs.",
-      "player": "Ryan Rolison"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RFRece Hindsfrom Louisville Bats.",
-      "player": "Rece Hinds"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled LHPHayden Harrisfrom Gwinnett Stripers.",
-      "player": "Hayden Harris"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned 2BTyler Fitzgeraldto Buffalo Bisons.",
-      "player": "Tyler Fitzgerald"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent LHPMartín Pérezoutright to Gwinnett Stripers.",
-      "player": "Martín Pérez"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPTyler Samaniegoto Worcester Red Sox.",
-      "player": "Tyler Samaniego"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPTanner Gordonfrom Albuquerque Isotopes.",
-      "player": "Tanner Gordon"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned RHPTaylor Rashito Reno Aces.",
-      "player": "Taylor Rashi"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPYerry De los Santosfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Yerry De los Santos"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPRolddy Muñozto Gwinnett Stripers.",
-      "player": "Rolddy Muñoz"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned LHPCharlie Barnesto Iowa Cubs.",
-      "player": "Charlie Barnes"
-    },
-    {
-      "date": "2026-04-14",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled LHPLuke Littlefrom Iowa Cubs.",
-      "player": "Luke Little"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of LHPNoah Schultzfrom Charlotte Knights.",
+      "player": "Noah Schultz"
     }
   ]
 }
