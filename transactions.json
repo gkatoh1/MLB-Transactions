@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-04-18T15:45:46.573782",
+  "last_updated": "2026-04-18T16:52:19.207673",
   "transactions": [
-    {
-      "date": "2026-04-18",
-      "team": "New York Mets",
-      "details": "New York Metsplaced 2BJorge Polancoon the 10-day injured list retroactive to April 15, 2026. Right wrist contusion.",
-      "player": "Jorge Polanco"
-    },
     {
       "date": "2026-04-18",
       "team": "Minnesota Twins",
@@ -16,8 +10,26 @@
     {
       "date": "2026-04-18",
       "team": "New York Mets",
+      "details": "New York Metsplaced 2BJorge Polancoon the 10-day injured list retroactive to April 15, 2026. Right wrist contusion.",
+      "player": "Jorge Polanco"
+    },
+    {
+      "date": "2026-04-18",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubstransferred RHPCade Hortonfrom the 15-day injured list to the 60-day injured list. Right forearm strain.",
+      "player": "Cade Horton"
+    },
+    {
+      "date": "2026-04-18",
+      "team": "New York Mets",
       "details": "New York Metsrecalled CHayden Sengerfrom Syracuse Mets.",
       "player": "Hayden Senger"
+    },
+    {
+      "date": "2026-04-18",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsselected the contract of RHPCorbin Martinfrom Iowa Cubs.",
+      "player": "Corbin Martin"
     }
   ]
 }
