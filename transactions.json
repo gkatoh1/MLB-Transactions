@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-04-18T16:52:19.207673",
+  "last_updated": "2026-04-18T17:44:00.083052",
   "transactions": [
-    {
-      "date": "2026-04-18",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent 3BRoyce Lewison a rehab assignment to St. Paul Saints.",
-      "player": "Royce Lewis"
-    },
     {
       "date": "2026-04-18",
       "team": "New York Mets",
@@ -21,15 +15,45 @@
     },
     {
       "date": "2026-04-18",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent 3BRoyce Lewison a rehab assignment to St. Paul Saints.",
+      "player": "Royce Lewis"
+    },
+    {
+      "date": "2026-04-18",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPColeman Crowto Nashville Sounds.",
+      "player": "Coleman Crow"
+    },
+    {
+      "date": "2026-04-18",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPMason Barnettfrom Las Vegas Aviators.",
+      "player": "Mason Barnett"
+    },
+    {
+      "date": "2026-04-18",
       "team": "New York Mets",
       "details": "New York Metsrecalled CHayden Sengerfrom Syracuse Mets.",
       "player": "Hayden Senger"
     },
     {
       "date": "2026-04-18",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPElvis Alvaradoto Las Vegas Aviators.",
+      "player": "Elvis Alvarado"
+    },
+    {
+      "date": "2026-04-18",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsselected the contract of RHPCorbin Martinfrom Iowa Cubs.",
       "player": "Corbin Martin"
+    },
+    {
+      "date": "2026-04-18",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPCarlos Rodriguezfrom Nashville Sounds.",
+      "player": "Carlos Rodriguez"
     }
   ]
 }
