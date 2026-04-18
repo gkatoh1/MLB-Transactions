@@ -1,17 +1,11 @@
 {
-  "last_updated": "2026-04-18T17:44:00.083052",
+  "last_updated": "2026-04-18T19:02:14.960366",
   "transactions": [
     {
       "date": "2026-04-18",
-      "team": "New York Mets",
-      "details": "New York Metsplaced 2BJorge Polancoon the 10-day injured list retroactive to April 15, 2026. Right wrist contusion.",
-      "player": "Jorge Polanco"
-    },
-    {
-      "date": "2026-04-18",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubstransferred RHPCade Hortonfrom the 15-day injured list to the 60-day injured list. Right forearm strain.",
-      "player": "Cade Horton"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced RHPJhoan Duranon the 15-day injured list retroactive to April 15, 2026. Left oblique strain.",
+      "player": "Jhoan Duran"
     },
     {
       "date": "2026-04-18",
@@ -21,21 +15,33 @@
     },
     {
       "date": "2026-04-18",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPColeman Crowto Nashville Sounds.",
-      "player": "Coleman Crow"
-    },
-    {
-      "date": "2026-04-18",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPMason Barnettfrom Las Vegas Aviators.",
-      "player": "Mason Barnett"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxtransferred RHPPrelander Berroafrom the 15-day injured list to the 60-day injured list. Tommy John surgery recovery.",
+      "player": "Prelander Berroa"
     },
     {
       "date": "2026-04-18",
       "team": "New York Mets",
-      "details": "New York Metsrecalled CHayden Sengerfrom Syracuse Mets.",
-      "player": "Hayden Senger"
+      "details": "New York Metsplaced 2BJorge Polancoon the 10-day injured list retroactive to April 15, 2026. Right wrist contusion.",
+      "player": "Jorge Polanco"
+    },
+    {
+      "date": "2026-04-18",
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated RHPJ.P. Francefor assignment.",
+      "player": "J.P. France"
+    },
+    {
+      "date": "2026-04-18",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubstransferred RHPCade Hortonfrom the 15-day injured list to the 60-day injured list. Right forearm strain.",
+      "player": "Cade Horton"
+    },
+    {
+      "date": "2026-04-18",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned OFOtto Kempto Lehigh Valley IronPigs.",
+      "player": "Otto Kemp"
     },
     {
       "date": "2026-04-18",
@@ -45,15 +51,57 @@
     },
     {
       "date": "2026-04-18",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsselected the contract of RHPCorbin Martinfrom Iowa Cubs.",
-      "player": "Corbin Martin"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesselected the contract of OFFelix Reyesfrom Lehigh Valley IronPigs.",
+      "player": "Felix Reyes"
+    },
+    {
+      "date": "2026-04-18",
+      "team": "Houston Astros",
+      "details": "Houston Astrosclaimed LFDustin Harrisoff waivers fromChicago White Sox.",
+      "player": "Dustin Harris"
+    },
+    {
+      "date": "2026-04-18",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPMason Barnettfrom Las Vegas Aviators.",
+      "player": "Mason Barnett"
+    },
+    {
+      "date": "2026-04-18",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxclaimed RHPOsvaldo Bidooff waivers fromAtlanta Braves.",
+      "player": "Osvaldo Bido"
+    },
+    {
+      "date": "2026-04-18",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled CHayden Sengerfrom Syracuse Mets.",
+      "player": "Hayden Senger"
     },
     {
       "date": "2026-04-18",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersrecalled RHPCarlos Rodriguezfrom Nashville Sounds.",
       "player": "Carlos Rodriguez"
+    },
+    {
+      "date": "2026-04-18",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPColeman Crowto Nashville Sounds.",
+      "player": "Coleman Crow"
+    },
+    {
+      "date": "2026-04-18",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsselected the contract of RHPCorbin Martinfrom Iowa Cubs.",
+      "player": "Corbin Martin"
+    },
+    {
+      "date": "2026-04-18",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
+      "player": "Seth Johnson"
     }
   ]
 }
