@@ -1,4 +1,23 @@
 {
-  "last_updated": "2026-04-18T14:50:03.215004",
-  "transactions": []
+  "last_updated": "2026-04-18T15:45:46.573782",
+  "transactions": [
+    {
+      "date": "2026-04-18",
+      "team": "New York Mets",
+      "details": "New York Metsplaced 2BJorge Polancoon the 10-day injured list retroactive to April 15, 2026. Right wrist contusion.",
+      "player": "Jorge Polanco"
+    },
+    {
+      "date": "2026-04-18",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent 3BRoyce Lewison a rehab assignment to St. Paul Saints.",
+      "player": "Royce Lewis"
+    },
+    {
+      "date": "2026-04-18",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled CHayden Sengerfrom Syracuse Mets.",
+      "player": "Hayden Senger"
+    }
+  ]
 }
