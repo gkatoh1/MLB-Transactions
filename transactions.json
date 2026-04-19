@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-04-19T15:47:10.250083",
+  "last_updated": "2026-04-19T16:52:21.906699",
   "transactions": [
+    {
+      "date": "2026-04-19",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated RFJorge Soler.",
+      "player": "Jorge Soler"
+    },
+    {
+      "date": "2026-04-19",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalstransferred RHPJames McArthurfrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
+      "player": "James McArthur"
+    },
+    {
+      "date": "2026-04-19",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent LHPGarrett Cleavingeron a rehab assignment to Durham Bulls.",
+      "player": "Garrett Cleavinger"
+    },
+    {
+      "date": "2026-04-19",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated RHPOsvaldo Bido.",
+      "player": "Osvaldo Bido"
+    },
+    {
+      "date": "2026-04-19",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced 1BFreddie Freemanon the paternity list.",
+      "player": "Freddie Freeman"
+    },
     {
       "date": "2026-04-19",
       "team": "Miami Marlins",
@@ -15,51 +45,27 @@
     },
     {
       "date": "2026-04-19",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersplaced 1BFreddie Freemanon the paternity list.",
-      "player": "Freddie Freeman"
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced LFJoey Loperfidoon the 10-day injured list retroactive to April 18, 2026. Right quad strain.",
+      "player": "Joey Loperfido"
     },
     {
       "date": "2026-04-19",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalstransferred RHPJames McArthurfrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
-      "player": "James McArthur"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPDoug Nikhazyto Charlotte Knights.",
+      "player": "Doug Nikhazy"
     },
     {
       "date": "2026-04-19",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsactivated RFJorge Soler.",
-      "player": "Jorge Soler"
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPJayden Murrayfrom Sugar Land Space Cowboys.",
+      "player": "Jayden Murray"
     },
     {
       "date": "2026-04-19",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsselected the contract of CElias Díazfrom Omaha Storm Chasers.",
-      "player": "Elias Díaz"
-    },
-    {
-      "date": "2026-04-19",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPMitch Spenceto Omaha Storm Chasers.",
-      "player": "Mitch Spence"
-    },
-    {
-      "date": "2026-04-19",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled LFRyan Wardfrom Oklahoma City Comets.",
-      "player": "Ryan Ward"
-    },
-    {
-      "date": "2026-04-19",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPMason Blackfrom Omaha Storm Chasers.",
-      "player": "Mason Black"
-    },
-    {
-      "date": "2026-04-19",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned 2BTyler Tolbertto Omaha Storm Chasers.",
-      "player": "Tyler Tolbert"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPPaxton Schultzto Rochester Red Wings.",
+      "player": "Paxton Schultz"
     },
     {
       "date": "2026-04-19",
@@ -76,12 +82,6 @@
     {
       "date": "2026-04-19",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPPaxton Schultzto Rochester Red Wings.",
-      "player": "Paxton Schultz"
-    },
-    {
-      "date": "2026-04-19",
-      "team": "Washington Nationals",
       "details": "Washington Nationalsrecalled LHPAndrew Alvarezfrom Rochester Red Wings.",
       "player": "Andrew Alvarez"
     },
@@ -90,6 +90,48 @@
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesrecalled RHPWilber Dotelfrom Indianapolis Indians.",
       "player": "Wilber Dotel"
+    },
+    {
+      "date": "2026-04-19",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled LFRyan Wardfrom Oklahoma City Comets.",
+      "player": "Ryan Ward"
+    },
+    {
+      "date": "2026-04-19",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPMason Blackfrom Omaha Storm Chasers.",
+      "player": "Mason Black"
+    },
+    {
+      "date": "2026-04-19",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsselected the contract of CElias Díazfrom Omaha Storm Chasers.",
+      "player": "Elias Díaz"
+    },
+    {
+      "date": "2026-04-19",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPMitch Spenceto Omaha Storm Chasers.",
+      "player": "Mitch Spence"
+    },
+    {
+      "date": "2026-04-19",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned 2BTyler Tolbertto Omaha Storm Chasers.",
+      "player": "Tyler Tolbert"
+    },
+    {
+      "date": "2026-04-19",
+      "team": "Houston Astros",
+      "details": "Houston Astrostraded RHP Wilmy Sanchez toNew York Yankeesfor SSBraden Shewmake.",
+      "player": "Braden Shewmake"
+    },
+    {
+      "date": "2026-04-19",
+      "team": "Houston Astros",
+      "details": "Houston Astrostraded RHPWilmy SancheztoNew York Yankeesfor SS Braden Shewmake.",
+      "player": "Wilmy Sanchez"
     }
   ]
 }
