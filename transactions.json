@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-04-19T19:02:27.222233",
+  "last_updated": "2026-04-19T20:48:35.929989",
   "transactions": [
-    {
-      "date": "2026-04-19",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced LFJoey Loperfidoon the 10-day injured list retroactive to April 18, 2026. Right quad strain.",
-      "player": "Joey Loperfido"
-    },
     {
       "date": "2026-04-19",
       "team": "Miami Marlins",
@@ -15,9 +9,33 @@
     },
     {
       "date": "2026-04-19",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPCraig Yohoon a rehab assignment to Nashville Sounds.",
+      "player": "Craig Yoho"
+    },
+    {
+      "date": "2026-04-19",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsactivated RFJorge Soler.",
       "player": "Jorge Soler"
+    },
+    {
+      "date": "2026-04-19",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated LFDustin Harris.",
+      "player": "Dustin Harris"
+    },
+    {
+      "date": "2026-04-19",
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned free agent CFDaniel Johnsonto a minor league contract.",
+      "player": "Daniel Johnson"
+    },
+    {
+      "date": "2026-04-19",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced 1BFreddie Freemanon the paternity list.",
+      "player": "Freddie Freeman"
     },
     {
       "date": "2026-04-19",
@@ -33,33 +51,51 @@
     },
     {
       "date": "2026-04-19",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated LFDustin Harris.",
-      "player": "Dustin Harris"
-    },
-    {
-      "date": "2026-04-19",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersplaced 1BFreddie Freemanon the paternity list.",
-      "player": "Freddie Freeman"
-    },
-    {
-      "date": "2026-04-19",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxactivated RHPOsvaldo Bido.",
       "player": "Osvaldo Bido"
     },
     {
       "date": "2026-04-19",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent RHPCraig Yohoon a rehab assignment to Nashville Sounds.",
-      "player": "Craig Yoho"
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced LFJoey Loperfidoon the 10-day injured list retroactive to April 18, 2026. Right quad strain.",
+      "player": "Joey Loperfido"
+    },
+    {
+      "date": "2026-04-19",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPCam Sandersto Indianapolis Indians.",
+      "player": "Cam Sanders"
+    },
+    {
+      "date": "2026-04-19",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned 3BDeyvison De Los Santosto Jacksonville Jumbo Shrimp.",
+      "player": "Deyvison De Los Santos"
+    },
+    {
+      "date": "2026-04-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LHPJayvien Sandridgeoutright to Norfolk Tides.",
+      "player": "Jayvien Sandridge"
     },
     {
       "date": "2026-04-19",
       "team": "Houston Astros",
-      "details": "Houston Astrostraded RHPWilmy SancheztoNew York Yankeesfor SS Braden Shewmake.",
-      "player": "Wilmy Sanchez"
+      "details": "Houston Astrosrecalled RHPJayden Murrayfrom Sugar Land Space Cowboys.",
+      "player": "Jayden Murray"
+    },
+    {
+      "date": "2026-04-19",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPDoug Nikhazyto Charlotte Knights.",
+      "player": "Doug Nikhazy"
+    },
+    {
+      "date": "2026-04-19",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPPaxton Schultzto Rochester Red Wings.",
+      "player": "Paxton Schultz"
     },
     {
       "date": "2026-04-19",
@@ -99,51 +135,21 @@
     },
     {
       "date": "2026-04-19",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPCam Sandersto Indianapolis Indians.",
-      "player": "Cam Sanders"
-    },
-    {
-      "date": "2026-04-19",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned 3BDeyvison De Los Santosto Jacksonville Jumbo Shrimp.",
-      "player": "Deyvison De Los Santos"
-    },
-    {
-      "date": "2026-04-19",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPPaxton Schultzto Rochester Red Wings.",
-      "player": "Paxton Schultz"
+      "team": "Houston Astros",
+      "details": "Houston Astrostraded RHP Wilmy Sanchez toNew York Yankeesfor SSBraden Shewmake.",
+      "player": "Braden Shewmake"
     },
     {
       "date": "2026-04-19",
       "team": "Houston Astros",
-      "details": "Houston Astrosrecalled RHPJayden Murrayfrom Sugar Land Space Cowboys.",
-      "player": "Jayden Murray"
-    },
-    {
-      "date": "2026-04-19",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned LHPDoug Nikhazyto Charlotte Knights.",
-      "player": "Doug Nikhazy"
+      "details": "Houston Astrostraded RHPWilmy SancheztoNew York Yankeesfor SS Braden Shewmake.",
+      "player": "Wilmy Sanchez"
     },
     {
       "date": "2026-04-19",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersrecalled LFRyan Wardfrom Oklahoma City Comets.",
       "player": "Ryan Ward"
-    },
-    {
-      "date": "2026-04-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent LHPJayvien Sandridgeoutright to Norfolk Tides.",
-      "player": "Jayvien Sandridge"
-    },
-    {
-      "date": "2026-04-19",
-      "team": "Houston Astros",
-      "details": "Houston Astrostraded RHP Wilmy Sanchez toNew York Yankeesfor SSBraden Shewmake.",
-      "player": "Braden Shewmake"
     }
   ]
 }
