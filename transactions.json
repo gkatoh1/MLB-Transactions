@@ -1,11 +1,41 @@
 {
-  "last_updated": "2026-04-20T20:02:27.806515",
+  "last_updated": "2026-04-20T21:54:28.325815",
   "transactions": [
+    {
+      "date": "2026-04-20",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced SSNick Allenon the 10-day injured list retroactive to April 19, 2026. Mid-back spasms.",
+      "player": "Nick Allen"
+    },
+    {
+      "date": "2026-04-20",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced RHPEdwin Díazon the 15-day injured list. Right elbow loose bodies.",
+      "player": "Edwin Díaz"
+    },
+    {
+      "date": "2026-04-20",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced 2BJonathan Indiaon the 10-day injured list retroactive to April 19, 2026. Left shoulder subluxation.",
+      "player": "Jonathan India"
+    },
     {
       "date": "2026-04-20",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raystransferred RHPMichael Grovefrom the 15-day injured list to the 60-day injured list. Right shoulder surgery.",
       "player": "Michael Grove"
+    },
+    {
+      "date": "2026-04-20",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned free agent RHPBrayan Aquinoto a minor league contract.",
+      "player": "Brayan Aquino"
+    },
+    {
+      "date": "2026-04-20",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersplaced 3BMiles Mastrobuonion the 60-day injured list. Right calf strain.",
+      "player": "Miles Mastrobuoni"
     },
     {
       "date": "2026-04-20",
@@ -15,21 +45,15 @@
     },
     {
       "date": "2026-04-20",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced SSNick Allenon the 10-day injured list retroactive to April 19, 2026. Mid-back spasms.",
-      "player": "Nick Allen"
-    },
-    {
-      "date": "2026-04-20",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysplaced RHPMason Englerton the 15-day injured list. Right forearm tightness.",
       "player": "Mason Englert"
     },
     {
       "date": "2026-04-20",
-      "team": "Houston Astros",
-      "details": "Houston Astrostransferred RHPCristian Javierfrom the 15-day injured list to the 60-day injured list. Grade two right shoulder strain.",
-      "player": "Cristian Javier"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersplaced 2BBrendan Donovanon the 10-day injured list retroactive to April 18, 2026. Left groin muscle strain.",
+      "player": "Brendan Donovan"
     },
     {
       "date": "2026-04-20",
@@ -39,9 +63,27 @@
     },
     {
       "date": "2026-04-20",
+      "team": "Houston Astros",
+      "details": "Houston Astrostransferred RHPCristian Javierfrom the 15-day injured list to the 60-day injured list. Grade two right shoulder strain.",
+      "player": "Cristian Javier"
+    },
+    {
+      "date": "2026-04-20",
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned LHPAndrew Alvarezto Rochester Red Wings.",
       "player": "Andrew Alvarez"
+    },
+    {
+      "date": "2026-04-20",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPMason Barnettto Las Vegas Aviators.",
+      "player": "Mason Barnett"
+    },
+    {
+      "date": "2026-04-20",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled LFNick Loftinfrom Omaha Storm Chasers.",
+      "player": "Nick Loftin"
     },
     {
       "date": "2026-04-20",
@@ -58,8 +100,14 @@
     {
       "date": "2026-04-20",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPJulian Fernándezfrom Rochester Red Wings.",
-      "player": "Julian Fernández"
+      "details": "Washington Nationalsoptioned LHPAndrew Alvarezto Rochester Red Wings.",
+      "player": "Andrew Alvarez"
+    },
+    {
+      "date": "2026-04-20",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of 3BWill Wilsonfrom Tacoma Rainiers.",
+      "player": "Will Wilson"
     },
     {
       "date": "2026-04-20",
@@ -76,8 +124,20 @@
     {
       "date": "2026-04-20",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned LHPAndrew Alvarezto Rochester Red Wings.",
-      "player": "Andrew Alvarez"
+      "details": "Washington Nationalsrecalled RHPJulian Fernándezfrom Rochester Red Wings.",
+      "player": "Julian Fernández"
+    },
+    {
+      "date": "2026-04-20",
+      "team": "Athletics",
+      "details": "Athleticsrecalled LHPBrady Bassofrom Las Vegas Aviators.",
+      "player": "Brady Basso"
+    },
+    {
+      "date": "2026-04-20",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled LHPJake Ederfrom Oklahoma City Comets.",
+      "player": "Jake Eder"
     }
   ]
 }
