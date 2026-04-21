@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-04-21T18:04:30.961051",
+  "last_updated": "2026-04-21T20:08:30.435052",
   "transactions": [
+    {
+      "date": "2026-04-21",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced RHPSonny Grayon the 15-day injured list. Right hamstring strain.",
+      "player": "Sonny Gray"
+    },
+    {
+      "date": "2026-04-21",
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated RHPChristian Roafor assignment.",
+      "player": "Christian Roa"
+    },
+    {
+      "date": "2026-04-21",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent CSean Murphyon a rehab assignment to Gwinnett Stripers.",
+      "player": "Sean Murphy"
+    },
     {
       "date": "2026-04-21",
       "team": "Baltimore Orioles",
@@ -9,9 +27,15 @@
     },
     {
       "date": "2026-04-21",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced LHPKody Funderburkon the paternity list.",
-      "player": "Kody Funderburk"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RHPSpencer Strideron a rehab assignment to Gwinnett Stripers.",
+      "player": "Spencer Strider"
+    },
+    {
+      "date": "2026-04-21",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent CSean Murphyon a rehab assignment to Gwinnett Stripers.",
+      "player": "Sean Murphy"
     },
     {
       "date": "2026-04-21",
@@ -21,15 +45,27 @@
     },
     {
       "date": "2026-04-21",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent SSAnthony Volpeon a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Anthony Volpe"
+    },
+    {
+      "date": "2026-04-21",
       "team": "Miami Marlins",
       "details": "Miami Marlinssent LFChristopher Morelon a rehab assignment to Jacksonville Jumbo Shrimp.",
       "player": "Christopher Morel"
     },
     {
       "date": "2026-04-21",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssigned free agent OFCaleb Shpurto a minor league contract.",
-      "player": "Caleb Shpur"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesdesignated LHPLuis Peraltafor assignment.",
+      "player": "Luis Peralta"
+    },
+    {
+      "date": "2026-04-21",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced LHPKody Funderburkon the paternity list.",
+      "player": "Kody Funderburk"
     },
     {
       "date": "2026-04-21",
@@ -51,21 +87,33 @@
     },
     {
       "date": "2026-04-21",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent RHPSpencer Strideron a rehab assignment to Gwinnett Stripers.",
-      "player": "Spencer Strider"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent OFCaleb Shpurto a minor league contract.",
+      "player": "Caleb Shpur"
+    },
+    {
+      "date": "2026-04-21",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced LFTaylor Trammellon the 10-day injured list. Left groin strain.",
+      "player": "Taylor Trammell"
     },
     {
       "date": "2026-04-21",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent CSean Murphyon a rehab assignment to Gwinnett Stripers.",
-      "player": "Sean Murphy"
+      "details": "Atlanta Bravesrecalled LHPDylan Doddfrom Gwinnett Stripers.",
+      "player": "Dylan Dodd"
     },
     {
       "date": "2026-04-21",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent CSean Murphyon a rehab assignment to Gwinnett Stripers.",
-      "player": "Sean Murphy"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPAlan Rangelfrom Lehigh Valley IronPigs.",
+      "player": "Alan Rangel"
+    },
+    {
+      "date": "2026-04-21",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPSeth Johnsonto Lehigh Valley IronPigs.",
+      "player": "Seth Johnson"
     },
     {
       "date": "2026-04-21",
@@ -75,9 +123,27 @@
     },
     {
       "date": "2026-04-21",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled LHPDylan Doddfrom Gwinnett Stripers.",
-      "player": "Dylan Dodd"
+      "team": "Houston Astros",
+      "details": "Houston Astrosselected the contract of CFDaniel Johnsonfrom Sugar Land Space Cowboys.",
+      "player": "Daniel Johnson"
+    },
+    {
+      "date": "2026-04-21",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPBlas Castañoto Albuquerque Isotopes.",
+      "player": "Blas Castaño"
+    },
+    {
+      "date": "2026-04-21",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled LHPTyler Samaniegofrom Worcester Red Sox.",
+      "player": "Tyler Samaniego"
+    },
+    {
+      "date": "2026-04-21",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesclaimed RHPBlas Castañooff waivers fromSeattle Mariners.",
+      "player": "Blas Castaño"
     }
   ]
 }
