@@ -1,4 +1,29 @@
 {
-  "last_updated": "2026-04-22T12:03:08.308816",
-  "transactions": []
+  "last_updated": "2026-04-22T14:50:48.103386",
+  "transactions": [
+    {
+      "date": "2026-04-22",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced LHPRyan Weatherson the paternity list.",
+      "player": "Ryan Weathers"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPIan Hamiltonfor assignment.",
+      "player": "Ian Hamilton"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPDidier Fuentesfrom Gwinnett Stripers.",
+      "player": "Didier Fuentes"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPJake Birdfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jake Bird"
+    }
+  ]
 }
