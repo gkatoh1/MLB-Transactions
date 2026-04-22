@@ -1,35 +1,11 @@
 {
-  "last_updated": "2026-04-22T20:10:22.053946",
+  "last_updated": "2026-04-22T21:56:59.825071",
   "transactions": [
     {
       "date": "2026-04-22",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxtransferred 1BTriston Casasfrom the 10-day injured list to the 60-day injured list. Recovery from left patellar tendon repair.",
-      "player": "Triston Casas"
-    },
-    {
-      "date": "2026-04-22",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated RHPIan Hamiltonfor assignment.",
-      "player": "Ian Hamilton"
-    },
-    {
-      "date": "2026-04-22",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced RHPRyan Helsleyon the bereavement list.",
-      "player": "Ryan Helsley"
-    },
-    {
-      "date": "2026-04-22",
-      "team": "New York Mets",
-      "details": "New York Metsactivated RFJuan Sotofrom the 10-day injured list.",
-      "player": "Juan Soto"
-    },
-    {
-      "date": "2026-04-22",
-      "team": "San Diego Padres",
-      "details": "San Diego Padrestransferred RHPBryan Hoeingfrom the 15-day injured list to the 60-day injured list. Torn right elbow flexor tendon.",
-      "player": "Bryan Hoeing"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssigned free agent OFMark Coley IIto a minor league contract.",
+      "player": "Mark Coley II"
     },
     {
       "date": "2026-04-22",
@@ -39,21 +15,9 @@
     },
     {
       "date": "2026-04-22",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced LHPRyan Weatherson the paternity list.",
-      "player": "Ryan Weathers"
-    },
-    {
-      "date": "2026-04-22",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssigned free agent OFMark Coley IIto a minor league contract.",
-      "player": "Mark Coley II"
-    },
-    {
-      "date": "2026-04-22",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersplaced LHPBailey Hornon the 60-day injured list. Left elbow arthroscopy recovery.",
-      "player": "Bailey Horn"
+      "team": "New York Mets",
+      "details": "New York Metsactivated RFJuan Sotofrom the 10-day injured list.",
+      "player": "Juan Soto"
     },
     {
       "date": "2026-04-22",
@@ -69,9 +33,9 @@
     },
     {
       "date": "2026-04-22",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent RHPTravis Adamson a rehab assignment to St. Paul Saints.",
-      "player": "Travis Adams"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced CJ.T. Realmutoon the 10-day injured list. Back spasms.",
+      "player": "J.T. Realmuto"
     },
     {
       "date": "2026-04-22",
@@ -81,33 +45,63 @@
     },
     {
       "date": "2026-04-22",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RFColby Thomasfrom Las Vegas Aviators.",
-      "player": "Colby Thomas"
-    },
-    {
-      "date": "2026-04-22",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled LHPConnor Prielippfrom St. Paul Saints.",
-      "player": "Connor Prielipp"
-    },
-    {
-      "date": "2026-04-22",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPJack Andersonto Worcester Red Sox.",
-      "player": "Jack Anderson"
+      "details": "Boston Red Soxtransferred 1BTriston Casasfrom the 10-day injured list to the 60-day injured list. Recovery from left patellar tendon repair.",
+      "player": "Triston Casas"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced LHPBailey Hornon the 60-day injured list. Left elbow arthroscopy recovery.",
+      "player": "Bailey Horn"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliestransferred RHPMax Lazarfrom the 15-day injured list to the 60-day injured list. Left oblique strain.",
+      "player": "Max Lazar"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "San Diego Padres",
+      "details": "San Diego Padrestransferred RHPBryan Hoeingfrom the 15-day injured list to the 60-day injured list. Torn right elbow flexor tendon.",
+      "player": "Bryan Hoeing"
     },
     {
       "date": "2026-04-22",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned CFRyan Kreidlerto St. Paul Saints.",
-      "player": "Ryan Kreidler"
+      "details": "Minnesota Twinssent RHPTravis Adamson a rehab assignment to St. Paul Saints.",
+      "player": "Travis Adams"
     },
     {
       "date": "2026-04-22",
       "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPJake Birdfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jake Bird"
+      "details": "New York Yankeesplaced LHPRyan Weatherson the paternity list.",
+      "player": "Ryan Weathers"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated LHPMatthew Boydfrom the 15-day injured list.",
+      "player": "Matthew Boyd"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPIan Hamiltonfor assignment.",
+      "player": "Ian Hamilton"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPRyan Helsleyon the bereavement list.",
+      "player": "Ryan Helsley"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RFColby Thomasfrom Las Vegas Aviators.",
+      "player": "Colby Thomas"
     },
     {
       "date": "2026-04-22",
@@ -117,21 +111,21 @@
     },
     {
       "date": "2026-04-22",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxselected the contract of LHPEduardo Riverafrom Worcester Red Sox.",
-      "player": "Eduardo Rivera"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesselected the contract of CGarrett Stubbsfrom Lehigh Valley IronPigs.",
+      "player": "Garrett Stubbs"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPDidier Fuentesfrom Gwinnett Stripers.",
+      "player": "Didier Fuentes"
     },
     {
       "date": "2026-04-22",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersselected the contract of RHPBurch Smithfrom Toledo Mud Hens.",
       "player": "Burch Smith"
-    },
-    {
-      "date": "2026-04-22",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
-      "player": "Hayden Senger"
     },
     {
       "date": "2026-04-22",
@@ -147,9 +141,45 @@
     },
     {
       "date": "2026-04-22",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPDidier Fuentesfrom Gwinnett Stripers.",
-      "player": "Didier Fuentes"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned CFRyan Kreidlerto St. Paul Saints.",
+      "player": "Ryan Kreidler"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPJack Andersonto Worcester Red Sox.",
+      "player": "Jack Anderson"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of LHPEduardo Riverafrom Worcester Red Sox.",
+      "player": "Eduardo Rivera"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPJake Birdfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jake Bird"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled LHPConnor Prielippfrom St. Paul Saints.",
+      "player": "Connor Prielipp"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned LHPLuke Littleto Iowa Cubs.",
+      "player": "Luke Little"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
+      "player": "Hayden Senger"
     }
   ]
 }
