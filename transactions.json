@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-04-22T14:50:48.103386",
+  "last_updated": "2026-04-22T16:14:57.110442",
   "transactions": [
+    {
+      "date": "2026-04-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPIan Hamiltonfor assignment.",
+      "player": "Ian Hamilton"
+    },
     {
       "date": "2026-04-22",
       "team": "New York Yankees",
@@ -9,9 +15,21 @@
     },
     {
       "date": "2026-04-22",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated RHPIan Hamiltonfor assignment.",
-      "player": "Ian Hamilton"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssigned free agent OFMark Coley IIto a minor league contract.",
+      "player": "Mark Coley II"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned CFRyan Kreidlerto St. Paul Saints.",
+      "player": "Ryan Kreidler"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPJake Birdfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jake Bird"
     },
     {
       "date": "2026-04-22",
@@ -21,9 +39,9 @@
     },
     {
       "date": "2026-04-22",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPJake Birdfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jake Bird"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled LHPConnor Prielippfrom St. Paul Saints.",
+      "player": "Connor Prielipp"
     }
   ]
 }
