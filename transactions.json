@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22T22:57:15.387164",
+  "last_updated": "2026-04-22T23:54:40.421803",
   "transactions": [
     {
       "date": "2026-04-22",
@@ -9,27 +9,21 @@
     },
     {
       "date": "2026-04-22",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced LHPBailey Hornon the 60-day injured list. Left elbow arthroscopy recovery.",
+      "player": "Bailey Horn"
+    },
+    {
+      "date": "2026-04-22",
       "team": "New York Mets",
       "details": "New York Metsactivated RFJuan Sotofrom the 10-day injured list.",
       "player": "Juan Soto"
     },
     {
       "date": "2026-04-22",
-      "team": "San Diego Padres",
-      "details": "San Diego Padrestransferred RHPBryan Hoeingfrom the 15-day injured list to the 60-day injured list. Torn right elbow flexor tendon.",
-      "player": "Bryan Hoeing"
-    },
-    {
-      "date": "2026-04-22",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssigned free agent OFMark Coley IIto a minor league contract.",
-      "player": "Mark Coley II"
-    },
-    {
-      "date": "2026-04-22",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxtransferred 1BTriston Casasfrom the 10-day injured list to the 60-day injured list. Recovery from left patellar tendon repair.",
-      "player": "Triston Casas"
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced LHPRyan Weatherson the paternity list.",
+      "player": "Ryan Weathers"
     },
     {
       "date": "2026-04-22",
@@ -63,9 +57,9 @@
     },
     {
       "date": "2026-04-22",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced LHPRyan Weatherson the paternity list.",
-      "player": "Ryan Weathers"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent RHPLucas Giolito.",
+      "player": "Lucas Giolito"
     },
     {
       "date": "2026-04-22",
@@ -87,12 +81,6 @@
     },
     {
       "date": "2026-04-22",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersplaced LHPBailey Hornon the 60-day injured list. Left elbow arthroscopy recovery.",
-      "player": "Bailey Horn"
-    },
-    {
-      "date": "2026-04-22",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesplaced RHPRyan Helsleyon the bereavement list.",
       "player": "Ryan Helsley"
@@ -100,74 +88,20 @@
     {
       "date": "2026-04-22",
       "team": "San Diego Padres",
-      "details": "San Diego Padressigned free agent RHPLucas Giolito.",
-      "player": "Lucas Giolito"
+      "details": "San Diego Padrestransferred RHPBryan Hoeingfrom the 15-day injured list to the 60-day injured list. Torn right elbow flexor tendon.",
+      "player": "Bryan Hoeing"
     },
     {
       "date": "2026-04-22",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPLucas Giolitoto Lake Elsinore Storm.",
-      "player": "Lucas Giolito"
-    },
-    {
-      "date": "2026-04-22",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxselected the contract of LHPEduardo Riverafrom Worcester Red Sox.",
-      "player": "Eduardo Rivera"
-    },
-    {
-      "date": "2026-04-22",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPJake Birdfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jake Bird"
-    },
-    {
-      "date": "2026-04-22",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled LHPConnor Prielippfrom St. Paul Saints.",
-      "player": "Connor Prielipp"
-    },
-    {
-      "date": "2026-04-22",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RFColby Thomasfrom Las Vegas Aviators.",
-      "player": "Colby Thomas"
-    },
-    {
-      "date": "2026-04-22",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPDidier Fuentesfrom Gwinnett Stripers.",
-      "player": "Didier Fuentes"
-    },
-    {
-      "date": "2026-04-22",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned LHPLuke Littleto Iowa Cubs.",
-      "player": "Luke Little"
-    },
-    {
-      "date": "2026-04-22",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled LFAlejandro Osunafrom Round Rock Express.",
-      "player": "Alejandro Osuna"
-    },
-    {
-      "date": "2026-04-22",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned CFRyan Kreidlerto St. Paul Saints.",
-      "player": "Ryan Kreidler"
-    },
-    {
-      "date": "2026-04-22",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Norfolk Tides.",
-      "player": "Jose Espada"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssigned free agent OFMark Coley IIto a minor league contract.",
+      "player": "Mark Coley II"
     },
     {
       "date": "2026-04-22",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPJack Andersonto Worcester Red Sox.",
-      "player": "Jack Anderson"
+      "details": "Boston Red Soxtransferred 1BTriston Casasfrom the 10-day injured list to the 60-day injured list. Recovery from left patellar tendon repair.",
+      "player": "Triston Casas"
     },
     {
       "date": "2026-04-22",
@@ -177,9 +111,69 @@
     },
     {
       "date": "2026-04-22",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
-      "player": "Hayden Senger"
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPJake Birdfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jake Bird"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled LFAlejandro Osunafrom Round Rock Express.",
+      "player": "Alejandro Osuna"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RFColby Thomasfrom Las Vegas Aviators.",
+      "player": "Colby Thomas"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled LHPConnor Prielippfrom St. Paul Saints.",
+      "player": "Connor Prielipp"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPLucas Giolitoto Lake Elsinore Storm.",
+      "player": "Lucas Giolito"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPDidier Fuentesfrom Gwinnett Stripers.",
+      "player": "Didier Fuentes"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of LHPEduardo Riverafrom Worcester Red Sox.",
+      "player": "Eduardo Rivera"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPJack Andersonto Worcester Red Sox.",
+      "player": "Jack Anderson"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned LHPLuke Littleto Iowa Cubs.",
+      "player": "Luke Little"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Norfolk Tides.",
+      "player": "Jose Espada"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned CFRyan Kreidlerto St. Paul Saints.",
+      "player": "Ryan Kreidler"
     },
     {
       "date": "2026-04-22",
@@ -192,6 +186,12 @@
       "team": "Detroit Tigers",
       "details": "Detroit Tigersoptioned LHPEnmanuel De Jesusto Toledo Mud Hens.",
       "player": "Enmanuel De Jesus"
+    },
+    {
+      "date": "2026-04-22",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
+      "player": "Hayden Senger"
     }
   ]
 }
