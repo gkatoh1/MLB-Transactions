@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T15:18:40.140245",
+  "last_updated": "2026-04-23T17:39:08.765016",
   "transactions": [
     {
       "date": "2026-04-23",
@@ -9,9 +9,39 @@
     },
     {
       "date": "2026-04-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesreleased RHPTaijuan Walker.",
+      "player": "Taijuan Walker"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPJimmy Hergeton the paternity list.",
+      "player": "Jimmy Herget"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RHPLucas Simsfor assignment.",
+      "player": "Lucas Sims"
+    },
+    {
+      "date": "2026-04-23",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPJR Ritchiefrom Gwinnett Stripers.",
-      "player": "JR Ritchie"
+      "details": "Atlanta Bravesselected the contract of RHPCarlos Carrascofrom Gwinnett Stripers.",
+      "player": "Carlos Carrasco"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPNolan Hoffmanfrom Lehigh Valley IronPigs.",
+      "player": "Nolan Hoffman"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of RHPTyler Davisfrom Charlotte Knights.",
+      "player": "Tyler Davis"
     },
     {
       "date": "2026-04-23",
@@ -21,9 +51,21 @@
     },
     {
       "date": "2026-04-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPSeth Halvorsenfrom Albuquerque Isotopes.",
+      "player": "Seth Halvorsen"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPAlan Rangelto Lehigh Valley IronPigs.",
+      "player": "Alan Rangel"
+    },
+    {
+      "date": "2026-04-23",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPCarlos Carrascofrom Gwinnett Stripers.",
-      "player": "Carlos Carrasco"
+      "details": "Atlanta Bravesselected the contract of RHPJR Ritchiefrom Gwinnett Stripers.",
+      "player": "JR Ritchie"
     }
   ]
 }
