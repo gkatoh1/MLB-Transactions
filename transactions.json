@@ -1,17 +1,23 @@
 {
-  "last_updated": "2026-04-23T19:23:47.592985",
+  "last_updated": "2026-04-23T20:59:41.395070",
   "transactions": [
     {
       "date": "2026-04-23",
-      "team": "New York Mets",
-      "details": "New York Metsplaced SSFrancisco Lindoron the 10-day injured list. Left calf strain.",
-      "player": "Francisco Lindor"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated LFEsteury Ruizfrom the 10-day injured list.",
+      "player": "Esteury Ruiz"
     },
     {
       "date": "2026-04-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated RHPLucas Simsfor assignment.",
-      "player": "Lucas Sims"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsdesignated LFAustin Slaterfor assignment.",
+      "player": "Austin Slater"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersdesignated CWillie MacIverfor assignment.",
+      "player": "Willie MacIver"
     },
     {
       "date": "2026-04-23",
@@ -21,81 +27,45 @@
     },
     {
       "date": "2026-04-23",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced LHPDylan Doddon the 15-day injured list retroactive to April 22, 2026. Left thoracic spine inflammation.",
-      "player": "Dylan Dodd"
-    },
-    {
-      "date": "2026-04-23",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesreleased RHPTaijuan Walker.",
       "player": "Taijuan Walker"
     },
     {
       "date": "2026-04-23",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPSeth Halvorsenfrom Albuquerque Isotopes.",
-      "player": "Seth Halvorsen"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent RHPChoyce Diffeyto a minor league contract.",
+      "player": "Choyce Diffey"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "New York Mets",
+      "details": "New York Metsplaced SSFrancisco Lindoron the 10-day injured list. Left calf strain.",
+      "player": "Francisco Lindor"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPNate Pearsonon a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Nate Pearson"
     },
     {
       "date": "2026-04-23",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPJR Ritchiefrom Gwinnett Stripers.",
-      "player": "JR Ritchie"
+      "details": "Atlanta Bravesplaced LHPDylan Doddon the 15-day injured list retroactive to April 22, 2026. Left thoracic spine inflammation.",
+      "player": "Dylan Dodd"
     },
     {
       "date": "2026-04-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPNolan Hoffmanfrom Lehigh Valley IronPigs.",
-      "player": "Nolan Hoffman"
-    },
-    {
-      "date": "2026-04-23",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPChristian Scottfrom Syracuse Mets.",
-      "player": "Christian Scott"
-    },
-    {
-      "date": "2026-04-23",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPChristian Roato St. Paul Saints.",
-      "player": "Christian Roa"
-    },
-    {
-      "date": "2026-04-23",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled 3BRonny Mauriciofrom Syracuse Mets.",
-      "player": "Ronny Mauricio"
-    },
-    {
-      "date": "2026-04-23",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsclaimed RHPChristian Roaoff waivers fromHouston Astros.",
-      "player": "Christian Roa"
-    },
-    {
-      "date": "2026-04-23",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
-      "player": "Austin Warren"
-    },
-    {
-      "date": "2026-04-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPAlan Rangelto Lehigh Valley IronPigs.",
-      "player": "Alan Rangel"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced LHPRobert Garciaon the 15-day injured list retroactive to April 20, 2026. Left shoulder inflammation.",
+      "player": "Robert Garcia"
     },
     {
       "date": "2026-04-23",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of RHPTyler Davisfrom Charlotte Knights.",
-      "player": "Tyler Davis"
-    },
-    {
-      "date": "2026-04-23",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPCarlos Carrascofrom Gwinnett Stripers.",
-      "player": "Carlos Carrasco"
+      "details": "Chicago White Soxdesignated RHPLucas Simsfor assignment.",
+      "player": "Lucas Sims"
     },
     {
       "date": "2026-04-23",
@@ -111,9 +81,81 @@
     },
     {
       "date": "2026-04-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsclaimed RHPChristian Roaoff waivers fromHouston Astros.",
+      "player": "Christian Roa"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of RHPTyler Davisfrom Charlotte Knights.",
+      "player": "Tyler Davis"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled 3BRonny Mauriciofrom Syracuse Mets.",
+      "player": "Ronny Mauricio"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPCarlos Carrascofrom Gwinnett Stripers.",
+      "player": "Carlos Carrasco"
+    },
+    {
+      "date": "2026-04-23",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPDidier Fuentesto Gwinnett Stripers.",
       "player": "Didier Fuentes"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPSeth Halvorsenfrom Albuquerque Isotopes.",
+      "player": "Seth Halvorsen"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPAlan Rangelto Lehigh Valley IronPigs.",
+      "player": "Alan Rangel"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPChristian Scottfrom Syracuse Mets.",
+      "player": "Christian Scott"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPJR Ritchiefrom Gwinnett Stripers.",
+      "player": "JR Ritchie"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPNolan Hoffmanfrom Lehigh Valley IronPigs.",
+      "player": "Nolan Hoffman"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersselected the contract of RHPPeyton Grayfrom Round Rock Express.",
+      "player": "Peyton Gray"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPChristian Roato St. Paul Saints.",
+      "player": "Christian Roa"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
+      "player": "Austin Warren"
     }
   ]
 }
