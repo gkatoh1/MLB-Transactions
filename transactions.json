@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-04-23T20:59:41.395070",
+  "last_updated": "2026-04-23T21:57:27.817900",
   "transactions": [
-    {
-      "date": "2026-04-23",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsactivated LFEsteury Ruizfrom the 10-day injured list.",
-      "player": "Esteury Ruiz"
-    },
     {
       "date": "2026-04-23",
       "team": "Miami Marlins",
@@ -21,9 +15,9 @@
     },
     {
       "date": "2026-04-23",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced RHPJimmy Hergeton the paternity list.",
-      "player": "Jimmy Herget"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RHPLucas Simsfor assignment.",
+      "player": "Lucas Sims"
     },
     {
       "date": "2026-04-23",
@@ -45,9 +39,45 @@
     },
     {
       "date": "2026-04-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPJimmy Hergeton the paternity list.",
+      "player": "Jimmy Herget"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated LFEsteury Ruizfrom the 10-day injured list.",
+      "player": "Esteury Ruiz"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent RHPCarter Baumleron a rehab assignment to Round Rock Express.",
+      "player": "Carter Baumler"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPGerrit Coleon a rehab assignment to Hudson Valley Renegades.",
+      "player": "Gerrit Cole"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RHPCraig Yohofrom the 15-day injured list.",
+      "player": "Craig Yoho"
+    },
+    {
+      "date": "2026-04-23",
       "team": "Houston Astros",
       "details": "Houston Astrossent RHPNate Pearsonon a rehab assignment to Sugar Land Space Cowboys.",
       "player": "Nate Pearson"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPGerrit Coleon a rehab assignment to Hudson Valley Renegades.",
+      "player": "Gerrit Cole"
     },
     {
       "date": "2026-04-23",
@@ -63,21 +93,21 @@
     },
     {
       "date": "2026-04-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated RHPLucas Simsfor assignment.",
-      "player": "Lucas Sims"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPSeth Halvorsenfrom Albuquerque Isotopes.",
+      "player": "Seth Halvorsen"
     },
     {
       "date": "2026-04-23",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled LHPPayton Tollefrom Worcester Red Sox.",
-      "player": "Payton Tolle"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersselected the contract of RHPPeyton Grayfrom Round Rock Express.",
+      "player": "Peyton Gray"
     },
     {
       "date": "2026-04-23",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPEduardo Riverato Worcester Red Sox.",
-      "player": "Eduardo Rivera"
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPChristian Scottfrom Syracuse Mets.",
+      "player": "Christian Scott"
     },
     {
       "date": "2026-04-23",
@@ -87,9 +117,45 @@
     },
     {
       "date": "2026-04-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of RHPTyler Davisfrom Charlotte Knights.",
-      "player": "Tyler Davis"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPAlan Rangelto Lehigh Valley IronPigs.",
+      "player": "Alan Rangel"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPJR Ritchiefrom Gwinnett Stripers.",
+      "player": "JR Ritchie"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled LHPPayton Tollefrom Worcester Red Sox.",
+      "player": "Payton Tolle"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPChristian Roato St. Paul Saints.",
+      "player": "Christian Roa"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
+      "player": "Austin Warren"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPEduardo Riverato Worcester Red Sox.",
+      "player": "Eduardo Rivera"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPNolan Hoffmanfrom Lehigh Valley IronPigs.",
+      "player": "Nolan Hoffman"
     },
     {
       "date": "2026-04-23",
@@ -105,57 +171,21 @@
     },
     {
       "date": "2026-04-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of RHPTyler Davisfrom Charlotte Knights.",
+      "player": "Tyler Davis"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPCraig Yohoto Nashville Sounds.",
+      "player": "Craig Yoho"
+    },
+    {
+      "date": "2026-04-23",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPDidier Fuentesto Gwinnett Stripers.",
       "player": "Didier Fuentes"
-    },
-    {
-      "date": "2026-04-23",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPSeth Halvorsenfrom Albuquerque Isotopes.",
-      "player": "Seth Halvorsen"
-    },
-    {
-      "date": "2026-04-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPAlan Rangelto Lehigh Valley IronPigs.",
-      "player": "Alan Rangel"
-    },
-    {
-      "date": "2026-04-23",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPChristian Scottfrom Syracuse Mets.",
-      "player": "Christian Scott"
-    },
-    {
-      "date": "2026-04-23",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPJR Ritchiefrom Gwinnett Stripers.",
-      "player": "JR Ritchie"
-    },
-    {
-      "date": "2026-04-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPNolan Hoffmanfrom Lehigh Valley IronPigs.",
-      "player": "Nolan Hoffman"
-    },
-    {
-      "date": "2026-04-23",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersselected the contract of RHPPeyton Grayfrom Round Rock Express.",
-      "player": "Peyton Gray"
-    },
-    {
-      "date": "2026-04-23",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPChristian Roato St. Paul Saints.",
-      "player": "Christian Roa"
-    },
-    {
-      "date": "2026-04-23",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
-      "player": "Austin Warren"
     }
   ]
 }
