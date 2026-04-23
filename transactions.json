@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-04-23T17:39:08.765016",
+  "last_updated": "2026-04-23T19:23:47.592985",
   "transactions": [
+    {
+      "date": "2026-04-23",
+      "team": "New York Mets",
+      "details": "New York Metsplaced SSFrancisco Lindoron the 10-day injured list. Left calf strain.",
+      "player": "Francisco Lindor"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RHPLucas Simsfor assignment.",
+      "player": "Lucas Sims"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPJimmy Hergeton the paternity list.",
+      "player": "Jimmy Herget"
+    },
     {
       "date": "2026-04-23",
       "team": "Atlanta Braves",
@@ -16,26 +34,56 @@
     {
       "date": "2026-04-23",
       "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced RHPJimmy Hergeton the paternity list.",
-      "player": "Jimmy Herget"
-    },
-    {
-      "date": "2026-04-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated RHPLucas Simsfor assignment.",
-      "player": "Lucas Sims"
+      "details": "Colorado Rockiesrecalled RHPSeth Halvorsenfrom Albuquerque Isotopes.",
+      "player": "Seth Halvorsen"
     },
     {
       "date": "2026-04-23",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPCarlos Carrascofrom Gwinnett Stripers.",
-      "player": "Carlos Carrasco"
+      "details": "Atlanta Bravesselected the contract of RHPJR Ritchiefrom Gwinnett Stripers.",
+      "player": "JR Ritchie"
     },
     {
       "date": "2026-04-23",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesrecalled RHPNolan Hoffmanfrom Lehigh Valley IronPigs.",
       "player": "Nolan Hoffman"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPChristian Scottfrom Syracuse Mets.",
+      "player": "Christian Scott"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPChristian Roato St. Paul Saints.",
+      "player": "Christian Roa"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled 3BRonny Mauriciofrom Syracuse Mets.",
+      "player": "Ronny Mauricio"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsclaimed RHPChristian Roaoff waivers fromHouston Astros.",
+      "player": "Christian Roa"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
+      "player": "Austin Warren"
+    },
+    {
+      "date": "2026-04-23",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPAlan Rangelto Lehigh Valley IronPigs.",
+      "player": "Alan Rangel"
     },
     {
       "date": "2026-04-23",
@@ -46,26 +94,26 @@
     {
       "date": "2026-04-23",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPDidier Fuentesto Gwinnett Stripers.",
-      "player": "Didier Fuentes"
+      "details": "Atlanta Bravesselected the contract of RHPCarlos Carrascofrom Gwinnett Stripers.",
+      "player": "Carlos Carrasco"
     },
     {
       "date": "2026-04-23",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPSeth Halvorsenfrom Albuquerque Isotopes.",
-      "player": "Seth Halvorsen"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled LHPPayton Tollefrom Worcester Red Sox.",
+      "player": "Payton Tolle"
     },
     {
       "date": "2026-04-23",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPAlan Rangelto Lehigh Valley IronPigs.",
-      "player": "Alan Rangel"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPEduardo Riverato Worcester Red Sox.",
+      "player": "Eduardo Rivera"
     },
     {
       "date": "2026-04-23",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPJR Ritchiefrom Gwinnett Stripers.",
-      "player": "JR Ritchie"
+      "details": "Atlanta Bravesoptioned RHPDidier Fuentesto Gwinnett Stripers.",
+      "player": "Didier Fuentes"
     }
   ]
 }
