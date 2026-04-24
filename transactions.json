@@ -1,35 +1,11 @@
 {
-  "last_updated": "2026-04-24T22:51:34.052683",
+  "last_updated": "2026-04-24T23:49:46.193360",
   "transactions": [
-    {
-      "date": "2026-04-24",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated LHPKody Funderburkfrom the paternity list.",
-      "player": "Kody Funderburk"
-    },
-    {
-      "date": "2026-04-24",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssigned free agent RHPCade Austinto a minor league contract.",
-      "player": "Cade Austin"
-    },
     {
       "date": "2026-04-24",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysdesignated 2BTyler Fitzgeraldfor assignment.",
       "player": "Tyler Fitzgerald"
-    },
-    {
-      "date": "2026-04-24",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RHPAndrew Kittredgefrom the 15-day injured list.",
-      "player": "Andrew Kittredge"
-    },
-    {
-      "date": "2026-04-24",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssent RHPBryce Milleron a rehab assignment to Everett AquaSox.",
-      "player": "Bryce Miller"
     },
     {
       "date": "2026-04-24",
@@ -45,9 +21,21 @@
     },
     {
       "date": "2026-04-24",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent CJose Trevinoon a rehab assignment to Dayton Dragons.",
-      "player": "Jose Trevino"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced RHPEdwin Ucetaon the 60-day injured list. Right shoulder impingement.",
+      "player": "Edwin Uceta"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated LHPKody Funderburkfrom the paternity list.",
+      "player": "Kody Funderburk"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssigned free agent RHPCade Austinto a minor league contract.",
+      "player": "Cade Austin"
     },
     {
       "date": "2026-04-24",
@@ -57,15 +45,27 @@
     },
     {
       "date": "2026-04-24",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysplaced RHPEdwin Ucetaon the 60-day injured list. Right shoulder impingement.",
-      "player": "Edwin Uceta"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPAndrew Kittredgefrom the 15-day injured list.",
+      "player": "Andrew Kittredge"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPBryce Milleron a rehab assignment to Everett AquaSox.",
+      "player": "Bryce Miller"
     },
     {
       "date": "2026-04-24",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesactivated RFTyler O'Neillfrom the 7-day injured list.",
       "player": "Tyler O'Neill"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPPhil Matonon a rehab assignment to Iowa Cubs.",
+      "player": "Phil Maton"
     },
     {
       "date": "2026-04-24",
@@ -81,45 +81,9 @@
     },
     {
       "date": "2026-04-24",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPChristian Scottto Syracuse Mets.",
-      "player": "Christian Scott"
-    },
-    {
-      "date": "2026-04-24",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerstraded CWillie MacIvertoToronto Blue Jaysfor cash.",
-      "player": "Willie MacIver"
-    },
-    {
-      "date": "2026-04-24",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled LHPShane Drohanfrom Nashville Sounds.",
-      "player": "Shane Drohan"
-    },
-    {
-      "date": "2026-04-24",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned 2BScott Kingeryto Iowa Cubs.",
-      "player": "Scott Kingery"
-    },
-    {
-      "date": "2026-04-24",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPJose Espadato Norfolk Tides.",
-      "player": "Jose Espada"
-    },
-    {
-      "date": "2026-04-24",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned CWillie MacIverto Buffalo Bisons.",
-      "player": "Willie MacIver"
-    },
-    {
-      "date": "2026-04-24",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned LHPKendry Rojasto St. Paul Saints.",
-      "player": "Kendry Rojas"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent CJose Trevinoon a rehab assignment to Dayton Dragons.",
+      "player": "Jose Trevino"
     },
     {
       "date": "2026-04-24",
@@ -135,6 +99,72 @@
     },
     {
       "date": "2026-04-24",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPChristian Scottto Syracuse Mets.",
+      "player": "Christian Scott"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerstraded CWillie MacIvertoToronto Blue Jaysfor cash.",
+      "player": "Willie MacIver"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned CWillie MacIverto Buffalo Bisons.",
+      "player": "Willie MacIver"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPJulian Fernándezto Rochester Red Wings.",
+      "player": "Julian Fernández"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPCarlos Rodriguezto Nashville Sounds.",
+      "player": "Carlos Rodriguez"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled LHPShane Drohanfrom Nashville Sounds.",
+      "player": "Shane Drohan"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned 2BScott Kingeryto Iowa Cubs.",
+      "player": "Scott Kingery"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled LHPSammy Peraltafrom Albuquerque Isotopes.",
+      "player": "Sammy Peralta"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPJose Espadato Norfolk Tides.",
+      "player": "Jose Espada"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPCarl Edwards Jr.from Syracuse Mets.",
+      "player": "Carl Edwards Jr."
+    },
+    {
+      "date": "2026-04-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RFJohnathan Rodríguezto Norfolk Tides.",
+      "player": "Johnathan Rodríguez"
+    },
+    {
+      "date": "2026-04-24",
       "team": "Washington Nationals",
       "details": "Washington Nationalsrecalled RHPRiley Corneliofrom Rochester Red Wings.",
       "player": "Riley Cornelio"
@@ -147,45 +177,21 @@
     },
     {
       "date": "2026-04-24",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPCarlos Rodriguezto Nashville Sounds.",
-      "player": "Carlos Rodriguez"
-    },
-    {
-      "date": "2026-04-24",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RFJohnathan Rodríguezto Norfolk Tides.",
-      "player": "Johnathan Rodríguez"
-    },
-    {
-      "date": "2026-04-24",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPCarl Edwards Jr.from Syracuse Mets.",
-      "player": "Carl Edwards Jr."
-    },
-    {
-      "date": "2026-04-24",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled LHPSammy Peraltafrom Albuquerque Isotopes.",
-      "player": "Sammy Peralta"
-    },
-    {
-      "date": "2026-04-24",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravessent RHPIan Hamiltonoutright to Gwinnett Stripers.",
       "player": "Ian Hamilton"
     },
     {
       "date": "2026-04-24",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled 3BTyler Blackfrom Nashville Sounds.",
-      "player": "Tyler Black"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned LHPKendry Rojasto St. Paul Saints.",
+      "player": "Kendry Rojas"
     },
     {
       "date": "2026-04-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPJulian Fernándezto Rochester Red Wings.",
-      "player": "Julian Fernández"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled 3BTyler Blackfrom Nashville Sounds.",
+      "player": "Tyler Black"
     }
   ]
 }
