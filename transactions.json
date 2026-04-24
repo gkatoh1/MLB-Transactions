@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-04-24T19:04:31.695196",
+  "last_updated": "2026-04-24T20:58:39.019766",
   "transactions": [
     {
       "date": "2026-04-24",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RHPAndrew Kittredgefrom the 15-day injured list.",
-      "player": "Andrew Kittredge"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated RFLuis Matosfor assignment.",
+      "player": "Luis Matos"
     },
     {
       "date": "2026-04-24",
@@ -15,9 +15,21 @@
     },
     {
       "date": "2026-04-24",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPRyan Feltneron the 15-day injured list. Right ulnar nerve inflammation.",
+      "player": "Ryan Feltner"
+    },
+    {
+      "date": "2026-04-24",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsactivated LHPKody Funderburkfrom the paternity list.",
       "player": "Kody Funderburk"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPAndrew Kittredgefrom the 15-day injured list.",
+      "player": "Andrew Kittredge"
     },
     {
       "date": "2026-04-24",
@@ -27,15 +39,21 @@
     },
     {
       "date": "2026-04-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPJulian Fernándezto Rochester Red Wings.",
-      "player": "Julian Fernández"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPJose Espadato Norfolk Tides.",
+      "player": "Jose Espada"
     },
     {
       "date": "2026-04-24",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned RFJohnathan Rodríguezto Norfolk Tides.",
       "player": "Johnathan Rodríguez"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPChristian Scottto Syracuse Mets.",
+      "player": "Christian Scott"
     },
     {
       "date": "2026-04-24",
@@ -51,27 +69,51 @@
     },
     {
       "date": "2026-04-24",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPChristian Scottto Syracuse Mets.",
-      "player": "Christian Scott"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPCarlos Rodriguezto Nashville Sounds.",
+      "player": "Carlos Rodriguez"
     },
     {
       "date": "2026-04-24",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPJose Espadato Norfolk Tides.",
-      "player": "Jose Espada"
-    },
-    {
-      "date": "2026-04-24",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPCarl Edwards Jr.from Syracuse Mets.",
-      "player": "Carl Edwards Jr."
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RHPIan Hamiltonoutright to Gwinnett Stripers.",
+      "player": "Ian Hamilton"
     },
     {
       "date": "2026-04-24",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsoptioned LHPKendry Rojasto St. Paul Saints.",
       "player": "Kendry Rojas"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled 3BTyler Blackfrom Nashville Sounds.",
+      "player": "Tyler Black"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled LHPSammy Peraltafrom Albuquerque Isotopes.",
+      "player": "Sammy Peralta"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled LHPShane Drohanfrom Nashville Sounds.",
+      "player": "Shane Drohan"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPJulian Fernándezto Rochester Red Wings.",
+      "player": "Julian Fernández"
+    },
+    {
+      "date": "2026-04-24",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPCarl Edwards Jr.from Syracuse Mets.",
+      "player": "Carl Edwards Jr."
     }
   ]
 }
