@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T22:47:51.082644",
+  "last_updated": "2026-04-25T23:48:06.457174",
   "transactions": [
     {
       "date": "2026-04-25",
@@ -9,9 +9,9 @@
     },
     {
       "date": "2026-04-25",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssent RHPEthan Robertson a rehab assignment to Iowa Cubs.",
-      "player": "Ethan Roberts"
+      "team": "New York Mets",
+      "details": "New York Metssent RHPJoey Gerberon a rehab assignment to St. Lucie Mets.",
+      "player": "Joey Gerber"
     },
     {
       "date": "2026-04-25",
@@ -36,6 +36,30 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaystransferred RHPYimi Garcíafrom the 15-day injured list to the 60-day injured list. Right elbow ulnar nerve and AC joint surgery.",
       "player": "Yimi García"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent LHPChris Murphyon a rehab assignment to Charlotte Knights.",
+      "player": "Chris Murphy"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated LHPBennett Sousafrom the 15-day injured list.",
+      "player": "Bennett Sousa"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPEthan Robertson a rehab assignment to Iowa Cubs.",
+      "player": "Ethan Roberts"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated LHPRyan Weathersfrom the paternity list.",
+      "player": "Ryan Weathers"
     },
     {
       "date": "2026-04-25",
@@ -69,30 +93,6 @@
     },
     {
       "date": "2026-04-25",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated LHPBennett Sousafrom the 15-day injured list.",
-      "player": "Bennett Sousa"
-    },
-    {
-      "date": "2026-04-25",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPJoey Gerberon a rehab assignment to St. Lucie Mets.",
-      "player": "Joey Gerber"
-    },
-    {
-      "date": "2026-04-25",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated LHPRyan Weathersfrom the paternity list.",
-      "player": "Ryan Weathers"
-    },
-    {
-      "date": "2026-04-25",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent LHPChris Murphyon a rehab assignment to Charlotte Knights.",
-      "player": "Chris Murphy"
-    },
-    {
-      "date": "2026-04-25",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxselected the contract of CDrew Romofrom Charlotte Knights.",
       "player": "Drew Romo"
@@ -105,15 +105,21 @@
     },
     {
       "date": "2026-04-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of LFYohendrick Pinangofrom Buffalo Bisons.",
+      "player": "Yohendrick Pinango"
+    },
+    {
+      "date": "2026-04-25",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesrecalled RHPCam Sandersfrom Indianapolis Indians.",
       "player": "Cam Sanders"
     },
     {
       "date": "2026-04-25",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPAlex McFarlaneto Reading Fightin Phils.",
-      "player": "Alex McFarlane"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent LFAustin Slateroutright to Jacksonville Jumbo Shrimp.",
+      "player": "Austin Slater"
     },
     {
       "date": "2026-04-25",
@@ -123,15 +129,15 @@
     },
     {
       "date": "2026-04-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of LFYohendrick Pinangofrom Buffalo Bisons.",
-      "player": "Yohendrick Pinango"
-    },
-    {
-      "date": "2026-04-25",
       "team": "San Diego Padres",
       "details": "San Diego Padresrecalled 3BSung-Mun Songfrom El Paso Chihuahuas.",
       "player": "Sung-Mun Song"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent RHPLucas Simsoutright to Charlotte Knights.",
+      "player": "Lucas Sims"
     },
     {
       "date": "2026-04-25",
@@ -141,9 +147,15 @@
     },
     {
       "date": "2026-04-25",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPRiley Cornelioto Rochester Red Wings.",
-      "player": "Riley Cornelio"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPAlex McFarlaneto Reading Fightin Phils.",
+      "player": "Alex McFarlane"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPCameron Fosterto Norfolk Tides.",
+      "player": "Cameron Foster"
     },
     {
       "date": "2026-04-25",
@@ -159,9 +171,9 @@
     },
     {
       "date": "2026-04-25",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPCameron Fosterto Norfolk Tides.",
-      "player": "Cameron Foster"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPRiley Cornelioto Rochester Red Wings.",
+      "player": "Riley Cornelio"
     }
   ]
 }
