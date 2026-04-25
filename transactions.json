@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-04-25T17:47:39.095039",
+  "last_updated": "2026-04-25T19:05:07.530098",
   "transactions": [
     {
       "date": "2026-04-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced RFNathan Lukeson the 10-day injured list. Left hamstring strain.",
-      "player": "Nathan Lukes"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated RHPZack Wheelerfrom the 15-day injured list.",
+      "player": "Zack Wheeler"
     },
     {
       "date": "2026-04-25",
@@ -15,9 +15,15 @@
     },
     {
       "date": "2026-04-25",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated CReese McGuirefor assignment.",
-      "player": "Reese McGuire"
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated LHPBennett Sousafrom the 15-day injured list.",
+      "player": "Bennett Sousa"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced 3BEugenio Suárezon the 10-day injured list retroactive to April 23, 2026. Mild left oblique strain.",
+      "player": "Eugenio Suárez"
     },
     {
       "date": "2026-04-25",
@@ -34,20 +40,20 @@
     {
       "date": "2026-04-25",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of LFYohendrick Pinangofrom Buffalo Bisons.",
-      "player": "Yohendrick Pinango"
+      "details": "Toronto Blue Jaysplaced RFNathan Lukeson the 10-day injured list. Left hamstring strain.",
+      "player": "Nathan Lukes"
     },
     {
       "date": "2026-04-25",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPCameron Fosterto Norfolk Tides.",
-      "player": "Cameron Foster"
+      "team": "New York Mets",
+      "details": "New York Metssent RHPJoey Gerberon a rehab assignment to St. Lucie Mets.",
+      "player": "Joey Gerber"
     },
     {
       "date": "2026-04-25",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of CDrew Romofrom Charlotte Knights.",
-      "player": "Drew Romo"
+      "details": "Chicago White Soxdesignated CReese McGuirefor assignment.",
+      "player": "Reese McGuire"
     },
     {
       "date": "2026-04-25",
@@ -57,9 +63,57 @@
     },
     {
       "date": "2026-04-25",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPAlex McFarlaneto Reading Fightin Phils.",
+      "player": "Alex McFarlane"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LHPColton Gordonto Sugar Land Space Cowboys.",
+      "player": "Colton Gordon"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPJose Francofrom Louisville Bats.",
+      "player": "Jose Franco"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of CDrew Romofrom Charlotte Knights.",
+      "player": "Drew Romo"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of LFYohendrick Pinangofrom Buffalo Bisons.",
+      "player": "Yohendrick Pinango"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled CFJJ Bledayfrom Louisville Bats.",
+      "player": "JJ Bleday"
+    },
+    {
+      "date": "2026-04-25",
       "team": "Washington Nationals",
       "details": "Washington Nationalsrecalled 1BAndrés Chaparrofrom Rochester Red Wings.",
       "player": "Andrés Chaparro"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPCameron Fosterto Norfolk Tides.",
+      "player": "Cameron Foster"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPKyle Nicolasto Louisville Bats.",
+      "player": "Kyle Nicolas"
     }
   ]
 }
