@@ -1,41 +1,11 @@
 {
-  "last_updated": "2026-04-25T20:50:14.121661",
+  "last_updated": "2026-04-25T21:45:02.817938",
   "transactions": [
     {
       "date": "2026-04-25",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated RHPZack Wheelerfrom the 15-day injured list.",
-      "player": "Zack Wheeler"
-    },
-    {
-      "date": "2026-04-25",
-      "team": "Unknown Team",
-      "details": "2BBrandon Phillipsretired.",
-      "player": "Brandon Phillips"
-    },
-    {
-      "date": "2026-04-25",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced 3BEugenio Suárezon the 10-day injured list retroactive to April 23, 2026. Mild left oblique strain.",
-      "player": "Eugenio Suárez"
-    },
-    {
-      "date": "2026-04-25",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent LFAustin Hayson a rehab assignment to Charlotte Knights.",
-      "player": "Austin Hays"
-    },
-    {
-      "date": "2026-04-25",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced RHPBraxton Ashcrafton the bereavement list.",
-      "player": "Braxton Ashcraft"
-    },
-    {
-      "date": "2026-04-25",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent LHPChris Murphyon a rehab assignment to Charlotte Knights.",
-      "player": "Chris Murphy"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RFNathan Lukeson the 10-day injured list. Left hamstring strain.",
+      "player": "Nathan Lukes"
     },
     {
       "date": "2026-04-25",
@@ -63,6 +33,12 @@
     },
     {
       "date": "2026-04-25",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated RHPZack Wheelerfrom the 15-day injured list.",
+      "player": "Zack Wheeler"
+    },
+    {
+      "date": "2026-04-25",
       "team": "New York Yankees",
       "details": "New York Yankeesplaced RHPAngel Chivillion the 15-day injured list retroactive to April 23, 2026. Right shoulder discomfort.",
       "player": "Angel Chivilli"
@@ -81,15 +57,39 @@
     },
     {
       "date": "2026-04-25",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent LHPChris Murphyon a rehab assignment to Charlotte Knights.",
+      "player": "Chris Murphy"
+    },
+    {
+      "date": "2026-04-25",
       "team": "Houston Astros",
       "details": "Houston Astrosactivated LHPBennett Sousafrom the 15-day injured list.",
       "player": "Bennett Sousa"
     },
     {
       "date": "2026-04-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced RFNathan Lukeson the 10-day injured list. Left hamstring strain.",
-      "player": "Nathan Lukes"
+      "team": "Unknown Team",
+      "details": "2BBrandon Phillipsretired.",
+      "player": "Brandon Phillips"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced 3BEugenio Suárezon the 10-day injured list retroactive to April 23, 2026. Mild left oblique strain.",
+      "player": "Eugenio Suárez"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent LFAustin Hayson a rehab assignment to Charlotte Knights.",
+      "player": "Austin Hays"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced RHPBraxton Ashcrafton the bereavement list.",
+      "player": "Braxton Ashcraft"
     },
     {
       "date": "2026-04-25",
@@ -99,9 +99,15 @@
     },
     {
       "date": "2026-04-25",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPRiley Cornelioto Rochester Red Wings.",
-      "player": "Riley Cornelio"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPKyle Nicolasto Louisville Bats.",
+      "player": "Kyle Nicolas"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled CFJJ Bledayfrom Louisville Bats.",
+      "player": "JJ Bleday"
     },
     {
       "date": "2026-04-25",
@@ -111,9 +117,21 @@
     },
     {
       "date": "2026-04-25",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPRiley Cornelioto Rochester Red Wings.",
+      "player": "Riley Cornelio"
+    },
+    {
+      "date": "2026-04-25",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesoptioned RHPAlex McFarlaneto Reading Fightin Phils.",
       "player": "Alex McFarlane"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled 3BSung-Mun Songfrom El Paso Chihuahuas.",
+      "player": "Sung-Mun Song"
     },
     {
       "date": "2026-04-25",
@@ -123,9 +141,15 @@
     },
     {
       "date": "2026-04-25",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled 3BSung-Mun Songfrom El Paso Chihuahuas.",
-      "player": "Sung-Mun Song"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPCameron Fosterto Norfolk Tides.",
+      "player": "Cameron Foster"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPCam Sandersfrom Indianapolis Indians.",
+      "player": "Cam Sanders"
     },
     {
       "date": "2026-04-25",
@@ -138,30 +162,6 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysselected the contract of LFYohendrick Pinangofrom Buffalo Bisons.",
       "player": "Yohendrick Pinango"
-    },
-    {
-      "date": "2026-04-25",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled CFJJ Bledayfrom Louisville Bats.",
-      "player": "JJ Bleday"
-    },
-    {
-      "date": "2026-04-25",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPCam Sandersfrom Indianapolis Indians.",
-      "player": "Cam Sanders"
-    },
-    {
-      "date": "2026-04-25",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPCameron Fosterto Norfolk Tides.",
-      "player": "Cameron Foster"
-    },
-    {
-      "date": "2026-04-25",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPKyle Nicolasto Louisville Bats.",
-      "player": "Kyle Nicolas"
     }
   ]
 }
