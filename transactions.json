@@ -1,4 +1,23 @@
 {
-  "last_updated": "2026-04-25T11:44:11.816861",
-  "transactions": []
+  "last_updated": "2026-04-25T13:21:57.566825",
+  "transactions": [
+    {
+      "date": "2026-04-25",
+      "team": "Unknown Team",
+      "details": "2BBrandon Phillipsretired.",
+      "player": "Brandon Phillips"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated LHPKeegan Akinfrom the 15-day injured list.",
+      "player": "Keegan Akin"
+    },
+    {
+      "date": "2026-04-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPCameron Fosterto Norfolk Tides.",
+      "player": "Cameron Foster"
+    }
+  ]
 }
