@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-04-26T20:50:01.819710",
+  "last_updated": "2026-04-26T21:48:51.663540",
   "transactions": [
+    {
+      "date": "2026-04-26",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated RHPVince Velasquezfor assignment.",
+      "player": "Vince Velasquez"
+    },
     {
       "date": "2026-04-26",
       "team": "Los Angeles Angels",
@@ -9,9 +15,15 @@
     },
     {
       "date": "2026-04-26",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated RHPJordan Romanofor assignment.",
+      "player": "Jordan Romano"
+    },
+    {
+      "date": "2026-04-26",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsdesignated RHPVince Velasquezfor assignment.",
-      "player": "Vince Velasquez"
+      "details": "Chicago Cubsplaced LHPRiley Martinon the 15-day injured list retroactive to April 24, 2026. Left elbow inflammation.",
+      "player": "Riley Martin"
     },
     {
       "date": "2026-04-26",
@@ -21,9 +33,69 @@
     },
     {
       "date": "2026-04-26",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent LHPNick Lodoloon a rehab assignment to Dayton Dragons.",
+      "player": "Nick Lodolo"
+    },
+    {
+      "date": "2026-04-26",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent SSAndrew Navigatoto a minor league contract.",
+      "player": "Andrew Navigato"
+    },
+    {
+      "date": "2026-04-26",
+      "team": "Athletics",
+      "details": "Athleticsactivated RFBrent Rookerfrom the 10-day injured list.",
+      "player": "Brent Rooker"
+    },
+    {
+      "date": "2026-04-26",
+      "team": "Athletics",
+      "details": "Athleticsdesignated 3BAndy Ibáñezfor assignment.",
+      "player": "Andy Ibáñez"
+    },
+    {
+      "date": "2026-04-26",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPCody Boltonon a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Cody Bolton"
+    },
+    {
+      "date": "2026-04-26",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated CJose Trevinofrom the 10-day injured list.",
+      "player": "Jose Trevino"
+    },
+    {
+      "date": "2026-04-26",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysactivated RHPCasey Legumina.",
       "player": "Casey Legumina"
+    },
+    {
+      "date": "2026-04-26",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent RHPJonathan Bowlanon a rehab assignment to Lehigh Valley IronPigs.",
+      "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2026-04-26",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced RHPShawn Armstrongon the 15-day injured list retroactive to April 23, 2026. Right groin strain.",
+      "player": "Shawn Armstrong"
+    },
+    {
+      "date": "2026-04-26",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent CSean Murphyon a rehab assignment to Rome Emperors.",
+      "player": "Sean Murphy"
+    },
+    {
+      "date": "2026-04-26",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent LHPNick Lodoloon a rehab assignment to Dayton Dragons.",
+      "player": "Nick Lodolo"
     },
     {
       "date": "2026-04-26",
@@ -45,93 +117,9 @@
     },
     {
       "date": "2026-04-26",
-      "team": "Athletics",
-      "details": "Athleticsactivated RFBrent Rookerfrom the 10-day injured list.",
-      "player": "Brent Rooker"
-    },
-    {
-      "date": "2026-04-26",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansplaced RHPShawn Armstrongon the 15-day injured list retroactive to April 23, 2026. Right groin strain.",
-      "player": "Shawn Armstrong"
-    },
-    {
-      "date": "2026-04-26",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent CSean Murphyon a rehab assignment to Rome Emperors.",
-      "player": "Sean Murphy"
-    },
-    {
-      "date": "2026-04-26",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsdesignated RHPJordan Romanofor assignment.",
-      "player": "Jordan Romano"
-    },
-    {
-      "date": "2026-04-26",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RHPCody Boltonon a rehab assignment to Sugar Land Space Cowboys.",
-      "player": "Cody Bolton"
-    },
-    {
-      "date": "2026-04-26",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated CJose Trevinofrom the 10-day injured list.",
-      "player": "Jose Trevino"
-    },
-    {
-      "date": "2026-04-26",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent LHPNick Lodoloon a rehab assignment to Dayton Dragons.",
-      "player": "Nick Lodolo"
-    },
-    {
-      "date": "2026-04-26",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssigned free agent SSAndrew Navigatoto a minor league contract.",
-      "player": "Andrew Navigato"
-    },
-    {
-      "date": "2026-04-26",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessent RHPJonathan Bowlanon a rehab assignment to Lehigh Valley IronPigs.",
-      "player": "Jonathan Bowlan"
-    },
-    {
-      "date": "2026-04-26",
-      "team": "Athletics",
-      "details": "Athleticsdesignated 3BAndy Ibáñezfor assignment.",
-      "player": "Andy Ibáñez"
-    },
-    {
-      "date": "2026-04-26",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced LHPRiley Martinon the 15-day injured list retroactive to April 24, 2026. Left elbow inflammation.",
-      "player": "Riley Martin"
-    },
-    {
-      "date": "2026-04-26",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent LHPNick Lodoloon a rehab assignment to Dayton Dragons.",
-      "player": "Nick Lodolo"
-    },
-    {
-      "date": "2026-04-26",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned CP.J. Higginsto Louisville Bats.",
       "player": "P.J. Higgins"
-    },
-    {
-      "date": "2026-04-26",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled LHPCharlie Barnesfrom Iowa Cubs.",
-      "player": "Charlie Barnes"
-    },
-    {
-      "date": "2026-04-26",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled RHPBrenan Hanifeefrom Toledo Mud Hens.",
-      "player": "Brenan Hanifee"
     },
     {
       "date": "2026-04-26",
@@ -142,26 +130,26 @@
     {
       "date": "2026-04-26",
       "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPCharlie Barnesfrom Iowa Cubs.",
+      "player": "Charlie Barnes"
+    },
+    {
+      "date": "2026-04-26",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPBlas Castañofrom Albuquerque Isotopes.",
+      "player": "Blas Castaño"
+    },
+    {
+      "date": "2026-04-26",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPBrenan Hanifeefrom Toledo Mud Hens.",
+      "player": "Brenan Hanifee"
+    },
+    {
+      "date": "2026-04-26",
+      "team": "Chicago Cubs",
       "details": "Chicago Cubsselected the contract of RHPYacksel Ríosfrom Iowa Cubs.",
       "player": "Yacksel Ríos"
-    },
-    {
-      "date": "2026-04-26",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
-      "player": "Austin Warren"
-    },
-    {
-      "date": "2026-04-26",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned 1BAndrés Chaparroto Rochester Red Wings.",
-      "player": "Andrés Chaparro"
-    },
-    {
-      "date": "2026-04-26",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsrecalled RHPJosé Ferminfrom Salt Lake Bees.",
-      "player": "José Fermin"
     },
     {
       "date": "2026-04-26",
@@ -177,15 +165,15 @@
     },
     {
       "date": "2026-04-26",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPPaxton Schultzfrom Rochester Red Wings.",
-      "player": "Paxton Schultz"
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
+      "player": "Austin Warren"
     },
     {
       "date": "2026-04-26",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsselected the contract of LHPJoey Lucchesifrom Salt Lake Bees.",
-      "player": "Joey Lucchesi"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned 1BAndrés Chaparroto Rochester Red Wings.",
+      "player": "Andrés Chaparro"
     },
     {
       "date": "2026-04-26",
@@ -195,15 +183,27 @@
     },
     {
       "date": "2026-04-26",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsselected the contract of LHPJoey Lucchesifrom Salt Lake Bees.",
+      "player": "Joey Lucchesi"
+    },
+    {
+      "date": "2026-04-26",
       "team": "Washington Nationals",
       "details": "Washington Nationalsrecalled RHPAndre Granillofrom Rochester Red Wings.",
       "player": "Andre Granillo"
     },
     {
       "date": "2026-04-26",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPBlas Castañofrom Albuquerque Isotopes.",
-      "player": "Blas Castaño"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPPaxton Schultzfrom Rochester Red Wings.",
+      "player": "Paxton Schultz"
+    },
+    {
+      "date": "2026-04-26",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled RHPJosé Ferminfrom Salt Lake Bees.",
+      "player": "José Fermin"
     }
   ]
 }
