@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-04-26T14:54:05.965999",
+  "last_updated": "2026-04-26T15:51:06.169234",
   "transactions": [
+    {
+      "date": "2026-04-26",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPAlbert Suárezfor assignment.",
+      "player": "Albert Suárez"
+    },
+    {
+      "date": "2026-04-26",
+      "team": "Athletics",
+      "details": "Athleticsactivated RFBrent Rookerfrom the 10-day injured list.",
+      "player": "Brent Rooker"
+    },
+    {
+      "date": "2026-04-26",
+      "team": "Athletics",
+      "details": "Athleticsdesignated 3BAndy Ibáñezfor assignment.",
+      "player": "Andy Ibáñez"
+    },
     {
       "date": "2026-04-26",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesactivated RHPRyan Helsleyfrom the bereavement list.",
       "player": "Ryan Helsley"
+    },
+    {
+      "date": "2026-04-26",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent LHPNick Lodoloon a rehab assignment to Dayton Dragons.",
+      "player": "Nick Lodolo"
     },
     {
       "date": "2026-04-26",
@@ -21,15 +45,15 @@
     },
     {
       "date": "2026-04-26",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPAlbert Suárezfor assignment.",
-      "player": "Albert Suárez"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPBlas Castañofrom Albuquerque Isotopes.",
+      "player": "Blas Castaño"
     },
     {
       "date": "2026-04-26",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
-      "player": "Austin Warren"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned CP.J. Higginsto Louisville Bats.",
+      "player": "P.J. Higgins"
     },
     {
       "date": "2026-04-26",
@@ -39,9 +63,27 @@
     },
     {
       "date": "2026-04-26",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned CP.J. Higginsto Louisville Bats.",
-      "player": "P.J. Higgins"
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
+      "player": "Austin Warren"
+    },
+    {
+      "date": "2026-04-26",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned 1BAndrés Chaparroto Rochester Red Wings.",
+      "player": "Andrés Chaparro"
+    },
+    {
+      "date": "2026-04-26",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPPaxton Schultzfrom Rochester Red Wings.",
+      "player": "Paxton Schultz"
+    },
+    {
+      "date": "2026-04-26",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPAndre Granillofrom Rochester Red Wings.",
+      "player": "Andre Granillo"
     }
   ]
 }
