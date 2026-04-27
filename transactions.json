@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-04-27T21:59:34.848610",
+  "last_updated": "2026-04-27T23:03:59.106680",
   "transactions": [
+    {
+      "date": "2026-04-27",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPPhil Matonfrom the 15-day injured list.",
+      "player": "Phil Maton"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RHPMax Scherzeron the 15-day injured list retroactive to April 25, 2026. Right forearm tendinitis and Left ankle inflammation.",
+      "player": "Max Scherzer"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsreleased RHPJordan Romano.",
+      "player": "Jordan Romano"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced LFTanner Murrayon the 10-day injured list. Left shoulder dislocation.",
+      "player": "Tanner Murray"
+    },
     {
       "date": "2026-04-27",
       "team": "Chicago White Sox",
@@ -12,12 +36,6 @@
       "team": "New York Mets",
       "details": "New York Metssigned free agent LFAustin Slater.",
       "player": "Austin Slater"
-    },
-    {
-      "date": "2026-04-27",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced RHPMax Scherzeron the 15-day injured list retroactive to April 25, 2026. Right forearm tendinitis and Left ankle inflammation.",
-      "player": "Max Scherzer"
     },
     {
       "date": "2026-04-27",
@@ -33,39 +51,21 @@
     },
     {
       "date": "2026-04-27",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced LFTanner Murrayon the 10-day injured list. Left shoulder dislocation.",
-      "player": "Tanner Murray"
+      "team": "Unknown Team",
+      "details": "CReese McGuireelected free agency.",
+      "player": "Reese McGuire"
     },
     {
       "date": "2026-04-27",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned 3BSung-Mun Songto El Paso Chihuahuas.",
-      "player": "Sung-Mun Song"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated LFChristopher Morelfrom the 10-day injured list.",
+      "player": "Christopher Morel"
     },
     {
       "date": "2026-04-27",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsclaimed LHPLuis Peraltaoff waivers fromColorado Rockies.",
-      "player": "Luis Peralta"
-    },
-    {
-      "date": "2026-04-27",
-      "team": "New York Mets",
-      "details": "New York Metsclaimed 1BEric Wagamanoff waivers fromMinnesota Twins.",
-      "player": "Eric Wagaman"
-    },
-    {
-      "date": "2026-04-27",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned 1BEric Wagamanto Syracuse Mets.",
-      "player": "Eric Wagaman"
-    },
-    {
-      "date": "2026-04-27",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled LFJasson Domínguezfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jasson Domínguez"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned 3BJesus Valdezto Reno Aces.",
+      "player": "Jesus Valdez"
     },
     {
       "date": "2026-04-27",
@@ -75,9 +75,9 @@
     },
     {
       "date": "2026-04-27",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned LHPSammy Peraltato Albuquerque Isotopes.",
-      "player": "Sammy Peralta"
+      "team": "New York Mets",
+      "details": "New York Metsclaimed 1BEric Wagamanoff waivers fromMinnesota Twins.",
+      "player": "Eric Wagaman"
     },
     {
       "date": "2026-04-27",
@@ -87,9 +87,63 @@
     },
     {
       "date": "2026-04-27",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPEli Morganto Omaha Storm Chasers.",
+      "player": "Eli Morgan"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned LFHeriberto Hernándezto Jacksonville Jumbo Shrimp.",
+      "player": "Heriberto Hernández"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned LHPSammy Peraltato Albuquerque Isotopes.",
+      "player": "Sammy Peralta"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned 3BSung-Mun Songto El Paso Chihuahuas.",
+      "player": "Sung-Mun Song"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned LHPCharlie Barnesto Iowa Cubs.",
+      "player": "Charlie Barnes"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsclaimed LHPLuis Peraltaoff waivers fromColorado Rockies.",
+      "player": "Luis Peralta"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent CReese McGuireoutright to Charlotte Knights.",
+      "player": "Reese McGuire"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned LHPLuis Peraltato Memphis Redbirds.",
+      "player": "Luis Peralta"
+    },
+    {
+      "date": "2026-04-27",
       "team": "New York Mets",
       "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
       "player": "Austin Warren"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled LFJasson Domínguezfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jasson Domínguez"
     },
     {
       "date": "2026-04-27",
@@ -99,15 +153,21 @@
     },
     {
       "date": "2026-04-27",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned 1BEric Wagamanto Syracuse Mets.",
+      "player": "Eric Wagaman"
+    },
+    {
+      "date": "2026-04-27",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesoptioned RHPBlas Castañoto Albuquerque Isotopes.",
       "player": "Blas Castaño"
     },
     {
       "date": "2026-04-27",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned 3BJesus Valdezto Reno Aces.",
-      "player": "Jesus Valdez"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent SSScott Kingeryoutright to Iowa Cubs.",
+      "player": "Scott Kingery"
     }
   ]
 }
