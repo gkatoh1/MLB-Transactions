@@ -1,11 +1,47 @@
 {
-  "last_updated": "2026-04-27T18:11:21.412694",
+  "last_updated": "2026-04-27T20:13:26.138747",
   "transactions": [
     {
       "date": "2026-04-27",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned 3BSung-Mun Songto El Paso Chihuahuas.",
-      "player": "Sung-Mun Song"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated RHPJimmy Hergetfrom the restricted list.",
+      "player": "Jimmy Herget"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RHPMax Scherzeron the 15-day injured list retroactive to April 25, 2026. Right forearm tendinitis and Left ankle inflammation.",
+      "player": "Max Scherzer"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced LFTanner Murrayon the 10-day injured list. Left shoulder dislocation.",
+      "player": "Tanner Murray"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated LFAustin Haysfrom the 10-day injured list.",
+      "player": "Austin Hays"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned 3BJesus Valdezto Reno Aces.",
+      "player": "Jesus Valdez"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsclaimed LHPLuis Peraltaoff waivers fromColorado Rockies.",
+      "player": "Luis Peralta"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled LFJasson Domínguezfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jasson Domínguez"
     },
     {
       "date": "2026-04-27",
@@ -22,14 +58,32 @@
     {
       "date": "2026-04-27",
       "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPBlas Castañoto Albuquerque Isotopes.",
-      "player": "Blas Castaño"
+      "details": "Colorado Rockiesoptioned RHPSeth Halvorsento Albuquerque Isotopes.",
+      "player": "Seth Halvorsen"
     },
     {
       "date": "2026-04-27",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned 3BJesus Valdezto Reno Aces.",
-      "player": "Jesus Valdez"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPChase Leefrom Buffalo Bisons.",
+      "player": "Chase Lee"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned LHPSammy Peraltato Albuquerque Isotopes.",
+      "player": "Sammy Peralta"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned 3BSung-Mun Songto El Paso Chihuahuas.",
+      "player": "Sung-Mun Song"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPBlas Castañoto Albuquerque Isotopes.",
+      "player": "Blas Castaño"
     }
   ]
 }
