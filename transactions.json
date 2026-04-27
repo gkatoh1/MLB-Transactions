@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-04-27T16:47:37.403568",
+  "last_updated": "2026-04-27T18:11:21.412694",
   "transactions": [
     {
       "date": "2026-04-27",
       "team": "San Diego Padres",
       "details": "San Diego Padresoptioned 3BSung-Mun Songto El Paso Chihuahuas.",
       "player": "Sung-Mun Song"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPLuis Gilto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Luis Gil"
+    },
+    {
+      "date": "2026-04-27",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
+      "player": "Austin Warren"
     },
     {
       "date": "2026-04-27",
@@ -18,18 +30,6 @@
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksoptioned 3BJesus Valdezto Reno Aces.",
       "player": "Jesus Valdez"
-    },
-    {
-      "date": "2026-04-27",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPAustin Warrento Syracuse Mets.",
-      "player": "Austin Warren"
-    },
-    {
-      "date": "2026-04-27",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPLuis Gilto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Luis Gil"
     }
   ]
 }
