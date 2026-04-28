@@ -1,4 +1,23 @@
 {
-  "last_updated": "2026-04-28T11:52:07.816027",
-  "transactions": []
+  "last_updated": "2026-04-28T16:58:45.414123",
+  "transactions": [
+    {
+      "date": "2026-04-28",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent LHPAnthony Goseto a minor league contract.",
+      "player": "Anthony Gose"
+    },
+    {
+      "date": "2026-04-28",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPJosé Berríoson a rehab assignment to Buffalo Bisons.",
+      "player": "José Berríos"
+    },
+    {
+      "date": "2026-04-28",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent LHPCaleb Fergusonon a rehab assignment to Chattanooga Lookouts.",
+      "player": "Caleb Ferguson"
+    }
+  ]
 }
