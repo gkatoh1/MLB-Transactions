@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-04-28T16:58:45.414123",
+  "last_updated": "2026-04-28T18:45:06.670717",
   "transactions": [
+    {
+      "date": "2026-04-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent SSMaicor Degolladoto a minor league contract.",
+      "player": "Maicor Degollado"
+    },
+    {
+      "date": "2026-04-28",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent LHPCaleb Fergusonon a rehab assignment to Chattanooga Lookouts.",
+      "player": "Caleb Ferguson"
+    },
+    {
+      "date": "2026-04-28",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent SSHa-Seong Kimon a rehab assignment to Columbus Clingstones.",
+      "player": "Ha-Seong Kim"
+    },
+    {
+      "date": "2026-04-28",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent RHPKeury De Jesusto a minor league contract.",
+      "player": "Keury De Jesus"
+    },
     {
       "date": "2026-04-28",
       "team": "Kansas City Royals",
@@ -15,9 +39,15 @@
     },
     {
       "date": "2026-04-28",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent LHPCaleb Fergusonon a rehab assignment to Chattanooga Lookouts.",
-      "player": "Caleb Ferguson"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned 2BJuan Britoto Columbus Clippers.",
+      "player": "Juan Brito"
+    },
+    {
+      "date": "2026-04-28",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansselected the contract of 2BTravis Bazzanafrom Columbus Clippers.",
+      "player": "Travis Bazzana"
     }
   ]
 }
