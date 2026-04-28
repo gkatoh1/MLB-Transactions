@@ -1,29 +1,47 @@
 {
-  "last_updated": "2026-04-28T18:45:06.670717",
+  "last_updated": "2026-04-28T20:22:46.335598",
   "transactions": [
+    {
+      "date": "2026-04-28",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPJosé Berríoson a rehab assignment to Buffalo Bisons.",
+      "player": "José Berríos"
+    },
+    {
+      "date": "2026-04-28",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated RHPJonathan Bowlanfrom the 15-day injured list.",
+      "player": "Jonathan Bowlan"
+    },
+    {
+      "date": "2026-04-28",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated LHPKyle Freelandfrom the 15-day injured list.",
+      "player": "Kyle Freeland"
+    },
+    {
+      "date": "2026-04-28",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced DHGiancarlo Stantonon the 10-day injured list retroactive to April 25, 2026. Right calf strain.",
+      "player": "Giancarlo Stanton"
+    },
+    {
+      "date": "2026-04-28",
+      "team": "New York Mets",
+      "details": "New York Metsplaced RHPKodai Sengaon the 15-day injured list retroactive to April 27, 2026. Lumbar spine inflammation.",
+      "player": "Kodai Senga"
+    },
+    {
+      "date": "2026-04-28",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RHPBraxton Ashcraftfrom the bereavement list.",
+      "player": "Braxton Ashcraft"
+    },
     {
       "date": "2026-04-28",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessigned free agent SSMaicor Degolladoto a minor league contract.",
       "player": "Maicor Degollado"
-    },
-    {
-      "date": "2026-04-28",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent LHPCaleb Fergusonon a rehab assignment to Chattanooga Lookouts.",
-      "player": "Caleb Ferguson"
-    },
-    {
-      "date": "2026-04-28",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent SSHa-Seong Kimon a rehab assignment to Columbus Clingstones.",
-      "player": "Ha-Seong Kim"
-    },
-    {
-      "date": "2026-04-28",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssigned free agent RHPKeury De Jesusto a minor league contract.",
-      "player": "Keury De Jesus"
     },
     {
       "date": "2026-04-28",
@@ -33,9 +51,39 @@
     },
     {
       "date": "2026-04-28",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent SSHa-Seong Kimon a rehab assignment to Columbus Clingstones.",
+      "player": "Ha-Seong Kim"
+    },
+    {
+      "date": "2026-04-28",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced LHPDylan Leeon the paternity list.",
+      "player": "Dylan Lee"
+    },
+    {
+      "date": "2026-04-28",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent RHPKeury De Jesusto a minor league contract.",
+      "player": "Keury De Jesus"
+    },
+    {
+      "date": "2026-04-28",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent LHPCaleb Fergusonon a rehab assignment to Chattanooga Lookouts.",
+      "player": "Caleb Ferguson"
+    },
+    {
+      "date": "2026-04-28",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPJosé Berríoson a rehab assignment to Buffalo Bisons.",
-      "player": "José Berríos"
+      "details": "Toronto Blue Jaysactivated RHPTrey Yesavagefrom the 15-day injured list.",
+      "player": "Trey Yesavage"
+    },
+    {
+      "date": "2026-04-28",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPNolan Hoffmanto Lehigh Valley IronPigs.",
+      "player": "Nolan Hoffman"
     },
     {
       "date": "2026-04-28",
@@ -45,9 +93,39 @@
     },
     {
       "date": "2026-04-28",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPCam Sandersto Indianapolis Indians.",
+      "player": "Cam Sanders"
+    },
+    {
+      "date": "2026-04-28",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPChase Leeto Buffalo Bisons.",
+      "player": "Chase Lee"
+    },
+    {
+      "date": "2026-04-28",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPChristian Scottfrom Syracuse Mets.",
+      "player": "Christian Scott"
+    },
+    {
+      "date": "2026-04-28",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled 3BMax Schuemannfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Max Schuemann"
+    },
+    {
+      "date": "2026-04-28",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansselected the contract of 2BTravis Bazzanafrom Columbus Clippers.",
       "player": "Travis Bazzana"
+    },
+    {
+      "date": "2026-04-28",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPDidier Fuentesfrom Gwinnett Stripers.",
+      "player": "Didier Fuentes"
     }
   ]
 }
