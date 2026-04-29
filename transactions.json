@@ -1,11 +1,41 @@
 {
-  "last_updated": "2026-04-29T20:15:35.323248",
+  "last_updated": "2026-04-29T22:06:00.034821",
   "transactions": [
     {
       "date": "2026-04-29",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysdesignated DHEloy Jiménezfor assignment.",
-      "player": "Eloy Jiménez"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent CFJackson Chourioon a rehab assignment to Nashville Sounds.",
+      "player": "Jackson Chourio"
+    },
+    {
+      "date": "2026-04-29",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent 1BAndrew Vaughnon a rehab assignment to Nashville Sounds.",
+      "player": "Andrew Vaughn"
+    },
+    {
+      "date": "2026-04-29",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPKirby Yateson a rehab assignment to Rancho Cucamonga Quakes.",
+      "player": "Kirby Yates"
+    },
+    {
+      "date": "2026-04-29",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPBen Joyceon a rehab assignment to Rancho Cucamonga Quakes.",
+      "player": "Ben Joyce"
+    },
+    {
+      "date": "2026-04-29",
+      "team": "New York Yankees",
+      "details": "New York Yankeesdesignated LFRandal Grichukfor assignment.",
+      "player": "Randal Grichuk"
+    },
+    {
+      "date": "2026-04-29",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent RHPJared Joneson a rehab assignment to Bradenton Marauders.",
+      "player": "Jared Jones"
     },
     {
       "date": "2026-04-29",
@@ -15,21 +45,39 @@
     },
     {
       "date": "2026-04-29",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced RHPGraham Ashcrafton the bereavement list.",
-      "player": "Graham Ashcraft"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced SSJavier Báezon the 10-day injured list. Right ankle sprain.",
+      "player": "Javier Báez"
     },
     {
       "date": "2026-04-29",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced RFEverson Pereiraon the 10-day injured list. Right pectoral strain.",
-      "player": "Everson Pereira"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated DHGeorge Springerfrom the 10-day injured list.",
+      "player": "George Springer"
     },
     {
       "date": "2026-04-29",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesdesignated RHPRyan Harbinfor assignment.",
-      "player": "Ryan Harbin"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced LHPAngel Zerpaon the 15-day injured list retroactive to April 26, 2026. Left forearm tightness.",
+      "player": "Angel Zerpa"
+    },
+    {
+      "date": "2026-04-29",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated LHPDylan Leefrom the paternity list.",
+      "player": "Dylan Lee"
+    },
+    {
+      "date": "2026-04-29",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced LHPGarrett Crocheton the 15-day injured list retroactive to April 26, 2026. Left shoulder inflammation.",
+      "player": "Garrett Crochet"
+    },
+    {
+      "date": "2026-04-29",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent SSJamari Baylorto a minor league contract.",
+      "player": "Jamari Baylor"
     },
     {
       "date": "2026-04-29",
@@ -39,9 +87,15 @@
     },
     {
       "date": "2026-04-29",
-      "team": "New York Mets",
-      "details": "New York Metssigned free agent SSJamari Baylorto a minor league contract.",
-      "player": "Jamari Baylor"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced RHPGraham Ashcrafton the bereavement list.",
+      "player": "Graham Ashcraft"
+    },
+    {
+      "date": "2026-04-29",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated RHPRyan Harbinfor assignment.",
+      "player": "Ryan Harbin"
     },
     {
       "date": "2026-04-29",
@@ -63,39 +117,27 @@
     },
     {
       "date": "2026-04-29",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated DHGeorge Springerfrom the 10-day injured list.",
-      "player": "George Springer"
-    },
-    {
-      "date": "2026-04-29",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent RHPBen Joyceon a rehab assignment to Rancho Cucamonga Quakes.",
-      "player": "Ben Joyce"
-    },
-    {
-      "date": "2026-04-29",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated LHPDylan Leefrom the paternity list.",
-      "player": "Dylan Lee"
-    },
-    {
-      "date": "2026-04-29",
       "team": "Houston Astros",
       "details": "Houston Astrossent RHPNate Pearsonon a rehab assignment to Corpus Christi Hooks.",
       "player": "Nate Pearson"
     },
     {
       "date": "2026-04-29",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced LHPGarrett Crocheton the 15-day injured list retroactive to April 26, 2026. Left shoulder inflammation.",
-      "player": "Garrett Crochet"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RFEverson Pereiraon the 10-day injured list. Right pectoral strain.",
+      "player": "Everson Pereira"
     },
     {
       "date": "2026-04-29",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent 1BAndrew Vaughnon a rehab assignment to Nashville Sounds.",
-      "player": "Andrew Vaughn"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated DHEloy Jiménezfor assignment.",
+      "player": "Eloy Jiménez"
+    },
+    {
+      "date": "2026-04-29",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced RHPCasey Mizeon the 15-day injured list. Right adductor strain.",
+      "player": "Casey Mize"
     },
     {
       "date": "2026-04-29",
@@ -105,21 +147,33 @@
     },
     {
       "date": "2026-04-29",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced LHPAngel Zerpaon the 15-day injured list retroactive to April 26, 2026. Left forearm tightness.",
-      "player": "Angel Zerpa"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPAndrew Hoffmannto Reno Aces.",
+      "player": "Andrew Hoffmann"
     },
     {
       "date": "2026-04-29",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent CFJackson Chourioon a rehab assignment to Nashville Sounds.",
-      "player": "Jackson Chourio"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled 3BJace Jungfrom Toledo Mud Hens.",
+      "player": "Jace Jung"
     },
     {
       "date": "2026-04-29",
-      "team": "New York Yankees",
-      "details": "New York Yankeesdesignated LFRandal Grichukfor assignment.",
-      "player": "Randal Grichuk"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of RFJarred Kelenicfrom Charlotte Knights.",
+      "player": "Jarred Kelenic"
+    },
+    {
+      "date": "2026-04-29",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled LHPEnmanuel De Jesusfrom Toledo Mud Hens.",
+      "player": "Enmanuel De Jesus"
+    },
+    {
+      "date": "2026-04-29",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPBlade Tidwellto Sacramento River Cats.",
+      "player": "Blade Tidwell"
     },
     {
       "date": "2026-04-29",
@@ -135,21 +189,15 @@
     },
     {
       "date": "2026-04-29",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsrecalled LHPMitch Farrisfrom Salt Lake Bees.",
-      "player": "Mitch Farris"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled LHPPhilip Abnerfrom Reno Aces.",
+      "player": "Philip Abner"
     },
     {
       "date": "2026-04-29",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent RFLuis Matosoutright to Nashville Sounds.",
-      "player": "Luis Matos"
-    },
-    {
-      "date": "2026-04-29",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of RFJarred Kelenicfrom Charlotte Knights.",
-      "player": "Jarred Kelenic"
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPElmer Rodríguezfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Elmer Rodríguez"
     },
     {
       "date": "2026-04-29",
@@ -165,15 +213,15 @@
     },
     {
       "date": "2026-04-29",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned LHPHunter Barcoto Indianapolis Indians.",
-      "player": "Hunter Barco"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled LHPMitch Farrisfrom Salt Lake Bees.",
+      "player": "Mitch Farris"
     },
     {
       "date": "2026-04-29",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPElmer Rodríguezfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Elmer Rodríguez"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RFLuis Matosoutright to Nashville Sounds.",
+      "player": "Luis Matos"
     },
     {
       "date": "2026-04-29",
@@ -183,9 +231,9 @@
     },
     {
       "date": "2026-04-29",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned RHPBlade Tidwellto Sacramento River Cats.",
-      "player": "Blade Tidwell"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned LHPHunter Barcoto Indianapolis Indians.",
+      "player": "Hunter Barco"
     }
   ]
 }
