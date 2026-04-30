@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-04-30T21:09:22.593470",
+  "last_updated": "2026-04-30T22:58:55.556552",
   "transactions": [
-    {
-      "date": "2026-04-30",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent 2BZach McKinstryon a rehab assignment to Lakeland Flying Tigers.",
-      "player": "Zach McKinstry"
-    },
     {
       "date": "2026-04-30",
       "team": "St. Louis Cardinals",
@@ -18,6 +12,12 @@
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliessent RHPMax Lazaron a rehab assignment to Jersey Shore BlueClaws.",
       "player": "Max Lazar"
+    },
+    {
+      "date": "2026-04-30",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated RHPCody Boltonfrom the 15-day injured list.",
+      "player": "Cody Bolton"
     },
     {
       "date": "2026-04-30",
@@ -33,9 +33,21 @@
     },
     {
       "date": "2026-04-30",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated RHPCody Boltonfrom the 15-day injured list.",
-      "player": "Cody Bolton"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced LHPKyle Backhuson the 15-day injured list retroactive to April 27, 2026. Left elbow inflammation.",
+      "player": "Kyle Backhus"
+    },
+    {
+      "date": "2026-04-30",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent LHPCarlos Rodónon a rehab assignment to Somerset Patriots.",
+      "player": "Carlos Rodón"
+    },
+    {
+      "date": "2026-04-30",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent 2BZach McKinstryon a rehab assignment to Lakeland Flying Tigers.",
+      "player": "Zach McKinstry"
     },
     {
       "date": "2026-04-30",
@@ -51,21 +63,9 @@
     },
     {
       "date": "2026-04-30",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesplaced LHPKyle Backhuson the 15-day injured list retroactive to April 27, 2026. Left elbow inflammation.",
-      "player": "Kyle Backhus"
-    },
-    {
-      "date": "2026-04-30",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
-      "player": "Austin Warren"
-    },
-    {
-      "date": "2026-04-30",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Chesapeake Baysox.",
-      "player": "Jose Espada"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPTravis Adamsfrom the 15-day injured list.",
+      "player": "Travis Adams"
     },
     {
       "date": "2026-04-30",
@@ -81,6 +81,18 @@
     },
     {
       "date": "2026-04-30",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
+      "player": "Travis Adams"
+    },
+    {
+      "date": "2026-04-30",
+      "team": "New York Mets",
+      "details": "New York Metsclaimed 2BAndy Ibáñezoff waivers fromAthletics.",
+      "player": "Andy Ibáñez"
+    },
+    {
+      "date": "2026-04-30",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesrecalled RHPNolan Hoffmanfrom Lehigh Valley IronPigs.",
       "player": "Nolan Hoffman"
@@ -93,9 +105,15 @@
     },
     {
       "date": "2026-04-30",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled RHPJason Alexanderfrom Sugar Land Space Cowboys.",
-      "player": "Jason Alexander"
+      "team": "New York Mets",
+      "details": "New York Metsrecalled 1BEric Wagamanfrom Syracuse Mets.",
+      "player": "Eric Wagaman"
+    },
+    {
+      "date": "2026-04-30",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Chesapeake Baysox.",
+      "player": "Jose Espada"
     },
     {
       "date": "2026-04-30",
@@ -105,21 +123,27 @@
     },
     {
       "date": "2026-04-30",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled 1BEric Wagamanfrom Syracuse Mets.",
-      "player": "Eric Wagaman"
-    },
-    {
-      "date": "2026-04-30",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsoptioned RHPRyan Fernandezto Memphis Redbirds.",
       "player": "Ryan Fernandez"
     },
     {
       "date": "2026-04-30",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPJason Alexanderfrom Sugar Land Space Cowboys.",
+      "player": "Jason Alexander"
+    },
+    {
+      "date": "2026-04-30",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsrecalled RHPTrevor McDonaldfrom Sacramento River Cats.",
       "player": "Trevor McDonald"
+    },
+    {
+      "date": "2026-04-30",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPAustin Warrenfrom Syracuse Mets.",
+      "player": "Austin Warren"
     }
   ]
 }
