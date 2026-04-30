@@ -1,23 +1,11 @@
 {
-  "last_updated": "2026-04-30T19:43:37.935364",
+  "last_updated": "2026-04-30T21:09:22.593470",
   "transactions": [
     {
       "date": "2026-04-30",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated RHPCarl Edwards Jr.for assignment.",
-      "player": "Carl Edwards Jr."
-    },
-    {
-      "date": "2026-04-30",
-      "team": "New York Mets",
-      "details": "New York Metsplaced CFLuis Robert Jr.on the 10-day injured list retroactive to April 27, 2026. Lumbar spine disc herniation.",
-      "player": "Luis Robert Jr."
-    },
-    {
-      "date": "2026-04-30",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced RHPRyan Weisson the paternity list.",
-      "player": "Ryan Weiss"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent 2BZach McKinstryon a rehab assignment to Lakeland Flying Tigers.",
+      "player": "Zach McKinstry"
     },
     {
       "date": "2026-04-30",
@@ -27,9 +15,21 @@
     },
     {
       "date": "2026-04-30",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent 2BZach McKinstryon a rehab assignment to Lakeland Flying Tigers.",
-      "player": "Zach McKinstry"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent RHPMax Lazaron a rehab assignment to Jersey Shore BlueClaws.",
+      "player": "Max Lazar"
+    },
+    {
+      "date": "2026-04-30",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPCarl Edwards Jr.for assignment.",
+      "player": "Carl Edwards Jr."
+    },
+    {
+      "date": "2026-04-30",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced RHPRyan Weisson the paternity list.",
+      "player": "Ryan Weiss"
     },
     {
       "date": "2026-04-30",
@@ -45,27 +45,15 @@
     },
     {
       "date": "2026-04-30",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPZach Maxwellfrom Louisville Bats.",
-      "player": "Zach Maxwell"
+      "team": "New York Mets",
+      "details": "New York Metsplaced CFLuis Robert Jr.on the 10-day injured list retroactive to April 27, 2026. Lumbar spine disc herniation.",
+      "player": "Luis Robert Jr."
     },
     {
       "date": "2026-04-30",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled RHPJason Alexanderfrom Sugar Land Space Cowboys.",
-      "player": "Jason Alexander"
-    },
-    {
-      "date": "2026-04-30",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPRyan Fernandezto Memphis Redbirds.",
-      "player": "Ryan Fernandez"
-    },
-    {
-      "date": "2026-04-30",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsrecalled RHPTrevor McDonaldfrom Sacramento River Cats.",
-      "player": "Trevor McDonald"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced LHPKyle Backhuson the 15-day injured list retroactive to April 27, 2026. Left elbow inflammation.",
+      "player": "Kyle Backhus"
     },
     {
       "date": "2026-04-30",
@@ -81,9 +69,33 @@
     },
     {
       "date": "2026-04-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPZach Maxwellfrom Louisville Bats.",
+      "player": "Zach Maxwell"
+    },
+    {
+      "date": "2026-04-30",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansoptioned LFGeorge Valerato Columbus Clippers.",
       "player": "George Valera"
+    },
+    {
+      "date": "2026-04-30",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPNolan Hoffmanfrom Lehigh Valley IronPigs.",
+      "player": "Nolan Hoffman"
+    },
+    {
+      "date": "2026-04-30",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesselected the contract of RHPTrevor Richardsfrom Lehigh Valley IronPigs.",
+      "player": "Trevor Richards"
+    },
+    {
+      "date": "2026-04-30",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPJason Alexanderfrom Sugar Land Space Cowboys.",
+      "player": "Jason Alexander"
     },
     {
       "date": "2026-04-30",
@@ -99,9 +111,15 @@
     },
     {
       "date": "2026-04-30",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPNolan Hoffmanfrom Lehigh Valley IronPigs.",
-      "player": "Nolan Hoffman"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPRyan Fernandezto Memphis Redbirds.",
+      "player": "Ryan Fernandez"
+    },
+    {
+      "date": "2026-04-30",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPTrevor McDonaldfrom Sacramento River Cats.",
+      "player": "Trevor McDonald"
     }
   ]
 }
