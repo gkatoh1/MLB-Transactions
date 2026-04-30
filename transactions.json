@@ -1,29 +1,11 @@
 {
-  "last_updated": "2026-04-30T17:38:28.129029",
+  "last_updated": "2026-04-30T19:43:37.935364",
   "transactions": [
-    {
-      "date": "2026-04-30",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced LHPBrandon Williamsonon the 15-day injured list. Left shoulder fatigue.",
-      "player": "Brandon Williamson"
-    },
     {
       "date": "2026-04-30",
       "team": "New York Mets",
       "details": "New York Metsdesignated RHPCarl Edwards Jr.for assignment.",
       "player": "Carl Edwards Jr."
-    },
-    {
-      "date": "2026-04-30",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced RHPRyan Weisson the paternity list.",
-      "player": "Ryan Weiss"
-    },
-    {
-      "date": "2026-04-30",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated RHPCody Boltonfrom the 15-day injured list.",
-      "player": "Cody Bolton"
     },
     {
       "date": "2026-04-30",
@@ -33,9 +15,33 @@
     },
     {
       "date": "2026-04-30",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced RHPRyan Weisson the paternity list.",
+      "player": "Ryan Weiss"
+    },
+    {
+      "date": "2026-04-30",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsactivated RHPHunter Dobbinsfrom the 15-day injured list.",
       "player": "Hunter Dobbins"
+    },
+    {
+      "date": "2026-04-30",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent 2BZach McKinstryon a rehab assignment to Lakeland Flying Tigers.",
+      "player": "Zach McKinstry"
+    },
+    {
+      "date": "2026-04-30",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated RHPCody Boltonfrom the 15-day injured list.",
+      "player": "Cody Bolton"
+    },
+    {
+      "date": "2026-04-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced LHPBrandon Williamsonon the 15-day injured list. Left shoulder fatigue.",
+      "player": "Brandon Williamson"
     },
     {
       "date": "2026-04-30",
@@ -45,9 +51,15 @@
     },
     {
       "date": "2026-04-30",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned OFNate Eatonto Worcester Red Sox.",
-      "player": "Nate Eaton"
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPJason Alexanderfrom Sugar Land Space Cowboys.",
+      "player": "Jason Alexander"
+    },
+    {
+      "date": "2026-04-30",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPRyan Fernandezto Memphis Redbirds.",
+      "player": "Ryan Fernandez"
     },
     {
       "date": "2026-04-30",
@@ -63,9 +75,21 @@
     },
     {
       "date": "2026-04-30",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPNolan Hoffmanfrom Lehigh Valley IronPigs.",
-      "player": "Nolan Hoffman"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Chesapeake Baysox.",
+      "player": "Jose Espada"
+    },
+    {
+      "date": "2026-04-30",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned LFGeorge Valerato Columbus Clippers.",
+      "player": "George Valera"
+    },
+    {
+      "date": "2026-04-30",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned OFNate Eatonto Worcester Red Sox.",
+      "player": "Nate Eaton"
     },
     {
       "date": "2026-04-30",
@@ -75,21 +99,9 @@
     },
     {
       "date": "2026-04-30",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPRyan Fernandezto Memphis Redbirds.",
-      "player": "Ryan Fernandez"
-    },
-    {
-      "date": "2026-04-30",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Chesapeake Baysox.",
-      "player": "Jose Espada"
-    },
-    {
-      "date": "2026-04-30",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled RHPJason Alexanderfrom Sugar Land Space Cowboys.",
-      "player": "Jason Alexander"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPNolan Hoffmanfrom Lehigh Valley IronPigs.",
+      "player": "Nolan Hoffman"
     }
   ]
 }
