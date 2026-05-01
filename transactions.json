@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-05-01T15:03:40.327831",
+  "last_updated": "2026-05-01T17:05:14.760205",
   "transactions": [
+    {
+      "date": "2026-05-01",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsdesignated LHPLuis Peraltafor assignment.",
+      "player": "Luis Peralta"
+    },
+    {
+      "date": "2026-05-01",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPJoel Payampsfor assignment.",
+      "player": "Joel Payamps"
+    },
+    {
+      "date": "2026-05-01",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPRobert Suarezfor assignment.",
+      "player": "Robert Suarez"
+    },
     {
       "date": "2026-05-01",
       "team": "Arizona Diamondbacks",
@@ -15,15 +33,27 @@
     },
     {
       "date": "2026-05-01",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPJose Espadato Norfolk Tides.",
-      "player": "Jose Espada"
-    },
-    {
-      "date": "2026-05-01",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksoptioned LHPPhilip Abnerto Reno Aces.",
       "player": "Philip Abner"
+    },
+    {
+      "date": "2026-05-01",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPNolan Hoffmanto Lehigh Valley IronPigs.",
+      "player": "Nolan Hoffman"
+    },
+    {
+      "date": "2026-05-01",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPHunter Dobbinsto Memphis Redbirds.",
+      "player": "Hunter Dobbins"
+    },
+    {
+      "date": "2026-05-01",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsselected the contract of LHPJared Shusterfrom Memphis Redbirds.",
+      "player": "Jared Shuster"
     },
     {
       "date": "2026-05-01",
@@ -33,9 +63,27 @@
     },
     {
       "date": "2026-05-01",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPJose Espadato Norfolk Tides.",
+      "player": "Jose Espada"
+    },
+    {
+      "date": "2026-05-01",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPHunter Strattonfrom Gwinnett Stripers.",
+      "player": "Hunter Stratton"
+    },
+    {
+      "date": "2026-05-01",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsoptioned RHPHunter Dobbinsto Memphis Redbirds.",
       "player": "Hunter Dobbins"
+    },
+    {
+      "date": "2026-05-01",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPAnthony Molinafrom Gwinnett Stripers.",
+      "player": "Anthony Molina"
     }
   ]
 }
