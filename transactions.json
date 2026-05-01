@@ -1,17 +1,41 @@
 {
-  "last_updated": "2026-05-01T13:45:08.067270",
+  "last_updated": "2026-05-01T15:03:40.327831",
   "transactions": [
     {
       "date": "2026-05-01",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPHunter Dobbinsto Memphis Redbirds.",
-      "player": "Hunter Dobbins"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated CGabriel Morenofrom the 10-day injured list.",
+      "player": "Gabriel Moreno"
+    },
+    {
+      "date": "2026-05-01",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksdesignated CAramis Garciafor assignment.",
+      "player": "Aramis Garcia"
     },
     {
       "date": "2026-05-01",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned RHPJose Espadato Norfolk Tides.",
       "player": "Jose Espada"
+    },
+    {
+      "date": "2026-05-01",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned LHPPhilip Abnerto Reno Aces.",
+      "player": "Philip Abner"
+    },
+    {
+      "date": "2026-05-01",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled LHPBrandyn Garciafrom Reno Aces.",
+      "player": "Brandyn Garcia"
+    },
+    {
+      "date": "2026-05-01",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPHunter Dobbinsto Memphis Redbirds.",
+      "player": "Hunter Dobbins"
     }
   ]
 }
