@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-05-02T13:38:04.304262",
+  "last_updated": "2026-05-02T14:56:12.130636",
   "transactions": [
+    {
+      "date": "2026-05-02",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPCole Sandson the 15-day injured list retroactive to April 29, 2026. Right forearm strain.",
+      "player": "Cole Sands"
+    },
     {
       "date": "2026-05-02",
       "team": "Washington Nationals",
       "details": "Washington Nationalssigned free agent RHPAaron Shortridgeto a minor league contract.",
       "player": "Aaron Shortridge"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPJohn Kleinfrom St. Paul Saints.",
+      "player": "John Klein"
     }
   ]
 }
