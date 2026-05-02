@@ -1,35 +1,17 @@
 {
-  "last_updated": "2026-05-02T21:51:40.662173",
+  "last_updated": "2026-05-02T22:53:00.176933",
   "transactions": [
     {
       "date": "2026-05-02",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent RHPAlek Manoahon a rehab assignment to Rancho Cucamonga Quakes.",
-      "player": "Alek Manoah"
-    },
-    {
-      "date": "2026-05-02",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned free agent RHPAaron Shortridgeto a minor league contract.",
-      "player": "Aaron Shortridge"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated LHPGarrett Cleavingerfrom the 15-day injured list.",
+      "player": "Garrett Cleavinger"
     },
     {
       "date": "2026-05-02",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent 1BCarlos Santanaon a rehab assignment to Reno Aces.",
-      "player": "Carlos Santana"
-    },
-    {
-      "date": "2026-05-02",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated CJ.T. Realmutofrom the 10-day injured list.",
-      "player": "J.T. Realmuto"
-    },
-    {
-      "date": "2026-05-02",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated LHPDietrich Ennsfrom the 15-day injured list.",
-      "player": "Dietrich Enns"
+      "details": "Arizona Diamondbackssent 1BTyler Locklearon a rehab assignment to ACL D-backs.",
+      "player": "Tyler Locklear"
     },
     {
       "date": "2026-05-02",
@@ -45,9 +27,15 @@
     },
     {
       "date": "2026-05-02",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated RHPGraham Ashcraftfrom the bereavement list.",
-      "player": "Graham Ashcraft"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated CJ.T. Realmutofrom the 10-day injured list.",
+      "player": "J.T. Realmuto"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated LHPDietrich Ennsfrom the 15-day injured list.",
+      "player": "Dietrich Enns"
     },
     {
       "date": "2026-05-02",
@@ -57,9 +45,15 @@
     },
     {
       "date": "2026-05-02",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated LHPGarrett Cleavingerfrom the 15-day injured list.",
-      "player": "Garrett Cleavinger"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPAlbert Suárezfor assignment.",
+      "player": "Albert Suárez"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPAlek Manoahon a rehab assignment to Rancho Cucamonga Quakes.",
+      "player": "Alek Manoah"
     },
     {
       "date": "2026-05-02",
@@ -75,9 +69,15 @@
     },
     {
       "date": "2026-05-02",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned free agent RHPAaron Shortridgeto a minor league contract.",
+      "player": "Aaron Shortridge"
+    },
+    {
+      "date": "2026-05-02",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent 1BTyler Locklearon a rehab assignment to ACL D-backs.",
-      "player": "Tyler Locklear"
+      "details": "Arizona Diamondbackssent 1BCarlos Santanaon a rehab assignment to Reno Aces.",
+      "player": "Carlos Santana"
     },
     {
       "date": "2026-05-02",
@@ -99,45 +99,33 @@
     },
     {
       "date": "2026-05-02",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPGraham Ashcraftfrom the bereavement list.",
+      "player": "Graham Ashcraft"
+    },
+    {
+      "date": "2026-05-02",
       "team": "Detroit Tigers",
       "details": "Detroit Tigerssent 2BZach McKinstryon a rehab assignment to Toledo Mud Hens.",
       "player": "Zach McKinstry"
     },
     {
       "date": "2026-05-02",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent LHPCionel Pérezoutright to Rochester Red Wings.",
+      "player": "Cionel Pérez"
+    },
+    {
+      "date": "2026-05-02",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPAlbert Suárezfor assignment.",
-      "player": "Albert Suárez"
-    },
-    {
-      "date": "2026-05-02",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of RHPNick Davilafrom Arkansas Travelers.",
-      "player": "Nick Davila"
-    },
-    {
-      "date": "2026-05-02",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPAnthony Molinato Gwinnett Stripers.",
-      "player": "Anthony Molina"
+      "details": "Baltimore Oriolesrecalled LHPNick Raquetfrom Norfolk Tides.",
+      "player": "Nick Raquet"
     },
     {
       "date": "2026-05-02",
       "team": "Athletics",
       "details": "Athleticsrecalled RHPLuis Moralesfrom Las Vegas Aviators.",
       "player": "Luis Morales"
-    },
-    {
-      "date": "2026-05-02",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPCarlos Carrascofrom Gwinnett Stripers.",
-      "player": "Carlos Carrasco"
-    },
-    {
-      "date": "2026-05-02",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned LHPJosh Simpsonto Tacoma Rainiers.",
-      "player": "Josh Simpson"
     },
     {
       "date": "2026-05-02",
@@ -153,9 +141,45 @@
     },
     {
       "date": "2026-05-02",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersselected the contract of RHPRicky Vanascofrom Toledo Mud Hens.",
-      "player": "Ricky Vanasco"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPJohn Kleinfrom St. Paul Saints.",
+      "player": "John Klein"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPZach Maxwellto Louisville Bats.",
+      "player": "Zach Maxwell"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent DHEloy Jiménezoutright to Buffalo Bisons.",
+      "player": "Eloy Jiménez"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPAnthony Molinato Gwinnett Stripers.",
+      "player": "Anthony Molina"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of RHPNick Davilafrom Arkansas Travelers.",
+      "player": "Nick Davila"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned LHPJosh Simpsonto Tacoma Rainiers.",
+      "player": "Josh Simpson"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPCarlos Carrascofrom Gwinnett Stripers.",
+      "player": "Carlos Carrasco"
     },
     {
       "date": "2026-05-02",
@@ -177,33 +201,15 @@
     },
     {
       "date": "2026-05-02",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPJohn Kleinfrom St. Paul Saints.",
-      "player": "John Klein"
-    },
-    {
-      "date": "2026-05-02",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPZach Maxwellto Louisville Bats.",
-      "player": "Zach Maxwell"
-    },
-    {
-      "date": "2026-05-02",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent LHPCionel Pérezoutright to Rochester Red Wings.",
-      "player": "Cionel Pérez"
-    },
-    {
-      "date": "2026-05-02",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesoptioned 3BNick Yorketo Indianapolis Indians.",
       "player": "Nick Yorke"
     },
     {
       "date": "2026-05-02",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled LHPNick Raquetfrom Norfolk Tides.",
-      "player": "Nick Raquet"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersselected the contract of RHPRicky Vanascofrom Toledo Mud Hens.",
+      "player": "Ricky Vanasco"
     }
   ]
 }
