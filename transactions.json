@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-05-02T14:56:12.130636",
+  "last_updated": "2026-05-02T15:55:26.363958",
   "transactions": [
     {
       "date": "2026-05-02",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced RHPCole Sandson the 15-day injured list retroactive to April 29, 2026. Right forearm strain.",
-      "player": "Cole Sands"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated SSJared Triolofrom the 10-day injured list.",
+      "player": "Jared Triolo"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPAlbert Suárezfor assignment.",
+      "player": "Albert Suárez"
     },
     {
       "date": "2026-05-02",
@@ -15,9 +21,57 @@
     },
     {
       "date": "2026-05-02",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated LHPDietrich Ennsfrom the 15-day injured list.",
+      "player": "Dietrich Enns"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent RHPJack Weisenburgerto a minor league contract.",
+      "player": "Jack Weisenburger"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPCole Sandson the 15-day injured list retroactive to April 29, 2026. Right forearm strain.",
+      "player": "Cole Sands"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPAnthony Molinato Gwinnett Stripers.",
+      "player": "Anthony Molina"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPTyler Wellsto Norfolk Tides.",
+      "player": "Tyler Wells"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned 3BNick Yorketo Indianapolis Indians.",
+      "player": "Nick Yorke"
+    },
+    {
+      "date": "2026-05-02",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsrecalled RHPJohn Kleinfrom St. Paul Saints.",
       "player": "John Klein"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPCarlos Carrascofrom Gwinnett Stripers.",
+      "player": "Carlos Carrasco"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled LHPNick Raquetfrom Norfolk Tides.",
+      "player": "Nick Raquet"
     }
   ]
 }
