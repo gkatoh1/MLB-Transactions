@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02T16:59:21.669597",
+  "last_updated": "2026-05-02T17:57:02.803279",
   "transactions": [
     {
       "date": "2026-05-02",
@@ -9,21 +9,9 @@
     },
     {
       "date": "2026-05-02",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated LHPDietrich Ennsfrom the 15-day injured list.",
-      "player": "Dietrich Enns"
-    },
-    {
-      "date": "2026-05-02",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced RHPCole Sandson the 15-day injured list retroactive to April 29, 2026. Right forearm strain.",
-      "player": "Cole Sands"
-    },
-    {
-      "date": "2026-05-02",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned free agent RHPAaron Shortridgeto a minor league contract.",
-      "player": "Aaron Shortridge"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated CJ.T. Realmutofrom the 10-day injured list.",
+      "player": "J.T. Realmuto"
     },
     {
       "date": "2026-05-02",
@@ -39,15 +27,27 @@
     },
     {
       "date": "2026-05-02",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned free agent RHPAaron Shortridgeto a minor league contract.",
+      "player": "Aaron Shortridge"
+    },
+    {
+      "date": "2026-05-02",
       "team": "New York Mets",
       "details": "New York Metssigned free agent RHPJack Weisenburgerto a minor league contract.",
       "player": "Jack Weisenburger"
     },
     {
       "date": "2026-05-02",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPAlbert Suárezfor assignment.",
-      "player": "Albert Suárez"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPCole Sandson the 15-day injured list retroactive to April 29, 2026. Right forearm strain.",
+      "player": "Cole Sands"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPAlek Manoahon a rehab assignment to Rancho Cucamonga Quakes.",
+      "player": "Alek Manoah"
     },
     {
       "date": "2026-05-02",
@@ -57,45 +57,27 @@
     },
     {
       "date": "2026-05-02",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPZach Maxwellto Louisville Bats.",
-      "player": "Zach Maxwell"
-    },
-    {
-      "date": "2026-05-02",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPJohn Kleinfrom St. Paul Saints.",
-      "player": "John Klein"
-    },
-    {
-      "date": "2026-05-02",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPAnthony Molinato Gwinnett Stripers.",
-      "player": "Anthony Molina"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesdesignated CFDylan Moorefor assignment.",
+      "player": "Dylan Moore"
     },
     {
       "date": "2026-05-02",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPTyler Wellsto Norfolk Tides.",
-      "player": "Tyler Wells"
+      "details": "Baltimore Oriolesactivated LHPDietrich Ennsfrom the 15-day injured list.",
+      "player": "Dietrich Enns"
     },
     {
       "date": "2026-05-02",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPLuis Moralesfrom Las Vegas Aviators.",
-      "player": "Luis Morales"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPAlbert Suárezfor assignment.",
+      "player": "Albert Suárez"
     },
     {
       "date": "2026-05-02",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned LHPCade Gibsonto Jacksonville Jumbo Shrimp.",
-      "player": "Cade Gibson"
-    },
-    {
-      "date": "2026-05-02",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsselected the contract of RHPJosh Eknessfrom Jacksonville Jumbo Shrimp.",
-      "player": "Josh Ekness"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPZach Maxwellto Louisville Bats.",
+      "player": "Zach Maxwell"
     },
     {
       "date": "2026-05-02",
@@ -105,9 +87,33 @@
     },
     {
       "date": "2026-05-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPAnthony Molinato Gwinnett Stripers.",
+      "player": "Anthony Molina"
+    },
+    {
+      "date": "2026-05-02",
       "team": "Athletics",
       "details": "Athleticsoptioned LHPBrady Bassoto Las Vegas Aviators.",
       "player": "Brady Basso"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPLuis Moralesfrom Las Vegas Aviators.",
+      "player": "Luis Morales"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPTyler Wellsto Norfolk Tides.",
+      "player": "Tyler Wells"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned LHPCade Gibsonto Jacksonville Jumbo Shrimp.",
+      "player": "Cade Gibson"
     },
     {
       "date": "2026-05-02",
@@ -120,6 +126,18 @@
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled LHPNick Raquetfrom Norfolk Tides.",
       "player": "Nick Raquet"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of RHPJosh Eknessfrom Jacksonville Jumbo Shrimp.",
+      "player": "Josh Ekness"
+    },
+    {
+      "date": "2026-05-02",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPJohn Kleinfrom St. Paul Saints.",
+      "player": "John Klein"
     }
   ]
 }
