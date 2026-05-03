@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-05-03T15:55:18.820936",
+  "last_updated": "2026-05-03T16:59:58.084062",
   "transactions": [
-    {
-      "date": "2026-05-03",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPSpencer Striderfrom the 15-day injured list.",
-      "player": "Spencer Strider"
-    },
-    {
-      "date": "2026-05-03",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPSpencer Striderfrom the 15-day injured list.",
-      "player": "Spencer Strider"
-    },
-    {
-      "date": "2026-05-03",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RHPTroy Meltonon a rehab assignment to Lakeland Flying Tigers.",
-      "player": "Troy Melton"
-    },
-    {
-      "date": "2026-05-03",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsdesignated RHPYacksel Ríosfor assignment.",
-      "player": "Yacksel Ríos"
-    },
-    {
-      "date": "2026-05-03",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RHPTroy Meltonon a rehab assignment to Lakeland Flying Tigers.",
-      "player": "Troy Melton"
-    },
     {
       "date": "2026-05-03",
       "team": "Atlanta Braves",
@@ -51,9 +21,9 @@
     },
     {
       "date": "2026-05-03",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPDaniel Palencia.",
-      "player": "Daniel Palencia"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RFAddison Bargeron a rehab assignment to Dunedin Blue Jays.",
+      "player": "Addison Barger"
     },
     {
       "date": "2026-05-03",
@@ -63,21 +33,63 @@
     },
     {
       "date": "2026-05-03",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced RHPPierce Johnsonon the bereavement list.",
-      "player": "Pierce Johnson"
-    },
-    {
-      "date": "2026-05-03",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssent RFAddison Bargeron a rehab assignment to Dunedin Blue Jays.",
       "player": "Addison Barger"
     },
     {
       "date": "2026-05-03",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPLogan Hendersonfrom Nashville Sounds.",
-      "player": "Logan Henderson"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced RHPPierce Johnsonon the bereavement list.",
+      "player": "Pierce Johnson"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPTroy Meltonon a rehab assignment to Lakeland Flying Tigers.",
+      "player": "Troy Melton"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPSpencer Striderfrom the 15-day injured list.",
+      "player": "Spencer Strider"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated RHPYacksel Ríosfor assignment.",
+      "player": "Yacksel Ríos"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPSpencer Striderfrom the 15-day injured list.",
+      "player": "Spencer Strider"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPRyan Johnsonon a rehab assignment to Rancho Cucamonga Quakes.",
+      "player": "Ryan Johnson"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPDaniel Palencia.",
+      "player": "Daniel Palencia"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPTroy Meltonon a rehab assignment to Lakeland Flying Tigers.",
+      "player": "Troy Melton"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent LHPJordan Moralesto a minor league contract.",
+      "player": "Jordan Morales"
     },
     {
       "date": "2026-05-03",
@@ -87,9 +99,15 @@
     },
     {
       "date": "2026-05-03",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of LFJosé Azocarfrom Gwinnett Stripers.",
-      "player": "José Azocar"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPEaston McGeeto Nashville Sounds.",
+      "player": "Easton McGee"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPLuis Moralesto Las Vegas Aviators.",
+      "player": "Luis Morales"
     },
     {
       "date": "2026-05-03",
@@ -105,21 +123,39 @@
     },
     {
       "date": "2026-05-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
+      "player": "Hunter Stratton"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPTyler Fergusonfrom Las Vegas Aviators.",
+      "player": "Tyler Ferguson"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of LFJosé Azocarfrom Gwinnett Stripers.",
+      "player": "José Azocar"
+    },
+    {
+      "date": "2026-05-03",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsrecalled RHPZach Maxwellfrom Louisville Bats.",
       "player": "Zach Maxwell"
     },
     {
       "date": "2026-05-03",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPEaston McGeeto Nashville Sounds.",
-      "player": "Easton McGee"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of RHPTrey Gibsonfrom Norfolk Tides.",
+      "player": "Trey Gibson"
     },
     {
       "date": "2026-05-03",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
-      "player": "Hunter Stratton"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPLogan Hendersonfrom Nashville Sounds.",
+      "player": "Logan Henderson"
     }
   ]
 }
