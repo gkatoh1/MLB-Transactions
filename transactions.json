@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03T14:55:50.741566",
+  "last_updated": "2026-05-03T15:55:18.820936",
   "transactions": [
     {
       "date": "2026-05-03",
@@ -15,33 +15,45 @@
     },
     {
       "date": "2026-05-03",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPTroy Meltonon a rehab assignment to Lakeland Flying Tigers.",
+      "player": "Troy Melton"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated RHPYacksel Ríosfor assignment.",
+      "player": "Yacksel Ríos"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPTroy Meltonon a rehab assignment to Lakeland Flying Tigers.",
+      "player": "Troy Melton"
+    },
+    {
+      "date": "2026-05-03",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesplaced RFRonald Acuña Jr.on the 10-day injured list. Left hamstring strain.",
       "player": "Ronald Acuña Jr."
     },
     {
       "date": "2026-05-03",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RHPTroy Meltonon a rehab assignment to Lakeland Flying Tigers.",
-      "player": "Troy Melton"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPJustin Slatenon a rehab assignment to Portland Sea Dogs.",
+      "player": "Justin Slaten"
     },
     {
       "date": "2026-05-03",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RFAddison Bargeron a rehab assignment to Dunedin Blue Jays.",
-      "player": "Addison Barger"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent LHPBlake Snellon a rehab assignment to Oklahoma City Comets.",
+      "player": "Blake Snell"
     },
     {
       "date": "2026-05-03",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RHPTroy Meltonon a rehab assignment to Lakeland Flying Tigers.",
-      "player": "Troy Melton"
-    },
-    {
-      "date": "2026-05-03",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced RHPPierce Johnsonon the bereavement list.",
-      "player": "Pierce Johnson"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPDaniel Palencia.",
+      "player": "Daniel Palencia"
     },
     {
       "date": "2026-05-03",
@@ -52,32 +64,32 @@
     {
       "date": "2026-05-03",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPZach Maxwellfrom Louisville Bats.",
-      "player": "Zach Maxwell"
+      "details": "Cincinnati Redsplaced RHPPierce Johnsonon the bereavement list.",
+      "player": "Pierce Johnson"
     },
     {
       "date": "2026-05-03",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
-      "player": "Hunter Stratton"
-    },
-    {
-      "date": "2026-05-03",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPEaston McGeeto Nashville Sounds.",
-      "player": "Easton McGee"
-    },
-    {
-      "date": "2026-05-03",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of LFJosé Azocarfrom Gwinnett Stripers.",
-      "player": "José Azocar"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RFAddison Bargeron a rehab assignment to Dunedin Blue Jays.",
+      "player": "Addison Barger"
     },
     {
       "date": "2026-05-03",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersrecalled RHPLogan Hendersonfrom Nashville Sounds.",
       "player": "Logan Henderson"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPJayden Murrayto Sugar Land Space Cowboys.",
+      "player": "Jayden Murray"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of LFJosé Azocarfrom Gwinnett Stripers.",
+      "player": "José Azocar"
     },
     {
       "date": "2026-05-03",
@@ -93,9 +105,21 @@
     },
     {
       "date": "2026-05-03",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned RHPJayden Murrayto Sugar Land Space Cowboys.",
-      "player": "Jayden Murray"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPZach Maxwellfrom Louisville Bats.",
+      "player": "Zach Maxwell"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPEaston McGeeto Nashville Sounds.",
+      "player": "Easton McGee"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
+      "player": "Hunter Stratton"
     }
   ]
 }
