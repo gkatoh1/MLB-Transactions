@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-03T17:57:28.122376",
+  "last_updated": "2026-05-03T19:12:36.147026",
   "transactions": [
     {
       "date": "2026-05-03",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced RHPPierce Johnsonon the bereavement list.",
-      "player": "Pierce Johnson"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPTroy Meltonon a rehab assignment to Lakeland Flying Tigers.",
+      "player": "Troy Melton"
     },
     {
       "date": "2026-05-03",
@@ -30,6 +30,12 @@
       "team": "New York Mets",
       "details": "New York Metsdesignated 1BEric Wagamanfor assignment.",
       "player": "Eric Wagaman"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPSpencer Striderfrom the 15-day injured list.",
+      "player": "Spencer Strider"
     },
     {
       "date": "2026-05-03",
@@ -69,36 +75,6 @@
     },
     {
       "date": "2026-05-03",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RHPTroy Meltonon a rehab assignment to Lakeland Flying Tigers.",
-      "player": "Troy Melton"
-    },
-    {
-      "date": "2026-05-03",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPSpencer Striderfrom the 15-day injured list.",
-      "player": "Spencer Strider"
-    },
-    {
-      "date": "2026-05-03",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RHPTroy Meltonon a rehab assignment to Lakeland Flying Tigers.",
-      "player": "Troy Melton"
-    },
-    {
-      "date": "2026-05-03",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresplaced RHPGermán Márquezon the 15-day injured list retroactive to May 2, 2026. Forearm nerve inflammation.",
-      "player": "Germán Márquez"
-    },
-    {
-      "date": "2026-05-03",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated RHPRyan Weissfrom the paternity list.",
-      "player": "Ryan Weiss"
-    },
-    {
-      "date": "2026-05-03",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssent RFAddison Bargeron a rehab assignment to Dunedin Blue Jays.",
       "player": "Addison Barger"
@@ -123,57 +99,33 @@
     },
     {
       "date": "2026-05-03",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPEaston McGeeto Nashville Sounds.",
-      "player": "Easton McGee"
-    },
-    {
-      "date": "2026-05-03",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of 3BVidal Brujánfrom Syracuse Mets.",
-      "player": "Vidal Bruján"
-    },
-    {
-      "date": "2026-05-03",
-      "team": "Athletics",
-      "details": "Athleticsoptioned RHPLuis Moralesto Las Vegas Aviators.",
-      "player": "Luis Morales"
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated RHPRyan Weissfrom the paternity list.",
+      "player": "Ryan Weiss"
     },
     {
       "date": "2026-05-03",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPZach Maxwellfrom Louisville Bats.",
-      "player": "Zach Maxwell"
+      "details": "Cincinnati Redsplaced RHPPierce Johnsonon the bereavement list.",
+      "player": "Pierce Johnson"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPTroy Meltonon a rehab assignment to Lakeland Flying Tigers.",
+      "player": "Troy Melton"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresplaced RHPGermán Márquezon the 15-day injured list retroactive to May 2, 2026. Forearm nerve inflammation.",
+      "player": "Germán Márquez"
     },
     {
       "date": "2026-05-03",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPLogan Hendersonfrom Nashville Sounds.",
-      "player": "Logan Henderson"
-    },
-    {
-      "date": "2026-05-03",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPTyler Fergusonfrom Las Vegas Aviators.",
-      "player": "Tyler Ferguson"
-    },
-    {
-      "date": "2026-05-03",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned LHPNick Raquetto Norfolk Tides.",
-      "player": "Nick Raquet"
-    },
-    {
-      "date": "2026-05-03",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsselected the contract of LHPTayler Saucedofrom Salt Lake Bees.",
-      "player": "Tayler Saucedo"
-    },
-    {
-      "date": "2026-05-03",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of LFJosé Azocarfrom Gwinnett Stripers.",
-      "player": "José Azocar"
+      "details": "Milwaukee Brewersoptioned RHPEaston McGeeto Nashville Sounds.",
+      "player": "Easton McGee"
     },
     {
       "date": "2026-05-03",
@@ -189,15 +141,63 @@
     },
     {
       "date": "2026-05-03",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
-      "player": "Hunter Stratton"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsselected the contract of LHPTayler Saucedofrom Salt Lake Bees.",
+      "player": "Tayler Saucedo"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPTyler Fergusonfrom Las Vegas Aviators.",
+      "player": "Tyler Ferguson"
     },
     {
       "date": "2026-05-03",
       "team": "Houston Astros",
       "details": "Houston Astrosoptioned RHPJayden Murrayto Sugar Land Space Cowboys.",
       "player": "Jayden Murray"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPLuis Moralesto Las Vegas Aviators.",
+      "player": "Luis Morales"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPLogan Hendersonfrom Nashville Sounds.",
+      "player": "Logan Henderson"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPHunter Strattonto Gwinnett Stripers.",
+      "player": "Hunter Stratton"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPNick Raquetto Norfolk Tides.",
+      "player": "Nick Raquet"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of LFJosé Azocarfrom Gwinnett Stripers.",
+      "player": "José Azocar"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPZach Maxwellfrom Louisville Bats.",
+      "player": "Zach Maxwell"
+    },
+    {
+      "date": "2026-05-03",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of 3BVidal Brujánfrom Syracuse Mets.",
+      "player": "Vidal Bruján"
     },
     {
       "date": "2026-05-03",
