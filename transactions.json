@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-05-04T18:21:24.705414",
+  "last_updated": "2026-05-04T20:21:54.567451",
   "transactions": [
+    {
+      "date": "2026-05-04",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated CFJackson Chouriofrom the 10-day injured list.",
+      "player": "Jackson Chourio"
+    },
+    {
+      "date": "2026-05-04",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced LHPTarik Skubalon the 15-day injured list retroactive to May 1, 2026. Loose bodies in left elbow.",
+      "player": "Tarik Skubal"
+    },
     {
       "date": "2026-05-04",
       "team": "New York Yankees",
@@ -9,20 +21,50 @@
     },
     {
       "date": "2026-05-04",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPChase Pettyfrom Louisville Bats.",
-      "player": "Chase Petty"
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated CFDaniel Johnsonfor assignment.",
+      "player": "Daniel Johnson"
     },
     {
       "date": "2026-05-04",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned SSAnthony Volpeto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Anthony Volpe"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated LFGreg Jonesfor assignment.",
+      "player": "Greg Jones"
+    },
+    {
+      "date": "2026-05-04",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced LHPDanny Coulombeon the 15-day injured list retroactive to May 2, 2026. Cervical spasms.",
+      "player": "Danny Coulombe"
+    },
+    {
+      "date": "2026-05-04",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated LFZach Dezenzofrom the 10-day injured list.",
+      "player": "Zach Dezenzo"
+    },
+    {
+      "date": "2026-05-04",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated 1BAndrew Vaughnfrom the 10-day injured list.",
+      "player": "Andrew Vaughn"
+    },
+    {
+      "date": "2026-05-04",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced LHPPatrick Sandovalon the 60-day injured list. Left UCL surgery recovery.",
+      "player": "Patrick Sandoval"
+    },
+    {
+      "date": "2026-05-04",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled CFZach Colefrom Sugar Land Space Cowboys.",
+      "player": "Zach Cole"
     },
     {
       "date": "2026-05-04",
       "team": "Miami Marlins",
-      "details": "Miami Marlinsselected the contract of CJoe Mackfrom Jacksonville Jumbo Shrimp.",
+      "details": "Miami Marlinsrecalled CJoe Mackfrom Jacksonville Jumbo Shrimp.",
       "player": "Joe Mack"
     },
     {
@@ -33,9 +75,57 @@
     },
     {
       "date": "2026-05-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPChase Pettyfrom Louisville Bats.",
+      "player": "Chase Petty"
+    },
+    {
+      "date": "2026-05-04",
       "team": "Miami Marlins",
       "details": "Miami Marlinsoptioned CAgustín Ramírezto Jacksonville Jumbo Shrimp.",
       "player": "Agustín Ramírez"
+    },
+    {
+      "date": "2026-05-04",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned LFThomas Saggeseto Memphis Redbirds.",
+      "player": "Thomas Saggese"
+    },
+    {
+      "date": "2026-05-04",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned SSAnthony Volpeto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Anthony Volpe"
+    },
+    {
+      "date": "2026-05-04",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LFBlake Perkinsto Nashville Sounds.",
+      "player": "Blake Perkins"
+    },
+    {
+      "date": "2026-05-04",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPTy Maddenfrom Toledo Mud Hens.",
+      "player": "Ty Madden"
+    },
+    {
+      "date": "2026-05-04",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled 2BCésar Prietofrom Memphis Redbirds.",
+      "player": "César Prieto"
+    },
+    {
+      "date": "2026-05-04",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of LHPAlec Gamboafrom Worcester Red Sox.",
+      "player": "Alec Gamboa"
+    },
+    {
+      "date": "2026-05-04",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LFZach Dezenzoto Sugar Land Space Cowboys.",
+      "player": "Zach Dezenzo"
     }
   ]
 }
