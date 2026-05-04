@@ -1,11 +1,29 @@
 {
-  "last_updated": "2026-05-04T14:23:38.773563",
+  "last_updated": "2026-05-04T16:54:13.509991",
   "transactions": [
+    {
+      "date": "2026-05-04",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned free agent RHPDariel Chalasto a minor league contract.",
+      "player": "Dariel Chalas"
+    },
+    {
+      "date": "2026-05-04",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of CJoe Mackfrom Jacksonville Jumbo Shrimp.",
+      "player": "Joe Mack"
+    },
     {
       "date": "2026-05-04",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned SSAnthony Volpeto Scranton/Wilkes-Barre RailRiders.",
       "player": "Anthony Volpe"
+    },
+    {
+      "date": "2026-05-04",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned CAgustín Ramírezto Jacksonville Jumbo Shrimp.",
+      "player": "Agustín Ramírez"
     }
   ]
 }
