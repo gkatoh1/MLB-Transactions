@@ -1,17 +1,41 @@
 {
-  "last_updated": "2026-05-05T12:07:23.217733",
+  "last_updated": "2026-05-05T17:43:23.841023",
   "transactions": [
     {
       "date": "2026-05-05",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent SSHa-Seong Kimon a rehab assignment to Gwinnett Stripers.",
-      "player": "Ha-Seong Kim"
+      "details": "Atlanta Bravesactivated RHPRaisel Iglesiasfrom the 15-day injured list.",
+      "player": "Raisel Iglesias"
     },
     {
       "date": "2026-05-05",
       "team": "New York Yankees",
       "details": "New York Yankeessent RHPGerrit Coleon a rehab assignment to Hudson Valley Renegades.",
       "player": "Gerrit Cole"
+    },
+    {
+      "date": "2026-05-05",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPCarlos Carrascofor assignment.",
+      "player": "Carlos Carrasco"
+    },
+    {
+      "date": "2026-05-05",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent LHPDylan Doddon a rehab assignment to Gwinnett Stripers.",
+      "player": "Dylan Dodd"
+    },
+    {
+      "date": "2026-05-05",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent LHPCaleb Fergusonon a rehab assignment to Louisville Bats.",
+      "player": "Caleb Ferguson"
+    },
+    {
+      "date": "2026-05-05",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent SSHa-Seong Kimon a rehab assignment to Gwinnett Stripers.",
+      "player": "Ha-Seong Kim"
     }
   ]
 }
