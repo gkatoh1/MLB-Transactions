@@ -1,29 +1,11 @@
 {
-  "last_updated": "2026-05-05T19:45:09.602086",
+  "last_updated": "2026-05-05T21:08:56.670047",
   "transactions": [
     {
       "date": "2026-05-05",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysplaced LHPSteven Matzon the 15-day injured list retroactive to May 4, 2026. Left elbow inflammation.",
-      "player": "Steven Matz"
-    },
-    {
-      "date": "2026-05-05",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssent 1BEnrique Hernándezon a rehab assignment to Oklahoma City Comets.",
-      "player": "Enrique Hernández"
-    },
-    {
-      "date": "2026-05-05",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersdesignated 3BZack Shortfor assignment.",
-      "player": "Zack Short"
-    },
-    {
-      "date": "2026-05-05",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated RHPStephen Kolekfrom the 15-day injured list.",
-      "player": "Stephen Kolek"
+      "team": "New York Yankees",
+      "details": "New York Yankeessent LHPCarlos Rodónon a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Carlos Rodón"
     },
     {
       "date": "2026-05-05",
@@ -34,14 +16,32 @@
     {
       "date": "2026-05-05",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent SSHa-Seong Kimon a rehab assignment to Gwinnett Stripers.",
-      "player": "Ha-Seong Kim"
+      "details": "Atlanta Bravesdesignated RHPCarlos Carrascofor assignment.",
+      "player": "Carlos Carrasco"
+    },
+    {
+      "date": "2026-05-05",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsdesignated RHPChris Paddackfor assignment.",
+      "player": "Chris Paddack"
+    },
+    {
+      "date": "2026-05-05",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPGerrit Coleon a rehab assignment to Hudson Valley Renegades.",
+      "player": "Gerrit Cole"
     },
     {
       "date": "2026-05-05",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated RHPCarlos Carrascofor assignment.",
-      "player": "Carlos Carrasco"
+      "details": "Atlanta Bravessent LHPDylan Doddon a rehab assignment to Gwinnett Stripers.",
+      "player": "Dylan Dodd"
+    },
+    {
+      "date": "2026-05-05",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated RHPKirby Yatesfrom the 15-day injured list.",
+      "player": "Kirby Yates"
     },
     {
       "date": "2026-05-05",
@@ -51,9 +51,9 @@
     },
     {
       "date": "2026-05-05",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsdesignated RHPChris Paddackfor assignment.",
-      "player": "Chris Paddack"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent LHPCaleb Fergusonon a rehab assignment to Louisville Bats.",
+      "player": "Caleb Ferguson"
     },
     {
       "date": "2026-05-05",
@@ -81,33 +81,87 @@
     },
     {
       "date": "2026-05-05",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsplaced 3BRamón Uríason the 10-day injured list. Right elbow lateral epicondylitis.",
+      "player": "Ramón Urías"
+    },
+    {
+      "date": "2026-05-05",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent 1BPatrick Wisdomon a rehab assignment to Tacoma Rainiers.",
+      "player": "Patrick Wisdom"
+    },
+    {
+      "date": "2026-05-05",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced LHPSteven Matzon the 15-day injured list retroactive to May 4, 2026. Left elbow inflammation.",
+      "player": "Steven Matz"
+    },
+    {
+      "date": "2026-05-05",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent 1BEnrique Hernándezon a rehab assignment to Oklahoma City Comets.",
+      "player": "Enrique Hernández"
+    },
+    {
+      "date": "2026-05-05",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced 2BJosh Smithon the 10-day injured list retroactive to May 4, 2026. Right glute strain.",
+      "player": "Josh Smith"
+    },
+    {
+      "date": "2026-05-05",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent SSHa-Seong Kimon a rehab assignment to Gwinnett Stripers.",
+      "player": "Ha-Seong Kim"
+    },
+    {
+      "date": "2026-05-05",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redssent LHPCaleb Fergusonon a rehab assignment to Louisville Bats.",
       "player": "Caleb Ferguson"
     },
     {
       "date": "2026-05-05",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent RHPGerrit Coleon a rehab assignment to Hudson Valley Renegades.",
-      "player": "Gerrit Cole"
-    },
-    {
-      "date": "2026-05-05",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent LHPDylan Doddon a rehab assignment to Gwinnett Stripers.",
-      "player": "Dylan Dodd"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated 3BZack Shortfor assignment.",
+      "player": "Zack Short"
     },
     {
       "date": "2026-05-05",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPMason Blackto Omaha Storm Chasers.",
-      "player": "Mason Black"
+      "details": "Kansas City Royalsactivated RHPStephen Kolekfrom the 15-day injured list.",
+      "player": "Stephen Kolek"
+    },
+    {
+      "date": "2026-05-05",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned LHPTayler Saucedoto Salt Lake Bees.",
+      "player": "Tayler Saucedo"
+    },
+    {
+      "date": "2026-05-05",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled LFThomas Saggesefrom Memphis Redbirds.",
+      "player": "Thomas Saggese"
     },
     {
       "date": "2026-05-05",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysselected the contract of RHPChase Soleskyfrom Durham Bulls.",
       "player": "Chase Solesky"
+    },
+    {
+      "date": "2026-05-05",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled 1BJustin Foscuefrom Round Rock Express.",
+      "player": "Justin Foscue"
+    },
+    {
+      "date": "2026-05-05",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPMason Blackto Omaha Storm Chasers.",
+      "player": "Mason Black"
     },
     {
       "date": "2026-05-05",
