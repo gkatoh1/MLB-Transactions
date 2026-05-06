@@ -1,11 +1,41 @@
 {
-  "last_updated": "2026-05-06T14:33:22.175268",
+  "last_updated": "2026-05-06T16:48:33.744082",
   "transactions": [
+    {
+      "date": "2026-05-06",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced SSCarlos Correaon the 10-day injured list retroactive to May 5, 2026. Left ankle tendon injury.",
+      "player": "Carlos Correa"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPBrock Stewartfrom the 15-day injured list.",
+      "player": "Brock Stewart"
+    },
     {
       "date": "2026-05-06",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratessent RHPJared Joneson a rehab assignment to Indianapolis Indians.",
       "player": "Jared Jones"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated LFJosé Azocarfor assignment.",
+      "player": "José Azocar"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent RHPCarlos Estévezon a rehab assignment to Omaha Storm Chasers.",
+      "player": "Carlos Estévez"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Colorado Rockies",
+      "details": "RHPErasmo Ramírezroster status changed byColorado Rockies.",
+      "player": "Erasmo Ramírez"
     },
     {
       "date": "2026-05-06",
@@ -15,9 +45,33 @@
     },
     {
       "date": "2026-05-06",
+      "team": "Colorado Rockies",
+      "details": "RHPErasmo Ramírezassigned toColorado Rockies.",
+      "player": "Erasmo Ramírez"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of SSJim Jarvisfrom Gwinnett Stripers.",
+      "player": "Jim Jarvis"
+    },
+    {
+      "date": "2026-05-06",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPElmer Rodríguezto Scranton/Wilkes-Barre RailRiders.",
       "player": "Elmer Rodríguez"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled 3BShay Whitcombfrom Sugar Land Space Cowboys.",
+      "player": "Shay Whitcomb"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned LHPJake Ederto Oklahoma City Comets.",
+      "player": "Jake Eder"
     }
   ]
 }
