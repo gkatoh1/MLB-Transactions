@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-05-06T18:24:04.121576",
+  "last_updated": "2026-05-06T20:40:04.596876",
   "transactions": [
     {
       "date": "2026-05-06",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent RHPCarlos Estévezon a rehab assignment to Omaha Storm Chasers.",
-      "player": "Carlos Estévez"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent RHPJeff Criswellon a rehab assignment to Hartford Yard Goats.",
+      "player": "Jeff Criswell"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated LFJosé Azocarfor assignment.",
+      "player": "José Azocar"
     },
     {
       "date": "2026-05-06",
@@ -15,27 +21,15 @@
     },
     {
       "date": "2026-05-06",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsactivated RHPAlek Manoahfrom the 15-day injured list.",
-      "player": "Alek Manoah"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPPierce Johnsonfrom the bereavement list.",
+      "player": "Pierce Johnson"
     },
     {
       "date": "2026-05-06",
-      "team": "Colorado Rockies",
-      "details": "RHPErasmo Ramírezroster status changed byColorado Rockies.",
-      "player": "Erasmo Ramírez"
-    },
-    {
-      "date": "2026-05-06",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent RHPJared Joneson a rehab assignment to Indianapolis Indians.",
-      "player": "Jared Jones"
-    },
-    {
-      "date": "2026-05-06",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated RHPBrock Stewartfrom the 15-day injured list.",
-      "player": "Brock Stewart"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPBryce Milleron a rehab assignment to Everett AquaSox.",
+      "player": "Bryce Miller"
     },
     {
       "date": "2026-05-06",
@@ -51,45 +45,99 @@
     },
     {
       "date": "2026-05-06",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced SSCarlos Correaon the 10-day injured list retroactive to May 5, 2026. Left ankle tendon injury.",
-      "player": "Carlos Correa"
-    },
-    {
-      "date": "2026-05-06",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redssigned free agent RHPNatali Familiato a minor league contract.",
       "player": "Natali Familia"
     },
     {
       "date": "2026-05-06",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated LFJosé Azocarfor assignment.",
-      "player": "José Azocar"
-    },
-    {
-      "date": "2026-05-06",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPZak Kentfrom Rochester Red Wings.",
-      "player": "Zak Kent"
-    },
-    {
-      "date": "2026-05-06",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPElmer Rodríguezto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Elmer Rodríguez"
-    },
-    {
-      "date": "2026-05-06",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned LHPSam Aldegherito Salt Lake Bees.",
-      "player": "Sam Aldegheri"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPBrock Stewartfrom the 15-day injured list.",
+      "player": "Brock Stewart"
     },
     {
       "date": "2026-05-06",
       "team": "Houston Astros",
-      "details": "Houston Astrosrecalled 3BShay Whitcombfrom Sugar Land Space Cowboys.",
-      "player": "Shay Whitcomb"
+      "details": "Houston Astrosplaced SSCarlos Correaon the 10-day injured list retroactive to May 5, 2026. Left ankle tendon injury.",
+      "player": "Carlos Correa"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPSonny Grayfrom the 15-day injured list.",
+      "player": "Sonny Gray"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced 2BGleyber Torreson the 10-day injured list retroactive to May 4, 2026. Left oblique strain.",
+      "player": "Gleyber Torres"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent RHPJared Joneson a rehab assignment to Indianapolis Indians.",
+      "player": "Jared Jones"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Colorado Rockies",
+      "details": "RHPErasmo Ramírezroster status changed byColorado Rockies.",
+      "player": "Erasmo Ramírez"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated RHPAlek Manoahfrom the 15-day injured list.",
+      "player": "Alek Manoah"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redstransferred LHPBrandon Williamsonfrom the 15-day injured list to the 60-day injured list. Left shoulder fatigue.",
+      "player": "Brandon Williamson"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent RHPCarlos Estévezon a rehab assignment to Omaha Storm Chasers.",
+      "player": "Carlos Estévez"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated LHPChris Murphyfrom the 15-day injured list.",
+      "player": "Chris Murphy"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced RHPEmilio Pagánon the 15-day injured list. Left hamstring strain.",
+      "player": "Emilio Pagán"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated RHPJonathan Cannonfrom the 15-day injured list.",
+      "player": "Jonathan Cannon"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsdesignated RHPChristian Roafor assignment.",
+      "player": "Christian Roa"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPEric Cerantolafrom Omaha Storm Chasers.",
+      "player": "Eric Cerantola"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled LHPDax Fultonfrom Jacksonville Jumbo Shrimp.",
+      "player": "Dax Fulton"
     },
     {
       "date": "2026-05-06",
@@ -99,15 +147,111 @@
     },
     {
       "date": "2026-05-06",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPJonathan Cannonto Charlotte Knights.",
+      "player": "Jonathan Cannon"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPElmer Rodríguezto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Elmer Rodríguez"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPAlec Gamboato Worcester Red Sox.",
+      "player": "Alec Gamboa"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPChris Murphyto Charlotte Knights.",
+      "player": "Chris Murphy"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPZak Kentfrom Rochester Red Wings.",
+      "player": "Zak Kent"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPWilliam Kempnerto Jacksonville Jumbo Shrimp.",
+      "player": "William Kempner"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RHPYoendrys GómeztoMinnesota Twinsfor cash.",
+      "player": "Yoendrys Gómez"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned LHPSam Aldegherito Salt Lake Bees.",
+      "player": "Sam Aldegheri"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Athletics",
+      "details": "Athleticsselected the contract of RHPBrooks Kriskefrom Las Vegas Aviators.",
+      "player": "Brooks Kriske"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPYerry De los Santosfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Yerry De los Santos"
+    },
+    {
+      "date": "2026-05-06",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesselected the contract of SSJim Jarvisfrom Gwinnett Stripers.",
       "player": "Jim Jarvis"
     },
     {
       "date": "2026-05-06",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
+      "player": "Chase Petty"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled 3BShay Whitcombfrom Sugar Land Space Cowboys.",
+      "player": "Shay Whitcomb"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPStephen Kolekto Omaha Storm Chasers.",
+      "player": "Stephen Kolek"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPTyler Fergusonto Las Vegas Aviators.",
+      "player": "Tyler Ferguson"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of RHPTejay Antonefrom Louisville Bats.",
+      "player": "Tejay Antone"
+    },
+    {
+      "date": "2026-05-06",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersoptioned LHPJake Ederto Oklahoma City Comets.",
       "player": "Jake Eder"
+    },
+    {
+      "date": "2026-05-06",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled 3BJace Jungfrom Toledo Mud Hens.",
+      "player": "Jace Jung"
     }
   ]
 }
