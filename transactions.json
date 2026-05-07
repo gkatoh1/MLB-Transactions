@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-05-07T09:40:59.905036",
+  "last_updated": "2026-05-07T11:54:53.326152",
   "transactions": [
-    {
-      "date": "2026-05-07",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPYerry De los Santosto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Yerry De los Santos"
-    },
     {
       "date": "2026-05-07",
       "team": "Houston Astros",
       "details": "Houston Astrosoptioned RHPJason Alexanderto Sugar Land Space Cowboys.",
       "player": "Jason Alexander"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPYerry De los Santosto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Yerry De los Santos"
     }
   ]
 }
