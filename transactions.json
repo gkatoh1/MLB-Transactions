@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-05-07T14:36:29.396517",
+  "last_updated": "2026-05-07T16:58:02.907921",
   "transactions": [
+    {
+      "date": "2026-05-07",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPYimi Garcíaon a rehab assignment to FCL Blue Jays.",
+      "player": "Yimi García"
+    },
     {
       "date": "2026-05-07",
       "team": "Pittsburgh Pirates",
@@ -9,9 +15,51 @@
     },
     {
       "date": "2026-05-07",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPYimi Garcíaon a rehab assignment to FCL Blue Jays.",
-      "player": "Yimi García"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent 2BJackson Hollidayon a rehab assignment to Chesapeake Baysox.",
+      "player": "Jackson Holliday"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated RHPCorbin Martinfor assignment.",
+      "player": "Corbin Martin"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of RHPStephen Jonesfrom Pensacola Blue Wahoos.",
+      "player": "Stephen Jones"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "New York Yankees",
+      "details": "New York Yankeesselected the contract of RHPBrendan Beckfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Brendan Beck"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned 3BGraham Pauleyto Jacksonville Jumbo Shrimp.",
+      "player": "Graham Pauley"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled LFHeriberto Hernándezfrom Jacksonville Jumbo Shrimp.",
+      "player": "Heriberto Hernández"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned LHPDax Fultonto Jacksonville Jumbo Shrimp.",
+      "player": "Dax Fulton"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPGavin Hollowellfrom Iowa Cubs.",
+      "player": "Gavin Hollowell"
     },
     {
       "date": "2026-05-07",
@@ -24,12 +72,6 @@
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPYerry De los Santosto Scranton/Wilkes-Barre RailRiders.",
       "player": "Yerry De los Santos"
-    },
-    {
-      "date": "2026-05-07",
-      "team": "New York Yankees",
-      "details": "New York Yankeesselected the contract of RHPBrendan Beckfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Brendan Beck"
     }
   ]
 }
