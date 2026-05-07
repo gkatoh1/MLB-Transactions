@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-05-07T18:52:15.741077",
+  "last_updated": "2026-05-07T20:19:55.019749",
   "transactions": [
+    {
+      "date": "2026-05-07",
+      "team": "Athletics",
+      "details": "Athleticsdesignated CAustin Wynnsfor assignment.",
+      "player": "Austin Wynns"
+    },
     {
       "date": "2026-05-07",
       "team": "Baltimore Orioles",
@@ -9,9 +15,21 @@
     },
     {
       "date": "2026-05-07",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced RHPChris Devenskion the 15-day injured list. Undisclosed illness.",
+      "player": "Chris Devenski"
+    },
+    {
+      "date": "2026-05-07",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssent RHPYimi Garcíaon a rehab assignment to FCL Blue Jays.",
       "player": "Yimi García"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated RHPCorbin Martinfor assignment.",
+      "player": "Corbin Martin"
     },
     {
       "date": "2026-05-07",
@@ -33,21 +51,51 @@
     },
     {
       "date": "2026-05-07",
-      "team": "Athletics",
-      "details": "Athleticsdesignated CAustin Wynnsfor assignment.",
-      "player": "Austin Wynns"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent 1BTyler Locklearon a rehab assignment to Reno Aces.",
+      "player": "Tyler Locklear"
     },
     {
       "date": "2026-05-07",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced RHPChris Devenskion the 15-day injured list. Undisclosed illness.",
-      "player": "Chris Devenski"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPGrant Holmanto Lehigh Valley IronPigs.",
+      "player": "Grant Holman"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned 3BGraham Pauleyto Jacksonville Jumbo Shrimp.",
+      "player": "Graham Pauley"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled LFHeriberto Hernándezfrom Jacksonville Jumbo Shrimp.",
+      "player": "Heriberto Hernández"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPJason Alexanderto Sugar Land Space Cowboys.",
+      "player": "Jason Alexander"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned LHPDax Fultonto Jacksonville Jumbo Shrimp.",
+      "player": "Dax Fulton"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesclaimed RHPGrant Holmanoff waivers fromDetroit Tigers.",
+      "player": "Grant Holman"
     },
     {
       "date": "2026-05-07",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsdesignated RHPCorbin Martinfor assignment.",
-      "player": "Corbin Martin"
+      "details": "Chicago Cubsrecalled RHPGavin Hollowellfrom Iowa Cubs.",
+      "player": "Gavin Hollowell"
     },
     {
       "date": "2026-05-07",
@@ -58,26 +106,8 @@
     {
       "date": "2026-05-07",
       "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned 3BGraham Pauleyto Jacksonville Jumbo Shrimp.",
-      "player": "Graham Pauley"
-    },
-    {
-      "date": "2026-05-07",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled RHPGavin Hollowellfrom Iowa Cubs.",
-      "player": "Gavin Hollowell"
-    },
-    {
-      "date": "2026-05-07",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPJordan Leasureto Charlotte Knights.",
-      "player": "Jordan Leasure"
-    },
-    {
-      "date": "2026-05-07",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned RHPJason Alexanderto Sugar Land Space Cowboys.",
-      "player": "Jason Alexander"
+      "details": "Miami Marlinsselected the contract of RHPStephen Jonesfrom Jacksonville Jumbo Shrimp.",
+      "player": "Stephen Jones"
     },
     {
       "date": "2026-05-07",
@@ -87,27 +117,15 @@
     },
     {
       "date": "2026-05-07",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPJordan Leasureto Charlotte Knights.",
+      "player": "Jordan Leasure"
+    },
+    {
+      "date": "2026-05-07",
       "team": "New York Yankees",
       "details": "New York Yankeesselected the contract of RHPBrendan Beckfrom Scranton/Wilkes-Barre RailRiders.",
       "player": "Brendan Beck"
-    },
-    {
-      "date": "2026-05-07",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled LFHeriberto Hernándezfrom Jacksonville Jumbo Shrimp.",
-      "player": "Heriberto Hernández"
-    },
-    {
-      "date": "2026-05-07",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned LHPDax Fultonto Jacksonville Jumbo Shrimp.",
-      "player": "Dax Fulton"
-    },
-    {
-      "date": "2026-05-07",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsselected the contract of RHPStephen Jonesfrom Jacksonville Jumbo Shrimp.",
-      "player": "Stephen Jones"
     }
   ]
 }
