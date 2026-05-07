@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-05-07T20:19:55.019749",
+  "last_updated": "2026-05-07T22:08:56.656860",
   "transactions": [
+    {
+      "date": "2026-05-07",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent 1BTyler Locklearon a rehab assignment to Reno Aces.",
+      "player": "Tyler Locklear"
+    },
     {
       "date": "2026-05-07",
       "team": "Athletics",
@@ -9,21 +15,9 @@
     },
     {
       "date": "2026-05-07",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent 2BJackson Hollidayon a rehab assignment to Chesapeake Baysox.",
-      "player": "Jackson Holliday"
-    },
-    {
-      "date": "2026-05-07",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced RHPChris Devenskion the 15-day injured list. Undisclosed illness.",
-      "player": "Chris Devenski"
-    },
-    {
-      "date": "2026-05-07",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPYimi Garcíaon a rehab assignment to FCL Blue Jays.",
-      "player": "Yimi García"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced LFRoman Anthonyon the 10-day injured list retroactive to May 5, 2026. Right wrist sprain.",
+      "player": "Roman Anthony"
     },
     {
       "date": "2026-05-07",
@@ -51,9 +45,33 @@
     },
     {
       "date": "2026-05-07",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent 1BTyler Locklearon a rehab assignment to Reno Aces.",
-      "player": "Tyler Locklear"
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned free agent CFDaniel Johnsonto a minor league contract.",
+      "player": "Daniel Johnson"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent 2BJackson Hollidayon a rehab assignment to Chesapeake Baysox.",
+      "player": "Jackson Holliday"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced RHPChris Devenskion the 15-day injured list. Undisclosed illness.",
+      "player": "Chris Devenski"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPYimi Garcíaon a rehab assignment to FCL Blue Jays.",
+      "player": "Yimi García"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated 3BWill Wagnerfrom the 10-day injured list.",
+      "player": "Will Wagner"
     },
     {
       "date": "2026-05-07",
@@ -63,21 +81,27 @@
     },
     {
       "date": "2026-05-07",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned 3BGraham Pauleyto Jacksonville Jumbo Shrimp.",
-      "player": "Graham Pauley"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPJordan Leasureto Charlotte Knights.",
+      "player": "Jordan Leasure"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "New York Yankees",
+      "details": "New York Yankeesselected the contract of RHPBrendan Beckfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Brendan Beck"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Athletics",
+      "details": "Athleticstraded RHPTyler FergusontoChicago Cubs.",
+      "player": "Tyler Ferguson"
     },
     {
       "date": "2026-05-07",
       "team": "Miami Marlins",
       "details": "Miami Marlinsrecalled LFHeriberto Hernándezfrom Jacksonville Jumbo Shrimp.",
       "player": "Heriberto Hernández"
-    },
-    {
-      "date": "2026-05-07",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned RHPJason Alexanderto Sugar Land Space Cowboys.",
-      "player": "Jason Alexander"
     },
     {
       "date": "2026-05-07",
@@ -93,9 +117,9 @@
     },
     {
       "date": "2026-05-07",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled RHPGavin Hollowellfrom Iowa Cubs.",
-      "player": "Gavin Hollowell"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPYoniel Curetoutright to Toledo Mud Hens.",
+      "player": "Yoniel Curet"
     },
     {
       "date": "2026-05-07",
@@ -105,27 +129,63 @@
     },
     {
       "date": "2026-05-07",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsselected the contract of RHPStephen Jonesfrom Jacksonville Jumbo Shrimp.",
-      "player": "Stephen Jones"
-    },
-    {
-      "date": "2026-05-07",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesrecalled RHPCam Sandersfrom Indianapolis Indians.",
       "player": "Cam Sanders"
     },
     {
       "date": "2026-05-07",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPJordan Leasureto Charlotte Knights.",
-      "player": "Jordan Leasure"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned 3BWill Wagnerto El Paso Chihuahuas.",
+      "player": "Will Wagner"
     },
     {
       "date": "2026-05-07",
-      "team": "New York Yankees",
-      "details": "New York Yankeesselected the contract of RHPBrendan Beckfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Brendan Beck"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled CMickey Gasperfrom Worcester Red Sox.",
+      "player": "Mickey Gasper"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPJason Alexanderto Sugar Land Space Cowboys.",
+      "player": "Jason Alexander"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPGavin Hollowellfrom Iowa Cubs.",
+      "player": "Gavin Hollowell"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned 3BGraham Pauleyto Jacksonville Jumbo Shrimp.",
+      "player": "Graham Pauley"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of RHPStephen Jonesfrom Jacksonville Jumbo Shrimp.",
+      "player": "Stephen Jones"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPTyler Fergusonto Iowa Cubs.",
+      "player": "Tyler Ferguson"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RHPCarlos Carrascooutright to Gwinnett Stripers.",
+      "player": "Carlos Carrasco"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent 3BZack Shortoutright to Toledo Mud Hens.",
+      "player": "Zack Short"
     }
   ]
 }
