@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-05-07T11:54:53.326152",
+  "last_updated": "2026-05-07T14:36:29.396517",
   "transactions": [
+    {
+      "date": "2026-05-07",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RHPChris Devenski.",
+      "player": "Chris Devenski"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPYimi Garcíaon a rehab assignment to FCL Blue Jays.",
+      "player": "Yimi García"
+    },
     {
       "date": "2026-05-07",
       "team": "Houston Astros",
@@ -12,6 +24,12 @@
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPYerry De los Santosto Scranton/Wilkes-Barre RailRiders.",
       "player": "Yerry De los Santos"
+    },
+    {
+      "date": "2026-05-07",
+      "team": "New York Yankees",
+      "details": "New York Yankeesselected the contract of RHPBrendan Beckfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Brendan Beck"
     }
   ]
 }
