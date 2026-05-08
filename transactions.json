@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-05-08T14:57:52.321941",
+  "last_updated": "2026-05-08T16:23:20.432911",
   "transactions": [
+    {
+      "date": "2026-05-08",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent RHPCarlos Carrascoto a minor league contract.",
+      "player": "Carlos Carrasco"
+    },
     {
       "date": "2026-05-08",
       "team": "New York Yankees",
@@ -9,9 +15,9 @@
     },
     {
       "date": "2026-05-08",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPBrendan Beckto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Brendan Beck"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsdesignated RHPStephen Jonesfor assignment.",
+      "player": "Stephen Jones"
     },
     {
       "date": "2026-05-08",
@@ -21,15 +27,27 @@
     },
     {
       "date": "2026-05-08",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of LHPRobby Snellingfrom Jacksonville Jumbo Shrimp.",
+      "player": "Robby Snelling"
+    },
+    {
+      "date": "2026-05-08",
       "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPKervin Castrofrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Kervin Castro"
+      "details": "New York Yankeesoptioned RHPBrendan Beckto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Brendan Beck"
     },
     {
       "date": "2026-05-08",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsoptioned RHPJohn Kleinto St. Paul Saints.",
       "player": "John Klein"
+    },
+    {
+      "date": "2026-05-08",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPKervin Castrofrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Kervin Castro"
     }
   ]
 }
