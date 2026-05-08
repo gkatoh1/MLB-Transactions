@@ -1,17 +1,11 @@
 {
-  "last_updated": "2026-05-08T16:23:20.432911",
+  "last_updated": "2026-05-08T18:15:27.194229",
   "transactions": [
     {
       "date": "2026-05-08",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned free agent RHPCarlos Carrascoto a minor league contract.",
-      "player": "Carlos Carrasco"
-    },
-    {
-      "date": "2026-05-08",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced LFJasson Domínguezon the 10-day injured list. Left shoulder AC joint sprain.",
-      "player": "Jasson Domínguez"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPYoendrys Gómez.",
+      "player": "Yoendrys Gómez"
     },
     {
       "date": "2026-05-08",
@@ -21,15 +15,27 @@
     },
     {
       "date": "2026-05-08",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled CFSpencer Jonesfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Spencer Jones"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RHPOsvaldo Bidofor assignment.",
+      "player": "Osvaldo Bido"
     },
     {
       "date": "2026-05-08",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsselected the contract of LHPRobby Snellingfrom Jacksonville Jumbo Shrimp.",
-      "player": "Robby Snelling"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent RHPCarlos Carrascoto a minor league contract.",
+      "player": "Carlos Carrasco"
+    },
+    {
+      "date": "2026-05-08",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated LHPNick Lodolofrom the 15-day injured list.",
+      "player": "Nick Lodolo"
+    },
+    {
+      "date": "2026-05-08",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced LFJasson Domínguezon the 10-day injured list. Left shoulder AC joint sprain.",
+      "player": "Jasson Domínguez"
     },
     {
       "date": "2026-05-08",
@@ -39,15 +45,45 @@
     },
     {
       "date": "2026-05-08",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPJohn Kleinto St. Paul Saints.",
-      "player": "John Klein"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent CFDylan Mooreoutright to Lehigh Valley IronPigs.",
+      "player": "Dylan Moore"
     },
     {
       "date": "2026-05-08",
       "team": "New York Yankees",
       "details": "New York Yankeesrecalled RHPKervin Castrofrom Scranton/Wilkes-Barre RailRiders.",
       "player": "Kervin Castro"
+    },
+    {
+      "date": "2026-05-08",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPTyler Schweitzerfrom Charlotte Knights.",
+      "player": "Tyler Schweitzer"
+    },
+    {
+      "date": "2026-05-08",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPJohn Kleinto St. Paul Saints.",
+      "player": "John Klein"
+    },
+    {
+      "date": "2026-05-08",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of LHPRobby Snellingfrom Jacksonville Jumbo Shrimp.",
+      "player": "Robby Snelling"
+    },
+    {
+      "date": "2026-05-08",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPJose Francoto Louisville Bats.",
+      "player": "Jose Franco"
+    },
+    {
+      "date": "2026-05-08",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled CFSpencer Jonesfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Spencer Jones"
     }
   ]
 }
