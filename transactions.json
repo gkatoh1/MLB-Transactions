@@ -1,17 +1,35 @@
 {
-  "last_updated": "2026-05-08T12:14:09.200981",
+  "last_updated": "2026-05-08T14:57:52.321941",
   "transactions": [
     {
       "date": "2026-05-08",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPJohn Kleinto St. Paul Saints.",
-      "player": "John Klein"
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced LFJasson Domínguezon the 10-day injured list. Left shoulder AC joint sprain.",
+      "player": "Jasson Domínguez"
     },
     {
       "date": "2026-05-08",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPBrendan Beckto Scranton/Wilkes-Barre RailRiders.",
       "player": "Brendan Beck"
+    },
+    {
+      "date": "2026-05-08",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled CFSpencer Jonesfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Spencer Jones"
+    },
+    {
+      "date": "2026-05-08",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPKervin Castrofrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Kervin Castro"
+    },
+    {
+      "date": "2026-05-08",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPJohn Kleinto St. Paul Saints.",
+      "player": "John Klein"
     }
   ]
 }
