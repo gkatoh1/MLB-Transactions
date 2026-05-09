@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-05-09T16:03:19.134140",
+  "last_updated": "2026-05-09T17:55:16.807536",
   "transactions": [
-    {
-      "date": "2026-05-09",
-      "team": "New York Mets",
-      "details": "New York Metssigned free agent RHPXzavion Curryto a minor league contract.",
-      "player": "Xzavion Curry"
-    },
     {
       "date": "2026-05-09",
       "team": "Toronto Blue Jays",
@@ -15,15 +9,45 @@
     },
     {
       "date": "2026-05-09",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LFYohendrick Piñangoto Buffalo Bisons.",
-      "player": "Yohendrick Piñango"
+      "team": "Houston Astros",
+      "details": "Houston Astrostransferred RHPHunter Brownfrom the 15-day injured list to the 60-day injured list. Right shoulder strain.",
+      "player": "Hunter Brown"
     },
     {
       "date": "2026-05-09",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantstraded CPatrick BaileytoCleveland Guardiansfor LHP Matt Wilkinson and Other Considerations.",
-      "player": "Patrick Bailey"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated RFJustyn-Henry Malloyfor assignment.",
+      "player": "Justyn-Henry Malloy"
+    },
+    {
+      "date": "2026-05-09",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPJustin Slatenfrom the 15-day injured list.",
+      "player": "Justin Slaten"
+    },
+    {
+      "date": "2026-05-09",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent RHPXzavion Curryto a minor league contract.",
+      "player": "Xzavion Curry"
+    },
+    {
+      "date": "2026-05-09",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent RHPBrady Millerto a minor league contract.",
+      "player": "Brady Miller"
+    },
+    {
+      "date": "2026-05-09",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPTaj Bradleyon the 15-day injured list retroactive to May 6, 2026. Right pectoralis muscle inflammation.",
+      "player": "Taj Bradley"
+    },
+    {
+      "date": "2026-05-09",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced LHPBennett Sousaon the 15-day injured list retroactive to May 6, 2026. Left elbow inflammation.",
+      "player": "Bennett Sousa"
     },
     {
       "date": "2026-05-09",
@@ -33,9 +57,63 @@
     },
     {
       "date": "2026-05-09",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysselected the contract of RHPAaron Brooksfrom Durham Bulls.",
+      "player": "Aaron Brooks"
+    },
+    {
+      "date": "2026-05-09",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPJack Andersonto Worcester Red Sox.",
+      "player": "Jack Anderson"
+    },
+    {
+      "date": "2026-05-09",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPTravis Adamsfrom St. Paul Saints.",
+      "player": "Travis Adams"
+    },
+    {
+      "date": "2026-05-09",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansoptioned CBo Naylorto Columbus Clippers.",
       "player": "Bo Naylor"
+    },
+    {
+      "date": "2026-05-09",
+      "team": "Houston Astros",
+      "details": "Houston Astrosclaimed LFRhylan Thomasoff waivers fromSeattle Mariners.",
+      "player": "Rhylan Thomas"
+    },
+    {
+      "date": "2026-05-09",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPMason Englertto Durham Bulls.",
+      "player": "Mason Englert"
+    },
+    {
+      "date": "2026-05-09",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFYohendrick Piñangoto Buffalo Bisons.",
+      "player": "Yohendrick Piñango"
+    },
+    {
+      "date": "2026-05-09",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPJayden Murrayfrom Sugar Land Space Cowboys.",
+      "player": "Jayden Murray"
+    },
+    {
+      "date": "2026-05-09",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LFRhylan Thomasto Sugar Land Space Cowboys.",
+      "player": "Rhylan Thomas"
+    },
+    {
+      "date": "2026-05-09",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstraded CPatrick BaileytoCleveland Guardiansfor LHP Matt Wilkinson and Other Considerations.",
+      "player": "Patrick Bailey"
     }
   ]
 }
