@@ -1,4 +1,41 @@
 {
-  "last_updated": "2026-05-09T15:00:08.756195",
-  "transactions": []
+  "last_updated": "2026-05-09T16:03:19.134140",
+  "transactions": [
+    {
+      "date": "2026-05-09",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent RHPXzavion Curryto a minor league contract.",
+      "player": "Xzavion Curry"
+    },
+    {
+      "date": "2026-05-09",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RFAddison Bargerfrom the 10-day injured list.",
+      "player": "Addison Barger"
+    },
+    {
+      "date": "2026-05-09",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFYohendrick Piñangoto Buffalo Bisons.",
+      "player": "Yohendrick Piñango"
+    },
+    {
+      "date": "2026-05-09",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstraded CPatrick BaileytoCleveland Guardiansfor LHP Matt Wilkinson and Other Considerations.",
+      "player": "Patrick Bailey"
+    },
+    {
+      "date": "2026-05-09",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstraded C Patrick Bailey toCleveland Guardiansfor LHPMatt Wilkinsonand Other Considerations.",
+      "player": "Matt Wilkinson"
+    },
+    {
+      "date": "2026-05-09",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned CBo Naylorto Columbus Clippers.",
+      "player": "Bo Naylor"
+    }
+  ]
 }
