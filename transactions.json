@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-05-10T15:00:36.431932",
+  "last_updated": "2026-05-10T17:03:15.408094",
   "transactions": [
-    {
-      "date": "2026-05-10",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated LHPCarlos Rodónfrom the 15-day injured list.",
-      "player": "Carlos Rodón"
-    },
     {
       "date": "2026-05-10",
       "team": "Baltimore Orioles",
@@ -15,9 +9,15 @@
     },
     {
       "date": "2026-05-10",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Norfolk Tides.",
-      "player": "Jose Espada"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPGrayson Rodriguezon a rehab assignment to Rancho Cucamonga Quakes.",
+      "player": "Grayson Rodriguez"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated LHPCarlos Rodónfrom the 15-day injured list.",
+      "player": "Carlos Rodón"
     },
     {
       "date": "2026-05-10",
@@ -27,15 +27,21 @@
     },
     {
       "date": "2026-05-10",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled LHPKendry Rojasfrom St. Paul Saints.",
+      "player": "Kendry Rojas"
+    },
+    {
+      "date": "2026-05-10",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPKervin Castroto Scranton/Wilkes-Barre RailRiders.",
       "player": "Kervin Castro"
     },
     {
       "date": "2026-05-10",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled LHPKendry Rojasfrom St. Paul Saints.",
-      "player": "Kendry Rojas"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Norfolk Tides.",
+      "player": "Jose Espada"
     }
   ]
 }
