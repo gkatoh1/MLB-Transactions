@@ -1,4 +1,41 @@
 {
-  "last_updated": "2026-05-10T13:45:35.519633",
-  "transactions": []
+  "last_updated": "2026-05-10T15:00:36.431932",
+  "transactions": [
+    {
+      "date": "2026-05-10",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated LHPCarlos Rodónfrom the 15-day injured list.",
+      "player": "Carlos Rodón"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPLou Trivinofor assignment.",
+      "player": "Lou Trivino"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Norfolk Tides.",
+      "player": "Jose Espada"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned LHPKody Funderburkto St. Paul Saints.",
+      "player": "Kody Funderburk"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPKervin Castroto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Kervin Castro"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled LHPKendry Rojasfrom St. Paul Saints.",
+      "player": "Kendry Rojas"
+    }
+  ]
 }
