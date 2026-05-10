@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-05-10T17:03:15.408094",
+  "last_updated": "2026-05-10T19:15:12.229592",
   "transactions": [
+    {
+      "date": "2026-05-10",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated LHPCarlos Rodónfrom the 15-day injured list.",
+      "player": "Carlos Rodón"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent RHPJason Foleyon a rehab assignment to San Jose Giants.",
+      "player": "Jason Foley"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated LHPSam Hentgesfrom the 15-day injured list.",
+      "player": "Sam Hentges"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent LHPErik Milleron a rehab assignment to Sacramento River Cats.",
+      "player": "Erik Miller"
+    },
     {
       "date": "2026-05-10",
       "team": "Baltimore Orioles",
@@ -15,15 +39,21 @@
     },
     {
       "date": "2026-05-10",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated LHPCarlos Rodónfrom the 15-day injured list.",
-      "player": "Carlos Rodón"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Norfolk Tides.",
+      "player": "Jose Espada"
     },
     {
       "date": "2026-05-10",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned LHPKody Funderburkto St. Paul Saints.",
-      "player": "Kody Funderburk"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed RHPChristian Roaoff waivers fromMinnesota Twins.",
+      "player": "Christian Roa"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPRyan Walkerto Sacramento River Cats.",
+      "player": "Ryan Walker"
     },
     {
       "date": "2026-05-10",
@@ -39,9 +69,39 @@
     },
     {
       "date": "2026-05-10",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned LHPKody Funderburkto St. Paul Saints.",
+      "player": "Kody Funderburk"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPGregory Santosto Sacramento River Cats.",
+      "player": "Gregory Santos"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesclaimed RHPJackson Rutledgeoff waivers fromWashington Nationals.",
+      "player": "Jackson Rutledge"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPJackson Rutledgeto Lehigh Valley IronPigs.",
+      "player": "Jackson Rutledge"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPDylan Smithfrom Sacramento River Cats.",
+      "player": "Dylan Smith"
+    },
+    {
+      "date": "2026-05-10",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Norfolk Tides.",
-      "player": "Jose Espada"
+      "details": "Baltimore Oriolesoptioned RHPChristian Roato Norfolk Tides.",
+      "player": "Christian Roa"
     }
   ]
 }
