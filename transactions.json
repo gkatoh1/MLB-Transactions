@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-05-11T21:23:09.350341",
+  "last_updated": "2026-05-11T23:02:07.727453",
   "transactions": [
-    {
-      "date": "2026-05-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced CFEli Whiteon the 7-day injured list. Concussion.",
-      "player": "Eli White"
-    },
     {
       "date": "2026-05-11",
       "team": "Toronto Blue Jays",
@@ -27,27 +21,39 @@
     },
     {
       "date": "2026-05-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned free agent LFJosé Azocarto a minor league contract.",
-      "player": "José Azocar"
-    },
-    {
-      "date": "2026-05-11",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersplaced LHPJosé A. Ferreron the paternity list.",
       "player": "José A. Ferrer"
     },
     {
       "date": "2026-05-11",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled LFYohendrick Piñangofrom Buffalo Bisons.",
-      "player": "Yohendrick Piñango"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated SSMookie Bettsfrom the 10-day injured list.",
+      "player": "Mookie Betts"
     },
     {
       "date": "2026-05-11",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent RFJustyn-Henry Malloyoutright to Durham Bulls.",
-      "player": "Justyn-Henry Malloy"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent LFJosé Azocarto a minor league contract.",
+      "player": "José Azocar"
+    },
+    {
+      "date": "2026-05-11",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced CFEli Whiteon the 7-day injured list. Concussion.",
+      "player": "Eli White"
+    },
+    {
+      "date": "2026-05-11",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of LHPJosh Walkerfrom Norfolk Tides.",
+      "player": "Josh Walker"
+    },
+    {
+      "date": "2026-05-11",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPTrey Gibsonto Norfolk Tides.",
+      "player": "Trey Gibson"
     },
     {
       "date": "2026-05-11",
@@ -57,9 +63,45 @@
     },
     {
       "date": "2026-05-11",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RFJustyn-Henry Malloyoutright to Durham Bulls.",
+      "player": "Justyn-Henry Malloy"
+    },
+    {
+      "date": "2026-05-11",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPTristan Beckfrom Sacramento River Cats.",
+      "player": "Tristan Beck"
+    },
+    {
+      "date": "2026-05-11",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned 2BAlex Freelandto Oklahoma City Comets.",
+      "player": "Alex Freeland"
+    },
+    {
+      "date": "2026-05-11",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LFYohendrick Piñangofrom Buffalo Bisons.",
+      "player": "Yohendrick Piñango"
+    },
+    {
+      "date": "2026-05-11",
+      "team": "San Francisco Giants",
+      "details": "RHPDylan Smithassigned to Sacramento River Cats fromSan Francisco Giants.",
+      "player": "Dylan Smith"
+    },
+    {
+      "date": "2026-05-11",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersrecalled RHPDomingo Gonzalezfrom Tacoma Rainiers.",
       "player": "Domingo Gonzalez"
+    },
+    {
+      "date": "2026-05-11",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned CLogan Porterto Sacramento River Cats.",
+      "player": "Logan Porter"
     }
   ]
 }
