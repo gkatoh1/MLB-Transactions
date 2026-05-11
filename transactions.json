@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-05-10T22:59:12.958594",
+  "last_updated": "2026-05-11T00:02:39.281902",
   "transactions": [
     {
       "date": "2026-05-10",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantssent LHPErik Milleron a rehab assignment to Sacramento River Cats.",
       "player": "Erik Miller"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsreleased RHPChris Paddack.",
+      "player": "Chris Paddack"
     },
     {
       "date": "2026-05-10",
@@ -45,21 +51,15 @@
     },
     {
       "date": "2026-05-10",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerstransferred RHPJustin Verlanderfrom the 15-day injured list to the 60-day injured list. Left hip inflammation.",
-      "player": "Justin Verlander"
-    },
-    {
-      "date": "2026-05-10",
       "team": "New York Yankees",
       "details": "New York Yankeessent RHPGerrit Coleon a rehab assignment to Somerset Patriots.",
       "player": "Gerrit Cole"
     },
     {
       "date": "2026-05-10",
-      "team": "New York Mets",
-      "details": "New York Metsactivated RHPJoey Gerberfrom the 15-day injured list.",
-      "player": "Joey Gerber"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerstransferred RHPEdwin Díazfrom the 15-day injured list to the 60-day injured list. Right elbow loose bodies.",
+      "player": "Edwin Díaz"
     },
     {
       "date": "2026-05-10",
@@ -70,32 +70,26 @@
     {
       "date": "2026-05-10",
       "team": "Detroit Tigers",
+      "details": "Detroit Tigerstransferred RHPJustin Verlanderfrom the 15-day injured list to the 60-day injured list. Left hip inflammation.",
+      "player": "Justin Verlander"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "Detroit Tigers",
       "details": "Detroit Tigersplaced RFKerry Carpenteron the 10-day injured list. Left AC Joint Sprain.",
       "player": "Kerry Carpenter"
     },
     {
       "date": "2026-05-10",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerstransferred RHPEdwin Díazfrom the 15-day injured list to the 60-day injured list. Right elbow loose bodies.",
-      "player": "Edwin Díaz"
-    },
-    {
-      "date": "2026-05-10",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled LHPKendry Rojasfrom St. Paul Saints.",
-      "player": "Kendry Rojas"
-    },
-    {
-      "date": "2026-05-10",
       "team": "New York Mets",
-      "details": "New York Metssent 1BEric Wagamanoutright to Syracuse Mets.",
-      "player": "Eric Wagaman"
+      "details": "New York Metsactivated RHPJoey Gerberfrom the 15-day injured list.",
+      "player": "Joey Gerber"
     },
     {
       "date": "2026-05-10",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPJackson Rutledgeto Lehigh Valley IronPigs.",
-      "player": "Jackson Rutledge"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPGregory Santosto Sacramento River Cats.",
+      "player": "Gregory Santos"
     },
     {
       "date": "2026-05-10",
@@ -105,57 +99,27 @@
     },
     {
       "date": "2026-05-10",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Norfolk Tides.",
-      "player": "Jose Espada"
-    },
-    {
-      "date": "2026-05-10",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPChristian Roato Norfolk Tides.",
-      "player": "Christian Roa"
-    },
-    {
-      "date": "2026-05-10",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersselected the contract of 3BGage Workmanfrom Toledo Mud Hens.",
       "player": "Gage Workman"
     },
     {
       "date": "2026-05-10",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPJose Espadafrom Norfolk Tides.",
+      "player": "Jose Espada"
+    },
+    {
+      "date": "2026-05-10",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesclaimed RHPJackson Rutledgeoff waivers fromWashington Nationals.",
+      "details": "Philadelphia Philliesoptioned RHPJackson Rutledgeto Lehigh Valley IronPigs.",
       "player": "Jackson Rutledge"
     },
     {
       "date": "2026-05-10",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssent RFJerar Encarnacionoutright to Sacramento River Cats.",
-      "player": "Jerar Encarnacion"
-    },
-    {
-      "date": "2026-05-10",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersselected the contract of RHPWyatt Millsfrom Oklahoma City Comets.",
-      "player": "Wyatt Mills"
-    },
-    {
-      "date": "2026-05-10",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPKervin Castroto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Kervin Castro"
-    },
-    {
-      "date": "2026-05-10",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPJoey Gerberto Syracuse Mets.",
-      "player": "Joey Gerber"
-    },
-    {
-      "date": "2026-05-10",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned LHPKody Funderburkto St. Paul Saints.",
-      "player": "Kody Funderburk"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent RHPStephen Jonesoutright to Jacksonville Jumbo Shrimp.",
+      "player": "Stephen Jones"
     },
     {
       "date": "2026-05-10",
@@ -165,21 +129,75 @@
     },
     {
       "date": "2026-05-10",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPChristian Roato Norfolk Tides.",
+      "player": "Christian Roa"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJoey Gerberto Syracuse Mets.",
+      "player": "Joey Gerber"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPCorbin Martinoutright to Iowa Cubs.",
+      "player": "Corbin Martin"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "New York Mets",
+      "details": "New York Metssent 1BEric Wagamanoutright to Syracuse Mets.",
+      "player": "Eric Wagaman"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent RFJerar Encarnacionoutright to Sacramento River Cats.",
+      "player": "Jerar Encarnacion"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesclaimed RHPJackson Rutledgeoff waivers fromWashington Nationals.",
+      "player": "Jackson Rutledge"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersselected the contract of RHPWyatt Millsfrom Oklahoma City Comets.",
+      "player": "Wyatt Mills"
+    },
+    {
+      "date": "2026-05-10",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersoptioned RHPPaul Gervaseto Oklahoma City Comets.",
       "player": "Paul Gervase"
     },
     {
       "date": "2026-05-10",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesclaimed RHPChristian Roaoff waivers fromMinnesota Twins.",
-      "player": "Christian Roa"
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPKervin Castroto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Kervin Castro"
     },
     {
       "date": "2026-05-10",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned RHPGregory Santosto Sacramento River Cats.",
-      "player": "Gregory Santos"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned LHPKody Funderburkto St. Paul Saints.",
+      "player": "Kody Funderburk"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled LHPKendry Rojasfrom St. Paul Saints.",
+      "player": "Kendry Rojas"
+    },
+    {
+      "date": "2026-05-10",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed RHPChristian Roaoff waivers fromMinnesota Twins.",
+      "player": "Christian Roa"
     }
   ]
 }
