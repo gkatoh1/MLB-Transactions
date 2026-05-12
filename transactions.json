@@ -1,4 +1,23 @@
 {
-  "last_updated": "2026-05-12T12:02:20.011298",
-  "transactions": []
+  "last_updated": "2026-05-12T15:42:34.712594",
+  "transactions": [
+    {
+      "date": "2026-05-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent LHPJulio Robainato a minor league contract.",
+      "player": "Julio Robaina"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent LHPJack Walkerto a minor league contract.",
+      "player": "Jack Walker"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned CFAlek Thomasto ACL Dodgers.",
+      "player": "Alek Thomas"
+    }
+  ]
 }
