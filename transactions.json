@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-05-12T15:42:34.712594",
+  "last_updated": "2026-05-12T18:06:20.058638",
   "transactions": [
+    {
+      "date": "2026-05-12",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent RHPJason Foleyon a rehab assignment to Sacramento River Cats.",
+      "player": "Jason Foley"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated 2BAndy Ibáñezfor assignment.",
+      "player": "Andy Ibáñez"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated LHPTrevor Rogersfrom the 15-day injured list.",
+      "player": "Trevor Rogers"
+    },
     {
       "date": "2026-05-12",
       "team": "Atlanta Braves",
@@ -15,9 +33,81 @@
     },
     {
       "date": "2026-05-12",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent 2BQuinn McDanielto a minor league contract.",
+      "player": "Quinn McDaniel"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced CSean Murphyon the 10-day injured list retroactive to May 11, 2026. Fractured left middle finger.",
+      "player": "Sean Murphy"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent 2BNick Rosellito a minor league contract.",
+      "player": "Nick Roselli"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent RHPChris Martinon a rehab assignment to Round Rock Express.",
+      "player": "Chris Martin"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated CFMichael Sianifor assignment.",
+      "player": "Michael Siani"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent CSandy León.",
+      "player": "Sandy León"
+    },
+    {
+      "date": "2026-05-12",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersoptioned CFAlek Thomasto ACL Dodgers.",
       "player": "Alek Thomas"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of LFJosé Azocarfrom Gwinnett Stripers.",
+      "player": "José Azocar"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of LFA.J. Ewingfrom Syracuse Mets.",
+      "player": "A.J. Ewing"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned SSJim Jarvisto Gwinnett Stripers.",
+      "player": "Jim Jarvis"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerstraded OFJose RequenatoArizona Diamondbacksfor CF Alek Thomas.",
+      "player": "Jose Requena"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerstraded OF Jose Requena toArizona Diamondbacksfor CFAlek Thomas.",
+      "player": "Alek Thomas"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPJose Espadato Norfolk Tides.",
+      "player": "Jose Espada"
     }
   ]
 }
