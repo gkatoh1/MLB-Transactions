@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-05-12T20:43:50.463254",
+  "last_updated": "2026-05-12T22:17:30.892652",
   "transactions": [
-    {
-      "date": "2026-05-12",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent RHPShawn Armstrongon a rehab assignment to Akron RubberDucks.",
-      "player": "Shawn Armstrong"
-    },
     {
       "date": "2026-05-12",
       "team": "Minnesota Twins",
@@ -27,75 +21,21 @@
     },
     {
       "date": "2026-05-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPBeau Brieskeon a rehab assignment to Toledo Mud Hens.",
+      "player": "Beau Brieske"
+    },
+    {
+      "date": "2026-05-12",
       "team": "Texas Rangers",
       "details": "Texas Rangerssent RHPChris Martinon a rehab assignment to Round Rock Express.",
       "player": "Chris Martin"
     },
     {
       "date": "2026-05-12",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssent RHPJason Foleyon a rehab assignment to Sacramento River Cats.",
-      "player": "Jason Foley"
-    },
-    {
-      "date": "2026-05-12",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent SSJeremy Peñaon a rehab assignment to Corpus Christi Hooks.",
-      "player": "Jeremy Peña"
-    },
-    {
-      "date": "2026-05-12",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent LHPJosh Haderon a rehab assignment to Corpus Christi Hooks.",
-      "player": "Josh Hader"
-    },
-    {
-      "date": "2026-05-12",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced SSJosé Caballeroon the 10-day injured list. Right middle finger fracture.",
-      "player": "José Caballero"
-    },
-    {
-      "date": "2026-05-12",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssigned free agent LHPJack Walkerto a minor league contract.",
-      "player": "Jack Walker"
-    },
-    {
-      "date": "2026-05-12",
-      "team": "Athletics",
-      "details": "Athleticsreleased CAustin Wynns.",
-      "player": "Austin Wynns"
-    },
-    {
-      "date": "2026-05-12",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated LFChristian Yelichfrom the 10-day injured list.",
-      "player": "Christian Yelich"
-    },
-    {
-      "date": "2026-05-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned free agent CSandy León.",
-      "player": "Sandy León"
-    },
-    {
-      "date": "2026-05-12",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated 2BAndy Ibáñezfor assignment.",
-      "player": "Andy Ibáñez"
-    },
-    {
-      "date": "2026-05-12",
-      "team": "Athletics",
-      "details": "Athleticsdesignated RHPEduarniel Núñezfor assignment.",
-      "player": "Eduarniel Núñez"
-    },
-    {
-      "date": "2026-05-12",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated LHPTrevor Rogersfrom the 15-day injured list.",
-      "player": "Trevor Rogers"
+      "team": "Unknown Team",
+      "details": "RHPLou Trivinoelected free agency.",
+      "player": "Lou Trivino"
     },
     {
       "date": "2026-05-12",
@@ -111,15 +51,135 @@
     },
     {
       "date": "2026-05-12",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned free agent LHPJulio Robainato a minor league contract.",
-      "player": "Julio Robaina"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated LHPTrevor Rogersfrom the 15-day injured list.",
+      "player": "Trevor Rogers"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPShawn Armstrongon a rehab assignment to Akron RubberDucks.",
+      "player": "Shawn Armstrong"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent LHPJack Walkerto a minor league contract.",
+      "player": "Jack Walker"
     },
     {
       "date": "2026-05-12",
       "team": "Houston Astros",
       "details": "Houston Astrossent CFJake Meyerson a rehab assignment to Corpus Christi Hooks.",
       "player": "Jake Meyers"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated LFChristian Yelichfrom the 10-day injured list.",
+      "player": "Christian Yelich"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent RHPJared Joneson a rehab assignment to Altoona Curve.",
+      "player": "Jared Jones"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent 2BJackson Hollidayon a rehab assignment to Norfolk Tides.",
+      "player": "Jackson Holliday"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent LHPJulio Robainato a minor league contract.",
+      "player": "Julio Robaina"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent CKyle Teelon a rehab assignment to Charlotte Knights.",
+      "player": "Kyle Teel"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent RHPJason Foleyon a rehab assignment to Sacramento River Cats.",
+      "player": "Jason Foley"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned LFDylan Carlson.",
+      "player": "Dylan Carlson"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated 2BAndy Ibáñezfor assignment.",
+      "player": "Andy Ibáñez"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Athletics",
+      "details": "Athleticsdesignated RHPEduarniel Núñezfor assignment.",
+      "player": "Eduarniel Núñez"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent RHPMax Lazaron a rehab assignment to Lehigh Valley IronPigs.",
+      "player": "Max Lazar"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent SSJeremy Peñaon a rehab assignment to Corpus Christi Hooks.",
+      "player": "Jeremy Peña"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LFHeston Kjerstadon a rehab assignment to Norfolk Tides.",
+      "player": "Heston Kjerstad"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent LHPJosh Haderon a rehab assignment to Corpus Christi Hooks.",
+      "player": "Josh Hader"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned LFDustin Harris.",
+      "player": "Dustin Harris"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent CLogan O'Hoppeon a rehab assignment to Salt Lake Bees.",
+      "player": "Logan O'Hoppe"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced SSJosé Caballeroon the 10-day injured list. Right middle finger fracture.",
+      "player": "José Caballero"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Athletics",
+      "details": "Athleticsreleased CAustin Wynns.",
+      "player": "Austin Wynns"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPConnor Seaboldon a rehab assignment to Toledo Mud Hens.",
+      "player": "Connor Seabold"
     },
     {
       "date": "2026-05-12",
@@ -130,8 +190,8 @@
     {
       "date": "2026-05-12",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of LFJosé Azocarfrom Gwinnett Stripers.",
-      "player": "José Azocar"
+      "details": "Atlanta Bravessigned free agent CSandy León.",
+      "player": "Sandy León"
     },
     {
       "date": "2026-05-12",
@@ -141,45 +201,15 @@
     },
     {
       "date": "2026-05-12",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of LFA.J. Ewingfrom Syracuse Mets.",
-      "player": "A.J. Ewing"
-    },
-    {
-      "date": "2026-05-12",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned SSJim Jarvisto Gwinnett Stripers.",
-      "player": "Jim Jarvis"
-    },
-    {
-      "date": "2026-05-12",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned DHTyler Blackto Nashville Sounds.",
-      "player": "Tyler Black"
-    },
-    {
-      "date": "2026-05-12",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned RHPLogan VanWeyto Sugar Land Space Cowboys.",
-      "player": "Logan VanWey"
-    },
-    {
-      "date": "2026-05-12",
-      "team": "Athletics",
-      "details": "Athleticsselected the contract of RFHenry Boltefrom Las Vegas Aviators.",
-      "player": "Henry Bolte"
+      "details": "Atlanta Bravesselected the contract of LFJosé Azocarfrom Gwinnett Stripers.",
+      "player": "José Azocar"
     },
     {
       "date": "2026-05-12",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersoptioned CFAlek Thomasto ACL Dodgers.",
       "player": "Alek Thomas"
-    },
-    {
-      "date": "2026-05-12",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPTanner Gordonto Albuquerque Isotopes.",
-      "player": "Tanner Gordon"
     },
     {
       "date": "2026-05-12",
@@ -201,15 +231,57 @@
     },
     {
       "date": "2026-05-12",
-      "team": "Athletics",
-      "details": "Athleticsselected the contract of 2BMichael Stefanicfrom Las Vegas Aviators.",
-      "player": "Michael Stefanic"
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of LFA.J. Ewingfrom Syracuse Mets.",
+      "player": "A.J. Ewing"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned SSJim Jarvisto Gwinnett Stripers.",
+      "player": "Jim Jarvis"
     },
     {
       "date": "2026-05-12",
       "team": "Athletics",
       "details": "Athleticsoptioned 3BBrett Harristo Las Vegas Aviators.",
       "player": "Brett Harris"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Athletics",
+      "details": "Athleticsselected the contract of 2BMichael Stefanicfrom Las Vegas Aviators.",
+      "player": "Michael Stefanic"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPLogan VanWeyto Sugar Land Space Cowboys.",
+      "player": "Logan VanWey"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPTanner Gordonto Albuquerque Isotopes.",
+      "player": "Tanner Gordon"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Athletics",
+      "details": "Athleticsselected the contract of RFHenry Boltefrom Las Vegas Aviators.",
+      "player": "Henry Bolte"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPTyler Wellsfrom Norfolk Tides.",
+      "player": "Tyler Wells"
+    },
+    {
+      "date": "2026-05-12",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned DHTyler Blackto Nashville Sounds.",
+      "player": "Tyler Black"
     }
   ]
 }
