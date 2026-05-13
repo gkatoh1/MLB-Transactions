@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-05-13T16:26:25.774903",
+  "last_updated": "2026-05-13T19:00:26.163682",
   "transactions": [
     {
       "date": "2026-05-13",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPClayton Beeteron a rehab assignment to FCL Nationals.",
-      "player": "Clayton Beeter"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated LHPFramber Valdez.",
+      "player": "Framber Valdez"
+    },
+    {
+      "date": "2026-05-13",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated RHPRyan Johnsonfrom the 15-day injured list.",
+      "player": "Ryan Johnson"
     },
     {
       "date": "2026-05-13",
@@ -15,15 +21,75 @@
     },
     {
       "date": "2026-05-13",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RHPCodi Heuerfrom Columbus Clippers.",
-      "player": "Codi Heuer"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent LHPErik Milleron a rehab assignment to San Jose Giants.",
+      "player": "Erik Miller"
+    },
+    {
+      "date": "2026-05-13",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RHPBryce Millerfrom the 15-day injured list.",
+      "player": "Bryce Miller"
+    },
+    {
+      "date": "2026-05-13",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent RHPChris Paddack.",
+      "player": "Chris Paddack"
+    },
+    {
+      "date": "2026-05-13",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced RHPRhett Lowderon the 15-day injured list. Right shoulder pain.",
+      "player": "Rhett Lowder"
+    },
+    {
+      "date": "2026-05-13",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated LHPJosé Suarezfor assignment.",
+      "player": "José Suarez"
+    },
+    {
+      "date": "2026-05-13",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced LHPDrew Pomeranzon the 15-day injured list. Left elbow inflammation.",
+      "player": "Drew Pomeranz"
+    },
+    {
+      "date": "2026-05-13",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsdesignated CP.J. Higginsfor assignment.",
+      "player": "P.J. Higgins"
+    },
+    {
+      "date": "2026-05-13",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RFDylan Beaverson the 10-day injured list retroactive to May 11, 2026. Right oblique strain.",
+      "player": "Dylan Beavers"
+    },
+    {
+      "date": "2026-05-13",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPClayton Beeteron a rehab assignment to FCL Nationals.",
+      "player": "Clayton Beeter"
+    },
+    {
+      "date": "2026-05-13",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled CMaverick Handleyfrom Chesapeake Baysox.",
+      "player": "Maverick Handley"
     },
     {
       "date": "2026-05-13",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansoptioned RHPFranco Alemanto Columbus Clippers.",
       "player": "Franco Aleman"
+    },
+    {
+      "date": "2026-05-13",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPCodi Heuerfrom Columbus Clippers.",
+      "player": "Codi Heuer"
     }
   ]
 }
