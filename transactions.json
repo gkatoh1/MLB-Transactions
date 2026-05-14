@@ -1,17 +1,11 @@
 {
-  "last_updated": "2026-05-14T20:39:25.043795",
+  "last_updated": "2026-05-14T22:15:57.496817",
   "transactions": [
     {
       "date": "2026-05-14",
-      "team": "New York Mets",
-      "details": "New York Metssigned free agent SSJaylen Palmerto a minor league contract.",
-      "player": "Jaylen Palmer"
-    },
-    {
-      "date": "2026-05-14",
-      "team": "Athletics",
-      "details": "Athleticsdesignated CFJunior Perezfor assignment.",
-      "player": "Junior Perez"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPJimmy Hergeton the 15-day injured list retroactive to May 13, 2026. Right shoulder impingement.",
+      "player": "Jimmy Herget"
     },
     {
       "date": "2026-05-14",
@@ -21,15 +15,27 @@
     },
     {
       "date": "2026-05-14",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent SSJaylen Palmerto a minor league contract.",
+      "player": "Jaylen Palmer"
+    },
+    {
+      "date": "2026-05-14",
       "team": "Washington Nationals",
       "details": "Washington Nationalssent RHPCole Henryon a rehab assignment to FCL Nationals.",
       "player": "Cole Henry"
     },
     {
       "date": "2026-05-14",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced RHPJimmy Hergeton the 15-day injured list retroactive to May 13, 2026. Right shoulder impingement.",
-      "player": "Jimmy Herget"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent SSLeandy Mellato a minor league contract.",
+      "player": "Leandy Mella"
+    },
+    {
+      "date": "2026-05-14",
+      "team": "Athletics",
+      "details": "Athleticsdesignated CFJunior Perezfor assignment.",
+      "player": "Junior Perez"
     },
     {
       "date": "2026-05-14",
@@ -40,26 +46,14 @@
     {
       "date": "2026-05-14",
       "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPMatt Brashon a rehab assignment to Tacoma Rainiers.",
+      "player": "Matt Brash"
+    },
+    {
+      "date": "2026-05-14",
+      "team": "Seattle Mariners",
       "details": "Seattle Marinersactivated LHPJosé A. Ferrerfrom the paternity list.",
       "player": "José A. Ferrer"
-    },
-    {
-      "date": "2026-05-14",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled CFRyan Kreidlerfrom St. Paul Saints.",
-      "player": "Ryan Kreidler"
-    },
-    {
-      "date": "2026-05-14",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
-      "player": "Travis Adams"
-    },
-    {
-      "date": "2026-05-14",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RFMatt Wallnerto St. Paul Saints.",
-      "player": "Matt Wallner"
     },
     {
       "date": "2026-05-14",
@@ -69,9 +63,27 @@
     },
     {
       "date": "2026-05-14",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned LHPJosh Simpsonto Tacoma Rainiers.",
+      "player": "Josh Simpson"
+    },
+    {
+      "date": "2026-05-14",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPZebby Matthewsfrom St. Paul Saints.",
-      "player": "Zebby Matthews"
+      "details": "Minnesota Twinsoptioned RFMatt Wallnerto St. Paul Saints.",
+      "player": "Matt Wallner"
+    },
+    {
+      "date": "2026-05-14",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPTanner Gordonfrom Albuquerque Isotopes.",
+      "player": "Tanner Gordon"
+    },
+    {
+      "date": "2026-05-14",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned COmar Martinezto Salt Lake Bees.",
+      "player": "Omar Martinez"
     },
     {
       "date": "2026-05-14",
@@ -87,21 +99,33 @@
     },
     {
       "date": "2026-05-14",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPTanner Gordonfrom Albuquerque Isotopes.",
-      "player": "Tanner Gordon"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled CFRyan Kreidlerfrom St. Paul Saints.",
+      "player": "Ryan Kreidler"
     },
     {
       "date": "2026-05-14",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned LHPJosh Simpsonto Tacoma Rainiers.",
-      "player": "Josh Simpson"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPZebby Matthewsfrom St. Paul Saints.",
+      "player": "Zebby Matthews"
     },
     {
       "date": "2026-05-14",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redssent CP.J. Higginsoutright to Louisville Bats.",
       "player": "P.J. Higgins"
+    },
+    {
+      "date": "2026-05-14",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
+      "player": "Travis Adams"
+    },
+    {
+      "date": "2026-05-14",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPConnor Brogdonoutright to Columbus Clippers.",
+      "player": "Connor Brogdon"
     },
     {
       "date": "2026-05-14",
