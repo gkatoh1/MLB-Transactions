@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-05-15T20:19:03.083188",
+  "last_updated": "2026-05-15T22:03:57.810720",
   "transactions": [
     {
       "date": "2026-05-15",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced RHPChase Dollanderon the 15-day injured list. Right elbow strain.",
-      "player": "Chase Dollander"
+      "team": "New York Mets",
+      "details": "New York Metssent 1BJared Youngon a rehab assignment to St. Lucie Mets.",
+      "player": "Jared Young"
     },
     {
       "date": "2026-05-15",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysdesignated RHPAaron Brooksfor assignment.",
-      "player": "Aaron Brooks"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent LFLars Nootbaaron a rehab assignment to Palm Beach Cardinals.",
+      "player": "Lars Nootbaar"
     },
     {
       "date": "2026-05-15",
@@ -27,9 +27,51 @@
     },
     {
       "date": "2026-05-15",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent RHPLuis Curveloon a rehab assignment to Frisco RoughRiders.",
+      "player": "Luis Curvelo"
+    },
+    {
+      "date": "2026-05-15",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent LHPMax Greento a minor league contract.",
+      "player": "Max Green"
+    },
+    {
+      "date": "2026-05-15",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPChase Dollanderon the 15-day injured list. Right elbow strain.",
+      "player": "Chase Dollander"
+    },
+    {
+      "date": "2026-05-15",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxsent LHPDanny Coulombeon a rehab assignment to Portland Sea Dogs.",
       "player": "Danny Coulombe"
+    },
+    {
+      "date": "2026-05-15",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated RHPAaron Brooksfor assignment.",
+      "player": "Aaron Brooks"
+    },
+    {
+      "date": "2026-05-15",
+      "team": "Athletics",
+      "details": "Athleticsactivated LHPJosé Suarez.",
+      "player": "José Suarez"
+    },
+    {
+      "date": "2026-05-15",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated CLogan O'Hoppefrom the 10-day injured list.",
+      "player": "Logan O'Hoppe"
+    },
+    {
+      "date": "2026-05-15",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessigned free agent LHPGrif Hughesto a minor league contract.",
+      "player": "Grif Hughes"
     },
     {
       "date": "2026-05-15",
@@ -51,9 +93,9 @@
     },
     {
       "date": "2026-05-15",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPColeman Crowfrom Nashville Sounds.",
-      "player": "Coleman Crow"
+      "team": "New York Mets",
+      "details": "New York Metssent 2BAndy Ibáñezoutright to Syracuse Mets.",
+      "player": "Andy Ibáñez"
     },
     {
       "date": "2026-05-15",
@@ -63,14 +105,14 @@
     },
     {
       "date": "2026-05-15",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled LHPSammy Peraltafrom Albuquerque Isotopes.",
-      "player": "Sammy Peralta"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled LHPAndrew Alvarezfrom Rochester Red Wings.",
+      "player": "Andrew Alvarez"
     },
     {
       "date": "2026-05-15",
-      "team": "Athletics",
-      "details": "Athleticstraded RHPEduarniel NúñeztoBaltimore Oriolesfor cash.",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPEduarniel Núñezto Norfolk Tides.",
       "player": "Eduarniel Núñez"
     },
     {
@@ -82,14 +124,14 @@
     {
       "date": "2026-05-15",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned LHPBrian Fitzpatrickto Nashville Sounds.",
-      "player": "Brian Fitzpatrick"
+      "details": "Milwaukee Brewersrecalled RHPColeman Crowfrom Nashville Sounds.",
+      "player": "Coleman Crow"
     },
     {
       "date": "2026-05-15",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPEduarniel Núñezto Norfolk Tides.",
-      "player": "Eduarniel Núñez"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled LHPSammy Peraltafrom Albuquerque Isotopes.",
+      "player": "Sammy Peralta"
     },
     {
       "date": "2026-05-15",
@@ -99,9 +141,21 @@
     },
     {
       "date": "2026-05-15",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled LHPAndrew Alvarezfrom Rochester Red Wings.",
-      "player": "Andrew Alvarez"
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPMason Barnettto Las Vegas Aviators.",
+      "player": "Mason Barnett"
+    },
+    {
+      "date": "2026-05-15",
+      "team": "Athletics",
+      "details": "Athleticstraded RHPEduarniel NúñeztoBaltimore Oriolesfor cash.",
+      "player": "Eduarniel Núñez"
+    },
+    {
+      "date": "2026-05-15",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LHPBrian Fitzpatrickto Nashville Sounds.",
+      "player": "Brian Fitzpatrick"
     }
   ]
 }
