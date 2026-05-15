@@ -1,11 +1,29 @@
 {
-  "last_updated": "2026-05-15T16:55:00.441003",
+  "last_updated": "2026-05-15T18:25:14.567369",
   "transactions": [
+    {
+      "date": "2026-05-15",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated RHPAaron Brooksfor assignment.",
+      "player": "Aaron Brooks"
+    },
     {
       "date": "2026-05-15",
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned RHPZak Kentto Rochester Red Wings.",
       "player": "Zak Kent"
+    },
+    {
+      "date": "2026-05-15",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPTrevor Martinfrom Durham Bulls.",
+      "player": "Trevor Martin"
+    },
+    {
+      "date": "2026-05-15",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled LHPAndrew Alvarezfrom Rochester Red Wings.",
+      "player": "Andrew Alvarez"
     }
   ]
 }
