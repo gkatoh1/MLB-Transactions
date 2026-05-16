@@ -1,41 +1,11 @@
 {
-  "last_updated": "2026-05-16T21:59:04.734853",
+  "last_updated": "2026-05-16T23:00:33.662644",
   "transactions": [
     {
       "date": "2026-05-16",
       "team": "Athletics",
-      "details": "Athleticsdesignated 2BMichael Stefanicfor assignment.",
-      "player": "Michael Stefanic"
-    },
-    {
-      "date": "2026-05-16",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced SSTrevor Storyon the 10-day injured list retroactive to May 15, 2026. Sports hernia.",
-      "player": "Trevor Story"
-    },
-    {
-      "date": "2026-05-16",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssent LHPCaleb Thielbaron a rehab assignment to South Bend Cubs.",
-      "player": "Caleb Thielbar"
-    },
-    {
-      "date": "2026-05-16",
-      "team": "Athletics",
-      "details": "Athleticssent CFDenzel Clarkeon a rehab assignment to Stockton Ports.",
-      "player": "Denzel Clarke"
-    },
-    {
-      "date": "2026-05-16",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsactivated RHPMatt Pushardfrom the 15-day injured list.",
-      "player": "Matt Pushard"
-    },
-    {
-      "date": "2026-05-16",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced LHPMax Friedon the 15-day injured list retroactive to May 14, 2026. Left elbow bone bruise.",
-      "player": "Max Fried"
+      "details": "LHPJackson Noveroster status changed byAthletics.",
+      "player": "Jackson Nove"
     },
     {
       "date": "2026-05-16",
@@ -45,9 +15,15 @@
     },
     {
       "date": "2026-05-16",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent RHPLou Trivinoto a minor league contract.",
-      "player": "Lou Trivino"
+      "team": "Athletics",
+      "details": "Athleticssent CFDenzel Clarkeon a rehab assignment to Stockton Ports.",
+      "player": "Denzel Clarke"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated LHPErik Millerfrom the 15-day injured list.",
+      "player": "Erik Miller"
     },
     {
       "date": "2026-05-16",
@@ -57,15 +33,81 @@
     },
     {
       "date": "2026-05-16",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPClayton Beeteron a rehab assignment to Rochester Red Wings.",
+      "player": "Clayton Beeter"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced SSTrevor Storyon the 10-day injured list retroactive to May 15, 2026. Sports hernia.",
+      "player": "Trevor Story"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced LHPMax Friedon the 15-day injured list retroactive to May 14, 2026. Left elbow bone bruise.",
+      "player": "Max Fried"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent RHPLou Trivinoto a minor league contract.",
+      "player": "Lou Trivino"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "New York Mets",
+      "details": "New York Metsplaced RHPClay Holmeson the 15-day injured list. Right fibula fracture.",
+      "player": "Clay Holmes"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated RHPMatt Pushardfrom the 15-day injured list.",
+      "player": "Matt Pushard"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "Athletics",
+      "details": "Athleticsdesignated 2BMichael Stefanicfor assignment.",
+      "player": "Michael Stefanic"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPCasey Mizefrom the 15-day injured list.",
+      "player": "Casey Mize"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPQuinn Priesteron a rehab assignment to Wisconsin Timber Rattlers.",
+      "player": "Quinn Priester"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced LFHeliot Ramoson the 10-day injured list. Right quad strain.",
+      "player": "Heliot Ramos"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsdesignated LHPJared Shusterfor assignment.",
+      "player": "Jared Shuster"
+    },
+    {
+      "date": "2026-05-16",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinssent RHPCody Lawerysonon a rehab assignment to St. Paul Saints.",
       "player": "Cody Laweryson"
     },
     {
       "date": "2026-05-16",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPClayton Beeteron a rehab assignment to Rochester Red Wings.",
-      "player": "Clayton Beeter"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent LHPCaleb Thielbaron a rehab assignment to South Bend Cubs.",
+      "player": "Caleb Thielbar"
     },
     {
       "date": "2026-05-16",
@@ -87,33 +129,45 @@
     },
     {
       "date": "2026-05-16",
-      "team": "New York Mets",
-      "details": "New York Metsplaced RHPClay Holmeson the 15-day injured list. Right fibula fracture.",
-      "player": "Clay Holmes"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of RHPPeter Strzeleckifrom Nashville Sounds.",
+      "player": "Peter Strzelecki"
     },
     {
       "date": "2026-05-16",
-      "team": "Athletics",
-      "details": "LHPJackson Noveroster status changed byAthletics.",
-      "player": "Jackson Nove"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPTristan Beckto Sacramento River Cats.",
+      "player": "Tristan Beck"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned CFJunior Perezto Charlotte Knights.",
+      "player": "Junior Perez"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPBrandon Eisertfrom Charlotte Knights.",
+      "player": "Brandon Eisert"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled 1BNick Sogardfrom Worcester Red Sox.",
+      "player": "Nick Sogard"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RHPAaron Brooksoutright to Durham Bulls.",
+      "player": "Aaron Brooks"
     },
     {
       "date": "2026-05-16",
       "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated RHPCasey Mizefrom the 15-day injured list.",
-      "player": "Casey Mize"
-    },
-    {
-      "date": "2026-05-16",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent RHPQuinn Priesteron a rehab assignment to Wisconsin Timber Rattlers.",
-      "player": "Quinn Priester"
-    },
-    {
-      "date": "2026-05-16",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsdesignated LHPJared Shusterfor assignment.",
-      "player": "Jared Shuster"
+      "details": "Detroit Tigersoptioned RHPBrenan Hanifeeto Toledo Mud Hens.",
+      "player": "Brenan Hanifee"
     },
     {
       "date": "2026-05-16",
@@ -123,9 +177,15 @@
     },
     {
       "date": "2026-05-16",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersselected the contract of RHPPeter Strzeleckifrom Nashville Sounds.",
-      "player": "Peter Strzelecki"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned LFBryce Teodosioto Salt Lake Bees.",
+      "player": "Bryce Teodosio"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "Athletics",
+      "details": "Athleticstraded RHP Kyle Robinson toPittsburgh Piratesfor 2BAlika Williams.",
+      "player": "Alika Williams"
     },
     {
       "date": "2026-05-16",
@@ -153,15 +213,9 @@
     },
     {
       "date": "2026-05-16",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled 1BNick Sogardfrom Worcester Red Sox.",
-      "player": "Nick Sogard"
-    },
-    {
-      "date": "2026-05-16",
-      "team": "Athletics",
-      "details": "Athleticstraded RHP Kyle Robinson toPittsburgh Piratesfor 2BAlika Williams.",
-      "player": "Alika Williams"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPColeman Crowto Nashville Sounds.",
+      "player": "Coleman Crow"
     },
     {
       "date": "2026-05-16",
@@ -171,39 +225,15 @@
     },
     {
       "date": "2026-05-16",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned LFBryce Teodosioto Salt Lake Bees.",
-      "player": "Bryce Teodosio"
-    },
-    {
-      "date": "2026-05-16",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPColeman Crowto Nashville Sounds.",
-      "player": "Coleman Crow"
-    },
-    {
-      "date": "2026-05-16",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned CFJunior Perezto Charlotte Knights.",
-      "player": "Junior Perez"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled LFWill Brennanfrom Sacramento River Cats.",
+      "player": "Will Brennan"
     },
     {
       "date": "2026-05-16",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsselected the contract of OFJose Sirifrom Salt Lake Bees.",
       "player": "Jose Siri"
-    },
-    {
-      "date": "2026-05-16",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned RHPBrenan Hanifeeto Toledo Mud Hens.",
-      "player": "Brenan Hanifee"
-    },
-    {
-      "date": "2026-05-16",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPBrandon Eisertfrom Charlotte Knights.",
-      "player": "Brandon Eisert"
     }
   ]
 }
