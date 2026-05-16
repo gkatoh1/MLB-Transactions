@@ -1,35 +1,17 @@
 {
-  "last_updated": "2026-05-16T17:07:13.265156",
+  "last_updated": "2026-05-16T19:16:45.921749",
   "transactions": [
-    {
-      "date": "2026-05-16",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced LHPMatt Strahmon the 15-day injured list. Right knee inflammation.",
-      "player": "Matt Strahm"
-    },
-    {
-      "date": "2026-05-16",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsdesignated LHPJared Shusterfor assignment.",
-      "player": "Jared Shuster"
-    },
-    {
-      "date": "2026-05-16",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsactivated RHPMatt Pushardfrom the 15-day injured list.",
-      "player": "Matt Pushard"
-    },
-    {
-      "date": "2026-05-16",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated LHPBailey Falterfrom the 15-day injured list.",
-      "player": "Bailey Falter"
-    },
     {
       "date": "2026-05-16",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersactivated RHPCasey Mizefrom the 15-day injured list.",
       "player": "Casey Mize"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced LHPMax Friedon the 15-day injured list retroactive to May 14, 2026. Left elbow bone bruise.",
+      "player": "Max Fried"
     },
     {
       "date": "2026-05-16",
@@ -39,9 +21,69 @@
     },
     {
       "date": "2026-05-16",
+      "team": "Athletics",
+      "details": "Athleticsdesignated 2BMichael Stefanicfor assignment.",
+      "player": "Michael Stefanic"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced LHPMatt Strahmon the 15-day injured list. Right knee inflammation.",
+      "player": "Matt Strahm"
+    },
+    {
+      "date": "2026-05-16",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinssent RHPCody Lawerysonon a rehab assignment to St. Paul Saints.",
       "player": "Cody Laweryson"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated LHPBailey Falterfrom the 15-day injured list.",
+      "player": "Bailey Falter"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated RHPMatt Pushardfrom the 15-day injured list.",
+      "player": "Matt Pushard"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "New York Mets",
+      "details": "New York Metsplaced RHPClay Holmeson the 15-day injured list. Right fibula fracture.",
+      "player": "Clay Holmes"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsdesignated LHPJared Shusterfor assignment.",
+      "player": "Jared Shuster"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent LHPCaleb Thielbaron a rehab assignment to South Bend Cubs.",
+      "player": "Caleb Thielbar"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "Athletics",
+      "details": "Athleticstraded RHP Kyle Robinson toPittsburgh Piratesfor 2BAlika Williams.",
+      "player": "Alika Williams"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPBrenan Hanifeeto Toledo Mud Hens.",
+      "player": "Brenan Hanifee"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJoey Gerberfrom Syracuse Mets.",
+      "player": "Joey Gerber"
     },
     {
       "date": "2026-05-16",
@@ -51,15 +93,21 @@
     },
     {
       "date": "2026-05-16",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPBrandon Eisertfrom Charlotte Knights.",
-      "player": "Brandon Eisert"
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPElmer Rodríguezfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Elmer Rodríguez"
     },
     {
       "date": "2026-05-16",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned RHPBrenan Hanifeeto Toledo Mud Hens.",
-      "player": "Brenan Hanifee"
+      "team": "Athletics",
+      "details": "Athleticstraded RHPKyle RobinsontoPittsburgh Piratesfor 2B Alika Williams.",
+      "player": "Kyle Robinson"
+    },
+    {
+      "date": "2026-05-16",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPBrandon Eisertfrom Charlotte Knights.",
+      "player": "Brandon Eisert"
     }
   ]
 }
