@@ -1,23 +1,11 @@
 {
-  "last_updated": "2026-05-18T19:55:04.734399",
+  "last_updated": "2026-05-18T21:19:20.927925",
   "transactions": [
     {
       "date": "2026-05-18",
-      "team": "New York Mets",
-      "details": "New York Metsplaced LHPA.J. Minteron the 60-day injured list. Left lat surgery.",
-      "player": "A.J. Minter"
-    },
-    {
-      "date": "2026-05-18",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced LHPKris Bubicon the 15-day injured list retroactive to May 15, 2026. Left elbow soreness.",
-      "player": "Kris Bubic"
-    },
-    {
-      "date": "2026-05-18",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPJose Espadafor assignment.",
-      "player": "Jose Espada"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced RHPCole Sulseron the 15-day injured list retroactive to May 15, 2026. Low back strain.",
+      "player": "Cole Sulser"
     },
     {
       "date": "2026-05-18",
@@ -27,21 +15,45 @@
     },
     {
       "date": "2026-05-18",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesclaimed CFMichael Sianioff waivers fromLos Angeles Dodgers.",
-      "player": "Michael Siani"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced LHPKris Bubicon the 15-day injured list retroactive to May 15, 2026. Left elbow soreness.",
+      "player": "Kris Bubic"
+    },
+    {
+      "date": "2026-05-18",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RHPJoe Boylefrom the 15-day injured list.",
+      "player": "Joe Boyle"
+    },
+    {
+      "date": "2026-05-18",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPPreston Johnsonto a minor league contract.",
+      "player": "Preston Johnson"
     },
     {
       "date": "2026-05-18",
       "team": "New York Mets",
-      "details": "New York Metsoptioned RHPJoey Gerberto Syracuse Mets.",
-      "player": "Joey Gerber"
+      "details": "New York Metsplaced LHPA.J. Minteron the 60-day injured list. Left lat surgery.",
+      "player": "A.J. Minter"
     },
     {
       "date": "2026-05-18",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPElmer Rodríguezto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Elmer Rodríguez"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent LHPJake Higginbothamto a minor league contract.",
+      "player": "Jake Higginbotham"
+    },
+    {
+      "date": "2026-05-18",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPJose Espadafor assignment.",
+      "player": "Jose Espada"
+    },
+    {
+      "date": "2026-05-18",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPJoe Boyleto Durham Bulls.",
+      "player": "Joe Boyle"
     },
     {
       "date": "2026-05-18",
@@ -57,6 +69,12 @@
     },
     {
       "date": "2026-05-18",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPChase Soleskyfrom Durham Bulls.",
+      "player": "Chase Solesky"
+    },
+    {
+      "date": "2026-05-18",
       "team": "New York Yankees",
       "details": "New York Yankeesselected the contract of RHPYovanny Cruzfrom Scranton/Wilkes-Barre RailRiders.",
       "player": "Yovanny Cruz"
@@ -69,15 +87,33 @@
     },
     {
       "date": "2026-05-18",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned RHPCodi Heuerto Columbus Clippers.",
-      "player": "Codi Heuer"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJoey Gerberto Syracuse Mets.",
+      "player": "Joey Gerber"
     },
     {
       "date": "2026-05-18",
       "team": "New York Mets",
       "details": "New York Metsselected the contract of RHPDaniel Duartefrom Syracuse Mets.",
       "player": "Daniel Duarte"
+    },
+    {
+      "date": "2026-05-18",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPElmer Rodríguezto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Elmer Rodríguez"
+    },
+    {
+      "date": "2026-05-18",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed CFMichael Sianioff waivers fromLos Angeles Dodgers.",
+      "player": "Michael Siani"
+    },
+    {
+      "date": "2026-05-18",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPCodi Heuerto Columbus Clippers.",
+      "player": "Codi Heuer"
     },
     {
       "date": "2026-05-18",
