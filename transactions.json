@@ -1,35 +1,17 @@
 {
-  "last_updated": "2026-05-19T19:07:51.812705",
+  "last_updated": "2026-05-19T21:26:34.948357",
   "transactions": [
     {
       "date": "2026-05-19",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinstransferred RHPGarrett Actonfrom the 15-day injured list to the 60-day injured list. Right shoulder strain.",
-      "player": "Garrett Acton"
-    },
-    {
-      "date": "2026-05-19",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced CRyan Jefferson the 10-day injured list. Left hamate bone fracture.",
-      "player": "Ryan Jeffers"
-    },
-    {
-      "date": "2026-05-19",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsdesignated RHPJustin Topafor assignment.",
-      "player": "Justin Topa"
+      "team": "Athletics",
+      "details": "Athleticssent CFDenzel Clarkeon a rehab assignment to Las Vegas Aviators.",
+      "player": "Denzel Clarke"
     },
     {
       "date": "2026-05-19",
       "team": "New York Mets",
-      "details": "New York Metsdesignated RFAustin Slaterfor assignment.",
-      "player": "Austin Slater"
-    },
-    {
-      "date": "2026-05-19",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesreleased LHPAaron Bummer.",
-      "player": "Aaron Bummer"
+      "details": "New York Metstransferred RHPClay Holmesfrom the 15-day injured list to the 60-day injured list. Right fibula fracture.",
+      "player": "Clay Holmes"
     },
     {
       "date": "2026-05-19",
@@ -39,27 +21,21 @@
     },
     {
       "date": "2026-05-19",
-      "team": "New York Mets",
-      "details": "New York Metssent 1BJared Youngon a rehab assignment to New York Mets.",
-      "player": "Jared Young"
-    },
-    {
-      "date": "2026-05-19",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated LHPDylan Doddfrom the 15-day injured list.",
-      "player": "Dylan Dodd"
-    },
-    {
-      "date": "2026-05-19",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RHPTroy Meltonon a rehab assignment to Lakeland Flying Tigers.",
-      "player": "Troy Melton"
-    },
-    {
-      "date": "2026-05-19",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiessent RHPRyan Feltneron a rehab assignment to Hartford Yard Goats.",
       "player": "Ryan Feltner"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced LHPJoe Mantiplyon the 15-day injured list retroactive to May 18, 2026. Left knee inflammation.",
+      "player": "Joe Mantiply"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent LHPReiver Sanmartinon a rehab assignment to Sacramento River Cats.",
+      "player": "Reiver Sanmartin"
     },
     {
       "date": "2026-05-19",
@@ -75,33 +51,87 @@
     },
     {
       "date": "2026-05-19",
-      "team": "New York Mets",
-      "details": "New York Metstransferred RHPClay Holmesfrom the 15-day injured list to the 60-day injured list. Right fibula fracture.",
-      "player": "Clay Holmes"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent LHPDanny Coulombeon a rehab assignment to Worcester Red Sox.",
+      "player": "Danny Coulombe"
     },
     {
       "date": "2026-05-19",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned 3BRoyce Lewisto St. Paul Saints.",
-      "player": "Royce Lewis"
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RFAustin Slaterfor assignment.",
+      "player": "Austin Slater"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPTroy Meltonon a rehab assignment to Lakeland Flying Tigers.",
+      "player": "Troy Melton"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated RHPChris Martinfrom the 15-day injured list.",
+      "player": "Chris Martin"
     },
     {
       "date": "2026-05-19",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of CChadwick Trompfrom Gwinnett Stripers.",
-      "player": "Chadwick Tromp"
-    },
-    {
-      "date": "2026-05-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPCameron Fosterto Norfolk Tides.",
-      "player": "Cameron Foster"
+      "details": "Atlanta Bravesreleased LHPAaron Bummer.",
+      "player": "Aaron Bummer"
     },
     {
       "date": "2026-05-19",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinsselected the contract of CAlex Jacksonfrom St. Paul Saints.",
-      "player": "Alex Jackson"
+      "details": "Minnesota Twinsplaced CRyan Jefferson the 10-day injured list. Left hamate bone fracture.",
+      "player": "Ryan Jeffers"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "New York Mets",
+      "details": "New York Metssent 1BJared Youngon a rehab assignment to New York Mets.",
+      "player": "Jared Young"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsdesignated RHPJustin Topafor assignment.",
+      "player": "Justin Topa"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated LHPDylan Doddfrom the 15-day injured list.",
+      "player": "Dylan Dodd"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated LHPCaleb Thielbarfrom the 15-day injured list.",
+      "player": "Caleb Thielbar"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced RHPPeyton Palletteon the paternity list.",
+      "player": "Peyton Pallette"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstransferred RHPGarrett Actonfrom the 15-day injured list to the 60-day injured list. Right shoulder strain.",
+      "player": "Garrett Acton"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced CJames McCannon the 10-day injured list. Strained right quad.",
+      "player": "James McCann"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated LHPTy Blachfor assignment.",
+      "player": "Ty Blach"
     },
     {
       "date": "2026-05-19",
@@ -111,21 +141,39 @@
     },
     {
       "date": "2026-05-19",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksselected the contract of CAramis Garciafrom Reno Aces.",
+      "player": "Aramis Garcia"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled CFJhostynxon Garciafrom Indianapolis Indians.",
+      "player": "Jhostynxon Garcia"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned 3BBrady Houseto Rochester Red Wings.",
+      "player": "Brady House"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPCameron Fosterto Norfolk Tides.",
+      "player": "Cameron Foster"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPCodi Heuerfrom Columbus Clippers.",
+      "player": "Codi Heuer"
+    },
+    {
+      "date": "2026-05-19",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPTravis Adamsfrom St. Paul Saints.",
-      "player": "Travis Adams"
-    },
-    {
-      "date": "2026-05-19",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPJR Ritchieto Gwinnett Stripers.",
-      "player": "JR Ritchie"
-    },
-    {
-      "date": "2026-05-19",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled CFNick Morabitofrom Syracuse Mets.",
-      "player": "Nick Morabito"
+      "details": "Minnesota Twinsselected the contract of CAlex Jacksonfrom St. Paul Saints.",
+      "player": "Alex Jackson"
     },
     {
       "date": "2026-05-19",
@@ -135,9 +183,75 @@
     },
     {
       "date": "2026-05-19",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned 3BRoyce Lewisto St. Paul Saints.",
+      "player": "Royce Lewis"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPGavin Collyerto Round Rock Express.",
+      "player": "Gavin Collyer"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RFJoey Wiemerto Rochester Red Wings.",
+      "player": "Joey Wiemer"
+    },
+    {
+      "date": "2026-05-19",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesselected the contract of RHPAlbert Suárezfrom Norfolk Tides.",
       "player": "Albert Suárez"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of CChadwick Trompfrom Gwinnett Stripers.",
+      "player": "Chadwick Tromp"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPTravis Adamsfrom St. Paul Saints.",
+      "player": "Travis Adams"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksobtain RHPSimon Gregersenfrom Lexington Legends.",
+      "player": "Simon Gregersen"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPChase Leefrom Buffalo Bisons.",
+      "player": "Chase Lee"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPJR Ritchieto Gwinnett Stripers.",
+      "player": "JR Ritchie"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled 1BAndrés Chaparrofrom Rochester Red Wings.",
+      "player": "Andrés Chaparro"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RFDylan Crewsfrom Rochester Red Wings.",
+      "player": "Dylan Crews"
+    },
+    {
+      "date": "2026-05-19",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled CFNick Morabitofrom Syracuse Mets.",
+      "player": "Nick Morabito"
     }
   ]
 }
