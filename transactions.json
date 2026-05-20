@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-05-20T21:02:59.004856",
+  "last_updated": "2026-05-20T23:19:45.644284",
   "transactions": [
+    {
+      "date": "2026-05-20",
+      "team": "Athletics",
+      "details": "Athleticssigned free agent 2BMichael Stefanicto a minor league contract.",
+      "player": "Michael Stefanic"
+    },
+    {
+      "date": "2026-05-20",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RHPMatt Brashfrom the 15-day injured list.",
+      "player": "Matt Brash"
+    },
+    {
+      "date": "2026-05-20",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated LHPSteven Matzfrom the 15-day injured list.",
+      "player": "Steven Matz"
+    },
     {
       "date": "2026-05-20",
       "team": "Atlanta Braves",
@@ -21,9 +39,15 @@
     },
     {
       "date": "2026-05-20",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated RHPLuis Curvelofrom the 15-day injured list.",
+      "player": "Luis Curvelo"
+    },
+    {
+      "date": "2026-05-20",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated LHPSteven Matzfrom the 15-day injured list.",
-      "player": "Steven Matz"
+      "details": "Tampa Bay Raysplaced 2BBen Williamsonon the 10-day injured list retroactive to May 17, 2026. Low back strain.",
+      "player": "Ben Williamson"
     },
     {
       "date": "2026-05-20",
@@ -36,12 +60,6 @@
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redssent 3BEugenio Suárezon a rehab assignment to Louisville Bats.",
       "player": "Eugenio Suárez"
-    },
-    {
-      "date": "2026-05-20",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated RHPMatt Brashfrom the 15-day injured list.",
-      "player": "Matt Brash"
     },
     {
       "date": "2026-05-20",
@@ -63,15 +81,9 @@
     },
     {
       "date": "2026-05-20",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysplaced 2BBen Williamsonon the 10-day injured list retroactive to May 17, 2026. Low back strain.",
-      "player": "Ben Williamson"
-    },
-    {
-      "date": "2026-05-20",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated RHPLuis Curvelofrom the 15-day injured list.",
-      "player": "Luis Curvelo"
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of LHPZach Thorntonfrom Syracuse Mets.",
+      "player": "Zach Thornton"
     },
     {
       "date": "2026-05-20",
@@ -81,9 +93,9 @@
     },
     {
       "date": "2026-05-20",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned RHPLuis Curveloto Round Rock Express.",
-      "player": "Luis Curvelo"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPPeter Strzeleckioutright to Nashville Sounds.",
+      "player": "Peter Strzelecki"
     },
     {
       "date": "2026-05-20",
@@ -93,27 +105,27 @@
     },
     {
       "date": "2026-05-20",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesselected the contract of RHPKeegan Thompsonfrom Albuquerque Isotopes.",
-      "player": "Keegan Thompson"
-    },
-    {
-      "date": "2026-05-20",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of LHPZach Thorntonfrom Syracuse Mets.",
-      "player": "Zach Thornton"
-    },
-    {
-      "date": "2026-05-20",
       "team": "New York Mets",
       "details": "New York Metsoptioned RHPDaniel Duarteto Syracuse Mets.",
       "player": "Daniel Duarte"
     },
     {
       "date": "2026-05-20",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled LHPCade Gibsonfrom Jacksonville Jumbo Shrimp.",
-      "player": "Cade Gibson"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesselected the contract of RHPKeegan Thompsonfrom Albuquerque Isotopes.",
+      "player": "Keegan Thompson"
+    },
+    {
+      "date": "2026-05-20",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPLuis Curveloto Round Rock Express.",
+      "player": "Luis Curvelo"
+    },
+    {
+      "date": "2026-05-20",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysselected the contract of 3BOliver Dunnfrom Durham Bulls.",
+      "player": "Oliver Dunn"
     },
     {
       "date": "2026-05-20",
@@ -129,15 +141,33 @@
     },
     {
       "date": "2026-05-20",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysselected the contract of 3BOliver Dunnfrom Durham Bulls.",
-      "player": "Oliver Dunn"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned LHPBraxton Garrettto Jacksonville Jumbo Shrimp.",
+      "player": "Braxton Garrett"
+    },
+    {
+      "date": "2026-05-20",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPRyan Johnsonto Rocket City Trash Pandas.",
+      "player": "Ryan Johnson"
+    },
+    {
+      "date": "2026-05-20",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled LHPTayler Saucedofrom Salt Lake Bees.",
+      "player": "Tayler Saucedo"
+    },
+    {
+      "date": "2026-05-20",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPAlek Manoahoutright to Salt Lake Bees.",
+      "player": "Alek Manoah"
     },
     {
       "date": "2026-05-20",
       "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned LHPBraxton Garrettto Jacksonville Jumbo Shrimp.",
-      "player": "Braxton Garrett"
+      "details": "Miami Marlinsrecalled LHPCade Gibsonfrom Jacksonville Jumbo Shrimp.",
+      "player": "Cade Gibson"
     }
   ]
 }
