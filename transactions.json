@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T18:25:34.567225",
+  "last_updated": "2026-05-20T21:02:59.004856",
   "transactions": [
     {
       "date": "2026-05-20",
@@ -15,21 +15,9 @@
     },
     {
       "date": "2026-05-20",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent 3BEugenio Suárezon a rehab assignment to Louisville Bats.",
-      "player": "Eugenio Suárez"
-    },
-    {
-      "date": "2026-05-20",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssent LHPGabe Speieron a rehab assignment to Everett AquaSox.",
-      "player": "Gabe Speier"
-    },
-    {
-      "date": "2026-05-20",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated RHPLuis Curvelofrom the 15-day injured list.",
-      "player": "Luis Curvelo"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RHPVictor Vodnikon the 15-day injured list. Right ulnar nerve inflammation.",
+      "player": "Victor Vodnik"
     },
     {
       "date": "2026-05-20",
@@ -39,15 +27,15 @@
     },
     {
       "date": "2026-05-20",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysplaced 2BBen Williamsonon the 10-day injured list retroactive to May 17, 2026. Low back strain.",
-      "player": "Ben Williamson"
-    },
-    {
-      "date": "2026-05-20",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesactivated CFEli Whitefrom the 7-day injured list.",
       "player": "Eli White"
+    },
+    {
+      "date": "2026-05-20",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent 3BEugenio Suárezon a rehab assignment to Louisville Bats.",
+      "player": "Eugenio Suárez"
     },
     {
       "date": "2026-05-20",
@@ -57,33 +45,39 @@
     },
     {
       "date": "2026-05-20",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned LHPBraxton Garrettto Jacksonville Jumbo Shrimp.",
-      "player": "Braxton Garrett"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent LHPGabe Speieron a rehab assignment to Everett AquaSox.",
+      "player": "Gabe Speier"
     },
     {
       "date": "2026-05-20",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of LHPZach Thorntonfrom Syracuse Mets.",
-      "player": "Zach Thornton"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesdesignated 1BBlaine Crimfor assignment.",
+      "player": "Blaine Crim"
     },
     {
       "date": "2026-05-20",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPChase Soleskyto Durham Bulls.",
-      "player": "Chase Solesky"
-    },
-    {
-      "date": "2026-05-20",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled LHPCade Gibsonfrom Jacksonville Jumbo Shrimp.",
-      "player": "Cade Gibson"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent SSNestor Gomezto a minor league contract.",
+      "player": "Nestor Gomez"
     },
     {
       "date": "2026-05-20",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysselected the contract of 3BOliver Dunnfrom Durham Bulls.",
-      "player": "Oliver Dunn"
+      "details": "Tampa Bay Raysplaced 2BBen Williamsonon the 10-day injured list retroactive to May 17, 2026. Low back strain.",
+      "player": "Ben Williamson"
+    },
+    {
+      "date": "2026-05-20",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated RHPLuis Curvelofrom the 15-day injured list.",
+      "player": "Luis Curvelo"
+    },
+    {
+      "date": "2026-05-20",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPIsaac Mattsonto Indianapolis Indians.",
+      "player": "Isaac Mattson"
     },
     {
       "date": "2026-05-20",
@@ -99,9 +93,51 @@
     },
     {
       "date": "2026-05-20",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesselected the contract of RHPKeegan Thompsonfrom Albuquerque Isotopes.",
+      "player": "Keegan Thompson"
+    },
+    {
+      "date": "2026-05-20",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of LHPZach Thorntonfrom Syracuse Mets.",
+      "player": "Zach Thornton"
+    },
+    {
+      "date": "2026-05-20",
       "team": "New York Mets",
       "details": "New York Metsoptioned RHPDaniel Duarteto Syracuse Mets.",
       "player": "Daniel Duarte"
+    },
+    {
+      "date": "2026-05-20",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled LHPCade Gibsonfrom Jacksonville Jumbo Shrimp.",
+      "player": "Cade Gibson"
+    },
+    {
+      "date": "2026-05-20",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPChase Soleskyto Durham Bulls.",
+      "player": "Chase Solesky"
+    },
+    {
+      "date": "2026-05-20",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPWilber Dotelfrom Indianapolis Indians.",
+      "player": "Wilber Dotel"
+    },
+    {
+      "date": "2026-05-20",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysselected the contract of 3BOliver Dunnfrom Durham Bulls.",
+      "player": "Oliver Dunn"
+    },
+    {
+      "date": "2026-05-20",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned LHPBraxton Garrettto Jacksonville Jumbo Shrimp.",
+      "player": "Braxton Garrett"
     }
   ]
 }
