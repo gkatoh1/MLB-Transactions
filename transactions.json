@@ -1,11 +1,89 @@
 {
-  "last_updated": "2026-05-21T16:19:57.170695",
+  "last_updated": "2026-05-21T19:03:51.068678",
   "transactions": [
+    {
+      "date": "2026-05-21",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPQuinn Priesteron a rehab assignment to Nashville Sounds.",
+      "player": "Quinn Priester"
+    },
+    {
+      "date": "2026-05-21",
+      "team": "Cincinnati Reds",
+      "details": "RHPZach McCambleyroster status changed byCincinnati Reds.",
+      "player": "Zach McCambley"
+    },
     {
       "date": "2026-05-21",
       "team": "Houston Astros",
       "details": "Houston Astrossigned free agent RHPAndrew Marreroto a minor league contract.",
       "player": "Andrew Marrero"
+    },
+    {
+      "date": "2026-05-21",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated RHPClayton Beeterfrom the 15-day injured list.",
+      "player": "Clayton Beeter"
+    },
+    {
+      "date": "2026-05-21",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssigned free agent SSLuis Rodriguezto a minor league contract.",
+      "player": "Luis Rodriguez"
+    },
+    {
+      "date": "2026-05-21",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPCody Boltonoutright to Sugar Land Space Cowboys.",
+      "player": "Cody Bolton"
+    },
+    {
+      "date": "2026-05-21",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled 3BGraham Pauleyfrom Jacksonville Jumbo Shrimp.",
+      "player": "Graham Pauley"
+    },
+    {
+      "date": "2026-05-21",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redstraded RF Rece Hinds toMiami Marlinsfor RHPZach McCambley.",
+      "player": "Zach McCambley"
+    },
+    {
+      "date": "2026-05-21",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redstraded RFRece HindstoMiami Marlinsfor RHP Zach McCambley.",
+      "player": "Rece Hinds"
+    },
+    {
+      "date": "2026-05-21",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPCarlos Carrascofrom Gwinnett Stripers.",
+      "player": "Carlos Carrasco"
+    },
+    {
+      "date": "2026-05-21",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RFRece Hindsto Jacksonville Jumbo Shrimp.",
+      "player": "Rece Hinds"
+    },
+    {
+      "date": "2026-05-21",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPVictor Mederosto Gwinnett Stripers.",
+      "player": "Victor Mederos"
+    },
+    {
+      "date": "2026-05-21",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned LHPPJ Poulinto Rochester Red Wings.",
+      "player": "PJ Poulin"
+    },
+    {
+      "date": "2026-05-21",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPJayden Murrayto Sugar Land Space Cowboys.",
+      "player": "Jayden Murray"
     }
   ]
 }
