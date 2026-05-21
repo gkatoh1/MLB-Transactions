@@ -1,17 +1,11 @@
 {
-  "last_updated": "2026-05-21T19:03:51.068678",
+  "last_updated": "2026-05-21T21:41:56.821197",
   "transactions": [
     {
       "date": "2026-05-21",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent RHPQuinn Priesteron a rehab assignment to Nashville Sounds.",
-      "player": "Quinn Priester"
-    },
-    {
-      "date": "2026-05-21",
-      "team": "Cincinnati Reds",
-      "details": "RHPZach McCambleyroster status changed byCincinnati Reds.",
-      "player": "Zach McCambley"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent RHPDrake Fellowsto a minor league contract.",
+      "player": "Drake Fellows"
     },
     {
       "date": "2026-05-21",
@@ -21,15 +15,57 @@
     },
     {
       "date": "2026-05-21",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssigned free agent SSLuis Rodriguezto a minor league contract.",
+      "player": "Luis Rodriguez"
+    },
+    {
+      "date": "2026-05-21",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPQuinn Priesteron a rehab assignment to Nashville Sounds.",
+      "player": "Quinn Priester"
+    },
+    {
+      "date": "2026-05-21",
       "team": "Washington Nationals",
       "details": "Washington Nationalsactivated RHPClayton Beeterfrom the 15-day injured list.",
       "player": "Clayton Beeter"
     },
     {
       "date": "2026-05-21",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssigned free agent SSLuis Rodriguezto a minor league contract.",
-      "player": "Luis Rodriguez"
+      "team": "Cincinnati Reds",
+      "details": "RHPZach McCambleyroster status changed byCincinnati Reds.",
+      "player": "Zach McCambley"
+    },
+    {
+      "date": "2026-05-21",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned LHPPJ Poulinto Rochester Red Wings.",
+      "player": "PJ Poulin"
+    },
+    {
+      "date": "2026-05-21",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesclaimed CMaverick Handleyoff waivers fromBaltimore Orioles.",
+      "player": "Maverick Handley"
+    },
+    {
+      "date": "2026-05-21",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPVictor Mederosto Gwinnett Stripers.",
+      "player": "Victor Mederos"
+    },
+    {
+      "date": "2026-05-21",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RFRece Hindsto Jacksonville Jumbo Shrimp.",
+      "player": "Rece Hinds"
+    },
+    {
+      "date": "2026-05-21",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPJayden Murrayto Sugar Land Space Cowboys.",
+      "player": "Jayden Murray"
     },
     {
       "date": "2026-05-21",
@@ -63,27 +99,9 @@
     },
     {
       "date": "2026-05-21",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RFRece Hindsto Jacksonville Jumbo Shrimp.",
-      "player": "Rece Hinds"
-    },
-    {
-      "date": "2026-05-21",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPVictor Mederosto Gwinnett Stripers.",
-      "player": "Victor Mederos"
-    },
-    {
-      "date": "2026-05-21",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned LHPPJ Poulinto Rochester Red Wings.",
-      "player": "PJ Poulin"
-    },
-    {
-      "date": "2026-05-21",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned RHPJayden Murrayto Sugar Land Space Cowboys.",
-      "player": "Jayden Murray"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPJose Espadaoutright to Norfolk Tides.",
+      "player": "Jose Espada"
     }
   ]
 }
