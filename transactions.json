@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-05-22T14:54:34.959496",
+  "last_updated": "2026-05-22T17:15:05.594295",
   "transactions": [
+    {
+      "date": "2026-05-22",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsplaced LFNathan Churchon the 10-day injured list retroactive to May 21, 2026. Left shoulder strain.",
+      "player": "Nathan Church"
+    },
+    {
+      "date": "2026-05-22",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned free agent RHPAshton Kennedyto a minor league contract.",
+      "player": "Ashton Kennedy"
+    },
     {
       "date": "2026-05-22",
       "team": "Minnesota Twins",
@@ -9,9 +21,15 @@
     },
     {
       "date": "2026-05-22",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPZack Kellyto Worcester Red Sox.",
-      "player": "Zack Kelly"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RFVictor Roblesfrom the 10-day injured list.",
+      "player": "Victor Robles"
+    },
+    {
+      "date": "2026-05-22",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RFMatt Shawon the 10-day injured list retroactive to May 20, 2026. Mid-back tightness.",
+      "player": "Matt Shaw"
     },
     {
       "date": "2026-05-22",
@@ -28,14 +46,44 @@
     {
       "date": "2026-05-22",
       "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPZack Kellyto Worcester Red Sox.",
+      "player": "Zack Kelly"
+    },
+    {
+      "date": "2026-05-22",
+      "team": "Boston Red Sox",
       "details": "Boston Red Soxselected the contract of RHPTayron Guerrerofrom Worcester Red Sox.",
       "player": "Tayron Guerrero"
+    },
+    {
+      "date": "2026-05-22",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RFConnor Joeto Tacoma Rainiers.",
+      "player": "Connor Joe"
     },
     {
       "date": "2026-05-22",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPYovanny Cruzto Scranton/Wilkes-Barre RailRiders.",
       "player": "Yovanny Cruz"
+    },
+    {
+      "date": "2026-05-22",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled OFBryan Torresfrom Memphis Redbirds.",
+      "player": "Bryan Torres"
+    },
+    {
+      "date": "2026-05-22",
+      "team": "Houston Astros",
+      "details": "Houston Astrosselected the contract of RHPAlimber Santafrom Sugar Land Space Cowboys.",
+      "player": "Alimber Santa"
+    },
+    {
+      "date": "2026-05-22",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled 2BPedro Ramírezfrom Iowa Cubs.",
+      "player": "Pedro Ramírez"
     }
   ]
 }
