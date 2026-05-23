@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-05-23T13:54:17.369405",
+  "last_updated": "2026-05-23T15:08:32.101090",
   "transactions": [
+    {
+      "date": "2026-05-23",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated 2BNicky Lopezfor assignment.",
+      "player": "Nicky Lopez"
+    },
+    {
+      "date": "2026-05-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPTaj Bradleyfrom the 15-day injured list.",
+      "player": "Taj Bradley"
+    },
+    {
+      "date": "2026-05-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsdesignated RHPLuis Garcíafor assignment.",
+      "player": "Luis García"
+    },
     {
       "date": "2026-05-23",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Rayssent RHPMichael Groveon a rehab assignment to FCL Rays.",
       "player": "Michael Grove"
+    },
+    {
+      "date": "2026-05-23",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RFKevin Alcántarafrom Iowa Cubs.",
+      "player": "Kevin Alcántara"
     }
   ]
 }
