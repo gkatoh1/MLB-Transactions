@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-05-23T15:08:32.101090",
+  "last_updated": "2026-05-23T17:11:25.185624",
   "transactions": [
-    {
-      "date": "2026-05-23",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsdesignated 2BNicky Lopezfor assignment.",
-      "player": "Nicky Lopez"
-    },
-    {
-      "date": "2026-05-23",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPTaj Bradleyfrom the 15-day injured list.",
-      "player": "Taj Bradley"
-    },
     {
       "date": "2026-05-23",
       "team": "Minnesota Twins",
@@ -27,9 +15,45 @@
     },
     {
       "date": "2026-05-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RHPJordan Hickson the 15-day injured list retroactive to May 21, 2026. Right lat strain.",
+      "player": "Jordan Hicks"
+    },
+    {
+      "date": "2026-05-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPTaj Bradleyfrom the 15-day injured list.",
+      "player": "Taj Bradley"
+    },
+    {
+      "date": "2026-05-23",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated 2BNicky Lopezfor assignment.",
+      "player": "Nicky Lopez"
+    },
+    {
+      "date": "2026-05-23",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsrecalled RFKevin Alcántarafrom Iowa Cubs.",
       "player": "Kevin Alcántara"
+    },
+    {
+      "date": "2026-05-23",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJonathan Pintarofrom Syracuse Mets.",
+      "player": "Jonathan Pintaro"
+    },
+    {
+      "date": "2026-05-23",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned LHPZach Thorntonto Syracuse Mets.",
+      "player": "Zach Thornton"
+    },
+    {
+      "date": "2026-05-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPJordan Leasurefrom Charlotte Knights.",
+      "player": "Jordan Leasure"
     }
   ]
 }
