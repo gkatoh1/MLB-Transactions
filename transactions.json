@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T17:11:25.185624",
+  "last_updated": "2026-05-23T19:21:58.050375",
   "transactions": [
     {
       "date": "2026-05-23",
@@ -9,21 +9,21 @@
     },
     {
       "date": "2026-05-23",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent RHPMichael Groveon a rehab assignment to FCL Rays.",
-      "player": "Michael Grove"
-    },
-    {
-      "date": "2026-05-23",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxplaced RHPJordan Hickson the 15-day injured list retroactive to May 21, 2026. Right lat strain.",
       "player": "Jordan Hicks"
     },
     {
       "date": "2026-05-23",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPTaj Bradleyfrom the 15-day injured list.",
-      "player": "Taj Bradley"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned 1BBlaine Crimto Round Rock Express.",
+      "player": "Blaine Crim"
+    },
+    {
+      "date": "2026-05-23",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent RHPJared Joneson a rehab assignment to Indianapolis Indians.",
+      "player": "Jared Jones"
     },
     {
       "date": "2026-05-23",
@@ -33,9 +33,39 @@
     },
     {
       "date": "2026-05-23",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled RFKevin Alcántarafrom Iowa Cubs.",
-      "player": "Kevin Alcántara"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent LHPA.J. Pukon a rehab assignment to ACL D-backs.",
+      "player": "A.J. Puk"
+    },
+    {
+      "date": "2026-05-23",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPCarter Baumleron the 60-day injured list. Right intercostal strain.",
+      "player": "Carter Baumler"
+    },
+    {
+      "date": "2026-05-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPTaj Bradleyfrom the 15-day injured list.",
+      "player": "Taj Bradley"
+    },
+    {
+      "date": "2026-05-23",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent LHPCole Raganson a rehab assignment to Omaha Storm Chasers.",
+      "player": "Cole Ragans"
+    },
+    {
+      "date": "2026-05-23",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RHPMichael Groveon a rehab assignment to FCL Rays.",
+      "player": "Michael Grove"
+    },
+    {
+      "date": "2026-05-23",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersclaimed 1BBlaine Crimoff waivers fromColorado Rockies.",
+      "player": "Blaine Crim"
     },
     {
       "date": "2026-05-23",
@@ -54,6 +84,12 @@
       "team": "Chicago White Sox",
       "details": "Chicago White Soxrecalled RHPJordan Leasurefrom Charlotte Knights.",
       "player": "Jordan Leasure"
+    },
+    {
+      "date": "2026-05-23",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RFKevin Alcántarafrom Iowa Cubs.",
+      "player": "Kevin Alcántara"
     }
   ]
 }
