@@ -1,17 +1,11 @@
 {
-  "last_updated": "2026-05-23T22:58:54.053809",
+  "last_updated": "2026-05-24T00:06:19.120888",
   "transactions": [
     {
       "date": "2026-05-23",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksplaced LFLourdes Gurriel Jr.on the 10-day injured list. Left hamstring strain.",
-      "player": "Lourdes Gurriel Jr."
-    },
-    {
-      "date": "2026-05-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced RHPJordan Hickson the 15-day injured list retroactive to May 21, 2026. Right lat strain.",
-      "player": "Jordan Hicks"
+      "details": "Arizona Diamondbackssent LHPA.J. Pukon a rehab assignment to ACL D-backs.",
+      "player": "A.J. Puk"
     },
     {
       "date": "2026-05-23",
@@ -21,15 +15,21 @@
     },
     {
       "date": "2026-05-23",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsdesignated RHPLuis Garcíafor assignment.",
-      "player": "Luis García"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RHPJordan Hickson the 15-day injured list retroactive to May 21, 2026. Right lat strain.",
+      "player": "Jordan Hicks"
     },
     {
       "date": "2026-05-23",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent RHPMichael Groveon a rehab assignment to FCL Rays.",
-      "player": "Michael Grove"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent LHPGabe Speieron a rehab assignment to Tacoma Rainiers.",
+      "player": "Gabe Speier"
+    },
+    {
+      "date": "2026-05-23",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPCarter Baumleron the 60-day injured list. Right intercostal strain.",
+      "player": "Carter Baumler"
     },
     {
       "date": "2026-05-23",
@@ -45,27 +45,15 @@
     },
     {
       "date": "2026-05-23",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced LFLourdes Gurriel Jr.on the 10-day injured list. Left hamstring strain.",
+      "player": "Lourdes Gurriel Jr."
+    },
+    {
+      "date": "2026-05-23",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsactivated LHPCaleb Fergusonfrom the 15-day injured list.",
       "player": "Caleb Ferguson"
-    },
-    {
-      "date": "2026-05-23",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned 1BBlaine Crimto Round Rock Express.",
-      "player": "Blaine Crim"
-    },
-    {
-      "date": "2026-05-23",
-      "team": "New York Yankees",
-      "details": "New York Yankeessigned free agent RHPPeter Strzeleckito a minor league contract.",
-      "player": "Peter Strzelecki"
-    },
-    {
-      "date": "2026-05-23",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent LHPA.J. Pukon a rehab assignment to ACL D-backs.",
-      "player": "A.J. Puk"
     },
     {
       "date": "2026-05-23",
@@ -75,9 +63,27 @@
     },
     {
       "date": "2026-05-23",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned free agent RHPPeter Strzeleckito a minor league contract.",
+      "player": "Peter Strzelecki"
+    },
+    {
+      "date": "2026-05-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsdesignated RHPLuis Garcíafor assignment.",
+      "player": "Luis García"
+    },
+    {
+      "date": "2026-05-23",
       "team": "Texas Rangers",
-      "details": "Texas Rangersplaced RHPCarter Baumleron the 60-day injured list. Right intercostal strain.",
-      "player": "Carter Baumler"
+      "details": "Texas Rangersoptioned 1BBlaine Crimto Round Rock Express.",
+      "player": "Blaine Crim"
+    },
+    {
+      "date": "2026-05-23",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RHPMichael Groveon a rehab assignment to FCL Rays.",
+      "player": "Michael Grove"
     },
     {
       "date": "2026-05-23",
@@ -93,27 +99,15 @@
     },
     {
       "date": "2026-05-23",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPChase Pettyfrom Louisville Bats.",
-      "player": "Chase Petty"
-    },
-    {
-      "date": "2026-05-23",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksselected the contract of SSTommy Troyfrom Reno Aces.",
       "player": "Tommy Troy"
     },
     {
       "date": "2026-05-23",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned LHPZach Thorntonto Syracuse Mets.",
-      "player": "Zach Thornton"
-    },
-    {
-      "date": "2026-05-23",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPJose Francoto Louisville Bats.",
-      "player": "Jose Franco"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersclaimed 1BBlaine Crimoff waivers fromColorado Rockies.",
+      "player": "Blaine Crim"
     },
     {
       "date": "2026-05-23",
@@ -129,9 +123,21 @@
     },
     {
       "date": "2026-05-23",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPJordan Leasurefrom Charlotte Knights.",
+      "player": "Jordan Leasure"
+    },
+    {
+      "date": "2026-05-23",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPConnor Phillipsto Louisville Bats.",
-      "player": "Connor Phillips"
+      "details": "Cincinnati Redsoptioned RHPJose Francoto Louisville Bats.",
+      "player": "Jose Franco"
+    },
+    {
+      "date": "2026-05-23",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPChase Pettyfrom Louisville Bats.",
+      "player": "Chase Petty"
     },
     {
       "date": "2026-05-23",
@@ -141,15 +147,15 @@
     },
     {
       "date": "2026-05-23",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersclaimed 1BBlaine Crimoff waivers fromColorado Rockies.",
-      "player": "Blaine Crim"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned LHPZach Thorntonto Syracuse Mets.",
+      "player": "Zach Thornton"
     },
     {
       "date": "2026-05-23",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled RHPJordan Leasurefrom Charlotte Knights.",
-      "player": "Jordan Leasure"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPConnor Phillipsto Louisville Bats.",
+      "player": "Connor Phillips"
     }
   ]
 }
