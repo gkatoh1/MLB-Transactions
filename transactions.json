@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-05-24T14:40:27.222852",
+  "last_updated": "2026-05-24T16:07:28.478389",
   "transactions": [
+    {
+      "date": "2026-05-24",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated LHPDanny Coulombefrom the 15-day injured list.",
+      "player": "Danny Coulombe"
+    },
     {
       "date": "2026-05-24",
       "team": "Baltimore Orioles",
@@ -9,9 +15,15 @@
     },
     {
       "date": "2026-05-24",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated LHPDanny Coulombefrom the 15-day injured list.",
-      "player": "Danny Coulombe"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced RFJonny DeLucaon the 10-day injured list retroactive to May 23, 2026. Right hamstring strain.",
+      "player": "Jonny DeLuca"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansdesignated RHPPeyton Pallettefor assignment.",
+      "player": "Peyton Pallette"
     },
     {
       "date": "2026-05-24",
@@ -21,15 +33,21 @@
     },
     {
       "date": "2026-05-24",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
-      "player": "Chase Petty"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled CFVictor Mesa Jr.from Durham Bulls.",
+      "player": "Victor Mesa Jr."
     },
     {
       "date": "2026-05-24",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPTyler Samaniegoto Worcester Red Sox.",
-      "player": "Tyler Samaniego"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled LHPDrew Sommersfrom Toledo Mud Hens.",
+      "player": "Drew Sommers"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPCarlos Rodriguezfrom Nashville Sounds.",
+      "player": "Carlos Rodriguez"
     },
     {
       "date": "2026-05-24",
@@ -39,9 +57,45 @@
     },
     {
       "date": "2026-05-24",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled LHPDrew Sommersfrom Toledo Mud Hens.",
-      "player": "Drew Sommers"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled LHPLogan Allenfrom Columbus Clippers.",
+      "player": "Logan Allen"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPTyler Samaniegoto Worcester Red Sox.",
+      "player": "Tyler Samaniego"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
+      "player": "Chase Petty"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPMatt Svansonto Memphis Redbirds.",
+      "player": "Matt Svanson"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled LHPBrycen Mautzfrom Memphis Redbirds.",
+      "player": "Brycen Mautz"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LHPRobert Gasserto Nashville Sounds.",
+      "player": "Robert Gasser"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPRyan Fernandezto Memphis Redbirds.",
+      "player": "Ryan Fernandez"
     }
   ]
 }
