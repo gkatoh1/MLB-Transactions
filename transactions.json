@@ -1,4 +1,47 @@
 {
-  "last_updated": "2026-05-24T12:05:05.665063",
-  "transactions": []
+  "last_updated": "2026-05-24T14:40:27.222852",
+  "transactions": [
+    {
+      "date": "2026-05-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated LHPGrant Wolframfrom the 15-day injured list.",
+      "player": "Grant Wolfram"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated LHPDanny Coulombefrom the 15-day injured list.",
+      "player": "Danny Coulombe"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced LHPBrant Hurteron the 15-day injured list retroactive to May 23, 2026. Lumbar spine inflammation.",
+      "player": "Brant Hurter"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
+      "player": "Chase Petty"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPTyler Samaniegoto Worcester Red Sox.",
+      "player": "Tyler Samaniego"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPRicky Vanascofrom Toledo Mud Hens.",
+      "player": "Ricky Vanasco"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled LHPDrew Sommersfrom Toledo Mud Hens.",
+      "player": "Drew Sommers"
+    }
+  ]
 }
