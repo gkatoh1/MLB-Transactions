@@ -1,47 +1,23 @@
 {
-  "last_updated": "2026-05-24T20:11:42.627840",
+  "last_updated": "2026-05-24T22:01:27.309457",
   "transactions": [
     {
       "date": "2026-05-24",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated LHPDanny Coulombefrom the 15-day injured list.",
-      "player": "Danny Coulombe"
-    },
-    {
-      "date": "2026-05-24",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent RHPRyan Feltneron a rehab assignment to Albuquerque Isotopes.",
-      "player": "Ryan Feltner"
-    },
-    {
-      "date": "2026-05-24",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated RHPTroy Meltonfrom the 60-day injured list.",
-      "player": "Troy Melton"
-    },
-    {
-      "date": "2026-05-24",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersplaced LHPBrant Hurteron the 15-day injured list retroactive to May 23, 2026. Lumbar spine inflammation.",
-      "player": "Brant Hurter"
-    },
-    {
-      "date": "2026-05-24",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansdesignated RHPPeyton Pallettefor assignment.",
-      "player": "Peyton Pallette"
-    },
-    {
-      "date": "2026-05-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsplaced RHPJake Irvinon the 15-day injured list. Right shoulder strain.",
-      "player": "Jake Irvin"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated LHPGrant Wolframfrom the 15-day injured list.",
+      "player": "Grant Wolfram"
     },
     {
       "date": "2026-05-24",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsplaced RHPEdward Cabreraon the 15-day injured list retroactive to May 21, 2026. Right middle-finger blister.",
       "player": "Edward Cabrera"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced LHPBrant Hurteron the 15-day injured list retroactive to May 23, 2026. Lumbar spine inflammation.",
+      "player": "Brant Hurter"
     },
     {
       "date": "2026-05-24",
@@ -52,14 +28,62 @@
     {
       "date": "2026-05-24",
       "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPTroy Meltonfrom the 60-day injured list.",
+      "player": "Troy Melton"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansdesignated RHPPeyton Pallettefor assignment.",
+      "player": "Peyton Pallette"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent RHPRyan Feltneron a rehab assignment to Albuquerque Isotopes.",
+      "player": "Ryan Feltner"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced RHPJake Irvinon the 15-day injured list. Right shoulder strain.",
+      "player": "Jake Irvin"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPHunter Brownon a rehab assignment to Corpus Christi Hooks.",
+      "player": "Hunter Brown"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Detroit Tigers",
       "details": "Detroit Tigersdesignated RHPConnor Seaboldfor assignment.",
       "player": "Connor Seabold"
     },
     {
       "date": "2026-05-24",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated LHPGrant Wolframfrom the 15-day injured list.",
-      "player": "Grant Wolfram"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPCole Winnon the 15-day injured list. Right arm fatigue.",
+      "player": "Cole Winn"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated LHPDanny Coulombefrom the 15-day injured list.",
+      "player": "Danny Coulombe"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent LFJoey Loperfidoon a rehab assignment to Corpus Christi Hooks.",
+      "player": "Joey Loperfido"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPJordan Wicksfrom Iowa Cubs.",
+      "player": "Jordan Wicks"
     },
     {
       "date": "2026-05-24",
@@ -75,9 +99,33 @@
     },
     {
       "date": "2026-05-24",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPGavin Collyerfrom Round Rock Express.",
+      "player": "Gavin Collyer"
+    },
+    {
+      "date": "2026-05-24",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansrecalled LHPLogan Allenfrom Columbus Clippers.",
       "player": "Logan Allen"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled LHPDrew Sommersfrom Toledo Mud Hens.",
+      "player": "Drew Sommers"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPCarlos Rodriguezfrom Nashville Sounds.",
+      "player": "Carlos Rodriguez"
+    },
+    {
+      "date": "2026-05-24",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled LHPPJ Poulinfrom Rochester Red Wings.",
+      "player": "PJ Poulin"
     },
     {
       "date": "2026-05-24",
@@ -105,39 +153,15 @@
     },
     {
       "date": "2026-05-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled LHPPJ Poulinfrom Rochester Red Wings.",
-      "player": "PJ Poulin"
-    },
-    {
-      "date": "2026-05-24",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned LHPTyler Samaniegoto Worcester Red Sox.",
       "player": "Tyler Samaniego"
     },
     {
       "date": "2026-05-24",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled LHPDrew Sommersfrom Toledo Mud Hens.",
-      "player": "Drew Sommers"
-    },
-    {
-      "date": "2026-05-24",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPCarlos Rodriguezfrom Nashville Sounds.",
-      "player": "Carlos Rodriguez"
-    },
-    {
-      "date": "2026-05-24",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsoptioned RHPRyan Fernandezto Memphis Redbirds.",
       "player": "Ryan Fernandez"
-    },
-    {
-      "date": "2026-05-24",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled LHPJordan Wicksfrom Iowa Cubs.",
-      "player": "Jordan Wicks"
     }
   ]
 }
