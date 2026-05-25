@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T17:10:40.635654",
+  "last_updated": "2026-05-25T19:51:43.166341",
   "transactions": [
     {
       "date": "2026-05-25",
@@ -10,8 +10,8 @@
     {
       "date": "2026-05-25",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPShane Bieberon a rehab assignment to FCL Blue Jays.",
-      "player": "Shane Bieber"
+      "details": "Toronto Blue Jaysactivated RFNathan Lukesfrom the 10-day injured list.",
+      "player": "Nathan Lukes"
     },
     {
       "date": "2026-05-25",
@@ -21,15 +21,39 @@
     },
     {
       "date": "2026-05-25",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssigned free agent RHPTaijuan Walkerto a minor league contract.",
+      "player": "Taijuan Walker"
+    },
+    {
+      "date": "2026-05-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPShane Bieberon a rehab assignment to FCL Blue Jays.",
+      "player": "Shane Bieber"
+    },
+    {
+      "date": "2026-05-25",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced LHPErik Sabrowskion the 15-day injured list retroactive to May 22, 2026. Left elbow inflammation.",
+      "player": "Erik Sabrowski"
+    },
+    {
+      "date": "2026-05-25",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPTy Maddenon a rehab assignment to Toledo Mud Hens.",
+      "player": "Ty Madden"
+    },
+    {
+      "date": "2026-05-25",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxdesignated RFJarred Kelenicfor assignment.",
       "player": "Jarred Kelenic"
     },
     {
       "date": "2026-05-25",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RFGabriel Gonzalezto St. Paul Saints.",
-      "player": "Gabriel Gonzalez"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFDavis Schneiderto Buffalo Bisons.",
+      "player": "Davis Schneider"
     },
     {
       "date": "2026-05-25",
@@ -39,9 +63,21 @@
     },
     {
       "date": "2026-05-25",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPCodi Heuerfrom Columbus Clippers.",
+      "player": "Codi Heuer"
+    },
+    {
+      "date": "2026-05-25",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxselected the contract of OFRikuu Nishidafrom Charlotte Knights.",
       "player": "Rikuu Nishida"
+    },
+    {
+      "date": "2026-05-25",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RFGabriel Gonzalezto St. Paul Saints.",
+      "player": "Gabriel Gonzalez"
     }
   ]
 }
