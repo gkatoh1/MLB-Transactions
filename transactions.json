@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-05-25T10:24:01.747094",
+  "last_updated": "2026-05-25T14:13:41.196764",
   "transactions": [
     {
       "date": "2026-05-25",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesdesignated RHPAlbert Suárezfor assignment.",
       "player": "Albert Suárez"
+    },
+    {
+      "date": "2026-05-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPShane Bieberon a rehab assignment to FCL Blue Jays.",
+      "player": "Shane Bieber"
+    },
+    {
+      "date": "2026-05-25",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned LHPDrew Sommersto Toledo Mud Hens.",
+      "player": "Drew Sommers"
     }
   ]
 }
