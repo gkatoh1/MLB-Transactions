@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-25T14:13:41.196764",
+  "last_updated": "2026-05-25T17:10:40.635654",
   "transactions": [
     {
       "date": "2026-05-25",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPAlbert Suárezfor assignment.",
-      "player": "Albert Suárez"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated 3BTristan Grayfrom the paternity list.",
+      "player": "Tristan Gray"
     },
     {
       "date": "2026-05-25",
@@ -15,9 +15,33 @@
     },
     {
       "date": "2026-05-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPAlbert Suárezfor assignment.",
+      "player": "Albert Suárez"
+    },
+    {
+      "date": "2026-05-25",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RFJarred Kelenicfor assignment.",
+      "player": "Jarred Kelenic"
+    },
+    {
+      "date": "2026-05-25",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RFGabriel Gonzalezto St. Paul Saints.",
+      "player": "Gabriel Gonzalez"
+    },
+    {
+      "date": "2026-05-25",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersoptioned LHPDrew Sommersto Toledo Mud Hens.",
       "player": "Drew Sommers"
+    },
+    {
+      "date": "2026-05-25",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxselected the contract of OFRikuu Nishidafrom Charlotte Knights.",
+      "player": "Rikuu Nishida"
     }
   ]
 }
