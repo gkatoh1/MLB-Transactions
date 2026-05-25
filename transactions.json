@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-25T19:51:43.166341",
+  "last_updated": "2026-05-25T21:17:29.556948",
   "transactions": [
     {
       "date": "2026-05-25",
@@ -9,9 +9,15 @@
     },
     {
       "date": "2026-05-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated RFNathan Lukesfrom the 10-day injured list.",
-      "player": "Nathan Lukes"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated 3BSantiago Espinalfor assignment.",
+      "player": "Santiago Espinal"
+    },
+    {
+      "date": "2026-05-25",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RFJarred Kelenicfor assignment.",
+      "player": "Jarred Kelenic"
     },
     {
       "date": "2026-05-25",
@@ -27,15 +33,27 @@
     },
     {
       "date": "2026-05-25",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced LHPErik Sabrowskion the 15-day injured list retroactive to May 22, 2026. Left elbow inflammation.",
+      "player": "Erik Sabrowski"
+    },
+    {
+      "date": "2026-05-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RFNathan Lukesfrom the 10-day injured list.",
+      "player": "Nathan Lukes"
+    },
+    {
+      "date": "2026-05-25",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssent RHPShane Bieberon a rehab assignment to FCL Blue Jays.",
       "player": "Shane Bieber"
     },
     {
       "date": "2026-05-25",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansplaced LHPErik Sabrowskion the 15-day injured list retroactive to May 22, 2026. Left elbow inflammation.",
-      "player": "Erik Sabrowski"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated 1BEnrique Hernándezfrom the 60-day injured list.",
+      "player": "Enrique Hernández"
     },
     {
       "date": "2026-05-25",
@@ -46,14 +64,8 @@
     {
       "date": "2026-05-25",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated RFJarred Kelenicfor assignment.",
-      "player": "Jarred Kelenic"
-    },
-    {
-      "date": "2026-05-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LFDavis Schneiderto Buffalo Bisons.",
-      "player": "Davis Schneider"
+      "details": "Chicago White Soxselected the contract of OFRikuu Nishidafrom Charlotte Knights.",
+      "player": "Rikuu Nishida"
     },
     {
       "date": "2026-05-25",
@@ -63,21 +75,21 @@
     },
     {
       "date": "2026-05-25",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RFGabriel Gonzalezto St. Paul Saints.",
+      "player": "Gabriel Gonzalez"
+    },
+    {
+      "date": "2026-05-25",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansrecalled RHPCodi Heuerfrom Columbus Clippers.",
       "player": "Codi Heuer"
     },
     {
       "date": "2026-05-25",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of OFRikuu Nishidafrom Charlotte Knights.",
-      "player": "Rikuu Nishida"
-    },
-    {
-      "date": "2026-05-25",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RFGabriel Gonzalezto St. Paul Saints.",
-      "player": "Gabriel Gonzalez"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFDavis Schneiderto Buffalo Bisons.",
+      "player": "Davis Schneider"
     }
   ]
 }
