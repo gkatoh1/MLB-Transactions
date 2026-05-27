@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-05-27T16:41:18.458841",
+  "last_updated": "2026-05-27T19:29:15.686469",
   "transactions": [
+    {
+      "date": "2026-05-27",
+      "team": "New York Mets",
+      "details": "New York Metssent 1BJorge Polancoon a rehab assignment to Binghamton Rumble Ponies.",
+      "player": "Jorge Polanco"
+    },
+    {
+      "date": "2026-05-27",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced LFGavin Luxon the 60-day injured list. Right shoulder impingement.",
+      "player": "Gavin Lux"
+    },
     {
       "date": "2026-05-27",
       "team": "Toronto Blue Jays",
@@ -9,9 +21,9 @@
     },
     {
       "date": "2026-05-27",
-      "team": "New York Mets",
-      "details": "New York Metssent 1BJorge Polancoon a rehab assignment to Binghamton Rumble Ponies.",
-      "player": "Jorge Polanco"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RHPJosé Berríoson the 60-day injured list. Right elbow stress fracture.",
+      "player": "José Berríos"
     },
     {
       "date": "2026-05-27",
@@ -30,6 +42,42 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysoptioned RHPTanner Andrewsto Buffalo Bisons.",
       "player": "Tanner Andrews"
+    },
+    {
+      "date": "2026-05-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPTrey Gibsonfrom Norfolk Tides.",
+      "player": "Trey Gibson"
+    },
+    {
+      "date": "2026-05-27",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPTrevor Martinto Durham Bulls.",
+      "player": "Trevor Martin"
+    },
+    {
+      "date": "2026-05-27",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysselected the contract of RHPJonathan Heasleyfrom Durham Bulls.",
+      "player": "Jonathan Heasley"
+    },
+    {
+      "date": "2026-05-27",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerstraded RHP Connor Seabold toToronto Blue Jaysfor LHPJuanmi Vasquez.",
+      "player": "Juanmi Vasquez"
+    },
+    {
+      "date": "2026-05-27",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerstraded RHPConnor SeaboldtoToronto Blue Jaysfor LHP Juanmi Vasquez.",
+      "player": "Connor Seabold"
+    },
+    {
+      "date": "2026-05-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPNick Raquetto Norfolk Tides.",
+      "player": "Nick Raquet"
     }
   ]
 }
