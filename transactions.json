@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-05-28T10:17:53.014161",
+  "last_updated": "2026-05-28T14:41:31.130635",
   "transactions": [
+    {
+      "date": "2026-05-28",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated LHPDrew Pomeranzfrom the 15-day injured list.",
+      "player": "Drew Pomeranz"
+    },
     {
       "date": "2026-05-28",
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned LHPPJ Poulinto Rochester Red Wings.",
       "player": "PJ Poulin"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned LHPTayler Saucedoto Salt Lake Bees.",
+      "player": "Tayler Saucedo"
     }
   ]
 }
