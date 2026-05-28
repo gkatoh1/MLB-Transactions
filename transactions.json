@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-05-28T21:12:22.257781",
+  "last_updated": "2026-05-28T23:23:15.578554",
   "transactions": [
+    {
+      "date": "2026-05-28",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPKodai Sengaon a rehab assignment to Syracuse Mets.",
+      "player": "Kodai Senga"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiestransferred LHPJose Quintanafrom the 15-day injured list to the 60-day injured list. Left elbow sprain.",
+      "player": "Jose Quintana"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RHPConnor Seabold.",
+      "player": "Connor Seabold"
+    },
     {
       "date": "2026-05-28",
       "team": "Washington Nationals",
@@ -27,6 +45,18 @@
     },
     {
       "date": "2026-05-28",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystransferred RHPLazaro Estradafrom the 15-day injured list to the 60-day injured list. Right shoulder impingement.",
+      "player": "Lazaro Estrada"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersreleased DHAndrew McCutchen.",
+      "player": "Andrew McCutchen"
+    },
+    {
+      "date": "2026-05-28",
       "team": "Unknown Team",
       "details": "RHPAlbert Suárezelected free agency.",
       "player": "Albert Suárez"
@@ -45,33 +75,27 @@
     },
     {
       "date": "2026-05-28",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent RHPJuan Corderoto a minor league contract.",
-      "player": "Juan Cordero"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated LFHeston Kjerstadfrom the 60-day injured list.",
+      "player": "Heston Kjerstad"
     },
     {
       "date": "2026-05-28",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent RHPJuan Corderoto a minor league contract.",
-      "player": "Juan Cordero"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced CFSteven Kwanon the paternity list.",
+      "player": "Steven Kwan"
     },
     {
       "date": "2026-05-28",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated RHPConnor Seabold.",
-      "player": "Connor Seabold"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated 3BCody Freemanfrom the 10-day injured list.",
+      "player": "Cody Freeman"
     },
     {
       "date": "2026-05-28",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxplaced RHPGarrett Whitlockon the 15-day injured list retroactive to May 25, 2026. Left knee inflammation.",
       "player": "Garrett Whitlock"
-    },
-    {
-      "date": "2026-05-28",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaystransferred RHPLazaro Estradafrom the 15-day injured list to the 60-day injured list. Right shoulder impingement.",
-      "player": "Lazaro Estrada"
     },
     {
       "date": "2026-05-28",
@@ -87,9 +111,57 @@
     },
     {
       "date": "2026-05-28",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent RHPJuan Corderoto a minor league contract.",
+      "player": "Juan Cordero"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent RHPJuan Corderoto a minor league contract.",
+      "player": "Juan Cordero"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated RHPJeff Criswellfrom the 60-day injured list.",
+      "player": "Jeff Criswell"
+    },
+    {
+      "date": "2026-05-28",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysoptioned RHPChase Leeto Buffalo Bisons.",
       "player": "Chase Lee"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
+      "player": "Travis Adams"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent 3BSantiago Espinaloutright to Oklahoma City Comets.",
+      "player": "Santiago Espinal"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned LFOtto Kempto Lehigh Valley IronPigs.",
+      "player": "Otto Kemp"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned LFWill Brennanto Sacramento River Cats.",
+      "player": "Will Brennan"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPJeff Criswellto Albuquerque Isotopes.",
+      "player": "Jeff Criswell"
     },
     {
       "date": "2026-05-28",
@@ -99,15 +171,9 @@
     },
     {
       "date": "2026-05-28",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of 2BCharles McAdoofrom Buffalo Bisons.",
-      "player": "Charles McAdoo"
-    },
-    {
-      "date": "2026-05-28",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned LHPTayler Saucedoto Salt Lake Bees.",
-      "player": "Tayler Saucedo"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled LFTyler Callihanfrom Indianapolis Indians.",
+      "player": "Tyler Callihan"
     },
     {
       "date": "2026-05-28",
@@ -117,9 +183,51 @@
     },
     {
       "date": "2026-05-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPTrey Gibsonto Norfolk Tides.",
+      "player": "Trey Gibson"
+    },
+    {
+      "date": "2026-05-28",
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned LHPPJ Poulinto Rochester Red Wings.",
       "player": "PJ Poulin"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of 2BCharles McAdoofrom Buffalo Bisons.",
+      "player": "Charles McAdoo"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned 3BCody Freemanto Round Rock Express.",
+      "player": "Cody Freeman"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned OFEsmerlyn Valdezto Indianapolis Indians.",
+      "player": "Esmerlyn Valdez"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of RHPCameron Westonfrom Norfolk Tides.",
+      "player": "Cameron Weston"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned LHPTayler Saucedoto Salt Lake Bees.",
+      "player": "Tayler Saucedo"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LFHeston Kjerstadto Norfolk Tides.",
+      "player": "Heston Kjerstad"
     }
   ]
 }
