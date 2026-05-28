@@ -1,11 +1,41 @@
 {
-  "last_updated": "2026-05-28T14:41:31.130635",
+  "last_updated": "2026-05-28T18:16:47.173187",
   "transactions": [
+    {
+      "date": "2026-05-28",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned free agent RHPBraylin Morenoto a minor league contract.",
+      "player": "Braylin Moreno"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced RHPKenley Jansenon the 15-day injured list. Pelvic inflammation.",
+      "player": "Kenley Jansen"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Unknown Team",
+      "details": "RHPAlbert Suárezelected free agency.",
+      "player": "Albert Suárez"
+    },
     {
       "date": "2026-05-28",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsactivated LHPDrew Pomeranzfrom the 15-day injured list.",
       "player": "Drew Pomeranz"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent RHPJuan Corderoto a minor league contract.",
+      "player": "Juan Cordero"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent RHPJuan Corderoto a minor league contract.",
+      "player": "Juan Cordero"
     },
     {
       "date": "2026-05-28",
@@ -18,6 +48,18 @@
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsoptioned LHPTayler Saucedoto Salt Lake Bees.",
       "player": "Tayler Saucedo"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPChase Leeto Buffalo Bisons.",
+      "player": "Chase Lee"
+    },
+    {
+      "date": "2026-05-28",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled LHPDrew Sommersfrom Toledo Mud Hens.",
+      "player": "Drew Sommers"
     }
   ]
 }
