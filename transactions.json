@@ -1,17 +1,23 @@
 {
-  "last_updated": "2026-05-29T16:49:56.218777",
+  "last_updated": "2026-05-29T19:35:40.809935",
   "transactions": [
     {
       "date": "2026-05-29",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated RHPCarlos Carrascofor assignment.",
-      "player": "Carlos Carrasco"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced RHPGraham Ashcrafton the 60-day injured list. Right forearm UCL sprain.",
+      "player": "Graham Ashcraft"
     },
     {
       "date": "2026-05-29",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced LHPKendry Rojason the 15-day injured list retroactive to May 26, 2026. Left elbow inflammation.",
-      "player": "Kendry Rojas"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated RHPJustin Lawrencefor assignment.",
+      "player": "Justin Lawrence"
+    },
+    {
+      "date": "2026-05-29",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated 2BBen Williamsonfrom the 10-day injured list.",
+      "player": "Ben Williamson"
     },
     {
       "date": "2026-05-29",
@@ -21,9 +27,57 @@
     },
     {
       "date": "2026-05-29",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPJared Koenigon a rehab assignment to Nashville Sounds.",
+      "player": "Jared Koenig"
+    },
+    {
+      "date": "2026-05-29",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianstransferred SSGabriel Ariasfrom the 10-day injured list to the 60-day injured list. Left hamstring strain.",
+      "player": "Gabriel Arias"
+    },
+    {
+      "date": "2026-05-29",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPCarlos Carrascofor assignment.",
+      "player": "Carlos Carrasco"
+    },
+    {
+      "date": "2026-05-29",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsactivated RHPCody Lawerysonfrom the 15-day injured list.",
       "player": "Cody Laweryson"
+    },
+    {
+      "date": "2026-05-29",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated RHPJonathan Heasleyfor assignment.",
+      "player": "Jonathan Heasley"
+    },
+    {
+      "date": "2026-05-29",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated RHPCole Henryfrom the 15-day injured list.",
+      "player": "Cole Henry"
+    },
+    {
+      "date": "2026-05-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RHPJordan Leasureon the 15-day injured list. Right flexor strain.",
+      "player": "Jordan Leasure"
+    },
+    {
+      "date": "2026-05-29",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced LHPKendry Rojason the 15-day injured list retroactive to May 26, 2026. Left elbow inflammation.",
+      "player": "Kendry Rojas"
+    },
+    {
+      "date": "2026-05-29",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RHPJared Jonesfrom the 60-day injured list.",
+      "player": "Jared Jones"
     },
     {
       "date": "2026-05-29",
@@ -33,21 +87,75 @@
     },
     {
       "date": "2026-05-29",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPAnthony Molinafrom Gwinnett Stripers.",
-      "player": "Anthony Molina"
-    },
-    {
-      "date": "2026-05-29",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsoptioned RHPTravis Adamsto St. Paul Saints.",
       "player": "Travis Adams"
     },
     {
       "date": "2026-05-29",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPTyler Gilbertfrom Charlotte Knights.",
+      "player": "Tyler Gilbert"
+    },
+    {
+      "date": "2026-05-29",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned SSCarson Williamsto Durham Bulls.",
+      "player": "Carson Williams"
+    },
+    {
+      "date": "2026-05-29",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled CJimmy Crooksfrom Memphis Redbirds.",
+      "player": "Jimmy Crooks"
+    },
+    {
+      "date": "2026-05-29",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysselected the contract of RHPAndrew Wantzfrom Durham Bulls.",
+      "player": "Andrew Wantz"
+    },
+    {
+      "date": "2026-05-29",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsrecalled LHPKody Funderburkfrom St. Paul Saints.",
       "player": "Kody Funderburk"
+    },
+    {
+      "date": "2026-05-29",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPAnthony Molinafrom Gwinnett Stripers.",
+      "player": "Anthony Molina"
+    },
+    {
+      "date": "2026-05-29",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned CYohel Pozoto Memphis Redbirds.",
+      "player": "Yohel Pozo"
+    },
+    {
+      "date": "2026-05-29",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of RHPYunior Martefrom Louisville Bats.",
+      "player": "Yunior Marte"
+    },
+    {
+      "date": "2026-05-29",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsselected the contract of OFNelson Velázquezfrom Memphis Redbirds.",
+      "player": "Nelson Velázquez"
+    },
+    {
+      "date": "2026-05-29",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned 3BCésar Prietoto Memphis Redbirds.",
+      "player": "César Prieto"
+    },
+    {
+      "date": "2026-05-29",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansselected the contract of RFStuart Fairchildfrom Columbus Clippers.",
+      "player": "Stuart Fairchild"
     }
   ]
 }
