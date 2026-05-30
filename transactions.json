@@ -1,29 +1,11 @@
 {
-  "last_updated": "2026-05-30T20:12:23.714652",
+  "last_updated": "2026-05-30T22:05:49.755855",
   "transactions": [
     {
       "date": "2026-05-30",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent LFJordan Lawlaron a rehab assignment to ACL D-backs.",
-      "player": "Jordan Lawlar"
-    },
-    {
-      "date": "2026-05-30",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxtransferred RHPJordan Leasurefrom the 15-day injured list to the 60-day injured list. Right flexor strain.",
-      "player": "Jordan Leasure"
-    },
-    {
-      "date": "2026-05-30",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated LHPAnderson Severinofor assignment.",
-      "player": "Anderson Severino"
-    },
-    {
-      "date": "2026-05-30",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsplaced LHPAndrew Nardion the 15-day injured list retroactive to May 28, 2026. Left rib cage stress reaction.",
-      "player": "Andrew Nardi"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated RHPRyan Feltnerfrom the 15-day injured list.",
+      "player": "Ryan Feltner"
     },
     {
       "date": "2026-05-30",
@@ -33,27 +15,15 @@
     },
     {
       "date": "2026-05-30",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysdesignated RHPAustin Vothfor assignment.",
-      "player": "Austin Voth"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated RHPZach Popfrom the 15-day injured list.",
+      "player": "Zach Pop"
     },
     {
       "date": "2026-05-30",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssigned free agent RHPAndrou Gabrielto a minor league contract.",
-      "player": "Androu Gabriel"
-    },
-    {
-      "date": "2026-05-30",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned free agent SSMoises Semeriteto a minor league contract.",
-      "player": "Moises Semerite"
-    },
-    {
-      "date": "2026-05-30",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessigned free agent RHPKevin Mezato a minor league contract.",
-      "player": "Kevin Meza"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsdesignated RHPKyle Nicolasfor assignment.",
+      "player": "Kyle Nicolas"
     },
     {
       "date": "2026-05-30",
@@ -69,9 +39,99 @@
     },
     {
       "date": "2026-05-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced RHPPierce Johnsonon the 15-day injured list retroactive to May 27, 2026. Right elbow inflammation.",
+      "player": "Pierce Johnson"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesdesignated RHPZach Popfor assignment.",
+      "player": "Zach Pop"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated RHPMax Lazarfrom the 60-day injured list.",
+      "player": "Max Lazar"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxtransferred RHPJordan Leasurefrom the 15-day injured list to the 60-day injured list. Right flexor strain.",
+      "player": "Jordan Leasure"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated LHPAnderson Severinofor assignment.",
+      "player": "Anderson Severino"
+    },
+    {
+      "date": "2026-05-30",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxsigned free agent OFJuan Martinezto a minor league contract.",
       "player": "Juan Martinez"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced LHPWelinton Herreraon the 15-day injured list. Left elbow inflammation.",
+      "player": "Welinton Herrera"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced LHPAndrew Nardion the 15-day injured list retroactive to May 28, 2026. Left rib cage stress reaction.",
+      "player": "Andrew Nardi"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent LFWyatt Langfordon a rehab assignment to Round Rock Express.",
+      "player": "Wyatt Langford"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssigned free agent RHPAndrou Gabrielto a minor league contract.",
+      "player": "Androu Gabriel"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced RHPPierce Johnsonon the 15-day injured list. Right elbow inflammation.",
+      "player": "Pierce Johnson"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Athletics",
+      "details": "Athleticssent 3BMax Muncyon a rehab assignment to Las Vegas Aviators.",
+      "player": "Max Muncy"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessigned free agent RHPKevin Mezato a minor league contract.",
+      "player": "Kevin Meza"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Athletics",
+      "details": "Athleticsplaced RHPLuis Severinoon the 15-day injured list. Right should strain.",
+      "player": "Luis Severino"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated RHPAustin Vothfor assignment.",
+      "player": "Austin Voth"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent 2BGleyber Torreson a rehab assignment to Toledo Mud Hens.",
+      "player": "Gleyber Torres"
     },
     {
       "date": "2026-05-30",
@@ -81,9 +141,33 @@
     },
     {
       "date": "2026-05-30",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent SSMoises Semeriteto a minor league contract.",
+      "player": "Moises Semerite"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent LFJordan Lawlaron a rehab assignment to ACL D-backs.",
+      "player": "Jordan Lawlar"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Athletics",
+      "details": "Athleticsplaced RHPLuis Severinoon the 15-day injured list. Right arm discomfort.",
+      "player": "Luis Severino"
+    },
+    {
+      "date": "2026-05-30",
       "team": "New York Mets",
       "details": "New York Metsoptioned RHPTobias Myersto Syracuse Mets.",
       "player": "Tobias Myers"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of RHPLyon Richardsonfrom Louisville Bats.",
+      "player": "Lyon Richardson"
     },
     {
       "date": "2026-05-30",
@@ -94,8 +178,8 @@
     {
       "date": "2026-05-30",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPHunter Biggeto Durham Bulls.",
-      "player": "Hunter Bigge"
+      "details": "Tampa Bay Rayssent RHPJonathan Heasleyoutright to Durham Bulls.",
+      "player": "Jonathan Heasley"
     },
     {
       "date": "2026-05-30",
@@ -105,21 +189,45 @@
     },
     {
       "date": "2026-05-30",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled RHPWilliam Kempnerfrom Jacksonville Jumbo Shrimp.",
-      "player": "William Kempner"
-    },
-    {
-      "date": "2026-05-30",
       "team": "New York Mets",
       "details": "New York Metsselected the contract of LHPCionel Pérezfrom Syracuse Mets.",
       "player": "Cionel Pérez"
     },
     {
       "date": "2026-05-30",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPHunter Biggeto Durham Bulls.",
+      "player": "Hunter Bigge"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPWilliam Kempnerfrom Jacksonville Jumbo Shrimp.",
+      "player": "William Kempner"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPMax Lazarto Lehigh Valley IronPigs.",
+      "player": "Max Lazar"
+    },
+    {
+      "date": "2026-05-30",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysselected the contract of RHPHayden Juengerfrom Buffalo Bisons.",
       "player": "Hayden Juenger"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent RFJarred Kelenicoutright to Charlotte Knights.",
+      "player": "Jarred Kelenic"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPMichael Kellyfrom Las Vegas Aviators.",
+      "player": "Michael Kelly"
     }
   ]
 }
