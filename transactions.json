@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-05-30T12:08:11.525403",
+  "last_updated": "2026-05-30T14:43:26.162167",
   "transactions": [
     {
       "date": "2026-05-30",
-      "team": "Colorado Rockies",
-      "details": "OFIshel Comenenciaassigned to DSL Rockies fromColorado Rockies.",
-      "player": "Ishel Comenencia"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsdesignated RHPSimeon Woods Richardsonfor assignment.",
+      "player": "Simeon Woods Richardson"
+    },
+    {
+      "date": "2026-05-30",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPJohn Kleinfrom St. Paul Saints.",
+      "player": "John Klein"
     }
   ]
 }
