@@ -1,4 +1,23 @@
 {
-  "last_updated": "2026-05-31T05:23:48.730861",
-  "transactions": []
+  "last_updated": "2026-05-31T09:14:42.787626",
+  "transactions": [
+    {
+      "date": "2026-05-31",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent RHPJeremy Barretoto a minor league contract.",
+      "player": "Jeremy Barreto"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPCristian Alvinoto a minor league contract.",
+      "player": "Cristian Alvino"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent OFPedro Tovarto a minor league contract.",
+      "player": "Pedro Tovar"
+    }
+  ]
 }
