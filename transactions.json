@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-05-31T11:43:11.318913",
+  "last_updated": "2026-05-31T14:02:22.029775",
   "transactions": [
     {
       "date": "2026-05-31",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressigned free agent RHPJeremy Barretoto a minor league contract.",
-      "player": "Jeremy Barreto"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent OFPedro Tovarto a minor league contract.",
+      "player": "Pedro Tovar"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPMax Scherzeron a rehab assignment to Buffalo Bisons.",
+      "player": "Max Scherzer"
     },
     {
       "date": "2026-05-31",
@@ -15,9 +21,9 @@
     },
     {
       "date": "2026-05-31",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent OFPedro Tovarto a minor league contract.",
-      "player": "Pedro Tovar"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent RHPJeremy Barretoto a minor league contract.",
+      "player": "Jeremy Barreto"
     }
   ]
 }
