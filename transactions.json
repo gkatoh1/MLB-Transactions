@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-05-31T14:02:22.029775",
+  "last_updated": "2026-05-31T16:18:10.973571",
   "transactions": [
+    {
+      "date": "2026-05-31",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerstransferred LHPAngel Zerpafrom the 15-day injured list to the 60-day injured list. Left forearm tightness.",
+      "player": "Angel Zerpa"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPBailey Oberon the 15-day injured list. Right elbow inflammation.",
+      "player": "Bailey Ober"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPCristian Alvinoto a minor league contract.",
+      "player": "Cristian Alvino"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPShane Bieberon a rehab assignment to Dunedin Blue Jays.",
+      "player": "Shane Bieber"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated LHPMatt Strahmfrom the 15-day injured list.",
+      "player": "Matt Strahm"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Chicago White Sox",
+      "details": "LHPTyler Gilbertroster status changed byChicago White Sox.",
+      "player": "Tyler Gilbert"
+    },
     {
       "date": "2026-05-31",
       "team": "Baltimore Orioles",
@@ -15,15 +51,99 @@
     },
     {
       "date": "2026-05-31",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated RHPAndrew Wantzfor assignment.",
+      "player": "Andrew Wantz"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced RHPCraig Kimbrelon the 15-day injured list retroactive to May 28, 2026. Right wrist strain.",
+      "player": "Craig Kimbrel"
+    },
+    {
+      "date": "2026-05-31",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinssigned free agent RHPCristian Alvinoto a minor league contract.",
-      "player": "Cristian Alvino"
+      "details": "Minnesota Twinsactivated RHPMike Paredes.",
+      "player": "Mike Paredes"
     },
     {
       "date": "2026-05-31",
       "team": "San Diego Padres",
       "details": "San Diego Padressigned free agent RHPJeremy Barretoto a minor league contract.",
       "player": "Jeremy Barreto"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated LHPRob Zastryznyfrom the 60-day injured list.",
+      "player": "Rob Zastryzny"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RFKerry Carpenterfrom the 10-day injured list.",
+      "player": "Kerry Carpenter"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled LHPCam Booserfrom Durham Bulls.",
+      "player": "Cam Booser"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPTrevor Martinfrom Durham Bulls.",
+      "player": "Trevor Martin"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPChris Murphyfrom Charlotte Knights.",
+      "player": "Chris Murphy"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPJohn Kleinto St. Paul Saints.",
+      "player": "John Klein"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPTravis Adamsfrom St. Paul Saints.",
+      "player": "Travis Adams"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsselected the contract of RHPMike Paredesfrom St. Paul Saints.",
+      "player": "Mike Paredes"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPCarlos Rodriguezto Nashville Sounds.",
+      "player": "Carlos Rodriguez"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPEric Cerantolato Omaha Storm Chasers.",
+      "player": "Eric Cerantola"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned 3BGage Workmanto Toledo Mud Hens.",
+      "player": "Gage Workman"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LHPDietrich Ennsoutright to Norfolk Tides.",
+      "player": "Dietrich Enns"
     }
   ]
 }
