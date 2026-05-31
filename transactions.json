@@ -1,83 +1,11 @@
 {
-  "last_updated": "2026-05-31T18:08:57.027431",
+  "last_updated": "2026-05-31T20:17:09.609695",
   "transactions": [
-    {
-      "date": "2026-05-31",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated LHPJack Dreyerfrom the 15-day injured list.",
-      "player": "Jack Dreyer"
-    },
-    {
-      "date": "2026-05-31",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced RHPCarmen Mlodzinskion the restricted list.",
-      "player": "Carmen Mlodzinski"
-    },
-    {
-      "date": "2026-05-31",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressigned free agent RHPJeremy Barretoto a minor league contract.",
-      "player": "Jeremy Barreto"
-    },
-    {
-      "date": "2026-05-31",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated LHPRob Zastryznyfrom the 60-day injured list.",
-      "player": "Rob Zastryzny"
-    },
     {
       "date": "2026-05-31",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersactivated RFKerry Carpenterfrom the 10-day injured list.",
       "player": "Kerry Carpenter"
-    },
-    {
-      "date": "2026-05-31",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPMax Scherzeron a rehab assignment to Buffalo Bisons.",
-      "player": "Max Scherzer"
-    },
-    {
-      "date": "2026-05-31",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysplaced RHPCraig Kimbrelon the 15-day injured list retroactive to May 28, 2026. Right wrist strain.",
-      "player": "Craig Kimbrel"
-    },
-    {
-      "date": "2026-05-31",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPMike Paredes.",
-      "player": "Mike Paredes"
-    },
-    {
-      "date": "2026-05-31",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesactivated RFRyan O'Hearnfrom the 10-day injured list.",
-      "player": "Ryan O'Hearn"
-    },
-    {
-      "date": "2026-05-31",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated LHPMatt Strahmfrom the 15-day injured list.",
-      "player": "Matt Strahm"
-    },
-    {
-      "date": "2026-05-31",
-      "team": "Chicago White Sox",
-      "details": "LHPTyler Gilbertroster status changed byChicago White Sox.",
-      "player": "Tyler Gilbert"
-    },
-    {
-      "date": "2026-05-31",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsdesignated LHPRyan Boruckifor assignment.",
-      "player": "Ryan Borucki"
-    },
-    {
-      "date": "2026-05-31",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced SSKonnor Griffinon the 10-day injured list. Right elbow strain.",
-      "player": "Konnor Griffin"
     },
     {
       "date": "2026-05-31",
@@ -105,9 +33,39 @@
     },
     {
       "date": "2026-05-31",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPMax Scherzeron a rehab assignment to Buffalo Bisons.",
+      "player": "Max Scherzer"
+    },
+    {
+      "date": "2026-05-31",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsplaced RHPBailey Oberon the 15-day injured list. Right elbow inflammation.",
       "player": "Bailey Ober"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RFRyan O'Hearnfrom the 10-day injured list.",
+      "player": "Ryan O'Hearn"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced RHPCraig Kimbrelon the 15-day injured list retroactive to May 28, 2026. Right wrist strain.",
+      "player": "Craig Kimbrel"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPMike Paredes.",
+      "player": "Mike Paredes"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsdesignated LHPRyan Boruckifor assignment.",
+      "player": "Ryan Borucki"
     },
     {
       "date": "2026-05-31",
@@ -117,51 +75,69 @@
     },
     {
       "date": "2026-05-31",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced SSKonnor Griffinon the 10-day injured list. Right elbow strain.",
+      "player": "Konnor Griffin"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Chicago White Sox",
+      "details": "LHPTyler Gilbertroster status changed byChicago White Sox.",
+      "player": "Tyler Gilbert"
+    },
+    {
+      "date": "2026-05-31",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssent RHPShane Bieberon a rehab assignment to Dunedin Blue Jays.",
       "player": "Shane Bieber"
     },
     {
       "date": "2026-05-31",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsselected the contract of RHPMike Paredesfrom St. Paul Saints.",
-      "player": "Mike Paredes"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent RHPJeremy Barretoto a minor league contract.",
+      "player": "Jeremy Barreto"
     },
     {
       "date": "2026-05-31",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsselected the contract of CFJonah Coxfrom Richmond Flying Squirrels.",
-      "player": "Jonah Cox"
-    },
-    {
-      "date": "2026-05-31",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsrecalled RHPTristan Beckfrom Sacramento River Cats.",
-      "player": "Tristan Beck"
-    },
-    {
-      "date": "2026-05-31",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPJohn Kleinto St. Paul Saints.",
-      "player": "John Klein"
-    },
-    {
-      "date": "2026-05-31",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPCam Sandersfrom Indianapolis Indians.",
-      "player": "Cam Sanders"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsdesignated RHPMatt Pushardfor assignment.",
+      "player": "Matt Pushard"
     },
     {
       "date": "2026-05-31",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPEric Cerantolato Omaha Storm Chasers.",
-      "player": "Eric Cerantola"
+      "details": "Kansas City Royalsactivated LHPMatt Strahmfrom the 15-day injured list.",
+      "player": "Matt Strahm"
     },
     {
       "date": "2026-05-31",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned 3BGage Workmanto Toledo Mud Hens.",
-      "player": "Gage Workman"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated LHPRob Zastryznyfrom the 60-day injured list.",
+      "player": "Rob Zastryzny"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced RHPCarmen Mlodzinskion the restricted list.",
+      "player": "Carmen Mlodzinski"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated LHPJack Dreyerfrom the 15-day injured list.",
+      "player": "Jack Dreyer"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPChris Murphyfrom Charlotte Knights.",
+      "player": "Chris Murphy"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsselected the contract of RHPMike Paredesfrom St. Paul Saints.",
+      "player": "Mike Paredes"
     },
     {
       "date": "2026-05-31",
@@ -177,15 +153,45 @@
     },
     {
       "date": "2026-05-31",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPChris Murphyfrom Charlotte Knights.",
-      "player": "Chris Murphy"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPJohn Kleinto St. Paul Saints.",
+      "player": "John Klein"
     },
     {
       "date": "2026-05-31",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled RHPJosh Whitefrom Jacksonville Jumbo Shrimp.",
-      "player": "Josh White"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsselected the contract of CFJonah Coxfrom Richmond Flying Squirrels.",
+      "player": "Jonah Cox"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPTristan Beckfrom Sacramento River Cats.",
+      "player": "Tristan Beck"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPEric Cerantolato Omaha Storm Chasers.",
+      "player": "Eric Cerantola"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned 3BGage Workmanto Toledo Mud Hens.",
+      "player": "Gage Workman"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPCam Sandersfrom Indianapolis Indians.",
+      "player": "Cam Sanders"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent LHPDietrich Ennsoutright to Norfolk Tides.",
+      "player": "Dietrich Enns"
     },
     {
       "date": "2026-05-31",
@@ -213,9 +219,15 @@
     },
     {
       "date": "2026-05-31",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent LHPDietrich Ennsoutright to Norfolk Tides.",
-      "player": "Dietrich Enns"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPJosh Whitefrom Jacksonville Jumbo Shrimp.",
+      "player": "Josh White"
+    },
+    {
+      "date": "2026-05-31",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPHunter Dobbinsfrom Memphis Redbirds.",
+      "player": "Hunter Dobbins"
     }
   ]
 }
