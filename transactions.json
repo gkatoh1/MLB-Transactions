@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-06-01T18:42:57.355904",
+  "last_updated": "2026-06-01T22:12:59.912591",
   "transactions": [
-    {
-      "date": "2026-06-01",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent RHPHurston Waldrepon a rehab assignment to FCL Braves.",
-      "player": "Hurston Waldrep"
-    },
     {
       "date": "2026-06-01",
       "team": "Cincinnati Reds",
@@ -15,9 +9,33 @@
     },
     {
       "date": "2026-06-01",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsplaced RHPJosh Eknesson the 15-day injured list retroactive to May 29, 2026. Right calf strain.",
-      "player": "Josh Ekness"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced 1BCarlos Santanaon the 60-day injured list. Strained right adductor.",
+      "player": "Carlos Santana"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced RHPJoel Pegueroon the 60-day injured list. Left hamstring strain.",
+      "player": "Joel Peguero"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsdesignated CLogan Porterfor assignment.",
+      "player": "Logan Porter"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated 1BPavin Smithfrom the 60-day injured list.",
+      "player": "Pavin Smith"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RHPHurston Waldrepon a rehab assignment to FCL Braves.",
+      "player": "Hurston Waldrep"
     },
     {
       "date": "2026-06-01",
@@ -33,21 +51,33 @@
     },
     {
       "date": "2026-06-01",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPCam Sandersto Indianapolis Indians.",
-      "player": "Cam Sanders"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPTy Maddenfrom the 15-day injured list.",
+      "player": "Ty Madden"
     },
     {
       "date": "2026-06-01",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsselected the contract of LHPBrandon Leibrandtfrom Louisville Bats.",
-      "player": "Brandon Leibrandt"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent RHPJesus Herediato a minor league contract.",
+      "player": "Jesus Heredia"
     },
     {
       "date": "2026-06-01",
       "team": "Miami Marlins",
-      "details": "Miami Marlinsselected the contract of RHPZach Brzykcyfrom Jacksonville Jumbo Shrimp.",
-      "player": "Zach Brzykcy"
+      "details": "Miami Marlinsplaced RHPJosh Eknesson the 15-day injured list retroactive to May 29, 2026. Right calf strain.",
+      "player": "Josh Ekness"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled SSEdwin Arroyofrom Louisville Bats.",
+      "player": "Edwin Arroyo"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned LFTim Tawato Reno Aces.",
+      "player": "Tim Tawa"
     },
     {
       "date": "2026-06-01",
@@ -58,8 +88,26 @@
     {
       "date": "2026-06-01",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled SSEdwin Arroyofrom Louisville Bats.",
-      "player": "Edwin Arroyo"
+      "details": "Cincinnati Redsselected the contract of LHPBrandon Leibrandtfrom Louisville Bats.",
+      "player": "Brandon Leibrandt"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPCam Sandersto Indianapolis Indians.",
+      "player": "Cam Sanders"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPRicky Vanascoto Toledo Mud Hens.",
+      "player": "Ricky Vanasco"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPLogan VanWeyto Sugar Land Space Cowboys.",
+      "player": "Logan VanWey"
     },
     {
       "date": "2026-06-01",
@@ -69,9 +117,27 @@
     },
     {
       "date": "2026-06-01",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned RHPLogan VanWeyto Sugar Land Space Cowboys.",
-      "player": "Logan VanWey"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsselected the contract of 1BBuddy Kennedyfrom Sacramento River Cats.",
+      "player": "Buddy Kennedy"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned CJesus Rodriguezto Sacramento River Cats.",
+      "player": "Jesus Rodriguez"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsselected the contract of RHPWilkin Ramosfrom Sacramento River Cats.",
+      "player": "Wilkin Ramos"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsselected the contract of RHPZach Brzykcyfrom Jacksonville Jumbo Shrimp.",
+      "player": "Zach Brzykcy"
     }
   ]
 }
