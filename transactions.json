@@ -1,11 +1,29 @@
 {
-  "last_updated": "2026-06-01T22:12:59.912591",
+  "last_updated": "2026-06-02T00:19:52.675981",
   "transactions": [
+    {
+      "date": "2026-06-01",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPChris Martinon the 15-day injured list retroactive to May 31, 2026. Right shoulder impingement.",
+      "player": "Chris Martin"
+    },
     {
       "date": "2026-06-01",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsdesignated RHPYunior Martefor assignment.",
       "player": "Yunior Marte"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced RHPJoel Pegueroon the 60-day injured list. Left hamstring strain.",
+      "player": "Joel Peguero"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiestransferred LHPWelinton Herrerafrom the 15-day injured list to the 60-day injured list. Left elbow inflammation.",
+      "player": "Welinton Herrera"
     },
     {
       "date": "2026-06-01",
@@ -16,20 +34,20 @@
     {
       "date": "2026-06-01",
       "team": "San Francisco Giants",
-      "details": "San Francisco Giantsplaced RHPJoel Pegueroon the 60-day injured list. Left hamstring strain.",
-      "player": "Joel Peguero"
-    },
-    {
-      "date": "2026-06-01",
-      "team": "San Francisco Giants",
       "details": "San Francisco Giantsdesignated CLogan Porterfor assignment.",
       "player": "Logan Porter"
     },
     {
       "date": "2026-06-01",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksactivated 1BPavin Smithfrom the 60-day injured list.",
-      "player": "Pavin Smith"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent RHPJesus Herediato a minor league contract.",
+      "player": "Jesus Heredia"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Texas Rangers",
+      "details": "LFSam Haggertyroster status changed byTexas Rangers.",
+      "player": "Sam Haggerty"
     },
     {
       "date": "2026-06-01",
@@ -57,9 +75,9 @@
     },
     {
       "date": "2026-06-01",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressigned free agent RHPJesus Herediato a minor league contract.",
-      "player": "Jesus Heredia"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerstransferred LHPRobert Garciafrom the 15-day injured list to the 60-day injured list.",
+      "player": "Robert Garcia"
     },
     {
       "date": "2026-06-01",
@@ -69,39 +87,33 @@
     },
     {
       "date": "2026-06-01",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled SSEdwin Arroyofrom Louisville Bats.",
-      "player": "Edwin Arroyo"
-    },
-    {
-      "date": "2026-06-01",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned LFTim Tawato Reno Aces.",
-      "player": "Tim Tawa"
-    },
-    {
-      "date": "2026-06-01",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPJosh Whiteto Jacksonville Jumbo Shrimp.",
-      "player": "Josh White"
-    },
-    {
-      "date": "2026-06-01",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsselected the contract of LHPBrandon Leibrandtfrom Louisville Bats.",
-      "player": "Brandon Leibrandt"
-    },
-    {
-      "date": "2026-06-01",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPCam Sandersto Indianapolis Indians.",
-      "player": "Cam Sanders"
+      "details": "Arizona Diamondbacksactivated 1BPavin Smithfrom the 60-day injured list.",
+      "player": "Pavin Smith"
     },
     {
       "date": "2026-06-01",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersoptioned RHPRicky Vanascoto Toledo Mud Hens.",
       "player": "Ricky Vanasco"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPLuis Curvelofrom Round Rock Express.",
+      "player": "Luis Curvelo"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPGavin Collyerto Round Rock Express.",
+      "player": "Gavin Collyer"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersselected the contract of LHPRobby Ahlstromfrom Round Rock Express.",
+      "player": "Robby Ahlstrom"
     },
     {
       "date": "2026-06-01",
@@ -117,9 +129,27 @@
     },
     {
       "date": "2026-06-01",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPCam Sandersto Indianapolis Indians.",
+      "player": "Cam Sanders"
+    },
+    {
+      "date": "2026-06-01",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsselected the contract of 1BBuddy Kennedyfrom Sacramento River Cats.",
       "player": "Buddy Kennedy"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled SSEdwin Arroyofrom Louisville Bats.",
+      "player": "Edwin Arroyo"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of LHPBrandon Leibrandtfrom Louisville Bats.",
+      "player": "Brandon Leibrandt"
     },
     {
       "date": "2026-06-01",
@@ -138,6 +168,36 @@
       "team": "Miami Marlins",
       "details": "Miami Marlinsselected the contract of RHPZach Brzykcyfrom Jacksonville Jumbo Shrimp.",
       "player": "Zach Brzykcy"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesselected the contract of RHPTJ Shookfrom Albuquerque Isotopes.",
+      "player": "TJ Shook"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned LFTim Tawato Reno Aces.",
+      "player": "Tim Tawa"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPZach Agnosto Albuquerque Isotopes.",
+      "player": "Zach Agnos"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPJosh Whiteto Jacksonville Jumbo Shrimp.",
+      "player": "Josh White"
+    },
+    {
+      "date": "2026-06-01",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled 3BCody Freemanfrom Round Rock Express.",
+      "player": "Cody Freeman"
     }
   ]
 }
