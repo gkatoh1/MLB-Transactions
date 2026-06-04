@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-06-04T14:08:12.631463",
+  "last_updated": "2026-06-04T17:48:14.458808",
   "transactions": [
+    {
+      "date": "2026-06-04",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtransferred SSTrevor Storyfrom the 10-day injured list to the 60-day injured list. Sports hernia.",
+      "player": "Trevor Story"
+    },
     {
       "date": "2026-06-04",
       "team": "Minnesota Twins",
@@ -9,9 +15,81 @@
     },
     {
       "date": "2026-06-04",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestransferred CSean Murphyfrom the 10-day injured list to the 60-day injured list. Fractured left middle finger.",
+      "player": "Sean Murphy"
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent CJose Trevinoon a rehab assignment to Louisville Bats.",
+      "player": "Jose Trevino"
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent SSGabriel Ariason a rehab assignment to Columbus Clippers.",
+      "player": "Gabriel Arias"
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated CChadwick Trompfor assignment.",
+      "player": "Chadwick Tromp"
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPEduarniel Núñezfor assignment.",
+      "player": "Eduarniel Núñez"
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of CFDaShawn Keirsey Jr.from Gwinnett Stripers.",
+      "player": "DaShawn Keirsey Jr."
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPTyler Samaniegoto Worcester Red Sox.",
+      "player": "Tyler Samaniego"
+    },
+    {
+      "date": "2026-06-04",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned LHPChris Murphyto Charlotte Knights.",
       "player": "Chris Murphy"
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redstraded RHPKyle NicolastoBaltimore Oriolesfor cash.",
+      "player": "Kyle Nicolas"
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned CFDaShawn Keirsey Jr.to Gwinnett Stripers.",
+      "player": "DaShawn Keirsey Jr."
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of RHPTommy Kahnlefrom Worcester Red Sox.",
+      "player": "Tommy Kahnle"
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of CAustin Wynnsfrom Gwinnett Stripers.",
+      "player": "Austin Wynns"
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPKyle Nicolasto Norfolk Tides.",
+      "player": "Kyle Nicolas"
     }
   ]
 }
