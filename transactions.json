@@ -1,17 +1,29 @@
 {
-  "last_updated": "2026-06-04T17:48:14.458808",
+  "last_updated": "2026-06-04T20:14:28.697517",
   "transactions": [
     {
       "date": "2026-06-04",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxtransferred SSTrevor Storyfrom the 10-day injured list to the 60-day injured list. Sports hernia.",
-      "player": "Trevor Story"
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated LFJoey Loperfidofrom the 10-day injured list.",
+      "player": "Joey Loperfido"
     },
     {
       "date": "2026-06-04",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssigned free agent RHPJake Coveyto a minor league contract.",
-      "player": "Jake Covey"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPDylan Ceaseon a rehab assignment to Buffalo Bisons.",
+      "player": "Dylan Cease"
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned free agent 1BLaMonte Wade Jr..",
+      "player": "LaMonte Wade Jr."
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RHPChad Dallas.",
+      "player": "Chad Dallas"
     },
     {
       "date": "2026-06-04",
@@ -27,6 +39,18 @@
     },
     {
       "date": "2026-06-04",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated RHPTanner Andrewsfor assignment.",
+      "player": "Tanner Andrews"
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtransferred SSTrevor Storyfrom the 10-day injured list to the 60-day injured list. Sports hernia.",
+      "player": "Trevor Story"
+    },
+    {
+      "date": "2026-06-04",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardianssent SSGabriel Ariason a rehab assignment to Columbus Clippers.",
       "player": "Gabriel Arias"
@@ -36,6 +60,12 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesdesignated CChadwick Trompfor assignment.",
       "player": "Chadwick Tromp"
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPJake Coveyto a minor league contract.",
+      "player": "Jake Covey"
     },
     {
       "date": "2026-06-04",
@@ -51,15 +81,15 @@
     },
     {
       "date": "2026-06-04",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPTyler Samaniegoto Worcester Red Sox.",
-      "player": "Tyler Samaniego"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned CFDaShawn Keirsey Jr.to Gwinnett Stripers.",
+      "player": "DaShawn Keirsey Jr."
     },
     {
       "date": "2026-06-04",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned LHPChris Murphyto Charlotte Knights.",
-      "player": "Chris Murphy"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPKyle Nicolasto Norfolk Tides.",
+      "player": "Kyle Nicolas"
     },
     {
       "date": "2026-06-04",
@@ -69,15 +99,21 @@
     },
     {
       "date": "2026-06-04",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned CFDaShawn Keirsey Jr.to Gwinnett Stripers.",
-      "player": "DaShawn Keirsey Jr."
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LFZach Coleto Sugar Land Space Cowboys.",
+      "player": "Zach Cole"
     },
     {
       "date": "2026-06-04",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxselected the contract of RHPTommy Kahnlefrom Worcester Red Sox.",
-      "player": "Tommy Kahnle"
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LFJoey Loperfidoto Sugar Land Space Cowboys.",
+      "player": "Joey Loperfido"
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPHayden Juengerto Buffalo Bisons.",
+      "player": "Hayden Juenger"
     },
     {
       "date": "2026-06-04",
@@ -87,9 +123,33 @@
     },
     {
       "date": "2026-06-04",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPKyle Nicolasto Norfolk Tides.",
-      "player": "Kyle Nicolas"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of RHPTommy Kahnlefrom Worcester Red Sox.",
+      "player": "Tommy Kahnle"
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Houston Astros",
+      "details": "Houston Astrosselected the contract of CCollin Pricefrom Sugar Land Space Cowboys.",
+      "player": "Collin Price"
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of RHPChad Dallasfrom Buffalo Bisons.",
+      "player": "Chad Dallas"
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPTyler Samaniegoto Worcester Red Sox.",
+      "player": "Tyler Samaniego"
+    },
+    {
+      "date": "2026-06-04",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPChris Murphyto Charlotte Knights.",
+      "player": "Chris Murphy"
     }
   ]
 }
