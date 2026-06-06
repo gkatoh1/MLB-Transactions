@@ -1,23 +1,17 @@
 {
-  "last_updated": "2026-06-06T20:15:36.982020",
+  "last_updated": "2026-06-06T22:10:17.744583",
   "transactions": [
     {
       "date": "2026-06-06",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPShane Bieberon a rehab assignment to Buffalo Bisons.",
-      "player": "Shane Bieber"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent CElias Díaz.",
+      "player": "Elias Díaz"
     },
     {
       "date": "2026-06-06",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent RHPGarrett Whitlockon a rehab assignment to Worcester Red Sox.",
-      "player": "Garrett Whitlock"
-    },
-    {
-      "date": "2026-06-06",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsdesignated CFJames Outmanfor assignment.",
-      "player": "James Outman"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced LHPBrian Fitzpatrickon the 15-day injured list. Left elbow injury.",
+      "player": "Brian Fitzpatrick"
     },
     {
       "date": "2026-06-06",
@@ -39,33 +33,51 @@
     },
     {
       "date": "2026-06-06",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced CDanny Jansenon the 10-day injured list retroactive to June 3, 2026. Right forearm strain.",
+      "player": "Danny Jansen"
+    },
+    {
+      "date": "2026-06-06",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent RHPAndrew Wantzto a minor league contract.",
+      "player": "Andrew Wantz"
+    },
+    {
+      "date": "2026-06-06",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPShane Bieberon a rehab assignment to Buffalo Bisons.",
+      "player": "Shane Bieber"
+    },
+    {
+      "date": "2026-06-06",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced LHPJovani Moránon the 15-day injured list retroactive to June 5, 2026. Left elbow inflammation.",
+      "player": "Jovani Morán"
+    },
+    {
+      "date": "2026-06-06",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent 2BJosh Smithon a rehab assignment to Frisco RoughRiders.",
+      "player": "Josh Smith"
+    },
+    {
+      "date": "2026-06-06",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPGarrett Whitlockon a rehab assignment to Worcester Red Sox.",
+      "player": "Garrett Whitlock"
+    },
+    {
+      "date": "2026-06-06",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinsobtain RHPZach Vennarofrom High Point Rockers.",
-      "player": "Zach Vennaro"
+      "details": "Minnesota Twinsdesignated CFJames Outmanfor assignment.",
+      "player": "James Outman"
     },
     {
       "date": "2026-06-06",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessent RHPZach Popoutright to Lehigh Valley IronPigs.",
-      "player": "Zach Pop"
-    },
-    {
-      "date": "2026-06-06",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned RHPEthan Robertsto Iowa Cubs.",
-      "player": "Ethan Roberts"
-    },
-    {
-      "date": "2026-06-06",
-      "team": "New York Yankees",
-      "details": "New York Yankeesselected the contract of CAli Sánchezfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Ali Sánchez"
-    },
-    {
-      "date": "2026-06-06",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled RHPJavier Assadfrom Iowa Cubs.",
-      "player": "Javier Assad"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled LHPAlec Gamboafrom Worcester Red Sox.",
+      "player": "Alec Gamboa"
     },
     {
       "date": "2026-06-06",
@@ -96,6 +108,42 @@
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsobtain 3BJulio Carrerasfrom Lake Country DockHounds.",
       "player": "Julio Carreras"
+    },
+    {
+      "date": "2026-06-06",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPEthan Robertsto Iowa Cubs.",
+      "player": "Ethan Roberts"
+    },
+    {
+      "date": "2026-06-06",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsobtain RHPZach Vennarofrom High Point Rockers.",
+      "player": "Zach Vennaro"
+    },
+    {
+      "date": "2026-06-06",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent RHPZach Popoutright to Lehigh Valley IronPigs.",
+      "player": "Zach Pop"
+    },
+    {
+      "date": "2026-06-06",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of LHPDrew Romfrom Nashville Sounds.",
+      "player": "Drew Rom"
+    },
+    {
+      "date": "2026-06-06",
+      "team": "New York Yankees",
+      "details": "New York Yankeesselected the contract of CAli Sánchezfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Ali Sánchez"
+    },
+    {
+      "date": "2026-06-06",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPJavier Assadfrom Iowa Cubs.",
+      "player": "Javier Assad"
     }
   ]
 }
