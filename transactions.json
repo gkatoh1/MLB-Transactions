@@ -1,17 +1,23 @@
 {
-  "last_updated": "2026-06-07T20:19:04.988841",
+  "last_updated": "2026-06-07T22:11:29.025414",
   "transactions": [
-    {
-      "date": "2026-06-07",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksactivated RHPTaylor Clarke.",
-      "player": "Taylor Clarke"
-    },
     {
       "date": "2026-06-07",
       "team": "Seattle Mariners",
       "details": "Seattle Marinerssent CCal Raleighon a rehab assignment to Everett AquaSox.",
       "player": "Cal Raleigh"
+    },
+    {
+      "date": "2026-06-07",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent LHPTarik Skubalon a rehab assignment to West Michigan Whitecaps.",
+      "player": "Tarik Skubal"
+    },
+    {
+      "date": "2026-06-07",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated RHPTaylor Clarke.",
+      "player": "Taylor Clarke"
     },
     {
       "date": "2026-06-07",
@@ -24,12 +30,6 @@
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsplaced RHPJack Kochanowiczon the 15-day injured list. Right elbow inflammation.",
       "player": "Jack Kochanowicz"
-    },
-    {
-      "date": "2026-06-07",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent LHPTarik Skubalon a rehab assignment to West Michigan Whitecaps.",
-      "player": "Tarik Skubal"
     },
     {
       "date": "2026-06-07",
@@ -57,24 +57,6 @@
     },
     {
       "date": "2026-06-07",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesselected the contract of 3BDavis Wendzelfrom Indianapolis Indians.",
-      "player": "Davis Wendzel"
-    },
-    {
-      "date": "2026-06-07",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPRiley Corneliofrom Rochester Red Wings.",
-      "player": "Riley Cornelio"
-    },
-    {
-      "date": "2026-06-07",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsrecalled LHPSam Aldegherifrom Salt Lake Bees.",
-      "player": "Sam Aldegheri"
-    },
-    {
-      "date": "2026-06-07",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgerstraded LHPAntoine KellytoChicago Cubs.",
       "player": "Antoine Kelly"
@@ -82,8 +64,20 @@
     {
       "date": "2026-06-07",
       "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesselected the contract of 3BDavis Wendzelfrom Indianapolis Indians.",
+      "player": "Davis Wendzel"
+    },
+    {
+      "date": "2026-06-07",
+      "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesoptioned RFJhostynxon Garciato Indianapolis Indians.",
       "player": "Jhostynxon Garcia"
+    },
+    {
+      "date": "2026-06-07",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled LHPSam Aldegherifrom Salt Lake Bees.",
+      "player": "Sam Aldegheri"
     },
     {
       "date": "2026-06-07",
@@ -96,6 +90,12 @@
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesoptioned RHPTJ Shookto Albuquerque Isotopes.",
       "player": "TJ Shook"
+    },
+    {
+      "date": "2026-06-07",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPRiley Corneliofrom Rochester Red Wings.",
+      "player": "Riley Cornelio"
     }
   ]
 }
