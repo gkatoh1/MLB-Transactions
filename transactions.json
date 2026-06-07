@@ -1,4 +1,35 @@
 {
-  "last_updated": "2026-06-07T14:10:21.912834",
-  "transactions": []
+  "last_updated": "2026-06-07T16:23:38.812416",
+  "transactions": [
+    {
+      "date": "2026-06-07",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent LHPTarik Skubalon a rehab assignment to West Michigan Whitecaps.",
+      "player": "Tarik Skubal"
+    },
+    {
+      "date": "2026-06-07",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPRhett Lowderfrom the 15-day injured list.",
+      "player": "Rhett Lowder"
+    },
+    {
+      "date": "2026-06-07",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPLuis Meyto Louisville Bats.",
+      "player": "Luis Mey"
+    },
+    {
+      "date": "2026-06-07",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPCole Henryto Rochester Red Wings.",
+      "player": "Cole Henry"
+    },
+    {
+      "date": "2026-06-07",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPRiley Corneliofrom Rochester Red Wings.",
+      "player": "Riley Cornelio"
+    }
+  ]
 }
