@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-06-08T19:26:49.685389",
+  "last_updated": "2026-06-08T21:56:01.818749",
   "transactions": [
+    {
+      "date": "2026-06-08",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RHPTommy Nancefrom the 15-day injured list.",
+      "player": "Tommy Nance"
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated RHPYariel Rodríguezfor assignment.",
+      "player": "Yariel Rodríguez"
+    },
     {
       "date": "2026-06-08",
       "team": "Minnesota Twins",
@@ -9,9 +21,21 @@
     },
     {
       "date": "2026-06-08",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystransferred RHPJonathan Heasleyfrom the 15-day injured list to the 60-day injured list.",
-      "player": "Jonathan Heasley"
+      "team": "Athletics",
+      "details": "Athleticsactivated 3BMax Muncyfrom the 10-day injured list.",
+      "player": "Max Muncy"
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersplaced SSJ.P. Crawfordon the 10-day injured list retroactive to June 6, 2026. Right hand contusion.",
+      "player": "J.P. Crawford"
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RHPJoel Kuhnel.",
+      "player": "Joel Kuhnel"
     },
     {
       "date": "2026-06-08",
@@ -22,14 +46,32 @@
     {
       "date": "2026-06-08",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysselected the contract of RFAustin Slaterfrom Durham Bulls.",
-      "player": "Austin Slater"
+      "details": "Tampa Bay Raystransferred RHPJonathan Heasleyfrom the 15-day injured list to the 60-day injured list.",
+      "player": "Jonathan Heasley"
     },
     {
       "date": "2026-06-08",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned 3BOliver Dunnto Durham Bulls.",
-      "player": "Oliver Dunn"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent LFLourdes Gurriel Jr.on a rehab assignment to ACL D-backs.",
+      "player": "Lourdes Gurriel Jr."
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Athletics",
+      "details": "Athleticsoptioned SSDarell Hernaizto Las Vegas Aviators.",
+      "player": "Darell Hernaiz"
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled 2BRyan Blissfrom Tacoma Rainiers.",
+      "player": "Ryan Bliss"
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled OFNate Eatonfrom Worcester Red Sox.",
+      "player": "Nate Eaton"
     },
     {
       "date": "2026-06-08",
@@ -39,9 +81,33 @@
     },
     {
       "date": "2026-06-08",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysselected the contract of RFAustin Slaterfrom Durham Bulls.",
+      "player": "Austin Slater"
+    },
+    {
+      "date": "2026-06-08",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled RHPTrey Gibsonfrom Norfolk Tides.",
       "player": "Trey Gibson"
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPCraig Yohoto Nashville Sounds.",
+      "player": "Craig Yoho"
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned 3BOliver Dunnto Durham Bulls.",
+      "player": "Oliver Dunn"
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPJoe La Sorsato Worcester Red Sox.",
+      "player": "Joe La Sorsa"
     }
   ]
 }
