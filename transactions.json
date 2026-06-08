@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-06-08T21:56:01.818749",
+  "last_updated": "2026-06-08T23:17:50.961478",
   "transactions": [
+    {
+      "date": "2026-06-08",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent LFLourdes Gurriel Jr.on a rehab assignment to ACL D-backs.",
+      "player": "Lourdes Gurriel Jr."
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Athletics",
+      "details": "Athleticsactivated 3BMax Muncyfrom the 10-day injured list.",
+      "player": "Max Muncy"
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced SSNick Allenon the 10-day injured list. Left hamstring strain.",
+      "player": "Nick Allen"
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystransferred RHPJonathan Heasleyfrom the 15-day injured list to the 60-day injured list.",
+      "player": "Jonathan Heasley"
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced 2BVaughn Grissomon the 10-day injured list retroactive to June 5, 2026. Left oblique strain.",
+      "player": "Vaughn Grissom"
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced 2BAdam Frazieron the 10-day injured list retroactive to June 6, 2026. Right elbow inflammation.",
+      "player": "Adam Frazier"
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPChris Bassitton the 15-day injured list retroactive to June 5, 2026. Low back discomfort.",
+      "player": "Chris Bassitt"
+    },
     {
       "date": "2026-06-08",
       "team": "Toronto Blue Jays",
@@ -21,9 +63,9 @@
     },
     {
       "date": "2026-06-08",
-      "team": "Athletics",
-      "details": "Athleticsactivated 3BMax Muncyfrom the 10-day injured list.",
-      "player": "Max Muncy"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstransferred 3BYoán Moncadafrom the 10-day injured list to the 60-day injured list. Right knee inflammation.",
+      "player": "Yoán Moncada"
     },
     {
       "date": "2026-06-08",
@@ -39,51 +81,9 @@
     },
     {
       "date": "2026-06-08",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced RHPChris Bassitton the 15-day injured list retroactive to June 5, 2026. Low back discomfort.",
-      "player": "Chris Bassitt"
-    },
-    {
-      "date": "2026-06-08",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raystransferred RHPJonathan Heasleyfrom the 15-day injured list to the 60-day injured list.",
-      "player": "Jonathan Heasley"
-    },
-    {
-      "date": "2026-06-08",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent LFLourdes Gurriel Jr.on a rehab assignment to ACL D-backs.",
-      "player": "Lourdes Gurriel Jr."
-    },
-    {
-      "date": "2026-06-08",
-      "team": "Athletics",
-      "details": "Athleticsoptioned SSDarell Hernaizto Las Vegas Aviators.",
-      "player": "Darell Hernaiz"
-    },
-    {
-      "date": "2026-06-08",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersrecalled 2BRyan Blissfrom Tacoma Rainiers.",
-      "player": "Ryan Bliss"
-    },
-    {
-      "date": "2026-06-08",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled OFNate Eatonfrom Worcester Red Sox.",
-      "player": "Nate Eaton"
-    },
-    {
-      "date": "2026-06-08",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsclaimed RHPEduarniel Núñezoff waivers fromBaltimore Orioles.",
-      "player": "Eduarniel Núñez"
-    },
-    {
-      "date": "2026-06-08",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysselected the contract of RFAustin Slaterfrom Durham Bulls.",
-      "player": "Austin Slater"
+      "details": "Boston Red Soxoptioned LHPJoe La Sorsato Worcester Red Sox.",
+      "player": "Joe La Sorsa"
     },
     {
       "date": "2026-06-08",
@@ -105,9 +105,51 @@
     },
     {
       "date": "2026-06-08",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled 2BRyan Blissfrom Tacoma Rainiers.",
+      "player": "Ryan Bliss"
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled 3BShay Whitcombfrom Sugar Land Space Cowboys.",
+      "player": "Shay Whitcomb"
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsclaimed RHPEduarniel Núñezoff waivers fromBaltimore Orioles.",
+      "player": "Eduarniel Núñez"
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsselected the contract of 1BTrey Mancinifrom Salt Lake Bees.",
+      "player": "Trey Mancini"
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Athletics",
+      "details": "Athleticsoptioned SSDarell Hernaizto Las Vegas Aviators.",
+      "player": "Darell Hernaiz"
+    },
+    {
+      "date": "2026-06-08",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPJoe La Sorsato Worcester Red Sox.",
-      "player": "Joe La Sorsa"
+      "details": "Boston Red Soxrecalled OFNate Eatonfrom Worcester Red Sox.",
+      "player": "Nate Eaton"
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled SSDenzer Guzmanfrom Salt Lake Bees.",
+      "player": "Denzer Guzman"
+    },
+    {
+      "date": "2026-06-08",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysselected the contract of RFAustin Slaterfrom Durham Bulls.",
+      "player": "Austin Slater"
     }
   ]
 }
