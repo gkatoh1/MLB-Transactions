@@ -1,53 +1,17 @@
 {
-  "last_updated": "2026-06-09T21:53:54.564522",
+  "last_updated": "2026-06-09T23:22:27.350557",
   "transactions": [
     {
       "date": "2026-06-09",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssent 2BJosh Smithon a rehab assignment to Round Rock Express.",
-      "player": "Josh Smith"
-    },
-    {
-      "date": "2026-06-09",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssent CCal Raleighon a rehab assignment to Tacoma Rainiers.",
-      "player": "Cal Raleigh"
-    },
-    {
-      "date": "2026-06-09",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssent 3BWill Wilsonon a rehab assignment to Tacoma Rainiers.",
-      "player": "Will Wilson"
-    },
-    {
-      "date": "2026-06-09",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent RHPVictor Vodnikon a rehab assignment to Albuquerque Isotopes.",
-      "player": "Victor Vodnik"
-    },
-    {
-      "date": "2026-06-09",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated RHPStephen Kolek.",
-      "player": "Stephen Kolek"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated LFNathan Churchfrom the 10-day injured list.",
+      "player": "Nathan Church"
     },
     {
       "date": "2026-06-09",
       "team": "Texas Rangers",
       "details": "Texas Rangerssent 2BJosh Smithon a rehab assignment to Round Rock Express.",
       "player": "Josh Smith"
-    },
-    {
-      "date": "2026-06-09",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated RHPGarrett Whitlockfrom the 15-day injured list.",
-      "player": "Garrett Whitlock"
-    },
-    {
-      "date": "2026-06-09",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced RFTyler Freemanon the 7-day injured list. Concussion.",
-      "player": "Tyler Freeman"
     },
     {
       "date": "2026-06-09",
@@ -63,6 +27,36 @@
     },
     {
       "date": "2026-06-09",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent CCal Raleighon a rehab assignment to Tacoma Rainiers.",
+      "player": "Cal Raleigh"
+    },
+    {
+      "date": "2026-06-09",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RFMatt Shawfrom the 10-day injured list.",
+      "player": "Matt Shaw"
+    },
+    {
+      "date": "2026-06-09",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent 3BWill Wilsonon a rehab assignment to Tacoma Rainiers.",
+      "player": "Will Wilson"
+    },
+    {
+      "date": "2026-06-09",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent LHPKris Bubicon a rehab assignment to Omaha Storm Chasers.",
+      "player": "Kris Bubic"
+    },
+    {
+      "date": "2026-06-09",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPJameson Taillonon the 15-day injured list retroactive to June 8, 2026.",
+      "player": "Jameson Taillon"
+    },
+    {
+      "date": "2026-06-09",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesdesignated RHPKeegan Thompsonfor assignment.",
       "player": "Keegan Thompson"
@@ -75,51 +69,63 @@
     },
     {
       "date": "2026-06-09",
-      "team": "New York Mets",
-      "details": "New York Metssigned free agent CJack Scanlonto a minor league contract.",
-      "player": "Jack Scanlon"
-    },
-    {
-      "date": "2026-06-09",
       "team": "Houston Astros",
       "details": "Houston Astrosplaced 1BLaMonte Wade Jr.on the 10-day injured list. Right hamstring strain.",
       "player": "LaMonte Wade Jr."
     },
     {
       "date": "2026-06-09",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent CJack Scanlonto a minor league contract.",
+      "player": "Jack Scanlon"
+    },
+    {
+      "date": "2026-06-09",
       "team": "Texas Rangers",
-      "details": "Texas Rangersactivated RHPCole Winnfrom the 15-day injured list.",
-      "player": "Cole Winn"
+      "details": "Texas Rangerssent 2BJosh Smithon a rehab assignment to Round Rock Express.",
+      "player": "Josh Smith"
     },
     {
       "date": "2026-06-09",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent CAlejandro Kirkon a rehab assignment to Buffalo Bisons.",
-      "player": "Alejandro Kirk"
-    },
-    {
-      "date": "2026-06-09",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent LHPKris Bubicon a rehab assignment to Omaha Storm Chasers.",
-      "player": "Kris Bubic"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerstransferred LHPBrian Fitzpatrickfrom the 15-day injured list to the 60-day injured list. Left elbow injury.",
+      "player": "Brian Fitzpatrick"
     },
     {
       "date": "2026-06-09",
       "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent RHPJimmy Hergeton a rehab assignment to Albuquerque Isotopes.",
-      "player": "Jimmy Herget"
+      "details": "Colorado Rockiessent RHPVictor Vodnikon a rehab assignment to Albuquerque Isotopes.",
+      "player": "Victor Vodnik"
     },
     {
       "date": "2026-06-09",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresplaced SSXander Bogaertson the paternity list.",
-      "player": "Xander Bogaerts"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RHPStephen Kolek.",
+      "player": "Stephen Kolek"
     },
     {
       "date": "2026-06-09",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsactivated LFNathan Churchfrom the 10-day injured list.",
-      "player": "Nathan Church"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPGarrett Whitlockfrom the 15-day injured list.",
+      "player": "Garrett Whitlock"
+    },
+    {
+      "date": "2026-06-09",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RFTyler Freemanon the 7-day injured list. Concussion.",
+      "player": "Tyler Freeman"
+    },
+    {
+      "date": "2026-06-09",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPTrent Thorntonon the paternity list.",
+      "player": "Trent Thornton"
+    },
+    {
+      "date": "2026-06-09",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent CYainer Diazon a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Yainer Diaz"
     },
     {
       "date": "2026-06-09",
@@ -147,9 +153,45 @@
     },
     {
       "date": "2026-06-09",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent LHPKyle Backhuson a rehab assignment to Lehigh Valley IronPigs.",
+      "player": "Kyle Backhus"
+    },
+    {
+      "date": "2026-06-09",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated RHPCole Winnfrom the 15-day injured list.",
+      "player": "Cole Winn"
+    },
+    {
+      "date": "2026-06-09",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPCristian Javieron a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Cristian Javier"
+    },
+    {
+      "date": "2026-06-09",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent RHPJimmy Hergeton a rehab assignment to Albuquerque Isotopes.",
+      "player": "Jimmy Herget"
+    },
+    {
+      "date": "2026-06-09",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresplaced SSXander Bogaertson the paternity list.",
+      "player": "Xander Bogaerts"
+    },
+    {
+      "date": "2026-06-09",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPTanner Andrewsoutright to Buffalo Bisons.",
-      "player": "Tanner Andrews"
+      "details": "Toronto Blue Jayssent CAlejandro Kirkon a rehab assignment to Buffalo Bisons.",
+      "player": "Alejandro Kirk"
+    },
+    {
+      "date": "2026-06-09",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPJoey Estesfrom Las Vegas Aviators.",
+      "player": "Joey Estes"
     },
     {
       "date": "2026-06-09",
@@ -159,15 +201,45 @@
     },
     {
       "date": "2026-06-09",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned 2BAnthony Seiglerto Worcester Red Sox.",
-      "player": "Anthony Seigler"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPDavid Sandlinto Charlotte Knights.",
+      "player": "David Sandlin"
     },
     {
       "date": "2026-06-09",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned 3BJosh Rojasto Omaha Storm Chasers.",
-      "player": "Josh Rojas"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RFRikuu Nishidato Charlotte Knights.",
+      "player": "Rikuu Nishida"
+    },
+    {
+      "date": "2026-06-09",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresrecalled 3BWill Wagnerfrom El Paso Chihuahuas.",
+      "player": "Will Wagner"
+    },
+    {
+      "date": "2026-06-09",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPTanner Andrewsoutright to Buffalo Bisons.",
+      "player": "Tanner Andrews"
+    },
+    {
+      "date": "2026-06-09",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPTyler Fergusonfrom Iowa Cubs.",
+      "player": "Tyler Ferguson"
+    },
+    {
+      "date": "2026-06-09",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
+      "player": "Hayden Senger"
+    },
+    {
+      "date": "2026-06-09",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPEthan Robertsfrom Iowa Cubs.",
+      "player": "Ethan Roberts"
     },
     {
       "date": "2026-06-09",
@@ -183,21 +255,9 @@
     },
     {
       "date": "2026-06-09",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned CHayden Sengerto Syracuse Mets.",
-      "player": "Hayden Senger"
-    },
-    {
-      "date": "2026-06-09",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxrecalled LHPJoe Rockfrom Charlotte Knights.",
       "player": "Joe Rock"
-    },
-    {
-      "date": "2026-06-09",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersrecalled RHPNick Davilafrom Tacoma Rainiers.",
-      "player": "Nick Davila"
     },
     {
       "date": "2026-06-09",
@@ -207,15 +267,21 @@
     },
     {
       "date": "2026-06-09",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPDavid Sandlinto Charlotte Knights.",
-      "player": "David Sandlin"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned 2BAnthony Seiglerto Worcester Red Sox.",
+      "player": "Anthony Seigler"
     },
     {
       "date": "2026-06-09",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned CFVictor Scott IIto Memphis Redbirds.",
-      "player": "Victor Scott II"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned 3BJosh Rojasto Omaha Storm Chasers.",
+      "player": "Josh Rojas"
+    },
+    {
+      "date": "2026-06-09",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned CFLuis Larato Nashville Sounds.",
+      "player": "Luis Lara"
     },
     {
       "date": "2026-06-09",
@@ -225,21 +291,15 @@
     },
     {
       "date": "2026-06-09",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned DHKevin Alcántarato Iowa Cubs.",
+      "player": "Kevin Alcántara"
+    },
+    {
+      "date": "2026-06-09",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesselected the contract of OFCole Carriggfrom Albuquerque Isotopes.",
       "player": "Cole Carrigg"
-    },
-    {
-      "date": "2026-06-09",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RFRikuu Nishidato Charlotte Knights.",
-      "player": "Rikuu Nishida"
-    },
-    {
-      "date": "2026-06-09",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled 3BWill Wagnerfrom El Paso Chihuahuas.",
-      "player": "Will Wagner"
     }
   ]
 }
