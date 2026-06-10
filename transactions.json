@@ -1,11 +1,47 @@
 {
-  "last_updated": "2026-06-10T16:40:02.099208",
+  "last_updated": "2026-06-10T19:41:00.605100",
   "transactions": [
     {
       "date": "2026-06-10",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPMick Abelon a rehab assignment to St. Paul Saints.",
+      "player": "Mick Abel"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsdesignated LFWill Brennanfor assignment.",
+      "player": "Will Brennan"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated LHPReiver Sanmartinfrom the 60-day injured list.",
+      "player": "Reiver Sanmartin"
+    },
+    {
+      "date": "2026-06-10",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced RHPTyler Kinleyon the 15-day injured list retroactive to June 8, 2026. Right elbow inflammation.",
-      "player": "Tyler Kinley"
+      "details": "Atlanta Bravesdesignated RHPCarlos Carrascofor assignment.",
+      "player": "Carlos Carrasco"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPJhancarlos Larafor assignment.",
+      "player": "Jhancarlos Lara"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced RFRonald Acuña Jr.on the 10-day injured list. Strained left hamstring.",
+      "player": "Ronald Acuña Jr."
+    },
+    {
+      "date": "2026-06-10",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced LHPTyler Gilberton the 15-day injured list. Left shoulder impingement.",
+      "player": "Tyler Gilbert"
     },
     {
       "date": "2026-06-10",
@@ -16,26 +52,8 @@
     {
       "date": "2026-06-10",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated RHPCarlos Carrascofor assignment.",
-      "player": "Carlos Carrasco"
-    },
-    {
-      "date": "2026-06-10",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPChase Pettyfrom Louisville Bats.",
-      "player": "Chase Petty"
-    },
-    {
-      "date": "2026-06-10",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPAlec Gamboato Worcester Red Sox.",
-      "player": "Alec Gamboa"
-    },
-    {
-      "date": "2026-06-10",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPZach McCambleyto Louisville Bats.",
-      "player": "Zach McCambley"
+      "details": "Atlanta Bravesplaced RHPTyler Kinleyon the 15-day injured list retroactive to June 8, 2026. Right elbow inflammation.",
+      "player": "Tyler Kinley"
     },
     {
       "date": "2026-06-10",
@@ -45,15 +63,69 @@
     },
     {
       "date": "2026-06-10",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPJames Karinchakfrom Gwinnett Stripers.",
-      "player": "James Karinchak"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPChase Pettyfrom Louisville Bats.",
+      "player": "Chase Petty"
     },
     {
       "date": "2026-06-10",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesrecalled RHPJR Ritchiefrom Gwinnett Stripers.",
       "player": "JR Ritchie"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJoey Gerberto Syracuse Mets.",
+      "player": "Joey Gerber"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPTristan Beckto Sacramento River Cats.",
+      "player": "Tristan Beck"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of 1BRowdy Tellezfrom Gwinnett Stripers.",
+      "player": "Rowdy Tellez"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPChris Murphyfrom Charlotte Knights.",
+      "player": "Chris Murphy"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJonathan Pintarofrom Syracuse Mets.",
+      "player": "Jonathan Pintaro"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPAlec Gamboato Worcester Red Sox.",
+      "player": "Alec Gamboa"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded 2BRaynel DelgadotoHouston Astrosfor cash.",
+      "player": "Raynel Delgado"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPJames Karinchakfrom Gwinnett Stripers.",
+      "player": "James Karinchak"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPZach McCambleyto Louisville Bats.",
+      "player": "Zach McCambley"
     }
   ]
 }
