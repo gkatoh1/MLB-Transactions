@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-06-11T21:26:19.013636",
+  "last_updated": "2026-06-11T23:43:34.623415",
   "transactions": [
-    {
-      "date": "2026-06-11",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent RHPRyan Helsleyon a rehab assignment to Norfolk Tides.",
-      "player": "Ryan Helsley"
-    },
-    {
-      "date": "2026-06-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent RHPHurston Waldrepon a rehab assignment to Columbus Clingstones.",
-      "player": "Hurston Waldrep"
-    },
     {
       "date": "2026-06-11",
       "team": "New York Mets",
@@ -24,6 +12,12 @@
       "team": "Athletics",
       "details": "Athleticssent RHPAaron Civaleon a rehab assignment to Las Vegas Aviators.",
       "player": "Aaron Civale"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent RHPFermin Magallanesto a minor league contract.",
+      "player": "Fermin Magallanes"
     },
     {
       "date": "2026-06-11",
@@ -39,15 +33,39 @@
     },
     {
       "date": "2026-06-11",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RHPHurston Waldrepon a rehab assignment to Columbus Clingstones.",
+      "player": "Hurston Waldrep"
+    },
+    {
+      "date": "2026-06-11",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxactivated RFEverson Pereirafrom the 10-day injured list.",
       "player": "Everson Pereira"
     },
     {
       "date": "2026-06-11",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessigned free agent 2BBen Wilmesto a minor league contract.",
+      "player": "Ben Wilmes"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RHPHurston Waldrepon a rehab assignment to Columbus Clingstones.",
+      "player": "Hurston Waldrep"
+    },
+    {
+      "date": "2026-06-11",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent RHPFermin Magallanesto a minor league contract.",
-      "player": "Fermin Magallanes"
+      "details": "Baltimore Oriolessent RHPRyan Helsleyon a rehab assignment to Norfolk Tides.",
+      "player": "Ryan Helsley"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated RHPDomingo Gonzalezfor assignment.",
+      "player": "Domingo Gonzalez"
     },
     {
       "date": "2026-06-11",
@@ -63,57 +81,15 @@
     },
     {
       "date": "2026-06-11",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersdesignated RHPDomingo Gonzalezfor assignment.",
-      "player": "Domingo Gonzalez"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerstransferred SSJavier Báezfrom the 10-day injured list to the 60-day injured list. Right ankle sprain.",
+      "player": "Javier Báez"
     },
     {
       "date": "2026-06-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent RHPHurston Waldrepon a rehab assignment to Columbus Clingstones.",
-      "player": "Hurston Waldrep"
-    },
-    {
-      "date": "2026-06-11",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersselected the contract of CChuckie Robinsonfrom Oklahoma City Comets.",
-      "player": "Chuckie Robinson"
-    },
-    {
-      "date": "2026-06-11",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled OFEsmerlyn Valdezfrom Indianapolis Indians.",
-      "player": "Esmerlyn Valdez"
-    },
-    {
-      "date": "2026-06-11",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of RHPMichael Ruckerfrom Tacoma Rainiers.",
-      "player": "Michael Rucker"
-    },
-    {
-      "date": "2026-06-11",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPAngel Chivillito Scranton/Wilkes-Barre RailRiders.",
-      "player": "Angel Chivilli"
-    },
-    {
-      "date": "2026-06-11",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPDaniel Duartefrom Syracuse Mets.",
-      "player": "Daniel Duarte"
-    },
-    {
-      "date": "2026-06-11",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned 3BShay Whitcombto Sugar Land Space Cowboys.",
-      "player": "Shay Whitcomb"
-    },
-    {
-      "date": "2026-06-11",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned 3BDavis Wendzelto Indianapolis Indians.",
-      "player": "Davis Wendzel"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssigned free agent RHPTaijuan Walkerto a minor league contract.",
+      "player": "Taijuan Walker"
     },
     {
       "date": "2026-06-11",
@@ -135,15 +111,75 @@
     },
     {
       "date": "2026-06-11",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPDaniel Duartefrom Syracuse Mets.",
+      "player": "Daniel Duarte"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned 3BShay Whitcombto Sugar Land Space Cowboys.",
+      "player": "Shay Whitcomb"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned 3BDavis Wendzelto Indianapolis Indians.",
+      "player": "Davis Wendzel"
+    },
+    {
+      "date": "2026-06-11",
       "team": "Texas Rangers",
       "details": "Texas Rangersrecalled RHPLuis Curvelofrom Round Rock Express.",
       "player": "Luis Curvelo"
     },
     {
       "date": "2026-06-11",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of RHPMichael Ruckerfrom Tacoma Rainiers.",
+      "player": "Michael Rucker"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersselected the contract of CChuckie Robinsonfrom Oklahoma City Comets.",
+      "player": "Chuckie Robinson"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPAngel Chivillito Scranton/Wilkes-Barre RailRiders.",
+      "player": "Angel Chivilli"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPCodi Heuerto Columbus Clippers.",
+      "player": "Codi Heuer"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled OFEsmerlyn Valdezfrom Indianapolis Indians.",
+      "player": "Esmerlyn Valdez"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPCarson Seymourto Sacramento River Cats.",
+      "player": "Carson Seymour"
+    },
+    {
+      "date": "2026-06-11",
       "team": "New York Mets",
       "details": "New York Metsoptioned RHPJonathan Pintaroto Syracuse Mets.",
       "player": "Jonathan Pintaro"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersclaimed CFJames Outmanoff waivers fromMinnesota Twins.",
+      "player": "James Outman"
     }
   ]
 }
