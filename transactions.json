@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-06-11T14:46:32.453683",
+  "last_updated": "2026-06-11T18:22:08.811355",
   "transactions": [
+    {
+      "date": "2026-06-11",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPKodai Sengaon a rehab assignment to Binghamton Rumble Ponies.",
+      "player": "Kodai Senga"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RHPHurston Waldrepon a rehab assignment to Columbus Clingstones.",
+      "player": "Hurston Waldrep"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPRyan Helsleyon a rehab assignment to Norfolk Tides.",
+      "player": "Ryan Helsley"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced LHPJalen Beekson the 10-day injured list retroactive to June 10, 2026. Low back spasms.",
+      "player": "Jalen Beeks"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RHPAngel Chivillifrom the 15-day injured list.",
+      "player": "Angel Chivilli"
+    },
     {
       "date": "2026-06-11",
       "team": "Atlanta Braves",
@@ -10,14 +40,44 @@
     {
       "date": "2026-06-11",
       "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJonathan Pintaroto Syracuse Mets.",
+      "player": "Jonathan Pintaro"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "New York Mets",
       "details": "New York Metsrecalled RHPDaniel Duartefrom Syracuse Mets.",
       "player": "Daniel Duarte"
     },
     {
       "date": "2026-06-11",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPJonathan Pintaroto Syracuse Mets.",
-      "player": "Jonathan Pintaro"
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned 3BShay Whitcombto Sugar Land Space Cowboys.",
+      "player": "Shay Whitcomb"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPLuis Curvelofrom Round Rock Express.",
+      "player": "Luis Curvelo"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled OFEsmerlyn Valdezfrom Indianapolis Indians.",
+      "player": "Esmerlyn Valdez"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned 3BDavis Wendzelto Indianapolis Indians.",
+      "player": "Davis Wendzel"
+    },
+    {
+      "date": "2026-06-11",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPAngel Chivillito Scranton/Wilkes-Barre RailRiders.",
+      "player": "Angel Chivilli"
     }
   ]
 }
