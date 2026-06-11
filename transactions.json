@@ -1,41 +1,71 @@
 {
-  "last_updated": "2026-06-10T22:10:59.247451",
+  "last_updated": "2026-06-11T00:22:56.644147",
   "transactions": [
     {
       "date": "2026-06-10",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent RHPMick Abelon a rehab assignment to St. Paul Saints.",
-      "player": "Mick Abel"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned free agent OFJean Rodriguezto a minor league contract.",
+      "player": "Jean Rodriguez"
     },
     {
       "date": "2026-06-10",
       "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated 3BMiles Mastrobuonifrom the 60-day injured list.",
-      "player": "Miles Mastrobuoni"
+      "details": "Seattle Marinersdesignated RHPYosver Zuluetafor assignment.",
+      "player": "Yosver Zulueta"
     },
     {
       "date": "2026-06-10",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RHPKenley Jansenon a rehab assignment to Toledo Mud Hens.",
-      "player": "Kenley Jansen"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent 1BCarlos Santanaon a rehab assignment to Reno Aces.",
+      "player": "Carlos Santana"
     },
     {
       "date": "2026-06-10",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated RHPCarlos Carrascofor assignment.",
-      "player": "Carlos Carrasco"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent CJoey Barton a rehab assignment to Bradenton Marauders.",
+      "player": "Joey Bart"
     },
     {
       "date": "2026-06-10",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysdesignated RHPConnor Seaboldfor assignment.",
-      "player": "Connor Seabold"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced CSebastián Riveroon the 10-day injured list. Left hamate fracture.",
+      "player": "Sebastián Rivero"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced LHPTyler Gilberton the 15-day injured list. Left shoulder impingement.",
+      "player": "Tyler Gilbert"
     },
     {
       "date": "2026-06-10",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesplaced RHPTyler Kinleyon the 15-day injured list retroactive to June 8, 2026. Right elbow inflammation.",
       "player": "Tyler Kinley"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent 1BNick Prattoto a minor league contract.",
+      "player": "Nick Pratto"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersplaced RHPMatt Brashon the 15-day injured list retroactive to June 9, 2026. Right lat strain.",
+      "player": "Matt Brash"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent CChadwick Trompto a minor league contract.",
+      "player": "Chadwick Tromp"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced CHenry Davison the paternity list.",
+      "player": "Henry Davis"
     },
     {
       "date": "2026-06-10",
@@ -51,15 +81,15 @@
     },
     {
       "date": "2026-06-10",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent CJoey Barton a rehab assignment to Bradenton Marauders.",
-      "player": "Joey Bart"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstransferred RHPJack Kochanowiczfrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
+      "player": "Jack Kochanowicz"
     },
     {
       "date": "2026-06-10",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsplaced CSebastián Riveroon the 10-day injured list. Left hamate fracture.",
-      "player": "Sebastián Rivero"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPJhancarlos Larafor assignment.",
+      "player": "Jhancarlos Lara"
     },
     {
       "date": "2026-06-10",
@@ -81,15 +111,15 @@
     },
     {
       "date": "2026-06-10",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersplaced RHPMatt Brashon the 15-day injured list retroactive to June 9, 2026. Right lat strain.",
-      "player": "Matt Brash"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPCarlos Carrascofor assignment.",
+      "player": "Carlos Carrasco"
     },
     {
       "date": "2026-06-10",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent CChadwick Trompto a minor league contract.",
-      "player": "Chadwick Tromp"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated RHPConnor Seaboldfor assignment.",
+      "player": "Connor Seabold"
     },
     {
       "date": "2026-06-10",
@@ -99,15 +129,21 @@
     },
     {
       "date": "2026-06-10",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent 1BCarlos Santanaon a rehab assignment to Reno Aces.",
-      "player": "Carlos Santana"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPMick Abelon a rehab assignment to St. Paul Saints.",
+      "player": "Mick Abel"
     },
     {
       "date": "2026-06-10",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced CHenry Davison the paternity list.",
-      "player": "Henry Davis"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated 3BMiles Mastrobuonifrom the 60-day injured list.",
+      "player": "Miles Mastrobuoni"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPKenley Jansenon a rehab assignment to Toledo Mud Hens.",
+      "player": "Kenley Jansen"
     },
     {
       "date": "2026-06-10",
@@ -117,39 +153,21 @@
     },
     {
       "date": "2026-06-10",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersdesignated RHPYosver Zuluetafor assignment.",
-      "player": "Yosver Zulueta"
-    },
-    {
-      "date": "2026-06-10",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated RHPJhancarlos Larafor assignment.",
-      "player": "Jhancarlos Lara"
-    },
-    {
-      "date": "2026-06-10",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelstransferred RHPJack Kochanowiczfrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
-      "player": "Jack Kochanowicz"
-    },
-    {
-      "date": "2026-06-10",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssent RHPYimi Garcíaon a rehab assignment to Buffalo Bisons.",
       "player": "Yimi García"
     },
     {
       "date": "2026-06-10",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessigned free agent OFJean Rodriguezto a minor league contract.",
-      "player": "Jean Rodriguez"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent OFElioberto Mondesirto a minor league contract.",
+      "player": "Elioberto Mondesir"
     },
     {
       "date": "2026-06-10",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced LHPTyler Gilberton the 15-day injured list. Left shoulder impingement.",
-      "player": "Tyler Gilbert"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent RHPKeegan Thompsonoutright to Albuquerque Isotopes.",
+      "player": "Keegan Thompson"
     },
     {
       "date": "2026-06-10",
@@ -165,39 +183,15 @@
     },
     {
       "date": "2026-06-10",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled CRafael Flores Jr.from Indianapolis Indians.",
-      "player": "Rafael Flores Jr."
-    },
-    {
-      "date": "2026-06-10",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsoptioned RHPTristan Beckto Sacramento River Cats.",
       "player": "Tristan Beck"
     },
     {
       "date": "2026-06-10",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPJonathan Pintarofrom Syracuse Mets.",
-      "player": "Jonathan Pintaro"
-    },
-    {
-      "date": "2026-06-10",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPChris Murphyfrom Charlotte Knights.",
-      "player": "Chris Murphy"
-    },
-    {
-      "date": "2026-06-10",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned 2BRyan Blissto Tacoma Rainiers.",
-      "player": "Ryan Bliss"
-    },
-    {
-      "date": "2026-06-10",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratestraded RHPCarson FulmertoSeattle Marinersfor cash.",
-      "player": "Carson Fulmer"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPAlec Gamboato Worcester Red Sox.",
+      "player": "Alec Gamboa"
     },
     {
       "date": "2026-06-10",
@@ -213,27 +207,9 @@
     },
     {
       "date": "2026-06-10",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPAlec Gamboato Worcester Red Sox.",
-      "player": "Alec Gamboa"
-    },
-    {
-      "date": "2026-06-10",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesrecalled RFBilly Cookfrom Indianapolis Indians.",
       "player": "Billy Cook"
-    },
-    {
-      "date": "2026-06-10",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersrecalled RHPDomingo Gonzalezfrom Tacoma Rainiers.",
-      "player": "Domingo Gonzalez"
-    },
-    {
-      "date": "2026-06-10",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPJR Ritchiefrom Gwinnett Stripers.",
-      "player": "JR Ritchie"
     },
     {
       "date": "2026-06-10",
@@ -243,15 +219,27 @@
     },
     {
       "date": "2026-06-10",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled CFKameron Misnerfrom Omaha Storm Chasers.",
-      "player": "Kameron Misner"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPChris Murphyfrom Charlotte Knights.",
+      "player": "Chris Murphy"
     },
     {
       "date": "2026-06-10",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent RHPKeegan Thompsonoutright to Albuquerque Isotopes.",
-      "player": "Keegan Thompson"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsselected the contract of CLogan Porterfrom Salt Lake Bees.",
+      "player": "Logan Porter"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJonathan Pintarofrom Syracuse Mets.",
+      "player": "Jonathan Pintaro"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled RHPDomingo Gonzalezfrom Tacoma Rainiers.",
+      "player": "Domingo Gonzalez"
     },
     {
       "date": "2026-06-10",
@@ -261,15 +249,45 @@
     },
     {
       "date": "2026-06-10",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned 2BRyan Blissto Tacoma Rainiers.",
+      "player": "Ryan Bliss"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratestraded RHPCarson FulmertoSeattle Marinersfor cash.",
+      "player": "Carson Fulmer"
+    },
+    {
+      "date": "2026-06-10",
       "team": "New York Mets",
       "details": "New York Metsoptioned RHPJoey Gerberto Syracuse Mets.",
       "player": "Joey Gerber"
     },
     {
       "date": "2026-06-10",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsselected the contract of CLogan Porterfrom Salt Lake Bees.",
-      "player": "Logan Porter"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPJR Ritchiefrom Gwinnett Stripers.",
+      "player": "JR Ritchie"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled CFKameron Misnerfrom Omaha Storm Chasers.",
+      "player": "Kameron Misner"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerstraded RHPJacob WaguespacktoDetroit Tigers.",
+      "player": "Jacob Waguespack"
+    },
+    {
+      "date": "2026-06-10",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled CRafael Flores Jr.from Indianapolis Indians.",
+      "player": "Rafael Flores Jr."
     }
   ]
 }
