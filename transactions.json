@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T16:50:15.769145",
+  "last_updated": "2026-06-12T19:12:15.814058",
   "transactions": [
     {
       "date": "2026-06-12",
@@ -9,9 +9,51 @@
     },
     {
       "date": "2026-06-12",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated SSXander Bogaertsfrom the paternity list.",
+      "player": "Xander Bogaerts"
+    },
+    {
+      "date": "2026-06-12",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresdesignated RFBryce Johnsonfor assignment.",
+      "player": "Bryce Johnson"
+    },
+    {
+      "date": "2026-06-12",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssigned free agent CHayden Gillilandto a minor league contract.",
+      "player": "Hayden Gilliland"
+    },
+    {
+      "date": "2026-06-12",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgerssigned free agent IFChristian Polancoto a minor league contract.",
       "player": "Christian Polanco"
+    },
+    {
+      "date": "2026-06-12",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersacquired RHPConnor Wilfordfrom the Lexington Legends of the Atlantic League.",
+      "player": "Connor Wilford"
+    },
+    {
+      "date": "2026-06-12",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPRyan Walkerfrom Sacramento River Cats.",
+      "player": "Ryan Walker"
+    },
+    {
+      "date": "2026-06-12",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPDaniel Espinofrom Columbus Clippers.",
+      "player": "Daniel Espino"
+    },
+    {
+      "date": "2026-06-12",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxacquired RHPGabe Tannerfrom the Oakland Ballers of the Pioneer League.",
+      "player": "Gabe Tanner"
     }
   ]
 }
