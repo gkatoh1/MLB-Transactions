@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-06-13T16:21:13.655806",
+  "last_updated": "2026-06-13T18:15:36.520280",
   "transactions": [
-    {
-      "date": "2026-06-13",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned free agent LHPDylan Carmoucheto a minor league contract.",
-      "player": "Dylan Carmouche"
-    },
     {
       "date": "2026-06-13",
       "team": "Atlanta Braves",
@@ -27,21 +21,51 @@
     },
     {
       "date": "2026-06-13",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent CDrake Baldwinon a rehab assignment to Gwinnett Stripers.",
-      "player": "Drake Baldwin"
-    },
-    {
-      "date": "2026-06-13",
       "team": "New York Yankees",
       "details": "New York Yankeesactivated LFJasson Domínguezfrom the 10-day injured list.",
       "player": "Jasson Domínguez"
     },
     {
       "date": "2026-06-13",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent LHPDylan Carmoucheto a minor league contract.",
+      "player": "Dylan Carmouche"
+    },
+    {
+      "date": "2026-06-13",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresplaced DHMiguel Andujaron the 10-day injured list retroactive to June 11, 2026. Left hamstring strain.",
+      "player": "Miguel Andujar"
+    },
+    {
+      "date": "2026-06-13",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent CDrake Baldwinon a rehab assignment to Gwinnett Stripers.",
+      "player": "Drake Baldwin"
+    },
+    {
+      "date": "2026-06-13",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesrecalled RHPAnthony Molinafrom Gwinnett Stripers.",
       "player": "Anthony Molina"
+    },
+    {
+      "date": "2026-06-13",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresselected the contract of 1BNick Solakfrom El Paso Chihuahuas.",
+      "player": "Nick Solak"
+    },
+    {
+      "date": "2026-06-13",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPRiley Cornelioto Rochester Red Wings.",
+      "player": "Riley Cornelio"
+    },
+    {
+      "date": "2026-06-13",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled LHPPJ Poulinfrom Rochester Red Wings.",
+      "player": "PJ Poulin"
     }
   ]
 }
