@@ -1,41 +1,11 @@
 {
-  "last_updated": "2026-06-14T17:26:19.884009",
+  "last_updated": "2026-06-14T19:47:36.604426",
   "transactions": [
-    {
-      "date": "2026-06-14",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated CJose Trevinofrom the 10-day injured list.",
-      "player": "Jose Trevino"
-    },
-    {
-      "date": "2026-06-14",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesactivated RFTyler Freemanfrom the 7-day injured list.",
-      "player": "Tyler Freeman"
-    },
     {
       "date": "2026-06-14",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansplaced 3BJosé Ramírezon the 10-day injured list. Left hamate fracture.",
       "player": "José Ramírez"
-    },
-    {
-      "date": "2026-06-14",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansdesignated LFGeorge Valerafor assignment.",
-      "player": "George Valera"
-    },
-    {
-      "date": "2026-06-14",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced 1BVinnie Pasquantinoon the 10-day injured list. Right hamate fracture.",
-      "player": "Vinnie Pasquantino"
-    },
-    {
-      "date": "2026-06-14",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated SSGabriel Ariasfrom the 60-day injured list.",
-      "player": "Gabriel Arias"
     },
     {
       "date": "2026-06-14",
@@ -45,21 +15,51 @@
     },
     {
       "date": "2026-06-14",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresdesignated RHPTy Adcockfor assignment.",
-      "player": "Ty Adcock"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated SSGabriel Ariasfrom the 60-day injured list.",
+      "player": "Gabriel Arias"
+    },
+    {
+      "date": "2026-06-14",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansdesignated LFGeorge Valerafor assignment.",
+      "player": "George Valera"
+    },
+    {
+      "date": "2026-06-14",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced RHPKeaton Winnon the 15-day injured list retroactive to June 11, 2026. Right elbow strain.",
+      "player": "Keaton Winn"
     },
     {
       "date": "2026-06-14",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned CP.J. Higginsto Louisville Bats.",
-      "player": "P.J. Higgins"
+      "details": "Cincinnati Redsactivated CJose Trevinofrom the 10-day injured list.",
+      "player": "Jose Trevino"
+    },
+    {
+      "date": "2026-06-14",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced 1BVinnie Pasquantinoon the 10-day injured list. Right hamate fracture.",
+      "player": "Vinnie Pasquantino"
     },
     {
       "date": "2026-06-14",
       "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned 2BChad Stevensto Albuquerque Isotopes.",
-      "player": "Chad Stevens"
+      "details": "Colorado Rockiesactivated RFTyler Freemanfrom the 7-day injured list.",
+      "player": "Tyler Freeman"
+    },
+    {
+      "date": "2026-06-14",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced CFMichael Helmanon the 10-day injured list.",
+      "player": "Michael Helman"
+    },
+    {
+      "date": "2026-06-14",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresdesignated RHPTy Adcockfor assignment.",
+      "player": "Ty Adcock"
     },
     {
       "date": "2026-06-14",
@@ -69,9 +69,51 @@
     },
     {
       "date": "2026-06-14",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned CP.J. Higginsto Louisville Bats.",
+      "player": "P.J. Higgins"
+    },
+    {
+      "date": "2026-06-14",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled LFAlejandro Osunafrom Round Rock Express.",
+      "player": "Alejandro Osuna"
+    },
+    {
+      "date": "2026-06-14",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsrecalled RFJohn Ravefrom Omaha Storm Chasers.",
       "player": "John Rave"
+    },
+    {
+      "date": "2026-06-14",
+      "team": "Athletics",
+      "details": "Athleticsrecalled LHPBrady Bassofrom Las Vegas Aviators.",
+      "player": "Brady Basso"
+    },
+    {
+      "date": "2026-06-14",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned 2BChad Stevensto Albuquerque Isotopes.",
+      "player": "Chad Stevens"
+    },
+    {
+      "date": "2026-06-14",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPJoey Estesto Las Vegas Aviators.",
+      "player": "Joey Estes"
+    },
+    {
+      "date": "2026-06-14",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPTristan Beckfrom Sacramento River Cats.",
+      "player": "Tristan Beck"
+    },
+    {
+      "date": "2026-06-14",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent CAramis Garciaoutright to Reno Aces.",
+      "player": "Aramis Garcia"
     }
   ]
 }
