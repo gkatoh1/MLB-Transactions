@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-06-15T12:34:13.919472",
+  "last_updated": "2026-06-15T17:58:16.566472",
   "transactions": [
+    {
+      "date": "2026-06-15",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsdesignated SSOrlando Arciafor assignment.",
+      "player": "Orlando Arcia"
+    },
+    {
+      "date": "2026-06-15",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated LHPDoug Nikhazyfor assignment.",
+      "player": "Doug Nikhazy"
+    },
+    {
+      "date": "2026-06-15",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated RFSteward Berroafrom the paternity list.",
+      "player": "Steward Berroa"
+    },
     {
       "date": "2026-06-15",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsoptioned RHPEli Morganto Omaha Storm Chasers.",
       "player": "Eli Morgan"
+    },
+    {
+      "date": "2026-06-15",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsselected the contract of LFKyler Fedkofrom St. Paul Saints.",
+      "player": "Kyler Fedko"
+    },
+    {
+      "date": "2026-06-15",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RFSteward Berroato Lehigh Valley IronPigs.",
+      "player": "Steward Berroa"
+    },
+    {
+      "date": "2026-06-15",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPYosver Zuluetato Iowa Cubs.",
+      "player": "Yosver Zulueta"
+    },
+    {
+      "date": "2026-06-15",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerstraded RHPYosver ZuluetatoChicago Cubsfor cash.",
+      "player": "Yosver Zulueta"
     }
   ]
 }
