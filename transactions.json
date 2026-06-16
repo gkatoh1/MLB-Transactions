@@ -1,4 +1,23 @@
 {
-  "last_updated": "2026-06-16T11:26:41.309514",
-  "transactions": []
+  "last_updated": "2026-06-16T17:11:23.620920",
+  "transactions": [
+    {
+      "date": "2026-06-16",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent LHPDJ Herzon a rehab assignment to Fredericksburg Nationals.",
+      "player": "DJ Herz"
+    },
+    {
+      "date": "2026-06-16",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned CFBrewer Hicklento Gwinnett Stripers.",
+      "player": "Brewer Hicklen"
+    },
+    {
+      "date": "2026-06-16",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of CFBrewer Hicklenfrom Gwinnett Stripers.",
+      "player": "Brewer Hicklen"
+    }
+  ]
 }
