@@ -1,4 +1,29 @@
 {
-  "last_updated": "2026-06-17T13:51:47.302333",
-  "transactions": []
+  "last_updated": "2026-06-17T17:12:09.395483",
+  "transactions": [
+    {
+      "date": "2026-06-17",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPCasey Mizefrom the 15-day injured list.",
+      "player": "Casey Mize"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced 2BGleyber Torreson the 10-day injured list retroactive to June 16, 2026. Left oblique strain.",
+      "player": "Gleyber Torres"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent LHPKendry Rojason a rehab assignment to St. Paul Saints.",
+      "player": "Kendry Rojas"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsreleased RHPJulian Fernández.",
+      "player": "Julian Fernández"
+    }
+  ]
 }
