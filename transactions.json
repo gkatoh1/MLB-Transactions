@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T20:24:23.684724",
+  "last_updated": "2026-06-17T22:48:09.688961",
   "transactions": [
     {
       "date": "2026-06-17",
@@ -9,27 +9,27 @@
     },
     {
       "date": "2026-06-17",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssigned free agent LHP Benjamin DeTaeye to a minor league contract.",
-      "player": "Unknown Player"
-    },
-    {
-      "date": "2026-06-17",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysplaced RHPMax Scherzeron the 15-day injured list retroactive to June 14, 2026. Back spasms.",
       "player": "Max Scherzer"
     },
     {
       "date": "2026-06-17",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated RHPCasey Mizefrom the 15-day injured list.",
-      "player": "Casey Mize"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced RFChase DeLauteron the 10-day injured list retroactive to June 14, 2026. Right side rib fracture.",
+      "player": "Chase DeLauter"
     },
     {
       "date": "2026-06-17",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent LHPErik Sabrowskion a rehab assignment to Akron RubberDucks.",
-      "player": "Erik Sabrowski"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated LHPMatt Gagefrom the 15-day injured list.",
+      "player": "Matt Gage"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Unknown Team",
+      "details": "RHPRon Marinacciosuspended.",
+      "player": "Ron Marinaccio"
     },
     {
       "date": "2026-06-17",
@@ -45,9 +45,27 @@
     },
     {
       "date": "2026-06-17",
-      "team": "Unknown Team",
-      "details": "RHPRon Marinacciosuspended.",
-      "player": "Ron Marinaccio"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPHunter Strattonfor assignment.",
+      "player": "Hunter Stratton"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPCasey Mizefrom the 15-day injured list.",
+      "player": "Casey Mize"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Athletics",
+      "details": "Athleticsactivated RHPAaron Civalefrom the 15-day injured list.",
+      "player": "Aaron Civale"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravestransferred RHPSpencer Striderfrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
+      "player": "Spencer Strider"
     },
     {
       "date": "2026-06-17",
@@ -63,9 +81,51 @@
     },
     {
       "date": "2026-06-17",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent LHPPatrick Sandovalon a rehab assignment to Portland Sea Dogs.",
+      "player": "Patrick Sandoval"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent LHPErik Sabrowskion a rehab assignment to Akron RubberDucks.",
+      "player": "Erik Sabrowski"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent LFHeliot Ramoson a rehab assignment to Sacramento River Cats.",
+      "player": "Heliot Ramos"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated RHPJimmy Hergetfrom the 15-day injured list.",
+      "player": "Jimmy Herget"
+    },
+    {
+      "date": "2026-06-17",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersrecalled RFConnor Joefrom Tacoma Rainiers.",
       "player": "Connor Joe"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPAnthony Molinato Gwinnett Stripers.",
+      "player": "Anthony Molina"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersacquired LHPBen DeTaeyefrom the Sioux City Explorers of the American Association.",
+      "player": "Ben DeTaeye"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned CFCurtis Washington Jr.to Everett AquaSox.",
+      "player": "Curtis Washington Jr."
     },
     {
       "date": "2026-06-17",
@@ -75,9 +135,51 @@
     },
     {
       "date": "2026-06-17",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned CFCurtis Washington Jr.to Everett AquaSox.",
-      "player": "Curtis Washington Jr."
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPCarlos Carrascofrom Gwinnett Stripers.",
+      "player": "Carlos Carrasco"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled LHPCarson Whisenhuntfrom Sacramento River Cats.",
+      "player": "Carson Whisenhunt"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned LHPReiver Sanmartinto Sacramento River Cats.",
+      "player": "Reiver Sanmartin"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPSeth Halvorsento Albuquerque Isotopes.",
+      "player": "Seth Halvorsen"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of CJair Camargofrom Gwinnett Stripers.",
+      "player": "Jair Camargo"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled LFKahlil Watsonfrom Columbus Clippers.",
+      "player": "Kahlil Watson"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent LFWill Brennanoutright to Sacramento River Cats.",
+      "player": "Will Brennan"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPLuis Moralesto Las Vegas Aviators.",
+      "player": "Luis Morales"
     }
   ]
 }
