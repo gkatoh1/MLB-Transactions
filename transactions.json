@@ -1,11 +1,35 @@
 {
-  "last_updated": "2026-06-17T17:12:09.395483",
+  "last_updated": "2026-06-17T20:24:23.684724",
   "transactions": [
+    {
+      "date": "2026-06-17",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsreleased RHPJulian Fernández.",
+      "player": "Julian Fernández"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent LHP Benjamin DeTaeye to a minor league contract.",
+      "player": "Unknown Player"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RHPMax Scherzeron the 15-day injured list retroactive to June 14, 2026. Back spasms.",
+      "player": "Max Scherzer"
+    },
     {
       "date": "2026-06-17",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersactivated RHPCasey Mizefrom the 15-day injured list.",
       "player": "Casey Mize"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent LHPErik Sabrowskion a rehab assignment to Akron RubberDucks.",
+      "player": "Erik Sabrowski"
     },
     {
       "date": "2026-06-17",
@@ -15,15 +39,45 @@
     },
     {
       "date": "2026-06-17",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated 2BVaughn Grissomfrom the 10-day injured list.",
+      "player": "Vaughn Grissom"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Unknown Team",
+      "details": "RHPRon Marinacciosuspended.",
+      "player": "Ron Marinaccio"
+    },
+    {
+      "date": "2026-06-17",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinssent LHPKendry Rojason a rehab assignment to St. Paul Saints.",
       "player": "Kendry Rojas"
     },
     {
       "date": "2026-06-17",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsreleased RHPJulian Fernández.",
-      "player": "Julian Fernández"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated 1BTrey Mancinifor assignment.",
+      "player": "Trey Mancini"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled RFConnor Joefrom Tacoma Rainiers.",
+      "player": "Connor Joe"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPChad Dallasfrom Buffalo Bisons.",
+      "player": "Chad Dallas"
+    },
+    {
+      "date": "2026-06-17",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned CFCurtis Washington Jr.to Everett AquaSox.",
+      "player": "Curtis Washington Jr."
     }
   ]
 }
