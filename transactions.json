@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-06-18T11:12:05.182398",
+  "last_updated": "2026-06-18T15:44:13.015248",
   "transactions": [
     {
       "date": "2026-06-18",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned CJair Camargoto Gwinnett Stripers.",
-      "player": "Jair Camargo"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPChris Roycroftto Memphis Redbirds.",
+      "player": "Chris Roycroft"
+    },
+    {
+      "date": "2026-06-18",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPBrett Kerryto Salt Lake Bees.",
+      "player": "Brett Kerry"
     },
     {
       "date": "2026-06-18",
@@ -21,21 +27,21 @@
     },
     {
       "date": "2026-06-18",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPChris Roycroftto Memphis Redbirds.",
-      "player": "Chris Roycroft"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysacquired OFEdgardo Villegasfrom the Trois-Rivieres Aigles of the Frontier League.",
+      "player": "Edgardo Villegas"
+    },
+    {
+      "date": "2026-06-18",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned CJair Camargoto Gwinnett Stripers.",
+      "player": "Jair Camargo"
     },
     {
       "date": "2026-06-18",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsoptioned LHPCarson Whisenhuntto Sacramento River Cats.",
       "player": "Carson Whisenhunt"
-    },
-    {
-      "date": "2026-06-18",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned RHPBrett Kerryto Salt Lake Bees.",
-      "player": "Brett Kerry"
     }
   ]
 }
