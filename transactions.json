@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-06-18T18:30:19.557318",
+  "last_updated": "2026-06-18T21:24:36.749602",
   "transactions": [
+    {
+      "date": "2026-06-18",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RFEverson Pereiraon the 7-day injured list. Concussion.",
+      "player": "Everson Pereira"
+    },
     {
       "date": "2026-06-18",
       "team": "Colorado Rockies",
@@ -15,9 +21,15 @@
     },
     {
       "date": "2026-06-18",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced RFEverson Pereiraon the 7-day injured list. Concussion.",
-      "player": "Everson Pereira"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsdesignated RHPChris Roycroftfor assignment.",
+      "player": "Chris Roycroft"
+    },
+    {
+      "date": "2026-06-18",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPPierce Johnsonon a rehab assignment to Louisville Bats.",
+      "player": "Pierce Johnson"
     },
     {
       "date": "2026-06-18",
@@ -27,9 +39,21 @@
     },
     {
       "date": "2026-06-18",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned LHPCarson Whisenhuntto Sacramento River Cats.",
-      "player": "Carson Whisenhunt"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RFDylan Beaverson a rehab assignment to Chesapeake Baysox.",
+      "player": "Dylan Beavers"
+    },
+    {
+      "date": "2026-06-18",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent LHPKolby Allardto a minor league contract.",
+      "player": "Kolby Allard"
+    },
+    {
+      "date": "2026-06-18",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned CLogan Porterto Salt Lake Bees.",
+      "player": "Logan Porter"
     },
     {
       "date": "2026-06-18",
@@ -39,21 +63,21 @@
     },
     {
       "date": "2026-06-18",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned CWill Banfieldto Louisville Bats.",
-      "player": "Will Banfield"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPBrett Kerryto Salt Lake Bees.",
+      "player": "Brett Kerry"
     },
     {
       "date": "2026-06-18",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPAndrew Painterto Lehigh Valley IronPigs.",
-      "player": "Andrew Painter"
+      "details": "Philadelphia Philliesacquired 1BBrandon Lewisfrom the York Revolution of the Atlantic League.",
+      "player": "Brandon Lewis"
     },
     {
       "date": "2026-06-18",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned CLogan Porterto Salt Lake Bees.",
-      "player": "Logan Porter"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsacquired RHPSam Knowltonfrom the Lexington Legends of the Atlantic League.",
+      "player": "Sam Knowlton"
     },
     {
       "date": "2026-06-18",
@@ -64,8 +88,8 @@
     {
       "date": "2026-06-18",
       "team": "San Francisco Giants",
-      "details": "San Francisco Giantsacquired RHPSam Knowltonfrom the Lexington Legends of the Atlantic League.",
-      "player": "Sam Knowlton"
+      "details": "San Francisco Giantsoptioned LHPCarson Whisenhuntto Sacramento River Cats.",
+      "player": "Carson Whisenhunt"
     },
     {
       "date": "2026-06-18",
@@ -87,9 +111,21 @@
     },
     {
       "date": "2026-06-18",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsacquired RHPNate Nabholzfrom the Tri-City ValleyCats of the Frontier League.",
-      "player": "Nate Nabholz"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
+      "player": "Seth Johnson"
+    },
+    {
+      "date": "2026-06-18",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsselected the contract of RHPMax Rajcicfrom Memphis Redbirds.",
+      "player": "Max Rajcic"
+    },
+    {
+      "date": "2026-06-18",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned LHPTanner Banksto Lehigh Valley IronPigs.",
+      "player": "Tanner Banks"
     },
     {
       "date": "2026-06-18",
@@ -99,9 +135,39 @@
     },
     {
       "date": "2026-06-18",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned RHPBrett Kerryto Salt Lake Bees.",
-      "player": "Brett Kerry"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesacquired 2BDaunte Stuartfrom the New Jersey Jackals of the Frontier League.",
+      "player": "Daunte Stuart"
+    },
+    {
+      "date": "2026-06-18",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPAndrew Painterto Lehigh Valley IronPigs.",
+      "player": "Andrew Painter"
+    },
+    {
+      "date": "2026-06-18",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsacquired RHPNate Nabholzfrom the Tri-City ValleyCats of the Frontier League.",
+      "player": "Nate Nabholz"
+    },
+    {
+      "date": "2026-06-18",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned CWill Banfieldto Louisville Bats.",
+      "player": "Will Banfield"
+    },
+    {
+      "date": "2026-06-18",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesacquired 1BTyler Millerfrom the Lancaster Stormers of the Atlantic League.",
+      "player": "Tyler Miller"
+    },
+    {
+      "date": "2026-06-18",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesselected the contract of RHPBryse Wilsonfrom Lehigh Valley IronPigs.",
+      "player": "Bryse Wilson"
     }
   ]
 }
