@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-06-19T17:22:45.423585",
+  "last_updated": "2026-06-19T19:57:44.711843",
   "transactions": [
+    {
+      "date": "2026-06-19",
+      "team": "New York Mets",
+      "details": "New York Metssent CFTyrone Tayloron a rehab assignment to Binghamton Rumble Ponies.",
+      "player": "Tyrone Taylor"
+    },
     {
       "date": "2026-06-19",
       "team": "Houston Astros",
@@ -21,21 +27,81 @@
     },
     {
       "date": "2026-06-19",
-      "team": "New York Mets",
-      "details": "New York Metssent CFTyrone Tayloron a rehab assignment to Binghamton Rumble Ponies.",
-      "player": "Tyrone Taylor"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent SSElly De La Cruzon a rehab assignment to Louisville Bats.",
+      "player": "Elly De La Cruz"
     },
     {
       "date": "2026-06-19",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled CFJustin Deanfrom Iowa Cubs.",
-      "player": "Justin Dean"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RHPSeth Lugofrom the 7-day injured list.",
+      "player": "Seth Lugo"
+    },
+    {
+      "date": "2026-06-19",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced RHPRyne Nelsonon the 15-day injured list retroactive to June 16, 2026. Strained right elbow.",
+      "player": "Ryne Nelson"
+    },
+    {
+      "date": "2026-06-19",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RFJonny DeLucafrom the 10-day injured list.",
+      "player": "Jonny DeLuca"
+    },
+    {
+      "date": "2026-06-19",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated RFAustin Slaterfor assignment.",
+      "player": "Austin Slater"
+    },
+    {
+      "date": "2026-06-19",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced RFWenceel Pérezon the 10-day injured list retroactive to June 17, 2026. Left orbital fracture.",
+      "player": "Wenceel Pérez"
+    },
+    {
+      "date": "2026-06-19",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPChad Dallasto Buffalo Bisons.",
+      "player": "Chad Dallas"
     },
     {
       "date": "2026-06-19",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesoptioned RHPHunter Strattonto Indianapolis Indians.",
       "player": "Hunter Stratton"
+    },
+    {
+      "date": "2026-06-19",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPMason Blackto Omaha Storm Chasers.",
+      "player": "Mason Black"
+    },
+    {
+      "date": "2026-06-19",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPYilber Díazfrom Reno Aces.",
+      "player": "Yilber Díaz"
+    },
+    {
+      "date": "2026-06-19",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LHPBrendon Littlefrom Buffalo Bisons.",
+      "player": "Brendon Little"
+    },
+    {
+      "date": "2026-06-19",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled CFTrei Cruzfrom Toledo Mud Hens.",
+      "player": "Trei Cruz"
+    },
+    {
+      "date": "2026-06-19",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled CFJustin Deanfrom Iowa Cubs.",
+      "player": "Justin Dean"
     }
   ]
 }
