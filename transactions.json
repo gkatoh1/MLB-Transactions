@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T20:20:22.172675",
+  "last_updated": "2026-06-20T22:16:24.154400",
   "transactions": [
     {
       "date": "2026-06-20",
@@ -15,9 +15,51 @@
     },
     {
       "date": "2026-06-20",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent LHPMatthew Boydon a rehab assignment to South Bend Cubs.",
+      "player": "Matthew Boyd"
+    },
+    {
+      "date": "2026-06-20",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsdesignated CFJared Olivafor assignment.",
       "player": "Jared Oliva"
+    },
+    {
+      "date": "2026-06-20",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RHPLazaro Estradafrom the 60-day injured list.",
+      "player": "Lazaro Estrada"
+    },
+    {
+      "date": "2026-06-20",
+      "team": "New York Mets",
+      "details": "New York Metssent SSRonny Mauricioon a rehab assignment to Syracuse Mets.",
+      "player": "Ronny Mauricio"
+    },
+    {
+      "date": "2026-06-20",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced LFJordan Lawlaron the 10-day injured list. Right hamstring strain.",
+      "player": "Jordan Lawlar"
+    },
+    {
+      "date": "2026-06-20",
+      "team": "Athletics",
+      "details": "Athleticsplaced RHPMark Leiter Jr.on the 15-day injured list retroactive to June 18, 2026. Right hip impingement.",
+      "player": "Mark Leiter Jr."
+    },
+    {
+      "date": "2026-06-20",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated CFDaulton Varshofrom the 10-day injured list.",
+      "player": "Daulton Varsho"
+    },
+    {
+      "date": "2026-06-20",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced RHPMichael Sorokaon the 15-day injured list. Left glute strain.",
+      "player": "Michael Soroka"
     },
     {
       "date": "2026-06-20",
@@ -28,14 +70,38 @@
     {
       "date": "2026-06-20",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated RHPLazaro Estradafrom the 60-day injured list.",
-      "player": "Lazaro Estrada"
+      "details": "Toronto Blue Jaysoptioned LHPBrendon Littleto Buffalo Bisons.",
+      "player": "Brendon Little"
     },
     {
       "date": "2026-06-20",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated CFDaulton Varshofrom the 10-day injured list.",
-      "player": "Daulton Varsho"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent CFCurtis Washington Jr.outright to Everett AquaSox.",
+      "player": "Curtis Washington Jr."
+    },
+    {
+      "date": "2026-06-20",
+      "team": "Houston Astros",
+      "details": "Houston Astrosacquired 3BBrandon Nighfrom the Boise Hawks of the Pioneer League.",
+      "player": "Brandon Nigh"
+    },
+    {
+      "date": "2026-06-20",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackstraded SSLuis UríastoToronto Blue Jaysfor cash.",
+      "player": "Luis Urías"
+    },
+    {
+      "date": "2026-06-20",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled LHPPhilip Abnerfrom Reno Aces.",
+      "player": "Philip Abner"
+    },
+    {
+      "date": "2026-06-20",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled LFTim Tawafrom Reno Aces.",
+      "player": "Tim Tawa"
     },
     {
       "date": "2026-06-20",
@@ -45,9 +111,9 @@
     },
     {
       "date": "2026-06-20",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LHPBrendon Littleto Buffalo Bisons.",
-      "player": "Brendon Little"
+      "team": "Athletics",
+      "details": "Athleticsselected the contract of RHPGeoff Hartliebfrom Las Vegas Aviators.",
+      "player": "Geoff Hartlieb"
     }
   ]
 }
