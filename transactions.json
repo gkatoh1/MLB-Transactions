@@ -1,6 +1,60 @@
 {
-  "last_updated": "2026-06-21T13:12:46.214388",
+  "last_updated": "2026-06-21T16:00:09.873095",
   "transactions": [
+    {
+      "date": "2026-06-21",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated CAustin Wellsfrom the 10-day injured list.",
+      "player": "Austin Wells"
+    },
+    {
+      "date": "2026-06-21",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated LHPKendry Rojasfrom the 15-day injured list.",
+      "player": "Kendry Rojas"
+    },
+    {
+      "date": "2026-06-21",
+      "team": "New York Mets",
+      "details": "New York Metssent CFTyrone Tayloron a rehab assignment to Syracuse Mets.",
+      "player": "Tyrone Taylor"
+    },
+    {
+      "date": "2026-06-21",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPMax Kranickon a rehab assignment to Fredericksburg Nationals.",
+      "player": "Max Kranick"
+    },
+    {
+      "date": "2026-06-21",
+      "team": "New York Mets",
+      "details": "New York Metssent SSFrancisco Lindoron a rehab assignment to Syracuse Mets.",
+      "player": "Francisco Lindor"
+    },
+    {
+      "date": "2026-06-21",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated RHPJordan Hicksfrom the 15-day injured list.",
+      "player": "Jordan Hicks"
+    },
+    {
+      "date": "2026-06-21",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsdesignated RHPJustin Lawrencefor assignment.",
+      "player": "Justin Lawrence"
+    },
+    {
+      "date": "2026-06-21",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPElmer Rodríguezfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Elmer Rodríguez"
+    },
+    {
+      "date": "2026-06-21",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPTyler Davisto Charlotte Knights.",
+      "player": "Tyler Davis"
+    },
     {
       "date": "2026-06-21",
       "team": "New York Yankees",
@@ -12,6 +66,12 @@
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPJake Birdto Scranton/Wilkes-Barre RailRiders.",
       "player": "Jake Bird"
+    },
+    {
+      "date": "2026-06-21",
+      "team": "New York Mets",
+      "details": "New York Metsacquired 2BTaylor Dardenfrom the Southern Maryland Blue Crabs of the Atlantic League.",
+      "player": "Taylor Darden"
     }
   ]
 }
