@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-06-21T10:36:29.897926",
+  "last_updated": "2026-06-21T13:12:46.214388",
   "transactions": [
-    {
-      "date": "2026-06-21",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPJake Birdto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jake Bird"
-    },
     {
       "date": "2026-06-21",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned CJ.C. Escarrato Scranton/Wilkes-Barre RailRiders.",
       "player": "J.C. Escarra"
+    },
+    {
+      "date": "2026-06-21",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPJake Birdto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jake Bird"
     }
   ]
 }
