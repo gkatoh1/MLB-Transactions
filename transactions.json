@@ -1,11 +1,29 @@
 {
-  "last_updated": "2026-06-22T12:19:20.435595",
+  "last_updated": "2026-06-22T17:44:11.342565",
   "transactions": [
+    {
+      "date": "2026-06-22",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent 2BLenyn Sosaon a rehab assignment to FCL Blue Jays.",
+      "player": "Lenyn Sosa"
+    },
+    {
+      "date": "2026-06-22",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated CKyle Teelfrom the 60-day injured list.",
+      "player": "Kyle Teel"
+    },
     {
       "date": "2026-06-22",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPElmer Rodríguezto Scranton/Wilkes-Barre RailRiders.",
       "player": "Elmer Rodríguez"
+    },
+    {
+      "date": "2026-06-22",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned CEdgar Queroto Charlotte Knights.",
+      "player": "Edgar Quero"
     }
   ]
 }
