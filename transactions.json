@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-06-24T14:47:47.571249",
+  "last_updated": "2026-06-24T17:10:36.712541",
   "transactions": [
+    {
+      "date": "2026-06-24",
+      "team": "Unknown Team",
+      "details": "RHPAbner Uribesuspended.",
+      "player": "Abner Uribe"
+    },
     {
       "date": "2026-06-24",
       "team": "Pittsburgh Pirates",
@@ -12,6 +18,66 @@
       "team": "Miami Marlins",
       "details": "Miami Marlinsactivated RHPEury Pérezfrom the 15-day injured list.",
       "player": "Eury Pérez"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated RHPEduarniel Núñezfor assignment.",
+      "player": "Eduarniel Núñez"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsdesignated RHPAustin Vothfor assignment.",
+      "player": "Austin Voth"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPBen Brownon the 15-day injured list retroactive to June 21, 2026. Neck strain.",
+      "player": "Ben Brown"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPEdward Cabreraon the 15-day injured list. Left hamstring strain.",
+      "player": "Edward Cabrera"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled LHPKody Funderburkfrom St. Paul Saints.",
+      "player": "Kody Funderburk"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled LHPCarson Palmquistfrom Rochester Red Wings.",
+      "player": "Carson Palmquist"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPJose Corniellto Round Rock Express.",
+      "player": "Jose Corniell"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPGavin Hollowellfrom Iowa Cubs.",
+      "player": "Gavin Hollowell"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPMarco Rayafrom St. Paul Saints.",
+      "player": "Marco Raya"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned LHPDax Fultonto Jacksonville Jumbo Shrimp.",
+      "player": "Dax Fulton"
     },
     {
       "date": "2026-06-24",
@@ -27,15 +93,27 @@
     },
     {
       "date": "2026-06-24",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned RHPJose Corniellto Round Rock Express.",
-      "player": "Jose Corniell"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPPaxton Schultzto Rochester Red Wings.",
+      "player": "Paxton Schultz"
     },
     {
       "date": "2026-06-24",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned LHPDax Fultonto Jacksonville Jumbo Shrimp.",
-      "player": "Dax Fulton"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned LHPKendry Rojasto St. Paul Saints.",
+      "player": "Kendry Rojas"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPTyler Fergusonfrom Iowa Cubs.",
+      "player": "Tyler Ferguson"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsselected the contract of RHPVince Velasquezfrom Iowa Cubs.",
+      "player": "Vince Velasquez"
     }
   ]
 }
