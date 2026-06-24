@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-06-24T19:56:58.931756",
+  "last_updated": "2026-06-24T21:39:00.184638",
   "transactions": [
-    {
-      "date": "2026-06-24",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsplaced LFJose Sirion the paternity list.",
-      "player": "Jose Siri"
-    },
     {
       "date": "2026-06-24",
       "team": "Colorado Rockies",
@@ -16,8 +10,8 @@
     {
       "date": "2026-06-24",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced RHPBen Brownon the 15-day injured list retroactive to June 21, 2026. Neck strain.",
-      "player": "Ben Brown"
+      "details": "Chicago Cubsplaced RHPEdward Cabreraon the 15-day injured list. Left hamstring strain.",
+      "player": "Edward Cabrera"
     },
     {
       "date": "2026-06-24",
@@ -27,39 +21,9 @@
     },
     {
       "date": "2026-06-24",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent LHPKris Bubicon a rehab assignment to Omaha Storm Chasers.",
-      "player": "Kris Bubic"
-    },
-    {
-      "date": "2026-06-24",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksdesignated 1BCarlos Santanafor assignment.",
-      "player": "Carlos Santana"
-    },
-    {
-      "date": "2026-06-24",
-      "team": "Unknown Team",
-      "details": "RHPAbner Uribesuspended.",
-      "player": "Abner Uribe"
-    },
-    {
-      "date": "2026-06-24",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPTyler Kinleyfrom the 15-day injured list.",
-      "player": "Tyler Kinley"
-    },
-    {
-      "date": "2026-06-24",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessigned free agent OFEnmanuel Rosasto a minor league contract.",
-      "player": "Enmanuel Rosas"
-    },
-    {
-      "date": "2026-06-24",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsactivated RHPEury Pérezfrom the 15-day injured list.",
-      "player": "Eury Pérez"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated RHPChristian Roafor assignment.",
+      "player": "Christian Roa"
     },
     {
       "date": "2026-06-24",
@@ -81,9 +45,33 @@
     },
     {
       "date": "2026-06-24",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced RHPEdward Cabreraon the 15-day injured list. Left hamstring strain.",
-      "player": "Edward Cabrera"
+      "team": "New York Mets",
+      "details": "New York Metsdesignated SSZack Shortfor assignment.",
+      "player": "Zack Short"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "New York Mets",
+      "details": "New York Metsactivated SSRonny Mauriciofrom the 10-day injured list.",
+      "player": "Ronny Mauricio"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent SSKonnor Griffinon a rehab assignment to Altoona Curve.",
+      "player": "Konnor Griffin"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPTyler Kinleyfrom the 15-day injured list.",
+      "player": "Tyler Kinley"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent SSKonnor Griffinon a rehab assignment to Altoona Curve.",
+      "player": "Konnor Griffin"
     },
     {
       "date": "2026-06-24",
@@ -93,57 +81,51 @@
     },
     {
       "date": "2026-06-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPPaxton Schultzto Rochester Red Wings.",
-      "player": "Paxton Schultz"
-    },
-    {
-      "date": "2026-06-24",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsselected the contract of RHPVince Velasquezfrom Iowa Cubs.",
-      "player": "Vince Velasquez"
-    },
-    {
-      "date": "2026-06-24",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPIan Hamiltonfrom Gwinnett Stripers.",
-      "player": "Ian Hamilton"
-    },
-    {
-      "date": "2026-06-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled LHPCarson Palmquistfrom Rochester Red Wings.",
-      "player": "Carson Palmquist"
-    },
-    {
-      "date": "2026-06-24",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPMarco Rayafrom St. Paul Saints.",
-      "player": "Marco Raya"
-    },
-    {
-      "date": "2026-06-24",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned LHPKohl Draketo Reno Aces.",
-      "player": "Kohl Drake"
-    },
-    {
-      "date": "2026-06-24",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled LHPMitch Brattfrom Reno Aces.",
-      "player": "Mitch Bratt"
-    },
-    {
-      "date": "2026-06-24",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled RHPGavin Hollowellfrom Iowa Cubs.",
-      "player": "Gavin Hollowell"
-    },
-    {
-      "date": "2026-06-24",
       "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsrecalled LFJosh Lowefrom Salt Lake Bees.",
-      "player": "Josh Lowe"
+      "details": "Los Angeles Angelsplaced LFJose Sirion the paternity list.",
+      "player": "Jose Siri"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPBen Brownon the 15-day injured list retroactive to June 21, 2026. Neck strain.",
+      "player": "Ben Brown"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent LHPKris Bubicon a rehab assignment to Omaha Storm Chasers.",
+      "player": "Kris Bubic"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksdesignated 1BCarlos Santanafor assignment.",
+      "player": "Carlos Santana"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Unknown Team",
+      "details": "RHPAbner Uribesuspended.",
+      "player": "Abner Uribe"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "New York Mets",
+      "details": "New York Metsactivated SSFrancisco Lindorfrom the 10-day injured list.",
+      "player": "Francisco Lindor"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned free agent OFEnmanuel Rosasto a minor league contract.",
+      "player": "Enmanuel Rosas"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated RHPEury Pérezfrom the 15-day injured list.",
+      "player": "Eury Pérez"
     },
     {
       "date": "2026-06-24",
@@ -153,9 +135,9 @@
     },
     {
       "date": "2026-06-24",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPSeth Halvorsenfrom Albuquerque Isotopes.",
-      "player": "Seth Halvorsen"
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPLogan VanWeyto Sugar Land Space Cowboys.",
+      "player": "Logan VanWey"
     },
     {
       "date": "2026-06-24",
@@ -171,9 +153,33 @@
     },
     {
       "date": "2026-06-24",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPChris Paddackoutright to Louisville Bats.",
+      "player": "Chris Paddack"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPJose Corniellto Round Rock Express.",
+      "player": "Jose Corniell"
+    },
+    {
+      "date": "2026-06-24",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsoptioned LHPKendry Rojasto St. Paul Saints.",
       "player": "Kendry Rojas"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled LHPColton Gordonfrom Sugar Land Space Cowboys.",
+      "player": "Colton Gordon"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled LHPCarson Palmquistfrom Rochester Red Wings.",
+      "player": "Carson Palmquist"
     },
     {
       "date": "2026-06-24",
@@ -184,8 +190,62 @@
     {
       "date": "2026-06-24",
       "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPGavin Hollowellfrom Iowa Cubs.",
+      "player": "Gavin Hollowell"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Chicago Cubs",
       "details": "Chicago Cubsrecalled RHPTyler Fergusonfrom Iowa Cubs.",
       "player": "Tyler Ferguson"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned LHPKohl Draketo Reno Aces.",
+      "player": "Kohl Drake"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPPaxton Schultzto Rochester Red Wings.",
+      "player": "Paxton Schultz"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPJR Ritchieto Gwinnett Stripers.",
+      "player": "JR Ritchie"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPIan Hamiltonfrom Gwinnett Stripers.",
+      "player": "Ian Hamilton"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled LHPMitch Brattfrom Reno Aces.",
+      "player": "Mitch Bratt"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsclaimed RHPBryse Wilsonoff waivers fromPhiladelphia Phillies.",
+      "player": "Bryse Wilson"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPMarco Rayafrom St. Paul Saints.",
+      "player": "Marco Raya"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled LFJosh Lowefrom Salt Lake Bees.",
+      "player": "Josh Lowe"
     },
     {
       "date": "2026-06-24",
@@ -195,15 +255,21 @@
     },
     {
       "date": "2026-06-24",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned RHPJose Corniellto Round Rock Express.",
-      "player": "Jose Corniell"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned SSRonny Mauricioto Syracuse Mets.",
+      "player": "Ronny Mauricio"
     },
     {
       "date": "2026-06-24",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPJR Ritchieto Gwinnett Stripers.",
-      "player": "JR Ritchie"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsselected the contract of RHPVince Velasquezfrom Iowa Cubs.",
+      "player": "Vince Velasquez"
+    },
+    {
+      "date": "2026-06-24",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPSeth Halvorsenfrom Albuquerque Isotopes.",
+      "player": "Seth Halvorsen"
     }
   ]
 }
