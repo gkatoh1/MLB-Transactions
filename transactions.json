@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-06-25T20:12:34.728784",
+  "last_updated": "2026-06-25T22:25:40.510590",
   "transactions": [
+    {
+      "date": "2026-06-25",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated SSCorey Seagerfrom the 7-day injured list.",
+      "player": "Corey Seager"
+    },
     {
       "date": "2026-06-25",
       "team": "Washington Nationals",
@@ -21,45 +27,15 @@
     },
     {
       "date": "2026-06-25",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RHPEmilio Pagánon a rehab assignment to Louisville Bats.",
-      "player": "Emilio Pagán"
-    },
-    {
-      "date": "2026-06-25",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced 1BSpencer Horwitzon the 10-day injured list. Left hamstring strain.",
-      "player": "Spencer Horwitz"
-    },
-    {
-      "date": "2026-06-25",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated RHPBryan Abreufrom the restricted list.",
-      "player": "Bryan Abreu"
-    },
-    {
-      "date": "2026-06-25",
-      "team": "Athletics",
-      "details": "Athleticsplaced 3BZack Gelofon the 10-day injured list retroactive to June 24, 2026. Right hand contusion.",
-      "player": "Zack Gelof"
-    },
-    {
-      "date": "2026-06-25",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsdesignated RHPYosver Zuluetafor assignment.",
-      "player": "Yosver Zulueta"
-    },
-    {
-      "date": "2026-06-25",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysplaced LHPSteven Matzon the 15-day injured list retroactive to June 24, 2026. Left ankle sprain.",
       "player": "Steven Matz"
     },
     {
       "date": "2026-06-25",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated RHPAbner Uribe.",
-      "player": "Abner Uribe"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent 2BJake Cronenworthon a rehab assignment to El Paso Chihuahuas.",
+      "player": "Jake Cronenworth"
     },
     {
       "date": "2026-06-25",
@@ -75,21 +51,93 @@
     },
     {
       "date": "2026-06-25",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated SSCorey Seagerfrom the 7-day injured list.",
-      "player": "Corey Seager"
-    },
-    {
-      "date": "2026-06-25",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent CFMichael Sianioutright to Norfolk Tides.",
-      "player": "Michael Siani"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackstransferred RHPRyne Nelsonfrom the 15-day injured list to the 60-day injured list. Strained right elbow.",
+      "player": "Ryne Nelson"
     },
     {
       "date": "2026-06-25",
       "team": "Houston Astros",
-      "details": "Houston Astrosoptioned LHPColton Gordonto Sugar Land Space Cowboys.",
-      "player": "Colton Gordon"
+      "details": "Houston Astrosactivated RHPBryan Abreufrom the restricted list.",
+      "player": "Bryan Abreu"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated CFJohan Rojasfrom the restricted list.",
+      "player": "Johan Rojas"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated RHPYosver Zuluetafor assignment.",
+      "player": "Yosver Zulueta"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated LHPMatthew Boydfrom the 15-day injured list.",
+      "player": "Matthew Boyd"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RHPAbner Uribe.",
+      "player": "Abner Uribe"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPEmilio Pagánon a rehab assignment to Louisville Bats.",
+      "player": "Emilio Pagán"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced CFJohan Rojason the 60-day injured list. Right elbow UCL repair.",
+      "player": "Johan Rojas"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced 1BSpencer Horwitzon the 10-day injured list. Left hamstring strain.",
+      "player": "Spencer Horwitz"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated LFMax Kepler.",
+      "player": "Max Kepler"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Athletics",
+      "details": "Athleticsplaced 3BZack Gelofon the 10-day injured list retroactive to June 24, 2026. Right hand contusion.",
+      "player": "Zack Gelof"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPZach Brzykcyto Jacksonville Jumbo Shrimp.",
+      "player": "Zach Brzykcy"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent 3BNick Madrigaloutright to Salt Lake Bees.",
+      "player": "Nick Madrigal"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled SSRonny Mauriciofrom Syracuse Mets.",
+      "player": "Ronny Mauricio"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPJuan Burgosfrom Reno Aces.",
+      "player": "Juan Burgos"
     },
     {
       "date": "2026-06-25",
@@ -99,15 +147,33 @@
     },
     {
       "date": "2026-06-25",
-      "team": "Athletics",
-      "details": "Athleticsrecalled SSAlika Williamsfrom Las Vegas Aviators.",
-      "player": "Alika Williams"
-    },
-    {
-      "date": "2026-06-25",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesrecalled SSJack Branniganfrom Altoona Curve.",
       "player": "Jack Brannigan"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPGavin Hollowellto Iowa Cubs.",
+      "player": "Gavin Hollowell"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent CFMichael Sianioutright to Norfolk Tides.",
+      "player": "Michael Siani"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned LFTim Tawato Reno Aces.",
+      "player": "Tim Tawa"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPTyler Fergusonto Iowa Cubs.",
+      "player": "Tyler Ferguson"
     },
     {
       "date": "2026-06-25",
@@ -117,15 +183,21 @@
     },
     {
       "date": "2026-06-25",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPDaniel Duartefrom Syracuse Mets.",
-      "player": "Daniel Duarte"
+      "team": "Athletics",
+      "details": "Athleticsrecalled SSAlika Williamsfrom Las Vegas Aviators.",
+      "player": "Alika Williams"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LHPColton Gordonto Sugar Land Space Cowboys.",
+      "player": "Colton Gordon"
     },
     {
       "date": "2026-06-25",
       "team": "New York Mets",
-      "details": "New York Metsrecalled SSRonny Mauriciofrom Syracuse Mets.",
-      "player": "Ronny Mauricio"
+      "details": "New York Metsoptioned RHPJonathan Pintaroto Syracuse Mets.",
+      "player": "Jonathan Pintaro"
     },
     {
       "date": "2026-06-25",
@@ -141,9 +213,21 @@
     },
     {
       "date": "2026-06-25",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned 1BConnor Norbyto Jacksonville Jumbo Shrimp.",
+      "player": "Connor Norby"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned LHPMitch Brattto Reno Aces.",
+      "player": "Mitch Bratt"
+    },
+    {
+      "date": "2026-06-25",
       "team": "New York Mets",
-      "details": "New York Metsoptioned RHPJonathan Pintaroto Syracuse Mets.",
-      "player": "Jonathan Pintaro"
+      "details": "New York Metsrecalled RHPDaniel Duartefrom Syracuse Mets.",
+      "player": "Daniel Duarte"
     }
   ]
 }
