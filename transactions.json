@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-06-25T14:47:13.158149",
+  "last_updated": "2026-06-25T17:19:11.893003",
   "transactions": [
+    {
+      "date": "2026-06-25",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RHPAbner Uribe.",
+      "player": "Abner Uribe"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPEmilio Pagánon a rehab assignment to Louisville Bats.",
+      "player": "Emilio Pagán"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated RHPYosver Zuluetafor assignment.",
+      "player": "Yosver Zulueta"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced 1BSpencer Horwitzon the 10-day injured list. Left hamstring strain.",
+      "player": "Spencer Horwitz"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Athletics",
+      "details": "Athleticsplaced 3BZack Gelofon the 10-day injured list retroactive to June 24, 2026. Right hand contusion.",
+      "player": "Zack Gelof"
+    },
     {
       "date": "2026-06-25",
       "team": "Tampa Bay Rays",
@@ -9,9 +39,33 @@
     },
     {
       "date": "2026-06-25",
+      "team": "New York Mets",
+      "details": "New York Metstraded LHPDavid PetersontoChicago Cubsfor 3B Cole Mathis.",
+      "player": "David Peterson"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "New York Mets",
+      "details": "New York Metstraded LHP David Peterson toChicago Cubsfor 3BCole Mathis.",
+      "player": "Cole Mathis"
+    },
+    {
+      "date": "2026-06-25",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysrecalled RHPMichael Grovefrom Durham Bulls.",
       "player": "Michael Grove"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Athletics",
+      "details": "Athleticsrecalled SSAlika Williamsfrom Las Vegas Aviators.",
+      "player": "Alika Williams"
+    },
+    {
+      "date": "2026-06-25",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled SSJack Branniganfrom Altoona Curve.",
+      "player": "Jack Brannigan"
     }
   ]
 }
