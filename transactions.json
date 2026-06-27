@@ -1,11 +1,29 @@
 {
-  "last_updated": "2026-06-27T16:12:59.996857",
+  "last_updated": "2026-06-27T18:10:53.122916",
   "transactions": [
+    {
+      "date": "2026-06-27",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RFJesús Sánchezon the 10-day injured list. Right ankle sprain.",
+      "player": "Jesús Sánchez"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent RHPCarlos Carrascoto a minor league contract.",
+      "player": "Carlos Carrasco"
+    },
     {
       "date": "2026-06-27",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Rayssent RFJake Fraleyon a rehab assignment to FCL Rays.",
       "player": "Jake Fraley"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of 3BSean Keysfrom Buffalo Bisons.",
+      "player": "Sean Keys"
     },
     {
       "date": "2026-06-27",
@@ -15,9 +33,39 @@
     },
     {
       "date": "2026-06-27",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned LHPZach Thorntonto Syracuse Mets.",
+      "player": "Zach Thornton"
+    },
+    {
+      "date": "2026-06-27",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned RHPDavid Sandlinto Charlotte Knights.",
       "player": "David Sandlin"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPEric Cerantolafrom Omaha Storm Chasers.",
+      "player": "Eric Cerantola"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPMitch Spenceto Omaha Storm Chasers.",
+      "player": "Mitch Spence"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LFYohendrick Piñangofrom Buffalo Bisons.",
+      "player": "Yohendrick Piñango"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFDavis Schneiderto Buffalo Bisons.",
+      "player": "Davis Schneider"
     }
   ]
 }
