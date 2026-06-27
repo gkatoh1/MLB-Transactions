@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-06-27T18:10:53.122916",
+  "last_updated": "2026-06-27T20:14:23.822145",
   "transactions": [
     {
       "date": "2026-06-27",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced RFJesús Sánchezon the 10-day injured list. Right ankle sprain.",
-      "player": "Jesús Sánchez"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RFJake Fraleyon a rehab assignment to FCL Rays.",
+      "player": "Jake Fraley"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated LHPCade Povichfrom the 15-day injured list.",
+      "player": "Cade Povich"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "New York Mets",
+      "details": "New York Metssent 1BJorge Polancoon a rehab assignment to Syracuse Mets.",
+      "player": "Jorge Polanco"
     },
     {
       "date": "2026-06-27",
@@ -15,21 +27,33 @@
     },
     {
       "date": "2026-06-27",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent RFJake Fraleyon a rehab assignment to FCL Rays.",
-      "player": "Jake Fraley"
-    },
-    {
-      "date": "2026-06-27",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of 3BSean Keysfrom Buffalo Bisons.",
-      "player": "Sean Keys"
+      "details": "Toronto Blue Jaysplaced RFJesús Sánchezon the 10-day injured list. Right ankle sprain.",
+      "player": "Jesús Sánchez"
     },
     {
       "date": "2026-06-27",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPTyler Schweitzerfrom Charlotte Knights.",
-      "player": "Tyler Schweitzer"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPKyle Nicolasfor assignment.",
+      "player": "Kyle Nicolas"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPCade Povichto Norfolk Tides.",
+      "player": "Cade Povich"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed CDom Keeganoff waivers fromTampa Bay Rays.",
+      "player": "Dom Keegan"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned CDom Keeganto Chesapeake Baysox.",
+      "player": "Dom Keegan"
     },
     {
       "date": "2026-06-27",
@@ -39,15 +63,9 @@
     },
     {
       "date": "2026-06-27",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPDavid Sandlinto Charlotte Knights.",
-      "player": "David Sandlin"
-    },
-    {
-      "date": "2026-06-27",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPEric Cerantolafrom Omaha Storm Chasers.",
-      "player": "Eric Cerantola"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPYilber Díazto Toledo Mud Hens.",
+      "player": "Yilber Díaz"
     },
     {
       "date": "2026-06-27",
@@ -58,14 +76,50 @@
     {
       "date": "2026-06-27",
       "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFDavis Schneiderto Buffalo Bisons.",
+      "player": "Davis Schneider"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysrecalled LFYohendrick Piñangofrom Buffalo Bisons.",
       "player": "Yohendrick Piñango"
     },
     {
       "date": "2026-06-27",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPAlex Hoppeto Tacoma Rainiers.",
+      "player": "Alex Hoppe"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled LHPJosh Simpsonfrom Tacoma Rainiers.",
+      "player": "Josh Simpson"
+    },
+    {
+      "date": "2026-06-27",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LFDavis Schneiderto Buffalo Bisons.",
-      "player": "Davis Schneider"
+      "details": "Toronto Blue Jaysselected the contract of 3BSean Keysfrom Buffalo Bisons.",
+      "player": "Sean Keys"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPEric Cerantolafrom Omaha Storm Chasers.",
+      "player": "Eric Cerantola"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPTyler Schweitzerfrom Charlotte Knights.",
+      "player": "Tyler Schweitzer"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPDavid Sandlinto Charlotte Knights.",
+      "player": "David Sandlin"
     }
   ]
 }
