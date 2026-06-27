@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-06-27T14:48:42.868688",
+  "last_updated": "2026-06-27T16:12:59.996857",
   "transactions": [
     {
       "date": "2026-06-27",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Rayssent RFJake Fraleyon a rehab assignment to FCL Rays.",
       "player": "Jake Fraley"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPTyler Schweitzerfrom Charlotte Knights.",
+      "player": "Tyler Schweitzer"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPDavid Sandlinto Charlotte Knights.",
+      "player": "David Sandlin"
     }
   ]
 }
