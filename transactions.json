@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-06-28T20:18:29.152589",
+  "last_updated": "2026-06-28T22:07:26.544113",
   "transactions": [
+    {
+      "date": "2026-06-28",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPTrevor Williamson a rehab assignment to Fredericksburg Nationals.",
+      "player": "Trevor Williams"
+    },
+    {
+      "date": "2026-06-28",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated LFHeliot Ramosfrom the 10-day injured list.",
+      "player": "Heliot Ramos"
+    },
     {
       "date": "2026-06-28",
       "team": "Cincinnati Reds",
@@ -9,15 +21,9 @@
     },
     {
       "date": "2026-06-28",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated RHPJack Flahertyfrom the 15-day injured list.",
-      "player": "Jack Flaherty"
-    },
-    {
-      "date": "2026-06-28",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersplaced LFWyatt Langfordon the 10-day injured list. Left hamstring strain.",
-      "player": "Wyatt Langford"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated CSam Hufffor assignment.",
+      "player": "Sam Huff"
     },
     {
       "date": "2026-06-28",
@@ -33,15 +39,33 @@
     },
     {
       "date": "2026-06-28",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated CFEvan Carterfrom the 10-day injured list.",
-      "player": "Evan Carter"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RFDylan Beaversfrom the 10-day injured list.",
+      "player": "Dylan Beavers"
     },
     {
       "date": "2026-06-28",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsactivated LFHeliot Ramosfrom the 10-day injured list.",
-      "player": "Heliot Ramos"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced LFWyatt Langfordon the 10-day injured list. Left hamstring strain.",
+      "player": "Wyatt Langford"
+    },
+    {
+      "date": "2026-06-28",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent RHPChris Martinon a rehab assignment to Frisco RoughRiders.",
+      "player": "Chris Martin"
+    },
+    {
+      "date": "2026-06-28",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPJack Flahertyfrom the 15-day injured list.",
+      "player": "Jack Flaherty"
+    },
+    {
+      "date": "2026-06-28",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated CFEvan Carterfrom the 10-day injured list.",
+      "player": "Evan Carter"
     },
     {
       "date": "2026-06-28",
@@ -57,18 +81,6 @@
     },
     {
       "date": "2026-06-28",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent RHPBailey Oberon a rehab assignment to Cedar Rapids Kernels.",
-      "player": "Bailey Ober"
-    },
-    {
-      "date": "2026-06-28",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPTrevor Williamson a rehab assignment to Fredericksburg Nationals.",
-      "player": "Trevor Williams"
-    },
-    {
-      "date": "2026-06-28",
       "team": "Miami Marlins",
       "details": "Miami Marlinssent RHPJanson Junkon a rehab assignment to Jacksonville Jumbo Shrimp.",
       "player": "Janson Junk"
@@ -78,12 +90,6 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxactivated 1BRomy Gonzalezfrom the 60-day injured list.",
       "player": "Romy Gonzalez"
-    },
-    {
-      "date": "2026-06-28",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssent RHPChris Martinon a rehab assignment to Frisco RoughRiders.",
-      "player": "Chris Martin"
     },
     {
       "date": "2026-06-28",
@@ -111,51 +117,9 @@
     },
     {
       "date": "2026-06-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RFDylan Beaversfrom the 10-day injured list.",
-      "player": "Dylan Beavers"
-    },
-    {
-      "date": "2026-06-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated CSam Hufffor assignment.",
-      "player": "Sam Huff"
-    },
-    {
-      "date": "2026-06-28",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned CFPetey Halpinto Columbus Clippers.",
-      "player": "Petey Halpin"
-    },
-    {
-      "date": "2026-06-28",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned CMickey Gasperto Worcester Red Sox.",
-      "player": "Mickey Gasper"
-    },
-    {
-      "date": "2026-06-28",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesclaimed RHPYosver Zuluetaoff waivers fromChicago Cubs.",
-      "player": "Yosver Zulueta"
-    },
-    {
-      "date": "2026-06-28",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled RHPMiguel Ullolafrom Sugar Land Space Cowboys.",
-      "player": "Miguel Ullola"
-    },
-    {
-      "date": "2026-06-28",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPMichael Groveto Durham Bulls.",
-      "player": "Michael Grove"
-    },
-    {
-      "date": "2026-06-28",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned RHPKai-Wei Tengto Sugar Land Space Cowboys.",
-      "player": "Kai-Wei Teng"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPBailey Oberon a rehab assignment to Cedar Rapids Kernels.",
+      "player": "Bailey Ober"
     },
     {
       "date": "2026-06-28",
@@ -171,15 +135,21 @@
     },
     {
       "date": "2026-06-28",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPKai-Wei Tengto Sugar Land Space Cowboys.",
+      "player": "Kai-Wei Teng"
+    },
+    {
+      "date": "2026-06-28",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned 2BJeremiah Jacksonto Norfolk Tides.",
       "player": "Jeremiah Jackson"
     },
     {
       "date": "2026-06-28",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPTrevor Martinfrom Durham Bulls.",
-      "player": "Trevor Martin"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed RHPYosver Zuluetaoff waivers fromChicago Cubs.",
+      "player": "Yosver Zulueta"
     },
     {
       "date": "2026-06-28",
@@ -189,15 +159,45 @@
     },
     {
       "date": "2026-06-28",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled CFTJ Friedlfrom Louisville Bats.",
-      "player": "TJ Friedl"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPMichael Groveto Durham Bulls.",
+      "player": "Michael Grove"
     },
     {
       "date": "2026-06-28",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesoptioned LFJordan Beckto Albuquerque Isotopes.",
       "player": "Jordan Beck"
+    },
+    {
+      "date": "2026-06-28",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned CFPetey Halpinto Columbus Clippers.",
+      "player": "Petey Halpin"
+    },
+    {
+      "date": "2026-06-28",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled CFTJ Friedlfrom Louisville Bats.",
+      "player": "TJ Friedl"
+    },
+    {
+      "date": "2026-06-28",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPTrevor Martinfrom Durham Bulls.",
+      "player": "Trevor Martin"
+    },
+    {
+      "date": "2026-06-28",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned CMickey Gasperto Worcester Red Sox.",
+      "player": "Mickey Gasper"
+    },
+    {
+      "date": "2026-06-28",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPMiguel Ullolafrom Sugar Land Space Cowboys.",
+      "player": "Miguel Ullola"
     }
   ]
 }
