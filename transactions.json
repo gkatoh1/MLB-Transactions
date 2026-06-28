@@ -1,29 +1,23 @@
 {
-  "last_updated": "2026-06-27T22:09:41.817556",
+  "last_updated": "2026-06-28T00:09:32.860862",
   "transactions": [
     {
       "date": "2026-06-27",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPKyle Nicolasfor assignment.",
-      "player": "Kyle Nicolas"
-    },
-    {
-      "date": "2026-06-27",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPBryse Wilson.",
-      "player": "Bryse Wilson"
+      "details": "Chicago Cubsplaced LHPHoby Milneron the 15-day injured list retroactive to June 26, 2026. Appendicitis.",
+      "player": "Hoby Milner"
     },
     {
       "date": "2026-06-27",
-      "team": "New York Mets",
-      "details": "New York Metssent 1BJorge Polancoon a rehab assignment to Syracuse Mets.",
-      "player": "Jorge Polanco"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent SSNick Allenon a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Nick Allen"
     },
     {
       "date": "2026-06-27",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent RHPWilber Dotelon a rehab assignment to Altoona Curve.",
-      "player": "Wilber Dotel"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssigned free agent LHPSammy Peraltato a minor league contract.",
+      "player": "Sammy Peralta"
     },
     {
       "date": "2026-06-27",
@@ -39,21 +33,21 @@
     },
     {
       "date": "2026-06-27",
+      "team": "Athletics",
+      "details": "Athleticsdesignated 3BBrett Harrisfor assignment.",
+      "player": "Brett Harris"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent RHPWilber Dotelon a rehab assignment to Altoona Curve.",
+      "player": "Wilber Dotel"
+    },
+    {
+      "date": "2026-06-27",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysplaced RFJesús Sánchezon the 10-day injured list. Right ankle sprain.",
       "player": "Jesús Sánchez"
-    },
-    {
-      "date": "2026-06-27",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced LHPHoby Milneron the 15-day injured list retroactive to June 26, 2026. Appendicitis.",
-      "player": "Hoby Milner"
-    },
-    {
-      "date": "2026-06-27",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent SSNick Allenon a rehab assignment to Sugar Land Space Cowboys.",
-      "player": "Nick Allen"
     },
     {
       "date": "2026-06-27",
@@ -76,44 +70,32 @@
     {
       "date": "2026-06-27",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesclaimed CDom Keeganoff waivers fromTampa Bay Rays.",
-      "player": "Dom Keegan"
-    },
-    {
-      "date": "2026-06-27",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned CDom Keeganto Chesapeake Baysox.",
-      "player": "Dom Keegan"
+      "details": "Baltimore Oriolesdesignated RHPKyle Nicolasfor assignment.",
+      "player": "Kyle Nicolas"
     },
     {
       "date": "2026-06-27",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned RHPJayden Murrayto Iowa Cubs.",
-      "player": "Jayden Murray"
-    },
-    {
-      "date": "2026-06-27",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPEric Cerantolafrom Omaha Storm Chasers.",
-      "player": "Eric Cerantola"
-    },
-    {
-      "date": "2026-06-27",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LFDavis Schneiderto Buffalo Bisons.",
-      "player": "Davis Schneider"
+      "details": "Chicago Cubsactivated RHPBryse Wilson.",
+      "player": "Bryse Wilson"
     },
     {
       "date": "2026-06-27",
       "team": "New York Mets",
-      "details": "New York Metssent SSZack Shortoutright to Syracuse Mets.",
-      "player": "Zack Short"
+      "details": "New York Metssent 1BJorge Polancoon a rehab assignment to Syracuse Mets.",
+      "player": "Jorge Polanco"
     },
     {
       "date": "2026-06-27",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled RHPTyler Fergusonfrom Iowa Cubs.",
-      "player": "Tyler Ferguson"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPCade Povichto Chesapeake Baysox.",
+      "player": "Cade Povich"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystraded RHP Hayden Juenger toAthleticsfor COwen Carapellotti.",
+      "player": "Owen Carapellotti"
     },
     {
       "date": "2026-06-27",
@@ -135,9 +117,33 @@
     },
     {
       "date": "2026-06-27",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPTyler Schweitzerfrom Charlotte Knights.",
-      "player": "Tyler Schweitzer"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFDavis Schneiderto Buffalo Bisons.",
+      "player": "Davis Schneider"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of 3BSean Keysfrom Buffalo Bisons.",
+      "player": "Sean Keys"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPTyler Fergusonfrom Iowa Cubs.",
+      "player": "Tyler Ferguson"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned LHPZach Thorntonto Syracuse Mets.",
+      "player": "Zach Thornton"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPEric Cerantolafrom Omaha Storm Chasers.",
+      "player": "Eric Cerantola"
     },
     {
       "date": "2026-06-27",
@@ -147,21 +153,9 @@
     },
     {
       "date": "2026-06-27",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned LHPCade Povichto Chesapeake Baysox.",
-      "player": "Cade Povich"
-    },
-    {
-      "date": "2026-06-27",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersrecalled LHPJosh Simpsonfrom Tacoma Rainiers.",
       "player": "Josh Simpson"
-    },
-    {
-      "date": "2026-06-27",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of 3BSean Keysfrom Buffalo Bisons.",
-      "player": "Sean Keys"
     },
     {
       "date": "2026-06-27",
@@ -172,14 +166,44 @@
     {
       "date": "2026-06-27",
       "team": "New York Mets",
-      "details": "New York Metsoptioned LHPZach Thorntonto Syracuse Mets.",
-      "player": "Zach Thornton"
+      "details": "New York Metssent SSZack Shortoutright to Syracuse Mets.",
+      "player": "Zack Short"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed CDom Keeganoff waivers fromTampa Bay Rays.",
+      "player": "Dom Keegan"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned CDom Keeganto Chesapeake Baysox.",
+      "player": "Dom Keegan"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPJayden Murrayto Iowa Cubs.",
+      "player": "Jayden Murray"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPTyler Schweitzerfrom Charlotte Knights.",
+      "player": "Tyler Schweitzer"
     },
     {
       "date": "2026-06-27",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned RHPDavid Sandlinto Charlotte Knights.",
       "player": "David Sandlin"
+    },
+    {
+      "date": "2026-06-27",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystraded RHPHayden JuengertoAthleticsfor C Owen Carapellotti.",
+      "player": "Hayden Juenger"
     }
   ]
 }
