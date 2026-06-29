@@ -1,53 +1,23 @@
 {
-  "last_updated": "2026-06-29T21:39:24.436223",
+  "last_updated": "2026-06-29T23:05:10.618854",
   "transactions": [
     {
       "date": "2026-06-29",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated SSNick Allenfrom the 10-day injured list.",
+      "player": "Nick Allen"
+    },
+    {
+      "date": "2026-06-29",
       "team": "San Diego Padres",
-      "details": "San Diego Padresactivated 2BJake Cronenworthfrom the 7-day injured list.",
-      "player": "Jake Cronenworth"
-    },
-    {
-      "date": "2026-06-29",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssigned free agent RHPChris Paddack.",
-      "player": "Chris Paddack"
-    },
-    {
-      "date": "2026-06-29",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced LHPAnthony Bandaon the 15-day injured list. Left lat strain.",
-      "player": "Anthony Banda"
-    },
-    {
-      "date": "2026-06-29",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned free agent LHPKai Petersonto a minor league contract.",
-      "player": "Kai Peterson"
+      "details": "San Diego Padresplaced RHPDavid Morganon the 15-day injured list retroactive to June 28, 2026. Left knee inflammation.",
+      "player": "David Morgan"
     },
     {
       "date": "2026-06-29",
       "team": "Athletics",
-      "details": "Athleticsdesignated RHPMichael Kellyfor assignment.",
-      "player": "Michael Kelly"
-    },
-    {
-      "date": "2026-06-29",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersdesignated RFJarred Kelenicfor assignment.",
-      "player": "Jarred Kelenic"
-    },
-    {
-      "date": "2026-06-29",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced RHPDavid Bednaron the paternity list.",
-      "player": "David Bednar"
-    },
-    {
-      "date": "2026-06-29",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated LFTeoscar Hernándezfrom the 10-day injured list.",
-      "player": "Teoscar Hernández"
+      "details": "Athleticsplaced LFTyler Soderstromon the 10-day injured list retroactive to June 28, 2026. Left hip impingement.",
+      "player": "Tyler Soderstrom"
     },
     {
       "date": "2026-06-29",
@@ -63,9 +33,33 @@
     },
     {
       "date": "2026-06-29",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated 2BJake Cronenworthfrom the 7-day injured list.",
+      "player": "Jake Cronenworth"
+    },
+    {
+      "date": "2026-06-29",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent RHPChris Paddack.",
+      "player": "Chris Paddack"
+    },
+    {
+      "date": "2026-06-29",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravessigned free agent SSJunior Tiliento a minor league contract.",
       "player": "Junior Tilien"
+    },
+    {
+      "date": "2026-06-29",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned free agent LHPKai Petersonto a minor league contract.",
+      "player": "Kai Peterson"
+    },
+    {
+      "date": "2026-06-29",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RFMatt Shawon the 10-day injured list. left-hand sprain.",
+      "player": "Matt Shaw"
     },
     {
       "date": "2026-06-29",
@@ -75,9 +69,33 @@
     },
     {
       "date": "2026-06-29",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced RHPDavid Bednaron the paternity list.",
+      "player": "David Bednar"
+    },
+    {
+      "date": "2026-06-29",
       "team": "Athletics",
       "details": "Athleticsplaced LHPJosé Suarezon the paternity list.",
       "player": "José Suarez"
+    },
+    {
+      "date": "2026-06-29",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated LFTeoscar Hernándezfrom the 10-day injured list.",
+      "player": "Teoscar Hernández"
+    },
+    {
+      "date": "2026-06-29",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPEthan Robertson the 15-day injured list. right forearm inflammation.",
+      "player": "Ethan Roberts"
+    },
+    {
+      "date": "2026-06-29",
+      "team": "Athletics",
+      "details": "Athleticsdesignated RHPMichael Kellyfor assignment.",
+      "player": "Michael Kelly"
     },
     {
       "date": "2026-06-29",
@@ -87,9 +105,21 @@
     },
     {
       "date": "2026-06-29",
-      "team": "Athletics",
-      "details": "Athleticsplaced LFTyler Soderstromon the 10-day injured list retroactive to June 28, 2026. Left hip impingement.",
-      "player": "Tyler Soderstrom"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced LHPKeegan Akinon the 15-day injured list retroactive to June 28, 2026. left elbow discomfort.",
+      "player": "Keegan Akin"
+    },
+    {
+      "date": "2026-06-29",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced LHPAnthony Bandaon the 15-day injured list. Left lat strain.",
+      "player": "Anthony Banda"
+    },
+    {
+      "date": "2026-06-29",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersdesignated RFJarred Kelenicfor assignment.",
+      "player": "Jarred Kelenic"
     },
     {
       "date": "2026-06-29",
@@ -99,27 +129,21 @@
     },
     {
       "date": "2026-06-29",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated SSNick Allenfrom the 10-day injured list.",
-      "player": "Nick Allen"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled DHKevin Alcántarafrom Iowa Cubs.",
+      "player": "Kevin Alcántara"
     },
     {
       "date": "2026-06-29",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresplaced RHPDavid Morganon the 15-day injured list retroactive to June 28, 2026. Left knee inflammation.",
-      "player": "David Morgan"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPGavin Hollowellfrom Iowa Cubs.",
+      "player": "Gavin Hollowell"
     },
     {
       "date": "2026-06-29",
       "team": "Washington Nationals",
       "details": "Washington Nationalsrecalled LHPCarson Palmquistfrom Rochester Red Wings.",
       "player": "Carson Palmquist"
-    },
-    {
-      "date": "2026-06-29",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPTobias Myersto Syracuse Mets.",
-      "player": "Tobias Myers"
     },
     {
       "date": "2026-06-29",
@@ -141,9 +165,51 @@
     },
     {
       "date": "2026-06-29",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJoey Gerberfrom Syracuse Mets.",
+      "player": "Joey Gerber"
+    },
+    {
+      "date": "2026-06-29",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPJhancarlos Laraoutright to Harrisburg Senators.",
+      "player": "Jhancarlos Lara"
+    },
+    {
+      "date": "2026-06-29",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPJake Birdfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jake Bird"
+    },
+    {
+      "date": "2026-06-29",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled LHPJosh Walkerfrom Norfolk Tides.",
+      "player": "Josh Walker"
+    },
+    {
+      "date": "2026-06-29",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstraded 1BBuddy KennedytoSeattle Marinersfor cash.",
+      "player": "Buddy Kennedy"
+    },
+    {
+      "date": "2026-06-29",
       "team": "Athletics",
       "details": "Athleticsrecalled SSDarell Hernaizfrom Las Vegas Aviators.",
       "player": "Darell Hernaiz"
+    },
+    {
+      "date": "2026-06-29",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsacquired RHPZach Kirbyfrom the Washington Wild Things of the Frontier League.",
+      "player": "Zach Kirby"
+    },
+    {
+      "date": "2026-06-29",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPRiley Corneliofrom Rochester Red Wings.",
+      "player": "Riley Cornelio"
     },
     {
       "date": "2026-06-29",
@@ -165,27 +231,9 @@
     },
     {
       "date": "2026-06-29",
-      "team": "Athletics",
-      "details": "Athleticsselected the contract of SSJoshua Kuroda-Grauerfrom Las Vegas Aviators.",
-      "player": "Joshua Kuroda-Grauer"
-    },
-    {
-      "date": "2026-06-29",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsacquired RHPZach Kirbyfrom the Washington Wild Things of the Frontier League.",
-      "player": "Zach Kirby"
-    },
-    {
-      "date": "2026-06-29",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPRiley Corneliofrom Rochester Red Wings.",
-      "player": "Riley Cornelio"
-    },
-    {
-      "date": "2026-06-29",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPJhancarlos Laraoutright to Harrisburg Senators.",
-      "player": "Jhancarlos Lara"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPTobias Myersto Syracuse Mets.",
+      "player": "Tobias Myers"
     },
     {
       "date": "2026-06-29",
@@ -195,21 +243,9 @@
     },
     {
       "date": "2026-06-29",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPJake Birdfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jake Bird"
-    },
-    {
-      "date": "2026-06-29",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantstraded 1BBuddy KennedytoSeattle Marinersfor cash.",
-      "player": "Buddy Kennedy"
-    },
-    {
-      "date": "2026-06-29",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPJoey Gerberfrom Syracuse Mets.",
-      "player": "Joey Gerber"
+      "team": "Athletics",
+      "details": "Athleticsselected the contract of SSJoshua Kuroda-Grauerfrom Las Vegas Aviators.",
+      "player": "Joshua Kuroda-Grauer"
     }
   ]
 }
