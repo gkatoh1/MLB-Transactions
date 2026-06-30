@@ -1,11 +1,29 @@
 {
-  "last_updated": "2026-06-30T17:08:52.192914",
+  "last_updated": "2026-06-30T20:07:47.284291",
   "transactions": [
     {
       "date": "2026-06-30",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent RFJake Fraleyon a rehab assignment to Durham Bulls.",
-      "player": "Jake Fraley"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent OFMatt Scannellto a minor league contract.",
+      "player": "Matt Scannell"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsplaced RHPRyne Stanekon the paternity list.",
+      "player": "Ryne Stanek"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent RHPErick Rossoto a minor league contract.",
+      "player": "Erick Rosso"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated RHPRyan Fernandezfrom the 15-day injured list.",
+      "player": "Ryan Fernandez"
     },
     {
       "date": "2026-06-30",
@@ -15,15 +33,87 @@
     },
     {
       "date": "2026-06-30",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned free agent RHPEdinson Hernandezto a minor league contract.",
+      "player": "Edinson Hernandez"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPEmilio Pagánfrom the 15-day injured list.",
+      "player": "Emilio Pagán"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RFJake Fraleyon a rehab assignment to Durham Bulls.",
+      "player": "Jake Fraley"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "New York Mets",
+      "details": "New York Metssent CFLuis Robert Jr.on a rehab assignment to Syracuse Mets.",
+      "player": "Luis Robert Jr."
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RHPAJ Smith-Shawveron a rehab assignment to Augusta GreenJackets.",
+      "player": "AJ Smith-Shawver"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "New York Mets",
+      "details": "New York Metssent CFLuis Robert Jr.on a rehab assignment to Syracuse Mets.",
+      "player": "Luis Robert Jr."
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced CFDane Myerson the 10-day injured list. Left shoulder contusion.",
+      "player": "Dane Myers"
+    },
+    {
+      "date": "2026-06-30",
       "team": "Houston Astros",
       "details": "Houston Astrossent RHPHayden Wesneskion a rehab assignment to FCL Astros.",
       "player": "Hayden Wesneski"
     },
     {
       "date": "2026-06-30",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced SSJeremy Peñaon the 10-day injured list. Left calf strain.",
+      "player": "Jeremy Peña"
+    },
+    {
+      "date": "2026-06-30",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Rayssent LFGavin Luxon a rehab assignment to Durham Bulls.",
       "player": "Gavin Lux"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of 2BIvan Johnsonfrom Louisville Bats.",
+      "player": "Ivan Johnson"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPZach McCambleyto Louisville Bats.",
+      "player": "Zach McCambley"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled 2BRaynel Delgadofrom Sugar Land Space Cowboys.",
+      "player": "Raynel Delgado"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesselected the contract of RHPLou Trivinofrom Lehigh Valley IronPigs.",
+      "player": "Lou Trivino"
     },
     {
       "date": "2026-06-30",
@@ -36,6 +126,24 @@
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPYerry De los Santosto Scranton/Wilkes-Barre RailRiders.",
       "player": "Yerry De los Santos"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPChase Shugartto Lehigh Valley IronPigs.",
+      "player": "Chase Shugart"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of RHPGarrett Stallingsfrom Nashville Sounds.",
+      "player": "Garrett Stallings"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LHPRobert Gasserto ACL Brewers.",
+      "player": "Robert Gasser"
     }
   ]
 }
