@@ -1,35 +1,17 @@
 {
-  "last_updated": "2026-06-30T20:07:47.284291",
+  "last_updated": "2026-06-30T22:18:28.273233",
   "transactions": [
     {
       "date": "2026-06-30",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned free agent OFMatt Scannellto a minor league contract.",
-      "player": "Matt Scannell"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent LFGavin Luxon a rehab assignment to Durham Bulls.",
+      "player": "Gavin Lux"
     },
     {
       "date": "2026-06-30",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsplaced RHPRyne Stanekon the paternity list.",
-      "player": "Ryne Stanek"
-    },
-    {
-      "date": "2026-06-30",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsigned free agent RHPErick Rossoto a minor league contract.",
-      "player": "Erick Rosso"
-    },
-    {
-      "date": "2026-06-30",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsactivated RHPRyan Fernandezfrom the 15-day injured list.",
-      "player": "Ryan Fernandez"
-    },
-    {
-      "date": "2026-06-30",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent LHPDanny Youngon a rehab assignment to Gwinnett Stripers.",
-      "player": "Danny Young"
+      "team": "New York Mets",
+      "details": "New York Metssent CFLuis Robert Jr.on a rehab assignment to Syracuse Mets.",
+      "player": "Luis Robert Jr."
     },
     {
       "date": "2026-06-30",
@@ -40,8 +22,26 @@
     {
       "date": "2026-06-30",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated RHPEmilio Pagánfrom the 15-day injured list.",
-      "player": "Emilio Pagán"
+      "details": "Cincinnati Redsplaced CFDane Myerson the 10-day injured list. Left shoulder contusion.",
+      "player": "Dane Myers"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersdesignated RHPChris Paddackfor assignment.",
+      "player": "Chris Paddack"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated CLiam Hicksfrom the 10-day injured list.",
+      "player": "Liam Hicks"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsplaced RHPRyne Stanekon the paternity list.",
+      "player": "Ryne Stanek"
     },
     {
       "date": "2026-06-30",
@@ -57,21 +57,39 @@
     },
     {
       "date": "2026-06-30",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated RHPTanner Gordonfrom the 15-day injured list.",
+      "player": "Tanner Gordon"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPEmilio Pagánfrom the 15-day injured list.",
+      "player": "Emilio Pagán"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPJesus Morenoto a minor league contract.",
+      "player": "Jesus Moreno"
+    },
+    {
+      "date": "2026-06-30",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravessent RHPAJ Smith-Shawveron a rehab assignment to Augusta GreenJackets.",
       "player": "AJ Smith-Shawver"
     },
     {
       "date": "2026-06-30",
-      "team": "New York Mets",
-      "details": "New York Metssent CFLuis Robert Jr.on a rehab assignment to Syracuse Mets.",
-      "player": "Luis Robert Jr."
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPYaramil Hiraldoon a rehab assignment to Frederick Keys.",
+      "player": "Yaramil Hiraldo"
     },
     {
       "date": "2026-06-30",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced CFDane Myerson the 10-day injured list. Left shoulder contusion.",
-      "player": "Dane Myers"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent LHPDanny Youngon a rehab assignment to Gwinnett Stripers.",
+      "player": "Danny Young"
     },
     {
       "date": "2026-06-30",
@@ -81,15 +99,63 @@
     },
     {
       "date": "2026-06-30",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent OFMatt Scannellto a minor league contract.",
+      "player": "Matt Scannell"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced RHPAnthony Benderon the 15-day injured list. Right shin stress reaction.",
+      "player": "Anthony Bender"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated RHPJonathan Hernándezfor assignment.",
+      "player": "Jonathan Hernández"
+    },
+    {
+      "date": "2026-06-30",
       "team": "Houston Astros",
       "details": "Houston Astrosplaced SSJeremy Peñaon the 10-day injured list. Left calf strain.",
       "player": "Jeremy Peña"
     },
     {
       "date": "2026-06-30",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent LFGavin Luxon a rehab assignment to Durham Bulls.",
-      "player": "Gavin Lux"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent 1BLaMonte Wade Jr.on a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "LaMonte Wade Jr."
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent RHPErick Rossoto a minor league contract.",
+      "player": "Erick Rosso"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated RHPRyan Fernandezfrom the 15-day injured list.",
+      "player": "Ryan Fernandez"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Athletics",
+      "details": "Athleticssigned free agent 2BJack Winklerto a minor league contract.",
+      "player": "Jack Winkler"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPZach Brzykcyfrom Jacksonville Jumbo Shrimp.",
+      "player": "Zach Brzykcy"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of RHPGarrett Stallingsfrom Nashville Sounds.",
+      "player": "Garrett Stallings"
     },
     {
       "date": "2026-06-30",
@@ -105,15 +171,39 @@
     },
     {
       "date": "2026-06-30",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled 2BRaynel Delgadofrom Sugar Land Space Cowboys.",
-      "player": "Raynel Delgado"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPChase Shugartto Lehigh Valley IronPigs.",
+      "player": "Chase Shugart"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPJuan Burgosto Reno Aces.",
+      "player": "Juan Burgos"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPBrandon Pfaadtfrom Reno Aces.",
+      "player": "Brandon Pfaadt"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LHPRobert Gasserto ACL Brewers.",
+      "player": "Robert Gasser"
     },
     {
       "date": "2026-06-30",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesselected the contract of RHPLou Trivinofrom Lehigh Valley IronPigs.",
       "player": "Lou Trivino"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPGavin Collyerfrom Round Rock Express.",
+      "player": "Gavin Collyer"
     },
     {
       "date": "2026-06-30",
@@ -129,21 +219,39 @@
     },
     {
       "date": "2026-06-30",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPChase Shugartto Lehigh Valley IronPigs.",
-      "player": "Chase Shugart"
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled 2BRaynel Delgadofrom Sugar Land Space Cowboys.",
+      "player": "Raynel Delgado"
     },
     {
       "date": "2026-06-30",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersselected the contract of RHPGarrett Stallingsfrom Nashville Sounds.",
-      "player": "Garrett Stallings"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPVince Velasquezoutright to Iowa Cubs.",
+      "player": "Vince Velasquez"
     },
     {
       "date": "2026-06-30",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned LHPRobert Gasserto ACL Brewers.",
-      "player": "Robert Gasser"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned LHPSean Sullivanto Albuquerque Isotopes.",
+      "player": "Sean Sullivan"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent CSam Huffoutright to Norfolk Tides.",
+      "player": "Sam Huff"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned 3BGraham Pauleyto Jacksonville Jumbo Shrimp.",
+      "player": "Graham Pauley"
+    },
+    {
+      "date": "2026-06-30",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPWyatt Millsfrom Oklahoma City Comets.",
+      "player": "Wyatt Mills"
     }
   ]
 }
