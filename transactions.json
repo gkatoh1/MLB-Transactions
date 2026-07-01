@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-07-01T16:31:00.215641",
+  "last_updated": "2026-07-01T19:02:26.115294",
   "transactions": [
+    {
+      "date": "2026-07-01",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced SSCorey Seageron the 10-day injured list. Lower back inflammation.",
+      "player": "Corey Seager"
+    },
     {
       "date": "2026-07-01",
       "team": "Pittsburgh Pirates",
@@ -9,9 +15,9 @@
     },
     {
       "date": "2026-07-01",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RHPDean Kremerfrom the 60-day injured list.",
-      "player": "Dean Kremer"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent OFLuis Consoroto a minor league contract.",
+      "player": "Luis Consoro"
     },
     {
       "date": "2026-07-01",
@@ -27,30 +33,6 @@
     },
     {
       "date": "2026-07-01",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersplaced SSCorey Seageron the 10-day injured list. Lower back inflammation.",
-      "player": "Corey Seager"
-    },
-    {
-      "date": "2026-07-01",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated LHPNoah Schultzfrom the 15-day injured list.",
-      "player": "Noah Schultz"
-    },
-    {
-      "date": "2026-07-01",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersplaced RHPWill Veston the 15-day injured list retroactive to June 28, 2026. Right posterior elbow inflammation.",
-      "player": "Will Vest"
-    },
-    {
-      "date": "2026-07-01",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxdesignated RHPTommy Kahnlefor assignment.",
-      "player": "Tommy Kahnle"
-    },
-    {
-      "date": "2026-07-01",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesdesignated CDom Keeganfor assignment.",
       "player": "Dom Keegan"
@@ -60,6 +42,30 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxplaced LHPConnelly Earlyon the 15-day injured list. Left elbow inflammation.",
       "player": "Connelly Early"
+    },
+    {
+      "date": "2026-07-01",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced RHPWill Veston the 15-day injured list retroactive to June 28, 2026. Right posterior elbow inflammation.",
+      "player": "Will Vest"
+    },
+    {
+      "date": "2026-07-01",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPDean Kremerfrom the 60-day injured list.",
+      "player": "Dean Kremer"
+    },
+    {
+      "date": "2026-07-01",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxdesignated RHPTommy Kahnlefor assignment.",
+      "player": "Tommy Kahnle"
+    },
+    {
+      "date": "2026-07-01",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated LHPNoah Schultzfrom the 15-day injured list.",
+      "player": "Noah Schultz"
     },
     {
       "date": "2026-07-01",
@@ -75,15 +81,21 @@
     },
     {
       "date": "2026-07-01",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled RHPBeau Brieskefrom Toledo Mud Hens.",
-      "player": "Beau Brieske"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LFJonatan Clasefrom Buffalo Bisons.",
+      "player": "Jonatan Clase"
     },
     {
       "date": "2026-07-01",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxrecalled LHPAlec Gamboafrom Worcester Red Sox.",
       "player": "Alec Gamboa"
+    },
+    {
+      "date": "2026-07-01",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPBeau Brieskefrom Toledo Mud Hens.",
+      "player": "Beau Brieske"
     },
     {
       "date": "2026-07-01",
@@ -105,21 +117,15 @@
     },
     {
       "date": "2026-07-01",
-      "team": "Athletics",
-      "details": "Athleticstraded 3BBrett HarristoBoston Red Soxfor RHP Ben Hansen.",
-      "player": "Brett Harris"
-    },
-    {
-      "date": "2026-07-01",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned LHPJosh Walkerto Norfolk Tides.",
       "player": "Josh Walker"
     },
     {
       "date": "2026-07-01",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled LFJonatan Clasefrom Buffalo Bisons.",
-      "player": "Jonatan Clase"
+      "team": "Athletics",
+      "details": "Athleticstraded 3BBrett HarristoBoston Red Soxfor RHP Ben Hansen.",
+      "player": "Brett Harris"
     }
   ]
 }
