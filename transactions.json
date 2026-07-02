@@ -1,23 +1,17 @@
 {
-  "last_updated": "2026-07-02T20:23:42.442445",
+  "last_updated": "2026-07-02T22:13:32.476006",
   "transactions": [
     {
       "date": "2026-07-02",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent 3BNick Sogardon a rehab assignment to Portland Sea Dogs.",
-      "player": "Nick Sogard"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated 1BRowdy Tellezfor assignment.",
+      "player": "Rowdy Tellez"
     },
     {
       "date": "2026-07-02",
       "team": "Chicago Cubs",
       "details": "Chicago Cubssigned free agent SS Luis Abreu to a minor league contract.",
       "player": "Unknown Player"
-    },
-    {
-      "date": "2026-07-02",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated RHPDavid Bednarfrom the paternity list.",
-      "player": "David Bednar"
     },
     {
       "date": "2026-07-02",
@@ -33,9 +27,45 @@
     },
     {
       "date": "2026-07-02",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated 1BRowdy Tellezfor assignment.",
-      "player": "Rowdy Tellez"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent LHPJordan Montgomeryon a rehab assignment to Round Rock Express.",
+      "player": "Jordan Montgomery"
+    },
+    {
+      "date": "2026-07-02",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned free agent RHPSam McWilliamsto a minor league contract.",
+      "player": "Sam McWilliams"
+    },
+    {
+      "date": "2026-07-02",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent 3BNick Sogardon a rehab assignment to Portland Sea Dogs.",
+      "player": "Nick Sogard"
+    },
+    {
+      "date": "2026-07-02",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RHPStephen Kolekfrom the bereavement list.",
+      "player": "Stephen Kolek"
+    },
+    {
+      "date": "2026-07-02",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RHPDavid Bednarfrom the paternity list.",
+      "player": "David Bednar"
+    },
+    {
+      "date": "2026-07-02",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsdesignated RHPEric Cerantolafor assignment.",
+      "player": "Eric Cerantola"
+    },
+    {
+      "date": "2026-07-02",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPWinston Santosto Round Rock Express.",
+      "player": "Winston Santos"
     },
     {
       "date": "2026-07-02",
@@ -45,8 +75,44 @@
     },
     {
       "date": "2026-07-02",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsselected the contract of CLuke Mailefrom Omaha Storm Chasers.",
+      "player": "Luke Maile"
+    },
+    {
+      "date": "2026-07-02",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent RHPChris Paddackoutright to Round Rock Express.",
+      "player": "Chris Paddack"
+    },
+    {
+      "date": "2026-07-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled SSJim Jarvisfrom Gwinnett Stripers.",
+      "player": "Jim Jarvis"
+    },
+    {
+      "date": "2026-07-02",
       "team": "New York Mets",
       "details": "New York Metsoptioned LHPJefry Yanto Syracuse Mets.",
+      "player": "Jefry Yan"
+    },
+    {
+      "date": "2026-07-02",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPPaul Gervasefrom Oklahoma City Comets.",
+      "player": "Paul Gervase"
+    },
+    {
+      "date": "2026-07-02",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPJose Cuasto Omaha Storm Chasers.",
+      "player": "Jose Cuas"
+    },
+    {
+      "date": "2026-07-02",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of LHPJefry Yanfrom Syracuse Mets.",
       "player": "Jefry Yan"
     },
     {
@@ -57,15 +123,21 @@
     },
     {
       "date": "2026-07-02",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of LHPJefry Yanfrom Syracuse Mets.",
-      "player": "Jefry Yan"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersselected the contract of RHPBen Peoplesfrom Round Rock Express.",
+      "player": "Ben Peoples"
     },
     {
       "date": "2026-07-02",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled SSJim Jarvisfrom Gwinnett Stripers.",
-      "player": "Jim Jarvis"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RFJohn Raveto Omaha Storm Chasers.",
+      "player": "John Rave"
+    },
+    {
+      "date": "2026-07-02",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned LHPCharlie Barnesto Oklahoma City Comets.",
+      "player": "Charlie Barnes"
     }
   ]
 }
