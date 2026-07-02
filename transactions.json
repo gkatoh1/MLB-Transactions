@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-02T16:56:05.319429",
+  "last_updated": "2026-07-02T18:40:48.632511",
   "transactions": [
     {
       "date": "2026-07-02",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssigned free agent SS Luis Abreu to a minor league contract.",
-      "player": "Unknown Player"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated 1BRowdy Tellezfor assignment.",
+      "player": "Rowdy Tellez"
     },
     {
       "date": "2026-07-02",
@@ -15,15 +15,15 @@
     },
     {
       "date": "2026-07-02",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated 1BRowdy Tellezfor assignment.",
-      "player": "Rowdy Tellez"
+      "team": "New York Mets",
+      "details": "New York Metssent RHPDedniel Núñezon a rehab assignment to Binghamton Rumble Ponies.",
+      "player": "Dedniel Núñez"
     },
     {
       "date": "2026-07-02",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of LHPJefry Yanfrom Syracuse Mets.",
-      "player": "Jefry Yan"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent SS Luis Abreu to a minor league contract.",
+      "player": "Unknown Player"
     },
     {
       "date": "2026-07-02",
@@ -33,15 +33,21 @@
     },
     {
       "date": "2026-07-02",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPYovanny Cruzto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Yovanny Cruz"
+    },
+    {
+      "date": "2026-07-02",
       "team": "New York Mets",
       "details": "New York Metsoptioned LHPJefry Yanto Syracuse Mets.",
       "player": "Jefry Yan"
     },
     {
       "date": "2026-07-02",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPYovanny Cruzto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Yovanny Cruz"
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of LHPJefry Yanfrom Syracuse Mets.",
+      "player": "Jefry Yan"
     }
   ]
 }
