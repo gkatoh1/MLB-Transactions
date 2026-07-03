@@ -1,4 +1,29 @@
 {
-  "last_updated": "2026-07-03T14:25:31.966027",
-  "transactions": []
+  "last_updated": "2026-07-03T16:40:52.940896",
+  "transactions": [
+    {
+      "date": "2026-07-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated LHPDanny Youngfrom the 60-day injured list.",
+      "player": "Danny Young"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPIan Hamiltonfor assignment.",
+      "player": "Ian Hamilton"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPJames Karinchakto Gwinnett Stripers.",
+      "player": "James Karinchak"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPAnthony Molinafrom Gwinnett Stripers.",
+      "player": "Anthony Molina"
+    }
+  ]
 }
