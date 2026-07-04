@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-07-04T16:09:32.369257",
+  "last_updated": "2026-07-04T18:07:30.025245",
   "transactions": [
     {
       "date": "2026-07-04",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced LHPEvan Siskon the 15-day injured list retroactive to July 1, 2026. Left elbow inflammation.",
-      "player": "Evan Sisk"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent LHPPatrick Sandovalon a rehab assignment to Portland Sea Dogs.",
+      "player": "Patrick Sandoval"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsdesignated RFWill Bensonfor assignment.",
+      "player": "Will Benson"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPHunter Greenefrom the 60-day injured list.",
+      "player": "Hunter Greene"
     },
     {
       "date": "2026-07-04",
@@ -21,9 +33,9 @@
     },
     {
       "date": "2026-07-04",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPBrendan Beckfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Brendan Beck"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced LHPEvan Siskon the 15-day injured list retroactive to July 1, 2026. Left elbow inflammation.",
+      "player": "Evan Sisk"
     },
     {
       "date": "2026-07-04",
@@ -36,6 +48,24 @@
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned CFSpencer Jonesto Scranton/Wilkes-Barre RailRiders.",
       "player": "Spencer Jones"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
+      "player": "Chase Petty"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliestraded RHPRyan DeggestoCleveland Guardiansfor cash.",
+      "player": "Ryan Degges"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPBrendan Beckfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Brendan Beck"
     }
   ]
 }
