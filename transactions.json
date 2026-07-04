@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-07-04T20:12:47.037264",
+  "last_updated": "2026-07-04T22:04:06.123499",
   "transactions": [
-    {
-      "date": "2026-07-04",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated RHPHunter Greenefrom the 60-day injured list.",
-      "player": "Hunter Greene"
-    },
-    {
-      "date": "2026-07-04",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent LHPPatrick Sandovalon a rehab assignment to Portland Sea Dogs.",
-      "player": "Patrick Sandoval"
-    },
     {
       "date": "2026-07-04",
       "team": "Atlanta Braves",
@@ -21,21 +9,15 @@
     },
     {
       "date": "2026-07-04",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersplaced RHPJakob Junison the 15-day injured list retroactive to July 1, 2026. Left hip impingement.",
-      "player": "Jakob Junis"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated DHKyle Farmerfrom the 10-day injured list.",
+      "player": "Kyle Farmer"
     },
     {
       "date": "2026-07-04",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent RHPBailey Oberon a rehab assignment to St. Paul Saints.",
-      "player": "Bailey Ober"
-    },
-    {
-      "date": "2026-07-04",
-      "team": "Kansas City Royals",
-      "details": "RHPStephen Kolekroster status changed byKansas City Royals.",
-      "player": "Stephen Kolek"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPHunter Greenefrom the 60-day injured list.",
+      "player": "Hunter Greene"
     },
     {
       "date": "2026-07-04",
@@ -52,8 +34,14 @@
     {
       "date": "2026-07-04",
       "team": "Texas Rangers",
-      "details": "Texas Rangersactivated RHPChris Martinfrom the 15-day injured list.",
-      "player": "Chris Martin"
+      "details": "Texas Rangersplaced RHPJakob Junison the 15-day injured list retroactive to July 1, 2026. Left hip impingement.",
+      "player": "Jakob Junis"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPBailey Oberon a rehab assignment to St. Paul Saints.",
+      "player": "Bailey Ober"
     },
     {
       "date": "2026-07-04",
@@ -63,27 +51,51 @@
     },
     {
       "date": "2026-07-04",
+      "team": "Athletics",
+      "details": "Athleticsactivated 3BZack Geloffrom the 10-day injured list.",
+      "player": "Zack Gelof"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced LHPMatt Gageon the 15-day injured list. Left embow strain.",
+      "player": "Matt Gage"
+    },
+    {
+      "date": "2026-07-04",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsdesignated RFWill Bensonfor assignment.",
       "player": "Will Benson"
     },
     {
       "date": "2026-07-04",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated DHKyle Farmerfrom the 10-day injured list.",
-      "player": "Kyle Farmer"
+      "team": "Kansas City Royals",
+      "details": "RHPStephen Kolekroster status changed byKansas City Royals.",
+      "player": "Stephen Kolek"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated RHPChris Martinfrom the 15-day injured list.",
+      "player": "Chris Martin"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent LHPPatrick Sandovalon a rehab assignment to Portland Sea Dogs.",
+      "player": "Patrick Sandoval"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPColeman Crowon a rehab assignment to Nashville Sounds.",
+      "player": "Coleman Crow"
     },
     {
       "date": "2026-07-04",
       "team": "Houston Astros",
-      "details": "Houston Astrosoptioned CFJake Meyersto Sugar Land Space Cowboys.",
-      "player": "Jake Meyers"
-    },
-    {
-      "date": "2026-07-04",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled LHPTanner Banksfrom Lehigh Valley IronPigs.",
-      "player": "Tanner Banks"
+      "details": "Houston Astrosrecalled LFZach Dezenzofrom Sugar Land Space Cowboys.",
+      "player": "Zach Dezenzo"
     },
     {
       "date": "2026-07-04",
@@ -93,9 +105,75 @@
     },
     {
       "date": "2026-07-04",
+      "team": "Athletics",
+      "details": "Athleticsselected the contract of CBrian Servenfrom Las Vegas Aviators.",
+      "player": "Brian Serven"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPSpencer Bivensfrom Sacramento River Cats.",
+      "player": "Spencer Bivens"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled LHPTanner Banksfrom Lehigh Valley IronPigs.",
+      "player": "Tanner Banks"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "Athletics",
+      "details": "Athleticsoptioned 1BJoey Menesesto Las Vegas Aviators.",
+      "player": "Joey Meneses"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPJose Cuasfrom Omaha Storm Chasers.",
+      "player": "Jose Cuas"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "Athletics",
+      "details": "Athleticsoptioned SSDarell Hernaizto Las Vegas Aviators.",
+      "player": "Darell Hernaiz"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPAnthony Molinato Gwinnett Stripers.",
+      "player": "Anthony Molina"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned CFJake Meyersto Sugar Land Space Cowboys.",
+      "player": "Jake Meyers"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPBrendan Beckfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Brendan Beck"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPJR Ritchiefrom Gwinnett Stripers.",
+      "player": "JR Ritchie"
+    },
+    {
+      "date": "2026-07-04",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
       "player": "Chase Petty"
+    },
+    {
+      "date": "2026-07-04",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliestraded RHPRyan DeggestoCleveland Guardiansfor cash.",
+      "player": "Ryan Degges"
     },
     {
       "date": "2026-07-04",
@@ -114,42 +192,6 @@
       "team": "Houston Astros",
       "details": "Houston Astrosoptioned LFJoey Loperfidoto Sugar Land Space Cowboys.",
       "player": "Joey Loperfido"
-    },
-    {
-      "date": "2026-07-04",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPJR Ritchiefrom Gwinnett Stripers.",
-      "player": "JR Ritchie"
-    },
-    {
-      "date": "2026-07-04",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled LFZach Dezenzofrom Sugar Land Space Cowboys.",
-      "player": "Zach Dezenzo"
-    },
-    {
-      "date": "2026-07-04",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPAnthony Molinato Gwinnett Stripers.",
-      "player": "Anthony Molina"
-    },
-    {
-      "date": "2026-07-04",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPBrendan Beckfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Brendan Beck"
-    },
-    {
-      "date": "2026-07-04",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliestraded RHPRyan DeggestoCleveland Guardiansfor cash.",
-      "player": "Ryan Degges"
-    },
-    {
-      "date": "2026-07-04",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPJose Cuasfrom Omaha Storm Chasers.",
-      "player": "Jose Cuas"
     }
   ]
 }
