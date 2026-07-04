@@ -1,6 +1,96 @@
 {
-  "last_updated": "2026-07-03T22:10:59.748770",
+  "last_updated": "2026-07-04T00:12:27.163153",
   "transactions": [
+    {
+      "date": "2026-07-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated LHPDanny Youngfrom the 60-day injured list.",
+      "player": "Danny Young"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated CChadwick Trompfor assignment.",
+      "player": "Chadwick Tromp"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersplaced CFJulio Rodríguezon the 7-day injured list. Concussion.",
+      "player": "Julio Rodríguez"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent RFJarred Kelenicto a minor league contract.",
+      "player": "Jarred Kelenic"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPYaramil Hiraldoon a rehab assignment to Norfolk Tides.",
+      "player": "Yaramil Hiraldo"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPIan Hamiltonfor assignment.",
+      "player": "Ian Hamilton"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPEthan Robertson a rehab assignment to Iowa Cubs.",
+      "player": "Ethan Roberts"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Athletics",
+      "details": "Athleticsdesignated RHPGeoff Hartliebfor assignment.",
+      "player": "Geoff Hartlieb"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPRob Zastryznyon a rehab assignment to ACL Brewers.",
+      "player": "Rob Zastryzny"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPRyan Helsleyon the 15-day injured list retroactive to June 30, 2026. Right elbow discomfort.",
+      "player": "Ryan Helsley"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated CFTrent Grishamfrom the 10-day injured list.",
+      "player": "Trent Grisham"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent RHPJoe Rossto a minor league contract.",
+      "player": "Joe Ross"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerstransferred RHPCooper Criswellfrom the 15-day injured list to the 60-day injured list. Right shoulder strain.",
+      "player": "Cooper Criswell"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPTrevor Williamson a rehab assignment to Harrisburg Senators.",
+      "player": "Trevor Williams"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent CSam Huffto a minor league contract.",
+      "player": "Sam Huff"
+    },
     {
       "date": "2026-07-03",
       "team": "Cincinnati Reds",
@@ -21,69 +111,21 @@
     },
     {
       "date": "2026-07-03",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated CChadwick Trompfor assignment.",
-      "player": "Chadwick Tromp"
-    },
-    {
-      "date": "2026-07-03",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced LHPCarlos Rodónon the 15-day injured list retroactive to June 30, 2026. Left elbow inflammation.",
-      "player": "Carlos Rodón"
-    },
-    {
-      "date": "2026-07-03",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated RHPCristian Javierfrom the 60-day injured list.",
-      "player": "Cristian Javier"
-    },
-    {
-      "date": "2026-07-03",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated CFTrent Grishamfrom the 10-day injured list.",
-      "player": "Trent Grisham"
-    },
-    {
-      "date": "2026-07-03",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsactivated RHPRyne Stanekfrom the paternity list.",
       "player": "Ryne Stanek"
     },
     {
       "date": "2026-07-03",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent LHPRob Zastryznyon a rehab assignment to ACL Brewers.",
-      "player": "Rob Zastryzny"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent RHPKeaton Winnon a rehab assignment to ACL Giants.",
+      "player": "Keaton Winn"
     },
     {
       "date": "2026-07-03",
-      "team": "Athletics",
-      "details": "Athleticsactivated RHPMark Leiter Jr.from the 15-day injured list.",
-      "player": "Mark Leiter Jr."
-    },
-    {
-      "date": "2026-07-03",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent RHPYaramil Hiraldoon a rehab assignment to Norfolk Tides.",
-      "player": "Yaramil Hiraldo"
-    },
-    {
-      "date": "2026-07-03",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated RHPIan Hamiltonfor assignment.",
-      "player": "Ian Hamilton"
-    },
-    {
-      "date": "2026-07-03",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced RHPRyan Helsleyon the 15-day injured list retroactive to June 30, 2026. Right elbow discomfort.",
-      "player": "Ryan Helsley"
-    },
-    {
-      "date": "2026-07-03",
-      "team": "Athletics",
-      "details": "Athleticsdesignated RHPGeoff Hartliebfor assignment.",
-      "player": "Geoff Hartlieb"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent CCooper Johnsonto a minor league contract.",
+      "player": "Cooper Johnson"
     },
     {
       "date": "2026-07-03",
@@ -105,63 +147,27 @@
     },
     {
       "date": "2026-07-03",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent CSam Huffto a minor league contract.",
-      "player": "Sam Huff"
-    },
-    {
-      "date": "2026-07-03",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated LHPDanny Youngfrom the 60-day injured list.",
-      "player": "Danny Young"
-    },
-    {
-      "date": "2026-07-03",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPRyan Gustoto Jacksonville Jumbo Shrimp.",
-      "player": "Ryan Gusto"
-    },
-    {
-      "date": "2026-07-03",
       "team": "New York Yankees",
-      "details": "New York Yankeesoptioned 3BOswaldo Cabrerato Scranton/Wilkes-Barre RailRiders.",
-      "player": "Oswaldo Cabrera"
+      "details": "New York Yankeesplaced LHPCarlos Rodónon the 15-day injured list retroactive to June 30, 2026. Left elbow inflammation.",
+      "player": "Carlos Rodón"
     },
     {
       "date": "2026-07-03",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled 2BJeremiah Jacksonfrom Norfolk Tides.",
-      "player": "Jeremiah Jackson"
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated RHPCristian Javierfrom the 60-day injured list.",
+      "player": "Cristian Javier"
     },
     {
       "date": "2026-07-03",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned RHPDaniel Espinoto Columbus Clippers.",
-      "player": "Daniel Espino"
-    },
-    {
-      "date": "2026-07-03",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPAnthony Nunezfrom Norfolk Tides.",
-      "player": "Anthony Nunez"
+      "team": "Athletics",
+      "details": "Athleticsactivated RHPMark Leiter Jr.from the 15-day injured list.",
+      "player": "Mark Leiter Jr."
     },
     {
       "date": "2026-07-03",
       "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RHPFranco Alemanfrom Columbus Clippers.",
-      "player": "Franco Aleman"
-    },
-    {
-      "date": "2026-07-03",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPGordon Graceffoto Memphis Redbirds.",
-      "player": "Gordon Graceffo"
-    },
-    {
-      "date": "2026-07-03",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPAnthony Molinafrom Gwinnett Stripers.",
-      "player": "Anthony Molina"
+      "details": "Cleveland Guardianssent RFStuart Fairchildoutright to Columbus Clippers.",
+      "player": "Stuart Fairchild"
     },
     {
       "date": "2026-07-03",
@@ -171,15 +177,87 @@
     },
     {
       "date": "2026-07-03",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsselected the contract of LHPDrew Pomeranzfrom Iowa Cubs.",
+      "player": "Drew Pomeranz"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPDaniel Espinoto Columbus Clippers.",
+      "player": "Daniel Espino"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent RHPJohn Brebbiaoutright to Albuquerque Isotopes.",
+      "player": "John Brebbia"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPFranco Alemanfrom Columbus Clippers.",
+      "player": "Franco Aleman"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPRyan Gustoto Jacksonville Jumbo Shrimp.",
+      "player": "Ryan Gusto"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPAnthony Molinafrom Gwinnett Stripers.",
+      "player": "Anthony Molina"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPTommy Kahnleoutright to Worcester Red Sox.",
+      "player": "Tommy Kahnle"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Houston Astros",
+      "details": "Houston Astrostraded LHPTom CosgrovetoWashington Nationalsfor cash.",
+      "player": "Tom Cosgrove"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPGordon Graceffoto Memphis Redbirds.",
+      "player": "Gordon Graceffo"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of 3BMiles Mastrobuonifrom Tacoma Rainiers.",
+      "player": "Miles Mastrobuoni"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned 3BOswaldo Cabrerato Scranton/Wilkes-Barre RailRiders.",
+      "player": "Oswaldo Cabrera"
+    },
+    {
+      "date": "2026-07-03",
       "team": "Miami Marlins",
       "details": "Miami Marlinsrecalled RHPWilliam Kempnerfrom Jacksonville Jumbo Shrimp.",
       "player": "William Kempner"
     },
     {
       "date": "2026-07-03",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsselected the contract of LHPDrew Pomeranzfrom Iowa Cubs.",
-      "player": "Drew Pomeranz"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled 2BJeremiah Jacksonfrom Norfolk Tides.",
+      "player": "Jeremiah Jackson"
+    },
+    {
+      "date": "2026-07-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPAnthony Nunezfrom Norfolk Tides.",
+      "player": "Anthony Nunez"
     }
   ]
 }
