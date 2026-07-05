@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-07-05T19:35:31.850196",
+  "last_updated": "2026-07-05T21:10:59.988856",
   "transactions": [
-    {
-      "date": "2026-07-05",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssent RHPJameson Taillonon a rehab assignment to South Bend Cubs.",
-      "player": "Jameson Taillon"
-    },
     {
       "date": "2026-07-05",
       "team": "Washington Nationals",
@@ -15,9 +9,9 @@
     },
     {
       "date": "2026-07-05",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent OFBryan De La Cruz.",
-      "player": "Bryan De La Cruz"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated RHPEddy Yean.",
+      "player": "Eddy Yean"
     },
     {
       "date": "2026-07-05",
@@ -27,21 +21,9 @@
     },
     {
       "date": "2026-07-05",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated RHPEddy Yean.",
-      "player": "Eddy Yean"
-    },
-    {
-      "date": "2026-07-05",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesdesignated 3BDavis Wendzelfor assignment.",
-      "player": "Davis Wendzel"
-    },
-    {
-      "date": "2026-07-05",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesdesignated RHPJean Cabrerafor assignment.",
-      "player": "Jean Cabrera"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPJameson Taillonon a rehab assignment to South Bend Cubs.",
+      "player": "Jameson Taillon"
     },
     {
       "date": "2026-07-05",
@@ -57,57 +39,27 @@
     },
     {
       "date": "2026-07-05",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned LHPSean Sullivanto Albuquerque Isotopes.",
-      "player": "Sean Sullivan"
-    },
-    {
-      "date": "2026-07-05",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPMason Englertfrom Durham Bulls.",
-      "player": "Mason Englert"
-    },
-    {
-      "date": "2026-07-05",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPZak Kentto Rochester Red Wings.",
-      "player": "Zak Kent"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent OFBryan De La Cruz.",
+      "player": "Bryan De La Cruz"
     },
     {
       "date": "2026-07-05",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesselected the contract of RHPNoah Murdockfrom Indianapolis Indians.",
-      "player": "Noah Murdock"
+      "details": "Pittsburgh Piratesdesignated 3BDavis Wendzelfor assignment.",
+      "player": "Davis Wendzel"
     },
     {
       "date": "2026-07-05",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPCarlos Carrascofrom Gwinnett Stripers.",
-      "player": "Carlos Carrasco"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesdesignated RHPJean Cabrerafor assignment.",
+      "player": "Jean Cabrera"
     },
     {
       "date": "2026-07-05",
       "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPTJ Shookfrom Albuquerque Isotopes.",
-      "player": "TJ Shook"
-    },
-    {
-      "date": "2026-07-05",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPNoah Murdockto Indianapolis Indians.",
-      "player": "Noah Murdock"
-    },
-    {
-      "date": "2026-07-05",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPBrendan Beckto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Brendan Beck"
-    },
-    {
-      "date": "2026-07-05",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPGuillo Zuñigafrom Syracuse Mets.",
-      "player": "Guillo Zuñiga"
+      "details": "Colorado Rockiesoptioned LHPSean Sullivanto Albuquerque Isotopes.",
+      "player": "Sean Sullivan"
     },
     {
       "date": "2026-07-05",
@@ -120,6 +72,48 @@
       "team": "Atlanta Braves",
       "details": "Atlanta Bravessent RHPIan Hamiltonoutright to Gwinnett Stripers.",
       "player": "Ian Hamilton"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled LFTim Tawafrom Reno Aces.",
+      "player": "Tim Tawa"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPMason Englertfrom Durham Bulls.",
+      "player": "Mason Englert"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned 1BLuJames Grooverto Reno Aces.",
+      "player": "LuJames Groover"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled LHPDrew Romfrom Nashville Sounds.",
+      "player": "Drew Rom"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJoey Gerberto Syracuse Mets.",
+      "player": "Joey Gerber"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersacquired CArturo De Freitasfrom the Quebec Capitales of the.",
+      "player": "Arturo De Freitas"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPNoah Murdockto Indianapolis Indians.",
+      "player": "Noah Murdock"
     },
     {
       "date": "2026-07-05",
@@ -141,15 +135,15 @@
     },
     {
       "date": "2026-07-05",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled LHPDrew Romfrom Nashville Sounds.",
-      "player": "Drew Rom"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPCarlos Carrascofrom Gwinnett Stripers.",
+      "player": "Carlos Carrasco"
     },
     {
       "date": "2026-07-05",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersacquired CArturo De Freitasfrom the Quebec Capitales of the.",
-      "player": "Arturo De Freitas"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPTJ Shookfrom Albuquerque Isotopes.",
+      "player": "TJ Shook"
     },
     {
       "date": "2026-07-05",
@@ -159,21 +153,27 @@
     },
     {
       "date": "2026-07-05",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPBrendan Beckto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Brendan Beck"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPZak Kentto Rochester Red Wings.",
+      "player": "Zak Kent"
+    },
+    {
+      "date": "2026-07-05",
       "team": "New York Mets",
-      "details": "New York Metsoptioned RHPJoey Gerberto Syracuse Mets.",
-      "player": "Joey Gerber"
+      "details": "New York Metsselected the contract of RHPGuillo Zuñigafrom Syracuse Mets.",
+      "player": "Guillo Zuñiga"
     },
     {
       "date": "2026-07-05",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled LFTim Tawafrom Reno Aces.",
-      "player": "Tim Tawa"
-    },
-    {
-      "date": "2026-07-05",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned 1BLuJames Grooverto Reno Aces.",
-      "player": "LuJames Groover"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesselected the contract of RHPNoah Murdockfrom Indianapolis Indians.",
+      "player": "Noah Murdock"
     }
   ]
 }
