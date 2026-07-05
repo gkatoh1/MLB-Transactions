@@ -1,11 +1,65 @@
 {
-  "last_updated": "2026-07-05T15:20:30.055168",
+  "last_updated": "2026-07-05T17:20:16.753200",
   "transactions": [
     {
       "date": "2026-07-05",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPJR Ritchieto Gwinnett Stripers.",
-      "player": "JR Ritchie"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent OFBryan De La Cruz.",
+      "player": "Bryan De La Cruz"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated RHPEddy Yean.",
+      "player": "Eddy Yean"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced RHPBrandon Woodruffon the 15-day injured list. Right shoulder inflammation.",
+      "player": "Brandon Woodruff"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated RHPEddy Yean.",
+      "player": "Eddy Yean"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPJameson Taillonon a rehab assignment to South Bend Cubs.",
+      "player": "Jameson Taillon"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated 3BDavis Wendzelfor assignment.",
+      "player": "Davis Wendzel"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesdesignated RHPJean Cabrerafor assignment.",
+      "player": "Jean Cabrera"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsdesignated CFRobert Hassell IIIfor assignment.",
+      "player": "Robert Hassell III"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned OFBryan De La Cruzto Lehigh Valley IronPigs.",
+      "player": "Bryan De La Cruz"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPNoah Murdockto Indianapolis Indians.",
+      "player": "Noah Murdock"
     },
     {
       "date": "2026-07-05",
@@ -15,21 +69,51 @@
     },
     {
       "date": "2026-07-05",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled LHPDrew Romfrom Nashville Sounds.",
+      "player": "Drew Rom"
+    },
+    {
+      "date": "2026-07-05",
       "team": "New York Mets",
       "details": "New York Metsselected the contract of RHPGuillo Zuñigafrom Syracuse Mets.",
       "player": "Guillo Zuñiga"
     },
     {
       "date": "2026-07-05",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPJoey Gerberto Syracuse Mets.",
-      "player": "Joey Gerber"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled LFTim Tawafrom Reno Aces.",
+      "player": "Tim Tawa"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned 1BLuJames Grooverto Reno Aces.",
+      "player": "LuJames Groover"
     },
     {
       "date": "2026-07-05",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysrecalled RHPMason Englertfrom Durham Bulls.",
       "player": "Mason Englert"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPCarlos Carrascofrom Gwinnett Stripers.",
+      "player": "Carlos Carrasco"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsselected the contract of RHPEddy Yeanfrom Rochester Red Wings.",
+      "player": "Eddy Yean"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJoey Gerberto Syracuse Mets.",
+      "player": "Joey Gerber"
     },
     {
       "date": "2026-07-05",
@@ -51,9 +135,15 @@
     },
     {
       "date": "2026-07-05",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesselected the contract of RHPNoah Murdockfrom Indianapolis Indians.",
+      "player": "Noah Murdock"
+    },
+    {
+      "date": "2026-07-05",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPCarlos Carrascofrom Gwinnett Stripers.",
-      "player": "Carlos Carrasco"
+      "details": "Atlanta Bravesoptioned RHPJR Ritchieto Gwinnett Stripers.",
+      "player": "JR Ritchie"
     }
   ]
 }
