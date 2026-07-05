@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-07-05T11:40:04.821581",
+  "last_updated": "2026-07-05T13:57:05.080751",
   "transactions": [
+    {
+      "date": "2026-07-05",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPBrendan Beckto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Brendan Beck"
+    },
+    {
+      "date": "2026-07-05",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPJR Ritchieto Gwinnett Stripers.",
+      "player": "JR Ritchie"
+    },
     {
       "date": "2026-07-05",
       "team": "Washington Nationals",
@@ -9,9 +21,9 @@
     },
     {
       "date": "2026-07-05",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPBrendan Beckto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Brendan Beck"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPCarlos Carrascofrom Gwinnett Stripers.",
+      "player": "Carlos Carrasco"
     }
   ]
 }
