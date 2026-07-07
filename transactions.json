@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-07T18:06:42.249477",
+  "last_updated": "2026-07-07T20:52:25.800698",
   "transactions": [
     {
       "date": "2026-07-07",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned free agent 1BRowdy Tellezto a minor league contract.",
-      "player": "Rowdy Tellez"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent 3BKe'Bryan Hayeson a rehab assignment to Louisville Bats.",
+      "player": "Ke'Bryan Hayes"
     },
     {
       "date": "2026-07-07",
@@ -15,15 +15,15 @@
     },
     {
       "date": "2026-07-07",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced 3BDavid Hamiltonon the 10-day injured list. Strained left hamstring.",
-      "player": "David Hamilton"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced RHPTyler Kinleyon the paternity list.",
+      "player": "Tyler Kinley"
     },
     {
       "date": "2026-07-07",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalstransferred RHPMax Rajcicfrom the 15-day injured list to the 60-day injured list. Right elbow soreness.",
-      "player": "Max Rajcic"
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPGuillo Zuñigafor assignment.",
+      "player": "Guillo Zuñiga"
     },
     {
       "date": "2026-07-07",
@@ -33,15 +33,15 @@
     },
     {
       "date": "2026-07-07",
-      "team": "New York Mets",
-      "details": "New York Metssent CFLuis Robert Jr.on a rehab assignment to Binghamton Rumble Ponies.",
-      "player": "Luis Robert Jr."
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced 3BDavid Hamiltonon the 10-day injured list. Strained left hamstring.",
+      "player": "David Hamilton"
     },
     {
       "date": "2026-07-07",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent 3BKe'Bryan Hayeson a rehab assignment to Louisville Bats.",
-      "player": "Ke'Bryan Hayes"
+      "team": "New York Mets",
+      "details": "New York Metssent CFLuis Robert Jr.on a rehab assignment to Binghamton Rumble Ponies.",
+      "player": "Luis Robert Jr."
     },
     {
       "date": "2026-07-07",
@@ -57,6 +57,30 @@
     },
     {
       "date": "2026-07-07",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated LHPMatt Krook.",
+      "player": "Matt Krook"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "Athletics",
+      "details": "Athleticsactivated SSJacob Wilsonfrom the 10-day injured list.",
+      "player": "Jacob Wilson"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent 1BRowdy Tellezto a minor league contract.",
+      "player": "Rowdy Tellez"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent RHPJustin Topato a minor league contract.",
+      "player": "Justin Topa"
+    },
+    {
+      "date": "2026-07-07",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerssent RHPCarlos Rodriguezon a rehab assignment to Nashville Sounds.",
       "player": "Carlos Rodriguez"
@@ -66,6 +90,48 @@
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerssent RHPCarlos Rodriguezon a rehab assignment to Nashville Sounds.",
       "player": "Carlos Rodriguez"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced SSKonnor Griffinon the 10-day injured list retroactive to July 6, 2026. Left ring finger sagittal back injury.",
+      "player": "Konnor Griffin"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent 1BVinnie Pasquantinoon a rehab assignment to Omaha Storm Chasers.",
+      "player": "Vinnie Pasquantino"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPAlex Carrillofor assignment.",
+      "player": "Alex Carrillo"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalstransferred RHPMax Rajcicfrom the 15-day injured list to the 60-day injured list. Right elbow soreness.",
+      "player": "Max Rajcic"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent 3BNick Sogardon a rehab assignment to Worcester Red Sox.",
+      "player": "Nick Sogard"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "New York Mets",
+      "details": "New York Metsactivated 1BJorge Polancofrom the 60-day injured list.",
+      "player": "Jorge Polanco"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPJames Karinchakfrom Gwinnett Stripers.",
+      "player": "James Karinchak"
     },
     {
       "date": "2026-07-07",
@@ -75,21 +141,9 @@
     },
     {
       "date": "2026-07-07",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPRyan Fernandezto Memphis Redbirds.",
-      "player": "Ryan Fernandez"
-    },
-    {
-      "date": "2026-07-07",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled LHPRobert Gasserfrom ACL Brewers.",
-      "player": "Robert Gasser"
-    },
-    {
-      "date": "2026-07-07",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsselected the contract of LHPBruce Zimmermannfrom Memphis Redbirds.",
-      "player": "Bruce Zimmermann"
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPKade Morristo Las Vegas Aviators.",
+      "player": "Kade Morris"
     },
     {
       "date": "2026-07-07",
@@ -105,9 +159,105 @@
     },
     {
       "date": "2026-07-07",
+      "team": "Athletics",
+      "details": "Athleticsrecalled LHPJacob Lopezfrom Las Vegas Aviators.",
+      "player": "Jacob Lopez"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPMax Lazarfrom Lehigh Valley IronPigs.",
+      "player": "Max Lazar"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned SSRonny Mauricioto Syracuse Mets.",
+      "player": "Ronny Mauricio"
+    },
+    {
+      "date": "2026-07-07",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersselected the contract of LFGreg Jonesfrom Nashville Sounds.",
       "player": "Greg Jones"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPOwen Murphyto Gwinnett Stripers.",
+      "player": "Owen Murphy"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPMike Burrowsto Sugar Land Space Cowboys.",
+      "player": "Mike Burrows"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled LHPRobert Gasserfrom ACL Brewers.",
+      "player": "Robert Gasser"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsselected the contract of LHPBruce Zimmermannfrom Memphis Redbirds.",
+      "player": "Bruce Zimmermann"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled SSJack Branniganfrom Indianapolis Indians.",
+      "player": "Jack Brannigan"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned LHPKyle Backhusto Lehigh Valley IronPigs.",
+      "player": "Kyle Backhus"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPRyan Fernandezto Memphis Redbirds.",
+      "player": "Ryan Fernandez"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of LHPConnor Thomasfrom Gwinnett Stripers.",
+      "player": "Connor Thomas"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent CChuckie Robinsonoutright to Oklahoma City Comets.",
+      "player": "Chuckie Robinson"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsselected the contract of RHPWoo-Suk Gofrom St. Paul Saints.",
+      "player": "Woo-Suk Go"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "Athletics",
+      "details": "Athleticsoptioned CBrian Servento Las Vegas Aviators.",
+      "player": "Brian Serven"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPCole Henryto Rochester Red Wings.",
+      "player": "Cole Henry"
+    },
+    {
+      "date": "2026-07-07",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPMatt Seelingerfrom Syracuse Mets.",
+      "player": "Matt Seelinger"
     },
     {
       "date": "2026-07-07",
@@ -117,9 +267,9 @@
     },
     {
       "date": "2026-07-07",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsselected the contract of RHPWoo-Suk Gofrom St. Paul Saints.",
-      "player": "Woo-Suk Go"
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPAlimber Santafrom Sugar Land Space Cowboys.",
+      "player": "Alimber Santa"
     }
   ]
 }
