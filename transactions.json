@@ -1,4 +1,23 @@
 {
-  "last_updated": "2026-07-08T12:26:19.819876",
-  "transactions": []
+  "last_updated": "2026-07-08T15:27:27.777110",
+  "transactions": [
+    {
+      "date": "2026-07-08",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned LHPConnor Thomasto Gwinnett Stripers.",
+      "player": "Connor Thomas"
+    },
+    {
+      "date": "2026-07-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LHPRobert Gasserto ACL Brewers.",
+      "player": "Robert Gasser"
+    },
+    {
+      "date": "2026-07-08",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPVictor Mederosfrom Gwinnett Stripers.",
+      "player": "Victor Mederos"
+    }
+  ]
 }
