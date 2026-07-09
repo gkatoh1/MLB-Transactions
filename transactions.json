@@ -1,30 +1,6 @@
 {
-  "last_updated": "2026-07-09T20:51:49.182190",
+  "last_updated": "2026-07-09T22:37:11.360882",
   "transactions": [
-    {
-      "date": "2026-07-09",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated RFJosé Azócarfor assignment.",
-      "player": "José Azócar"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPBailey Oberfrom the 15-day injured list.",
-      "player": "Bailey Ober"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated CFJared Olivafor assignment.",
-      "player": "Jared Oliva"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent LHPSteven Matzon a rehab assignment to Durham Bulls.",
-      "player": "Steven Matz"
-    },
     {
       "date": "2026-07-09",
       "team": "Cleveland Guardians",
@@ -33,9 +9,51 @@
     },
     {
       "date": "2026-07-09",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced LHPConnor Prielippon the 15-day injured list. Left middle finger blister.",
-      "player": "Connor Prielipp"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RFEli Whitefrom the paternity list.",
+      "player": "Eli White"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RHPLogan Hendersonfrom the 15-day injured list.",
+      "player": "Logan Henderson"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced LHPRanger Suarezon the 15-day injured list retroactive to July 6, 2026. Left groin strain.",
+      "player": "Ranger Suarez"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated RHPJanson Junkfrom the 15-day injured list.",
+      "player": "Janson Junk"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced LHPTanner Bankson the 15-day injured list. Left forearm strain.",
+      "player": "Tanner Banks"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated DHJahmai Jonesfor assignment.",
+      "player": "Jahmai Jones"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Unknown Team",
+      "details": "1BWillson Contrerassuspended.",
+      "player": "Willson Contreras"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RFJosé Azócarfor assignment.",
+      "player": "José Azócar"
     },
     {
       "date": "2026-07-09",
@@ -57,39 +75,33 @@
     },
     {
       "date": "2026-07-09",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced RHPBrad Lordon the 15-day injured list retroactive to July 6, 2026. Left side tightness.",
+      "player": "Brad Lord"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "New York Mets",
+      "details": "New York Metsreleased RHPAlex Carrillo.",
+      "player": "Alex Carrillo"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent CDaniel Susacon a rehab assignment to Sacramento River Cats.",
+      "player": "Daniel Susac"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced LHPConnor Prielippon the 15-day injured list. Left middle finger blister.",
+      "player": "Connor Prielipp"
+    },
+    {
+      "date": "2026-07-09",
       "team": "Texas Rangers",
       "details": "Texas Rangersactivated LFWyatt Langfordfrom the 10-day injured list.",
       "player": "Wyatt Langford"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced RHPTrevor Richardson the bereavement list.",
-      "player": "Trevor Richards"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RFEli Whitefrom the paternity list.",
-      "player": "Eli White"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated RHPLogan Hendersonfrom the 15-day injured list.",
-      "player": "Logan Henderson"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersdesignated DHJahmai Jonesfor assignment.",
-      "player": "Jahmai Jones"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Unknown Team",
-      "details": "1BWillson Contrerassuspended.",
-      "player": "Willson Contreras"
     },
     {
       "date": "2026-07-09",
@@ -99,21 +111,39 @@
     },
     {
       "date": "2026-07-09",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced LHPRanger Suarezon the 15-day injured list retroactive to July 6, 2026. Left groin strain.",
-      "player": "Ranger Suarez"
+      "team": "New York Mets",
+      "details": "New York Metsdesignated CFJared Olivafor assignment.",
+      "player": "Jared Oliva"
     },
     {
       "date": "2026-07-09",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsactivated RHPJanson Junkfrom the 15-day injured list.",
-      "player": "Janson Junk"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent LHPSteven Matzon a rehab assignment to Durham Bulls.",
+      "player": "Steven Matz"
     },
     {
       "date": "2026-07-09",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned RHPRyan Walkerto Sacramento River Cats.",
-      "player": "Ryan Walker"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPBailey Oberfrom the 15-day injured list.",
+      "player": "Bailey Ober"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RHPTrevor Richardson the bereavement list.",
+      "player": "Trevor Richards"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPGuillo Zuñigaoutright to Syracuse Mets.",
+      "player": "Guillo Zuñiga"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled CEduardo Valenciafrom Toledo Mud Hens.",
+      "player": "Eduardo Valencia"
     },
     {
       "date": "2026-07-09",
@@ -129,48 +159,6 @@
     },
     {
       "date": "2026-07-09",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned CCooper Ingleto Columbus Clippers.",
-      "player": "Cooper Ingle"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled CEduardo Valenciafrom Toledo Mud Hens.",
-      "player": "Eduardo Valencia"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled RFRece Hindsfrom Jacksonville Jumbo Shrimp.",
-      "player": "Rece Hinds"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled LHPKendry Rojasfrom St. Paul Saints.",
-      "player": "Kendry Rojas"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned 2BJosh Smithto Round Rock Express.",
-      "player": "Josh Smith"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPGarrett Stallingsto Nashville Sounds.",
-      "player": "Garrett Stallings"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent CJair Camargooutright to Gwinnett Stripers.",
-      "player": "Jair Camargo"
-    },
-    {
-      "date": "2026-07-09",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxrecalled RHPTyler Davisfrom Charlotte Knights.",
       "player": "Tyler Davis"
@@ -183,9 +171,27 @@
     },
     {
       "date": "2026-07-09",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RHPCodi Heuerfrom Columbus Clippers.",
-      "player": "Codi Heuer"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled LHPKendry Rojasfrom St. Paul Saints.",
+      "player": "Kendry Rojas"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RHPRyan Gustofrom Jacksonville Jumbo Shrimp.",
+      "player": "Ryan Gusto"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPJose Cabrerato Reno Aces.",
+      "player": "Jose Cabrera"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled LHPPhilip Abnerfrom Reno Aces.",
+      "player": "Philip Abner"
     },
     {
       "date": "2026-07-09",
@@ -195,9 +201,15 @@
     },
     {
       "date": "2026-07-09",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled RHPRyan Gustofrom Jacksonville Jumbo Shrimp.",
-      "player": "Ryan Gusto"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned 2BJosh Smithto Round Rock Express.",
+      "player": "Josh Smith"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPRyan Walkerto Sacramento River Cats.",
+      "player": "Ryan Walker"
     },
     {
       "date": "2026-07-09",
@@ -208,8 +220,44 @@
     {
       "date": "2026-07-09",
       "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned CCooper Ingleto Columbus Clippers.",
+      "player": "Cooper Ingle"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPGarrett Stallingsto Nashville Sounds.",
+      "player": "Garrett Stallings"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPCodi Heuerfrom Columbus Clippers.",
+      "player": "Codi Heuer"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent CJair Camargooutright to Gwinnett Stripers.",
+      "player": "Jair Camargo"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansrecalled CFPetey Halpinfrom Columbus Clippers.",
       "player": "Petey Halpin"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPChase Shugartfrom Lehigh Valley IronPigs.",
+      "player": "Chase Shugart"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RFRece Hindsfrom Jacksonville Jumbo Shrimp.",
+      "player": "Rece Hinds"
     }
   ]
 }
