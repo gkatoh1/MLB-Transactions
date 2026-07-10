@@ -1,29 +1,11 @@
 {
-  "last_updated": "2026-07-10T21:12:53.024228",
+  "last_updated": "2026-07-10T23:04:43.747343",
   "transactions": [
     {
       "date": "2026-07-10",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated SSJeremy Peñafrom the 10-day injured list.",
-      "player": "Jeremy Peña"
-    },
-    {
-      "date": "2026-07-10",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated RHPDan Hammerfor assignment.",
-      "player": "Dan Hammer"
-    },
-    {
-      "date": "2026-07-10",
-      "team": "Houston Astros",
-      "details": "Houston Astrosdesignated SSBraden Shewmakefor assignment.",
-      "player": "Braden Shewmake"
-    },
-    {
-      "date": "2026-07-10",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssigned free agent RHPBryse Wilson.",
-      "player": "Bryse Wilson"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated CRyan Jeffersfrom the 10-day injured list.",
+      "player": "Ryan Jeffers"
     },
     {
       "date": "2026-07-10",
@@ -33,15 +15,81 @@
     },
     {
       "date": "2026-07-10",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated 1BMunetaka Murakamifrom the 10-day injured list.",
+      "player": "Munetaka Murakami"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced RFVictor Bericotoon the 10-day injured list. Left oblique strain.",
+      "player": "Victor Bericoto"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "New York Mets",
+      "details": "New York Metsplaced 1BMark Vientoson the 10-day injured list. Right hand fracture.",
+      "player": "Mark Vientos"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPRob Zastryznyon a rehab assignment to Nashville Sounds.",
+      "player": "Rob Zastryzny"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced 2BMatt McLainon the 10-day injured list retroactive to July 8, 2026. Left calf strain.",
+      "player": "Matt McLain"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPDan Hammerfor assignment.",
+      "player": "Dan Hammer"
+    },
+    {
+      "date": "2026-07-10",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalssigned free agent RHPVince Velasquezto a minor league contract.",
       "player": "Vince Velasquez"
     },
     {
       "date": "2026-07-10",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPMick Abelon the 60-day injured list. Right elbow inflammation.",
+      "player": "Mick Abel"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated SSJeremy Peñafrom the 10-day injured list.",
+      "player": "Jeremy Peña"
+    },
+    {
+      "date": "2026-07-10",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersdesignated RHPEaston McGeefor assignment.",
       "player": "Easton McGee"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated RHPKeaton Winnfrom the 15-day injured list.",
+      "player": "Keaton Winn"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RHPBraydon Fisherfrom the bereavement list.",
+      "player": "Braydon Fisher"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated SSBraden Shewmakefor assignment.",
+      "player": "Braden Shewmake"
     },
     {
       "date": "2026-07-10",
@@ -75,39 +123,15 @@
     },
     {
       "date": "2026-07-10",
-      "team": "Houston Astros",
-      "details": "Houston Astrossent RHPKai-Wei Tengon a rehab assignment to FCL Astros.",
-      "player": "Kai-Wei Teng"
-    },
-    {
-      "date": "2026-07-10",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated CRyan Jeffersfrom the 10-day injured list.",
-      "player": "Ryan Jeffers"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated RHPGrayson Rodriguezfrom the 15-day injured list.",
+      "player": "Grayson Rodriguez"
     },
     {
       "date": "2026-07-10",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent LHPRob Zastryznyon a rehab assignment to Nashville Sounds.",
-      "player": "Rob Zastryzny"
-    },
-    {
-      "date": "2026-07-10",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated 1BMunetaka Murakamifrom the 10-day injured list.",
-      "player": "Munetaka Murakami"
-    },
-    {
-      "date": "2026-07-10",
-      "team": "New York Mets",
-      "details": "New York Metsplaced 1BMark Vientoson the 10-day injured list. Right hand fracture.",
-      "player": "Mark Vientos"
-    },
-    {
-      "date": "2026-07-10",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced 2BMatt McLainon the 10-day injured list retroactive to July 8, 2026. Left calf strain.",
-      "player": "Matt McLain"
+      "details": "Milwaukee Brewerssigned free agent RHPBryse Wilson.",
+      "player": "Bryse Wilson"
     },
     {
       "date": "2026-07-10",
@@ -117,15 +141,93 @@
     },
     {
       "date": "2026-07-10",
-      "team": "Athletics",
-      "details": "Athleticsrecalled 1BJoey Menesesfrom Las Vegas Aviators.",
-      "player": "Joey Meneses"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPKai-Wei Tengon a rehab assignment to FCL Astros.",
+      "player": "Kai-Wei Teng"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of SSZack Shortfrom Syracuse Mets.",
+      "player": "Zack Short"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled CFGrant McCrayfrom Sacramento River Cats.",
+      "player": "Grant McCray"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystraded RHPTommy NancetoMinnesota Twinsfor C Ryan Sprock and Future Considerations.",
+      "player": "Tommy Nance"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystraded RHP Tommy Nance toMinnesota Twinsfor CRyan Sprockand Future Considerations.",
+      "player": "Ryan Sprock"
     },
     {
       "date": "2026-07-10",
       "team": "Washington Nationals",
       "details": "Washington Nationalsselected the contract of LHPTom Cosgrovefrom Rochester Red Wings.",
       "player": "Tom Cosgrove"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned LHPCarson Whisenhuntto Sacramento River Cats.",
+      "player": "Carson Whisenhunt"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned LHPTayler Saucedoto Salt Lake Bees.",
+      "player": "Tayler Saucedo"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPEli Morganfrom Omaha Storm Chasers.",
+      "player": "Eli Morgan"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned LFKyler Fedkoto St. Paul Saints.",
+      "player": "Kyler Fedko"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPCam Sandersto Indianapolis Indians.",
+      "player": "Cam Sanders"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPThomas Harringtonfrom Indianapolis Indians.",
+      "player": "Thomas Harrington"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPHurston Waldrepto Gwinnett Stripers.",
+      "player": "Hurston Waldrep"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPAntwone Kellyfrom Indianapolis Indians.",
+      "player": "Antwone Kelly"
+    },
+    {
+      "date": "2026-07-10",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent LHPJared Shusteroutright to Memphis Redbirds.",
+      "player": "Jared Shuster"
     },
     {
       "date": "2026-07-10",
@@ -136,38 +238,14 @@
     {
       "date": "2026-07-10",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPThomas Harringtonfrom Indianapolis Indians.",
-      "player": "Thomas Harrington"
+      "details": "Pittsburgh Piratesoptioned RHPHunter Strattonto Indianapolis Indians.",
+      "player": "Hunter Stratton"
     },
     {
       "date": "2026-07-10",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsoptioned CFKameron Misnerto Omaha Storm Chasers.",
       "player": "Kameron Misner"
-    },
-    {
-      "date": "2026-07-10",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned LHPDrew Romto Nashville Sounds.",
-      "player": "Drew Rom"
-    },
-    {
-      "date": "2026-07-10",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPEli Morganfrom Omaha Storm Chasers.",
-      "player": "Eli Morgan"
-    },
-    {
-      "date": "2026-07-10",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPHurston Waldrepto Gwinnett Stripers.",
-      "player": "Hurston Waldrep"
-    },
-    {
-      "date": "2026-07-10",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of SSZack Shortfrom Syracuse Mets.",
-      "player": "Zack Short"
     },
     {
       "date": "2026-07-10",
@@ -189,27 +267,15 @@
     },
     {
       "date": "2026-07-10",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPAntwone Kellyfrom Indianapolis Indians.",
-      "player": "Antwone Kelly"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LHPDrew Romto Nashville Sounds.",
+      "player": "Drew Rom"
     },
     {
       "date": "2026-07-10",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPHunter Strattonto Indianapolis Indians.",
-      "player": "Hunter Stratton"
-    },
-    {
-      "date": "2026-07-10",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned LFKyler Fedkoto St. Paul Saints.",
-      "player": "Kyler Fedko"
-    },
-    {
-      "date": "2026-07-10",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPCam Sandersto Indianapolis Indians.",
-      "player": "Cam Sanders"
+      "team": "Athletics",
+      "details": "Athleticsrecalled 1BJoey Menesesfrom Las Vegas Aviators.",
+      "player": "Joey Meneses"
     }
   ]
 }
