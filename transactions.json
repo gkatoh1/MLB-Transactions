@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-07-09T22:37:11.360882",
+  "last_updated": "2026-07-10T00:11:58.722668",
   "transactions": [
+    {
+      "date": "2026-07-09",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RFJosé Azócarfor assignment.",
+      "player": "José Azócar"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPBailey Oberfrom the 15-day injured list.",
+      "player": "Bailey Ober"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RHPTrevor Richardson the bereavement list.",
+      "player": "Trevor Richards"
+    },
     {
       "date": "2026-07-09",
       "team": "Cleveland Guardians",
@@ -21,87 +39,15 @@
     },
     {
       "date": "2026-07-09",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced LHPRanger Suarezon the 15-day injured list retroactive to July 6, 2026. Left groin strain.",
-      "player": "Ranger Suarez"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsactivated RHPJanson Junkfrom the 15-day injured list.",
-      "player": "Janson Junk"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesplaced LHPTanner Bankson the 15-day injured list. Left forearm strain.",
-      "player": "Tanner Banks"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersdesignated DHJahmai Jonesfor assignment.",
-      "player": "Jahmai Jones"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Unknown Team",
-      "details": "1BWillson Contrerassuspended.",
-      "player": "Willson Contreras"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated RFJosé Azócarfor assignment.",
-      "player": "José Azócar"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsplaced RFOwen Caissieon the 10-day injured list. Right calf strain.",
-      "player": "Owen Caissie"
-    },
-    {
-      "date": "2026-07-09",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravessigned free agent RHPCarlos Carrascoto a minor league contract.",
       "player": "Carlos Carrasco"
     },
     {
       "date": "2026-07-09",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated OFNate Eaton.",
-      "player": "Nate Eaton"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsplaced RHPBrad Lordon the 15-day injured list retroactive to July 6, 2026. Left side tightness.",
-      "player": "Brad Lord"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "New York Mets",
-      "details": "New York Metsreleased RHPAlex Carrillo.",
-      "player": "Alex Carrillo"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssent CDaniel Susacon a rehab assignment to Sacramento River Cats.",
-      "player": "Daniel Susac"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced LHPConnor Prielippon the 15-day injured list. Left middle finger blister.",
-      "player": "Connor Prielipp"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated LFWyatt Langfordfrom the 10-day injured list.",
-      "player": "Wyatt Langford"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessigned free agent RHPJohn Brebbiato a minor league contract.",
+      "player": "John Brebbia"
     },
     {
       "date": "2026-07-09",
@@ -111,9 +57,81 @@
     },
     {
       "date": "2026-07-09",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced RFOwen Caissieon the 10-day injured list. Right calf strain.",
+      "player": "Owen Caissie"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent CDaniel Susacon a rehab assignment to Sacramento River Cats.",
+      "player": "Daniel Susac"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "New York Mets",
+      "details": "New York Metsreleased RHPAlex Carrillo.",
+      "player": "Alex Carrillo"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced LHPTanner Bankson the 15-day injured list. Left forearm strain.",
+      "player": "Tanner Banks"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced LHPRanger Suarezon the 15-day injured list retroactive to July 6, 2026. Left groin strain.",
+      "player": "Ranger Suarez"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated OFNate Eaton.",
+      "player": "Nate Eaton"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated RHPJanson Junkfrom the 15-day injured list.",
+      "player": "Janson Junk"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced RHPBrad Lordon the 15-day injured list retroactive to July 6, 2026. Left side tightness.",
+      "player": "Brad Lord"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated LFWyatt Langfordfrom the 10-day injured list.",
+      "player": "Wyatt Langford"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated DHJahmai Jonesfor assignment.",
+      "player": "Jahmai Jones"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced LHPConnor Prielippon the 15-day injured list. Left middle finger blister.",
+      "player": "Connor Prielipp"
+    },
+    {
+      "date": "2026-07-09",
       "team": "New York Mets",
       "details": "New York Metsdesignated CFJared Olivafor assignment.",
       "player": "Jared Oliva"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Unknown Team",
+      "details": "1BWillson Contrerassuspended.",
+      "player": "Willson Contreras"
     },
     {
       "date": "2026-07-09",
@@ -123,27 +141,15 @@
     },
     {
       "date": "2026-07-09",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPBailey Oberfrom the 15-day injured list.",
-      "player": "Bailey Ober"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced RHPTrevor Richardson the bereavement list.",
-      "player": "Trevor Richards"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled CFPetey Halpinfrom Columbus Clippers.",
+      "player": "Petey Halpin"
     },
     {
       "date": "2026-07-09",
       "team": "New York Mets",
       "details": "New York Metssent RHPGuillo Zuñigaoutright to Syracuse Mets.",
       "player": "Guillo Zuñiga"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled CEduardo Valenciafrom Toledo Mud Hens.",
-      "player": "Eduardo Valencia"
     },
     {
       "date": "2026-07-09",
@@ -159,6 +165,18 @@
     },
     {
       "date": "2026-07-09",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled LHPKendry Rojasfrom St. Paul Saints.",
+      "player": "Kendry Rojas"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent CJair Camargooutright to Gwinnett Stripers.",
+      "player": "Jair Camargo"
+    },
+    {
+      "date": "2026-07-09",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxrecalled RHPTyler Davisfrom Charlotte Knights.",
       "player": "Tyler Davis"
@@ -171,9 +189,27 @@
     },
     {
       "date": "2026-07-09",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled LHPKendry Rojasfrom St. Paul Saints.",
-      "player": "Kendry Rojas"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled LHPPhilip Abnerfrom Reno Aces.",
+      "player": "Philip Abner"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned 2BJosh Smithto Round Rock Express.",
+      "player": "Josh Smith"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled 3BBrett Harrisfrom Worcester Red Sox.",
+      "player": "Brett Harris"
+    },
+    {
+      "date": "2026-07-09",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPRyan Walkerto Sacramento River Cats.",
+      "player": "Ryan Walker"
     },
     {
       "date": "2026-07-09",
@@ -189,33 +225,15 @@
     },
     {
       "date": "2026-07-09",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled LHPPhilip Abnerfrom Reno Aces.",
-      "player": "Philip Abner"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPChase Shugartfrom Lehigh Valley IronPigs.",
+      "player": "Chase Shugart"
     },
     {
       "date": "2026-07-09",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled 3BBrett Harrisfrom Worcester Red Sox.",
-      "player": "Brett Harris"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned 2BJosh Smithto Round Rock Express.",
-      "player": "Josh Smith"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned RHPRyan Walkerto Sacramento River Cats.",
-      "player": "Ryan Walker"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPDan Hammerfrom Syracuse Mets.",
-      "player": "Dan Hammer"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled CEduardo Valenciafrom Toledo Mud Hens.",
+      "player": "Eduardo Valencia"
     },
     {
       "date": "2026-07-09",
@@ -225,9 +243,9 @@
     },
     {
       "date": "2026-07-09",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPGarrett Stallingsto Nashville Sounds.",
-      "player": "Garrett Stallings"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled RFRece Hindsfrom Jacksonville Jumbo Shrimp.",
+      "player": "Rece Hinds"
     },
     {
       "date": "2026-07-09",
@@ -237,27 +255,15 @@
     },
     {
       "date": "2026-07-09",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent CJair Camargooutright to Gwinnett Stripers.",
-      "player": "Jair Camargo"
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPDan Hammerfrom Syracuse Mets.",
+      "player": "Dan Hammer"
     },
     {
       "date": "2026-07-09",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled CFPetey Halpinfrom Columbus Clippers.",
-      "player": "Petey Halpin"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPChase Shugartfrom Lehigh Valley IronPigs.",
-      "player": "Chase Shugart"
-    },
-    {
-      "date": "2026-07-09",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled RFRece Hindsfrom Jacksonville Jumbo Shrimp.",
-      "player": "Rece Hinds"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPGarrett Stallingsto Nashville Sounds.",
+      "player": "Garrett Stallings"
     }
   ]
 }
