@@ -1,11 +1,29 @@
 {
-  "last_updated": "2026-07-11T17:05:15.036332",
+  "last_updated": "2026-07-11T19:15:15.435054",
   "transactions": [
+    {
+      "date": "2026-07-11",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent LHPBraden Scottto a minor league contract.",
+      "player": "Braden Scott"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPTommy Nance.",
+      "player": "Tommy Nance"
+    },
     {
       "date": "2026-07-11",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesdesignated RHPCam Sandersfor assignment.",
       "player": "Cam Sanders"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstransferred LHPAnthony Bandafrom the 15-day injured list to the 60-day injured list. Left lat strain.",
+      "player": "Anthony Banda"
     },
     {
       "date": "2026-07-11",
@@ -27,27 +45,9 @@
     },
     {
       "date": "2026-07-11",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPTommy Nance.",
-      "player": "Tommy Nance"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPEric Orzeto St. Paul Saints.",
-      "player": "Eric Orze"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled LHPRobert Gasserfrom Nashville Sounds.",
-      "player": "Robert Gasser"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Athletics",
-      "details": "Athleticsrecalled CBrian Servenfrom Las Vegas Aviators.",
-      "player": "Brian Serven"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RHPAJ Smith-Shawveron a rehab assignment to Gwinnett Stripers.",
+      "player": "AJ Smith-Shawver"
     },
     {
       "date": "2026-07-11",
@@ -58,20 +58,80 @@
     {
       "date": "2026-07-11",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxtraded LHP Brandon Eisert and 1B Jacob Gonzalez toPittsburgh Piratesfor LHPJaden Woodsand Future Considerations.",
-      "player": "Jaden Woods"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Chicago White Sox",
       "details": "Chicago White Soxrecalled LHPTyler Schweitzerfrom Charlotte Knights.",
       "player": "Tyler Schweitzer"
     },
     {
       "date": "2026-07-11",
       "team": "Chicago White Sox",
+      "details": "Chicago White Soxtraded LHP Brandon Eisert and 1B Jacob Gonzalez toPittsburgh Piratesfor LHPJaden Woodsand Future Considerations.",
+      "player": "Jaden Woods"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Chicago White Sox",
       "details": "Chicago White Soxtraded LHPBrandon Eisertand 1B Jacob Gonzalez toPittsburgh Piratesfor LHP Jaden Woods and Future Considerations.",
       "player": "Brandon Eisert"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent RHPJean Cabreraoutright to Reading Fightin Phils.",
+      "player": "Jean Cabrera"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled LHPEduardo Riverafrom Worcester Red Sox.",
+      "player": "Eduardo Rivera"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned 3BBrett Harristo Worcester Red Sox.",
+      "player": "Brett Harris"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPJeff Criswellfrom Albuquerque Isotopes.",
+      "player": "Jeff Criswell"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPEric Orzeto St. Paul Saints.",
+      "player": "Eric Orze"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Athletics",
+      "details": "Athleticsrecalled CBrian Servenfrom Las Vegas Aviators.",
+      "player": "Brian Serven"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled LHPRobert Gasserfrom Nashville Sounds.",
+      "player": "Robert Gasser"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPTJ Shookto Albuquerque Isotopes.",
+      "player": "TJ Shook"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPMatt Seelingeroutright to Syracuse Mets.",
+      "player": "Matt Seelinger"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsclaimed RHPJack Andersonoff waivers fromBoston Red Sox.",
+      "player": "Jack Anderson"
     }
   ]
 }
