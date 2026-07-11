@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-07-11T08:52:49.655740",
+  "last_updated": "2026-07-11T10:20:35.271507",
   "transactions": [
+    {
+      "date": "2026-07-11",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxtraded LHP Brandon Eisert and 1B Jacob Gonzalez toPittsburgh Piratesfor LHPJaden Woodsand Future Considerations.",
+      "player": "Jaden Woods"
+    },
     {
       "date": "2026-07-11",
       "team": "Chicago White Sox",
@@ -12,12 +18,6 @@
       "team": "Chicago White Sox",
       "details": "Chicago White Soxtraded LHP Brandon Eisert and 1BJacob GonzaleztoPittsburgh Piratesfor LHP Jaden Woods and Future Considerations.",
       "player": "Jacob Gonzalez"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxtraded LHP Brandon Eisert and 1B Jacob Gonzalez toPittsburgh Piratesfor LHPJaden Woodsand Future Considerations.",
-      "player": "Jaden Woods"
     }
   ]
 }
