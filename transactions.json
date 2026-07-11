@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T15:01:59.810163",
+  "last_updated": "2026-07-11T17:05:15.036332",
   "transactions": [
     {
       "date": "2026-07-11",
@@ -15,12 +15,6 @@
     },
     {
       "date": "2026-07-11",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPTommy Nance.",
-      "player": "Tommy Nance"
-    },
-    {
-      "date": "2026-07-11",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersplaced LHPKyle Harrisonon the 15-day injured list retroactive to July 9, 2026. Left forearm tightness.",
       "player": "Kyle Harrison"
@@ -33,9 +27,15 @@
     },
     {
       "date": "2026-07-11",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPTyler Schweitzerfrom Charlotte Knights.",
-      "player": "Tyler Schweitzer"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPTommy Nance.",
+      "player": "Tommy Nance"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPEric Orzeto St. Paul Saints.",
+      "player": "Eric Orze"
     },
     {
       "date": "2026-07-11",
@@ -45,9 +45,9 @@
     },
     {
       "date": "2026-07-11",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPEric Orzeto St. Paul Saints.",
-      "player": "Eric Orze"
+      "team": "Athletics",
+      "details": "Athleticsrecalled CBrian Servenfrom Las Vegas Aviators.",
+      "player": "Brian Serven"
     },
     {
       "date": "2026-07-11",
@@ -64,14 +64,14 @@
     {
       "date": "2026-07-11",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxtraded LHPBrandon Eisertand 1B Jacob Gonzalez toPittsburgh Piratesfor LHP Jaden Woods and Future Considerations.",
-      "player": "Brandon Eisert"
+      "details": "Chicago White Soxrecalled LHPTyler Schweitzerfrom Charlotte Knights.",
+      "player": "Tyler Schweitzer"
     },
     {
       "date": "2026-07-11",
-      "team": "Athletics",
-      "details": "Athleticsrecalled CBrian Servenfrom Las Vegas Aviators.",
-      "player": "Brian Serven"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxtraded LHPBrandon Eisertand 1B Jacob Gonzalez toPittsburgh Piratesfor LHP Jaden Woods and Future Considerations.",
+      "player": "Brandon Eisert"
     }
   ]
 }
