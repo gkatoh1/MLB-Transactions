@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-07-11T13:46:09.743907",
+  "last_updated": "2026-07-11T15:01:59.810163",
   "transactions": [
+    {
+      "date": "2026-07-11",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated RHPCam Sandersfor assignment.",
+      "player": "Cam Sanders"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratestransferred SSKonnor Griffinfrom the 10-day injured list to the 60-day injured list. Left ring finger sagittal back injury.",
+      "player": "Konnor Griffin"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPTommy Nance.",
+      "player": "Tommy Nance"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced LHPKyle Harrisonon the 15-day injured list retroactive to July 9, 2026. Left forearm tightness.",
+      "player": "Kyle Harrison"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Athletics",
+      "details": "Athleticsplaced 1BNick Kurtzon the 10-day injured list retroactive to July 10, 2026. Right thumb capsule sprain.",
+      "player": "Nick Kurtz"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPTyler Schweitzerfrom Charlotte Knights.",
+      "player": "Tyler Schweitzer"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled LHPRobert Gasserfrom Nashville Sounds.",
+      "player": "Robert Gasser"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPEric Orzeto St. Paul Saints.",
+      "player": "Eric Orze"
+    },
     {
       "date": "2026-07-11",
       "team": "Chicago White Sox",
@@ -18,6 +66,12 @@
       "team": "Chicago White Sox",
       "details": "Chicago White Soxtraded LHPBrandon Eisertand 1B Jacob Gonzalez toPittsburgh Piratesfor LHP Jaden Woods and Future Considerations.",
       "player": "Brandon Eisert"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Athletics",
+      "details": "Athleticsrecalled CBrian Servenfrom Las Vegas Aviators.",
+      "player": "Brian Serven"
     }
   ]
 }
