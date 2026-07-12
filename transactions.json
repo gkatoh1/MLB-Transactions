@@ -1,47 +1,11 @@
 {
-  "last_updated": "2026-07-11T22:00:33.409584",
+  "last_updated": "2026-07-12T00:01:54.583873",
   "transactions": [
     {
       "date": "2026-07-11",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresactivated RHPMatt Waldronfrom the 15-day injured list.",
-      "player": "Matt Waldron"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent RHPAJ Smith-Shawveron a rehab assignment to Gwinnett Stripers.",
-      "player": "AJ Smith-Shawver"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned free agent LHPBraden Scottto a minor league contract.",
-      "player": "Braden Scott"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesplaced LFMike Yastrzemskion the 10-day injured list. Left elbow inflammation.",
-      "player": "Mike Yastrzemski"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPPhil Matonfrom the 15-day injured list.",
-      "player": "Phil Maton"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsdesignated RHPJake Woodfordfor assignment.",
-      "player": "Jake Woodford"
-    },
-    {
-      "date": "2026-07-11",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratestransferred SSKonnor Griffinfrom the 10-day injured list to the 60-day injured list. Left ring finger sagittal back injury.",
-      "player": "Konnor Griffin"
+      "details": "Pittsburgh Piratessent RHPWilber Dotelon a rehab assignment to Indianapolis Indians.",
+      "player": "Wilber Dotel"
     },
     {
       "date": "2026-07-11",
@@ -63,9 +27,81 @@
     },
     {
       "date": "2026-07-11",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RHPAJ Smith-Shawveron a rehab assignment to Gwinnett Stripers.",
+      "player": "AJ Smith-Shawver"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPGarrett Actonon a rehab assignment to Fort Myers Mighty Mussels.",
+      "player": "Garrett Acton"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent LHPBraden Scottto a minor league contract.",
+      "player": "Braden Scott"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPTommy Nance.",
+      "player": "Tommy Nance"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPPhil Matonfrom the 15-day injured list.",
+      "player": "Phil Maton"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced LFMike Yastrzemskion the 10-day injured list. Left elbow inflammation.",
+      "player": "Mike Yastrzemski"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPJameson Taillonon a rehab assignment to Iowa Cubs.",
+      "player": "Jameson Taillon"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "New York Mets",
+      "details": "New York Metsreleased CFJared Oliva.",
+      "player": "Jared Oliva"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPYaramil Hiraldofrom the 60-day injured list.",
+      "player": "Yaramil Hiraldo"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated RHPMatt Waldronfrom the 15-day injured list.",
+      "player": "Matt Waldron"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated RHPJake Woodfordfor assignment.",
+      "player": "Jake Woodford"
+    },
+    {
+      "date": "2026-07-11",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesdesignated RHPCam Sandersfor assignment.",
       "player": "Cam Sanders"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RHPEdwin Díazon a rehab assignment to Ontario Tower Buzzers.",
+      "player": "Edwin Díaz"
     },
     {
       "date": "2026-07-11",
@@ -76,14 +112,8 @@
     {
       "date": "2026-07-11",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent RHPWilber Dotelon a rehab assignment to Indianapolis Indians.",
-      "player": "Wilber Dotel"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent RHPGarrett Actonon a rehab assignment to Fort Myers Mighty Mussels.",
-      "player": "Garrett Acton"
+      "details": "Pittsburgh Piratestransferred SSKonnor Griffinfrom the 10-day injured list to the 60-day injured list. Left ring finger sagittal back injury.",
+      "player": "Konnor Griffin"
     },
     {
       "date": "2026-07-11",
@@ -93,15 +123,9 @@
     },
     {
       "date": "2026-07-11",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPTommy Nance.",
-      "player": "Tommy Nance"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RHPYaramil Hiraldofrom the 60-day injured list.",
-      "player": "Yaramil Hiraldo"
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPHayden Wesneskion a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Hayden Wesneski"
     },
     {
       "date": "2026-07-11",
@@ -112,20 +136,122 @@
     {
       "date": "2026-07-11",
       "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned RHPAndre Granilloto Toledo Mud Hens.",
+      "details": "Detroit Tigersclaimed RHPAndre Granillooff waivers fromWashington Nationals.",
       "player": "Andre Granillo"
     },
     {
       "date": "2026-07-11",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxtraded LHP Brandon Eisert and 1BJacob GonzaleztoPittsburgh Piratesfor LHP Jaden Woods and Future Considerations.",
-      "player": "Jacob Gonzalez"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPJeff Criswellfrom Albuquerque Isotopes.",
+      "player": "Jeff Criswell"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPNoah Murdockfrom Indianapolis Indians.",
+      "player": "Noah Murdock"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned 3BBrett Harristo Worcester Red Sox.",
+      "player": "Brett Harris"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPJhony Britoto El Paso Chihuahuas.",
+      "player": "Jhony Brito"
     },
     {
       "date": "2026-07-11",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned RHPYaramil Hiraldoto Norfolk Tides.",
       "player": "Yaramil Hiraldo"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent RHPJean Cabreraoutright to Reading Fightin Phils.",
+      "player": "Jean Cabrera"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsclaimed RHPJack Andersonoff waivers fromBoston Red Sox.",
+      "player": "Jack Anderson"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled LHPEduardo Riverafrom Worcester Red Sox.",
+      "player": "Eduardo Rivera"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RFJosé Azócaroutright to Gwinnett Stripers.",
+      "player": "José Azócar"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPJames Karinchakto Gwinnett Stripers.",
+      "player": "James Karinchak"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled LHPRobert Gasserfrom Nashville Sounds.",
+      "player": "Robert Gasser"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned SSJack Branniganto Indianapolis Indians.",
+      "player": "Jack Brannigan"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesobtain LHPBraden Scottfrom York Revolution.",
+      "player": "Braden Scott"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled CFBrewer Hicklenfrom Gwinnett Stripers.",
+      "player": "Brewer Hicklen"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPThomas Harringtonto Indianapolis Indians.",
+      "player": "Thomas Harrington"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Athletics",
+      "details": "Athleticsrecalled CBrian Servenfrom Las Vegas Aviators.",
+      "player": "Brian Serven"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPOwen Murphyfrom Gwinnett Stripers.",
+      "player": "Owen Murphy"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPEric Orzeto St. Paul Saints.",
+      "player": "Eric Orze"
+    },
+    {
+      "date": "2026-07-11",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxtraded LHP Brandon Eisert and 1BJacob GonzaleztoPittsburgh Piratesfor LHP Jaden Woods and Future Considerations.",
+      "player": "Jacob Gonzalez"
     },
     {
       "date": "2026-07-11",
@@ -141,24 +267,6 @@
     },
     {
       "date": "2026-07-11",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessent RHPJean Cabreraoutright to Reading Fightin Phils.",
-      "player": "Jean Cabrera"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Athletics",
-      "details": "Athleticsrecalled CBrian Servenfrom Las Vegas Aviators.",
-      "player": "Brian Serven"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned RHPTJ Shookto Albuquerque Isotopes.",
-      "player": "TJ Shook"
-    },
-    {
-      "date": "2026-07-11",
       "team": "New York Mets",
       "details": "New York Metssent RHPMatt Seelingeroutright to Syracuse Mets.",
       "player": "Matt Seelinger"
@@ -166,32 +274,8 @@
     {
       "date": "2026-07-11",
       "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled RHPJeff Criswellfrom Albuquerque Isotopes.",
-      "player": "Jeff Criswell"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPJames Karinchakto Gwinnett Stripers.",
-      "player": "James Karinchak"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsclaimed RHPJack Andersonoff waivers fromBoston Red Sox.",
-      "player": "Jack Anderson"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned 3BBrett Harristo Worcester Red Sox.",
-      "player": "Brett Harris"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled CFBrewer Hicklenfrom Gwinnett Stripers.",
-      "player": "Brewer Hicklen"
+      "details": "Colorado Rockiesoptioned RHPTJ Shookto Albuquerque Isotopes.",
+      "player": "TJ Shook"
     },
     {
       "date": "2026-07-11",
@@ -202,74 +286,14 @@
     {
       "date": "2026-07-11",
       "team": "Detroit Tigers",
-      "details": "Detroit Tigersclaimed RHPAndre Granillooff waivers fromWashington Nationals.",
+      "details": "Detroit Tigersoptioned RHPAndre Granilloto Toledo Mud Hens.",
       "player": "Andre Granillo"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesobtain LHPBraden Scottfrom York Revolution.",
-      "player": "Braden Scott"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled LHPRobert Gasserfrom Nashville Sounds.",
-      "player": "Robert Gasser"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPThomas Harringtonto Indianapolis Indians.",
-      "player": "Thomas Harrington"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned SSJack Branniganto Indianapolis Indians.",
-      "player": "Jack Brannigan"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled LHPEduardo Riverafrom Worcester Red Sox.",
-      "player": "Eduardo Rivera"
     },
     {
       "date": "2026-07-11",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersoptioned RHPKyle Hurtto Oklahoma City Comets.",
       "player": "Kyle Hurt"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPEric Orzeto St. Paul Saints.",
-      "player": "Eric Orze"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent RFJosé Azócaroutright to Gwinnett Stripers.",
-      "player": "José Azócar"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPOwen Murphyfrom Gwinnett Stripers.",
-      "player": "Owen Murphy"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPNoah Murdockfrom Indianapolis Indians.",
-      "player": "Noah Murdock"
-    },
-    {
-      "date": "2026-07-11",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned RHPJhony Britoto El Paso Chihuahuas.",
-      "player": "Jhony Brito"
     }
   ]
 }
