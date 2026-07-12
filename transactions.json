@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-07-12T20:59:42.634645",
+  "last_updated": "2026-07-12T22:02:35.661669",
   "transactions": [
+    {
+      "date": "2026-07-12",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced RHPWilliam Kempneron the 15-day injured list. Right elbow sprain.",
+      "player": "William Kempner"
+    },
     {
       "date": "2026-07-12",
       "team": "Milwaukee Brewers",
@@ -9,27 +15,9 @@
     },
     {
       "date": "2026-07-12",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersplaced RHPChris Martinon the 15-day injured list. Right shoulder impingement.",
-      "player": "Chris Martin"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsactivated RHPJason Foleyfrom the 60-day injured list.",
-      "player": "Jason Foley"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsdesignated LHPMatt Krookfor assignment.",
-      "player": "Matt Krook"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "New York Mets",
-      "details": "New York Metssent 2BMarcus Semienon a rehab assignment to Binghamton Rumble Ponies.",
-      "player": "Marcus Semien"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated LFGreg Jonesfor assignment.",
+      "player": "Greg Jones"
     },
     {
       "date": "2026-07-12",
@@ -45,21 +33,57 @@
     },
     {
       "date": "2026-07-12",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsplaced RHPWilliam Kempneron the 15-day injured list. Right elbow sprain.",
-      "player": "William Kempner"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RHPColeman Crowfrom the 15-day injured list.",
+      "player": "Coleman Crow"
     },
     {
       "date": "2026-07-12",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersdesignated LFGreg Jonesfor assignment.",
-      "player": "Greg Jones"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced RHPZac Gallenon the 15-day injured list retroactive to July 9, 2026. Right elbow inflammation.",
+      "player": "Zac Gallen"
     },
     {
       "date": "2026-07-12",
       "team": "Washington Nationals",
       "details": "Washington Nationalsactivated RHPCade Cavalli.",
       "player": "Cade Cavalli"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "Unknown Team",
+      "details": "RHPMiles Mikolassuspended.",
+      "player": "Miles Mikolas"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced LHPFramber Valdezon the bereavement list.",
+      "player": "Framber Valdez"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated RHPJason Foleyfrom the 60-day injured list.",
+      "player": "Jason Foley"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPChris Martinon the 15-day injured list. Right shoulder impingement.",
+      "player": "Chris Martin"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsdesignated LHPMatt Krookfor assignment.",
+      "player": "Matt Krook"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "New York Mets",
+      "details": "New York Metssent 2BMarcus Semienon a rehab assignment to Binghamton Rumble Ponies.",
+      "player": "Marcus Semien"
     },
     {
       "date": "2026-07-12",
@@ -81,27 +105,57 @@
     },
     {
       "date": "2026-07-12",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated RHPColeman Crowfrom the 15-day injured list.",
-      "player": "Coleman Crow"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPJack Andersonto St. Paul Saints.",
+      "player": "Jack Anderson"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPTobias Myersto Syracuse Mets.",
+      "player": "Tobias Myers"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled LHPZach Thorntonfrom Syracuse Mets.",
+      "player": "Zach Thornton"
     },
     {
       "date": "2026-07-12",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksplaced RHPZac Gallenon the 15-day injured list retroactive to July 9, 2026. Right elbow inflammation.",
-      "player": "Zac Gallen"
+      "details": "Arizona Diamondbacksrecalled LHPMitch Brattfrom Reno Aces.",
+      "player": "Mitch Bratt"
     },
     {
       "date": "2026-07-12",
-      "team": "Unknown Team",
-      "details": "RHPMiles Mikolassuspended.",
-      "player": "Miles Mikolas"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled LHPDax Fultonfrom Jacksonville Jumbo Shrimp.",
+      "player": "Dax Fulton"
     },
     {
       "date": "2026-07-12",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersplaced LHPFramber Valdezon the bereavement list.",
-      "player": "Framber Valdez"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPChad Dallasto Buffalo Bisons.",
+      "player": "Chad Dallas"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "Houston Astros",
+      "details": "Houston Astrostraded SSBraden ShewmaketoMilwaukee Brewers.",
+      "player": "Braden Shewmake"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled 1BAbimelec Ortizfrom Rochester Red Wings.",
+      "player": "Abimelec Ortiz"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned 3BNick Sogardto Worcester Red Sox.",
+      "player": "Nick Sogard"
     },
     {
       "date": "2026-07-12",
@@ -123,69 +177,9 @@
     },
     {
       "date": "2026-07-12",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled LHPDax Fultonfrom Jacksonville Jumbo Shrimp.",
-      "player": "Dax Fulton"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPNoah Murdockto Indianapolis Indians.",
-      "player": "Noah Murdock"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of RHPCJ Van Eykfrom Buffalo Bisons.",
-      "player": "CJ Van Eyk"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPJack Andersonto St. Paul Saints.",
-      "player": "Jack Anderson"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPChad Dallasto Buffalo Bisons.",
-      "player": "Chad Dallas"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPGarrett Stallingsto Nashville Sounds.",
-      "player": "Garrett Stallings"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPTobias Myersto Syracuse Mets.",
-      "player": "Tobias Myers"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled LHPZach Thorntonfrom Syracuse Mets.",
-      "player": "Zach Thornton"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled 1BAbimelec Ortizfrom Rochester Red Wings.",
-      "player": "Abimelec Ortiz"
-    },
-    {
-      "date": "2026-07-12",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersoptioned RHPColeman Crowto Nashville Sounds.",
       "player": "Coleman Crow"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned 3BNick Sogardto Worcester Red Sox.",
-      "player": "Nick Sogard"
     },
     {
       "date": "2026-07-12",
@@ -195,15 +189,21 @@
     },
     {
       "date": "2026-07-12",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled LHPMitch Brattfrom Reno Aces.",
-      "player": "Mitch Bratt"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of RHPCJ Van Eykfrom Buffalo Bisons.",
+      "player": "CJ Van Eyk"
     },
     {
       "date": "2026-07-12",
-      "team": "Houston Astros",
-      "details": "Houston Astrostraded SSBraden ShewmaketoMilwaukee Brewers.",
-      "player": "Braden Shewmake"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPNoah Murdockto Indianapolis Indians.",
+      "player": "Noah Murdock"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPGarrett Stallingsto Nashville Sounds.",
+      "player": "Garrett Stallings"
     }
   ]
 }
