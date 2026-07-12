@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-12T17:08:14.176336",
+  "last_updated": "2026-07-12T19:15:24.882430",
   "transactions": [
+    {
+      "date": "2026-07-12",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPChris Martinon the 15-day injured list. Right shoulder impingement.",
+      "player": "Chris Martin"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsdesignated LHPMatt Krookfor assignment.",
+      "player": "Matt Krook"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated RHPCade Cavalli.",
+      "player": "Cade Cavalli"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced RHPWilliam Kempneron the 15-day injured list. Right elbow sprain.",
+      "player": "William Kempner"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "Unknown Team",
+      "details": "RHPMiles Mikolassuspended.",
+      "player": "Miles Mikolas"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced LHPFramber Valdezon the bereavement list.",
+      "player": "Framber Valdez"
+    },
     {
       "date": "2026-07-12",
       "team": "New York Mets",
@@ -15,45 +51,27 @@
     },
     {
       "date": "2026-07-12",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced LHPNick Lodoloon the 15-day injured list. Blister left index finger.",
+      "player": "Nick Lodolo"
+    },
+    {
+      "date": "2026-07-12",
       "team": "Texas Rangers",
       "details": "Texas Rangerssent LHPCody Bradfordon a rehab assignment to Frisco RoughRiders.",
       "player": "Cody Bradford"
     },
     {
       "date": "2026-07-12",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated RHPColeman Crowfrom the 15-day injured list.",
-      "player": "Coleman Crow"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsplaced RHPWilliam Kempneron the 15-day injured list. Right elbow sprain.",
-      "player": "William Kempner"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsdesignated LHPMatt Krookfor assignment.",
-      "player": "Matt Krook"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated RHPJason Foleyfrom the 60-day injured list.",
+      "player": "Jason Foley"
     },
     {
       "date": "2026-07-12",
       "team": "New York Mets",
       "details": "New York Metssent 2BMarcus Semienon a rehab assignment to Binghamton Rumble Ponies.",
       "player": "Marcus Semien"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerstransferred RHPBrandon Woodrufffrom the 15-day injured list to the 60-day injured list. Right shoulder inflammation.",
-      "player": "Brandon Woodruff"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated RHPCade Cavalli.",
-      "player": "Cade Cavalli"
     },
     {
       "date": "2026-07-12",
@@ -69,33 +87,33 @@
     },
     {
       "date": "2026-07-12",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerstransferred RHPBrandon Woodrufffrom the 15-day injured list to the 60-day injured list. Right shoulder inflammation.",
+      "player": "Brandon Woodruff"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RHPColeman Crowfrom the 15-day injured list.",
+      "player": "Coleman Crow"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced RHPZac Gallenon the 15-day injured list retroactive to July 9, 2026. Right elbow inflammation.",
+      "player": "Zac Gallen"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "Houston Astros",
+      "details": "Houston Astrostraded SSBraden ShewmaketoMilwaukee Brewers.",
+      "player": "Braden Shewmake"
+    },
+    {
+      "date": "2026-07-12",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced LHPNick Lodoloon the 15-day injured list. Blister left index finger.",
-      "player": "Nick Lodolo"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "Unknown Team",
-      "details": "RHPMiles Mikolassuspended.",
-      "player": "Miles Mikolas"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsactivated RHPJason Foleyfrom the 60-day injured list.",
-      "player": "Jason Foley"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPJack Andersonto St. Paul Saints.",
-      "player": "Jack Anderson"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPTobias Myersto Syracuse Mets.",
-      "player": "Tobias Myers"
+      "details": "Cincinnati Redsrecalled RHPChase Pettyfrom Louisville Bats.",
+      "player": "Chase Petty"
     },
     {
       "date": "2026-07-12",
@@ -105,21 +123,21 @@
     },
     {
       "date": "2026-07-12",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPBrayan Bellofrom Worcester Red Sox.",
-      "player": "Brayan Bello"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPSpencer Bivensto Sacramento River Cats.",
+      "player": "Spencer Bivens"
     },
     {
       "date": "2026-07-12",
       "team": "New York Mets",
-      "details": "New York Metsrecalled LHPZach Thorntonfrom Syracuse Mets.",
-      "player": "Zach Thornton"
+      "details": "New York Metsoptioned RHPTobias Myersto Syracuse Mets.",
+      "player": "Tobias Myers"
     },
     {
       "date": "2026-07-12",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPNoah Murdockto Indianapolis Indians.",
-      "player": "Noah Murdock"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled LHPMitch Brattfrom Reno Aces.",
+      "player": "Mitch Bratt"
     },
     {
       "date": "2026-07-12",
@@ -129,15 +147,33 @@
     },
     {
       "date": "2026-07-12",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPBrayan Bellofrom Worcester Red Sox.",
+      "player": "Brayan Bello"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPJack Andersonto St. Paul Saints.",
+      "player": "Jack Anderson"
+    },
+    {
+      "date": "2026-07-12",
       "team": "Miami Marlins",
       "details": "Miami Marlinsrecalled LHPDax Fultonfrom Jacksonville Jumbo Shrimp.",
       "player": "Dax Fulton"
     },
     {
       "date": "2026-07-12",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned RHPSpencer Bivensto Sacramento River Cats.",
-      "player": "Spencer Bivens"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPEmiliano Teodofrom Round Rock Express.",
+      "player": "Emiliano Teodo"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled LHPZach Thorntonfrom Syracuse Mets.",
+      "player": "Zach Thornton"
     },
     {
       "date": "2026-07-12",
@@ -153,15 +189,9 @@
     },
     {
       "date": "2026-07-12",
-      "team": "Houston Astros",
-      "details": "Houston Astrostraded SSBraden ShewmaketoMilwaukee Brewers.",
-      "player": "Braden Shewmake"
-    },
-    {
-      "date": "2026-07-12",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPChase Pettyfrom Louisville Bats.",
-      "player": "Chase Petty"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPNoah Murdockto Indianapolis Indians.",
+      "player": "Noah Murdock"
     }
   ]
 }
