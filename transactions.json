@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-07-12T11:19:12.840457",
+  "last_updated": "2026-07-12T13:43:48.983493",
   "transactions": [
     {
       "date": "2026-07-12",
-      "team": "Washington Nationals",
-      "details": "RHPMiles Mikolasroster status changed byWashington Nationals.",
+      "team": "Unknown Team",
+      "details": "RHPMiles Mikolassuspended.",
       "player": "Miles Mikolas"
+    },
+    {
+      "date": "2026-07-12",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPJack Andersonto St. Paul Saints.",
+      "player": "Jack Anderson"
     }
   ]
 }
