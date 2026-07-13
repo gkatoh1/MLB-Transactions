@@ -1,17 +1,23 @@
 {
-  "last_updated": "2026-07-13T04:35:17.565720",
+  "last_updated": "2026-07-13T08:21:34.709211",
   "transactions": [
     {
       "date": "2026-07-13",
-      "team": "Unknown Team",
-      "details": "American League All-Stars activated RHPLouis Varland.",
-      "player": "Louis Varland"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated RHPTrevor Richardsfrom the bereavement list.",
+      "player": "Trevor Richards"
     },
     {
       "date": "2026-07-13",
       "team": "Unknown Team",
       "details": "American League All-Stars activated 1BWillson Contreras.",
       "player": "Willson Contreras"
+    },
+    {
+      "date": "2026-07-13",
+      "team": "Unknown Team",
+      "details": "CFTristan Petersassigned to American League All-Stars.",
+      "player": "Tristan Peters"
     },
     {
       "date": "2026-07-13",
@@ -88,18 +94,6 @@
     {
       "date": "2026-07-13",
       "team": "Unknown Team",
-      "details": "National League All-Stars activated TWPShohei Ohtani.",
-      "player": "Shohei Ohtani"
-    },
-    {
-      "date": "2026-07-13",
-      "team": "Unknown Team",
-      "details": "American League All-Stars activated CFCeddanne Rafaela.",
-      "player": "Ceddanne Rafaela"
-    },
-    {
-      "date": "2026-07-13",
-      "team": "Unknown Team",
       "details": "American League All-Stars activated LHPRanger Suarez.",
       "player": "Ranger Suarez"
     },
@@ -112,26 +106,32 @@
     {
       "date": "2026-07-13",
       "team": "Unknown Team",
+      "details": "American League All-Stars activated 1BMunetaka Murakami.",
+      "player": "Munetaka Murakami"
+    },
+    {
+      "date": "2026-07-13",
+      "team": "Unknown Team",
+      "details": "RHPJustin Verlanderassigned to American League All-Stars.",
+      "player": "Justin Verlander"
+    },
+    {
+      "date": "2026-07-13",
+      "team": "Unknown Team",
       "details": "National League All-Stars activated LHPJesús Luzardo.",
       "player": "Jesús Luzardo"
     },
     {
       "date": "2026-07-13",
       "team": "Unknown Team",
+      "details": "LHPJustin Wrobleskiassigned to National League All-Stars.",
+      "player": "Justin Wrobleski"
+    },
+    {
+      "date": "2026-07-13",
+      "team": "Unknown Team",
       "details": "American League All-Stars activated RHPCam Schlittler.",
       "player": "Cam Schlittler"
-    },
-    {
-      "date": "2026-07-13",
-      "team": "Unknown Team",
-      "details": "National League All-Stars activated RHPRiley O'Brien.",
-      "player": "Riley O'Brien"
-    },
-    {
-      "date": "2026-07-13",
-      "team": "Unknown Team",
-      "details": "American League All-Stars activated 3BMiguel Vargas.",
-      "player": "Miguel Vargas"
     },
     {
       "date": "2026-07-13",
@@ -172,14 +172,14 @@
     {
       "date": "2026-07-13",
       "team": "Unknown Team",
-      "details": "American League All-Stars activated 1BMunetaka Murakami.",
-      "player": "Munetaka Murakami"
+      "details": "American League All-Stars activated RHPLouis Varland.",
+      "player": "Louis Varland"
     },
     {
       "date": "2026-07-13",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated RHPTrevor Richardsfrom the bereavement list.",
-      "player": "Trevor Richards"
+      "team": "Unknown Team",
+      "details": "2BErnie Clementassigned to American League All-Stars.",
+      "player": "Ernie Clement"
     },
     {
       "date": "2026-07-13",
@@ -202,26 +202,20 @@
     {
       "date": "2026-07-13",
       "team": "Unknown Team",
-      "details": "2BErnie Clementassigned to American League All-Stars.",
-      "player": "Ernie Clement"
+      "details": "National League All-Stars activated TWPShohei Ohtani.",
+      "player": "Shohei Ohtani"
     },
     {
       "date": "2026-07-13",
       "team": "Unknown Team",
-      "details": "RHPJustin Verlanderassigned to American League All-Stars.",
-      "player": "Justin Verlander"
+      "details": "American League All-Stars activated CFCeddanne Rafaela.",
+      "player": "Ceddanne Rafaela"
     },
     {
       "date": "2026-07-13",
       "team": "Unknown Team",
-      "details": "CFTristan Petersassigned to American League All-Stars.",
-      "player": "Tristan Peters"
-    },
-    {
-      "date": "2026-07-13",
-      "team": "Unknown Team",
-      "details": "LHPJustin Wrobleskiassigned to National League All-Stars.",
-      "player": "Justin Wrobleski"
+      "details": "National League All-Stars activated RHPRiley O'Brien.",
+      "player": "Riley O'Brien"
     },
     {
       "date": "2026-07-13",
@@ -300,6 +294,12 @@
       "team": "Unknown Team",
       "details": "National League All-Stars activated 1BFreddie Freeman.",
       "player": "Freddie Freeman"
+    },
+    {
+      "date": "2026-07-13",
+      "team": "Unknown Team",
+      "details": "National League All-Stars activated 1BBryce Harper.",
+      "player": "Bryce Harper"
     }
   ]
 }
