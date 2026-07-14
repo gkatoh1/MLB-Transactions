@@ -1,23 +1,11 @@
 {
-  "last_updated": "2026-07-14T20:17:59.353921",
+  "last_updated": "2026-07-14T22:04:40.264773",
   "transactions": [
     {
       "date": "2026-07-14",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinssent RHPGarrett Actonon a rehab assignment to FCL Twins.",
       "player": "Garrett Acton"
-    },
-    {
-      "date": "2026-07-14",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent RHPCole Sandson a rehab assignment to FCL Twins.",
-      "player": "Cole Sands"
-    },
-    {
-      "date": "2026-07-14",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPMax Kranickon a rehab assignment to FCL Nationals.",
-      "player": "Max Kranick"
     },
     {
       "date": "2026-07-14",
@@ -28,26 +16,26 @@
     {
       "date": "2026-07-14",
       "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPMax Kranickon a rehab assignment to FCL Nationals.",
+      "player": "Max Kranick"
+    },
+    {
+      "date": "2026-07-14",
+      "team": "Washington Nationals",
       "details": "Washington Nationalssent RHPTrevor Williamson a rehab assignment to FCL Nationals.",
       "player": "Trevor Williams"
+    },
+    {
+      "date": "2026-07-14",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPCole Sandson a rehab assignment to FCL Twins.",
+      "player": "Cole Sands"
     },
     {
       "date": "2026-07-14",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgerssent RHPEdwin Díazon a rehab assignment to ACL Dodgers.",
       "player": "Edwin Díaz"
-    },
-    {
-      "date": "2026-07-14",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerstraded RHPEaston McGeetoKansas City Royalsfor cash.",
-      "player": "Easton McGee"
-    },
-    {
-      "date": "2026-07-14",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerstraded OFJahmai JonestoBoston Red Soxfor Player To Be Named Later.",
-      "player": "Jahmai Jones"
     },
     {
       "date": "2026-07-14",
@@ -60,6 +48,18 @@
       "team": "Washington Nationals",
       "details": "Washington Nationalssent LHPMatt Krookoutright to Rochester Red Wings.",
       "player": "Matt Krook"
+    },
+    {
+      "date": "2026-07-14",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerstraded RHPEaston McGeetoKansas City Royalsfor cash.",
+      "player": "Easton McGee"
+    },
+    {
+      "date": "2026-07-14",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerstraded OFJahmai JonestoBoston Red Soxfor Player To Be Named Later.",
+      "player": "Jahmai Jones"
     }
   ]
 }
