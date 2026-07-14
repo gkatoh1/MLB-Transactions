@@ -1,4 +1,29 @@
 {
-  "last_updated": "2026-07-14T14:01:57.580549",
-  "transactions": []
+  "last_updated": "2026-07-14T16:20:28.072996",
+  "transactions": [
+    {
+      "date": "2026-07-14",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPMax Kranickon a rehab assignment to FCL Nationals.",
+      "player": "Max Kranick"
+    },
+    {
+      "date": "2026-07-14",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPTrevor Williamson a rehab assignment to FCL Nationals.",
+      "player": "Trevor Williams"
+    },
+    {
+      "date": "2026-07-14",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPCole Sandson a rehab assignment to FCL Twins.",
+      "player": "Cole Sands"
+    },
+    {
+      "date": "2026-07-14",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPGarrett Actonon a rehab assignment to FCL Twins.",
+      "player": "Garrett Acton"
+    }
+  ]
 }
