@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-14T23:58:20.974593",
+  "last_updated": "2026-07-15T03:23:40.586695",
   "transactions": [
     {
       "date": "2026-07-14",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent RHPGarrett Actonon a rehab assignment to FCL Twins.",
-      "player": "Garrett Acton"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RHPEdwin Díazon a rehab assignment to ACL Dodgers.",
+      "player": "Edwin Díaz"
     },
     {
       "date": "2026-07-14",
@@ -15,9 +15,9 @@
     },
     {
       "date": "2026-07-14",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssent RHPEdwin Díazon a rehab assignment to ACL Dodgers.",
-      "player": "Edwin Díaz"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPTrevor Williamson a rehab assignment to FCL Nationals.",
+      "player": "Trevor Williams"
     },
     {
       "date": "2026-07-14",
@@ -27,21 +27,33 @@
     },
     {
       "date": "2026-07-14",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPGarrett Actonon a rehab assignment to FCL Twins.",
+      "player": "Garrett Acton"
+    },
+    {
+      "date": "2026-07-14",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalstransferred RHPNick Mearsfrom the 15-day injured list to the 60-day injured list. Right shoulder impingement.",
       "player": "Nick Mears"
     },
     {
       "date": "2026-07-14",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPTrevor Williamson a rehab assignment to FCL Nationals.",
-      "player": "Trevor Williams"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned OFNate Eatonto Worcester Red Sox.",
+      "player": "Nate Eaton"
     },
     {
       "date": "2026-07-14",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerstraded RHPEaston McGeetoKansas City Royalsfor cash.",
       "player": "Easton McGee"
+    },
+    {
+      "date": "2026-07-14",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent LHPMatt Krookoutright to Rochester Red Wings.",
+      "player": "Matt Krook"
     },
     {
       "date": "2026-07-14",
@@ -60,18 +72,6 @@
       "team": "New York Mets",
       "details": "New York Metssent RHPDan Hammeroutright to Syracuse Mets.",
       "player": "Dan Hammer"
-    },
-    {
-      "date": "2026-07-14",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned OFNate Eatonto Worcester Red Sox.",
-      "player": "Nate Eaton"
-    },
-    {
-      "date": "2026-07-14",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent LHPMatt Krookoutright to Rochester Red Wings.",
-      "player": "Matt Krook"
     }
   ]
 }
