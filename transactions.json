@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-07-15T21:07:54.765792",
+  "last_updated": "2026-07-15T23:03:25.155121",
   "transactions": [
-    {
-      "date": "2026-07-15",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksplaced LFTommy Troyon the 10-day injured list retroactive to July 12, 2026. Sprained right AC joint.",
-      "player": "Tommy Troy"
-    },
-    {
-      "date": "2026-07-15",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsplaced CDrew Millason the 10-day injured list retroactive to July 12, 2026. Left index finger fracture.",
-      "player": "Drew Millas"
-    },
     {
       "date": "2026-07-15",
       "team": "New York Mets",
@@ -24,6 +12,18 @@
       "team": "New York Mets",
       "details": "New York Metssigned free agent RHPCarson Wigginsto a minor league contract.",
       "player": "Carson Wiggins"
+    },
+    {
+      "date": "2026-07-15",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced LFTommy Troyon the 10-day injured list retroactive to July 12, 2026. Sprained right AC joint.",
+      "player": "Tommy Troy"
+    },
+    {
+      "date": "2026-07-15",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced CDrew Millason the 10-day injured list retroactive to July 12, 2026. Left index finger fracture.",
+      "player": "Drew Millas"
     },
     {
       "date": "2026-07-15",
@@ -45,18 +45,6 @@
     },
     {
       "date": "2026-07-15",
-      "team": "Houston Astros",
-      "details": "Houston Astrostraded RHP Lance McCullers Jr., LHPColton Gordonand cash toMilwaukee Brewersfor OF Jadyn Fielder.",
-      "player": "Colton Gordon"
-    },
-    {
-      "date": "2026-07-15",
-      "team": "Houston Astros",
-      "details": "Houston Astrostraded RHP Lance McCullers Jr., LHP Colton Gordon and cash toMilwaukee Brewersfor OFJadyn Fielder.",
-      "player": "Jadyn Fielder"
-    },
-    {
-      "date": "2026-07-15",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbackssent 1BPavin Smithoutright to Reno Aces.",
       "player": "Pavin Smith"
@@ -66,6 +54,18 @@
       "team": "Houston Astros",
       "details": "Houston Astrostraded RHPLance McCullers Jr., LHP Colton Gordon and cash toMilwaukee Brewersfor OF Jadyn Fielder.",
       "player": "Lance McCullers Jr."
+    },
+    {
+      "date": "2026-07-15",
+      "team": "Houston Astros",
+      "details": "Houston Astrostraded RHP Lance McCullers Jr., LHPColton Gordonand cash toMilwaukee Brewersfor OF Jadyn Fielder.",
+      "player": "Colton Gordon"
+    },
+    {
+      "date": "2026-07-15",
+      "team": "Houston Astros",
+      "details": "Houston Astrostraded RHP Lance McCullers Jr., LHP Colton Gordon and cash toMilwaukee Brewersfor OFJadyn Fielder.",
+      "player": "Jadyn Fielder"
     }
   ]
 }
