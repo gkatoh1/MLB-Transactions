@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-07-15T17:24:18.645715",
+  "last_updated": "2026-07-15T19:22:53.729022",
   "transactions": [
     {
       "date": "2026-07-15",
       "team": "New York Mets",
       "details": "New York Metssigned free agent RHPCarson Wigginsto a minor league contract.",
       "player": "Carson Wiggins"
+    },
+    {
+      "date": "2026-07-15",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated RHPMax Kranickfrom the 60-day injured list.",
+      "player": "Max Kranick"
     },
     {
       "date": "2026-07-15",
@@ -18,12 +24,6 @@
       "team": "Washington Nationals",
       "details": "Washington Nationalsplaced CDrew Millason the 10-day injured list retroactive to July 12, 2026. Left index finger fracture.",
       "player": "Drew Millas"
-    },
-    {
-      "date": "2026-07-15",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated RHPMax Kranickfrom the 60-day injured list.",
-      "player": "Max Kranick"
     }
   ]
 }
