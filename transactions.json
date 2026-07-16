@@ -1,11 +1,41 @@
 {
-  "last_updated": "2026-07-16T18:11:40.675944",
+  "last_updated": "2026-07-16T20:06:14.662178",
   "transactions": [
+    {
+      "date": "2026-07-16",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated SSZack Shortfor assignment.",
+      "player": "Zack Short"
+    },
     {
       "date": "2026-07-16",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalssigned free agent RHPRayner Reyesto a minor league contract.",
       "player": "Rayner Reyes"
+    },
+    {
+      "date": "2026-07-16",
+      "team": "New York Mets",
+      "details": "New York Metsactivated 2BMarcus Semienfrom the 10-day injured list.",
+      "player": "Marcus Semien"
+    },
+    {
+      "date": "2026-07-16",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced RHPBrad Kelleron the 15-day injured list retroactive to July 13, 2026. Right elbow UCL tear.",
+      "player": "Brad Keller"
+    },
+    {
+      "date": "2026-07-16",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPSeth Johnsonfrom Lehigh Valley IronPigs.",
+      "player": "Seth Johnson"
+    },
+    {
+      "date": "2026-07-16",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded CFRobert Hassell IIItoPittsburgh Piratesfor cash.",
+      "player": "Robert Hassell III"
     }
   ]
 }
