@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-07-17T16:20:37.755147",
+  "last_updated": "2026-07-17T18:11:08.756594",
   "transactions": [
+    {
+      "date": "2026-07-17",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated CFDane Myersfrom the 10-day injured list.",
+      "player": "Dane Myers"
+    },
+    {
+      "date": "2026-07-17",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RHPSteven Wilsonon a rehab assignment to Durham Bulls.",
+      "player": "Steven Wilson"
+    },
     {
       "date": "2026-07-17",
       "team": "Atlanta Braves",
@@ -15,9 +27,33 @@
     },
     {
       "date": "2026-07-17",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated OFJahmai Jones.",
+      "player": "Jahmai Jones"
+    },
+    {
+      "date": "2026-07-17",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RHPJesse Scholtenson a rehab assignment to Durham Bulls.",
+      "player": "Jesse Scholtens"
+    },
+    {
+      "date": "2026-07-17",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravessent SSHa-Seong Kimon a rehab assignment to Gwinnett Stripers.",
       "player": "Ha-Seong Kim"
+    },
+    {
+      "date": "2026-07-17",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated OFJahmai Jones.",
+      "player": "Jahmai Jones"
+    },
+    {
+      "date": "2026-07-17",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPMason Englertfrom Durham Bulls.",
+      "player": "Mason Englert"
     },
     {
       "date": "2026-07-17",
@@ -27,9 +63,9 @@
     },
     {
       "date": "2026-07-17",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPMason Englertfrom Durham Bulls.",
-      "player": "Mason Englert"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned 2BIvan Johnsonto Louisville Bats.",
+      "player": "Ivan Johnson"
     }
   ]
 }
