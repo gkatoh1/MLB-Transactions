@@ -1,11 +1,47 @@
 {
-  "last_updated": "2026-07-18T15:01:47.688382",
+  "last_updated": "2026-07-18T17:04:20.493052",
   "transactions": [
+    {
+      "date": "2026-07-18",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPMarco Rayaon a rehab assignment to St. Paul Saints.",
+      "player": "Marco Raya"
+    },
     {
       "date": "2026-07-18",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxsent RHPDrew Thorpeon a rehab assignment to ACL White Sox.",
       "player": "Drew Thorpe"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced RFSal Frelickon the 10-day injured list. Right shoulder strain.",
+      "player": "Sal Frelick"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratestransferred CFOneil Cruzfrom the 10-day injured list to the 60-day injured list. Left hand fourth and fifth metacarpal non-displaced fractures.",
+      "player": "Oneil Cruz"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled CFBlake Perkinsfrom Nashville Sounds.",
+      "player": "Blake Perkins"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "New York Yankees",
+      "details": "New York Yankeesselected the contract of RHPBradley Hannerfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Bradley Hanner"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPBradley Hannerto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Bradley Hanner"
     },
     {
       "date": "2026-07-18",
@@ -15,9 +51,39 @@
     },
     {
       "date": "2026-07-18",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPAdam Mackoto Buffalo Bisons.",
+      "player": "Adam Macko"
+    },
+    {
+      "date": "2026-07-18",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalstraded RFRudy Martin Jr.toBaltimore Oriolesfor cash.",
       "player": "Rudy Martin Jr."
+    },
+    {
+      "date": "2026-07-18",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPCJ Van Eykto Buffalo Bisons.",
+      "player": "CJ Van Eyk"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesselected the contract of RHPKhristian Curtisfrom Indianapolis Indians.",
+      "player": "Khristian Curtis"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LHPBrendon Littlefrom Buffalo Bisons.",
+      "player": "Brendon Little"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPLazaro Estradafrom Buffalo Bisons.",
+      "player": "Lazaro Estrada"
     }
   ]
 }
