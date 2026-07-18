@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-07-18T19:14:07.881045",
+  "last_updated": "2026-07-18T20:58:59.674383",
   "transactions": [
     {
       "date": "2026-07-18",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPClay Holmeson a rehab assignment to Brooklyn Cyclones.",
-      "player": "Clay Holmes"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPGarrett Actonon a rehab assignment to Fort Myers Mighty Mussels.",
+      "player": "Garrett Acton"
     },
     {
       "date": "2026-07-18",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned OFEric Booth Jr..",
-      "player": "Eric Booth Jr."
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced RFSal Frelickon the 10-day injured list. Right shoulder strain.",
+      "player": "Sal Frelick"
     },
     {
       "date": "2026-07-18",
@@ -21,9 +21,39 @@
     },
     {
       "date": "2026-07-18",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent LHPTim Herrinon a rehab assignment to Columbus Clippers.",
-      "player": "Tim Herrin"
+      "team": "Athletics",
+      "details": "Athleticsdesignated 1BJoey Menesesfor assignment.",
+      "player": "Joey Meneses"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent RHPDrew Thorpeon a rehab assignment to ACL White Sox.",
+      "player": "Drew Thorpe"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPClay Holmeson a rehab assignment to Brooklyn Cyclones.",
+      "player": "Clay Holmes"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced LFLourdes Gurriel Jr.on the 10-day injured list. Right adductor strain.",
+      "player": "Lourdes Gurriel Jr."
+    },
+    {
+      "date": "2026-07-18",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned OFEric Booth Jr..",
+      "player": "Eric Booth Jr."
+    },
+    {
+      "date": "2026-07-18",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated CFJulio Rodríguezfrom the 7-day injured list.",
+      "player": "Julio Rodríguez"
     },
     {
       "date": "2026-07-18",
@@ -45,27 +75,21 @@
     },
     {
       "date": "2026-07-18",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent LHPTim Herrinon a rehab assignment to Columbus Clippers.",
+      "player": "Tim Herrin"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated 3BMiles Mastrobuonifor assignment.",
+      "player": "Miles Mastrobuoni"
+    },
+    {
+      "date": "2026-07-18",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratestransferred CFOneil Cruzfrom the 10-day injured list to the 60-day injured list. Left hand fourth and fifth metacarpal non-displaced fractures.",
       "player": "Oneil Cruz"
-    },
-    {
-      "date": "2026-07-18",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent RHPDrew Thorpeon a rehab assignment to ACL White Sox.",
-      "player": "Drew Thorpe"
-    },
-    {
-      "date": "2026-07-18",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced RFSal Frelickon the 10-day injured list. Right shoulder strain.",
-      "player": "Sal Frelick"
-    },
-    {
-      "date": "2026-07-18",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled LHPBrendon Littlefrom Buffalo Bisons.",
-      "player": "Brendon Little"
     },
     {
       "date": "2026-07-18",
@@ -75,21 +99,21 @@
     },
     {
       "date": "2026-07-18",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled CFBlake Perkinsfrom Nashville Sounds.",
-      "player": "Blake Perkins"
-    },
-    {
-      "date": "2026-07-18",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPBradley Hannerto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Bradley Hanner"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPAdam Mackoto Buffalo Bisons.",
+      "player": "Adam Macko"
     },
     {
       "date": "2026-07-18",
       "team": "Texas Rangers",
       "details": "Texas Rangersoptioned RHPGavin Collyerto Round Rock Express.",
       "player": "Gavin Collyer"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LHPBrendon Littlefrom Buffalo Bisons.",
+      "player": "Brendon Little"
     },
     {
       "date": "2026-07-18",
@@ -105,8 +129,56 @@
     },
     {
       "date": "2026-07-18",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled DHAdrian Del Castillofrom Reno Aces.",
+      "player": "Adrian Del Castillo"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPEmiliano Teodoto Round Rock Express.",
+      "player": "Emiliano Teodo"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPAlec Gamboato Worcester Red Sox.",
+      "player": "Alec Gamboa"
+    },
+    {
+      "date": "2026-07-18",
       "team": "New York Yankees",
       "details": "New York Yankeesselected the contract of RHPBradley Hannerfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Bradley Hanner"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPCJ Van Eykto Buffalo Bisons.",
+      "player": "CJ Van Eyk"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled CFBlake Perkinsfrom Nashville Sounds.",
+      "player": "Blake Perkins"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "New York Mets",
+      "details": "New York Metsacquired 1BRafi Vazquezfrom the Southern Maryland Blue Crabs of the Atlantic League.",
+      "player": "Rafi Vazquez"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPMason Englertto Durham Bulls.",
+      "player": "Mason Englert"
+    },
+    {
+      "date": "2026-07-18",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPBradley Hannerto Scranton/Wilkes-Barre RailRiders.",
       "player": "Bradley Hanner"
     },
     {
@@ -117,45 +189,15 @@
     },
     {
       "date": "2026-07-18",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPMason Englertto Durham Bulls.",
-      "player": "Mason Englert"
-    },
-    {
-      "date": "2026-07-18",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPAlec Gamboato Worcester Red Sox.",
-      "player": "Alec Gamboa"
-    },
-    {
-      "date": "2026-07-18",
-      "team": "New York Mets",
-      "details": "New York Metsacquired 1BRafi Vazquezfrom the Southern Maryland Blue Crabs of the Atlantic League.",
-      "player": "Rafi Vazquez"
-    },
-    {
-      "date": "2026-07-18",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned RHPEmiliano Teodoto Round Rock Express.",
-      "player": "Emiliano Teodo"
-    },
-    {
-      "date": "2026-07-18",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPCJ Van Eykto Buffalo Bisons.",
-      "player": "CJ Van Eyk"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksselected the contract of RHPGerardo Carrillofrom Reno Aces.",
+      "player": "Gerardo Carrillo"
     },
     {
       "date": "2026-07-18",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysrecalled RHPLazaro Estradafrom Buffalo Bisons.",
       "player": "Lazaro Estrada"
-    },
-    {
-      "date": "2026-07-18",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LHPAdam Mackoto Buffalo Bisons.",
-      "player": "Adam Macko"
     }
   ]
 }
