@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-07-19T15:03:18.962823",
+  "last_updated": "2026-07-19T17:06:15.432492",
   "transactions": [
+    {
+      "date": "2026-07-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPElieser Hernández.",
+      "player": "Elieser Hernández"
+    },
+    {
+      "date": "2026-07-19",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPTrevor Williamson a rehab assignment to Wilmington Blue Rocks.",
+      "player": "Trevor Williams"
+    },
+    {
+      "date": "2026-07-19",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated RHPRandy Vásquezfrom the 15-day injured list.",
+      "player": "Randy Vásquez"
+    },
+    {
+      "date": "2026-07-19",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresdesignated RHPRon Marinacciofor assignment.",
+      "player": "Ron Marinaccio"
+    },
+    {
+      "date": "2026-07-19",
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated RHPNate Pearsonfor assignment.",
+      "player": "Nate Pearson"
+    },
+    {
+      "date": "2026-07-19",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated LHPWandy Peraltafrom the bereavement list.",
+      "player": "Wandy Peralta"
+    },
+    {
+      "date": "2026-07-19",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPJake Irvinon a rehab assignment to Harrisburg Senators.",
+      "player": "Jake Irvin"
+    },
+    {
+      "date": "2026-07-19",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPStephen Kolekon the 15-day injured list. Right flexor strain.",
+      "player": "Stephen Kolek"
+    },
     {
       "date": "2026-07-19",
       "team": "New York Mets",
@@ -16,26 +64,50 @@
     {
       "date": "2026-07-19",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPElieser Hernández.",
-      "player": "Elieser Hernández"
-    },
-    {
-      "date": "2026-07-19",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned LHPLogan Allento Columbus Clippers.",
-      "player": "Logan Allen"
-    },
-    {
-      "date": "2026-07-19",
-      "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RHPOwen Murphyto Gwinnett Stripers.",
       "player": "Owen Murphy"
+    },
+    {
+      "date": "2026-07-19",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPKhristian Curtisto Indianapolis Indians.",
+      "player": "Khristian Curtis"
     },
     {
       "date": "2026-07-19",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesselected the contract of RHPElieser Hernándezfrom Gwinnett Stripers.",
       "player": "Elieser Hernández"
+    },
+    {
+      "date": "2026-07-19",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled 2BRaynel Delgadofrom Sugar Land Space Cowboys.",
+      "player": "Raynel Delgado"
+    },
+    {
+      "date": "2026-07-19",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned RHPJhony Britoto El Paso Chihuahuas.",
+      "player": "Jhony Brito"
+    },
+    {
+      "date": "2026-07-19",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled 3BGraham Pauleyfrom Jacksonville Jumbo Shrimp.",
+      "player": "Graham Pauley"
+    },
+    {
+      "date": "2026-07-19",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RFRece Hindsto Jacksonville Jumbo Shrimp.",
+      "player": "Rece Hinds"
+    },
+    {
+      "date": "2026-07-19",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned LHPLogan Allento Columbus Clippers.",
+      "player": "Logan Allen"
     }
   ]
 }
