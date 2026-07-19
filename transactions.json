@@ -1,11 +1,41 @@
 {
-  "last_updated": "2026-07-19T13:40:25.703620",
+  "last_updated": "2026-07-19T15:03:18.962823",
   "transactions": [
     {
       "date": "2026-07-19",
       "team": "New York Mets",
       "details": "New York Metssent RHPDedniel Núñezon a rehab assignment to Syracuse Mets.",
       "player": "Dedniel Núñez"
+    },
+    {
+      "date": "2026-07-19",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent LHPConnor Prielippon a rehab assignment to St. Paul Saints.",
+      "player": "Connor Prielipp"
+    },
+    {
+      "date": "2026-07-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPElieser Hernández.",
+      "player": "Elieser Hernández"
+    },
+    {
+      "date": "2026-07-19",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned LHPLogan Allento Columbus Clippers.",
+      "player": "Logan Allen"
+    },
+    {
+      "date": "2026-07-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPOwen Murphyto Gwinnett Stripers.",
+      "player": "Owen Murphy"
+    },
+    {
+      "date": "2026-07-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPElieser Hernándezfrom Gwinnett Stripers.",
+      "player": "Elieser Hernández"
     }
   ]
 }
