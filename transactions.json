@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-07-20T20:36:04.472144",
+  "last_updated": "2026-07-20T22:06:39.636421",
   "transactions": [
     {
       "date": "2026-07-20",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPAaron Civale.",
+      "player": "Aaron Civale"
+    },
+    {
+      "date": "2026-07-20",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned CDominic Kibler.",
-      "player": "Dominic Kibler"
+      "details": "Atlanta Bravessigned LHPEthan Stade.",
+      "player": "Ethan Stade"
+    },
+    {
+      "date": "2026-07-20",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned CAustin Fawley.",
+      "player": "Austin Fawley"
     },
     {
       "date": "2026-07-20",
@@ -15,15 +27,45 @@
     },
     {
       "date": "2026-07-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned CBanks Wickersham.",
-      "player": "Banks Wickersham"
-    },
-    {
-      "date": "2026-07-20",
       "team": "Houston Astros",
       "details": "Houston Astrosactivated RHPRonel Blancofrom the 60-day injured list.",
       "player": "Ronel Blanco"
+    },
+    {
+      "date": "2026-07-20",
+      "team": "New York Mets",
+      "details": "New York Metssigned CRyan Tayman.",
+      "player": "Ryan Tayman"
+    },
+    {
+      "date": "2026-07-20",
+      "team": "New York Mets",
+      "details": "New York Metssigned RHPAJ Krodel.",
+      "player": "AJ Krodel"
+    },
+    {
+      "date": "2026-07-20",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent OFJack Toomeyto a minor league contract.",
+      "player": "Jack Toomey"
+    },
+    {
+      "date": "2026-07-20",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresplaced DHMiguel Andujaron the 10-day injured list. Right wrist fracture.",
+      "player": "Miguel Andujar"
+    },
+    {
+      "date": "2026-07-20",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned RHPJack Slightom.",
+      "player": "Jack Slightom"
+    },
+    {
+      "date": "2026-07-20",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned RHPDylan Alonso.",
+      "player": "Dylan Alonso"
     },
     {
       "date": "2026-07-20",
@@ -33,69 +75,87 @@
     },
     {
       "date": "2026-07-20",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent SSDanny Melendezto a minor league contract.",
+      "player": "Danny Melendez"
+    },
+    {
+      "date": "2026-07-20",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned OFZion Rose.",
+      "player": "Zion Rose"
+    },
+    {
+      "date": "2026-07-20",
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent LHPA.J. Colarussoto a minor league contract.",
+      "player": "A.J. Colarusso"
+    },
+    {
+      "date": "2026-07-20",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalssigned LHPCooper Corkrean.",
       "player": "Cooper Corkrean"
     },
     {
       "date": "2026-07-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPGrant Fontenot.",
-      "player": "Grant Fontenot"
+      "team": "New York Mets",
+      "details": "New York Metssigned LHPZach Crotchfelt.",
+      "player": "Zach Crotchfelt"
     },
     {
       "date": "2026-07-20",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent SSBen Northto a minor league contract.",
-      "player": "Ben North"
+      "details": "Kansas City Royalssigned RHPDalton Hill.",
+      "player": "Dalton Hill"
+    },
+    {
+      "date": "2026-07-20",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced RHPMax Meyeron the 15-day injured list retroactive to July 19, 2026. Neck strain.",
+      "player": "Max Meyer"
     },
     {
       "date": "2026-07-20",
       "team": "New York Mets",
-      "details": "New York Metsactivated CFLuis Robert Jr.from the 60-day injured list.",
-      "player": "Luis Robert Jr."
+      "details": "New York Metssigned LHPShane Sdao.",
+      "player": "Shane Sdao"
     },
     {
       "date": "2026-07-20",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced CAdley Rutschmanon the 10-day injured list retroactive to July 19, 2026. Left wrist inflammation.",
-      "player": "Adley Rutschman"
+      "team": "New York Mets",
+      "details": "New York Metssigned SSKooper Schulte.",
+      "player": "Kooper Schulte"
     },
     {
       "date": "2026-07-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPTaylor Rabe.",
-      "player": "Taylor Rabe"
-    },
-    {
-      "date": "2026-07-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned OFDominic Battista.",
-      "player": "Dominic Battista"
+      "team": "New York Mets",
+      "details": "New York Metssigned RHPAidan Keenan.",
+      "player": "Aidan Keenan"
     },
     {
       "date": "2026-07-20",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned LHPMadden Clement.",
-      "player": "Madden Clement"
+      "details": "Kansas City Royalssigned LHPHunter Possehl.",
+      "player": "Hunter Possehl"
     },
     {
       "date": "2026-07-20",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPRichie Roman.",
-      "player": "Richie Roman"
+      "details": "Kansas City Royalssigned SSCamden Johnson.",
+      "player": "Camden Johnson"
     },
     {
       "date": "2026-07-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent RHPJackson Clevelandto a minor league contract.",
-      "player": "Jackson Cleveland"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned RHPBrady Hamilton.",
+      "player": "Brady Hamilton"
     },
     {
       "date": "2026-07-20",
-      "team": "Houston Astros",
-      "details": "Houston Astrosactivated LHPBennett Sousafrom the 60-day injured list.",
-      "player": "Bennett Sousa"
+      "team": "New York Mets",
+      "details": "New York Metssigned free agent SSDylan Careyto a minor league contract.",
+      "player": "Dylan Carey"
     },
     {
       "date": "2026-07-20",
@@ -201,105 +261,45 @@
     },
     {
       "date": "2026-07-20",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned OFCaleb Klein.",
+      "player": "Caleb Klein"
+    },
+    {
+      "date": "2026-07-20",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned RHPTaylor Rabe.",
+      "player": "Taylor Rabe"
+    },
+    {
+      "date": "2026-07-20",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned RHPGrant Fontenot.",
+      "player": "Grant Fontenot"
+    },
+    {
+      "date": "2026-07-20",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssigned free agent SSBen Northto a minor league contract.",
+      "player": "Ben North"
+    },
+    {
+      "date": "2026-07-20",
       "team": "New York Mets",
-      "details": "New York Metssigned LHPShane Sdao.",
-      "player": "Shane Sdao"
-    },
-    {
-      "date": "2026-07-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned LHPMaxx Yehl.",
-      "player": "Maxx Yehl"
-    },
-    {
-      "date": "2026-07-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent 3BJimmy Natito a minor league contract.",
-      "player": "Jimmy Nati"
+      "details": "New York Metsactivated CFLuis Robert Jr.from the 60-day injured list.",
+      "player": "Luis Robert Jr."
     },
     {
       "date": "2026-07-20",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RFRudy Martin Jr.for assignment.",
-      "player": "Rudy Martin Jr."
-    },
-    {
-      "date": "2026-07-20",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated CFByron Buxtonfrom the 10-day injured list.",
-      "player": "Byron Buxton"
+      "details": "Baltimore Oriolesplaced CAdley Rutschmanon the 10-day injured list retroactive to July 19, 2026. Left wrist inflammation.",
+      "player": "Adley Rutschman"
     },
     {
       "date": "2026-07-20",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned CDalton Harper.",
-      "player": "Dalton Harper"
-    },
-    {
-      "date": "2026-07-20",
-      "team": "New York Mets",
-      "details": "New York Metssigned RHPAlex Petrovic.",
-      "player": "Alex Petrovic"
-    },
-    {
-      "date": "2026-07-20",
-      "team": "New York Mets",
-      "details": "New York Metssigned OFAiden Robbins.",
-      "player": "Aiden Robbins"
-    },
-    {
-      "date": "2026-07-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPJack Slightom.",
-      "player": "Jack Slightom"
-    },
-    {
-      "date": "2026-07-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPDylan Alonso.",
-      "player": "Dylan Alonso"
-    },
-    {
-      "date": "2026-07-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned OFZion Rose.",
-      "player": "Zion Rose"
-    },
-    {
-      "date": "2026-07-20",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned RHPNile Adcock.",
-      "player": "Nile Adcock"
-    },
-    {
-      "date": "2026-07-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPDalton Hill.",
-      "player": "Dalton Hill"
-    },
-    {
-      "date": "2026-07-20",
-      "team": "New York Mets",
-      "details": "New York Metssigned RHPAidan Keenan.",
-      "player": "Aidan Keenan"
-    },
-    {
-      "date": "2026-07-20",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned RHPJohn Damozonio.",
-      "player": "John Damozonio"
-    },
-    {
-      "date": "2026-07-20",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned RHPDylan Vigue.",
-      "player": "Dylan Vigue"
-    },
-    {
-      "date": "2026-07-20",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned OFCaleb Klein.",
-      "player": "Caleb Klein"
+      "details": "Atlanta Bravessigned CDominic Kibler.",
+      "player": "Dominic Kibler"
     }
   ]
 }
