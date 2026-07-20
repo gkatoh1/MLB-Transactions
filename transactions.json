@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-07-20T14:24:07.315870",
+  "last_updated": "2026-07-20T16:37:30.643689",
   "transactions": [
+    {
+      "date": "2026-07-20",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated CFByron Buxtonfrom the reserve list.",
+      "player": "Byron Buxton"
+    },
     {
       "date": "2026-07-20",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPElmer Rodríguezto Scranton/Wilkes-Barre RailRiders.",
       "player": "Elmer Rodríguez"
+    },
+    {
+      "date": "2026-07-20",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned SSTristan Grayto St. Paul Saints.",
+      "player": "Tristan Gray"
     }
   ]
 }
