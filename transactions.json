@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-07-21T12:40:16.286947",
+  "last_updated": "2026-07-21T15:08:38.009650",
   "transactions": [
     {
       "date": "2026-07-21",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratessent RHPChris Devenskion a rehab assignment to FCL Pirates.",
       "player": "Chris Devenski"
+    },
+    {
+      "date": "2026-07-21",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent LHPTim Herrinon a rehab assignment to Akron RubberDucks.",
+      "player": "Tim Herrin"
+    },
+    {
+      "date": "2026-07-21",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent LFAngel Martínezon a rehab assignment to Akron RubberDucks.",
+      "player": "Angel Martínez"
     }
   ]
 }
