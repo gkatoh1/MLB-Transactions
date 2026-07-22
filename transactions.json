@@ -1,90 +1,6 @@
 {
-  "last_updated": "2026-07-22T16:25:17.797432",
+  "last_updated": "2026-07-22T18:13:57.806459",
   "transactions": [
-    {
-      "date": "2026-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned OFChase Brunson.",
-      "player": "Chase Brunson"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Athletics",
-      "details": "Athleticsplaced RHPJ.T. Ginnon the 15-day injured list retroactive to July 18, 2026. Right middle finger blister.",
-      "player": "J.T. Ginn"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced SSBobby Witt Jr.on the 10-day injured list retroactive to July 21, 2026. Low back tightness.",
-      "player": "Bobby Witt Jr."
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalstransferred RHPStephen Kolekfrom the 15-day injured list to the 60-day injured list. Right flexor strain.",
-      "player": "Stephen Kolek"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsdesignated RHPScott Blewettfor assignment.",
-      "player": "Scott Blewett"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsdesignated CFKameron Misnerfor assignment.",
-      "player": "Kameron Misner"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated LHPMartín Pérezfrom the 15-day injured list.",
-      "player": "Martín Pérez"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned 2BChris Hacopian.",
-      "player": "Chris Hacopian"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned IFAvery Ortiz.",
-      "player": "Avery Ortiz"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned RHPAnson Seibert.",
-      "player": "Anson Seibert"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned OFJack Brooks.",
-      "player": "Jack Brooks"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned OFNick Williams.",
-      "player": "Nick Williams"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned CCashel Dugger.",
-      "player": "Cashel Dugger"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned RHPWeston Moss.",
-      "player": "Weston Moss"
-    },
     {
       "date": "2026-07-22",
       "team": "Washington Nationals",
@@ -147,21 +63,129 @@
     },
     {
       "date": "2026-07-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned OFChase Brunson.",
+      "player": "Chase Brunson"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Athletics",
+      "details": "Athleticsplaced RHPJ.T. Ginnon the 15-day injured list retroactive to July 18, 2026. Right middle finger blister.",
+      "player": "J.T. Ginn"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent RHPGarrett Actonon a rehab assignment to St. Paul Saints.",
+      "player": "Garrett Acton"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced CSamuel Basalloon the 10-day injured list retroactive to July 20, 2026. Right shoulder inflammation.",
+      "player": "Samuel Basallo"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced SSBobby Witt Jr.on the 10-day injured list retroactive to July 21, 2026. Low back tightness.",
+      "player": "Bobby Witt Jr."
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalstransferred RHPStephen Kolekfrom the 15-day injured list to the 60-day injured list. Right flexor strain.",
+      "player": "Stephen Kolek"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsdesignated RHPScott Blewettfor assignment.",
+      "player": "Scott Blewett"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned 2BChris Hacopian.",
+      "player": "Chris Hacopian"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RHPEdwin Díazon a rehab assignment to Oklahoma City Comets.",
+      "player": "Edwin Díaz"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsdesignated CFKameron Misnerfor assignment.",
+      "player": "Kameron Misner"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated LHPMartín Pérezfrom the 15-day injured list.",
+      "player": "Martín Pérez"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned IFAvery Ortiz.",
+      "player": "Avery Ortiz"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned RHPAnson Seibert.",
+      "player": "Anson Seibert"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned OFJack Brooks.",
+      "player": "Jack Brooks"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned OFNick Williams.",
+      "player": "Nick Williams"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned CCashel Dugger.",
+      "player": "Cashel Dugger"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned RHPWeston Moss.",
+      "player": "Weston Moss"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled CFSpencer Jonesfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Spencer Jones"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RFJohnathan Rodríguezfrom Norfolk Tides.",
+      "player": "Johnathan Rodríguez"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPJR Ritchieto Gwinnett Stripers.",
+      "player": "JR Ritchie"
+    },
+    {
+      "date": "2026-07-22",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesrecalled RHPNoah Murdockfrom Indianapolis Indians.",
       "player": "Noah Murdock"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Houston Astros",
-      "details": "Houston Astrostraded RHP Nate Pearson toKansas City Royalsfor RHPMax Martin.",
-      "player": "Max Martin"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Houston Astros",
-      "details": "Houston Astrostraded RHPNate PearsontoKansas City Royalsfor RHP Max Martin.",
-      "player": "Nate Pearson"
     },
     {
       "date": "2026-07-22",
@@ -177,21 +201,21 @@
     },
     {
       "date": "2026-07-22",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled CFSpencer Jonesfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Spencer Jones"
+      "team": "Houston Astros",
+      "details": "Houston Astrostraded RHP Nate Pearson toKansas City Royalsfor RHPMax Martin.",
+      "player": "Max Martin"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Houston Astros",
+      "details": "Houston Astrostraded RHPNate PearsontoKansas City Royalsfor RHP Max Martin.",
+      "player": "Nate Pearson"
     },
     {
       "date": "2026-07-22",
       "team": "Athletics",
       "details": "Athleticsrecalled RHPMason Barnettfrom Las Vegas Aviators.",
       "player": "Mason Barnett"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPJR Ritchieto Gwinnett Stripers.",
-      "player": "JR Ritchie"
     }
   ]
 }
