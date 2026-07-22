@@ -1,71 +1,47 @@
 {
-  "last_updated": "2026-07-22T18:13:57.806459",
+  "last_updated": "2026-07-22T20:16:11.320850",
   "transactions": [
     {
       "date": "2026-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned LHPMatthew Dallas.",
-      "player": "Matthew Dallas"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPJackson Sleeperto a minor league contract.",
+      "player": "Jackson Sleeper"
     },
     {
       "date": "2026-07-22",
       "team": "Washington Nationals",
-      "details": "Washington Nationalssigned RHPCody Howard.",
-      "player": "Cody Howard"
+      "details": "Washington Nationalssigned 2BChris Hacopian.",
+      "player": "Chris Hacopian"
     },
     {
       "date": "2026-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned RHPZack Konstantinovsky.",
-      "player": "Zack Konstantinovsky"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RHPEdwin Díazon a rehab assignment to Oklahoma City Comets.",
+      "player": "Edwin Díaz"
     },
     {
       "date": "2026-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned CFrancisco Rivero.",
-      "player": "Francisco Rivero"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced CSamuel Basalloon the 10-day injured list retroactive to July 20, 2026. Right shoulder inflammation.",
+      "player": "Samuel Basallo"
     },
     {
       "date": "2026-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned RHPMax Hansmann.",
-      "player": "Max Hansmann"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsdesignated CFKameron Misnerfor assignment.",
+      "player": "Kameron Misner"
     },
     {
       "date": "2026-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned RHPGage Peterson.",
-      "player": "Gage Peterson"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPDL Hallon a rehab assignment to Nashville Sounds.",
+      "player": "DL Hall"
     },
     {
       "date": "2026-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned RHPCooper Allen.",
-      "player": "Cooper Allen"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned 3BDaniel Cuvet.",
-      "player": "Daniel Cuvet"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned RHPCooper Harris.",
-      "player": "Cooper Harris"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned SSLuke Williams.",
-      "player": "Luke Williams"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned OFChase Brunson.",
-      "player": "Chase Brunson"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPBrian Strangeto a minor league contract.",
+      "player": "Brian Strange"
     },
     {
       "date": "2026-07-22",
@@ -75,15 +51,33 @@
     },
     {
       "date": "2026-07-22",
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned RHPJack Radel.",
+      "player": "Jack Radel"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated 3BJosé Ramírezfrom the 10-day injured list.",
+      "player": "José Ramírez"
+    },
+    {
+      "date": "2026-07-22",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinssent RHPGarrett Actonon a rehab assignment to St. Paul Saints.",
       "player": "Garrett Acton"
     },
     {
       "date": "2026-07-22",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced CSamuel Basalloon the 10-day injured list retroactive to July 20, 2026. Right shoulder inflammation.",
-      "player": "Samuel Basallo"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPTyler Bryanto a minor league contract.",
+      "player": "Tyler Bryan"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned OFLogan Hughes.",
+      "player": "Logan Hughes"
     },
     {
       "date": "2026-07-22",
@@ -105,27 +99,135 @@
     },
     {
       "date": "2026-07-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned 2BChris Hacopian.",
-      "player": "Chris Hacopian"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssent RHPEdwin Díazon a rehab assignment to Oklahoma City Comets.",
-      "player": "Edwin Díaz"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsdesignated CFKameron Misnerfor assignment.",
-      "player": "Kameron Misner"
-    },
-    {
-      "date": "2026-07-22",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesactivated LHPMartín Pérezfrom the 15-day injured list.",
       "player": "Martín Pérez"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned RHPMichael Barnett.",
+      "player": "Michael Barnett"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned OFAidan Teel.",
+      "player": "Aidan Teel"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned 2BColby Turner.",
+      "player": "Colby Turner"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned SSIsaiah Lane.",
+      "player": "Isaiah Lane"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned RHPAlec Bouchard.",
+      "player": "Alec Bouchard"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned SSCharlie Scholvin.",
+      "player": "Charlie Scholvin"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned RHPConnor Mattison.",
+      "player": "Connor Mattison"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned SSPJ Moutzouridis.",
+      "player": "PJ Moutzouridis"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned CHideki Prather.",
+      "player": "Hideki Prather"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned RHPColter McAnelly.",
+      "player": "Colter McAnelly"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned RHPKole Klecker.",
+      "player": "Kole Klecker"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned RHPTommy LaPour.",
+      "player": "Tommy LaPour"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned RHPSteele Murdock.",
+      "player": "Steele Murdock"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned RHPEthan Lay.",
+      "player": "Ethan Lay"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned RHPMax Bayles.",
+      "player": "Max Bayles"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned RHPThomas Burns.",
+      "player": "Thomas Burns"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned RHPJT Raab.",
+      "player": "JT Raab"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned CVahn Lackey.",
+      "player": "Vahn Lackey"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned RHPEthan Wachsmann.",
+      "player": "Ethan Wachsmann"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned RHPBrett Renfrow.",
+      "player": "Brett Renfrow"
+    },
+    {
+      "date": "2026-07-22",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned CCarson Tinney.",
+      "player": "Carson Tinney"
     },
     {
       "date": "2026-07-22",
@@ -165,57 +267,39 @@
     },
     {
       "date": "2026-07-22",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled CFSpencer Jonesfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Spencer Jones"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned LHPMatthew Dallas.",
+      "player": "Matthew Dallas"
     },
     {
       "date": "2026-07-22",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RFJohnathan Rodríguezfrom Norfolk Tides.",
-      "player": "Johnathan Rodríguez"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned RHPCody Howard.",
+      "player": "Cody Howard"
     },
     {
       "date": "2026-07-22",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPJR Ritchieto Gwinnett Stripers.",
-      "player": "JR Ritchie"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned RHPZack Konstantinovsky.",
+      "player": "Zack Konstantinovsky"
     },
     {
       "date": "2026-07-22",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPNoah Murdockfrom Indianapolis Indians.",
-      "player": "Noah Murdock"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned CFrancisco Rivero.",
+      "player": "Francisco Rivero"
     },
     {
       "date": "2026-07-22",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsselected the contract of SSAndrew Velazquezfrom Omaha Storm Chasers.",
-      "player": "Andrew Velazquez"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned RHPMax Hansmann.",
+      "player": "Max Hansmann"
     },
     {
       "date": "2026-07-22",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPHunter Dobbinsfrom Memphis Redbirds.",
-      "player": "Hunter Dobbins"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Houston Astros",
-      "details": "Houston Astrostraded RHP Nate Pearson toKansas City Royalsfor RHPMax Martin.",
-      "player": "Max Martin"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Houston Astros",
-      "details": "Houston Astrostraded RHPNate PearsontoKansas City Royalsfor RHP Max Martin.",
-      "player": "Nate Pearson"
-    },
-    {
-      "date": "2026-07-22",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPMason Barnettfrom Las Vegas Aviators.",
-      "player": "Mason Barnett"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned RHPGage Peterson.",
+      "player": "Gage Peterson"
     }
   ]
 }
