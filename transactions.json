@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-07-23T15:16:46.438935",
+  "last_updated": "2026-07-23T17:38:42.654713",
   "transactions": [
-    {
-      "date": "2026-07-23",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent RHPManuel Rodríguezon a rehab assignment to FCL Rays.",
-      "player": "Manuel Rodríguez"
-    },
     {
       "date": "2026-07-23",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssent RFJesús Sánchezon a rehab assignment to FCL Blue Jays.",
       "player": "Jesús Sánchez"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent CFBrenton Doyleon a rehab assignment to Albuquerque Isotopes.",
+      "player": "Brenton Doyle"
     },
     {
       "date": "2026-07-23",
@@ -21,9 +21,39 @@
     },
     {
       "date": "2026-07-23",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned CFSpencer Jonesto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Spencer Jones"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent RHPChristopher Asencioto a minor league contract.",
+      "player": "Christopher Asencio"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced LHPPatrick Corbinon the 15-day injured list retroactive to July 22, 2026. Left teres major strain.",
+      "player": "Patrick Corbin"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RHPManuel Rodríguezon a rehab assignment to FCL Rays.",
+      "player": "Manuel Rodríguez"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LHPAdam Mackofrom Buffalo Bisons.",
+      "player": "Adam Macko"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPJosh Walkerto Norfolk Tides.",
+      "player": "Josh Walker"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned DHSean Keysto Buffalo Bisons.",
+      "player": "Sean Keys"
     },
     {
       "date": "2026-07-23",
@@ -33,15 +63,21 @@
     },
     {
       "date": "2026-07-23",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned CFSpencer Jonesto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Spencer Jones"
+    },
+    {
+      "date": "2026-07-23",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned LHPEduardo Riverato Worcester Red Sox.",
       "player": "Eduardo Rivera"
     },
     {
       "date": "2026-07-23",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned LHPJosh Walkerto Norfolk Tides.",
-      "player": "Josh Walker"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LFDavis Schneiderfrom Buffalo Bisons.",
+      "player": "Davis Schneider"
     }
   ]
 }
