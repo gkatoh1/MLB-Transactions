@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-07-23T12:43:27.453771",
+  "last_updated": "2026-07-23T15:16:46.438935",
   "transactions": [
     {
       "date": "2026-07-23",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned LHPJosh Walkerto Norfolk Tides.",
-      "player": "Josh Walker"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RHPManuel Rodríguezon a rehab assignment to FCL Rays.",
+      "player": "Manuel Rodríguez"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RFJesús Sánchezon a rehab assignment to FCL Blue Jays.",
+      "player": "Jesús Sánchez"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent RHPJosh Eknesson a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Josh Ekness"
     },
     {
       "date": "2026-07-23",
@@ -15,9 +27,21 @@
     },
     {
       "date": "2026-07-23",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPNoah Murdockto Indianapolis Indians.",
+      "player": "Noah Murdock"
+    },
+    {
+      "date": "2026-07-23",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned LHPEduardo Riverato Worcester Red Sox.",
       "player": "Eduardo Rivera"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPJosh Walkerto Norfolk Tides.",
+      "player": "Josh Walker"
     }
   ]
 }
