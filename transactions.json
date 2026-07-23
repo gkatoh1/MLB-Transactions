@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-07-23T17:38:42.654713",
+  "last_updated": "2026-07-23T19:36:14.964980",
   "transactions": [
-    {
-      "date": "2026-07-23",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RFJesús Sánchezon a rehab assignment to FCL Blue Jays.",
-      "player": "Jesús Sánchez"
-    },
-    {
-      "date": "2026-07-23",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent CFBrenton Doyleon a rehab assignment to Albuquerque Isotopes.",
-      "player": "Brenton Doyle"
-    },
     {
       "date": "2026-07-23",
       "team": "Miami Marlins",
@@ -21,9 +9,15 @@
     },
     {
       "date": "2026-07-23",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssigned free agent RHPChristopher Asencioto a minor league contract.",
-      "player": "Christopher Asencio"
+      "team": "New York Mets",
+      "details": "New York Metssent RHPClay Holmeson a rehab assignment to Syracuse Mets.",
+      "player": "Clay Holmes"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssigned RHPMathis Nayral.",
+      "player": "Mathis Nayral"
     },
     {
       "date": "2026-07-23",
@@ -40,32 +34,44 @@
     {
       "date": "2026-07-23",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled LHPAdam Mackofrom Buffalo Bisons.",
-      "player": "Adam Macko"
+      "details": "Toronto Blue Jayssent RFJesús Sánchezon a rehab assignment to FCL Blue Jays.",
+      "player": "Jesús Sánchez"
     },
     {
       "date": "2026-07-23",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned LHPJosh Walkerto Norfolk Tides.",
-      "player": "Josh Walker"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent RHPChristopher Asencioto a minor league contract.",
+      "player": "Christopher Asencio"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent CFBrenton Doyleon a rehab assignment to Albuquerque Isotopes.",
+      "player": "Brenton Doyle"
     },
     {
       "date": "2026-07-23",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned DHSean Keysto Buffalo Bisons.",
-      "player": "Sean Keys"
+      "details": "Toronto Blue Jayssigned RHPConnor Kelley.",
+      "player": "Connor Kelley"
     },
     {
       "date": "2026-07-23",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPNoah Murdockto Indianapolis Indians.",
-      "player": "Noah Murdock"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RFJohnathan Rodríguezfor assignment.",
+      "player": "Johnathan Rodríguez"
     },
     {
       "date": "2026-07-23",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned CFSpencer Jonesto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Spencer Jones"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaystransferred RFAddison Bargerfrom the 10-day injured list to the 60-day injured list. Right elbow inflammation.",
+      "player": "Addison Barger"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssigned free agent OFIan Taylorto a minor league contract.",
+      "player": "Ian Taylor"
     },
     {
       "date": "2026-07-23",
@@ -76,8 +82,68 @@
     {
       "date": "2026-07-23",
       "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LHPAdam Mackofrom Buffalo Bisons.",
+      "player": "Adam Macko"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysclaimed RFRudy Martin Jr.off waivers fromBaltimore Orioles.",
+      "player": "Rudy Martin Jr."
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RFJohnathan Rodríguezto Norfolk Tides.",
+      "player": "Johnathan Rodríguez"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPJosh Walkerto Norfolk Tides.",
+      "player": "Josh Walker"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RFRudy Martin Jr.to Buffalo Bisons.",
+      "player": "Rudy Martin Jr."
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPNoah Murdockto Indianapolis Indians.",
+      "player": "Noah Murdock"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned DHSean Keysto Buffalo Bisons.",
+      "player": "Sean Keys"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned CFSpencer Jonesto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Spencer Jones"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysrecalled LFDavis Schneiderfrom Buffalo Bisons.",
       "player": "Davis Schneider"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed CYohel Pozooff waivers fromSt. Louis Cardinals.",
+      "player": "Yohel Pozo"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned CYohel Pozoto Norfolk Tides.",
+      "player": "Yohel Pozo"
     }
   ]
 }
