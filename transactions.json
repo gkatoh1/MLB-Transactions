@@ -1,4 +1,23 @@
 {
-  "last_updated": "2026-07-23T04:20:47.436235",
-  "transactions": []
+  "last_updated": "2026-07-23T07:38:10.526040",
+  "transactions": [
+    {
+      "date": "2026-07-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPEduardo Riverato Worcester Red Sox.",
+      "player": "Eduardo Rivera"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPJosh Walkerto Norfolk Tides.",
+      "player": "Josh Walker"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned CFSpencer Jonesto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Spencer Jones"
+    }
+  ]
 }
