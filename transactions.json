@@ -1,11 +1,29 @@
 {
-  "last_updated": "2026-07-24T16:47:23.232640",
+  "last_updated": "2026-07-24T18:23:14.828478",
   "transactions": [
+    {
+      "date": "2026-07-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated 3BDavid Hamiltonfrom the 10-day injured list.",
+      "player": "David Hamilton"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent 2BMatt McLainon a rehab assignment to Louisville Bats.",
+      "player": "Matt McLain"
+    },
     {
       "date": "2026-07-24",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravessent CSean Murphyon a rehab assignment to Gwinnett Stripers.",
       "player": "Sean Murphy"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated SSBraden Shewmakefor assignment.",
+      "player": "Braden Shewmake"
     }
   ]
 }
