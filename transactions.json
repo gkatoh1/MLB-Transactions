@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-07-23T23:03:47.996481",
+  "last_updated": "2026-07-24T03:29:14.494001",
   "transactions": [
+    {
+      "date": "2026-07-23",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned SSAiden Ruiz.",
+      "player": "Aiden Ruiz"
+    },
     {
       "date": "2026-07-23",
       "team": "Pittsburgh Pirates",
@@ -9,9 +15,9 @@
     },
     {
       "date": "2026-07-23",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated RHPJesse Scholtensfrom the 15-day injured list.",
-      "player": "Jesse Scholtens"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated LHPJohn Kingfrom the 15-day injured list.",
+      "player": "John King"
     },
     {
       "date": "2026-07-23",
@@ -21,9 +27,9 @@
     },
     {
       "date": "2026-07-23",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent RHPJosh Eknesson a rehab assignment to Jacksonville Jumbo Shrimp.",
-      "player": "Josh Ekness"
+      "team": "New York Mets",
+      "details": "New York Metssent RHPClay Holmeson a rehab assignment to Syracuse Mets.",
+      "player": "Clay Holmes"
     },
     {
       "date": "2026-07-23",
@@ -33,21 +39,15 @@
     },
     {
       "date": "2026-07-23",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssigned free agent OFIan Taylorto a minor league contract.",
-      "player": "Ian Taylor"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RHPManuel Rodríguezon a rehab assignment to FCL Rays.",
+      "player": "Manuel Rodríguez"
     },
     {
       "date": "2026-07-23",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssigned RHPConnor Kelley.",
       "player": "Connor Kelley"
-    },
-    {
-      "date": "2026-07-23",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessigned SSAiden Ruiz.",
-      "player": "Aiden Ruiz"
     },
     {
       "date": "2026-07-23",
@@ -81,6 +81,12 @@
     },
     {
       "date": "2026-07-23",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsreleased CEric Haase.",
+      "player": "Eric Haase"
+    },
+    {
+      "date": "2026-07-23",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssent RFJesús Sánchezon a rehab assignment to FCL Blue Jays.",
       "player": "Jesús Sánchez"
@@ -105,33 +111,27 @@
     },
     {
       "date": "2026-07-23",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent RHPJosh Eknesson a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Josh Ekness"
+    },
+    {
+      "date": "2026-07-23",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelssent RHPBen Joyceon a rehab assignment to Salt Lake Bees.",
       "player": "Ben Joyce"
     },
     {
       "date": "2026-07-23",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPClay Holmeson a rehab assignment to Syracuse Mets.",
-      "player": "Clay Holmes"
-    },
-    {
-      "date": "2026-07-23",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent RHPManuel Rodríguezon a rehab assignment to FCL Rays.",
-      "player": "Manuel Rodríguez"
-    },
-    {
-      "date": "2026-07-23",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RFJohnathan Rodríguezto Norfolk Tides.",
-      "player": "Johnathan Rodríguez"
+      "details": "Tampa Bay Raysactivated RHPJesse Scholtensfrom the 15-day injured list.",
+      "player": "Jesse Scholtens"
     },
     {
       "date": "2026-07-23",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RFRudy Martin Jr.to Buffalo Bisons.",
-      "player": "Rudy Martin Jr."
+      "details": "Toronto Blue Jayssigned free agent OFIan Taylorto a minor league contract.",
+      "player": "Ian Taylor"
     },
     {
       "date": "2026-07-23",
@@ -141,27 +141,21 @@
     },
     {
       "date": "2026-07-23",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPJustin Lawrenceoutright to Rochester Red Wings.",
-      "player": "Justin Lawrence"
-    },
-    {
-      "date": "2026-07-23",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysrecalled LHPAdam Mackofrom Buffalo Bisons.",
       "player": "Adam Macko"
     },
     {
       "date": "2026-07-23",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysclaimed RFRudy Martin Jr.off waivers fromBaltimore Orioles.",
-      "player": "Rudy Martin Jr."
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned DHKevin Alcántarato Iowa Cubs.",
+      "player": "Kevin Alcántara"
     },
     {
       "date": "2026-07-23",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPJesse Scholtensto Durham Bulls.",
-      "player": "Jesse Scholtens"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPJustin Lawrenceoutright to Rochester Red Wings.",
+      "player": "Justin Lawrence"
     },
     {
       "date": "2026-07-23",
@@ -177,15 +171,63 @@
     },
     {
       "date": "2026-07-23",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned CFSpencer Jonesto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Spencer Jones"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysclaimed RFRudy Martin Jr.off waivers fromBaltimore Orioles.",
+      "player": "Rudy Martin Jr."
     },
     {
       "date": "2026-07-23",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesoptioned CYohel Pozoto Norfolk Tides.",
       "player": "Yohel Pozo"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RFJohnathan Rodríguezto Norfolk Tides.",
+      "player": "Johnathan Rodríguez"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPZach Brzykcyto Jacksonville Jumbo Shrimp.",
+      "player": "Zach Brzykcy"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPYunior Turto Las Vegas Aviators.",
+      "player": "Yunior Tur"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RFRudy Martin Jr.to Buffalo Bisons.",
+      "player": "Rudy Martin Jr."
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent LHPDrew Pomeranzoutright to Iowa Cubs.",
+      "player": "Drew Pomeranz"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned CFSpencer Jonesto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Spencer Jones"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPJesse Scholtensto Durham Bulls.",
+      "player": "Jesse Scholtens"
+    },
+    {
+      "date": "2026-07-23",
+      "team": "San Diego Padres",
+      "details": "San Diego Padrestraded RHPRon MarinacciotoPittsburgh Piratesfor Future Considerations.",
+      "player": "Ron Marinaccio"
     },
     {
       "date": "2026-07-23",
@@ -198,12 +240,6 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned LHPEduardo Riverato Worcester Red Sox.",
       "player": "Eduardo Rivera"
-    },
-    {
-      "date": "2026-07-23",
-      "team": "San Diego Padres",
-      "details": "San Diego Padrestraded RHPRon MarinacciotoPittsburgh Piratesfor Future Considerations.",
-      "player": "Ron Marinaccio"
     },
     {
       "date": "2026-07-23",
