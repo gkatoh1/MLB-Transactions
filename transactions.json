@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-07-24T22:11:08.914076",
+  "last_updated": "2026-07-25T00:10:03.585212",
   "transactions": [
     {
       "date": "2026-07-24",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned RHPAdam Troy.",
-      "player": "Adam Troy"
+      "details": "Philadelphia Philliessigned RHPDeven Sheerin.",
+      "player": "Deven Sheerin"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned RHPJustin Lee.",
+      "player": "Justin Lee"
     },
     {
       "date": "2026-07-24",
@@ -15,9 +21,75 @@
     },
     {
       "date": "2026-07-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated 3BDavid Hamiltonfrom the 10-day injured list.",
+      "player": "David Hamilton"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated LHPTim Herrinfrom the 15-day injured list.",
+      "player": "Tim Herrin"
+    },
+    {
+      "date": "2026-07-24",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliestransferred RHPBrad Kellerfrom the 15-day injured list to the 60-day injured list. Right elbow UCL tear.",
-      "player": "Brad Keller"
+      "details": "Philadelphia Philliessigned free agent RHPBrendan Sweeneyto a minor league contract.",
+      "player": "Brendan Sweeney"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPTrevor Williamson a rehab assignment to Rochester Red Wings.",
+      "player": "Trevor Williams"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent 3BEvan Bouldinto a minor league contract.",
+      "player": "Evan Bouldin"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent CEndy Rodríguezon a rehab assignment to Indianapolis Indians.",
+      "player": "Endy Rodríguez"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned SSOwen Clyne.",
+      "player": "Owen Clyne"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned SSOwen Clyne.",
+      "player": "Owen Clyne"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent RHPChris Devenskion a rehab assignment to Bradenton Marauders.",
+      "player": "Chris Devenski"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned OFBrayden Bakes.",
+      "player": "Brayden Bakes"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated LFAngel Martínezfrom the 10-day injured list.",
+      "player": "Angel Martínez"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned OFLane Haworth.",
+      "player": "Lane Haworth"
     },
     {
       "date": "2026-07-24",
@@ -27,15 +99,81 @@
     },
     {
       "date": "2026-07-24",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned SSOwen Clyne.",
-      "player": "Owen Clyne"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RHPNate Pearson.",
+      "player": "Nate Pearson"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RHPRon Marinaccio.",
+      "player": "Ron Marinaccio"
     },
     {
       "date": "2026-07-24",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned SSOwen Clyne.",
-      "player": "Owen Clyne"
+      "details": "Philadelphia Philliessigned free agent LHPCal Higginsto a minor league contract.",
+      "player": "Cal Higgins"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent CSean Murphyon a rehab assignment to Gwinnett Stripers.",
+      "player": "Sean Murphy"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned OFTy Head.",
+      "player": "Ty Head"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned LHPPatrick Clemmey.",
+      "player": "Patrick Clemmey"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned RHPDrew Titsworth.",
+      "player": "Drew Titsworth"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned CMatt Quintanar.",
+      "player": "Matt Quintanar"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned RHPAdam Troy.",
+      "player": "Adam Troy"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced CRafael Flores Jr.on the 7-day injured list retroactive to July 23, 2026. Concussion.",
+      "player": "Rafael Flores Jr."
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent LFJack Hopkoto a minor league contract.",
+      "player": "Jack Hopko"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated RHPJosé Urquidyfor assignment.",
+      "player": "José Urquidy"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliestransferred RHPBrad Kellerfrom the 15-day injured list to the 60-day injured list. Right elbow UCL tear.",
+      "player": "Brad Keller"
     },
     {
       "date": "2026-07-24",
@@ -51,15 +189,9 @@
     },
     {
       "date": "2026-07-24",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPTrevor Williamson a rehab assignment to Rochester Red Wings.",
-      "player": "Trevor Williams"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent 3BEvan Bouldinto a minor league contract.",
-      "player": "Evan Bouldin"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent RHPDrew Thorpeon a rehab assignment to Winston-Salem Dash.",
+      "player": "Drew Thorpe"
     },
     {
       "date": "2026-07-24",
@@ -88,134 +220,8 @@
     {
       "date": "2026-07-24",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent 3BCade Climieto a minor league contract.",
-      "player": "Cade Climie"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated 3BDavid Hamiltonfrom the 10-day injured list.",
-      "player": "David Hamilton"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated LHPTim Herrinfrom the 15-day injured list.",
-      "player": "Tim Herrin"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent RHPDrew Thorpeon a rehab assignment to Winston-Salem Dash.",
-      "player": "Drew Thorpe"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated RHPNate Pearson.",
-      "player": "Nate Pearson"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesactivated RHPRon Marinaccio.",
-      "player": "Ron Marinaccio"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliessigned SSTyler Spangler.",
       "player": "Tyler Spangler"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent LHPTyler Gilberton a rehab assignment to Charlotte Knights.",
-      "player": "Tyler Gilbert"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned LHPPatrick Clemmey.",
-      "player": "Patrick Clemmey"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned RHPDrew Titsworth.",
-      "player": "Drew Titsworth"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned CMatt Quintanar.",
-      "player": "Matt Quintanar"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent RHPChris Devenskion a rehab assignment to Bradenton Marauders.",
-      "player": "Chris Devenski"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned RHPJustin Lee.",
-      "player": "Justin Lee"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesplaced CRafael Flores Jr.on the 7-day injured list retroactive to July 23, 2026. Concussion.",
-      "player": "Rafael Flores Jr."
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent LFJack Hopkoto a minor league contract.",
-      "player": "Jack Hopko"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned OFBrayden Bakes.",
-      "player": "Brayden Bakes"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesdesignated RHPJosé Urquidyfor assignment.",
-      "player": "José Urquidy"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated LFAngel Martínezfrom the 10-day injured list.",
-      "player": "Angel Martínez"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned OFLane Haworth.",
-      "player": "Lane Haworth"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent RHPBrendan Sweeneyto a minor league contract.",
-      "player": "Brendan Sweeney"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned RHPDeven Sheerin.",
-      "player": "Deven Sheerin"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent LHPCal Higginsto a minor league contract.",
-      "player": "Cal Higgins"
     },
     {
       "date": "2026-07-24",
@@ -225,57 +231,27 @@
     },
     {
       "date": "2026-07-24",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent CSean Murphyon a rehab assignment to Gwinnett Stripers.",
-      "player": "Sean Murphy"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent LHPTyler Gilberton a rehab assignment to Charlotte Knights.",
+      "player": "Tyler Gilbert"
     },
     {
       "date": "2026-07-24",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned OFTy Head.",
-      "player": "Ty Head"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPLuis Moralesfrom Las Vegas Aviators.",
-      "player": "Luis Morales"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned DHKevin Alcántarato Iowa Cubs.",
-      "player": "Kevin Alcántara"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned LHPWill Dionto Columbus Clippers.",
-      "player": "Will Dion"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssigned free agent LHPAnthony Venezianoto a minor league contract.",
+      "player": "Anthony Veneziano"
     },
     {
       "date": "2026-07-24",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesselected the contract of CPayton Henryfrom Lehigh Valley IronPigs.",
-      "player": "Payton Henry"
+      "details": "Philadelphia Philliessigned free agent 3BCade Climieto a minor league contract.",
+      "player": "Cade Climie"
     },
     {
       "date": "2026-07-24",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned CFDaniel Schneemannto Columbus Clippers.",
-      "player": "Daniel Schneemann"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPEli Morganto Omaha Storm Chasers.",
-      "player": "Eli Morgan"
-    },
-    {
-      "date": "2026-07-24",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesselected the contract of CShawn Rossfrom Indianapolis Indians.",
-      "player": "Shawn Ross"
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned free agent CMatt Thaissto a minor league contract.",
+      "player": "Matt Thaiss"
     },
     {
       "date": "2026-07-24",
@@ -285,9 +261,45 @@
     },
     {
       "date": "2026-07-24",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned CFDaniel Schneemannto Columbus Clippers.",
+      "player": "Daniel Schneemann"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPLuis Moralesfrom Las Vegas Aviators.",
+      "player": "Luis Morales"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned LHPWill Dionto Columbus Clippers.",
+      "player": "Will Dion"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesselected the contract of CShawn Rossfrom Indianapolis Indians.",
+      "player": "Shawn Ross"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesselected the contract of CPayton Henryfrom Lehigh Valley IronPigs.",
+      "player": "Payton Henry"
+    },
+    {
+      "date": "2026-07-24",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesrecalled LHPJosh Walkerfrom Norfolk Tides.",
       "player": "Josh Walker"
+    },
+    {
+      "date": "2026-07-24",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPEli Morganto Omaha Storm Chasers.",
+      "player": "Eli Morgan"
     }
   ]
 }
