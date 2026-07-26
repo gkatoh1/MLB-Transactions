@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-07-25T23:00:08.551126",
+  "last_updated": "2026-07-26T00:08:33.210846",
   "transactions": [
     {
       "date": "2026-07-25",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned RHPDiego Gutierrez.",
-      "player": "Diego Gutierrez"
+      "details": "Baltimore Oriolessigned SSJimmy Anderson.",
+      "player": "Jimmy Anderson"
+    },
+    {
+      "date": "2026-07-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RFJesús Sánchezon a rehab assignment to Dunedin Blue Jays.",
+      "player": "Jesús Sánchez"
+    },
+    {
+      "date": "2026-07-25",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced RHPSpencer Arrighettion the 15-day injured list. Right foot nerve irritation.",
+      "player": "Spencer Arrighetti"
     },
     {
       "date": "2026-07-25",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned RHPBraden Smith.",
-      "player": "Braden Smith"
-    },
-    {
-      "date": "2026-07-25",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent SSJavier Báezon a rehab assignment to Toledo Mud Hens.",
-      "player": "Javier Báez"
-    },
-    {
-      "date": "2026-07-25",
-      "team": "New York Mets",
-      "details": "New York Metsplaced LFJuan Sotoon the 10-day injured list. Left calf strain.",
-      "player": "Juan Soto"
+      "details": "Baltimore Oriolessigned RHPRoss Norman.",
+      "player": "Ross Norman"
     },
     {
       "date": "2026-07-25",
@@ -40,14 +40,20 @@
     {
       "date": "2026-07-25",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned SSJimmy Anderson.",
-      "player": "Jimmy Anderson"
+      "details": "Baltimore Oriolessigned RHPGarrison Sumner.",
+      "player": "Garrison Sumner"
     },
     {
       "date": "2026-07-25",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansplaced RHPShawn Armstrongon the 15-day injured list. Left calf strain.",
-      "player": "Shawn Armstrong"
+      "team": "Athletics",
+      "details": "Athleticsactivated 1BNick Kurtzfrom the reserve list.",
+      "player": "Nick Kurtz"
+    },
+    {
+      "date": "2026-07-25",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssigned free agent RHPPeter Strzeleckito a minor league contract.",
+      "player": "Peter Strzelecki"
     },
     {
       "date": "2026-07-25",
@@ -63,51 +69,9 @@
     },
     {
       "date": "2026-07-25",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPMarco Rayafrom the 15-day injured list.",
-      "player": "Marco Raya"
-    },
-    {
-      "date": "2026-07-25",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned RHPGarrison Sumner.",
-      "player": "Garrison Sumner"
-    },
-    {
-      "date": "2026-07-25",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated LHPSteven Matzfrom the 15-day injured list.",
-      "player": "Steven Matz"
-    },
-    {
-      "date": "2026-07-25",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssent 3BRamón Uríason a rehab assignment to Memphis Redbirds.",
-      "player": "Ramón Urías"
-    },
-    {
-      "date": "2026-07-25",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned SSBrayden Fry.",
-      "player": "Brayden Fry"
-    },
-    {
-      "date": "2026-07-25",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssigned free agent RHPPeter Strzeleckito a minor league contract.",
-      "player": "Peter Strzelecki"
-    },
-    {
-      "date": "2026-07-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RFJesús Sánchezon a rehab assignment to Dunedin Blue Jays.",
-      "player": "Jesús Sánchez"
-    },
-    {
-      "date": "2026-07-25",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned CLeo Marrero.",
-      "player": "Leo Marrero"
+      "details": "Baltimore Oriolessigned RHPDiego Gutierrez.",
+      "player": "Diego Gutierrez"
     },
     {
       "date": "2026-07-25",
@@ -123,9 +87,15 @@
     },
     {
       "date": "2026-07-25",
-      "team": "Athletics",
-      "details": "Athleticsactivated 1BNick Kurtzfrom the reserve list.",
-      "player": "Nick Kurtz"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced RHPShawn Armstrongon the 15-day injured list. Left calf strain.",
+      "player": "Shawn Armstrong"
+    },
+    {
+      "date": "2026-07-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned CLeo Marrero.",
+      "player": "Leo Marrero"
     },
     {
       "date": "2026-07-25",
@@ -147,75 +117,51 @@
     },
     {
       "date": "2026-07-25",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced RHPSpencer Arrighettion the 15-day injured list. Right foot nerve irritation.",
-      "player": "Spencer Arrighetti"
-    },
-    {
-      "date": "2026-07-25",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned RHPRoss Norman.",
-      "player": "Ross Norman"
-    },
-    {
-      "date": "2026-07-25",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled LHPBryan Kingfrom Sugar Land Space Cowboys.",
-      "player": "Bryan King"
-    },
-    {
-      "date": "2026-07-25",
       "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPMarco Rayato St. Paul Saints.",
+      "details": "Minnesota Twinsactivated RHPMarco Rayafrom the 15-day injured list.",
       "player": "Marco Raya"
     },
     {
       "date": "2026-07-25",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled LHPKyle Backhusfrom Lehigh Valley IronPigs.",
-      "player": "Kyle Backhus"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RHPBen Caspariuson a rehab assignment to Oklahoma City Comets.",
+      "player": "Ben Casparius"
     },
     {
       "date": "2026-07-25",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesselected the contract of RHPBrian Kellerfrom Lehigh Valley IronPigs.",
-      "player": "Brian Keller"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned RHPBraden Smith.",
+      "player": "Braden Smith"
     },
     {
       "date": "2026-07-25",
-      "team": "Athletics",
-      "details": "Athleticsoptioned 3BMax Muncyto Las Vegas Aviators.",
-      "player": "Max Muncy"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent SSJavier Báezon a rehab assignment to Toledo Mud Hens.",
+      "player": "Javier Báez"
     },
     {
       "date": "2026-07-25",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled 2BJosh Smithfrom Round Rock Express.",
-      "player": "Josh Smith"
+      "team": "New York Mets",
+      "details": "New York Metsplaced LFJuan Sotoon the 10-day injured list. Left calf strain.",
+      "player": "Juan Soto"
     },
     {
       "date": "2026-07-25",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPChris Roycroftto Durham Bulls.",
-      "player": "Chris Roycroft"
+      "details": "Tampa Bay Raysactivated LHPSteven Matzfrom the 15-day injured list.",
+      "player": "Steven Matz"
     },
     {
       "date": "2026-07-25",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPMax Lazarto Lehigh Valley IronPigs.",
-      "player": "Max Lazar"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent 3BRamón Uríason a rehab assignment to Memphis Redbirds.",
+      "player": "Ramón Urías"
     },
     {
       "date": "2026-07-25",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned CFKameron Misnerto Lehigh Valley IronPigs.",
-      "player": "Kameron Misner"
-    },
-    {
-      "date": "2026-07-25",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled LHPWill Dionfrom Columbus Clippers.",
-      "player": "Will Dion"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned SSBrayden Fry.",
+      "player": "Brayden Fry"
     },
     {
       "date": "2026-07-25",
@@ -231,6 +177,30 @@
     },
     {
       "date": "2026-07-25",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled 2BJosh Smithfrom Round Rock Express.",
+      "player": "Josh Smith"
+    },
+    {
+      "date": "2026-07-25",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled LHPBryan Kingfrom Sugar Land Space Cowboys.",
+      "player": "Bryan King"
+    },
+    {
+      "date": "2026-07-25",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPMax Lazarto Lehigh Valley IronPigs.",
+      "player": "Max Lazar"
+    },
+    {
+      "date": "2026-07-25",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled LHPWill Dionfrom Columbus Clippers.",
+      "player": "Will Dion"
+    },
+    {
+      "date": "2026-07-25",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalstraded CFKameron MisnertoPhiladelphia Philliesfor cash.",
       "player": "Kameron Misner"
@@ -238,8 +208,44 @@
     {
       "date": "2026-07-25",
       "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesselected the contract of RHPBrian Kellerfrom Lehigh Valley IronPigs.",
+      "player": "Brian Keller"
+    },
+    {
+      "date": "2026-07-25",
+      "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesoptioned RHPAlex McFarlaneto Lehigh Valley IronPigs.",
       "player": "Alex McFarlane"
+    },
+    {
+      "date": "2026-07-25",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPMarco Rayato St. Paul Saints.",
+      "player": "Marco Raya"
+    },
+    {
+      "date": "2026-07-25",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned CFKameron Misnerto Lehigh Valley IronPigs.",
+      "player": "Kameron Misner"
+    },
+    {
+      "date": "2026-07-25",
+      "team": "Athletics",
+      "details": "Athleticsoptioned 3BMax Muncyto Las Vegas Aviators.",
+      "player": "Max Muncy"
+    },
+    {
+      "date": "2026-07-25",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPChris Roycroftto Durham Bulls.",
+      "player": "Chris Roycroft"
+    },
+    {
+      "date": "2026-07-25",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled LHPKyle Backhusfrom Lehigh Valley IronPigs.",
+      "player": "Kyle Backhus"
     }
   ]
 }
