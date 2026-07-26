@@ -1,6 +1,42 @@
 {
-  "last_updated": "2026-07-26T12:09:42.592307",
+  "last_updated": "2026-07-26T14:41:28.676157",
   "transactions": [
+    {
+      "date": "2026-07-26",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPCole Sandsfrom the 15-day injured list.",
+      "player": "Cole Sands"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated LHPConnor Prielippfrom the 15-day injured list.",
+      "player": "Connor Prielipp"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated LHPRanger Suarez.",
+      "player": "Ranger Suarez"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned OFDerek Curiel.",
+      "player": "Derek Curiel"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPMike Paredeson the 15-day injured list retroactive to July 23, 2026. Left oblique strain.",
+      "player": "Mike Paredes"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPJack Andersonto St. Paul Saints.",
+      "player": "Jack Anderson"
+    },
     {
       "date": "2026-07-26",
       "team": "Boston Red Sox",
@@ -12,6 +48,12 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxtraded LHPConnelly EarlytoWashington Nationalsfor 3B Curtis Mead.",
       "player": "Connelly Early"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPAlec Gamboato Worcester Red Sox.",
+      "player": "Alec Gamboa"
     }
   ]
 }
