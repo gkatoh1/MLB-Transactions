@@ -1,4 +1,17 @@
 {
-  "last_updated": "2026-07-26T10:07:36.513752",
-  "transactions": []
+  "last_updated": "2026-07-26T12:09:42.592307",
+  "transactions": [
+    {
+      "date": "2026-07-26",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtraded LHP Connelly Early toWashington Nationalsfor 3BCurtis Mead.",
+      "player": "Curtis Mead"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtraded LHPConnelly EarlytoWashington Nationalsfor 3B Curtis Mead.",
+      "player": "Connelly Early"
+    }
+  ]
 }
