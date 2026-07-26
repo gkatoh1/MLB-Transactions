@@ -1,29 +1,11 @@
 {
-  "last_updated": "2026-07-26T20:14:53.623045",
+  "last_updated": "2026-07-26T22:05:08.673203",
   "transactions": [
     {
       "date": "2026-07-26",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced RHPMike Paredeson the 15-day injured list retroactive to July 23, 2026. Left oblique strain.",
-      "player": "Mike Paredes"
-    },
-    {
-      "date": "2026-07-26",
-      "team": "Kansas City Royals",
-      "details": "LHPRob Henseyroster status changed byKansas City Royals.",
-      "player": "Rob Hensey"
-    },
-    {
-      "date": "2026-07-26",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced LFCody Bellingeron the 10-day injured list. Left hamstring strain.",
-      "player": "Cody Bellinger"
-    },
-    {
-      "date": "2026-07-26",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPCole Sandsfrom the 15-day injured list.",
-      "player": "Cole Sands"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned OFDerek Curiel.",
+      "player": "Derek Curiel"
     },
     {
       "date": "2026-07-26",
@@ -33,9 +15,9 @@
     },
     {
       "date": "2026-07-26",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersdesignated RHPLance McCullers Jr.for assignment.",
-      "player": "Lance McCullers Jr."
+      "team": "Kansas City Royals",
+      "details": "LHPRob Henseyroster status changed byKansas City Royals.",
+      "player": "Rob Hensey"
     },
     {
       "date": "2026-07-26",
@@ -45,9 +27,33 @@
     },
     {
       "date": "2026-07-26",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPCole Sandsfrom the 15-day injured list.",
+      "player": "Cole Sands"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated RHPLance McCullers Jr.for assignment.",
+      "player": "Lance McCullers Jr."
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPMike Paredeson the 15-day injured list retroactive to July 23, 2026. Left oblique strain.",
+      "player": "Mike Paredes"
+    },
+    {
+      "date": "2026-07-26",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Rayssent RHPManuel Rodríguezon a rehab assignment to Charleston RiverDogs.",
       "player": "Manuel Rodríguez"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced LFCody Bellingeron the 10-day injured list. Left hamstring strain.",
+      "player": "Cody Bellinger"
     },
     {
       "date": "2026-07-26",
@@ -57,15 +63,21 @@
     },
     {
       "date": "2026-07-26",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessigned OFDerek Curiel.",
-      "player": "Derek Curiel"
-    },
-    {
-      "date": "2026-07-26",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsoptioned RHPTristan Beckto Sacramento River Cats.",
       "player": "Tristan Beck"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled 3BBrady Housefrom Rochester Red Wings.",
+      "player": "Brady House"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPMiguel Ullolafrom Sugar Land Space Cowboys.",
+      "player": "Miguel Ullola"
     },
     {
       "date": "2026-07-26",
@@ -81,9 +93,9 @@
     },
     {
       "date": "2026-07-26",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsacquired LHPRob Henseyfrom the Sussex County Miners of the Frontier League.",
-      "player": "Rob Hensey"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled LHPCarson Whisenhuntfrom Sacramento River Cats.",
+      "player": "Carson Whisenhunt"
     },
     {
       "date": "2026-07-26",
@@ -93,21 +105,9 @@
     },
     {
       "date": "2026-07-26",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned RHPKai-Wei Tengto Sugar Land Space Cowboys.",
-      "player": "Kai-Wei Teng"
-    },
-    {
-      "date": "2026-07-26",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersrecalled RHPAlex Hoppefrom Tacoma Rainiers.",
-      "player": "Alex Hoppe"
-    },
-    {
-      "date": "2026-07-26",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled CFSpencer Jonesfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Spencer Jones"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsacquired LHPRob Henseyfrom the Sussex County Miners of the Frontier League.",
+      "player": "Rob Hensey"
     },
     {
       "date": "2026-07-26",
@@ -117,21 +117,21 @@
     },
     {
       "date": "2026-07-26",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled CFSpencer Jonesfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Spencer Jones"
+    },
+    {
+      "date": "2026-07-26",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned LHPAlec Gamboato Worcester Red Sox.",
       "player": "Alec Gamboa"
     },
     {
       "date": "2026-07-26",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsrecalled LHPCarson Whisenhuntfrom Sacramento River Cats.",
-      "player": "Carson Whisenhunt"
-    },
-    {
-      "date": "2026-07-26",
       "team": "Houston Astros",
-      "details": "Houston Astrosrecalled RHPMiguel Ullolafrom Sugar Land Space Cowboys.",
-      "player": "Miguel Ullola"
+      "details": "Houston Astrosoptioned RHPKai-Wei Tengto Sugar Land Space Cowboys.",
+      "player": "Kai-Wei Teng"
     },
     {
       "date": "2026-07-26",
@@ -147,9 +147,9 @@
     },
     {
       "date": "2026-07-26",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled 3BBrady Housefrom Rochester Red Wings.",
-      "player": "Brady House"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled RHPAlex Hoppefrom Tacoma Rainiers.",
+      "player": "Alex Hoppe"
     }
   ]
 }
