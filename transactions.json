@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-07-26T14:41:28.676157",
+  "last_updated": "2026-07-26T16:08:11.993053",
   "transactions": [
-    {
-      "date": "2026-07-26",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPCole Sandsfrom the 15-day injured list.",
-      "player": "Cole Sands"
-    },
     {
       "date": "2026-07-26",
       "team": "Minnesota Twins",
@@ -15,9 +9,9 @@
     },
     {
       "date": "2026-07-26",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated LHPRanger Suarez.",
-      "player": "Ranger Suarez"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated RHPLance McCullers Jr.for assignment.",
+      "player": "Lance McCullers Jr."
     },
     {
       "date": "2026-07-26",
@@ -28,14 +22,62 @@
     {
       "date": "2026-07-26",
       "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPCole Sandsfrom the 15-day injured list.",
+      "player": "Cole Sands"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Kansas City Royals",
+      "details": "LHPRob Henseyroster status changed byKansas City Royals.",
+      "player": "Rob Hensey"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Athletics",
+      "details": "Athleticsplaced CShea Langelierson the 10-day injured list retroactive to July 25, 2026. Torn meniscus in right knee.",
+      "player": "Shea Langeliers"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Minnesota Twins",
       "details": "Minnesota Twinsplaced RHPMike Paredeson the 15-day injured list retroactive to July 23, 2026. Left oblique strain.",
       "player": "Mike Paredes"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated LHPRanger Suarezfrom the 15-day injured list.",
+      "player": "Ranger Suarez"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPAlec Gamboato Worcester Red Sox.",
+      "player": "Alec Gamboa"
     },
     {
       "date": "2026-07-26",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsoptioned RHPJack Andersonto St. Paul Saints.",
       "player": "Jack Anderson"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Athletics",
+      "details": "Athleticsrecalled CBrian Servenfrom Las Vegas Aviators.",
+      "player": "Brian Serven"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPNick Davilato Tacoma Rainiers.",
+      "player": "Nick Davila"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsacquired LHPRob Henseyfrom the Sussex County Miners of the Frontier League.",
+      "player": "Rob Hensey"
     },
     {
       "date": "2026-07-26",
@@ -51,9 +93,21 @@
     },
     {
       "date": "2026-07-26",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned LHPAlec Gamboato Worcester Red Sox.",
-      "player": "Alec Gamboa"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPGarrett Stallingsfrom Nashville Sounds.",
+      "player": "Garrett Stallings"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled 3BBrady Housefrom Rochester Red Wings.",
+      "player": "Brady House"
+    },
+    {
+      "date": "2026-07-26",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled RHPAlex Hoppefrom Tacoma Rainiers.",
+      "player": "Alex Hoppe"
     }
   ]
 }
