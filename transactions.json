@@ -1,30 +1,6 @@
 {
-  "last_updated": "2026-07-27T19:45:11.713585",
+  "last_updated": "2026-07-27T21:18:15.331318",
   "transactions": [
-    {
-      "date": "2026-07-27",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessigned RHPRohan Lettow.",
-      "player": "Rohan Lettow"
-    },
-    {
-      "date": "2026-07-27",
-      "team": "Houston Astros",
-      "details": "Houston Astrossigned RHPBrady Thomas.",
-      "player": "Brady Thomas"
-    },
-    {
-      "date": "2026-07-27",
-      "team": "Athletics",
-      "details": "Athleticsdesignated RHPGeoff Hartliebfor assignment.",
-      "player": "Geoff Hartlieb"
-    },
-    {
-      "date": "2026-07-27",
-      "team": "Houston Astros",
-      "details": "Houston Astrossigned SSKam Durnin.",
-      "player": "Kam Durnin"
-    },
     {
       "date": "2026-07-27",
       "team": "Houston Astros",
@@ -33,21 +9,33 @@
     },
     {
       "date": "2026-07-27",
-      "team": "Houston Astros",
-      "details": "Houston Astrossigned SSKeon Johnson.",
-      "player": "Keon Johnson"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent OFJosh Skowronskito a minor league contract.",
+      "player": "Josh Skowronski"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned OFMichael Smith Jr..",
+      "player": "Michael Smith Jr."
     },
     {
       "date": "2026-07-27",
       "team": "Houston Astros",
-      "details": "Houston Astrossigned free agent SSDrew Wyersto a minor league contract.",
-      "player": "Drew Wyers"
+      "details": "Houston Astrossigned IFBeau Peterson.",
+      "player": "Beau Peterson"
     },
     {
       "date": "2026-07-27",
-      "team": "Houston Astros",
-      "details": "Houston Astrossigned LHPWes Mendes.",
-      "player": "Wes Mendes"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned CMark  Quatrani.",
+      "player": "Mark  Quatrani"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent RHPTyler Pitzerto a minor league contract.",
+      "player": "Tyler Pitzer"
     },
     {
       "date": "2026-07-27",
@@ -57,15 +45,27 @@
     },
     {
       "date": "2026-07-27",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned LHPSean Fitzpatrick.",
+      "player": "Sean Fitzpatrick"
+    },
+    {
+      "date": "2026-07-27",
       "team": "Houston Astros",
       "details": "Houston Astrossigned CNoah Miller.",
       "player": "Noah Miller"
     },
     {
       "date": "2026-07-27",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced RHPBraydon Fisheron the bereavement list.",
-      "player": "Braydon Fisher"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent OFRyan Geretyto a minor league contract.",
+      "player": "Ryan Gerety"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent RHPJack Pineauto a minor league contract.",
+      "player": "Jack Pineau"
     },
     {
       "date": "2026-07-27",
@@ -75,9 +75,27 @@
     },
     {
       "date": "2026-07-27",
-      "team": "Houston Astros",
-      "details": "Houston Astrossigned CRashawn Galloway.",
-      "player": "Rashawn Galloway"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned RHPLuke McGrath.",
+      "player": "Luke McGrath"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned LHPBenjamin Stubbs.",
+      "player": "Benjamin Stubbs"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned LHPChris Downs.",
+      "player": "Chris Downs"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RHPMax Scherzerfrom the 15-day injured list.",
+      "player": "Max Scherzer"
     },
     {
       "date": "2026-07-27",
@@ -93,6 +111,60 @@
     },
     {
       "date": "2026-07-27",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned RHPLuke Guth.",
+      "player": "Luke Guth"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated RHPJameson Taillonfor assignment.",
+      "player": "Jameson Taillon"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent RHPLogan Satterto a minor league contract.",
+      "player": "Logan Satter"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "Athletics",
+      "details": "Athleticsdesignated RHPGeoff Hartliebfor assignment.",
+      "player": "Geoff Hartlieb"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned RHPRohan Lettow.",
+      "player": "Rohan Lettow"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned RHPAriston Veasey.",
+      "player": "Ariston Veasey"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned 1BChris McHugh.",
+      "player": "Chris McHugh"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned RHPAlbert Roblez.",
+      "player": "Albert Roblez"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned CRobbie Lavey.",
+      "player": "Robbie Lavey"
+    },
+    {
+      "date": "2026-07-27",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsplaced 1BSpencer Steeron the 10-day injured list. Right wrist sprain.",
       "player": "Spencer Steer"
@@ -105,9 +177,21 @@
     },
     {
       "date": "2026-07-27",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned RHPColeman Borthwick.",
+      "player": "Coleman Borthwick"
+    },
+    {
+      "date": "2026-07-27",
       "team": "Houston Astros",
       "details": "Houston Astrossigned SSPetey Soto Jr..",
       "player": "Petey Soto Jr."
+    },
+    {
+      "date": "2026-07-27",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RHPBraydon Fisheron the restricted list.",
+      "player": "Braydon Fisher"
     },
     {
       "date": "2026-07-27",
@@ -123,15 +207,27 @@
     },
     {
       "date": "2026-07-27",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated RFEverson Pereirafrom the 7-day injured list.",
-      "player": "Everson Pereira"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessigned OFDimitri Williams Jr..",
+      "player": "Dimitri Williams Jr."
     },
     {
       "date": "2026-07-27",
-      "team": "Houston Astros",
-      "details": "Houston Astrossigned RHPMichael Addari.",
-      "player": "Michael Addari"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsdesignated LHPMatt Krookfor assignment.",
+      "player": "Matt Krook"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned CEmanuel Hernandez.",
+      "player": "Emanuel Hernandez"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned CAugie Lopez.",
+      "player": "Augie Lopez"
     },
     {
       "date": "2026-07-27",
@@ -147,81 +243,63 @@
     },
     {
       "date": "2026-07-27",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned 3BDalton Wentz.",
-      "player": "Dalton Wentz"
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned SSKeon Johnson.",
+      "player": "Keon Johnson"
     },
     {
       "date": "2026-07-27",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssigned LHPCarson Bolemon.",
-      "player": "Carson Bolemon"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned SSNu'u Contrades.",
+      "player": "Nu'u Contrades"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned RHPJames Guyette.",
+      "player": "James Guyette"
     },
     {
       "date": "2026-07-27",
       "team": "Houston Astros",
-      "details": "Houston Astrossigned RHPGavin Eddy.",
-      "player": "Gavin Eddy"
+      "details": "Houston Astrossigned free agent SSDrew Wyersto a minor league contract.",
+      "player": "Drew Wyers"
     },
     {
       "date": "2026-07-27",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsdesignated LHPMatt Krookfor assignment.",
-      "player": "Matt Krook"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned RHPTy Brachbill.",
+      "player": "Ty Brachbill"
     },
     {
       "date": "2026-07-27",
-      "team": "Houston Astros",
-      "details": "Houston Astrossigned IFBeau Peterson.",
-      "player": "Beau Peterson"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned SSElliot Lascelles.",
+      "player": "Elliot Lascelles"
     },
     {
       "date": "2026-07-27",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated RHPMax Scherzerfrom the 15-day injured list.",
-      "player": "Max Scherzer"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned RHPRyan Lynch.",
+      "player": "Ryan Lynch"
     },
     {
       "date": "2026-07-27",
-      "team": "Houston Astros",
-      "details": "Houston Astrossigned RHPMick Uebelhor.",
-      "player": "Mick Uebelhor"
-    },
-    {
-      "date": "2026-07-27",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPPaxton Schultzfrom Rochester Red Wings.",
-      "player": "Paxton Schultz"
-    },
-    {
-      "date": "2026-07-27",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled 2BIvan Johnsonfrom Louisville Bats.",
-      "player": "Ivan Johnson"
-    },
-    {
-      "date": "2026-07-27",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled CYohel Pozofrom Chesapeake Baysox.",
-      "player": "Yohel Pozo"
-    },
-    {
-      "date": "2026-07-27",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned SSTsung-Che Chengto Worcester Red Sox.",
-      "player": "Tsung-Che Cheng"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned OFEzekiel Zion.",
+      "player": "Ezekiel Zion"
     },
     {
       "date": "2026-07-27",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned CFJunior Perezto Charlotte Knights.",
-      "player": "Junior Perez"
+      "details": "Chicago White Soxactivated RFEverson Pereirafrom the 7-day injured list.",
+      "player": "Everson Pereira"
     },
     {
       "date": "2026-07-27",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RFBrewer Hicklento Gwinnett Stripers.",
-      "player": "Brewer Hicklen"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent OFDrew Detlefsento a minor league contract.",
+      "player": "Drew Detlefsen"
     }
   ]
 }
