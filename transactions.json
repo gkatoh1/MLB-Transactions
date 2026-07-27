@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27T12:32:20.549954",
+  "last_updated": "2026-07-27T15:47:43.912825",
   "transactions": [
     {
       "date": "2026-07-27",
@@ -15,15 +15,27 @@
     },
     {
       "date": "2026-07-27",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned CFJunior Perezto Charlotte Knights.",
-      "player": "Junior Perez"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RFRonald Acuña Jr.from the 10-day injured list.",
+      "player": "Ronald Acuña Jr."
     },
     {
       "date": "2026-07-27",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned SSTsung-Che Chengto Worcester Red Sox.",
       "player": "Tsung-Che Cheng"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned CFJunior Perezto Charlotte Knights.",
+      "player": "Junior Perez"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RFBrewer Hicklento Gwinnett Stripers.",
+      "player": "Brewer Hicklen"
     }
   ]
 }
