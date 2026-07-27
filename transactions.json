@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-07-27T08:38:16.557575",
+  "last_updated": "2026-07-27T12:32:20.549954",
   "transactions": [
-    {
-      "date": "2026-07-27",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated 3BCurtis Mead.",
-      "player": "Curtis Mead"
-    },
     {
       "date": "2026-07-27",
       "team": "Athletics",
@@ -16,14 +10,20 @@
     {
       "date": "2026-07-27",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned SSTsung-Che Chengto Worcester Red Sox.",
-      "player": "Tsung-Che Cheng"
+      "details": "Boston Red Soxactivated 3BCurtis Mead.",
+      "player": "Curtis Mead"
     },
     {
       "date": "2026-07-27",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned CFJunior Perezto Charlotte Knights.",
       "player": "Junior Perez"
+    },
+    {
+      "date": "2026-07-27",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned SSTsung-Che Chengto Worcester Red Sox.",
+      "player": "Tsung-Che Cheng"
     }
   ]
 }
