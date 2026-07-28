@@ -1,29 +1,17 @@
 {
-  "last_updated": "2026-07-28T21:14:56.000859",
+  "last_updated": "2026-07-28T23:07:24.142624",
   "transactions": [
     {
       "date": "2026-07-28",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersdesignated CJake Rogersfor assignment.",
-      "player": "Jake Rogers"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent CTravis d'Arnaudon a rehab assignment to Rancho Cucamonga Quakes.",
+      "player": "Travis d'Arnaud"
     },
     {
       "date": "2026-07-28",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPClay Holmeson a rehab assignment to St. Lucie Mets.",
-      "player": "Clay Holmes"
-    },
-    {
-      "date": "2026-07-28",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsplaced RHPCole Sandson the 15-day injured list retroactive to July 27, 2026. Right elbow strain.",
-      "player": "Cole Sands"
-    },
-    {
-      "date": "2026-07-28",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssent 3BBrendan Donovanon a rehab assignment to Tacoma Rainiers.",
-      "player": "Brendan Donovan"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent RFOwen Caissieon a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Owen Caissie"
     },
     {
       "date": "2026-07-28",
@@ -39,39 +27,27 @@
     },
     {
       "date": "2026-07-28",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced RHPBeck Wayon the 15-day injured list. Low back spasms/tightness.",
-      "player": "Beck Way"
-    },
-    {
-      "date": "2026-07-28",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RFJesús Sánchezon a rehab assignment to Buffalo Bisons.",
-      "player": "Jesús Sánchez"
-    },
-    {
-      "date": "2026-07-28",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RFJesús Sánchezon a rehab assignment to Buffalo Bisons.",
-      "player": "Jesús Sánchez"
-    },
-    {
-      "date": "2026-07-28",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent RHPManuel Rodríguezon a rehab assignment to Durham Bulls.",
-      "player": "Manuel Rodríguez"
-    },
-    {
-      "date": "2026-07-28",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent CTravis d'Arnaudon a rehab assignment to Rancho Cucamonga Quakes.",
-      "player": "Travis d'Arnaud"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent RHPLou Trivino IIIon a rehab assignment to Lehigh Valley IronPigs.",
+      "player": "Lou Trivino III"
     },
     {
       "date": "2026-07-28",
       "team": "New York Yankees",
       "details": "New York Yankeessigned free agent CChristian Bethancourtto a minor league contract.",
       "player": "Christian Bethancourt"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsigned free agent CEric Haaseto a minor league contract.",
+      "player": "Eric Haase"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent SSCorey Nunezto a minor league contract.",
+      "player": "Corey Nunez"
     },
     {
       "date": "2026-07-28",
@@ -87,9 +63,75 @@
     },
     {
       "date": "2026-07-28",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPBeck Wayon the 15-day injured list. Low back spasms/tightness.",
+      "player": "Beck Way"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPClay Holmeson a rehab assignment to St. Lucie Mets.",
+      "player": "Clay Holmes"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent SSCorey Seageron a rehab assignment to Frisco RoughRiders.",
+      "player": "Corey Seager"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPCole Sandson the 15-day injured list retroactive to July 27, 2026. Right elbow strain.",
+      "player": "Cole Sands"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RFJesús Sánchezon a rehab assignment to Buffalo Bisons.",
+      "player": "Jesús Sánchez"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RFJesús Sánchezon a rehab assignment to Buffalo Bisons.",
+      "player": "Jesús Sánchez"
+    },
+    {
+      "date": "2026-07-28",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelssent CSebastián Riveroon a rehab assignment to Rancho Cucamonga Quakes.",
       "player": "Sebastián Rivero"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced LFCasey Schmitton the 10-day injured list. Left knee meniscus tear.",
+      "player": "Casey Schmitt"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RHPManuel Rodríguezon a rehab assignment to Durham Bulls.",
+      "player": "Manuel Rodríguez"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPJose Franco.",
+      "player": "Jose Franco"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPChris Bassitton a rehab assignment to Norfolk Tides.",
+      "player": "Chris Bassitt"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated DHRob Refsnyderfrom the 10-day injured list.",
+      "player": "Rob Refsnyder"
     },
     {
       "date": "2026-07-28",
@@ -99,9 +141,27 @@
     },
     {
       "date": "2026-07-28",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent RFOwen Caissieon a rehab assignment to Jacksonville Jumbo Shrimp.",
-      "player": "Owen Caissie"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent 3BBrendan Donovanon a rehab assignment to Tacoma Rainiers.",
+      "player": "Brendan Donovan"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated 1BBuddy Kennedyfor assignment.",
+      "player": "Buddy Kennedy"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated CJake Rogersfor assignment.",
+      "player": "Jake Rogers"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RFJohnathan Rodríguezto Indianapolis Indians.",
+      "player": "Johnathan Rodríguez"
     },
     {
       "date": "2026-07-28",
@@ -111,15 +171,39 @@
     },
     {
       "date": "2026-07-28",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPJosé Urquidyto Charlotte Knights.",
+      "player": "José Urquidy"
+    },
+    {
+      "date": "2026-07-28",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsrecalled RHPEaston McGeefrom Omaha Storm Chasers.",
       "player": "Easton McGee"
     },
     {
       "date": "2026-07-28",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPGus Varlandfrom Rochester Red Wings.",
-      "player": "Gus Varland"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsselected the contract of SSOsleivis Basabefrom Sacramento River Cats.",
+      "player": "Osleivis Basabe"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPHunter Dobbinsto Memphis Redbirds.",
+      "player": "Hunter Dobbins"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent SSBraden Shewmakeoutright to Nashville Sounds.",
+      "player": "Braden Shewmake"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsselected the contract of RHPPeter Strzeleckifrom Palm Beach Cardinals.",
+      "player": "Peter Strzelecki"
     },
     {
       "date": "2026-07-28",
@@ -138,6 +222,18 @@
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesoptioned CPayton Henryto Lehigh Valley IronPigs.",
       "player": "Payton Henry"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPGus Varlandfrom Rochester Red Wings.",
+      "player": "Gus Varland"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPDaniel Espinofrom Columbus Clippers.",
+      "player": "Daniel Espino"
     }
   ]
 }
