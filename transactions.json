@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-07-28T17:41:05.816663",
+  "last_updated": "2026-07-28T19:42:41.957226",
   "transactions": [
+    {
+      "date": "2026-07-28",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated CJake Rogersfor assignment.",
+      "player": "Jake Rogers"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent 3BBrendan Donovanon a rehab assignment to Tacoma Rainiers.",
+      "player": "Brendan Donovan"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent 2BAdam Frazieron a rehab assignment to Rancho Cucamonga Quakes.",
+      "player": "Adam Frazier"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent CTravis d'Arnaudon a rehab assignment to Rancho Cucamonga Quakes.",
+      "player": "Travis d'Arnaud"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RFJesús Sánchezon a rehab assignment to Buffalo Bisons.",
+      "player": "Jesús Sánchez"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RHPCole Sandson the 15-day injured list retroactive to July 27, 2026. Right elbow strain.",
+      "player": "Cole Sands"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated SSJavier Báezfrom the 60-day injured list.",
+      "player": "Javier Báez"
+    },
     {
       "date": "2026-07-28",
       "team": "New York Mets",
       "details": "New York Metssent RHPClay Holmeson a rehab assignment to St. Lucie Mets.",
       "player": "Clay Holmes"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent CSebastián Riveroon a rehab assignment to Rancho Cucamonga Quakes.",
+      "player": "Sebastián Rivero"
     },
     {
       "date": "2026-07-28",
@@ -15,9 +63,21 @@
     },
     {
       "date": "2026-07-28",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssent 3BBrendan Donovanon a rehab assignment to Tacoma Rainiers.",
-      "player": "Brendan Donovan"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent RFOwen Caissieon a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Owen Caissie"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RHPManuel Rodríguezon a rehab assignment to Durham Bulls.",
+      "player": "Manuel Rodríguez"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled RHPJack Andersonfrom St. Paul Saints.",
+      "player": "Jack Anderson"
     }
   ]
 }
