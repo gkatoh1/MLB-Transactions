@@ -1,4 +1,23 @@
 {
-  "last_updated": "2026-07-28T15:26:01.847633",
-  "transactions": []
+  "last_updated": "2026-07-28T17:41:05.816663",
+  "transactions": [
+    {
+      "date": "2026-07-28",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPClay Holmeson a rehab assignment to St. Lucie Mets.",
+      "player": "Clay Holmes"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPAustin Warrenon a rehab assignment to St. Lucie Mets.",
+      "player": "Austin Warren"
+    },
+    {
+      "date": "2026-07-28",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent 3BBrendan Donovanon a rehab assignment to Tacoma Rainiers.",
+      "player": "Brendan Donovan"
+    }
+  ]
 }
