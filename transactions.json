@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T17:21:51.391812",
+  "last_updated": "2026-07-29T19:33:52.918755",
   "transactions": [
     {
       "date": "2026-07-29",
@@ -15,27 +15,27 @@
     },
     {
       "date": "2026-07-29",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPDL Hallon a rehab assignment to Wisconsin Timber Rattlers.",
+      "player": "DL Hall"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresdesignated RHPMatt Waldronfor assignment.",
+      "player": "Matt Waldron"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated RHPJeremiah Estradafrom the 15-day injured list.",
+      "player": "Jeremiah Estrada"
+    },
+    {
+      "date": "2026-07-29",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesactivated RHPAJ Smith-Shawverfrom the 60-day injured list.",
       "player": "AJ Smith-Shawver"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RFJhostynxon Garciafrom Indianapolis Indians.",
-      "player": "Jhostynxon Garcia"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPGarrett Stallingsto Nashville Sounds.",
-      "player": "Garrett Stallings"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled RHPChad Dallasfrom Buffalo Bisons.",
-      "player": "Chad Dallas"
     },
     {
       "date": "2026-07-29",
@@ -46,8 +46,8 @@
     {
       "date": "2026-07-29",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled LHPHunter Barcofrom Indianapolis Indians.",
-      "player": "Hunter Barco"
+      "details": "Pittsburgh Piratesrecalled RFJhostynxon Garciafrom Indianapolis Indians.",
+      "player": "Jhostynxon Garcia"
     },
     {
       "date": "2026-07-29",
@@ -57,15 +57,15 @@
     },
     {
       "date": "2026-07-29",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPNoah Murdockfrom Indianapolis Indians.",
-      "player": "Noah Murdock"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPJose Francoto Louisville Bats.",
+      "player": "Jose Franco"
     },
     {
       "date": "2026-07-29",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned LHPBrandon Eisertto Indianapolis Indians.",
-      "player": "Brandon Eisert"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPGus Varlandto Rochester Red Wings.",
+      "player": "Gus Varland"
     },
     {
       "date": "2026-07-29",
@@ -82,6 +82,36 @@
     {
       "date": "2026-07-29",
       "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled LHPHunter Barcofrom Indianapolis Indians.",
+      "player": "Hunter Barco"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPNoah Murdockfrom Indianapolis Indians.",
+      "player": "Noah Murdock"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of LHPThomas Pannonefrom Nashville Sounds.",
+      "player": "Thomas Pannone"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPChad Dallasfrom Buffalo Bisons.",
+      "player": "Chad Dallas"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned LHPBrandon Eisertto Indianapolis Indians.",
+      "player": "Brandon Eisert"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesoptioned LFTyler Callihanto Indianapolis Indians.",
       "player": "Tyler Callihan"
     },
@@ -93,15 +123,9 @@
     },
     {
       "date": "2026-07-29",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPGus Varlandto Rochester Red Wings.",
-      "player": "Gus Varland"
-    },
-    {
-      "date": "2026-07-29",
       "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersselected the contract of LHPThomas Pannonefrom Nashville Sounds.",
-      "player": "Thomas Pannone"
+      "details": "Milwaukee Brewersoptioned RHPGarrett Stallingsto Nashville Sounds.",
+      "player": "Garrett Stallings"
     }
   ]
 }
