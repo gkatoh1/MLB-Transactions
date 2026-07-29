@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-07-29T15:14:14.308047",
+  "last_updated": "2026-07-29T17:21:51.391812",
   "transactions": [
     {
       "date": "2026-07-29",
       "team": "Washington Nationals",
       "details": "Washington Nationalsactivated RHPTrevor Williamsfrom the 60-day injured list.",
       "player": "Trevor Williams"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent LHPHoby Milneron a rehab assignment to Iowa Cubs.",
+      "player": "Hoby Milner"
     },
     {
       "date": "2026-07-29",
@@ -21,6 +27,18 @@
     },
     {
       "date": "2026-07-29",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPGarrett Stallingsto Nashville Sounds.",
+      "player": "Garrett Stallings"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPChad Dallasfrom Buffalo Bisons.",
+      "player": "Chad Dallas"
+    },
+    {
+      "date": "2026-07-29",
       "team": "New York Mets",
       "details": "New York Metsrecalled RHPJonathan Pintarofrom Syracuse Mets.",
       "player": "Jonathan Pintaro"
@@ -28,20 +46,26 @@
     {
       "date": "2026-07-29",
       "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled LHPHunter Barcofrom Indianapolis Indians.",
+      "player": "Hunter Barco"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPCJ Van Eykto Buffalo Bisons.",
+      "player": "CJ Van Eyk"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPNoah Murdockfrom Indianapolis Indians.",
+      "player": "Noah Murdock"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesoptioned LHPBrandon Eisertto Indianapolis Indians.",
       "player": "Brandon Eisert"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned LFTyler Callihanto Indianapolis Indians.",
-      "player": "Tyler Callihan"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPIsaac Mattsonto Indianapolis Indians.",
-      "player": "Isaac Mattson"
     },
     {
       "date": "2026-07-29",
@@ -57,21 +81,27 @@
     },
     {
       "date": "2026-07-29",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned LFTyler Callihanto Indianapolis Indians.",
+      "player": "Tyler Callihan"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPIsaac Mattsonto Indianapolis Indians.",
+      "player": "Isaac Mattson"
+    },
+    {
+      "date": "2026-07-29",
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned RHPGus Varlandto Rochester Red Wings.",
       "player": "Gus Varland"
     },
     {
       "date": "2026-07-29",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled LHPHunter Barcofrom Indianapolis Indians.",
-      "player": "Hunter Barco"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPNoah Murdockfrom Indianapolis Indians.",
-      "player": "Noah Murdock"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of LHPThomas Pannonefrom Nashville Sounds.",
+      "player": "Thomas Pannone"
     }
   ]
 }
