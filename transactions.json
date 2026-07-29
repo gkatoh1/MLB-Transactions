@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-29T19:33:52.918755",
+  "last_updated": "2026-07-29T21:03:54.376862",
   "transactions": [
     {
       "date": "2026-07-29",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated RHPTrevor Williamsfrom the 60-day injured list.",
-      "player": "Trevor Williams"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPAJ Smith-Shawverfrom the 60-day injured list.",
+      "player": "AJ Smith-Shawver"
     },
     {
       "date": "2026-07-29",
@@ -33,9 +33,21 @@
     },
     {
       "date": "2026-07-29",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPAJ Smith-Shawverfrom the 60-day injured list.",
-      "player": "AJ Smith-Shawver"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated RHPTrevor Williamsfrom the 60-day injured list.",
+      "player": "Trevor Williams"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced 1BVinnie Pasquantinoon the 10-day injured list. Right wrist soreness.",
+      "player": "Vinnie Pasquantino"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of LHPThomas Pannonefrom Nashville Sounds.",
+      "player": "Thomas Pannone"
     },
     {
       "date": "2026-07-29",
@@ -51,33 +63,9 @@
     },
     {
       "date": "2026-07-29",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPCJ Van Eykto Buffalo Bisons.",
-      "player": "CJ Van Eyk"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPJose Francoto Louisville Bats.",
-      "player": "Jose Franco"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPGus Varlandto Rochester Red Wings.",
-      "player": "Gus Varland"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned LHPConnor Thomasto Gwinnett Stripers.",
-      "player": "Connor Thomas"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPElieser Hernándezfrom Gwinnett Stripers.",
-      "player": "Elieser Hernández"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPGarrett Stallingsto Nashville Sounds.",
+      "player": "Garrett Stallings"
     },
     {
       "date": "2026-07-29",
@@ -93,15 +81,21 @@
     },
     {
       "date": "2026-07-29",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersselected the contract of LHPThomas Pannonefrom Nashville Sounds.",
-      "player": "Thomas Pannone"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPCJ Van Eykto Buffalo Bisons.",
+      "player": "CJ Van Eyk"
     },
     {
       "date": "2026-07-29",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled RHPChad Dallasfrom Buffalo Bisons.",
-      "player": "Chad Dallas"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPGus Varlandto Rochester Red Wings.",
+      "player": "Gus Varland"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPDaniel Espinoto Columbus Clippers.",
+      "player": "Daniel Espino"
     },
     {
       "date": "2026-07-29",
@@ -117,15 +111,39 @@
     },
     {
       "date": "2026-07-29",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned LHPConnor Thomasto Gwinnett Stripers.",
+      "player": "Connor Thomas"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPElieser Hernándezfrom Gwinnett Stripers.",
+      "player": "Elieser Hernández"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RFJohn Ravefrom Omaha Storm Chasers.",
+      "player": "John Rave"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPChad Dallasfrom Buffalo Bisons.",
+      "player": "Chad Dallas"
+    },
+    {
+      "date": "2026-07-29",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesoptioned RHPIsaac Mattsonto Indianapolis Indians.",
       "player": "Isaac Mattson"
     },
     {
       "date": "2026-07-29",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPGarrett Stallingsto Nashville Sounds.",
-      "player": "Garrett Stallings"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPJose Francoto Louisville Bats.",
+      "player": "Jose Franco"
     }
   ]
 }
