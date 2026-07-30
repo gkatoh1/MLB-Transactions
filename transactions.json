@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-07-29T23:03:52.323662",
+  "last_updated": "2026-07-30T02:56:01.499651",
   "transactions": [
+    {
+      "date": "2026-07-29",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent LHPHoby Milneron a rehab assignment to Iowa Cubs.",
+      "player": "Hoby Milner"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated CTravis d'Arnaudfrom the 60-day injured list.",
+      "player": "Travis d'Arnaud"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerstransferred CDanny Jansenfrom the 10-day injured list to the 60-day injured list. Right forearm strain.",
+      "player": "Danny Jansen"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesreleased RHPDennis Santana.",
+      "player": "Dennis Santana"
+    },
     {
       "date": "2026-07-29",
       "team": "Chicago Cubs",
@@ -12,6 +36,36 @@
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsplaced CFByron Buxtonon the 10-day injured list. Right hip impingement.",
       "player": "Byron Buxton"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated LHPCharlie Barnesfor assignment.",
+      "player": "Charlie Barnes"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPDL Hallon a rehab assignment to Wisconsin Timber Rattlers.",
+      "player": "DL Hall"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent LHPBlake Snellon a rehab assignment to Ontario Tower Buzzers.",
+      "player": "Blake Snell"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPAJ Smith-Shawverfrom the 60-day injured list.",
+      "player": "AJ Smith-Shawver"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPEdwin Díazfrom the 60-day injured list.",
+      "player": "Edwin Díaz"
     },
     {
       "date": "2026-07-29",
@@ -27,20 +81,26 @@
     },
     {
       "date": "2026-07-29",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent CFJonah Coxon a rehab assignment to Sacramento River Cats.",
+      "player": "Jonah Cox"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerstransferred RHPJose Corniellfrom the 15-day injured list to the 60-day injured list.",
+      "player": "Jose Corniell"
+    },
+    {
+      "date": "2026-07-29",
       "team": "Washington Nationals",
       "details": "Washington Nationalsactivated RHPTrevor Williamsfrom the 60-day injured list.",
       "player": "Trevor Williams"
     },
     {
       "date": "2026-07-29",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent LHPDL Hallon a rehab assignment to Wisconsin Timber Rattlers.",
-      "player": "DL Hall"
-    },
-    {
-      "date": "2026-07-29",
       "team": "Texas Rangers",
-      "details": "RFJarred Kelenicassigned toTexas Rangers.",
+      "details": "Texas Rangerssigned free agent RFJarred Kelenicto a minor league contract.",
       "player": "Jarred Kelenic"
     },
     {
@@ -57,18 +117,6 @@
     },
     {
       "date": "2026-07-29",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPAJ Smith-Shawverfrom the 60-day injured list.",
-      "player": "AJ Smith-Shawver"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssent LHPHoby Milneron a rehab assignment to Iowa Cubs.",
-      "player": "Hoby Milner"
-    },
-    {
-      "date": "2026-07-29",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsplaced 1BVinnie Pasquantinoon the 10-day injured list. Right wrist soreness.",
       "player": "Vinnie Pasquantino"
@@ -81,9 +129,27 @@
     },
     {
       "date": "2026-07-29",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesreleased RHPDennis Santana.",
-      "player": "Dennis Santana"
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJonathan Pintarofrom Syracuse Mets.",
+      "player": "Jonathan Pintaro"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPJose Francoto Louisville Bats.",
+      "player": "Jose Franco"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPCJ Van Eykto Buffalo Bisons.",
+      "player": "CJ Van Eyk"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPDaniel Espinoto Columbus Clippers.",
+      "player": "Daniel Espino"
     },
     {
       "date": "2026-07-29",
@@ -94,32 +160,8 @@
     {
       "date": "2026-07-29",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled LHPHunter Barcofrom Indianapolis Indians.",
-      "player": "Hunter Barco"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPNoah Murdockfrom Indianapolis Indians.",
-      "player": "Noah Murdock"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled SSTristan Grayfrom St. Paul Saints.",
-      "player": "Tristan Gray"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Athletics",
-      "details": "Athleticssent RHPGeoff Hartlieboutright to Las Vegas Aviators.",
-      "player": "Geoff Hartlieb"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPChris Roycroftfrom Durham Bulls.",
-      "player": "Chris Roycroft"
+      "details": "Pittsburgh Piratesrecalled RFJhostynxon Garciafrom Indianapolis Indians.",
+      "player": "Jhostynxon Garcia"
     },
     {
       "date": "2026-07-29",
@@ -135,57 +177,9 @@
     },
     {
       "date": "2026-07-29",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled RHPChad Dallasfrom Buffalo Bisons.",
-      "player": "Chad Dallas"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPGarrett Stallingsto Nashville Sounds.",
-      "player": "Garrett Stallings"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent LHPMatt Krookoutright to Rochester Red Wings.",
-      "player": "Matt Krook"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RFJhostynxon Garciafrom Indianapolis Indians.",
-      "player": "Jhostynxon Garcia"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPPaxton Schultzto Rochester Red Wings.",
-      "player": "Paxton Schultz"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPJonathan Pintarofrom Syracuse Mets.",
-      "player": "Jonathan Pintaro"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPCJ Van Eykto Buffalo Bisons.",
-      "player": "CJ Van Eyk"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled 3BNick Sogardfrom Worcester Red Sox.",
-      "player": "Nick Sogard"
-    },
-    {
-      "date": "2026-07-29",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPJose Francoto Louisville Bats.",
-      "player": "Jose Franco"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPChris Roycroftfrom Durham Bulls.",
+      "player": "Chris Roycroft"
     },
     {
       "date": "2026-07-29",
@@ -207,9 +201,15 @@
     },
     {
       "date": "2026-07-29",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned RHPDaniel Espinoto Columbus Clippers.",
-      "player": "Daniel Espino"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled LHPHunter Barcofrom Indianapolis Indians.",
+      "player": "Hunter Barco"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPNoah Murdockfrom Indianapolis Indians.",
+      "player": "Noah Murdock"
     },
     {
       "date": "2026-07-29",
@@ -219,9 +219,63 @@
     },
     {
       "date": "2026-07-29",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent LHPMatt Krookoutright to Rochester Red Wings.",
+      "player": "Matt Krook"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstraded C Logan O'Hoppe and RHP Chase Silseth toTexas Rangersfor SSAngel Arredondo.",
+      "player": "Angel Arredondo"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstraded C Logan O'Hoppe and RHPChase SilsethtoTexas Rangersfor SS Angel Arredondo.",
+      "player": "Chase Silseth"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstraded CLogan O'Hoppeand RHP Chase Silseth toTexas Rangersfor SS Angel Arredondo.",
+      "player": "Logan O'Hoppe"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled SSTristan Grayfrom St. Paul Saints.",
+      "player": "Tristan Gray"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled 3BNick Sogardfrom Worcester Red Sox.",
+      "player": "Nick Sogard"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Athletics",
+      "details": "Athleticssent RHPGeoff Hartlieboutright to Las Vegas Aviators.",
+      "player": "Geoff Hartlieb"
+    },
+    {
+      "date": "2026-07-29",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned LHPConnor Thomasto Gwinnett Stripers.",
       "player": "Connor Thomas"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned CLogan O'Hoppeto Round Rock Express.",
+      "player": "Logan O'Hoppe"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned RHPGarrett Stallingsto Nashville Sounds.",
+      "player": "Garrett Stallings"
     },
     {
       "date": "2026-07-29",
@@ -234,6 +288,18 @@
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsrecalled RFJohn Ravefrom Omaha Storm Chasers.",
       "player": "John Rave"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPChad Dallasfrom Buffalo Bisons.",
+      "player": "Chad Dallas"
+    },
+    {
+      "date": "2026-07-29",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPPaxton Schultzto Rochester Red Wings.",
+      "player": "Paxton Schultz"
     }
   ]
 }
