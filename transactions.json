@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T20:18:59.144954",
+  "last_updated": "2026-07-30T22:13:08.889664",
   "transactions": [
     {
       "date": "2026-07-30",
@@ -9,9 +9,15 @@
     },
     {
       "date": "2026-07-30",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent RHPDrew Thorpeon a rehab assignment to Birmingham Barons.",
+      "player": "Drew Thorpe"
+    },
+    {
+      "date": "2026-07-30",
       "team": "Texas Rangers",
-      "details": "Texas Rangersplaced RHPJakob Junison the 15-day injured list retroactive to July 29, 2026. Left adductor strain.",
-      "player": "Jakob Junis"
+      "details": "Texas Rangerssent LHPCody Bradfordon a rehab assignment to Round Rock Express.",
+      "player": "Cody Bradford"
     },
     {
       "date": "2026-07-30",
@@ -28,8 +34,32 @@
     {
       "date": "2026-07-30",
       "team": "Texas Rangers",
-      "details": "Texas Rangerssent LHPCody Bradfordon a rehab assignment to Round Rock Express.",
-      "player": "Cody Bradford"
+      "details": "Texas Rangersplaced RHPJakob Junison the 15-day injured list retroactive to July 29, 2026. Left adductor strain.",
+      "player": "Jakob Junis"
+    },
+    {
+      "date": "2026-07-30",
+      "team": "Athletics",
+      "details": "Athleticsclaimed LHPConnor Thomasoff waivers fromAtlanta Braves.",
+      "player": "Connor Thomas"
+    },
+    {
+      "date": "2026-07-30",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerstraded C Jake Rogers toBaltimore Oriolesfor RHPZane Barnhart.",
+      "player": "Zane Barnhart"
+    },
+    {
+      "date": "2026-07-30",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerstraded CJake RogerstoBaltimore Oriolesfor RHP Zane Barnhart.",
+      "player": "Jake Rogers"
+    },
+    {
+      "date": "2026-07-30",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPAJ Smith-Shawverto Gwinnett Stripers.",
+      "player": "AJ Smith-Shawver"
     },
     {
       "date": "2026-07-30",
@@ -46,8 +76,8 @@
     {
       "date": "2026-07-30",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned 2BEdwin Arroyoto Louisville Bats.",
-      "player": "Edwin Arroyo"
+      "details": "Cincinnati Redsacquired RHPRyan Garciafrom the Kansas City Monarchs of the American Association.",
+      "player": "Ryan Garcia"
     },
     {
       "date": "2026-07-30",
@@ -57,9 +87,9 @@
     },
     {
       "date": "2026-07-30",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPAJ Smith-Shawverto Gwinnett Stripers.",
-      "player": "AJ Smith-Shawver"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned 2BEdwin Arroyoto Louisville Bats.",
+      "player": "Edwin Arroyo"
     }
   ]
 }
