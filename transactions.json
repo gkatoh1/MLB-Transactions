@@ -1,35 +1,17 @@
 {
-  "last_updated": "2026-07-31T18:24:02.505502",
+  "last_updated": "2026-07-31T20:26:20.238076",
   "transactions": [
     {
       "date": "2026-07-31",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinstransferred RHPCole Sandsfrom the 15-day injured list to the 60-day injured list. Right elbow strain.",
-      "player": "Cole Sands"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated CJake Rogers.",
+      "player": "Jake Rogers"
     },
     {
       "date": "2026-07-31",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsplaced RHPGavin Hollowellon the 15-day injured list. Right shoulder inflammation.",
-      "player": "Gavin Hollowell"
-    },
-    {
-      "date": "2026-07-31",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPAustin Warrenon a rehab assignment to Brooklyn Cyclones.",
-      "player": "Austin Warren"
-    },
-    {
-      "date": "2026-07-31",
-      "team": "Minnesota Twins",
-      "details": "LHPA.J. Minterroster status changed byMinnesota Twins.",
-      "player": "A.J. Minter"
-    },
-    {
-      "date": "2026-07-31",
-      "team": "New York Mets",
-      "details": "3BBilly Amickroster status changed byNew York Mets.",
-      "player": "Billy Amick"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RHPBraydon Fisherfrom the restricted list.",
+      "player": "Braydon Fisher"
     },
     {
       "date": "2026-07-31",
@@ -39,15 +21,135 @@
     },
     {
       "date": "2026-07-31",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated CJake Rogers.",
-      "player": "Jake Rogers"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersdesignated LHPMarco Gonzalesfor assignment.",
+      "player": "Marco Gonzales"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "New York Mets",
+      "details": "New York Metsplaced LHPCionel Pérezon the 15-day injured list retroactive to July 30, 2026. Left forearm strain.",
+      "player": "Cionel Pérez"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPGavin Hollowellon the 15-day injured list. Right shoulder inflammation.",
+      "player": "Gavin Hollowell"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Minnesota Twins",
+      "details": "LHPA.J. Minterroster status changed byMinnesota Twins.",
+      "player": "A.J. Minter"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstransferred RHPCole Sandsfrom the 15-day injured list to the 60-day injured list. Right elbow strain.",
+      "player": "Cole Sands"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated SSCorey Seagerfrom the 10-day injured list.",
+      "player": "Corey Seager"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RFJesús Sánchezfrom the 10-day injured list.",
+      "player": "Jesús Sánchez"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPAustin Warrenon a rehab assignment to Brooklyn Cyclones.",
+      "player": "Austin Warren"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced LHPShane McClanahanon the 15-day injured list. Left mid-back tightness.",
+      "player": "Shane McClanahan"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated RHPChase Silseth.",
+      "player": "Chase Silseth"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPBrian Kellerto Lehigh Valley IronPigs.",
+      "player": "Brian Keller"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJonathan Pintarofrom Syracuse Mets.",
+      "player": "Jonathan Pintaro"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPWinston Santosto Round Rock Express.",
+      "player": "Winston Santos"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned LHPHunter Barcoto Indianapolis Indians.",
+      "player": "Hunter Barco"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPLuis Curvelofrom Round Rock Express.",
+      "player": "Luis Curvelo"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPXzavion Curryfrom Syracuse Mets.",
+      "player": "Xzavion Curry"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPAntwone Kellyfrom Indianapolis Indians.",
+      "player": "Antwone Kelly"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPAlex Cookfrom Durham Bulls.",
+      "player": "Alex Cook"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFYohendrick Piñangoto Buffalo Bisons.",
+      "player": "Yohendrick Piñango"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPAdam Mackoto Buffalo Bisons.",
+      "player": "Adam Macko"
     },
     {
       "date": "2026-07-31",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsrecalled LHPAntoine Kellyfrom Iowa Cubs.",
       "player": "Antoine Kelly"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned 2BJosh Smithto Round Rock Express.",
+      "player": "Josh Smith"
     },
     {
       "date": "2026-07-31",
@@ -66,6 +168,12 @@
       "team": "New York Mets",
       "details": "New York Metstraded LHP A.J. Minter toMinnesota Twinsfor SS Bruin Agbayani and 3BBilly Amick.",
       "player": "Billy Amick"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPAndrew Painterfrom Lehigh Valley IronPigs.",
+      "player": "Andrew Painter"
     }
   ]
 }
