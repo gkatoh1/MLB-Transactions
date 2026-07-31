@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-07-31T16:04:25.998748",
+  "last_updated": "2026-07-31T18:24:02.505502",
   "transactions": [
+    {
+      "date": "2026-07-31",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinstransferred RHPCole Sandsfrom the 15-day injured list to the 60-day injured list. Right elbow strain.",
+      "player": "Cole Sands"
+    },
     {
       "date": "2026-07-31",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsplaced RHPGavin Hollowellon the 15-day injured list. Right shoulder inflammation.",
       "player": "Gavin Hollowell"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPAustin Warrenon a rehab assignment to Brooklyn Cyclones.",
+      "player": "Austin Warren"
     },
     {
       "date": "2026-07-31",
@@ -15,15 +27,27 @@
     },
     {
       "date": "2026-07-31",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinstransferred RHPCole Sandsfrom the 15-day injured list to the 60-day injured list. Right elbow strain.",
-      "player": "Cole Sands"
-    },
-    {
-      "date": "2026-07-31",
       "team": "New York Mets",
       "details": "3BBilly Amickroster status changed byNew York Mets.",
       "player": "Billy Amick"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated CChadwick Trompfor assignment.",
+      "player": "Chadwick Tromp"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated CJake Rogers.",
+      "player": "Jake Rogers"
+    },
+    {
+      "date": "2026-07-31",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPAntoine Kellyfrom Iowa Cubs.",
+      "player": "Antoine Kelly"
     },
     {
       "date": "2026-07-31",
@@ -42,12 +66,6 @@
       "team": "New York Mets",
       "details": "New York Metstraded LHP A.J. Minter toMinnesota Twinsfor SS Bruin Agbayani and 3BBilly Amick.",
       "player": "Billy Amick"
-    },
-    {
-      "date": "2026-07-31",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled LHPAntoine Kellyfrom Iowa Cubs.",
-      "player": "Antoine Kelly"
     }
   ]
 }
