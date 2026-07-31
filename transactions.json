@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-07-30T22:13:08.889664",
+  "last_updated": "2026-07-31T00:09:56.709448",
   "transactions": [
+    {
+      "date": "2026-07-30",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPJakob Junison the 15-day injured list retroactive to July 29, 2026. Left adductor strain.",
+      "player": "Jakob Junis"
+    },
+    {
+      "date": "2026-07-30",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated 2BMatt McLainfrom the 10-day injured list.",
+      "player": "Matt McLain"
+    },
     {
       "date": "2026-07-30",
       "team": "Athletics",
@@ -15,9 +27,9 @@
     },
     {
       "date": "2026-07-30",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssent LHPCody Bradfordon a rehab assignment to Round Rock Express.",
-      "player": "Cody Bradford"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPKyle Harrisonon a rehab assignment to Wisconsin Timber Rattlers.",
+      "player": "Kyle Harrison"
     },
     {
       "date": "2026-07-30",
@@ -27,33 +39,15 @@
     },
     {
       "date": "2026-07-30",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated 2BMatt McLainfrom the 10-day injured list.",
-      "player": "Matt McLain"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent LHPEvan Siskon a rehab assignment to Indianapolis Indians.",
+      "player": "Evan Sisk"
     },
     {
       "date": "2026-07-30",
       "team": "Texas Rangers",
-      "details": "Texas Rangersplaced RHPJakob Junison the 15-day injured list retroactive to July 29, 2026. Left adductor strain.",
-      "player": "Jakob Junis"
-    },
-    {
-      "date": "2026-07-30",
-      "team": "Athletics",
-      "details": "Athleticsclaimed LHPConnor Thomasoff waivers fromAtlanta Braves.",
-      "player": "Connor Thomas"
-    },
-    {
-      "date": "2026-07-30",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerstraded C Jake Rogers toBaltimore Oriolesfor RHPZane Barnhart.",
-      "player": "Zane Barnhart"
-    },
-    {
-      "date": "2026-07-30",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerstraded CJake RogerstoBaltimore Oriolesfor RHP Zane Barnhart.",
-      "player": "Jake Rogers"
+      "details": "Texas Rangerssent LHPCody Bradfordon a rehab assignment to Round Rock Express.",
+      "player": "Cody Bradford"
     },
     {
       "date": "2026-07-30",
@@ -75,21 +69,45 @@
     },
     {
       "date": "2026-07-30",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerstraded C Jake Rogers toBaltimore Oriolesfor RHPZane Barnhart.",
+      "player": "Zane Barnhart"
+    },
+    {
+      "date": "2026-07-30",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerstraded CJake RogerstoBaltimore Oriolesfor RHP Zane Barnhart.",
+      "player": "Jake Rogers"
+    },
+    {
+      "date": "2026-07-30",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJonathan Pintaroto Syracuse Mets.",
+      "player": "Jonathan Pintaro"
+    },
+    {
+      "date": "2026-07-30",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsacquired RHPRyan Garciafrom the Kansas City Monarchs of the American Association.",
       "player": "Ryan Garcia"
     },
     {
       "date": "2026-07-30",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled RHPWinston Santosfrom Round Rock Express.",
-      "player": "Winston Santos"
-    },
-    {
-      "date": "2026-07-30",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned 2BEdwin Arroyoto Louisville Bats.",
       "player": "Edwin Arroyo"
+    },
+    {
+      "date": "2026-07-30",
+      "team": "Athletics",
+      "details": "Athleticsclaimed LHPConnor Thomasoff waivers fromAtlanta Braves.",
+      "player": "Connor Thomas"
+    },
+    {
+      "date": "2026-07-30",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPWinston Santosfrom Round Rock Express.",
+      "player": "Winston Santos"
     }
   ]
 }
