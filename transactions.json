@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-01T18:03:53.128225",
+  "last_updated": "2026-08-01T20:12:09.954782",
   "transactions": [
+    {
+      "date": "2026-08-01",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsdesignated RHPTink Hencefor assignment.",
+      "player": "Tink Hence"
+    },
     {
       "date": "2026-08-01",
       "team": "Minnesota Twins",
@@ -16,20 +22,56 @@
     {
       "date": "2026-08-01",
       "team": "Minnesota Twins",
+      "details": "Minnesota Twinsdesignated RHPCody Lawerysonfor assignment.",
+      "player": "Cody Laweryson"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "Minnesota Twins",
       "details": "Minnesota Twinsactivated LHPA.J. Minter.",
       "player": "A.J. Minter"
     },
     {
       "date": "2026-08-01",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsdesignated RHPTink Hencefor assignment.",
-      "player": "Tink Hence"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced RFRyan O'Hearnon the 10-day injured list. Left quad strain.",
+      "player": "Ryan O'Hearn"
     },
     {
       "date": "2026-08-01",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPMatt Svansonto Memphis Redbirds.",
-      "player": "Matt Svanson"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated RFOwen Caissiefrom the 10-day injured list.",
+      "player": "Owen Caissie"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated CRafael Flores Jr.from the 7-day injured list.",
+      "player": "Rafael Flores Jr."
+    },
+    {
+      "date": "2026-08-01",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersplaced RFLuke Raleyon the 10-day injured list retroactive to July 31, 2026. Left forearm strain.",
+      "player": "Luke Raley"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent LHPBrandon Williamsonon a rehab assignment to Chattanooga Lookouts.",
+      "player": "Brandon Williamson"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPGarrett Actonto St. Paul Saints.",
+      "player": "Garrett Acton"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPYaramil Hiraldofrom Norfolk Tides.",
+      "player": "Yaramil Hiraldo"
     },
     {
       "date": "2026-08-01",
@@ -45,15 +87,51 @@
     },
     {
       "date": "2026-08-01",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPZebby Matthewsto St. Paul Saints.",
-      "player": "Zebby Matthews"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of CFStuart Fairchildfrom Tacoma Rainiers.",
+      "player": "Stuart Fairchild"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned 3BGraham Pauleyto Jacksonville Jumbo Shrimp.",
+      "player": "Graham Pauley"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPJames Karinchakfrom Gwinnett Stripers.",
+      "player": "James Karinchak"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPMatt Svansonto Memphis Redbirds.",
+      "player": "Matt Svanson"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPAntwone Kellyto Indianapolis Indians.",
+      "player": "Antwone Kelly"
     },
     {
       "date": "2026-08-01",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsselected the contract of LHPQuinn Mathewsfrom Memphis Redbirds.",
       "player": "Quinn Mathews"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPZebby Matthewsto St. Paul Saints.",
+      "player": "Zebby Matthews"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPIsaac Mattsonfrom Indianapolis Indians.",
+      "player": "Isaac Mattson"
     },
     {
       "date": "2026-08-01",
@@ -66,12 +144,6 @@
       "team": "New York Mets",
       "details": "New York Metsoptioned RHPXzavion Curryto Syracuse Mets.",
       "player": "Xzavion Curry"
-    },
-    {
-      "date": "2026-08-01",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPJames Karinchakfrom Gwinnett Stripers.",
-      "player": "James Karinchak"
     },
     {
       "date": "2026-08-01",
