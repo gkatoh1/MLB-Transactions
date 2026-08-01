@@ -1,11 +1,77 @@
 {
-  "last_updated": "2026-08-01T16:06:06.531167",
+  "last_updated": "2026-08-01T18:03:53.128225",
   "transactions": [
     {
       "date": "2026-08-01",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinstransferred RHPMike Paredesfrom the 15-day injured list to the 60-day injured list. Left oblique strain.",
       "player": "Mike Paredes"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPElieser Hernándezfor assignment.",
+      "player": "Elieser Hernández"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated LHPA.J. Minter.",
+      "player": "A.J. Minter"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsdesignated RHPTink Hencefor assignment.",
+      "player": "Tink Hence"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPMatt Svansonto Memphis Redbirds.",
+      "player": "Matt Svanson"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestraded RHP Dean Kremer toMinnesota Twinsfor OFJhomnardo Reyes.",
+      "player": "Jhomnardo Reyes"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestraded RHPDean KremertoMinnesota Twinsfor OF Jhomnardo Reyes.",
+      "player": "Dean Kremer"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPZebby Matthewsto St. Paul Saints.",
+      "player": "Zebby Matthews"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsselected the contract of LHPQuinn Mathewsfrom Memphis Redbirds.",
+      "player": "Quinn Mathews"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPKevin Hergetfrom Syracuse Mets.",
+      "player": "Kevin Herget"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPXzavion Curryto Syracuse Mets.",
+      "player": "Xzavion Curry"
+    },
+    {
+      "date": "2026-08-01",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPJames Karinchakfrom Gwinnett Stripers.",
+      "player": "James Karinchak"
     },
     {
       "date": "2026-08-01",
@@ -30,18 +96,6 @@
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardianstraded CBo Naylorand RHP Codi Heuer toMilwaukee Brewersfor CF Blake Perkins and RHP Craig Yoho.",
       "player": "Bo Naylor"
-    },
-    {
-      "date": "2026-08-01",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolestraded RHP Dean Kremer toMinnesota Twinsfor OFJhomnardo Reyes.",
-      "player": "Jhomnardo Reyes"
-    },
-    {
-      "date": "2026-08-01",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolestraded RHPDean KremertoMinnesota Twinsfor OF Jhomnardo Reyes.",
-      "player": "Dean Kremer"
     }
   ]
 }
