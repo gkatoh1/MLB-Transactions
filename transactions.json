@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T12:08:48.400588",
+  "last_updated": "2026-08-02T14:39:52.793264",
   "transactions": [
     {
       "date": "2026-08-02",
@@ -9,9 +9,75 @@
     },
     {
       "date": "2026-08-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced RHPReynaldo Lópezon the 15-day injured list retroactive to July 30, 2026. Left knee inflammation.",
+      "player": "Reynaldo López"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Atlanta Braves",
+      "details": "LHPBailey Falterroster status changed byAtlanta Braves.",
+      "player": "Bailey Falter"
+    },
+    {
+      "date": "2026-08-02",
       "team": "Kansas City Royals",
       "details": "LHPCarter Holtonroster status changed byKansas City Royals.",
       "player": "Carter Holton"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPJackson Jobeon a rehab assignment to West Michigan Whitecaps.",
+      "player": "Jackson Jobe"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated RHPCraig Yoho.",
+      "player": "Craig Yoho"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Chicago White Sox",
+      "details": "RHPLuis Castilloroster status changed byChicago White Sox.",
+      "player": "Luis Castillo"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalstraded CF Lane Thomas and LHP Bailey Falter toAtlanta Bravesfor LHPCarter Holtonand RHP Lucas Braun.",
+      "player": "Carter Holton"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalstraded CF Lane Thomas and LHPBailey FaltertoAtlanta Bravesfor LHP Carter Holton and RHP Lucas Braun.",
+      "player": "Bailey Falter"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerstraded RHPLuis CastillotoChicago White Soxfor RHP Seranthony Domínguez, C Boston Smith, RF Nolan Jones and cash.",
+      "player": "Luis Castillo"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerstraded RHP Luis Castillo toChicago White Soxfor RHPSeranthony Domínguez, C Boston Smith, RF Nolan Jones and cash.",
+      "player": "Seranthony Domínguez"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPJR Ritchiefrom Gwinnett Stripers.",
+      "player": "JR Ritchie"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerstraded RHP Luis Castillo toChicago White Soxfor RHP Seranthony Domínguez, C Boston Smith, RFNolan Jonesand cash.",
+      "player": "Nolan Jones"
     },
     {
       "date": "2026-08-02",
@@ -27,39 +93,15 @@
     },
     {
       "date": "2026-08-02",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned LHPWill Dionto Columbus Clippers.",
+      "player": "Will Dion"
+    },
+    {
+      "date": "2026-08-02",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalstraded CF Lane Thomas and LHP Bailey Falter toAtlanta Bravesfor LHP Carter Holton and RHPLucas Braun.",
       "player": "Lucas Braun"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalstraded CF Lane Thomas and LHP Bailey Falter toAtlanta Bravesfor LHPCarter Holtonand RHP Lucas Braun.",
-      "player": "Carter Holton"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerstraded RHPLuis CastillotoChicago White Soxfor RHP Seranthony Domínguez, C Boston Smith, RF Nolan Jones and cash.",
-      "player": "Luis Castillo"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalstraded CF Lane Thomas and LHPBailey FaltertoAtlanta Bravesfor LHP Carter Holton and RHP Lucas Braun.",
-      "player": "Bailey Falter"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerstraded RHP Luis Castillo toChicago White Soxfor RHPSeranthony Domínguez, C Boston Smith, RF Nolan Jones and cash.",
-      "player": "Seranthony Domínguez"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerstraded RHP Luis Castillo toChicago White Soxfor RHP Seranthony Domínguez, C Boston Smith, RFNolan Jonesand cash.",
-      "player": "Nolan Jones"
     }
   ]
 }
