@@ -1,23 +1,41 @@
 {
-  "last_updated": "2026-08-03T12:32:01.175303",
+  "last_updated": "2026-08-03T15:47:38.082474",
   "transactions": [
     {
       "date": "2026-08-03",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded 1BLuis García Jr.toNew York Yankeesfor RHP Ben Grable, RHP Yovanny Cruz, RHP Jack Cebert and RHP Jake Bird.",
-      "player": "Luis García Jr."
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent RHPFabian Reyesto a minor league contract.",
+      "player": "Fabian Reyes"
     },
     {
       "date": "2026-08-03",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded 1B Luis García Jr. toNew York Yankeesfor RHP Ben Grable, RHP Yovanny Cruz, RHP Jack Cebert and RHPJake Bird.",
-      "player": "Jake Bird"
+      "team": "New York Mets",
+      "details": "New York Metstraded RHP Huascar Brazobán toChicago White Soxfor RHP Gabe Davis and RHPZach Franklin.",
+      "player": "Zach Franklin"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "New York Mets",
+      "details": "New York Metstraded RHP Huascar Brazobán toChicago White Soxfor RHPGabe Davisand RHP Zach Franklin.",
+      "player": "Gabe Davis"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "New York Mets",
+      "details": "New York Metstraded RHPHuascar BrazobántoChicago White Soxfor RHP Gabe Davis and RHP Zach Franklin.",
+      "player": "Huascar Brazobán"
     },
     {
       "date": "2026-08-03",
       "team": "Washington Nationals",
       "details": "Washington Nationalstraded 1B Luis García Jr. toNew York Yankeesfor RHPBen Grable, RHP Yovanny Cruz, RHP Jack Cebert and RHP Jake Bird.",
       "player": "Ben Grable"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled LHPAndrew Alvarezfrom Rochester Red Wings.",
+      "player": "Andrew Alvarez"
     },
     {
       "date": "2026-08-03",
@@ -33,9 +51,45 @@
     },
     {
       "date": "2026-08-03",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded 1BLuis García Jr.toNew York Yankeesfor RHP Ben Grable, RHP Yovanny Cruz, RHP Jack Cebert and RHP Jake Bird.",
+      "player": "Luis García Jr."
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded 1B Luis García Jr. toNew York Yankeesfor RHP Ben Grable, RHP Yovanny Cruz, RHP Jack Cebert and RHPJake Bird.",
+      "player": "Jake Bird"
+    },
+    {
+      "date": "2026-08-03",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned RHPDuncan Davittto Charlotte Knights.",
       "player": "Duncan Davitt"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstraded RHP José Soriano toToronto Blue Jaysfor SSArjun Nimmala, RF Eddie Micheletti Jr. and RHP Angel Rivero.",
+      "player": "Arjun Nimmala"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstraded RHPJosé SorianotoToronto Blue Jaysfor SS Arjun Nimmala, RF Eddie Micheletti Jr. and RHP Angel Rivero.",
+      "player": "José Soriano"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstraded RHP José Soriano toToronto Blue Jaysfor SS Arjun Nimmala, RF Eddie Micheletti Jr. and RHPAngel Rivero.",
+      "player": "Angel Rivero"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstraded RHP José Soriano toToronto Blue Jaysfor SS Arjun Nimmala, RFEddie Micheletti Jr.and RHP Angel Rivero.",
+      "player": "Eddie Micheletti Jr."
     }
   ]
 }
