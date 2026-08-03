@@ -1,6 +1,72 @@
 {
-  "last_updated": "2026-08-02T22:01:02.647367",
+  "last_updated": "2026-08-03T00:03:42.255235",
   "transactions": [
+    {
+      "date": "2026-08-02",
+      "team": "New York Mets",
+      "details": "New York Metsreleased RHPJoey Gerber.",
+      "player": "Joey Gerber"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "New York Mets",
+      "details": "OFAidan Smithroster status changed byNew York Mets.",
+      "player": "Aidan Smith"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated 1BSpencer Horwitzfrom the 10-day injured list.",
+      "player": "Spencer Horwitz"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPJoel Kuhnelon a rehab assignment to Nashville Sounds.",
+      "player": "Joel Kuhnel"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPJackson Jobeon a rehab assignment to West Michigan Whitecaps.",
+      "player": "Jackson Jobe"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated CFKyle Isbelfrom the 10-day injured list.",
+      "player": "Kyle Isbel"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPClay Holmeson a rehab assignment to Brooklyn Cyclones.",
+      "player": "Clay Holmes"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "New York Mets",
+      "details": "RHPGary Gill Hillroster status changed byNew York Mets.",
+      "player": "Gary Gill Hill"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated RHPCraig Yoho.",
+      "player": "Craig Yoho"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPDean Kremer.",
+      "player": "Dean Kremer"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstransferred LHPPJ Poulinfrom the 15-day injured list to the 60-day injured list. Left flexor strain.",
+      "player": "PJ Poulin"
+    },
     {
       "date": "2026-08-02",
       "team": "New York Mets",
@@ -15,27 +81,27 @@
     },
     {
       "date": "2026-08-02",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesactivated 1BSpencer Horwitzfrom the 10-day injured list.",
-      "player": "Spencer Horwitz"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstransferred LHPMatt Gagefrom the 15-day injured list to the 60-day injured list. Left elbow strain.",
+      "player": "Matt Gage"
     },
     {
       "date": "2026-08-02",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesactivated RHPCamilo Doval.",
-      "player": "Camilo Doval"
+      "team": "New York Mets",
+      "details": "SSÉmilien Pitreroster status changed byNew York Mets.",
+      "player": "Émilien Pitre"
     },
     {
       "date": "2026-08-02",
-      "team": "San Diego Padres",
-      "details": "RHPHans Crouseassigned toSan Diego Padres.",
-      "player": "Hans Crouse"
+      "team": "New York Mets",
+      "details": "New York Metsdesignated DHMJ Melendezfor assignment.",
+      "player": "MJ Melendez"
     },
     {
       "date": "2026-08-02",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssigned free agent LHPCharlie Barnesto a minor league contract.",
-      "player": "Charlie Barnes"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated RHPLuis Castillo.",
+      "player": "Luis Castillo"
     },
     {
       "date": "2026-08-02",
@@ -57,57 +123,9 @@
     },
     {
       "date": "2026-08-02",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RHPJackson Jobeon a rehab assignment to West Michigan Whitecaps.",
-      "player": "Jackson Jobe"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated CFKyle Isbelfrom the 10-day injured list.",
-      "player": "Kyle Isbel"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated RHPDean Kremer.",
-      "player": "Dean Kremer"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "New York Mets",
-      "details": "OFAidan Smithroster status changed byNew York Mets.",
-      "player": "Aidan Smith"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantstransferred LHPMatt Gagefrom the 15-day injured list to the 60-day injured list. Left elbow strain.",
-      "player": "Matt Gage"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "New York Mets",
-      "details": "SSÉmilien Pitreroster status changed byNew York Mets.",
-      "player": "Émilien Pitre"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated RHPLuis Castillo.",
-      "player": "Luis Castillo"
-    },
-    {
-      "date": "2026-08-02",
       "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysplaced RFJake Fraleyon the 60-day injured list. Hernia.",
-      "player": "Jake Fraley"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated RHPCraig Yoho.",
-      "player": "Craig Yoho"
+      "details": "RHPFreddy Peraltaroster status changed byTampa Bay Rays.",
+      "player": "Freddy Peralta"
     },
     {
       "date": "2026-08-02",
@@ -117,9 +135,27 @@
     },
     {
       "date": "2026-08-02",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent RHPJoel Kuhnelon a rehab assignment to Nashville Sounds.",
-      "player": "Joel Kuhnel"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RHPCamilo Doval.",
+      "player": "Camilo Doval"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "San Diego Padres",
+      "details": "RHPHans Crouseassigned toSan Diego Padres.",
+      "player": "Hans Crouse"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssigned free agent LHPCharlie Barnesto a minor league contract.",
+      "player": "Charlie Barnes"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced RFJake Fraleyon the 60-day injured list. Hernia.",
+      "player": "Jake Fraley"
     },
     {
       "date": "2026-08-02",
@@ -129,33 +165,75 @@
     },
     {
       "date": "2026-08-02",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPClay Holmeson a rehab assignment to Brooklyn Cyclones.",
-      "player": "Clay Holmes"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalstraded CFLane Thomasand LHP Bailey Falter toAtlanta Bravesfor LHP Carter Holton and RHP Lucas Braun.",
+      "player": "Lane Thomas"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPJR Ritchiefrom Gwinnett Stripers.",
+      "player": "JR Ritchie"
     },
     {
       "date": "2026-08-02",
       "team": "New York Mets",
-      "details": "RHPGary Gill Hillroster status changed byNew York Mets.",
-      "player": "Gary Gill Hill"
+      "details": "New York Metstraded RHP Freddy Peralta toTampa Bay Raysfor RHP Gary Gill Hill, OFAidan Smithand SS Émilien Pitre.",
+      "player": "Aidan Smith"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPDuncan Davittfrom Charlotte Knights.",
+      "player": "Duncan Davitt"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled LHPJosh Simpsonfrom Tacoma Rainiers.",
+      "player": "Josh Simpson"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsclaimed 1BBuddy Kennedyoff waivers fromSeattle Mariners.",
+      "player": "Buddy Kennedy"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned LHPWill Dionto Columbus Clippers.",
+      "player": "Will Dion"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJonathan Pintaroto Syracuse Mets.",
+      "player": "Jonathan Pintaro"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerstraded CF Zyhir Hope, RHPRiver Ryanand RHP Brady Smith toDetroit Tigersfor LHP Tarik Skubal.",
+      "player": "River Ryan"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPJack Andersonto St. Paul Saints.",
+      "player": "Jack Anderson"
+    },
+    {
+      "date": "2026-08-02",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerstraded CF Zyhir Hope, RHP River Ryan and RHPBrady SmithtoDetroit Tigersfor LHP Tarik Skubal.",
+      "player": "Brady Smith"
     },
     {
       "date": "2026-08-02",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgerstraded CFZyhir Hope, RHP River Ryan and RHP Brady Smith toDetroit Tigersfor LHP Tarik Skubal.",
       "player": "Zyhir Hope"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPIsaac Mattsonto Indianapolis Indians.",
-      "player": "Isaac Mattson"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPBryce Conleyfrom Binghamton Rumble Ponies.",
-      "player": "Bryce Conley"
     },
     {
       "date": "2026-08-02",
@@ -166,80 +244,14 @@
     {
       "date": "2026-08-02",
       "team": "New York Mets",
-      "details": "New York Metstraded RHP Freddy Peralta toTampa Bay Raysfor RHP Gary Gill Hill, OF Aidan Smith and SSÉmilien Pitre.",
-      "player": "Émilien Pitre"
+      "details": "New York Metstraded RHP Freddy Peralta toTampa Bay Raysfor RHPGary Gill Hill, OF Aidan Smith and SS Émilien Pitre.",
+      "player": "Gary Gill Hill"
     },
     {
       "date": "2026-08-02",
-      "team": "New York Mets",
-      "details": "New York Metstraded RHPFreddy PeraltatoTampa Bay Raysfor RHP Gary Gill Hill, OF Aidan Smith and SS Émilien Pitre.",
-      "player": "Freddy Peralta"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned CShawn Rossto Syracuse Mets.",
-      "player": "Shawn Ross"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPRobert Stockfrom Syracuse Mets.",
-      "player": "Robert Stock"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled RHPDuncan Davittfrom Charlotte Knights.",
-      "player": "Duncan Davitt"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalstraded CFLane Thomasand LHP Bailey Falter toAtlanta Bravesfor LHP Carter Holton and RHP Lucas Braun.",
-      "player": "Lane Thomas"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsclaimed 1BBuddy Kennedyoff waivers fromSeattle Mariners.",
-      "player": "Buddy Kennedy"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalstraded CF Lane Thomas and LHP Bailey Falter toAtlanta Bravesfor LHP Carter Holton and RHPLucas Braun.",
-      "player": "Lucas Braun"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalstraded CF Lane Thomas and LHP Bailey Falter toAtlanta Bravesfor LHPCarter Holtonand RHP Lucas Braun.",
-      "player": "Carter Holton"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "New York Mets",
-      "details": "New York Metsclaimed CShawn Rossoff waivers fromPittsburgh Pirates.",
-      "player": "Shawn Ross"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalstraded CF Lane Thomas and LHPBailey FaltertoAtlanta Bravesfor LHP Carter Holton and RHP Lucas Braun.",
-      "player": "Bailey Falter"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersrecalled LHPJosh Simpsonfrom Tacoma Rainiers.",
-      "player": "Josh Simpson"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RHPJR Ritchiefrom Gwinnett Stripers.",
-      "player": "JR Ritchie"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent LHPMarco Gonzalesoutright to Round Rock Express.",
+      "player": "Marco Gonzales"
     },
     {
       "date": "2026-08-02",
@@ -249,15 +261,15 @@
     },
     {
       "date": "2026-08-02",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsselected the contract of LHPAaron Bummerfrom Omaha Storm Chasers.",
-      "player": "Aaron Bummer"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned CShawn Rossto Syracuse Mets.",
+      "player": "Shawn Ross"
     },
     {
       "date": "2026-08-02",
-      "team": "New York Mets",
-      "details": "New York Metstraded RHP Freddy Peralta toTampa Bay Raysfor RHP Gary Gill Hill, OFAidan Smithand SS Émilien Pitre.",
-      "player": "Aidan Smith"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsselected the contract of LHPAaron Bummerfrom Omaha Storm Chasers.",
+      "player": "Aaron Bummer"
     },
     {
       "date": "2026-08-02",
@@ -288,18 +300,6 @@
       "team": "Detroit Tigers",
       "details": "Detroit Tigersrecalled RHPBrenan Hanifeefrom Toledo Mud Hens.",
       "player": "Brenan Hanifee"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "New York Mets",
-      "details": "New York Metstraded RHP Freddy Peralta toTampa Bay Raysfor RHPGary Gill Hill, OF Aidan Smith and SS Émilien Pitre.",
-      "player": "Gary Gill Hill"
-    },
-    {
-      "date": "2026-08-02",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubstraded RHPJameson Taillonand cash toToronto Blue Jaysfor Player To Be Named Later.",
-      "player": "Jameson Taillon"
     }
   ]
 }
