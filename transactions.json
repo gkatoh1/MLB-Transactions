@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-03T19:49:56.244664",
+  "last_updated": "2026-08-03T21:12:06.670455",
   "transactions": [
+    {
+      "date": "2026-08-03",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent RHPFabian Reyesto a minor league contract.",
+      "player": "Fabian Reyes"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesdesignated CPayton Henryfor assignment.",
+      "player": "Payton Henry"
+    },
     {
       "date": "2026-08-03",
       "team": "Philadelphia Phillies",
@@ -9,9 +21,9 @@
     },
     {
       "date": "2026-08-03",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysdesignated RHPCraig Kimbrelfor assignment.",
-      "player": "Craig Kimbrel"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RHPDuncan Davittfor assignment.",
+      "player": "Duncan Davitt"
     },
     {
       "date": "2026-08-03",
@@ -27,15 +39,9 @@
     },
     {
       "date": "2026-08-03",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssigned free agent RHPFabian Reyesto a minor league contract.",
-      "player": "Fabian Reyes"
-    },
-    {
-      "date": "2026-08-03",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesdesignated CPayton Henryfor assignment.",
-      "player": "Payton Henry"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated RHPCraig Kimbrelfor assignment.",
+      "player": "Craig Kimbrel"
     },
     {
       "date": "2026-08-03",
@@ -57,75 +63,27 @@
     },
     {
       "date": "2026-08-03",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalstransferred RHPConnor Seaboldfrom the 15-day injured list to the 60-day injured list. Right lat strain.",
+      "player": "Connor Seabold"
+    },
+    {
+      "date": "2026-08-03",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesdesignated RHPLou Trivino IIIfor assignment.",
       "player": "Lou Trivino III"
     },
     {
       "date": "2026-08-03",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated RHPDuncan Davittfor assignment.",
-      "player": "Duncan Davitt"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPAlex Cookto Durham Bulls.",
+      "player": "Alex Cook"
     },
     {
       "date": "2026-08-03",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelstraded RF Jo Adell toCleveland Guardiansfor CJacob Cozart.",
-      "player": "Jacob Cozart"
-    },
-    {
-      "date": "2026-08-03",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded 1B Luis García Jr. toNew York Yankeesfor RHPBen Grable, RHP Yovanny Cruz, RHP Jack Cebert and RHP Jake Bird.",
-      "player": "Ben Grable"
-    },
-    {
-      "date": "2026-08-03",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded 1B Luis García Jr. toNew York Yankeesfor RHP Ben Grable, RHPYovanny Cruz, RHP Jack Cebert and RHP Jake Bird.",
-      "player": "Yovanny Cruz"
-    },
-    {
-      "date": "2026-08-03",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded 1B Luis García Jr. toNew York Yankeesfor RHP Ben Grable, RHP Yovanny Cruz, RHPJack Cebertand RHP Jake Bird.",
-      "player": "Jack Cebert"
-    },
-    {
-      "date": "2026-08-03",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded 1BLuis García Jr.toNew York Yankeesfor RHP Ben Grable, RHP Yovanny Cruz, RHP Jack Cebert and RHP Jake Bird.",
-      "player": "Luis García Jr."
-    },
-    {
-      "date": "2026-08-03",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded 1B Luis García Jr. toNew York Yankeesfor RHP Ben Grable, RHP Yovanny Cruz, RHP Jack Cebert and RHPJake Bird.",
-      "player": "Jake Bird"
-    },
-    {
-      "date": "2026-08-03",
-      "team": "New York Mets",
-      "details": "New York Metstraded RHP Huascar Brazobán toChicago White Soxfor RHP Gabe Davis and RHPZach Franklin.",
-      "player": "Zach Franklin"
-    },
-    {
-      "date": "2026-08-03",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPDuncan Davittto Charlotte Knights.",
-      "player": "Duncan Davitt"
-    },
-    {
-      "date": "2026-08-03",
-      "team": "New York Mets",
-      "details": "New York Metstraded RHP Huascar Brazobán toChicago White Soxfor RHPGabe Davisand RHP Zach Franklin.",
-      "player": "Gabe Davis"
-    },
-    {
-      "date": "2026-08-03",
-      "team": "New York Mets",
-      "details": "New York Metstraded RHPHuascar BrazobántoChicago White Soxfor RHP Gabe Davis and RHP Zach Franklin.",
-      "player": "Huascar Brazobán"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstraded 2B Luis Arraez and RHPCaleb KiliantoPhiladelphia Philliesfor RHP Marty Gair and RHP Ramon Marquez.",
+      "player": "Caleb Kilian"
     },
     {
       "date": "2026-08-03",
@@ -147,33 +105,63 @@
     },
     {
       "date": "2026-08-03",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelstraded RFJo AdelltoCleveland Guardiansfor C Jacob Cozart.",
-      "player": "Jo Adell"
+      "team": "New York Yankees",
+      "details": "New York Yankeessent LFMax Schuemannoutright to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Max Schuemann"
     },
     {
       "date": "2026-08-03",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelstraded RHP José Soriano toToronto Blue Jaysfor SSArjun Nimmala, RF Eddie Micheletti Jr. and RHP Angel Rivero.",
-      "player": "Arjun Nimmala"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded 1B Luis García Jr. toNew York Yankeesfor RHPBen Grable, RHP Yovanny Cruz, RHP Jack Cebert and RHP Jake Bird.",
+      "player": "Ben Grable"
     },
     {
       "date": "2026-08-03",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelstraded RHPJosé SorianotoToronto Blue Jaysfor SS Arjun Nimmala, RF Eddie Micheletti Jr. and RHP Angel Rivero.",
-      "player": "José Soriano"
+      "team": "New York Mets",
+      "details": "New York Metstraded RHP Huascar Brazobán toChicago White Soxfor RHP Gabe Davis and RHPZach Franklin.",
+      "player": "Zach Franklin"
     },
     {
       "date": "2026-08-03",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelstraded RHP José Soriano toToronto Blue Jaysfor SS Arjun Nimmala, RF Eddie Micheletti Jr. and RHPAngel Rivero.",
-      "player": "Angel Rivero"
+      "team": "New York Mets",
+      "details": "New York Metstraded RHP Huascar Brazobán toChicago White Soxfor RHPGabe Davisand RHP Zach Franklin.",
+      "player": "Gabe Davis"
     },
     {
       "date": "2026-08-03",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelstraded RHP José Soriano toToronto Blue Jaysfor SS Arjun Nimmala, RFEddie Micheletti Jr.and RHP Angel Rivero.",
-      "player": "Eddie Micheletti Jr."
+      "team": "Texas Rangers",
+      "details": "Texas Rangerstraded 2BJosh Smithand RHP Josh Stephan toToronto Blue Jaysfor LHP Adam Macko.",
+      "player": "Josh Smith"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerstraded 2B Josh Smith and RHP Josh Stephan toToronto Blue Jaysfor LHPAdam Macko.",
+      "player": "Adam Macko"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerstraded 2B Josh Smith and RHPJosh StephantoToronto Blue Jaysfor LHP Adam Macko.",
+      "player": "Josh Stephan"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "New York Mets",
+      "details": "New York Metstraded RHPHuascar BrazobántoChicago White Soxfor RHP Gabe Davis and RHP Zach Franklin.",
+      "player": "Huascar Brazobán"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded 1B Luis García Jr. toNew York Yankeesfor RHP Ben Grable, RHPYovanny Cruz, RHP Jack Cebert and RHP Jake Bird.",
+      "player": "Yovanny Cruz"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded 1B Luis García Jr. toNew York Yankeesfor RHP Ben Grable, RHP Yovanny Cruz, RHPJack Cebertand RHP Jake Bird.",
+      "player": "Jack Cebert"
     },
     {
       "date": "2026-08-03",
@@ -202,14 +190,74 @@
     {
       "date": "2026-08-03",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled 1BAbimelec Ortizfrom Rochester Red Wings.",
-      "player": "Abimelec Ortiz"
+      "details": "Washington Nationalstraded 1BLuis García Jr.toNew York Yankeesfor RHP Ben Grable, RHP Yovanny Cruz, RHP Jack Cebert and RHP Jake Bird.",
+      "player": "Luis García Jr."
     },
     {
       "date": "2026-08-03",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPAlex Cookto Durham Bulls.",
-      "player": "Alex Cook"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded 1B Luis García Jr. toNew York Yankeesfor RHP Ben Grable, RHP Yovanny Cruz, RHP Jack Cebert and RHPJake Bird.",
+      "player": "Jake Bird"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "New York Mets",
+      "details": "New York Metstraded C Ben Rortvedt toLos Angeles Dodgersfor RHPChayce McDermott.",
+      "player": "Chayce McDermott"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "New York Mets",
+      "details": "New York Metstraded CBen RortvedttoLos Angeles Dodgersfor RHP Chayce McDermott.",
+      "player": "Ben Rortvedt"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPKervin Castrofrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Kervin Castro"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "New York Mets",
+      "details": "New York Metstraded RHP Luke Weaver and cash toPittsburgh Piratesfor SSSammy Stafura.",
+      "player": "Sammy Stafura"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstraded RHP José Soriano toToronto Blue Jaysfor SSArjun Nimmala, RF Eddie Micheletti Jr. and RHP Angel Rivero.",
+      "player": "Arjun Nimmala"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstraded RHPJosé SorianotoToronto Blue Jaysfor SS Arjun Nimmala, RF Eddie Micheletti Jr. and RHP Angel Rivero.",
+      "player": "José Soriano"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstraded RHP José Soriano toToronto Blue Jaysfor SS Arjun Nimmala, RF Eddie Micheletti Jr. and RHPAngel Rivero.",
+      "player": "Angel Rivero"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstraded RHP José Soriano toToronto Blue Jaysfor SS Arjun Nimmala, RFEddie Micheletti Jr.and RHP Angel Rivero.",
+      "player": "Eddie Micheletti Jr."
+    },
+    {
+      "date": "2026-08-03",
+      "team": "New York Mets",
+      "details": "New York Metstraded RHPLuke Weaverand cash toPittsburgh Piratesfor SS Sammy Stafura.",
+      "player": "Luke Weaver"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPDuncan Davittto Charlotte Knights.",
+      "player": "Duncan Davitt"
     },
     {
       "date": "2026-08-03",
@@ -225,81 +273,33 @@
     },
     {
       "date": "2026-08-03",
-      "team": "New York Mets",
-      "details": "New York Metstraded LHPBrooks RaleytoPhiladelphia Philliesfor OF John Spikerman and RHP Luke Gabrysh.",
-      "player": "Brooks Raley"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled 1BAbimelec Ortizfrom Rochester Red Wings.",
+      "player": "Abimelec Ortiz"
     },
     {
       "date": "2026-08-03",
-      "team": "New York Mets",
-      "details": "New York Metstraded LHP Brooks Raley toPhiladelphia Philliesfor OF John Spikerman and RHPLuke Gabrysh.",
-      "player": "Luke Gabrysh"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded C Liam Hicks toTampa Bay Raysfor 3B Brayden Taylor, SS Adrian Santana and RHPJacob Kisting.",
+      "player": "Jacob Kisting"
     },
     {
       "date": "2026-08-03",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantstraded 2B Luis Arraez and RHP Caleb Kilian toPhiladelphia Philliesfor RHP Marty Gair and RHPRamon Marquez.",
-      "player": "Ramon Marquez"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded C Liam Hicks toTampa Bay Raysfor 3B Brayden Taylor, SSAdrian Santanaand RHP Jacob Kisting.",
+      "player": "Adrian Santana"
     },
     {
       "date": "2026-08-03",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantstraded 2BLuis Arraezand RHP Caleb Kilian toPhiladelphia Philliesfor RHP Marty Gair and RHP Ramon Marquez.",
-      "player": "Luis Arraez"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded C Liam Hicks toTampa Bay Raysfor 3BBrayden Taylor, SS Adrian Santana and RHP Jacob Kisting.",
+      "player": "Brayden Taylor"
     },
     {
       "date": "2026-08-03",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantstraded 2B Luis Arraez and RHP Caleb Kilian toPhiladelphia Philliesfor RHPMarty Gairand RHP Ramon Marquez.",
-      "player": "Marty Gair"
-    },
-    {
-      "date": "2026-08-03",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantstraded 2B Luis Arraez and RHPCaleb KiliantoPhiladelphia Philliesfor RHP Marty Gair and RHP Ramon Marquez.",
-      "player": "Caleb Kilian"
-    },
-    {
-      "date": "2026-08-03",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent LFMax Schuemannoutright to Scranton/Wilkes-Barre RailRiders.",
-      "player": "Max Schuemann"
-    },
-    {
-      "date": "2026-08-03",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerstraded 2BJosh Smithand RHP Josh Stephan toToronto Blue Jaysfor LHP Adam Macko.",
-      "player": "Josh Smith"
-    },
-    {
-      "date": "2026-08-03",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerstraded 2B Josh Smith and RHP Josh Stephan toToronto Blue Jaysfor LHPAdam Macko.",
-      "player": "Adam Macko"
-    },
-    {
-      "date": "2026-08-03",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerstraded 2B Josh Smith and RHPJosh StephantoToronto Blue Jaysfor LHP Adam Macko.",
-      "player": "Josh Stephan"
-    },
-    {
-      "date": "2026-08-03",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelstraded LHPBrent SutertoAtlanta Bravesfor SS Nacho Alvarez Jr..",
-      "player": "Brent Suter"
-    },
-    {
-      "date": "2026-08-03",
-      "team": "New York Mets",
-      "details": "New York Metstraded C Ben Rortvedt toLos Angeles Dodgersfor RHPChayce McDermott.",
-      "player": "Chayce McDermott"
-    },
-    {
-      "date": "2026-08-03",
-      "team": "New York Mets",
-      "details": "New York Metstraded CBen RortvedttoLos Angeles Dodgersfor RHP Chayce McDermott.",
-      "player": "Ben Rortvedt"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstraded CLiam HickstoTampa Bay Raysfor 3B Brayden Taylor, SS Adrian Santana and RHP Jacob Kisting.",
+      "player": "Liam Hicks"
     }
   ]
 }
