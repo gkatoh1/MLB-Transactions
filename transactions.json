@@ -1,11 +1,47 @@
 {
-  "last_updated": "2026-08-03T15:47:38.082474",
+  "last_updated": "2026-08-03T17:58:17.296940",
   "transactions": [
     {
       "date": "2026-08-03",
       "team": "Detroit Tigers",
       "details": "Detroit Tigerssigned free agent RHPFabian Reyesto a minor league contract.",
       "player": "Fabian Reyes"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesdesignated CPayton Henryfor assignment.",
+      "player": "Payton Henry"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansdesignated 2BJuan Britofor assignment.",
+      "player": "Juan Brito"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated RHPChris Martinfrom the 15-day injured list.",
+      "player": "Chris Martin"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersdesignated RHPChris Martinfor assignment.",
+      "player": "Chris Martin"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesdesignated RHPLou Trivino IIIfor assignment.",
+      "player": "Lou Trivino III"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesdesignated RHPNolan Hoffmanfor assignment.",
+      "player": "Nolan Hoffman"
     },
     {
       "date": "2026-08-03",
@@ -27,15 +63,51 @@
     },
     {
       "date": "2026-08-03",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded 1B Luis García Jr. toNew York Yankeesfor RHPBen Grable, RHP Yovanny Cruz, RHP Jack Cebert and RHP Jake Bird.",
-      "player": "Ben Grable"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestraded LF Taylor Ward toSeattle Marinersfor RHP Alex Hoppe, RHPBrock Mooreand RHP Harrison Kreiling.",
+      "player": "Brock Moore"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstraded 2B Luis Arraez and RHP Caleb Kilian toPhiladelphia Philliesfor RHP Marty Gair and RHPRamon Marquez.",
+      "player": "Ramon Marquez"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstraded 2BLuis Arraezand RHP Caleb Kilian toPhiladelphia Philliesfor RHP Marty Gair and RHP Ramon Marquez.",
+      "player": "Luis Arraez"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstraded 2B Luis Arraez and RHP Caleb Kilian toPhiladelphia Philliesfor RHPMarty Gairand RHP Ramon Marquez.",
+      "player": "Marty Gair"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstraded 2B Luis Arraez and RHPCaleb KiliantoPhiladelphia Philliesfor RHP Marty Gair and RHP Ramon Marquez.",
+      "player": "Caleb Kilian"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestraded LF Taylor Ward toSeattle Marinersfor RHP Alex Hoppe, RHP Brock Moore and RHPHarrison Kreiling.",
+      "player": "Harrison Kreiling"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstraded RFJo AdelltoCleveland Guardiansfor C Jacob Cozart.",
+      "player": "Jo Adell"
     },
     {
       "date": "2026-08-03",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled LHPAndrew Alvarezfrom Rochester Red Wings.",
-      "player": "Andrew Alvarez"
+      "details": "Washington Nationalstraded 1B Luis García Jr. toNew York Yankeesfor RHPBen Grable, RHP Yovanny Cruz, RHP Jack Cebert and RHP Jake Bird.",
+      "player": "Ben Grable"
     },
     {
       "date": "2026-08-03",
@@ -63,9 +135,45 @@
     },
     {
       "date": "2026-08-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstraded LHPBrent SutertoAtlanta Bravesfor SS Nacho Alvarez Jr..",
+      "player": "Brent Suter"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstraded LHP Brent Suter toAtlanta Bravesfor SSNacho Alvarez Jr..",
+      "player": "Nacho Alvarez Jr."
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned SSNacho Alvarez Jr.to Salt Lake Bees.",
+      "player": "Nacho Alvarez Jr."
+    },
+    {
+      "date": "2026-08-03",
+      "team": "New York Mets",
+      "details": "New York Metstraded C Ben Rortvedt toLos Angeles Dodgersfor RHPChayce McDermott.",
+      "player": "Chayce McDermott"
+    },
+    {
+      "date": "2026-08-03",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned RHPDuncan Davittto Charlotte Knights.",
       "player": "Duncan Davitt"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "New York Mets",
+      "details": "New York Metstraded CBen RortvedttoLos Angeles Dodgersfor RHP Chayce McDermott.",
+      "player": "Ben Rortvedt"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelstraded RF Jo Adell toCleveland Guardiansfor CJacob Cozart.",
+      "player": "Jacob Cozart"
     },
     {
       "date": "2026-08-03",
@@ -87,9 +195,45 @@
     },
     {
       "date": "2026-08-03",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled LHPAndrew Alvarezfrom Rochester Red Wings.",
+      "player": "Andrew Alvarez"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "New York Mets",
+      "details": "New York Metstraded LHP Brooks Raley toPhiladelphia Philliesfor OFJohn Spikermanand RHP Luke Gabrysh.",
+      "player": "John Spikerman"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "New York Mets",
+      "details": "New York Metstraded LHPBrooks RaleytoPhiladelphia Philliesfor OF John Spikerman and RHP Luke Gabrysh.",
+      "player": "Brooks Raley"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "New York Mets",
+      "details": "New York Metstraded LHP Brooks Raley toPhiladelphia Philliesfor OF John Spikerman and RHPLuke Gabrysh.",
+      "player": "Luke Gabrysh"
+    },
+    {
+      "date": "2026-08-03",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelstraded RHP José Soriano toToronto Blue Jaysfor SS Arjun Nimmala, RFEddie Micheletti Jr.and RHP Angel Rivero.",
       "player": "Eddie Micheletti Jr."
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestraded LF Taylor Ward toSeattle Marinersfor RHPAlex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
+      "player": "Alex Hoppe"
+    },
+    {
+      "date": "2026-08-03",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestraded LFTaylor WardtoSeattle Marinersfor RHP Alex Hoppe, RHP Brock Moore and RHP Harrison Kreiling.",
+      "player": "Taylor Ward"
     }
   ]
 }
