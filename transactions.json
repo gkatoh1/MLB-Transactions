@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-03T08:35:00.133469",
+  "last_updated": "2026-08-03T12:32:01.175303",
   "transactions": [
+    {
+      "date": "2026-08-03",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded 1BLuis García Jr.toNew York Yankeesfor RHP Ben Grable, RHP Yovanny Cruz, RHP Jack Cebert and RHP Jake Bird.",
+      "player": "Luis García Jr."
+    },
     {
       "date": "2026-08-03",
       "team": "Washington Nationals",
@@ -21,21 +27,15 @@
     },
     {
       "date": "2026-08-03",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPDuncan Davittto Charlotte Knights.",
-      "player": "Duncan Davitt"
-    },
-    {
-      "date": "2026-08-03",
       "team": "Washington Nationals",
       "details": "Washington Nationalstraded 1B Luis García Jr. toNew York Yankeesfor RHP Ben Grable, RHP Yovanny Cruz, RHPJack Cebertand RHP Jake Bird.",
       "player": "Jack Cebert"
     },
     {
       "date": "2026-08-03",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalstraded 1BLuis García Jr.toNew York Yankeesfor RHP Ben Grable, RHP Yovanny Cruz, RHP Jack Cebert and RHP Jake Bird.",
-      "player": "Luis García Jr."
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPDuncan Davittto Charlotte Knights.",
+      "player": "Duncan Davitt"
     }
   ]
 }
