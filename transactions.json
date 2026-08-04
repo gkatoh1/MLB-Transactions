@@ -1,11 +1,47 @@
 {
-  "last_updated": "2026-08-04T15:28:38.811048",
+  "last_updated": "2026-08-04T17:56:19.428528",
   "transactions": [
+    {
+      "date": "2026-08-04",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RHPTyler Glasnowon a rehab assignment to Ontario Tower Buzzers.",
+      "player": "Tyler Glasnow"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent RHPNick Pivettaon a rehab assignment to Lake Elsinore Storm.",
+      "player": "Nick Pivetta"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated CJoey Bart.",
+      "player": "Joey Bart"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated CFBrenton Doyle.",
+      "player": "Brenton Doyle"
+    },
     {
       "date": "2026-08-04",
       "team": "Unknown Team",
       "details": "LHPJP Searschanged number to 39.",
       "player": "JP Sears"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent RHPNick Pivettaon a rehab assignment to Lake Elsinore Storm.",
+      "player": "Nick Pivetta"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent RHPJoe Musgroveon a rehab assignment to Lake Elsinore Storm.",
+      "player": "Joe Musgrove"
     },
     {
       "date": "2026-08-04",
@@ -21,6 +57,12 @@
     },
     {
       "date": "2026-08-04",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned CEdgar Queroto Charlotte Knights.",
+      "player": "Edgar Quero"
+    },
+    {
+      "date": "2026-08-04",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned SSAnthony Volpeto Scranton/Wilkes-Barre RailRiders.",
       "player": "Anthony Volpe"
@@ -30,6 +72,12 @@
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RFJasson Domínguezto Scranton/Wilkes-Barre RailRiders.",
       "player": "Jasson Domínguez"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled LFHéctor Rodríguezfrom Louisville Bats.",
+      "player": "Héctor Rodríguez"
     }
   ]
 }
