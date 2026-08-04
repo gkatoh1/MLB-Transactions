@@ -1,11 +1,29 @@
 {
-  "last_updated": "2026-08-04T19:47:06.769862",
+  "last_updated": "2026-08-04T21:19:18.817682",
   "transactions": [
     {
       "date": "2026-08-04",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated 2BLuis Arraez.",
-      "player": "Luis Arraez"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated RHPVictor Vodnik.",
+      "player": "Victor Vodnik"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated CJake Rogers.",
+      "player": "Jake Rogers"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RFEli White.",
+      "player": "Eli White"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated CLiam Hicks.",
+      "player": "Liam Hicks"
     },
     {
       "date": "2026-08-04",
@@ -15,87 +33,27 @@
     },
     {
       "date": "2026-08-04",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned free agent RHPElieser Hernándezto a minor league contract.",
-      "player": "Elieser Hernández"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsdesignated LHPMatt Strahmfor assignment.",
-      "player": "Matt Strahm"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "Athletics",
-      "details": "Athleticsactivated RHPJ.T. Ginnfrom the 15-day injured list.",
-      "player": "J.T. Ginn"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssent RHPTyler Glasnowon a rehab assignment to Ontario Tower Buzzers.",
-      "player": "Tyler Glasnow"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated LHPFoster Griffin.",
-      "player": "Foster Griffin"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsdesignated DHJorge Solerfor assignment.",
-      "player": "Jorge Soler"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated SSBobby Witt Jr.from the 10-day injured list.",
-      "player": "Bobby Witt Jr."
-    },
-    {
-      "date": "2026-08-04",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated LFHeliot Ramos.",
-      "player": "Heliot Ramos"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "New York Mets",
-      "details": "New York Metsactivated RHPChayce McDermott.",
-      "player": "Chayce McDermott"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "Athletics",
-      "details": "Athleticsactivated RHPSeth Johnson.",
-      "player": "Seth Johnson"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated RHPDustin May.",
-      "player": "Dustin May"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated RFJo Adell.",
-      "player": "Jo Adell"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressent RHPNick Pivettaon a rehab assignment to Lake Elsinore Storm.",
-      "player": "Nick Pivetta"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RHPLuke Weaver.",
+      "player": "Luke Weaver"
     },
     {
       "date": "2026-08-04",
       "team": "Unknown Team",
       "details": "LHPJP Searschanged number to 39.",
       "player": "JP Sears"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated 2BLuis Arraez.",
+      "player": "Luis Arraez"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated LFLars Nootbaar.",
+      "player": "Lars Nootbaar"
     },
     {
       "date": "2026-08-04",
@@ -123,6 +81,108 @@
     },
     {
       "date": "2026-08-04",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsdesignated LHPMatt Strahmfor assignment.",
+      "player": "Matt Strahm"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Athletics",
+      "details": "Athleticsplaced 1BNick Kurtzon the 10-day injured list retroactive to August 1, 2026. Strained right thumb.",
+      "player": "Nick Kurtz"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated RHPBen Joycefrom the 60-day injured list.",
+      "player": "Ben Joyce"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxdesignated RHPRyan Watsonfor assignment.",
+      "player": "Ryan Watson"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Athletics",
+      "details": "Athleticsactivated RHPJ.T. Ginnfrom the 15-day injured list.",
+      "player": "J.T. Ginn"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated LHPCaleb Ferguson.",
+      "player": "Caleb Ferguson"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated LFChristian Franklin.",
+      "player": "Christian Franklin"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated LHPFoster Griffin.",
+      "player": "Foster Griffin"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated DHJorge Solerfor assignment.",
+      "player": "Jorge Soler"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated SSBobby Witt Jr.from the 10-day injured list.",
+      "player": "Bobby Witt Jr."
+    },
+    {
+      "date": "2026-08-04",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated LFHeliot Ramos.",
+      "player": "Heliot Ramos"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced CGabriel Morenoon the paternity list.",
+      "player": "Gabriel Moreno"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated CHunter Feduccia.",
+      "player": "Hunter Feduccia"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent RHPNick Pivettaon a rehab assignment to Lake Elsinore Storm.",
+      "player": "Nick Pivetta"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent RHPElieser Hernándezto a minor league contract.",
+      "player": "Elieser Hernández"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RHPKirby Yates.",
+      "player": "Kirby Yates"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated CChuckie Robinsonfor assignment.",
+      "player": "Chuckie Robinson"
+    },
+    {
+      "date": "2026-08-04",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsactivated CMoisés Ballesteros.",
       "player": "Moisés Ballesteros"
@@ -141,51 +201,27 @@
     },
     {
       "date": "2026-08-04",
-      "team": "Athletics",
-      "details": "Athleticsplaced 1BNick Kurtzon the 10-day injured list retroactive to August 1, 2026. Strained right thumb.",
-      "player": "Nick Kurtz"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RHPLake Bachar.",
+      "player": "Lake Bachar"
     },
     {
       "date": "2026-08-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsactivated RHPBen Joycefrom the 60-day injured list.",
-      "player": "Ben Joyce"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RHPTyler Wells.",
+      "player": "Tyler Wells"
     },
     {
       "date": "2026-08-04",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsactivated LHPCaleb Ferguson.",
-      "player": "Caleb Ferguson"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent RHPTyler Glasnowon a rehab assignment to Ontario Tower Buzzers.",
+      "player": "Tyler Glasnow"
     },
     {
       "date": "2026-08-04",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated LHPBrooks Raley.",
-      "player": "Brooks Raley"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated LFChristian Franklin.",
-      "player": "Christian Franklin"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressent RHPJoe Musgroveon a rehab assignment to Lake Elsinore Storm.",
-      "player": "Joe Musgrove"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated RHPBryce Conleyfor assignment.",
-      "player": "Bryce Conley"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated CJoey Bart.",
-      "player": "Joey Bart"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPJeff Hoffman.",
+      "player": "Jeff Hoffman"
     },
     {
       "date": "2026-08-04",
@@ -207,99 +243,63 @@
     },
     {
       "date": "2026-08-04",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated LHPErik Miller.",
+      "player": "Erik Miller"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Unknown Team",
+      "details": "CChadwick Trompelected free agency.",
+      "player": "Chadwick Tromp"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "New York Mets",
+      "details": "New York Metsactivated RHPChayce McDermott.",
+      "player": "Chayce McDermott"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Athletics",
+      "details": "Athleticsactivated RHPSeth Johnson.",
+      "player": "Seth Johnson"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RHPDustin May.",
+      "player": "Dustin May"
+    },
+    {
+      "date": "2026-08-04",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolesactivated CCarlos Narváez.",
       "player": "Carlos Narváez"
     },
     {
       "date": "2026-08-04",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent RHPJoe Musgroveon a rehab assignment to Lake Elsinore Storm.",
+      "player": "Joe Musgrove"
+    },
+    {
+      "date": "2026-08-04",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPBryce Conleyfor assignment.",
+      "player": "Bryce Conley"
+    },
+    {
+      "date": "2026-08-04",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned CEdgar Queroto Charlotte Knights.",
-      "player": "Edgar Quero"
+      "details": "Chicago White Soxactivated CJoey Bart.",
+      "player": "Joey Bart"
     },
     {
       "date": "2026-08-04",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsselected the contract of SSEddys Leonardfrom Sacramento River Cats.",
-      "player": "Eddys Leonard"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPAngel Chivillito Scranton/Wilkes-Barre RailRiders.",
-      "player": "Angel Chivilli"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPNolan Hoffmanto Omaha Storm Chasers.",
-      "player": "Nolan Hoffman"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPJose Cuasfrom Omaha Storm Chasers.",
-      "player": "Jose Cuas"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPKevin Hergetoutright to Syracuse Mets.",
-      "player": "Kevin Herget"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsselected the contract of LHPBlake Weimanfrom Rocket City Trash Pandas.",
-      "player": "Blake Weiman"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPEddy Yeanto Rochester Red Wings.",
-      "player": "Eddy Yean"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPCodi Heuerto Norfolk Tides.",
-      "player": "Codi Heuer"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned CFJonah Coxto Sacramento River Cats.",
-      "player": "Jonah Cox"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of LHPNate Lavenderfrom Syracuse Mets.",
-      "player": "Nate Lavender"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsselected the contract of RHPShaun Andersonfrom Salt Lake Bees.",
-      "player": "Shaun Anderson"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned RHPGarrett Stallingsto Nashville Sounds.",
-      "player": "Garrett Stallings"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RFRece Hindsto Norfolk Tides.",
-      "player": "Rece Hinds"
-    },
-    {
-      "date": "2026-08-04",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled LHPJefry Yanfrom Syracuse Mets.",
-      "player": "Jefry Yan"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated LHPBrooks Raley.",
+      "player": "Brooks Raley"
     }
   ]
 }
