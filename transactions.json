@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T00:08:46.269602",
+  "last_updated": "2026-08-07T03:54:17.890792",
   "transactions": [
     {
       "date": "2026-08-06",
@@ -15,15 +15,39 @@
     },
     {
       "date": "2026-08-06",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsreleased DHJorge Soler.",
-      "player": "Jorge Soler"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redstransferred CFBlake Dunnfrom the 10-day injured list to the 60-day injured list. Right elbow sprain.",
+      "player": "Blake Dunn"
     },
     {
       "date": "2026-08-06",
       "team": "Chicago Cubs",
       "details": "Chicago Cubssigned free agent RHPAndrew Wantzto a minor league contract.",
       "player": "Andrew Wantz"
+    },
+    {
+      "date": "2026-08-06",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPSpencer Arrighettion a rehab assignment to Buffalo Bisons.",
+      "player": "Spencer Arrighetti"
+    },
+    {
+      "date": "2026-08-06",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesreleased DHMarcell Ozuna.",
+      "player": "Marcell Ozuna"
+    },
+    {
+      "date": "2026-08-06",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RHPSteven Wilsonfrom the 60-day injured list.",
+      "player": "Steven Wilson"
+    },
+    {
+      "date": "2026-08-06",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssigned free agent RHPYerpleider Dugarteto a minor league contract.",
+      "player": "Yerpleider Dugarte"
     },
     {
       "date": "2026-08-06",
@@ -45,33 +69,15 @@
     },
     {
       "date": "2026-08-06",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesreleased DHMarcell Ozuna.",
-      "player": "Marcell Ozuna"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RFWenceel Pérezon a rehab assignment to Toledo Mud Hens.",
+      "player": "Wenceel Pérez"
     },
     {
       "date": "2026-08-06",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redstransferred CFBlake Dunnfrom the 10-day injured list to the 60-day injured list. Right elbow sprain.",
-      "player": "Blake Dunn"
-    },
-    {
-      "date": "2026-08-06",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated RHPSteven Wilsonfrom the 60-day injured list.",
-      "player": "Steven Wilson"
-    },
-    {
-      "date": "2026-08-06",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssigned free agent RHPYerpleider Dugarteto a minor league contract.",
-      "player": "Yerpleider Dugarte"
-    },
-    {
-      "date": "2026-08-06",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RHPSpencer Arrighettion a rehab assignment to Buffalo Bisons.",
-      "player": "Spencer Arrighetti"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsreleased DHJorge Soler.",
+      "player": "Jorge Soler"
     },
     {
       "date": "2026-08-06",
@@ -87,9 +93,45 @@
     },
     {
       "date": "2026-08-06",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent RFWenceel Pérezon a rehab assignment to Toledo Mud Hens.",
-      "player": "Wenceel Pérez"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsclaimed RHPRon Marinacciooff waivers fromPittsburgh Pirates.",
+      "player": "Ron Marinaccio"
+    },
+    {
+      "date": "2026-08-06",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned LHPLuke Littleto Omaha Storm Chasers.",
+      "player": "Luke Little"
+    },
+    {
+      "date": "2026-08-06",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPBraxton Garrettfrom Iowa Cubs.",
+      "player": "Braxton Garrett"
+    },
+    {
+      "date": "2026-08-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsclaimed RHPWyatt Millsoff waivers fromLos Angeles Dodgers.",
+      "player": "Wyatt Mills"
+    },
+    {
+      "date": "2026-08-06",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPThomas Pannoneoutright to Nashville Sounds.",
+      "player": "Thomas Pannone"
+    },
+    {
+      "date": "2026-08-06",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent RHPTink Henceoutright to FCL Cardinals.",
+      "player": "Tink Hence"
+    },
+    {
+      "date": "2026-08-06",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPBryce Conleyoutright to Binghamton Rumble Ponies.",
+      "player": "Bryce Conley"
     },
     {
       "date": "2026-08-06",
@@ -105,45 +147,33 @@
     },
     {
       "date": "2026-08-06",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsclaimed RHPWyatt Millsoff waivers fromLos Angeles Dodgers.",
-      "player": "Wyatt Mills"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPCarlos Rodriguezoutright to Nashville Sounds.",
+      "player": "Carlos Rodriguez"
     },
     {
       "date": "2026-08-06",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalssent RHPTink Henceoutright to FCL Cardinals.",
-      "player": "Tink Hence"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPTyler Fergusonto Iowa Cubs.",
+      "player": "Tyler Ferguson"
+    },
+    {
+      "date": "2026-08-06",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent CPayton Henryoutright to Lehigh Valley IronPigs.",
+      "player": "Payton Henry"
+    },
+    {
+      "date": "2026-08-06",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPChase Soleskyto Louisville Bats.",
+      "player": "Chase Solesky"
     },
     {
       "date": "2026-08-06",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsclaimed RHPChase Soleskyoff waivers fromTampa Bay Rays.",
       "player": "Chase Solesky"
-    },
-    {
-      "date": "2026-08-06",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPBryce Conleyoutright to Binghamton Rumble Ponies.",
-      "player": "Bryce Conley"
-    },
-    {
-      "date": "2026-08-06",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsrecalled LHPBraxton Garrettfrom Iowa Cubs.",
-      "player": "Braxton Garrett"
-    },
-    {
-      "date": "2026-08-06",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsclaimed RHPRon Marinacciooff waivers fromPittsburgh Pirates.",
-      "player": "Ron Marinaccio"
-    },
-    {
-      "date": "2026-08-06",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent RHPCraig Kimbreloutright to Durham Bulls.",
-      "player": "Craig Kimbrel"
     },
     {
       "date": "2026-08-06",
@@ -165,39 +195,9 @@
     },
     {
       "date": "2026-08-06",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent RHPCarlos Rodriguezoutright to Nashville Sounds.",
-      "player": "Carlos Rodriguez"
-    },
-    {
-      "date": "2026-08-06",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned RHPTyler Fergusonto Iowa Cubs.",
-      "player": "Tyler Ferguson"
-    },
-    {
-      "date": "2026-08-06",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned LHPLuke Littleto Omaha Storm Chasers.",
-      "player": "Luke Little"
-    },
-    {
-      "date": "2026-08-06",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessent CPayton Henryoutright to Lehigh Valley IronPigs.",
-      "player": "Payton Henry"
-    },
-    {
-      "date": "2026-08-06",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent LHPThomas Pannoneoutright to Nashville Sounds.",
-      "player": "Thomas Pannone"
-    },
-    {
-      "date": "2026-08-06",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPChase Soleskyto Louisville Bats.",
-      "player": "Chase Solesky"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RHPCraig Kimbreloutright to Durham Bulls.",
+      "player": "Craig Kimbrel"
     }
   ]
 }
