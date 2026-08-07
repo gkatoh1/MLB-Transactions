@@ -1,29 +1,17 @@
 {
-  "last_updated": "2026-08-07T20:49:58.837702",
+  "last_updated": "2026-08-07T21:47:16.424153",
   "transactions": [
     {
       "date": "2026-08-07",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced LHPChris Murphyon the 15-day injured list. Left flexor strain.",
-      "player": "Chris Murphy"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated LHPJordan Montgomeryfrom the 60-day injured list.",
-      "player": "Jordan Montgomery"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent RHPLou Trivino IIIto a minor league contract.",
+      "player": "Lou Trivino III"
     },
     {
       "date": "2026-08-07",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratessent CFOneil Cruzon a rehab assignment to Indianapolis Indians.",
       "player": "Oneil Cruz"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent RHPLou Trivino IIIto a minor league contract.",
-      "player": "Lou Trivino III"
     },
     {
       "date": "2026-08-07",
@@ -36,12 +24,6 @@
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redssigned free agent LHPKent Emanuelto a minor league contract.",
       "player": "Kent Emanuel"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "New York Yankees",
-      "details": "New York Yankeessigned free agent RHPYefreiny De Paulato a minor league contract.",
-      "player": "Yefreiny De Paula"
     },
     {
       "date": "2026-08-07",
@@ -60,6 +42,24 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxsigned free agent RHPJohn Brebbiato a minor league contract.",
       "player": "John Brebbia"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsdesignated RHPTaylor Rashifor assignment.",
+      "player": "Taylor Rashi"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned free agent RHPYefreiny De Paulato a minor league contract.",
+      "player": "Yefreiny De Paula"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersplaced RHPCole Wilcoxon the 15-day injured list. Left oblique strain.",
+      "player": "Cole Wilcox"
     },
     {
       "date": "2026-08-07",
@@ -87,33 +87,15 @@
     },
     {
       "date": "2026-08-07",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsdesignated RHPTaylor Rashifor assignment.",
-      "player": "Taylor Rashi"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced LHPChris Murphyon the 15-day injured list. Left flexor strain.",
+      "player": "Chris Murphy"
     },
     {
       "date": "2026-08-07",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPMason Blackfrom Omaha Storm Chasers.",
-      "player": "Mason Black"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsselected the contract of SSKaelen Culpepperfrom St. Paul Saints.",
-      "player": "Kaelen Culpepper"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsrecalled RHPGeorge Klassenfrom Salt Lake Bees.",
-      "player": "George Klassen"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "New York Mets",
-      "details": "New York Metsclaimed 3BGabriel Ariasoff waivers fromCleveland Guardians.",
-      "player": "Gabriel Arias"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated LHPJordan Montgomeryfrom the 60-day injured list.",
+      "player": "Jordan Montgomery"
     },
     {
       "date": "2026-08-07",
@@ -129,9 +111,15 @@
     },
     {
       "date": "2026-08-07",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned LHPMitch Farristo Salt Lake Bees.",
-      "player": "Mitch Farris"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of LHPRaymond Burgosfrom Worcester Red Sox.",
+      "player": "Raymond Burgos"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled RHPNick Davilafrom Tacoma Rainiers.",
+      "player": "Nick Davila"
     },
     {
       "date": "2026-08-07",
@@ -141,21 +129,9 @@
     },
     {
       "date": "2026-08-07",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned LHPMitch Farristo Salt Lake Bees.",
-      "player": "Mitch Farris"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RHPFranco Alemanfrom Columbus Clippers.",
-      "player": "Franco Aleman"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxselected the contract of LHPRaymond Burgosfrom Worcester Red Sox.",
-      "player": "Raymond Burgos"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPMason Blackfrom Omaha Storm Chasers.",
+      "player": "Mason Black"
     },
     {
       "date": "2026-08-07",
@@ -171,9 +147,39 @@
     },
     {
       "date": "2026-08-07",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled RHPGeorge Klassenfrom Salt Lake Bees.",
+      "player": "George Klassen"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned LHPMitch Farristo Salt Lake Bees.",
+      "player": "Mitch Farris"
+    },
+    {
+      "date": "2026-08-07",
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned RHPWyatt Millsto Rochester Red Wings.",
       "player": "Wyatt Mills"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned LHPMitch Farristo Salt Lake Bees.",
+      "player": "Mitch Farris"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled CFJake Meyersfrom Sugar Land Space Cowboys.",
+      "player": "Jake Meyers"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPFranco Alemanfrom Columbus Clippers.",
+      "player": "Franco Aleman"
     },
     {
       "date": "2026-08-07",
@@ -183,9 +189,33 @@
     },
     {
       "date": "2026-08-07",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsselected the contract of SSKaelen Culpepperfrom St. Paul Saints.",
+      "player": "Kaelen Culpepper"
+    },
+    {
+      "date": "2026-08-07",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsoptioned LHPAaron Bummerto Omaha Storm Chasers.",
       "player": "Aaron Bummer"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPKade Strowdfrom Reno Aces.",
+      "player": "Kade Strowd"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned LHPKohl Draketo Reno Aces.",
+      "player": "Kohl Drake"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "New York Mets",
+      "details": "New York Metsclaimed 3BGabriel Ariasoff waivers fromCleveland Guardians.",
+      "player": "Gabriel Arias"
     }
   ]
 }
