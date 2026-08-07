@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-08-07T17:52:58.153685",
+  "last_updated": "2026-08-07T19:06:03.423252",
   "transactions": [
     {
       "date": "2026-08-07",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsoptioned LHPMitch Farristo Salt Lake Bees.",
       "player": "Mitch Farris"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "New York Mets",
+      "details": "New York Metsclaimed 3BGabriel Ariasoff waivers fromCleveland Guardians.",
+      "player": "Gabriel Arias"
     }
   ]
 }
