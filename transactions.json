@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-08-08T22:36:42.989441",
+  "last_updated": "2026-08-08T23:35:22.496632",
   "transactions": [
     {
       "date": "2026-08-08",
       "team": "Seattle Mariners",
       "details": "Seattle Marinerssent RHPCarlos Vargason a rehab assignment to Everett AquaSox.",
       "player": "Carlos Vargas"
+    },
+    {
+      "date": "2026-08-08",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPRon Marinaccio.",
+      "player": "Ron Marinaccio"
     },
     {
       "date": "2026-08-08",
@@ -27,15 +33,9 @@
     },
     {
       "date": "2026-08-08",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated RHPRon Marinaccio.",
-      "player": "Ron Marinaccio"
-    },
-    {
-      "date": "2026-08-08",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssigned free agent CFStuart Fairchildto a minor league contract.",
-      "player": "Stuart Fairchild"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent CAdley Rutschmanon a rehab assignment to Worcester Red Sox.",
+      "player": "Adley Rutschman"
     },
     {
       "date": "2026-08-08",
@@ -45,9 +45,27 @@
     },
     {
       "date": "2026-08-08",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssigned free agent CFStuart Fairchildto a minor league contract.",
+      "player": "Stuart Fairchild"
+    },
+    {
+      "date": "2026-08-08",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsactivated RFEverson Pereira.",
       "player": "Everson Pereira"
+    },
+    {
+      "date": "2026-08-08",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPClay Holmesfrom the 60-day injured list.",
+      "player": "Clay Holmes"
+    },
+    {
+      "date": "2026-08-08",
+      "team": "Seattle Mariners",
+      "details": "LHPGabe Speierroster status changed bySeattle Mariners.",
+      "player": "Gabe Speier"
     },
     {
       "date": "2026-08-08",
@@ -60,12 +78,6 @@
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewerssent RFSal Frelickon a rehab assignment to Nashville Sounds.",
       "player": "Sal Frelick"
-    },
-    {
-      "date": "2026-08-08",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPClay Holmesfrom the 60-day injured list.",
-      "player": "Clay Holmes"
     },
     {
       "date": "2026-08-08",
@@ -87,12 +99,6 @@
     },
     {
       "date": "2026-08-08",
-      "team": "New York Mets",
-      "details": "New York Metsactivated 3BGabriel Arias.",
-      "player": "Gabriel Arias"
-    },
-    {
-      "date": "2026-08-08",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsdesignated LFNelson Velázquezfor assignment.",
       "player": "Nelson Velázquez"
@@ -102,6 +108,12 @@
       "team": "Texas Rangers",
       "details": "Texas Rangersreleased RHPChris Martin.",
       "player": "Chris Martin"
+    },
+    {
+      "date": "2026-08-08",
+      "team": "New York Mets",
+      "details": "New York Metsactivated 3BGabriel Arias.",
+      "player": "Gabriel Arias"
     },
     {
       "date": "2026-08-08",
@@ -129,33 +141,15 @@
     },
     {
       "date": "2026-08-08",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent CAdley Rutschmanon a rehab assignment to Worcester Red Sox.",
-      "player": "Adley Rutschman"
-    },
-    {
-      "date": "2026-08-08",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned RHPDavid Sandlinto Charlotte Knights.",
       "player": "David Sandlin"
     },
     {
       "date": "2026-08-08",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned 1BEric Wagamanto Syracuse Mets.",
-      "player": "Eric Wagaman"
-    },
-    {
-      "date": "2026-08-08",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesoptioned RHPBlas Castañoto Albuquerque Isotopes.",
       "player": "Blas Castaño"
-    },
-    {
-      "date": "2026-08-08",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned LHPBraxton Garrettto Iowa Cubs.",
-      "player": "Braxton Garrett"
     },
     {
       "date": "2026-08-08",
@@ -177,12 +171,6 @@
     },
     {
       "date": "2026-08-08",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled RHPTanner McDougalfrom Charlotte Knights.",
-      "player": "Tanner McDougal"
-    },
-    {
-      "date": "2026-08-08",
       "team": "Texas Rangers",
       "details": "Texas Rangersoptioned RHPBen Peoplesto Round Rock Express.",
       "player": "Ben Peoples"
@@ -192,6 +180,24 @@
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
       "player": "Chase Petty"
+    },
+    {
+      "date": "2026-08-08",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned LHPBraxton Garrettto Iowa Cubs.",
+      "player": "Braxton Garrett"
+    },
+    {
+      "date": "2026-08-08",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPTanner McDougalfrom Charlotte Knights.",
+      "player": "Tanner McDougal"
+    },
+    {
+      "date": "2026-08-08",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned 1BEric Wagamanto Syracuse Mets.",
+      "player": "Eric Wagaman"
     },
     {
       "date": "2026-08-08",
