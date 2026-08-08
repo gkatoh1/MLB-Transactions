@@ -1,17 +1,23 @@
 {
-  "last_updated": "2026-08-08T20:37:43.094767",
+  "last_updated": "2026-08-08T21:36:45.406496",
   "transactions": [
     {
       "date": "2026-08-08",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent LHPCarlos Rodónon a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
-      "player": "Carlos Rodón"
+      "team": "New York Mets",
+      "details": "New York Metsactivated 3BGabriel Arias.",
+      "player": "Gabriel Arias"
     },
     {
       "date": "2026-08-08",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPClay Holmesfrom the 60-day injured list.",
-      "player": "Clay Holmes"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RHPWikelman Gonzálezfor assignment.",
+      "player": "Wikelman González"
+    },
+    {
+      "date": "2026-08-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RFSal Frelickon a rehab assignment to Nashville Sounds.",
+      "player": "Sal Frelick"
     },
     {
       "date": "2026-08-08",
@@ -21,15 +27,15 @@
     },
     {
       "date": "2026-08-08",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent CAdley Rutschmanon a rehab assignment to Worcester Red Sox.",
-      "player": "Adley Rutschman"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPClay Holmesfrom the 60-day injured list.",
+      "player": "Clay Holmes"
     },
     {
       "date": "2026-08-08",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent LHPDJ Herzon a rehab assignment to Fredericksburg Nationals.",
-      "player": "DJ Herz"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated RHPRon Marinaccio.",
+      "player": "Ron Marinaccio"
     },
     {
       "date": "2026-08-08",
@@ -45,21 +51,21 @@
     },
     {
       "date": "2026-08-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated RHPBryse Wilsonfor assignment.",
+      "player": "Bryse Wilson"
+    },
+    {
+      "date": "2026-08-08",
       "team": "Detroit Tigers",
       "details": "Detroit Tigerssent LHPBrant Hurteron a rehab assignment to Toledo Mud Hens.",
       "player": "Brant Hurter"
     },
     {
       "date": "2026-08-08",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent RFSal Frelickon a rehab assignment to Nashville Sounds.",
-      "player": "Sal Frelick"
-    },
-    {
-      "date": "2026-08-08",
-      "team": "New York Mets",
-      "details": "New York Metsactivated 3BGabriel Arias.",
-      "player": "Gabriel Arias"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent LHPDJ Herzon a rehab assignment to Fredericksburg Nationals.",
+      "player": "DJ Herz"
     },
     {
       "date": "2026-08-08",
@@ -69,63 +75,21 @@
     },
     {
       "date": "2026-08-08",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated RHPRon Marinaccio.",
-      "player": "Ron Marinaccio"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent CAdley Rutschmanon a rehab assignment to Worcester Red Sox.",
+      "player": "Adley Rutschman"
     },
     {
       "date": "2026-08-08",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersdesignated RHPBryse Wilsonfor assignment.",
-      "player": "Bryse Wilson"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPCarlos Vargason a rehab assignment to Everett AquaSox.",
+      "player": "Carlos Vargas"
     },
     {
       "date": "2026-08-08",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated RHPWikelman Gonzálezfor assignment.",
-      "player": "Wikelman González"
-    },
-    {
-      "date": "2026-08-08",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned RHPBen Peoplesto Round Rock Express.",
-      "player": "Ben Peoples"
-    },
-    {
-      "date": "2026-08-08",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPYunior Turfrom Las Vegas Aviators.",
-      "player": "Yunior Tur"
-    },
-    {
-      "date": "2026-08-08",
-      "team": "Athletics",
-      "details": "Athleticsoptioned RHPHayden Juengerto Las Vegas Aviators.",
-      "player": "Hayden Juenger"
-    },
-    {
-      "date": "2026-08-08",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned LHPNoah Schultzto Charlotte Knights.",
-      "player": "Noah Schultz"
-    },
-    {
-      "date": "2026-08-08",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersselected the contract of RHPLyon Richardsonfrom Nashville Sounds.",
-      "player": "Lyon Richardson"
-    },
-    {
-      "date": "2026-08-08",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
-      "player": "Chase Petty"
-    },
-    {
-      "date": "2026-08-08",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled RHPTanner McDougalfrom Charlotte Knights.",
-      "player": "Tanner McDougal"
+      "team": "New York Yankees",
+      "details": "New York Yankeessent LHPCarlos Rodónon a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Carlos Rodón"
     },
     {
       "date": "2026-08-08",
@@ -142,6 +106,36 @@
     {
       "date": "2026-08-08",
       "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPNoah Schultzto Charlotte Knights.",
+      "player": "Noah Schultz"
+    },
+    {
+      "date": "2026-08-08",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of RHPLyon Richardsonfrom Nashville Sounds.",
+      "player": "Lyon Richardson"
+    },
+    {
+      "date": "2026-08-08",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPTanner McDougalfrom Charlotte Knights.",
+      "player": "Tanner McDougal"
+    },
+    {
+      "date": "2026-08-08",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPYunior Turfrom Las Vegas Aviators.",
+      "player": "Yunior Tur"
+    },
+    {
+      "date": "2026-08-08",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPHayden Juengerto Las Vegas Aviators.",
+      "player": "Hayden Juenger"
+    },
+    {
+      "date": "2026-08-08",
+      "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned RHPDavid Sandlinto Charlotte Knights.",
       "player": "David Sandlin"
     },
@@ -150,6 +144,18 @@
       "team": "Chicago White Sox",
       "details": "Chicago White Soxselected the contract of LHPHagen Smithfrom Charlotte Knights.",
       "player": "Hagen Smith"
+    },
+    {
+      "date": "2026-08-08",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPBen Peoplesto Round Rock Express.",
+      "player": "Ben Peoples"
+    },
+    {
+      "date": "2026-08-08",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPChase Pettyto Louisville Bats.",
+      "player": "Chase Petty"
     }
   ]
 }
