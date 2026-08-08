@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T23:39:22.205158",
+  "last_updated": "2026-08-08T02:05:42.245600",
   "transactions": [
     {
       "date": "2026-08-07",
@@ -9,21 +9,15 @@
     },
     {
       "date": "2026-08-07",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssigned free agent LHPKent Emanuelto a minor league contract.",
-      "player": "Kent Emanuel"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RHPMatt Waldron.",
+      "player": "Matt Waldron"
     },
     {
       "date": "2026-08-07",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated LHPJordan Montgomeryfrom the 60-day injured list.",
-      "player": "Jordan Montgomery"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced CJoey Barton the 10-day injured list. Fifth metacarpal fracture in his left hand.",
-      "player": "Joey Bart"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced 2BBen Williamsonon the 10-day injured list retroactive to August 6, 2026. Right hamstring strain.",
+      "player": "Ben Williamson"
     },
     {
       "date": "2026-08-07",
@@ -33,21 +27,33 @@
     },
     {
       "date": "2026-08-07",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssigned free agent RHPCody Lawerysonto a minor league contract.",
-      "player": "Cody Laweryson"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessent CFOneil Cruzon a rehab assignment to Indianapolis Indians.",
+      "player": "Oneil Cruz"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressigned free agent LFDustin Harristo a minor league contract.",
+      "player": "Dustin Harris"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated RFRudy Martin Jr.for assignment.",
+      "player": "Rudy Martin Jr."
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent LHPKent Emanuelto a minor league contract.",
+      "player": "Kent Emanuel"
     },
     {
       "date": "2026-08-07",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersplaced RHPCole Wilcoxon the 15-day injured list. Left oblique strain.",
       "player": "Cole Wilcox"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "New York Yankees",
-      "details": "New York Yankeessigned free agent RHPYefreiny De Paulato a minor league contract.",
-      "player": "Yefreiny De Paula"
     },
     {
       "date": "2026-08-07",
@@ -75,12 +81,6 @@
     },
     {
       "date": "2026-08-07",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated RHPMatt Waldron.",
-      "player": "Matt Waldron"
-    },
-    {
-      "date": "2026-08-07",
       "team": "Texas Rangers",
       "details": "Texas Rangersdesignated RHPNolan Kinghamfor assignment.",
       "player": "Nolan Kingham"
@@ -90,6 +90,48 @@
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsplaced RHPJoe Ryanon the 15-day injured list retroactive to August 5, 2026. Left glute strain.",
       "player": "Joe Ryan"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Athletics",
+      "details": "Athleticssigned free agent RHPMatt Sauerto a minor league contract.",
+      "player": "Matt Sauer"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPJackson Jobefrom the 60-day injured list.",
+      "player": "Jackson Jobe"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced CJoey Barton the 10-day injured list. Fifth metacarpal fracture in his left hand.",
+      "player": "Joey Bart"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPCody Lawerysonto a minor league contract.",
+      "player": "Cody Laweryson"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced LHPChris Murphyon the 15-day injured list. Left flexor strain.",
+      "player": "Chris Murphy"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated LHPJordan Montgomeryfrom the 60-day injured list.",
+      "player": "Jordan Montgomery"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "New York Yankees",
+      "details": "New York Yankeessigned free agent RHPYefreiny De Paulato a minor league contract.",
+      "player": "Yefreiny De Paula"
     },
     {
       "date": "2026-08-07",
@@ -106,38 +148,26 @@
     {
       "date": "2026-08-07",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced LHPChris Murphyon the 15-day injured list. Left flexor strain.",
-      "player": "Chris Murphy"
+      "details": "Chicago White Soxrecalled RHPDavid Sandlinfrom Charlotte Knights.",
+      "player": "David Sandlin"
     },
     {
       "date": "2026-08-07",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysplaced 2BBen Williamsonon the 10-day injured list retroactive to August 6, 2026. Right hamstring strain.",
-      "player": "Ben Williamson"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPFranco Alemanfrom Columbus Clippers.",
+      "player": "Franco Aleman"
     },
     {
       "date": "2026-08-07",
-      "team": "Athletics",
-      "details": "Athleticssigned free agent RHPMatt Sauerto a minor league contract.",
-      "player": "Matt Sauer"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPWyatt Millsto Rochester Red Wings.",
+      "player": "Wyatt Mills"
     },
     {
       "date": "2026-08-07",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratessent CFOneil Cruzon a rehab assignment to Indianapolis Indians.",
-      "player": "Oneil Cruz"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysdesignated RFRudy Martin Jr.for assignment.",
-      "player": "Rudy Martin Jr."
-    },
-    {
-      "date": "2026-08-07",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgerssent CChuckie Robinsonoutright to Oklahoma City Comets.",
-      "player": "Chuckie Robinson"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsclaimed RHPRyan Watsonoff waivers fromBoston Red Sox.",
+      "player": "Ryan Watson"
     },
     {
       "date": "2026-08-07",
@@ -147,33 +177,21 @@
     },
     {
       "date": "2026-08-07",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled CEdgar Querofrom Charlotte Knights.",
-      "player": "Edgar Quero"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled RHPDavid Sandlinfrom Charlotte Knights.",
-      "player": "David Sandlin"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned LHPMitch Farristo Salt Lake Bees.",
-      "player": "Mitch Farris"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled SSCarson Williamsfrom Durham Bulls.",
-      "player": "Carson Williams"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPChase Leeto Buffalo Bisons.",
+      "player": "Chase Lee"
     },
     {
       "date": "2026-08-07",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysselected the contract of CFBrett Batemanfrom Buffalo Bisons.",
       "player": "Brett Bateman"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled CFJake Meyersfrom Sugar Land Space Cowboys.",
+      "player": "Jake Meyers"
     },
     {
       "date": "2026-08-07",
@@ -195,27 +213,9 @@
     },
     {
       "date": "2026-08-07",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsclaimed RHPRyan Watsonoff waivers fromBoston Red Sox.",
-      "player": "Ryan Watson"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPGreg Weissertto Worcester Red Sox.",
-      "player": "Greg Weissert"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPMason Blackfrom Omaha Storm Chasers.",
-      "player": "Mason Black"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsselected the contract of RHPTrent Harrisfrom Sacramento River Cats.",
-      "player": "Trent Harris"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPBrenan Hanifeeto Toledo Mud Hens.",
+      "player": "Brenan Hanifee"
     },
     {
       "date": "2026-08-07",
@@ -225,15 +225,33 @@
     },
     {
       "date": "2026-08-07",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsselected the contract of RHPTrent Harrisfrom Sacramento River Cats.",
+      "player": "Trent Harris"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent CChuckie Robinsonoutright to Oklahoma City Comets.",
+      "player": "Chuckie Robinson"
+    },
+    {
+      "date": "2026-08-07",
       "team": "Seattle Mariners",
       "details": "Seattle Marinerssent CFStuart Fairchildoutright to Tacoma Rainiers.",
       "player": "Stuart Fairchild"
     },
     {
       "date": "2026-08-07",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsrecalled RHPGeorge Klassenfrom Salt Lake Bees.",
-      "player": "George Klassen"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPGreg Weissertto Worcester Red Sox.",
+      "player": "Greg Weissert"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of LHPRaymond Burgosfrom Worcester Red Sox.",
+      "player": "Raymond Burgos"
     },
     {
       "date": "2026-08-07",
@@ -249,15 +267,21 @@
     },
     {
       "date": "2026-08-07",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPWyatt Millsto Rochester Red Wings.",
-      "player": "Wyatt Mills"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled CEdgar Querofrom Charlotte Knights.",
+      "player": "Edgar Quero"
     },
     {
       "date": "2026-08-07",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled CFJake Meyersfrom Sugar Land Space Cowboys.",
-      "player": "Jake Meyers"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled SSCarson Williamsfrom Durham Bulls.",
+      "player": "Carson Williams"
+    },
+    {
+      "date": "2026-08-07",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled RHPGeorge Klassenfrom Salt Lake Bees.",
+      "player": "George Klassen"
     },
     {
       "date": "2026-08-07",
@@ -273,33 +297,9 @@
     },
     {
       "date": "2026-08-07",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersrecalled RHPNick Davilafrom Tacoma Rainiers.",
-      "player": "Nick Davila"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPChase Leeto Buffalo Bisons.",
-      "player": "Chase Lee"
-    },
-    {
-      "date": "2026-08-07",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsoptioned LHPMitch Farristo Salt Lake Bees.",
       "player": "Mitch Farris"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RHPFranco Alemanfrom Columbus Clippers.",
-      "player": "Franco Aleman"
-    },
-    {
-      "date": "2026-08-07",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxselected the contract of LHPRaymond Burgosfrom Worcester Red Sox.",
-      "player": "Raymond Burgos"
     }
   ]
 }
