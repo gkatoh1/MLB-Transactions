@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T16:43:47.918934",
+  "last_updated": "2026-08-09T17:37:05.033272",
   "transactions": [
     {
       "date": "2026-08-09",
@@ -15,15 +15,15 @@
     },
     {
       "date": "2026-08-09",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPJack Weisenburgerfrom Syracuse Mets.",
-      "player": "Jack Weisenburger"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPShelby Milleron a rehab assignment to Iowa Cubs.",
+      "player": "Shelby Miller"
     },
     {
       "date": "2026-08-09",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned LFAlejandro Osunato Round Rock Express.",
-      "player": "Alejandro Osuna"
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPJack Weisenburgerfrom Syracuse Mets.",
+      "player": "Jack Weisenburger"
     },
     {
       "date": "2026-08-09",
@@ -33,21 +33,27 @@
     },
     {
       "date": "2026-08-09",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned LHPCarson Palmquistto Rochester Red Wings.",
-      "player": "Carson Palmquist"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned LFAlejandro Osunato Round Rock Express.",
+      "player": "Alejandro Osuna"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPXzavion Curryto Syracuse Mets.",
+      "player": "Xzavion Curry"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersselected the contract of 3BJonah Bridefrom Round Rock Express.",
+      "player": "Jonah Bride"
     },
     {
       "date": "2026-08-09",
       "team": "Washington Nationals",
       "details": "Washington Nationalsrecalled RHPJake Birdfrom Rochester Red Wings.",
       "player": "Jake Bird"
-    },
-    {
-      "date": "2026-08-09",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPAlan Rangelfrom Lehigh Valley IronPigs.",
-      "player": "Alan Rangel"
     },
     {
       "date": "2026-08-09",
@@ -63,21 +69,27 @@
     },
     {
       "date": "2026-08-09",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPXzavion Curryto Syracuse Mets.",
-      "player": "Xzavion Curry"
-    },
-    {
-      "date": "2026-08-09",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsoptioned RHPBrett Kerryto Salt Lake Bees.",
       "player": "Brett Kerry"
     },
     {
       "date": "2026-08-09",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersselected the contract of 3BJonah Bridefrom Round Rock Express.",
-      "player": "Jonah Bride"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPEthan Robertsto Iowa Cubs.",
+      "player": "Ethan Roberts"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned LHPCarson Palmquistto Rochester Red Wings.",
+      "player": "Carson Palmquist"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPAlan Rangelfrom Lehigh Valley IronPigs.",
+      "player": "Alan Rangel"
     }
   ]
 }
