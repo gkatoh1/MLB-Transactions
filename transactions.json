@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-08-09T20:41:22.938837",
+  "last_updated": "2026-08-09T21:39:21.976991",
   "transactions": [
     {
       "date": "2026-08-09",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssent RHPShelby Milleron a rehab assignment to Iowa Cubs.",
-      "player": "Shelby Miller"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerstransferred RHPJack Leiterfrom the 15-day injured list to the 60-day injured list. Right ankle posterior impingement.",
+      "player": "Jack Leiter"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent RHPJoe Musgroveon a rehab assignment to El Paso Chihuahuas.",
+      "player": "Joe Musgrove"
     },
     {
       "date": "2026-08-09",
@@ -27,27 +33,21 @@
     },
     {
       "date": "2026-08-09",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersdesignated LHPDrew Romfor assignment.",
-      "player": "Drew Rom"
-    },
-    {
-      "date": "2026-08-09",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerstransferred RHPJack Leiterfrom the 15-day injured list to the 60-day injured list. Right ankle posterior impingement.",
-      "player": "Jack Leiter"
-    },
-    {
-      "date": "2026-08-09",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsactivated RHPRyan Watson.",
       "player": "Ryan Watson"
     },
     {
       "date": "2026-08-09",
-      "team": "San Diego Padres",
-      "details": "San Diego Padressent RHPJoe Musgroveon a rehab assignment to El Paso Chihuahuas.",
-      "player": "Joe Musgrove"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPShelby Milleron a rehab assignment to Iowa Cubs.",
+      "player": "Shelby Miller"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated LHPDrew Romfor assignment.",
+      "player": "Drew Rom"
     },
     {
       "date": "2026-08-09",
@@ -57,21 +57,57 @@
     },
     {
       "date": "2026-08-09",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPJake Birdfrom Rochester Red Wings.",
-      "player": "Jake Bird"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPXzavion Curryto Syracuse Mets.",
+      "player": "Xzavion Curry"
     },
     {
       "date": "2026-08-09",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxselected the contract of RHPSeth Martinezfrom Worcester Red Sox.",
-      "player": "Seth Martinez"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersselected the contract of 3BJonah Bridefrom Round Rock Express.",
+      "player": "Jonah Bride"
     },
     {
       "date": "2026-08-09",
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned LHPCarson Palmquistto Rochester Red Wings.",
       "player": "Carson Palmquist"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned LFAlejandro Osunato Round Rock Express.",
+      "player": "Alejandro Osuna"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPChase Shugartto Lehigh Valley IronPigs.",
+      "player": "Chase Shugart"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPJake Birdfrom Rochester Red Wings.",
+      "player": "Jake Bird"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPBrett Kerryto Salt Lake Bees.",
+      "player": "Brett Kerry"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPEthan Robertsto Iowa Cubs.",
+      "player": "Ethan Roberts"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPMichael Grovefrom Durham Bulls.",
+      "player": "Michael Grove"
     },
     {
       "date": "2026-08-09",
@@ -88,50 +124,14 @@
     {
       "date": "2026-08-09",
       "team": "Boston Red Sox",
+      "details": "Boston Red Soxselected the contract of RHPSeth Martinezfrom Worcester Red Sox.",
+      "player": "Seth Martinez"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned LHPRaymond Burgosto Worcester Red Sox.",
       "player": "Raymond Burgos"
-    },
-    {
-      "date": "2026-08-09",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned RHPBrett Kerryto Salt Lake Bees.",
-      "player": "Brett Kerry"
-    },
-    {
-      "date": "2026-08-09",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPXzavion Curryto Syracuse Mets.",
-      "player": "Xzavion Curry"
-    },
-    {
-      "date": "2026-08-09",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned RHPEthan Robertsto Iowa Cubs.",
-      "player": "Ethan Roberts"
-    },
-    {
-      "date": "2026-08-09",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned LFAlejandro Osunato Round Rock Express.",
-      "player": "Alejandro Osuna"
-    },
-    {
-      "date": "2026-08-09",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersselected the contract of 3BJonah Bridefrom Round Rock Express.",
-      "player": "Jonah Bride"
-    },
-    {
-      "date": "2026-08-09",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPChase Shugartto Lehigh Valley IronPigs.",
-      "player": "Chase Shugart"
-    },
-    {
-      "date": "2026-08-09",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPMichael Grovefrom Durham Bulls.",
-      "player": "Michael Grove"
     }
   ]
 }
