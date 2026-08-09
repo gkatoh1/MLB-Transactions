@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-08-09T17:37:05.033272",
+  "last_updated": "2026-08-09T18:51:53.962577",
   "transactions": [
     {
       "date": "2026-08-09",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerstransferred RHPJack Leiterfrom the 15-day injured list to the 60-day injured list. Right ankle posterior impingement.",
-      "player": "Jack Leiter"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced SSCooper Pratton the 10-day injured list. Right hamstring strain.",
+      "player": "Cooper Pratt"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated LHPDrew Romfor assignment.",
+      "player": "Drew Rom"
     },
     {
       "date": "2026-08-09",
@@ -15,21 +21,33 @@
     },
     {
       "date": "2026-08-09",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssigned free agent CF JiHwan Bae to a minor league contract.",
+      "player": "Unknown Player"
+    },
+    {
+      "date": "2026-08-09",
       "team": "Chicago Cubs",
       "details": "Chicago Cubssent RHPShelby Milleron a rehab assignment to Iowa Cubs.",
       "player": "Shelby Miller"
     },
     {
       "date": "2026-08-09",
-      "team": "New York Mets",
-      "details": "New York Metsselected the contract of RHPJack Weisenburgerfrom Syracuse Mets.",
-      "player": "Jack Weisenburger"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerstransferred RHPJack Leiterfrom the 15-day injured list to the 60-day injured list. Right ankle posterior impingement.",
+      "player": "Jack Leiter"
     },
     {
       "date": "2026-08-09",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPChase Shugartto Lehigh Valley IronPigs.",
-      "player": "Chase Shugart"
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent RHPJoe Musgroveon a rehab assignment to El Paso Chihuahuas.",
+      "player": "Joe Musgrove"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced RHPGriffin Jaxon the 15-day injured list retroactive to August 6, 2026. Right elbow discomfort.",
+      "player": "Griffin Jax"
     },
     {
       "date": "2026-08-09",
@@ -39,21 +57,15 @@
     },
     {
       "date": "2026-08-09",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPXzavion Curryto Syracuse Mets.",
-      "player": "Xzavion Curry"
-    },
-    {
-      "date": "2026-08-09",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersselected the contract of 3BJonah Bridefrom Round Rock Express.",
-      "player": "Jonah Bride"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled RHPAlan Rangelfrom Lehigh Valley IronPigs.",
+      "player": "Alan Rangel"
     },
     {
       "date": "2026-08-09",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPJake Birdfrom Rochester Red Wings.",
-      "player": "Jake Bird"
+      "details": "Washington Nationalsoptioned LHPCarson Palmquistto Rochester Red Wings.",
+      "player": "Carson Palmquist"
     },
     {
       "date": "2026-08-09",
@@ -69,9 +81,15 @@
     },
     {
       "date": "2026-08-09",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned RHPBrett Kerryto Salt Lake Bees.",
-      "player": "Brett Kerry"
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPXzavion Curryto Syracuse Mets.",
+      "player": "Xzavion Curry"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersselected the contract of 3BJonah Bridefrom Round Rock Express.",
+      "player": "Jonah Bride"
     },
     {
       "date": "2026-08-09",
@@ -81,15 +99,39 @@
     },
     {
       "date": "2026-08-09",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned LHPCarson Palmquistto Rochester Red Wings.",
-      "player": "Carson Palmquist"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPMichael Grovefrom Durham Bulls.",
+      "player": "Michael Grove"
     },
     {
       "date": "2026-08-09",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesrecalled RHPAlan Rangelfrom Lehigh Valley IronPigs.",
-      "player": "Alan Rangel"
+      "details": "Philadelphia Philliesoptioned RHPChase Shugartto Lehigh Valley IronPigs.",
+      "player": "Chase Shugart"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPJake Birdfrom Rochester Red Wings.",
+      "player": "Jake Bird"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPJack Weisenburgerfrom Syracuse Mets.",
+      "player": "Jack Weisenburger"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of CF Ji Hwan Bae from Nashville Sounds.",
+      "player": "Unknown Player"
+    },
+    {
+      "date": "2026-08-09",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPBrett Kerryto Salt Lake Bees.",
+      "player": "Brett Kerry"
     }
   ]
 }
