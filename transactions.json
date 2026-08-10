@@ -1,29 +1,23 @@
 {
-  "last_updated": "2026-08-10T20:51:52.982142",
+  "last_updated": "2026-08-10T21:50:07.231556",
   "transactions": [
+    {
+      "date": "2026-08-10",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksdesignated RHPPaul Sewaldfor assignment.",
+      "player": "Paul Sewald"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RHPCraig Kimbrel.",
+      "player": "Craig Kimbrel"
+    },
     {
       "date": "2026-08-10",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysdesignated CWillie MacIverfor assignment.",
       "player": "Willie MacIver"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesplaced RHPCaleb Kilianon the 15-day injured list. Left oblique strain.",
-      "player": "Caleb Kilian"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Houston Astros",
-      "details": "Houston Astrosdesignated 3BShay Whitcombfor assignment.",
-      "player": "Shay Whitcomb"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssigned free agent RHPCraig Kimbrel.",
-      "player": "Craig Kimbrel"
     },
     {
       "date": "2026-08-10",
@@ -34,50 +28,44 @@
     {
       "date": "2026-08-10",
       "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated RHPCraig Kimbrel.",
+      "details": "Kansas City Royalssigned free agent RHPCraig Kimbrel.",
       "player": "Craig Kimbrel"
     },
     {
       "date": "2026-08-10",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned LHPCade Povichto Norfolk Tides.",
-      "player": "Cade Povich"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced RHPCaleb Kilianon the 15-day injured list. Left oblique strain.",
+      "player": "Caleb Kilian"
     },
     {
       "date": "2026-08-10",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPWikelman Gonzálezto Jacksonville Jumbo Shrimp.",
-      "player": "Wikelman González"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned free agent RHPZack Littell.",
+      "player": "Zack Littell"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated 3BShay Whitcombfor assignment.",
+      "player": "Shay Whitcomb"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Athletics",
+      "details": "Athleticsdesignated SSJonathan Ornelasfor assignment.",
+      "player": "Jonathan Ornelas"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Athletics",
+      "details": "Athleticsactivated 3BZack Geloffrom the 10-day injured list.",
+      "player": "Zack Gelof"
     },
     {
       "date": "2026-08-10",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned 2BIvan Johnsonto Louisville Bats.",
       "player": "Ivan Johnson"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled 2BCharles McAdoofrom Buffalo Bisons.",
-      "player": "Charles McAdoo"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LFDavis Schneiderto Buffalo Bisons.",
-      "player": "Davis Schneider"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of RHPSimeon Woods Richardsonfrom Buffalo Bisons.",
-      "player": "Simeon Woods Richardson"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPJonathan Pintarofrom Syracuse Mets.",
-      "player": "Jonathan Pintaro"
     },
     {
       "date": "2026-08-10",
@@ -93,15 +81,27 @@
     },
     {
       "date": "2026-08-10",
-      "team": "Houston Astros",
-      "details": "Houston Astrosclaimed LFNelson Velázquezoff waivers fromSt. Louis Cardinals.",
-      "player": "Nelson Velázquez"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPKade Strowdto Reno Aces.",
+      "player": "Kade Strowd"
     },
     {
       "date": "2026-08-10",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersclaimed RHPNolan Kinghamoff waivers fromTexas Rangers.",
-      "player": "Nolan Kingham"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPCade Povichto Norfolk Tides.",
+      "player": "Cade Povich"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled 2BCharles McAdoofrom Buffalo Bisons.",
+      "player": "Charles McAdoo"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFDavis Schneiderto Buffalo Bisons.",
+      "player": "Davis Schneider"
     },
     {
       "date": "2026-08-10",
@@ -120,6 +120,36 @@
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsoptioned RHPEaston McGeeto Omaha Storm Chasers.",
       "player": "Easton McGee"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersclaimed RHPNolan Kinghamoff waivers fromTexas Rangers.",
+      "player": "Nolan Kingham"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPWikelman Gonzálezto Jacksonville Jumbo Shrimp.",
+      "player": "Wikelman González"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of RHPSimeon Woods Richardsonfrom Buffalo Bisons.",
+      "player": "Simeon Woods Richardson"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJonathan Pintarofrom Syracuse Mets.",
+      "player": "Jonathan Pintaro"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Houston Astros",
+      "details": "Houston Astrosclaimed LFNelson Velázquezoff waivers fromSt. Louis Cardinals.",
+      "player": "Nelson Velázquez"
     },
     {
       "date": "2026-08-10",
