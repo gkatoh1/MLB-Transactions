@@ -1,4 +1,41 @@
 {
-  "last_updated": "2026-08-11T17:03:57.591604",
-  "transactions": []
+  "last_updated": "2026-08-11T19:11:42.742215",
+  "transactions": [
+    {
+      "date": "2026-08-11",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssigned free agent RHPJake Woodfordto a minor league contract.",
+      "player": "Jake Woodford"
+    },
+    {
+      "date": "2026-08-11",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent 1BVinnie Pasquantinoon a rehab assignment to Omaha Storm Chasers.",
+      "player": "Vinnie Pasquantino"
+    },
+    {
+      "date": "2026-08-11",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated LHPGabe Speier.",
+      "player": "Gabe Speier"
+    },
+    {
+      "date": "2026-08-11",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPJustin Martinezon a rehab assignment to Reno Aces.",
+      "player": "Justin Martinez"
+    },
+    {
+      "date": "2026-08-11",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPCarlos Vargason a rehab assignment to Tacoma Rainiers.",
+      "player": "Carlos Vargas"
+    },
+    {
+      "date": "2026-08-11",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent LHPShane McClanahanon a rehab assignment to Durham Bulls.",
+      "player": "Shane McClanahan"
+    }
+  ]
 }
