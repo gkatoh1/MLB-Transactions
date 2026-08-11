@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-08-10T23:41:19.031325",
+  "last_updated": "2026-08-11T02:14:08.940638",
   "transactions": [
     {
       "date": "2026-08-10",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersplaced RHPNathan Eovaldion the 15-day injured list retroactive to August 9, 2026. Right posterior elbow inflammation.",
-      "player": "Nathan Eovaldi"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced RFTyler Freemanon the 10-day injured list retroactive to August 9, 2026. Lumbar pain.",
+      "player": "Tyler Freeman"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated RHPJonathan Hernándezfor assignment.",
+      "player": "Jonathan Hernández"
     },
     {
       "date": "2026-08-10",
@@ -21,15 +27,15 @@
     },
     {
       "date": "2026-08-10",
-      "team": "Athletics",
-      "details": "Athleticsdesignated SSJonathan Ornelasfor assignment.",
-      "player": "Jonathan Ornelas"
-    },
-    {
-      "date": "2026-08-10",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalssigned free agent RHPCraig Kimbrel.",
       "player": "Craig Kimbrel"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated CWillie MacIverfor assignment.",
+      "player": "Willie MacIver"
     },
     {
       "date": "2026-08-10",
@@ -45,27 +51,21 @@
     },
     {
       "date": "2026-08-10",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPNathan Eovaldion the 15-day injured list retroactive to August 9, 2026. Right posterior elbow inflammation.",
+      "player": "Nathan Eovaldi"
+    },
+    {
+      "date": "2026-08-10",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsactivated RHPCraig Kimbrel.",
       "player": "Craig Kimbrel"
     },
     {
       "date": "2026-08-10",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced RFTyler Freemanon the 10-day injured list retroactive to August 9, 2026. Lumbar pain.",
-      "player": "Tyler Freeman"
-    },
-    {
-      "date": "2026-08-10",
       "team": "Athletics",
-      "details": "Athleticsactivated 3BZack Geloffrom the 10-day injured list.",
-      "player": "Zack Gelof"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysdesignated CWillie MacIverfor assignment.",
-      "player": "Willie MacIver"
+      "details": "Athleticsdesignated SSJonathan Ornelasfor assignment.",
+      "player": "Jonathan Ornelas"
     },
     {
       "date": "2026-08-10",
@@ -75,21 +75,15 @@
     },
     {
       "date": "2026-08-10",
+      "team": "Athletics",
+      "details": "Athleticsactivated 3BZack Geloffrom the 10-day injured list.",
+      "player": "Zack Gelof"
+    },
+    {
+      "date": "2026-08-10",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsplaced RHPShaun Andersonon the 15-day injured list. Right shoulder inflammation.",
       "player": "Shaun Anderson"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersdesignated RHPJonathan Hernándezfor assignment.",
-      "player": "Jonathan Hernández"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned RHPKade Strowdto Reno Aces.",
-      "player": "Kade Strowd"
     },
     {
       "date": "2026-08-10",
@@ -99,9 +93,39 @@
     },
     {
       "date": "2026-08-10",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPWikelman Gonzálezto Jacksonville Jumbo Shrimp.",
-      "player": "Wikelman González"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPCam Sandersfrom Norfolk Tides.",
+      "player": "Cam Sanders"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPCade Povichto Norfolk Tides.",
+      "player": "Cade Povich"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsselected the contract of CZach Morganfrom Sacramento River Cats.",
+      "player": "Zach Morgan"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersclaimed RHPNolan Kinghamoff waivers fromTexas Rangers.",
+      "player": "Nolan Kingham"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPBen Peoplesfrom Round Rock Express.",
+      "player": "Ben Peoples"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPSeth Halvorsenfrom Oklahoma City Comets.",
+      "player": "Seth Halvorsen"
     },
     {
       "date": "2026-08-10",
@@ -129,6 +153,54 @@
     },
     {
       "date": "2026-08-10",
+      "team": "Houston Astros",
+      "details": "Houston Astrosclaimed LFNelson Velázquezoff waivers fromSt. Louis Cardinals.",
+      "player": "Nelson Velázquez"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPWikelman Gonzálezto Jacksonville Jumbo Shrimp.",
+      "player": "Wikelman González"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersselected the contract of LHPCharlie Barnesfrom Oklahoma City Comets.",
+      "player": "Charlie Barnes"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPKyle Hurtto Oklahoma City Comets.",
+      "player": "Kyle Hurt"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsselected the contract of LHPSammy Peraltafrom Salt Lake Bees.",
+      "player": "Sammy Peralta"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned 2BIvan Johnsonto Louisville Bats.",
+      "player": "Ivan Johnson"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RFRudy Martin Jr.outright to Buffalo Bisons.",
+      "player": "Rudy Martin Jr."
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled 2BCharles McAdoofrom Buffalo Bisons.",
+      "player": "Charles McAdoo"
+    },
+    {
+      "date": "2026-08-10",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysoptioned RHPLazaro Estradato Buffalo Bisons.",
       "player": "Lazaro Estrada"
@@ -147,81 +219,15 @@
     },
     {
       "date": "2026-08-10",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPCam Sandersfrom Norfolk Tides.",
-      "player": "Cam Sanders"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersclaimed RHPNolan Kinghamoff waivers fromTexas Rangers.",
-      "player": "Nolan Kingham"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersoptioned RHPKyle Hurtto Oklahoma City Comets.",
-      "player": "Kyle Hurt"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsselected the contract of LHPSammy Peraltafrom Salt Lake Bees.",
-      "player": "Sammy Peralta"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Houston Astros",
-      "details": "Houston Astrosclaimed LFNelson Velázquezoff waivers fromSt. Louis Cardinals.",
-      "player": "Nelson Velázquez"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled 2BCharles McAdoofrom Buffalo Bisons.",
-      "player": "Charles McAdoo"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned LHPCade Povichto Norfolk Tides.",
-      "player": "Cade Povich"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersselected the contract of LHPCharlie Barnesfrom Oklahoma City Comets.",
-      "player": "Charlie Barnes"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled RHPBen Peoplesfrom Round Rock Express.",
-      "player": "Ben Peoples"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled RHPSeth Halvorsenfrom Oklahoma City Comets.",
-      "player": "Seth Halvorsen"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned 2BIvan Johnsonto Louisville Bats.",
-      "player": "Ivan Johnson"
-    },
-    {
-      "date": "2026-08-10",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent RFRudy Martin Jr.outright to Buffalo Bisons.",
-      "player": "Rudy Martin Jr."
-    },
-    {
-      "date": "2026-08-10",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesrecalled RHPChase Shugartfrom Lehigh Valley IronPigs.",
       "player": "Chase Shugart"
+    },
+    {
+      "date": "2026-08-10",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPKade Strowdto Reno Aces.",
+      "player": "Kade Strowd"
     }
   ]
 }
