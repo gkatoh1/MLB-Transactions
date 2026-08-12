@@ -1,17 +1,35 @@
 {
-  "last_updated": "2026-08-12T19:11:04.229674",
+  "last_updated": "2026-08-12T20:54:02.440136",
   "transactions": [
     {
       "date": "2026-08-12",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssent RHPShelby Milleron a rehab assignment to Knoxville Smokies.",
-      "player": "Shelby Miller"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated RHPTroy Watsonfor assignment.",
+      "player": "Troy Watson"
+    },
+    {
+      "date": "2026-08-12",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced LFRiley Greeneon the 10-day injured list. Right hamstring strain.",
+      "player": "Riley Greene"
+    },
+    {
+      "date": "2026-08-12",
+      "team": "Athletics",
+      "details": "Athleticsplaced LHPJosé Suarezon the 15-day injured list. Right hip strain.",
+      "player": "José Suarez"
     },
     {
       "date": "2026-08-12",
       "team": "Washington Nationals",
       "details": "Washington Nationalsdesignated RHPMiles Mikolasfor assignment.",
       "player": "Miles Mikolas"
+    },
+    {
+      "date": "2026-08-12",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxdesignated RHPSeth Martinezfor assignment.",
+      "player": "Seth Martinez"
     },
     {
       "date": "2026-08-12",
@@ -22,32 +40,26 @@
     {
       "date": "2026-08-12",
       "team": "Athletics",
-      "details": "Athleticsplaced LHPJosé Suarezon the 15-day injured list. Right hip strain.",
-      "player": "José Suarez"
-    },
-    {
-      "date": "2026-08-12",
-      "team": "Athletics",
       "details": "Athleticsactivated LHPDrew Rom.",
       "player": "Drew Rom"
     },
     {
       "date": "2026-08-12",
-      "team": "Athletics",
-      "details": "Athleticsoptioned RHPYunior Turto Las Vegas Aviators.",
-      "player": "Yunior Tur"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPShelby Milleron a rehab assignment to Knoxville Smokies.",
+      "player": "Shelby Miller"
     },
     {
       "date": "2026-08-12",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesrecalled 2BAdael Amadorfrom Albuquerque Isotopes.",
-      "player": "Adael Amador"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersclaimed CWillie MacIveroff waivers fromToronto Blue Jays.",
+      "player": "Willie MacIver"
     },
     {
       "date": "2026-08-12",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPHayden Juengerfrom Las Vegas Aviators.",
-      "player": "Hayden Juenger"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersselected the contract of LFCorey Julksfrom Toledo Mud Hens.",
+      "player": "Corey Julks"
     },
     {
       "date": "2026-08-12",
@@ -58,14 +70,44 @@
     {
       "date": "2026-08-12",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxtraded CFHarold RivastoBaltimore Orioles. Player to be named later from the 8/3 Adley Rutschman trade.",
-      "player": "Harold Rivas"
+      "details": "Boston Red Soxrecalled LHPAlec Gamboafrom Worcester Red Sox.",
+      "player": "Alec Gamboa"
+    },
+    {
+      "date": "2026-08-12",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled 2BAdael Amadorfrom Albuquerque Isotopes.",
+      "player": "Adael Amador"
     },
     {
       "date": "2026-08-12",
       "team": "Washington Nationals",
       "details": "Washington Nationalsselected the contract of LHPJackson Kentfrom Rochester Red Wings.",
       "player": "Jackson Kent"
+    },
+    {
+      "date": "2026-08-12",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysclaimed RHPPaul Sewaldoff waivers fromArizona Diamondbacks.",
+      "player": "Paul Sewald"
+    },
+    {
+      "date": "2026-08-12",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPYunior Turto Las Vegas Aviators.",
+      "player": "Yunior Tur"
+    },
+    {
+      "date": "2026-08-12",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPHayden Juengerfrom Las Vegas Aviators.",
+      "player": "Hayden Juenger"
+    },
+    {
+      "date": "2026-08-12",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtraded CFHarold RivastoBaltimore Orioles. Player to be named later from the 8/3 Adley Rutschman trade.",
+      "player": "Harold Rivas"
     }
   ]
 }
