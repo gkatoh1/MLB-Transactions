@@ -1,24 +1,6 @@
 {
-  "last_updated": "2026-08-12T17:02:55.744721",
+  "last_updated": "2026-08-12T19:11:04.229674",
   "transactions": [
-    {
-      "date": "2026-08-12",
-      "team": "Athletics",
-      "details": "Athleticsactivated LHPDrew Rom.",
-      "player": "Drew Rom"
-    },
-    {
-      "date": "2026-08-12",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsdesignated RHPMiles Mikolasfor assignment.",
-      "player": "Miles Mikolas"
-    },
-    {
-      "date": "2026-08-12",
-      "team": "Athletics",
-      "details": "Athleticsplaced LHPJosé Suarezon the 15-day injured list. Right hip strain.",
-      "player": "José Suarez"
-    },
     {
       "date": "2026-08-12",
       "team": "Chicago Cubs",
@@ -28,8 +10,26 @@
     {
       "date": "2026-08-12",
       "team": "Washington Nationals",
-      "details": "Washington Nationalsselected the contract of LHPJackson Kentfrom Rochester Red Wings.",
-      "player": "Jackson Kent"
+      "details": "Washington Nationalsdesignated RHPMiles Mikolasfor assignment.",
+      "player": "Miles Mikolas"
+    },
+    {
+      "date": "2026-08-12",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced 3BKyle Karroson the 7-day injured list. Concussion.",
+      "player": "Kyle Karros"
+    },
+    {
+      "date": "2026-08-12",
+      "team": "Athletics",
+      "details": "Athleticsplaced LHPJosé Suarezon the 15-day injured list. Right hip strain.",
+      "player": "José Suarez"
+    },
+    {
+      "date": "2026-08-12",
+      "team": "Athletics",
+      "details": "Athleticsactivated LHPDrew Rom.",
+      "player": "Drew Rom"
     },
     {
       "date": "2026-08-12",
@@ -39,15 +39,33 @@
     },
     {
       "date": "2026-08-12",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxtraded CFHarold RivastoBaltimore Orioles. Player to be named later from the 8/3 Adley Rutschman trade.",
-      "player": "Harold Rivas"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled 2BAdael Amadorfrom Albuquerque Isotopes.",
+      "player": "Adael Amador"
     },
     {
       "date": "2026-08-12",
       "team": "Athletics",
       "details": "Athleticsrecalled RHPHayden Juengerfrom Las Vegas Aviators.",
       "player": "Hayden Juenger"
+    },
+    {
+      "date": "2026-08-12",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPJeff Criswellto Albuquerque Isotopes.",
+      "player": "Jeff Criswell"
+    },
+    {
+      "date": "2026-08-12",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtraded CFHarold RivastoBaltimore Orioles. Player to be named later from the 8/3 Adley Rutschman trade.",
+      "player": "Harold Rivas"
+    },
+    {
+      "date": "2026-08-12",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsselected the contract of LHPJackson Kentfrom Rochester Red Wings.",
+      "player": "Jackson Kent"
     }
   ]
 }
