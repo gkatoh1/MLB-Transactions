@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-13T17:02:37.874347",
+  "last_updated": "2026-08-13T19:11:27.357163",
   "transactions": [
+    {
+      "date": "2026-08-13",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssigned free agent SSJorge Mateo.",
+      "player": "Jorge Mateo"
+    },
+    {
+      "date": "2026-08-13",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated CFByron Buxtonfrom the 10-day injured list.",
+      "player": "Byron Buxton"
+    },
     {
       "date": "2026-08-13",
       "team": "Detroit Tigers",
@@ -9,15 +21,9 @@
     },
     {
       "date": "2026-08-13",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced LHPBrendon Littleon the paternity list.",
-      "player": "Brendon Little"
-    },
-    {
-      "date": "2026-08-13",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent LHPCarlos Rodónon a rehab assignment to Somerset Patriots.",
-      "player": "Carlos Rodón"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated RHPTrevor Martinfor assignment.",
+      "player": "Trevor Martin"
     },
     {
       "date": "2026-08-13",
@@ -30,6 +36,42 @@
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesplaced CEndy Rodríguezon the 10-day injured list retroactive to August 10, 2026. Left hip inflammation.",
       "player": "Endy Rodríguez"
+    },
+    {
+      "date": "2026-08-13",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstransferred RHPTrevor McDonaldfrom the 15-day injured list to the 60-day injured list. Right elbow strain.",
+      "player": "Trevor McDonald"
+    },
+    {
+      "date": "2026-08-13",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent LHPCarlos Rodónon a rehab assignment to Somerset Patriots.",
+      "player": "Carlos Rodón"
+    },
+    {
+      "date": "2026-08-13",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced LHPBrendon Littleon the paternity list.",
+      "player": "Brendon Little"
+    },
+    {
+      "date": "2026-08-13",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned SSCarson Williamsto Durham Bulls.",
+      "player": "Carson Williams"
+    },
+    {
+      "date": "2026-08-13",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsclaimed 3BShay Whitcomboff waivers fromHouston Astros.",
+      "player": "Shay Whitcomb"
+    },
+    {
+      "date": "2026-08-13",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPMichael Groveto Durham Bulls.",
+      "player": "Michael Grove"
     },
     {
       "date": "2026-08-13",
@@ -51,21 +93,27 @@
     },
     {
       "date": "2026-08-13",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled SSJack Branniganfrom Indianapolis Indians.",
+      "player": "Jack Brannigan"
+    },
+    {
+      "date": "2026-08-13",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersrecalled CFTrei Cruzfrom Toledo Mud Hens.",
       "player": "Trei Cruz"
     },
     {
       "date": "2026-08-13",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPGreg Weissertfrom Worcester Red Sox.",
-      "player": "Greg Weissert"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPJesse Scholtensfrom Durham Bulls.",
+      "player": "Jesse Scholtens"
     },
     {
       "date": "2026-08-13",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled SSJack Branniganfrom Indianapolis Indians.",
-      "player": "Jack Brannigan"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPGreg Weissertfrom Worcester Red Sox.",
+      "player": "Greg Weissert"
     }
   ]
 }
