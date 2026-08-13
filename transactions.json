@@ -1,29 +1,17 @@
 {
-  "last_updated": "2026-08-13T20:51:45.162606",
+  "last_updated": "2026-08-13T21:53:53.457010",
   "transactions": [
     {
       "date": "2026-08-13",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersplaced CFJames Outmanon the 7-day injured list. Concussion.",
-      "player": "James Outman"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssigned free agent LHPLael Lockhartto a minor league contract.",
+      "player": "Lael Lockhart"
     },
     {
       "date": "2026-08-13",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxplaced RHPGarrett Whitlockon the 15-day injured list retroactive to August 10, 2026. Right elbow inflammation.",
       "player": "Garrett Whitlock"
-    },
-    {
-      "date": "2026-08-13",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent LHPCarlos Rodónon a rehab assignment to Somerset Patriots.",
-      "player": "Carlos Rodón"
-    },
-    {
-      "date": "2026-08-13",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysplaced LHPBrendon Littleon the paternity list.",
-      "player": "Brendon Little"
     },
     {
       "date": "2026-08-13",
@@ -39,9 +27,27 @@
     },
     {
       "date": "2026-08-13",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated CFByron Buxtonfrom the 10-day injured list.",
-      "player": "Byron Buxton"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstransferred RHPTrevor McDonaldfrom the 15-day injured list to the 60-day injured list. Right elbow strain.",
+      "player": "Trevor McDonald"
+    },
+    {
+      "date": "2026-08-13",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent LHPCarlos Rodónon a rehab assignment to Somerset Patriots.",
+      "player": "Carlos Rodón"
+    },
+    {
+      "date": "2026-08-13",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent CRafael Marchánon a rehab assignment to Lehigh Valley IronPigs.",
+      "player": "Rafael Marchán"
+    },
+    {
+      "date": "2026-08-13",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersplaced CFJames Outmanon the 7-day injured list. Concussion.",
+      "player": "James Outman"
     },
     {
       "date": "2026-08-13",
@@ -51,9 +57,21 @@
     },
     {
       "date": "2026-08-13",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantstransferred RHPTrevor McDonaldfrom the 15-day injured list to the 60-day injured list. Right elbow strain.",
-      "player": "Trevor McDonald"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated CFByron Buxtonfrom the 10-day injured list.",
+      "player": "Byron Buxton"
+    },
+    {
+      "date": "2026-08-13",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced LHPBrendon Littleon the paternity list.",
+      "player": "Brendon Little"
+    },
+    {
+      "date": "2026-08-13",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesrecalled CFKameron Misnerfrom Lehigh Valley IronPigs.",
+      "player": "Kameron Misner"
     },
     {
       "date": "2026-08-13",
@@ -63,39 +81,9 @@
     },
     {
       "date": "2026-08-13",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled SSJack Branniganfrom Indianapolis Indians.",
-      "player": "Jack Brannigan"
-    },
-    {
-      "date": "2026-08-13",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPJesse Scholtensfrom Durham Bulls.",
-      "player": "Jesse Scholtens"
-    },
-    {
-      "date": "2026-08-13",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersrecalled CFTrei Cruzfrom Toledo Mud Hens.",
-      "player": "Trei Cruz"
-    },
-    {
-      "date": "2026-08-13",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsclaimed 3BShay Whitcomboff waivers fromHouston Astros.",
-      "player": "Shay Whitcomb"
-    },
-    {
-      "date": "2026-08-13",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPIsaac Mattsonfrom Indianapolis Indians.",
-      "player": "Isaac Mattson"
-    },
-    {
-      "date": "2026-08-13",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPGreg Weissertfrom Worcester Red Sox.",
-      "player": "Greg Weissert"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent 3BJonah Brideoutright to Round Rock Express.",
+      "player": "Jonah Bride"
     },
     {
       "date": "2026-08-13",
@@ -105,15 +93,51 @@
     },
     {
       "date": "2026-08-13",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPLazaro Estradafrom Buffalo Bisons.",
+      "player": "Lazaro Estrada"
+    },
+    {
+      "date": "2026-08-13",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysoptioned RHPMichael Groveto Durham Bulls.",
       "player": "Michael Grove"
     },
     {
       "date": "2026-08-13",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled RHPLazaro Estradafrom Buffalo Bisons.",
-      "player": "Lazaro Estrada"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPJesse Scholtensfrom Durham Bulls.",
+      "player": "Jesse Scholtens"
+    },
+    {
+      "date": "2026-08-13",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled SSJack Branniganfrom Indianapolis Indians.",
+      "player": "Jack Brannigan"
+    },
+    {
+      "date": "2026-08-13",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPIsaac Mattsonfrom Indianapolis Indians.",
+      "player": "Isaac Mattson"
+    },
+    {
+      "date": "2026-08-13",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled CFTrei Cruzfrom Toledo Mud Hens.",
+      "player": "Trei Cruz"
+    },
+    {
+      "date": "2026-08-13",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPGreg Weissertfrom Worcester Red Sox.",
+      "player": "Greg Weissert"
+    },
+    {
+      "date": "2026-08-13",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsclaimed 3BShay Whitcomboff waivers fromHouston Astros.",
+      "player": "Shay Whitcomb"
     }
   ]
 }
