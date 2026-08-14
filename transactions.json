@@ -1,23 +1,11 @@
 {
-  "last_updated": "2026-08-14T21:31:02.541127",
+  "last_updated": "2026-08-14T22:30:22.823924",
   "transactions": [
-    {
-      "date": "2026-08-14",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RHPChris Bassittfrom the 60-day injured list.",
-      "player": "Chris Bassitt"
-    },
     {
       "date": "2026-08-14",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersplaced SSColt Emersonon the 10-day injured list. Left wrist tendon inflammation.",
       "player": "Colt Emerson"
-    },
-    {
-      "date": "2026-08-14",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssigned free agent CFMichael Sianito a minor league contract.",
-      "player": "Michael Siani"
     },
     {
       "date": "2026-08-14",
@@ -27,21 +15,15 @@
     },
     {
       "date": "2026-08-14",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliessigned free agent RHPCasey Lawrenceto a minor league contract.",
-      "player": "Casey Lawrence"
-    },
-    {
-      "date": "2026-08-14",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated LHPJoe Rockfor assignment.",
-      "player": "Joe Rock"
-    },
-    {
-      "date": "2026-08-14",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesplaced RHPYohan Ramírezon the paternity list.",
       "player": "Yohan Ramírez"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent RHPCasey Lawrenceto a minor league contract.",
+      "player": "Casey Lawrence"
     },
     {
       "date": "2026-08-14",
@@ -63,15 +45,69 @@
     },
     {
       "date": "2026-08-14",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent LHPDJ Herzon a rehab assignment to Harrisburg Senators.",
+      "player": "DJ Herz"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated LHPJoe Rockfor assignment.",
+      "player": "Joe Rock"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "Houston Astros",
+      "details": "Houston Astrossent RHPMike Burrowson a rehab assignment to Sugar Land Space Cowboys.",
+      "player": "Mike Burrows"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent CFMichael Sianito a minor league contract.",
+      "player": "Michael Siani"
+    },
+    {
+      "date": "2026-08-14",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redssent RHPTony Santillanon a rehab assignment to Louisville Bats.",
       "player": "Tony Santillan"
     },
     {
       "date": "2026-08-14",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned CFKameron Misnerto Lehigh Valley IronPigs.",
-      "player": "Kameron Misner"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPChris Bassittfrom the 60-day injured list.",
+      "player": "Chris Bassitt"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled CFBilly Cookfrom Indianapolis Indians.",
+      "player": "Billy Cook"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled CFJonah Coxfrom Sacramento River Cats.",
+      "player": "Jonah Cox"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxclaimed CJake Rogersoff waivers fromBoston Red Sox.",
+      "player": "Jake Rogers"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPYaramil Hiraldoto Norfolk Tides.",
+      "player": "Yaramil Hiraldo"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned CFGrant McCrayto Sacramento River Cats.",
+      "player": "Grant McCray"
     },
     {
       "date": "2026-08-14",
@@ -88,26 +124,14 @@
     {
       "date": "2026-08-14",
       "team": "San Francisco Giants",
-      "details": "San Francisco Giantsrecalled CFJonah Coxfrom Sacramento River Cats.",
-      "player": "Jonah Cox"
+      "details": "San Francisco Giantssent SSEddys Leonardoutright to Sacramento River Cats.",
+      "player": "Eddys Leonard"
     },
     {
       "date": "2026-08-14",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPLazaro Estradato Buffalo Bisons.",
-      "player": "Lazaro Estrada"
-    },
-    {
-      "date": "2026-08-14",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned RHPYaramil Hiraldoto Norfolk Tides.",
-      "player": "Yaramil Hiraldo"
-    },
-    {
-      "date": "2026-08-14",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned CFGrant McCrayto Sacramento River Cats.",
-      "player": "Grant McCray"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPJosé Urquidyfrom Charlotte Knights.",
+      "player": "José Urquidy"
     },
     {
       "date": "2026-08-14",
@@ -117,15 +141,15 @@
     },
     {
       "date": "2026-08-14",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled CFBilly Cookfrom Indianapolis Indians.",
-      "player": "Billy Cook"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned CFKameron Misnerto Lehigh Valley IronPigs.",
+      "player": "Kameron Misner"
     },
     {
       "date": "2026-08-14",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPTyler Schweitzerfrom Charlotte Knights.",
-      "player": "Tyler Schweitzer"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPLazaro Estradato Buffalo Bisons.",
+      "player": "Lazaro Estrada"
     },
     {
       "date": "2026-08-14",
@@ -136,20 +160,14 @@
     {
       "date": "2026-08-14",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxclaimed CJake Rogersoff waivers fromBoston Red Sox.",
-      "player": "Jake Rogers"
+      "details": "Chicago White Soxrecalled LHPTyler Schweitzerfrom Charlotte Knights.",
+      "player": "Tyler Schweitzer"
     },
     {
       "date": "2026-08-14",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned RHPTanner McDougalto Charlotte Knights.",
       "player": "Tanner McDougal"
-    },
-    {
-      "date": "2026-08-14",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled RHPJosé Urquidyfrom Charlotte Knights.",
-      "player": "José Urquidy"
     }
   ]
 }
