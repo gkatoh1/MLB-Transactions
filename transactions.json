@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-08-14T17:05:10.927340",
+  "last_updated": "2026-08-14T19:03:12.915051",
   "transactions": [
+    {
+      "date": "2026-08-14",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPChris Bassittfrom the 60-day injured list.",
+      "player": "Chris Bassitt"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced RHPYohan Ramírezon the paternity list.",
+      "player": "Yohan Ramírez"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated LHPJoe Rockfor assignment.",
+      "player": "Joe Rock"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPTony Santillanon a rehab assignment to Louisville Bats.",
+      "player": "Tony Santillan"
+    },
     {
       "date": "2026-08-14",
       "team": "Chicago White Sox",
@@ -9,9 +33,15 @@
     },
     {
       "date": "2026-08-14",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled RHPJosé Urquidyfrom Charlotte Knights.",
-      "player": "José Urquidy"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPYaramil Hiraldoto Norfolk Tides.",
+      "player": "Yaramil Hiraldo"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned CFGrant McCrayto Sacramento River Cats.",
+      "player": "Grant McCray"
     },
     {
       "date": "2026-08-14",
@@ -22,8 +52,50 @@
     {
       "date": "2026-08-14",
       "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPJosé Urquidyfrom Charlotte Knights.",
+      "player": "José Urquidy"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled CFJonah Coxfrom Sacramento River Cats.",
+      "player": "Jonah Cox"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned RHPTanner McDougalto Charlotte Knights.",
       "player": "Tanner McDougal"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxclaimed CJake Rogersoff waivers fromBoston Red Sox.",
+      "player": "Jake Rogers"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned 2BNate Furmanto Sacramento River Cats.",
+      "player": "Nate Furman"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled CFBilly Cookfrom Indianapolis Indians.",
+      "player": "Billy Cook"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RFJhostynxon Garciato Indianapolis Indians.",
+      "player": "Jhostynxon Garcia"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPWilber Dotelfrom Indianapolis Indians.",
+      "player": "Wilber Dotel"
     }
   ]
 }
