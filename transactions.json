@@ -1,4 +1,29 @@
 {
-  "last_updated": "2026-08-14T15:59:57.535396",
-  "transactions": []
+  "last_updated": "2026-08-14T17:05:10.927340",
+  "transactions": [
+    {
+      "date": "2026-08-14",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RHPDavis Martinon the 15-day injured list. Right middle finger blister.",
+      "player": "Davis Martin"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPJosé Urquidyfrom Charlotte Knights.",
+      "player": "José Urquidy"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPTyler Schweitzerfrom Charlotte Knights.",
+      "player": "Tyler Schweitzer"
+    },
+    {
+      "date": "2026-08-14",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPTanner McDougalto Charlotte Knights.",
+      "player": "Tanner McDougal"
+    }
+  ]
 }
