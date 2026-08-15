@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-08-15T17:26:03.428349",
+  "last_updated": "2026-08-15T18:38:11.584189",
   "transactions": [
     {
       "date": "2026-08-15",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated CJake Rogers.",
-      "player": "Jake Rogers"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent LHPYusei Kikuchion a rehab assignment to Rancho Cucamonga Quakes.",
+      "player": "Yusei Kikuchi"
     },
     {
       "date": "2026-08-15",
@@ -22,6 +22,18 @@
     {
       "date": "2026-08-15",
       "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated CJake Rogers.",
+      "player": "Jake Rogers"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPChase Leeto Buffalo Bisons.",
+      "player": "Chase Lee"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned CEdgar Queroto Charlotte Knights.",
       "player": "Edgar Quero"
     },
@@ -30,6 +42,24 @@
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsrecalled RFJoshua Báezfrom Memphis Redbirds.",
       "player": "Joshua Báez"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPChris Roycroftto Durham Bulls.",
+      "player": "Chris Roycroft"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPJoe Boylefrom Durham Bulls.",
+      "player": "Joe Boyle"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned 3BCésar Prietoto Memphis Redbirds.",
+      "player": "César Prieto"
     },
     {
       "date": "2026-08-15",
@@ -42,18 +72,6 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysselected the contract of RFDaz Cameronfrom Buffalo Bisons.",
       "player": "Daz Cameron"
-    },
-    {
-      "date": "2026-08-15",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned 3BCésar Prietoto Memphis Redbirds.",
-      "player": "César Prieto"
-    },
-    {
-      "date": "2026-08-15",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPChase Leeto Buffalo Bisons.",
-      "player": "Chase Lee"
     }
   ]
 }
