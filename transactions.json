@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T15:27:27.741929",
+  "last_updated": "2026-08-15T16:32:22.790952",
   "transactions": [
     {
       "date": "2026-08-15",
@@ -9,9 +9,9 @@
     },
     {
       "date": "2026-08-15",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RFJoshua Báezfrom Memphis Redbirds.",
-      "player": "Joshua Báez"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPChase Leeto Buffalo Bisons.",
+      "player": "Chase Lee"
     },
     {
       "date": "2026-08-15",
@@ -24,6 +24,18 @@
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned CEdgar Queroto Charlotte Knights.",
       "player": "Edgar Quero"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RFJoshua Báezfrom Memphis Redbirds.",
+      "player": "Joshua Báez"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LHPRicky Tiedemannfrom Buffalo Bisons.",
+      "player": "Ricky Tiedemann"
     }
   ]
 }
