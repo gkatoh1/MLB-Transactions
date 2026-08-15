@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-08-15T14:29:37.330782",
+  "last_updated": "2026-08-15T15:27:27.741929",
   "transactions": [
     {
       "date": "2026-08-15",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxactivated CJake Rogers.",
       "player": "Jake Rogers"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RFJoshua Báezfrom Memphis Redbirds.",
+      "player": "Joshua Báez"
     },
     {
       "date": "2026-08-15",
@@ -18,12 +24,6 @@
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned CEdgar Queroto Charlotte Knights.",
       "player": "Edgar Quero"
-    },
-    {
-      "date": "2026-08-15",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RFJoshua Báezfrom Memphis Redbirds.",
-      "player": "Joshua Báez"
     }
   ]
 }
