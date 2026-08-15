@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T16:32:22.790952",
+  "last_updated": "2026-08-15T17:26:03.428349",
   "transactions": [
     {
       "date": "2026-08-15",
@@ -10,14 +10,14 @@
     {
       "date": "2026-08-15",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPChase Leeto Buffalo Bisons.",
-      "player": "Chase Lee"
+      "details": "Toronto Blue Jaysplaced 1BVladimir Guerrero Jr.on the 7-day injured list. Concussion.",
+      "player": "Vladimir Guerrero Jr."
     },
     {
       "date": "2026-08-15",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned 3BCésar Prietoto Memphis Redbirds.",
-      "player": "César Prieto"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated RHPLazaro Estradafor assignment.",
+      "player": "Lazaro Estrada"
     },
     {
       "date": "2026-08-15",
@@ -36,6 +36,24 @@
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysrecalled LHPRicky Tiedemannfrom Buffalo Bisons.",
       "player": "Ricky Tiedemann"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of RFDaz Cameronfrom Buffalo Bisons.",
+      "player": "Daz Cameron"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned 3BCésar Prietoto Memphis Redbirds.",
+      "player": "César Prieto"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPChase Leeto Buffalo Bisons.",
+      "player": "Chase Lee"
     }
   ]
 }
