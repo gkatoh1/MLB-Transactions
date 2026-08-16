@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-16T15:27:54.669734",
+  "last_updated": "2026-08-16T16:32:53.895995",
   "transactions": [
+    {
+      "date": "2026-08-16",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent SSTrevor Storyon a rehab assignment to Worcester Red Sox.",
+      "player": "Trevor Story"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated LHPDanny Youngfor assignment.",
+      "player": "Danny Young"
+    },
     {
       "date": "2026-08-16",
       "team": "Boston Red Sox",
@@ -9,9 +21,15 @@
     },
     {
       "date": "2026-08-16",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksdesignated LHPPhilip Abnerfor assignment.",
-      "player": "Philip Abner"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated LHPBrendon Littlefrom the paternity list.",
+      "player": "Brendon Little"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced DHMasataka Yoshidaon the 10-day injured list. Left hamstring strain.",
+      "player": "Masataka Yoshida"
     },
     {
       "date": "2026-08-16",
@@ -27,27 +45,9 @@
     },
     {
       "date": "2026-08-16",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced DHMasataka Yoshidaon the 10-day injured list. Left hamstring strain.",
-      "player": "Masataka Yoshida"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated LHPDanny Youngfor assignment.",
-      "player": "Danny Young"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled LHPRaymond Burgosfrom Worcester Red Sox.",
-      "player": "Raymond Burgos"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled CMickey Gasperfrom Worcester Red Sox.",
-      "player": "Mickey Gasper"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksdesignated LHPPhilip Abnerfor assignment.",
+      "player": "Philip Abner"
     },
     {
       "date": "2026-08-16",
@@ -63,9 +63,51 @@
     },
     {
       "date": "2026-08-16",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned SSJack Branniganto Indianapolis Indians.",
+      "player": "Jack Brannigan"
+    },
+    {
+      "date": "2026-08-16",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesselected the contract of LHPRay Kerrfrom Gwinnett Stripers.",
       "player": "Ray Kerr"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled LHPRaymond Burgosfrom Worcester Red Sox.",
+      "player": "Raymond Burgos"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPWilber Dotelto Indianapolis Indians.",
+      "player": "Wilber Dotel"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled 3BNick Yorkefrom Indianapolis Indians.",
+      "player": "Nick Yorke"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled CMickey Gasperfrom Worcester Red Sox.",
+      "player": "Mickey Gasper"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPRicky Tiedemannto Buffalo Bisons.",
+      "player": "Ricky Tiedemann"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled LHPHunter Barcofrom Indianapolis Indians.",
+      "player": "Hunter Barco"
     }
   ]
 }
