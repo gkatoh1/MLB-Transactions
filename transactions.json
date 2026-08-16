@@ -1,30 +1,6 @@
 {
-  "last_updated": "2026-08-16T01:47:55.344081",
+  "last_updated": "2026-08-16T03:06:39.083424",
   "transactions": [
-    {
-      "date": "2026-08-15",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssent RHPShelby Milleron a rehab assignment to Iowa Cubs.",
-      "player": "Shelby Miller"
-    },
-    {
-      "date": "2026-08-15",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated CJake Rogers.",
-      "player": "Jake Rogers"
-    },
-    {
-      "date": "2026-08-15",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent LHPYusei Kikuchion a rehab assignment to Rancho Cucamonga Quakes.",
-      "player": "Yusei Kikuchi"
-    },
-    {
-      "date": "2026-08-15",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsplaced CSebastián Riveroon the 60-day injured list. Left hamate fracture.",
-      "player": "Sebastián Rivero"
-    },
     {
       "date": "2026-08-15",
       "team": "Los Angeles Dodgers",
@@ -39,15 +15,15 @@
     },
     {
       "date": "2026-08-15",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent RHPDrey Jamesonon a rehab assignment to Reno Aces.",
-      "player": "Drey Jameson"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated CJake Rogers.",
+      "player": "Jake Rogers"
     },
     {
       "date": "2026-08-15",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersactivated RHPJakob Junisfrom the 15-day injured list.",
-      "player": "Jakob Junis"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPDrey Jamesonon a rehab assignment to Reno Aces.",
+      "player": "Drey Jameson"
     },
     {
       "date": "2026-08-15",
@@ -69,87 +45,27 @@
     },
     {
       "date": "2026-08-15",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled LHPRicky Tiedemannfrom Buffalo Bisons.",
-      "player": "Ricky Tiedemann"
-    },
-    {
-      "date": "2026-08-15",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPChris Roycroftto Durham Bulls.",
-      "player": "Chris Roycroft"
-    },
-    {
-      "date": "2026-08-15",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned CEdgar Queroto Charlotte Knights.",
-      "player": "Edgar Quero"
-    },
-    {
-      "date": "2026-08-15",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RFJoshua Báezfrom Memphis Redbirds.",
-      "player": "Joshua Báez"
-    },
-    {
-      "date": "2026-08-15",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned RHPChase Leeto Buffalo Bisons.",
-      "player": "Chase Lee"
-    },
-    {
-      "date": "2026-08-15",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPJoe Boylefrom Durham Bulls.",
-      "player": "Joe Boyle"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPShelby Milleron a rehab assignment to Iowa Cubs.",
+      "player": "Shelby Miller"
     },
     {
       "date": "2026-08-15",
       "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsselected the contract of RHPMichael Fulmerfrom Salt Lake Bees.",
-      "player": "Michael Fulmer"
-    },
-    {
-      "date": "2026-08-15",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersclaimed RHPTroy Watsonoff waivers fromDetroit Tigers.",
-      "player": "Troy Watson"
-    },
-    {
-      "date": "2026-08-15",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned RHPTroy Watsonto Tacoma Rainiers.",
-      "player": "Troy Watson"
-    },
-    {
-      "date": "2026-08-15",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of RFDaz Cameronfrom Buffalo Bisons.",
-      "player": "Daz Cameron"
+      "details": "Los Angeles Angelssent LHPYusei Kikuchion a rehab assignment to Rancho Cucamonga Quakes.",
+      "player": "Yusei Kikuchi"
     },
     {
       "date": "2026-08-15",
       "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsclaimed RHPTrevor Martinoff waivers fromTampa Bay Rays.",
-      "player": "Trevor Martin"
+      "details": "Los Angeles Angelsplaced CSebastián Riveroon the 60-day injured list. Left hamate fracture.",
+      "player": "Sebastián Rivero"
     },
     {
       "date": "2026-08-15",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned RHPTrevor Martinto Salt Lake Bees.",
-      "player": "Trevor Martin"
-    },
-    {
-      "date": "2026-08-15",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsoptioned LHPSammy Peraltato Salt Lake Bees.",
-      "player": "Sammy Peralta"
-    },
-    {
-      "date": "2026-08-15",
-      "team": "Athletics",
-      "details": "Athleticstraded SSJonathan OrnelastoMilwaukee Brewersfor cash.",
-      "player": "Jonathan Ornelas"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated RHPJakob Junisfrom the 15-day injured list.",
+      "player": "Jakob Junis"
     },
     {
       "date": "2026-08-15",
@@ -165,9 +81,93 @@
     },
     {
       "date": "2026-08-15",
+      "team": "Athletics",
+      "details": "Athleticstraded SSJonathan OrnelastoMilwaukee Brewersfor cash.",
+      "player": "Jonathan Ornelas"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LHPRicky Tiedemannfrom Buffalo Bisons.",
+      "player": "Ricky Tiedemann"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsclaimed RHPTrevor Martinoff waivers fromTampa Bay Rays.",
+      "player": "Trevor Martin"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned RHPTrevor Martinto Salt Lake Bees.",
+      "player": "Trevor Martin"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned CEdgar Queroto Charlotte Knights.",
+      "player": "Edgar Quero"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of RFDaz Cameronfrom Buffalo Bisons.",
+      "player": "Daz Cameron"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPChase Leeto Buffalo Bisons.",
+      "player": "Chase Lee"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RFJoshua Báezfrom Memphis Redbirds.",
+      "player": "Joshua Báez"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned LHPSammy Peraltato Salt Lake Bees.",
+      "player": "Sammy Peralta"
+    },
+    {
+      "date": "2026-08-15",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsoptioned 3BCésar Prietoto Memphis Redbirds.",
       "player": "César Prieto"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsselected the contract of RHPMichael Fulmerfrom Salt Lake Bees.",
+      "player": "Michael Fulmer"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPChris Roycroftto Durham Bulls.",
+      "player": "Chris Roycroft"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPJoe Boylefrom Durham Bulls.",
+      "player": "Joe Boyle"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersclaimed RHPTroy Watsonoff waivers fromDetroit Tigers.",
+      "player": "Troy Watson"
+    },
+    {
+      "date": "2026-08-15",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned RHPTroy Watsonto Tacoma Rainiers.",
+      "player": "Troy Watson"
     }
   ]
 }
