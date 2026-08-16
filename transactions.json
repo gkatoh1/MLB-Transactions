@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T16:32:53.895995",
+  "last_updated": "2026-08-16T17:25:16.635980",
   "transactions": [
     {
       "date": "2026-08-16",
@@ -9,39 +9,15 @@
     },
     {
       "date": "2026-08-16",
+      "team": "Athletics",
+      "details": "Athleticsplaced LFTyler Soderstromon the 10-day injured list retroactive to August 15, 2026. Left hip impingement.",
+      "player": "Tyler Soderstrom"
+    },
+    {
+      "date": "2026-08-16",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesdesignated LHPDanny Youngfor assignment.",
       "player": "Danny Young"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced RHPJustin Slatenon the 15-day injured list retroactive to August 13, 2026. Right elbow inflammation.",
-      "player": "Justin Slaten"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated LHPBrendon Littlefrom the paternity list.",
-      "player": "Brendon Little"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced DHMasataka Yoshidaon the 10-day injured list. Left hamstring strain.",
-      "player": "Masataka Yoshida"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent CSamuel Basalloon a rehab assignment to Norfolk Tides.",
-      "player": "Samuel Basallo"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersdesignated CFTrei Cruzfor assignment.",
-      "player": "Trei Cruz"
     },
     {
       "date": "2026-08-16",
@@ -51,21 +27,39 @@
     },
     {
       "date": "2026-08-16",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent RHPDaniel Palenciaon a rehab assignment to Iowa Cubs.",
+      "player": "Daniel Palencia"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent CSamuel Basalloon a rehab assignment to Norfolk Tides.",
+      "player": "Samuel Basallo"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced RHPJustin Slatenon the 15-day injured list retroactive to August 13, 2026. Right elbow inflammation.",
+      "player": "Justin Slaten"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced DHMasataka Yoshidaon the 10-day injured list. Left hamstring strain.",
+      "player": "Masataka Yoshida"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated LHPBrendon Littlefrom the paternity list.",
+      "player": "Brendon Little"
+    },
+    {
+      "date": "2026-08-16",
       "team": "Detroit Tigers",
-      "details": "Detroit Tigersselected the contract of LFBrett Callahanfrom Toledo Mud Hens.",
-      "player": "Brett Callahan"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksselected the contract of RHPDennis Santanafrom Reno Aces.",
-      "player": "Dennis Santana"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned SSJack Branniganto Indianapolis Indians.",
-      "player": "Jack Brannigan"
+      "details": "Detroit Tigersdesignated CFTrei Cruzfor assignment.",
+      "player": "Trei Cruz"
     },
     {
       "date": "2026-08-16",
@@ -99,15 +93,39 @@
     },
     {
       "date": "2026-08-16",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LHPRicky Tiedemannto Buffalo Bisons.",
-      "player": "Ricky Tiedemann"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksselected the contract of RHPDennis Santanafrom Reno Aces.",
+      "player": "Dennis Santana"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Athletics",
+      "details": "Athleticsrecalled SSDarell Hernaizfrom Las Vegas Aviators.",
+      "player": "Darell Hernaiz"
     },
     {
       "date": "2026-08-16",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesrecalled LHPHunter Barcofrom Indianapolis Indians.",
       "player": "Hunter Barco"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPRicky Tiedemannto Buffalo Bisons.",
+      "player": "Ricky Tiedemann"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersselected the contract of LFBrett Callahanfrom Toledo Mud Hens.",
+      "player": "Brett Callahan"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned SSJack Branniganto Indianapolis Indians.",
+      "player": "Jack Brannigan"
     }
   ]
 }
