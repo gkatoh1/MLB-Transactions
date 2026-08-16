@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-08-16T13:36:22.612771",
+  "last_updated": "2026-08-16T14:29:16.122616",
   "transactions": [
     {
       "date": "2026-08-16",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent CSamuel Basalloon a rehab assignment to Norfolk Tides.",
       "player": "Samuel Basallo"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated LHPDanny Youngfor assignment.",
+      "player": "Danny Young"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of LHPRay Kerrfrom Gwinnett Stripers.",
+      "player": "Ray Kerr"
     }
   ]
 }
