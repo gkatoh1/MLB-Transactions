@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-08-17T15:31:27.331481",
+  "last_updated": "2026-08-17T16:35:28.106786",
   "transactions": [
     {
       "date": "2026-08-17",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsdesignated RHPRon Marinacciofor assignment.",
       "player": "Ron Marinaccio"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of LHPKent Emanuelfrom Louisville Bats.",
+      "player": "Kent Emanuel"
     },
     {
       "date": "2026-08-17",
@@ -18,12 +24,6 @@
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsrecalled LHPQuinn Mathewsfrom Memphis Redbirds.",
       "player": "Quinn Mathews"
-    },
-    {
-      "date": "2026-08-17",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsselected the contract of LHPKent Emanuelfrom Louisville Bats.",
-      "player": "Kent Emanuel"
     }
   ]
 }
