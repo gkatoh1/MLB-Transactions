@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-17T16:35:28.106786",
+  "last_updated": "2026-08-17T17:33:19.346895",
   "transactions": [
+    {
+      "date": "2026-08-17",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsplaced RFAustin Martinon the 10-day injured list. Left hamstring strain.",
+      "player": "Austin Martin"
+    },
     {
       "date": "2026-08-17",
       "team": "Cincinnati Reds",
@@ -15,15 +21,21 @@
     },
     {
       "date": "2026-08-17",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPZach McCambleyfrom Louisville Bats.",
-      "player": "Zach McCambley"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsselected the contract of CAlex Jacksonfrom St. Paul Saints.",
+      "player": "Alex Jackson"
     },
     {
       "date": "2026-08-17",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsrecalled LHPQuinn Mathewsfrom Memphis Redbirds.",
       "player": "Quinn Mathews"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPZach McCambleyfrom Louisville Bats.",
+      "player": "Zach McCambley"
     }
   ]
 }
