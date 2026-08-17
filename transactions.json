@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-08-16T23:26:40.647718",
+  "last_updated": "2026-08-17T01:45:53.307709",
   "transactions": [
-    {
-      "date": "2026-08-16",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersdesignated CFTrei Cruzfor assignment.",
-      "player": "Trei Cruz"
-    },
     {
       "date": "2026-08-16",
       "team": "Boston Red Sox",
@@ -15,15 +9,33 @@
     },
     {
       "date": "2026-08-16",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksdesignated LHPPhilip Abnerfor assignment.",
-      "player": "Philip Abner"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated LHPDanny Youngfor assignment.",
+      "player": "Danny Young"
     },
     {
       "date": "2026-08-16",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysactivated LHPBrendon Littlefrom the paternity list.",
       "player": "Brendon Little"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Athletics",
+      "details": "Athleticstransferred RHPJustin Sternerfrom the 15-day injured list to the 60-day injured list. Right knee chondromalacia.",
+      "player": "Justin Sterner"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced LHPJustin Wrobleskion the 15-day injured list. Left forearm inflammation.",
+      "player": "Justin Wrobleski"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced DHMasataka Yoshidaon the 10-day injured list. Left hamstring strain.",
+      "player": "Masataka Yoshida"
     },
     {
       "date": "2026-08-16",
@@ -39,27 +51,15 @@
     },
     {
       "date": "2026-08-16",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RHPEdward Cabrerafrom the 15-day injured list.",
-      "player": "Edward Cabrera"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated CFTrei Cruzfor assignment.",
+      "player": "Trei Cruz"
     },
     {
       "date": "2026-08-16",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated LHPDanny Youngfor assignment.",
-      "player": "Danny Young"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced DHMasataka Yoshidaon the 10-day injured list. Left hamstring strain.",
-      "player": "Masataka Yoshida"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Athletics",
-      "details": "Athleticstransferred RHPJustin Sternerfrom the 15-day injured list to the 60-day injured list. Right knee chondromalacia.",
-      "player": "Justin Sterner"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksdesignated LHPPhilip Abnerfor assignment.",
+      "player": "Philip Abner"
     },
     {
       "date": "2026-08-16",
@@ -75,51 +75,9 @@
     },
     {
       "date": "2026-08-16",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersplaced LHPJustin Wrobleskion the 15-day injured list. Left forearm inflammation.",
-      "player": "Justin Wrobleski"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled 3BNick Yorkefrom Indianapolis Indians.",
-      "player": "Nick Yorke"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled CMickey Gasperfrom Worcester Red Sox.",
-      "player": "Mickey Gasper"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LHPRicky Tiedemannto Buffalo Bisons.",
-      "player": "Ricky Tiedemann"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned SSJack Branniganto Indianapolis Indians.",
-      "player": "Jack Brannigan"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssent CAlex Jacksonoutright to St. Paul Saints.",
-      "player": "Alex Jackson"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Athletics",
-      "details": "Athleticsrecalled SSDarell Hernaizfrom Las Vegas Aviators.",
-      "player": "Darell Hernaiz"
-    },
-    {
-      "date": "2026-08-16",
       "team": "Chicago Cubs",
-      "details": "Chicago Cubsoptioned RHPJavier Assadto Iowa Cubs.",
-      "player": "Javier Assad"
+      "details": "Chicago Cubsactivated RHPEdward Cabrerafrom the 15-day injured list.",
+      "player": "Edward Cabrera"
     },
     {
       "date": "2026-08-16",
@@ -129,27 +87,9 @@
     },
     {
       "date": "2026-08-16",
-      "team": "Athletics",
-      "details": "Athleticsclaimed LHPJoe Rockoff waivers fromChicago White Sox.",
-      "player": "Joe Rock"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersselected the contract of LFBrett Callahanfrom Toledo Mud Hens.",
-      "player": "Brett Callahan"
-    },
-    {
-      "date": "2026-08-16",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled LHPHunter Barcofrom Indianapolis Indians.",
-      "player": "Hunter Barco"
-    },
-    {
-      "date": "2026-08-16",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled RHPKyle Hurtfrom Oklahoma City Comets.",
-      "player": "Kyle Hurt"
+      "details": "Pittsburgh Piratesrecalled 3BNick Yorkefrom Indianapolis Indians.",
+      "player": "Nick Yorke"
     },
     {
       "date": "2026-08-16",
@@ -165,6 +105,12 @@
     },
     {
       "date": "2026-08-16",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent CAlex Jacksonoutright to St. Paul Saints.",
+      "player": "Alex Jackson"
+    },
+    {
+      "date": "2026-08-16",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxrecalled LHPRaymond Burgosfrom Worcester Red Sox.",
       "player": "Raymond Burgos"
@@ -177,15 +123,69 @@
     },
     {
       "date": "2026-08-16",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent RHPEli Morganoutright to Omaha Storm Chasers.",
+      "player": "Eli Morgan"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPRicky Tiedemannto Buffalo Bisons.",
+      "player": "Ricky Tiedemann"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned SSJack Branniganto Indianapolis Indians.",
+      "player": "Jack Brannigan"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPJavier Assadto Iowa Cubs.",
+      "player": "Javier Assad"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Athletics",
+      "details": "Athleticsclaimed LHPJoe Rockoff waivers fromChicago White Sox.",
+      "player": "Joe Rock"
+    },
+    {
+      "date": "2026-08-16",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesselected the contract of LHPRay Kerrfrom Gwinnett Stripers.",
       "player": "Ray Kerr"
     },
     {
       "date": "2026-08-16",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent RHPEli Morganoutright to Omaha Storm Chasers.",
-      "player": "Eli Morgan"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersselected the contract of LFBrett Callahanfrom Toledo Mud Hens.",
+      "player": "Brett Callahan"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled CMickey Gasperfrom Worcester Red Sox.",
+      "player": "Mickey Gasper"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Athletics",
+      "details": "Athleticsrecalled SSDarell Hernaizfrom Las Vegas Aviators.",
+      "player": "Darell Hernaiz"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled LHPHunter Barcofrom Indianapolis Indians.",
+      "player": "Hunter Barco"
+    },
+    {
+      "date": "2026-08-16",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPKyle Hurtfrom Oklahoma City Comets.",
+      "player": "Kyle Hurt"
     }
   ]
 }
