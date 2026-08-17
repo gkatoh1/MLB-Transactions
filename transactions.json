@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T17:33:19.346895",
+  "last_updated": "2026-08-17T18:49:36.764783",
   "transactions": [
     {
       "date": "2026-08-17",
@@ -15,6 +15,30 @@
     },
     {
       "date": "2026-08-17",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated LHPShane McClanahanfrom the 15-day injured list.",
+      "player": "Shane McClanahan"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated 3BGabriel Ariasfor assignment.",
+      "player": "Gabriel Arias"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPJoe Boyleto Durham Bulls.",
+      "player": "Joe Boyle"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of 1BChristopher Morelfrom Syracuse Mets.",
+      "player": "Christopher Morel"
+    },
+    {
+      "date": "2026-08-17",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsselected the contract of LHPKent Emanuelfrom Louisville Bats.",
       "player": "Kent Emanuel"
@@ -27,15 +51,15 @@
     },
     {
       "date": "2026-08-17",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled LHPQuinn Mathewsfrom Memphis Redbirds.",
-      "player": "Quinn Mathews"
-    },
-    {
-      "date": "2026-08-17",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsrecalled RHPZach McCambleyfrom Louisville Bats.",
       "player": "Zach McCambley"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled LHPQuinn Mathewsfrom Memphis Redbirds.",
+      "player": "Quinn Mathews"
     }
   ]
 }
