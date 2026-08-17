@@ -1,35 +1,11 @@
 {
-  "last_updated": "2026-08-17T20:33:44.280614",
+  "last_updated": "2026-08-17T21:31:32.985519",
   "transactions": [
-    {
-      "date": "2026-08-17",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsdesignated RFStarling Martefor assignment.",
-      "player": "Starling Marte"
-    },
     {
       "date": "2026-08-17",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksactivated LFJordan Lawlarfrom the 10-day injured list.",
       "player": "Jordan Lawlar"
-    },
-    {
-      "date": "2026-08-17",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksdesignated RHPAndrew Hoffmannfor assignment.",
-      "player": "Andrew Hoffmann"
-    },
-    {
-      "date": "2026-08-17",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated LHPShane McClanahanfrom the 15-day injured list.",
-      "player": "Shane McClanahan"
-    },
-    {
-      "date": "2026-08-17",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsactivated 1BVinnie Pasquantinofrom the 10-day injured list.",
-      "player": "Vinnie Pasquantino"
     },
     {
       "date": "2026-08-17",
@@ -40,14 +16,32 @@
     {
       "date": "2026-08-17",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksactivated RHPJustin Martinezfrom the 60-day injured list.",
-      "player": "Justin Martinez"
+      "details": "Arizona Diamondbacksdesignated RHPAndrew Hoffmannfor assignment.",
+      "player": "Andrew Hoffmann"
     },
     {
       "date": "2026-08-17",
-      "team": "New York Mets",
-      "details": "New York Metsdesignated 3BGabriel Ariasfor assignment.",
-      "player": "Gabriel Arias"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesdesignated RHPMichael Lorenzenfor assignment.",
+      "player": "Michael Lorenzen"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated 1BVinnie Pasquantinofrom the 10-day injured list.",
+      "player": "Vinnie Pasquantino"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsdesignated RFStarling Martefor assignment.",
+      "player": "Starling Marte"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsdesignated LHPKent Emanuelfor assignment.",
+      "player": "Kent Emanuel"
     },
     {
       "date": "2026-08-17",
@@ -64,14 +58,20 @@
     {
       "date": "2026-08-17",
       "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned RHPGerardo Carrilloto Reno Aces.",
-      "player": "Gerardo Carrillo"
+      "details": "Arizona Diamondbacksactivated RHPJustin Martinezfrom the 60-day injured list.",
+      "player": "Justin Martinez"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated LHPShane McClanahanfrom the 15-day injured list.",
+      "player": "Shane McClanahan"
     },
     {
       "date": "2026-08-17",
       "team": "New York Mets",
-      "details": "New York Metsselected the contract of 1BChristopher Morelfrom Syracuse Mets.",
-      "player": "Christopher Morel"
+      "details": "New York Metsdesignated 3BGabriel Ariasfor assignment.",
+      "player": "Gabriel Arias"
     },
     {
       "date": "2026-08-17",
@@ -81,57 +81,15 @@
     },
     {
       "date": "2026-08-17",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPZach McCambleyfrom Louisville Bats.",
-      "player": "Zach McCambley"
-    },
-    {
-      "date": "2026-08-17",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned 3BJosh Rojasto Omaha Storm Chasers.",
-      "player": "Josh Rojas"
-    },
-    {
-      "date": "2026-08-17",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPJoe Boyleto Durham Bulls.",
-      "player": "Joe Boyle"
-    },
-    {
-      "date": "2026-08-17",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksoptioned 1BTyler Locklearto Reno Aces.",
-      "player": "Tyler Locklear"
-    },
-    {
-      "date": "2026-08-17",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsselected the contract of LHPKent Emanuelfrom Louisville Bats.",
-      "player": "Kent Emanuel"
-    },
-    {
-      "date": "2026-08-17",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled LHPConnor Thomasfrom Omaha Storm Chasers.",
-      "player": "Connor Thomas"
-    },
-    {
-      "date": "2026-08-17",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsselected the contract of CAlex Jacksonfrom St. Paul Saints.",
-      "player": "Alex Jackson"
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of 1BChristopher Morelfrom Syracuse Mets.",
+      "player": "Christopher Morel"
     },
     {
       "date": "2026-08-17",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jayssent RHPLazaro Estradaoutright to Buffalo Bisons.",
       "player": "Lazaro Estrada"
-    },
-    {
-      "date": "2026-08-17",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPJose Cuasto Omaha Storm Chasers.",
-      "player": "Jose Cuas"
     },
     {
       "date": "2026-08-17",
@@ -144,6 +102,72 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxoptioned LHPRaymond Burgosto Worcester Red Sox.",
       "player": "Raymond Burgos"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPZach McCambleyfrom Louisville Bats.",
+      "player": "Zach McCambley"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned 1BTyler Locklearto Reno Aces.",
+      "player": "Tyler Locklear"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned 3BJosh Rojasto Omaha Storm Chasers.",
+      "player": "Josh Rojas"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsselected the contract of CAlex Jacksonfrom St. Paul Saints.",
+      "player": "Alex Jackson"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPJoe Boyleto Durham Bulls.",
+      "player": "Joe Boyle"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPJose Cuasto Omaha Storm Chasers.",
+      "player": "Jose Cuas"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of LHPKent Emanuelfrom Louisville Bats.",
+      "player": "Kent Emanuel"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPZach Maxwellfrom Louisville Bats.",
+      "player": "Zach Maxwell"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPGerardo Carrilloto Reno Aces.",
+      "player": "Gerardo Carrillo"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled LHPConnor Thomasfrom Omaha Storm Chasers.",
+      "player": "Connor Thomas"
+    },
+    {
+      "date": "2026-08-17",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled RHPTJ Shookfrom Albuquerque Isotopes.",
+      "player": "TJ Shook"
     }
   ]
 }
