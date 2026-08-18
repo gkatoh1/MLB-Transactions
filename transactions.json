@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T16:38:42.734242",
+  "last_updated": "2026-08-18T17:33:28.823258",
   "transactions": [
     {
       "date": "2026-08-18",
@@ -18,12 +18,6 @@
       "team": "Washington Nationals",
       "details": "Washington Nationalssent RHPJosiah Grayon a rehab assignment to Fredericksburg Nationals.",
       "player": "Josiah Gray"
-    },
-    {
-      "date": "2026-08-18",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RFNoelvi Marteto Louisville Bats.",
-      "player": "Noelvi Marte"
     },
     {
       "date": "2026-08-18",
@@ -48,6 +42,12 @@
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsoptioned LHPQuinn Mathewsto Memphis Redbirds.",
       "player": "Quinn Mathews"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RFNoelvi Marteto Louisville Bats.",
+      "player": "Noelvi Marte"
     }
   ]
 }
