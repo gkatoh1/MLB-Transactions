@@ -1,17 +1,53 @@
 {
-  "last_updated": "2026-08-18T15:37:46.194678",
+  "last_updated": "2026-08-18T16:38:42.734242",
   "transactions": [
     {
       "date": "2026-08-18",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned LHPQuinn Mathewsto Memphis Redbirds.",
-      "player": "Quinn Mathews"
+      "team": "New York Mets",
+      "details": "New York Metssent RHPJustin Hagenmanon a rehab assignment to St. Lucie Mets.",
+      "player": "Justin Hagenman"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPTyler Kinleyfor assignment.",
+      "player": "Tyler Kinley"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPJosiah Grayon a rehab assignment to Fredericksburg Nationals.",
+      "player": "Josiah Gray"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RFNoelvi Marteto Louisville Bats.",
+      "player": "Noelvi Marte"
     },
     {
       "date": "2026-08-18",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned RHPZach McCambleyto Louisville Bats.",
       "player": "Zach McCambley"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled CWill Banfieldfrom Louisville Bats.",
+      "player": "Will Banfield"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPAJ Smith-Shawverfrom Gwinnett Stripers.",
+      "player": "AJ Smith-Shawver"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned LHPQuinn Mathewsto Memphis Redbirds.",
+      "player": "Quinn Mathews"
     }
   ]
 }
