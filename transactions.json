@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-08-18T18:48:21.965325",
+  "last_updated": "2026-08-18T19:32:16.084621",
   "transactions": [
+    {
+      "date": "2026-08-18",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated LHPCarlos Rodónfrom the 15-day injured list.",
+      "player": "Carlos Rodón"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPTyler Kinleyfor assignment.",
+      "player": "Tyler Kinley"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPJustin Hagenmanon a rehab assignment to St. Lucie Mets.",
+      "player": "Justin Hagenman"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated 2BLenyn Sosafrom the 60-day injured list.",
+      "player": "Lenyn Sosa"
+    },
     {
       "date": "2026-08-18",
       "team": "Washington Nationals",
@@ -21,21 +45,27 @@
     },
     {
       "date": "2026-08-18",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated RHPTyler Kinleyfor assignment.",
-      "player": "Tyler Kinley"
-    },
-    {
-      "date": "2026-08-18",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent CSamuel Basalloon a rehab assignment to Chesapeake Baysox.",
       "player": "Samuel Basallo"
     },
     {
       "date": "2026-08-18",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPJustin Hagenmanon a rehab assignment to St. Lucie Mets.",
-      "player": "Justin Hagenman"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPAntwone Kellyfrom Indianapolis Indians.",
+      "player": "Antwone Kelly"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned LHPQuinn Mathewsto Memphis Redbirds.",
+      "player": "Quinn Mathews"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent 2BLenyn Sosaoutright to Buffalo Bisons.",
+      "player": "Lenyn Sosa"
     },
     {
       "date": "2026-08-18",
@@ -45,9 +75,15 @@
     },
     {
       "date": "2026-08-18",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPZach McCambleyto Louisville Bats.",
-      "player": "Zach McCambley"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPIsaac Mattsonto Indianapolis Indians.",
+      "player": "Isaac Mattson"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPTaylor Rashifrom Las Vegas Aviators.",
+      "player": "Taylor Rashi"
     },
     {
       "date": "2026-08-18",
@@ -57,21 +93,27 @@
     },
     {
       "date": "2026-08-18",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPZach McCambleyto Louisville Bats.",
+      "player": "Zach McCambley"
+    },
+    {
+      "date": "2026-08-18",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesrecalled RHPAJ Smith-Shawverfrom Gwinnett Stripers.",
       "player": "AJ Smith-Shawver"
     },
     {
       "date": "2026-08-18",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled CWill Banfieldfrom Louisville Bats.",
-      "player": "Will Banfield"
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPMason Barnettto Las Vegas Aviators.",
+      "player": "Mason Barnett"
     },
     {
       "date": "2026-08-18",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned LHPQuinn Mathewsto Memphis Redbirds.",
-      "player": "Quinn Mathews"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled CWill Banfieldfrom Louisville Bats.",
+      "player": "Will Banfield"
     }
   ]
 }
