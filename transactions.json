@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-18T14:39:50.575675",
+  "last_updated": "2026-08-18T15:37:46.194678",
   "transactions": [
-    {
-      "date": "2026-08-18",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPZach McCambleyto Louisville Bats.",
-      "player": "Zach McCambley"
-    },
     {
       "date": "2026-08-18",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsoptioned LHPQuinn Mathewsto Memphis Redbirds.",
       "player": "Quinn Mathews"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPZach McCambleyto Louisville Bats.",
+      "player": "Zach McCambley"
     }
   ]
 }
