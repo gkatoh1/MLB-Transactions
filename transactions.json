@@ -1,6 +1,30 @@
 {
-  "last_updated": "2026-08-19T18:44:09.102788",
+  "last_updated": "2026-08-19T19:31:24.185815",
   "transactions": [
+    {
+      "date": "2026-08-19",
+      "team": "New York Mets",
+      "details": "New York Metsplaced DHJorge Polancoon the 10-day injured list. Left ankle bursitis.",
+      "player": "Jorge Polanco"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated RHPMatt Waldronfor assignment.",
+      "player": "Matt Waldron"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced RFVictor Mesa Jr.on the 10-day injured list. Left hamstring strain.",
+      "player": "Victor Mesa Jr."
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced 1BRhys Hoskinson the 10-day injured list. Lower back inflammation.",
+      "player": "Rhys Hoskins"
+    },
     {
       "date": "2026-08-19",
       "team": "Boston Red Sox",
@@ -15,9 +39,27 @@
     },
     {
       "date": "2026-08-19",
-      "team": "New York Mets",
-      "details": "New York Metsplaced DHJorge Polancoon the 10-day injured list. Left ankle bursitis.",
-      "player": "Jorge Polanco"
+      "team": "Athletics",
+      "details": "Athleticsactivated LHPJeffrey Springsfrom the 15-day injured list.",
+      "player": "Jeffrey Springs"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPJesse Scholtensto Durham Bulls.",
+      "player": "Jesse Scholtens"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of LHPBrendan Celluccifrom Buffalo Bisons.",
+      "player": "Brendan Cellucci"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPSeth Johnsonto Las Vegas Aviators.",
+      "player": "Seth Johnson"
     },
     {
       "date": "2026-08-19",
@@ -27,15 +69,39 @@
     },
     {
       "date": "2026-08-19",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPJack Weisenburgerto Syracuse Mets.",
-      "player": "Jack Weisenburger"
+      "team": "New York Yankees",
+      "details": "New York Yankeestraded CChristian BethancourttoPittsburgh Piratesfor cash.",
+      "player": "Christian Bethancourt"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RFDavid Fryfrom Columbus Clippers.",
+      "player": "David Fry"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled CKenny Piperfrom Durham Bulls.",
+      "player": "Kenny Piper"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPChris Roycroftfrom Durham Bulls.",
+      "player": "Chris Roycroft"
     },
     {
       "date": "2026-08-19",
       "team": "New York Mets",
       "details": "New York Metsrecalled 1BEric Wagamanfrom Syracuse Mets.",
       "player": "Eric Wagaman"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJack Weisenburgerto Syracuse Mets.",
+      "player": "Jack Weisenburger"
     }
   ]
 }
