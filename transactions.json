@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T15:38:01.697625",
+  "last_updated": "2026-08-19T16:38:08.149181",
   "transactions": [
     {
       "date": "2026-08-19",
@@ -9,9 +9,15 @@
     },
     {
       "date": "2026-08-19",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent SSJackson Cluffto a minor league contract.",
+      "player": "Jackson Cluff"
+    },
+    {
+      "date": "2026-08-19",
       "team": "New York Mets",
-      "details": "New York Metsrecalled 1BEric Wagamanfrom Syracuse Mets.",
-      "player": "Eric Wagaman"
+      "details": "New York Metsoptioned RHPJack Weisenburgerto Syracuse Mets.",
+      "player": "Jack Weisenburger"
     },
     {
       "date": "2026-08-19",
@@ -22,8 +28,8 @@
     {
       "date": "2026-08-19",
       "team": "New York Mets",
-      "details": "New York Metsoptioned RHPJack Weisenburgerto Syracuse Mets.",
-      "player": "Jack Weisenburger"
+      "details": "New York Metsrecalled 1BEric Wagamanfrom Syracuse Mets.",
+      "player": "Eric Wagaman"
     }
   ]
 }
