@@ -1,29 +1,17 @@
 {
-  "last_updated": "2026-08-18T23:28:03.049623",
+  "last_updated": "2026-08-19T01:42:40.902404",
   "transactions": [
+    {
+      "date": "2026-08-18",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinssent RHPAnthony Benderon a rehab assignment to Jacksonville Jumbo Shrimp.",
+      "player": "Anthony Bender"
+    },
     {
       "date": "2026-08-18",
       "team": "New York Yankees",
       "details": "New York Yankeesactivated LHPCarlos Rodónfrom the 15-day injured list.",
       "player": "Carlos Rodón"
-    },
-    {
-      "date": "2026-08-18",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated RHPTyler Kinleyfor assignment.",
-      "player": "Tyler Kinley"
-    },
-    {
-      "date": "2026-08-18",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPJustin Hagenmanon a rehab assignment to St. Lucie Mets.",
-      "player": "Justin Hagenman"
-    },
-    {
-      "date": "2026-08-18",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysactivated 2BLenyn Sosafrom the 60-day injured list.",
-      "player": "Lenyn Sosa"
     },
     {
       "date": "2026-08-18",
@@ -45,33 +33,39 @@
     },
     {
       "date": "2026-08-18",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPTyler Kinleyfor assignment.",
+      "player": "Tyler Kinley"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPJustin Hagenmanon a rehab assignment to St. Lucie Mets.",
+      "player": "Justin Hagenman"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated 2BLenyn Sosafrom the 60-day injured list.",
+      "player": "Lenyn Sosa"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced RHPEdwin Díazon the 15-day injured list. Neck inflammation.",
+      "player": "Edwin Díaz"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Athletics",
+      "details": "Athleticssent CFDenzel Clarkeon a rehab assignment to Las Vegas Aviators.",
+      "player": "Denzel Clarke"
+    },
+    {
+      "date": "2026-08-18",
       "team": "Texas Rangers",
       "details": "Texas Rangersactivated CDanny Jansenfrom the 60-day injured list.",
       "player": "Danny Jansen"
-    },
-    {
-      "date": "2026-08-18",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinssent RHPAnthony Benderon a rehab assignment to Jacksonville Jumbo Shrimp.",
-      "player": "Anthony Bender"
-    },
-    {
-      "date": "2026-08-18",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent SSCooper Pratton a rehab assignment to Wisconsin Timber Rattlers.",
-      "player": "Cooper Pratt"
-    },
-    {
-      "date": "2026-08-18",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent LFRoman Anthonyon a rehab assignment to Portland Sea Dogs.",
-      "player": "Roman Anthony"
-    },
-    {
-      "date": "2026-08-18",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent LFLourdes Gurriel Jr.on a rehab assignment to Reno Aces.",
-      "player": "Lourdes Gurriel Jr."
     },
     {
       "date": "2026-08-18",
@@ -87,15 +81,51 @@
     },
     {
       "date": "2026-08-18",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent RHPBeck Wayon a rehab assignment to Northwest Arkansas Naturals.",
-      "player": "Beck Way"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent SSCooper Pratton a rehab assignment to Wisconsin Timber Rattlers.",
+      "player": "Cooper Pratt"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent LFRoman Anthonyon a rehab assignment to Portland Sea Dogs.",
+      "player": "Roman Anthony"
     },
     {
       "date": "2026-08-18",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesplaced CHunter Goodmanon the 10-day injured list retroactive to August 15, 2026. Left shoulder strain.",
       "player": "Hunter Goodman"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssigned free agent 2BAndy Ibáñezto a minor league contract.",
+      "player": "Andy Ibáñez"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent RHPBeck Wayon a rehab assignment to Northwest Arkansas Naturals.",
+      "player": "Beck Way"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "San Diego Padres",
+      "details": "San Diego Padressent LFSamad Tayloron a rehab assignment to El Paso Chihuahuas.",
+      "player": "Samad Taylor"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent LFLourdes Gurriel Jr.on a rehab assignment to Reno Aces.",
+      "player": "Lourdes Gurriel Jr."
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled CWill Banfieldfrom Louisville Bats.",
+      "player": "Will Banfield"
     },
     {
       "date": "2026-08-18",
@@ -111,9 +141,39 @@
     },
     {
       "date": "2026-08-18",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPEmmet Sheehanfrom Oklahoma City Comets.",
+      "player": "Emmet Sheehan"
+    },
+    {
+      "date": "2026-08-18",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesrecalled RHPAntwone Kellyfrom Indianapolis Indians.",
       "player": "Antwone Kelly"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPLucas Ercegto Omaha Storm Chasers.",
+      "player": "Lucas Erceg"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPMason Barnettto Las Vegas Aviators.",
+      "player": "Mason Barnett"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPTaylor Rashifrom Las Vegas Aviators.",
+      "player": "Taylor Rashi"
+    },
+    {
+      "date": "2026-08-18",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPChayce McDermottto Syracuse Mets.",
+      "player": "Chayce McDermott"
     },
     {
       "date": "2026-08-18",
@@ -135,39 +195,9 @@
     },
     {
       "date": "2026-08-18",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPChayce McDermottto Syracuse Mets.",
-      "player": "Chayce McDermott"
-    },
-    {
-      "date": "2026-08-18",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPLucas Ercegto Omaha Storm Chasers.",
-      "player": "Lucas Erceg"
-    },
-    {
-      "date": "2026-08-18",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned RFNoelvi Marteto Louisville Bats.",
       "player": "Noelvi Marte"
-    },
-    {
-      "date": "2026-08-18",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled CWill Banfieldfrom Louisville Bats.",
-      "player": "Will Banfield"
-    },
-    {
-      "date": "2026-08-18",
-      "team": "Athletics",
-      "details": "Athleticsoptioned RHPMason Barnettto Las Vegas Aviators.",
-      "player": "Mason Barnett"
-    },
-    {
-      "date": "2026-08-18",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPTaylor Rashifrom Las Vegas Aviators.",
-      "player": "Taylor Rashi"
     },
     {
       "date": "2026-08-18",
