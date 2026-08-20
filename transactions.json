@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-20T18:50:18.153329",
+  "last_updated": "2026-08-20T19:36:30.654954",
   "transactions": [
+    {
+      "date": "2026-08-20",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent LFCody Bellingeron a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Cody Bellinger"
+    },
     {
       "date": "2026-08-20",
       "team": "San Francisco Giants",
@@ -33,15 +39,15 @@
     },
     {
       "date": "2026-08-20",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsrecalled LHPReiver Sanmartinfrom Sacramento River Cats.",
-      "player": "Reiver Sanmartin"
-    },
-    {
-      "date": "2026-08-20",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesclaimed RHPAndrew Hoffmannoff waivers fromArizona Diamondbacks.",
       "player": "Andrew Hoffmann"
+    },
+    {
+      "date": "2026-08-20",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled LHPReiver Sanmartinfrom Sacramento River Cats.",
+      "player": "Reiver Sanmartin"
     }
   ]
 }
