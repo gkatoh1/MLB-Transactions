@@ -1,6 +1,84 @@
 {
-  "last_updated": "2026-08-19T23:28:39.555112",
+  "last_updated": "2026-08-20T01:41:23.791677",
   "transactions": [
+    {
+      "date": "2026-08-19",
+      "team": "Unknown Team",
+      "details": "LHPMarco Gonzaleselected free agency.",
+      "player": "Marco Gonzales"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksreleased RHPAndrew Hoffmann.",
+      "player": "Andrew Hoffmann"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansplaced 1BRhys Hoskinson the 10-day injured list. Lower back inflammation.",
+      "player": "Rhys Hoskins"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantstransferred CDaniel Susacfrom the 10-day injured list to the 60-day injured list. Left knee patella fracture.",
+      "player": "Daniel Susac"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated RHPJaden Hillfrom the 15-day injured list.",
+      "player": "Jaden Hill"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerstransferred RFLuke Raleyfrom the 10-day injured list to the 60-day injured list. Left forearm strain.",
+      "player": "Luke Raley"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent LHPNestor Cortes.",
+      "player": "Nestor Cortes"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Unknown Team",
+      "details": "RHPRon Marinaccioelected free agency.",
+      "player": "Ron Marinaccio"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsreleased RFStarling Marte.",
+      "player": "Starling Marte"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RHPCole Sulseron a rehab assignment to Durham Bulls.",
+      "player": "Cole Sulser"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssigned free agent SSJackson Cluffto a minor league contract.",
+      "player": "Jackson Cluff"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssigned free agent RHPDarius Vinesto a minor league contract.",
+      "player": "Darius Vines"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated CSamuel Basallofrom the 10-day injured list.",
+      "player": "Samuel Basallo"
+    },
     {
       "date": "2026-08-19",
       "team": "New York Mets",
@@ -9,9 +87,15 @@
     },
     {
       "date": "2026-08-19",
-      "team": "Unknown Team",
-      "details": "RHPRon Marinaccioelected free agency.",
-      "player": "Ron Marinaccio"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesdesignated RHPBrian Kellerfor assignment.",
+      "player": "Brian Keller"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Houston Astros",
+      "details": "Houston Astrostransferred CFBrice Matthewsfrom the 10-day injured list to the 60-day injured list. Left knee sprain.",
+      "player": "Brice Matthews"
     },
     {
       "date": "2026-08-19",
@@ -45,78 +129,6 @@
     },
     {
       "date": "2026-08-19",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent RHPCole Sulseron a rehab assignment to Durham Bulls.",
-      "player": "Cole Sulser"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersdesignated RHPJonathan Hernándezfor assignment.",
-      "player": "Jonathan Hernández"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssigned free agent RHPDarius Vinesto a minor league contract.",
-      "player": "Darius Vines"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated CSamuel Basallofrom the 10-day injured list.",
-      "player": "Samuel Basallo"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysdesignated RHPMatt Waldronfor assignment.",
-      "player": "Matt Waldron"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansplaced 1BRhys Hoskinson the 10-day injured list. Lower back inflammation.",
-      "player": "Rhys Hoskins"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Unknown Team",
-      "details": "LHPMarco Gonzaleselected free agency.",
-      "player": "Marco Gonzales"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksreleased RHPAndrew Hoffmann.",
-      "player": "Andrew Hoffmann"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesactivated RHPJaden Hillfrom the 15-day injured list.",
-      "player": "Jaden Hill"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerstransferred RFLuke Raleyfrom the 10-day injured list to the 60-day injured list. Left forearm strain.",
-      "player": "Luke Raley"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsreleased RFStarling Marte.",
-      "player": "Starling Marte"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesreleased RHPMichael Lorenzen.",
-      "player": "Michael Lorenzen"
-    },
-    {
-      "date": "2026-08-19",
       "team": "Athletics",
       "details": "Athleticsactivated LHPJeffrey Springsfrom the 15-day injured list.",
       "player": "Jeffrey Springs"
@@ -126,6 +138,18 @@
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersactivated RHPBrock Stewartfrom the 15-day injured list.",
       "player": "Brock Stewart"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated RHPJonathan Hernándezfor assignment.",
+      "player": "Jonathan Hernández"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated RHPMatt Waldronfor assignment.",
+      "player": "Matt Waldron"
     },
     {
       "date": "2026-08-19",
@@ -153,21 +177,63 @@
     },
     {
       "date": "2026-08-19",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssigned free agent SSJackson Cluffto a minor league contract.",
-      "player": "Jackson Cluff"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesreleased RHPMichael Lorenzen.",
+      "player": "Michael Lorenzen"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of LHPJhonathan Díazfrom Tacoma Rainiers.",
+      "player": "Jhonathan Díaz"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsselected the contract of LHPErik Tolmanfrom Rochester Red Wings.",
+      "player": "Erik Tolman"
     },
     {
       "date": "2026-08-19",
       "team": "San Francisco Giants",
-      "details": "San Francisco Giantstransferred CDaniel Susacfrom the 10-day injured list to the 60-day injured list. Left knee patella fracture.",
-      "player": "Daniel Susac"
+      "details": "San Francisco Giantsselected the contract of LHPMatt Wilkinsonfrom Sacramento River Cats.",
+      "player": "Matt Wilkinson"
     },
     {
       "date": "2026-08-19",
-      "team": "Houston Astros",
-      "details": "Houston Astrostransferred CFBrice Matthewsfrom the 10-day injured list to the 60-day injured list. Left knee sprain.",
-      "player": "Brice Matthews"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of LHPBrendan Celluccifrom Buffalo Bisons.",
+      "player": "Brendan Cellucci"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsclaimed LHPPhilip Abneroff waivers fromArizona Diamondbacks.",
+      "player": "Philip Abner"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled 1BEric Wagamanfrom Syracuse Mets.",
+      "player": "Eric Wagaman"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled CKenny Piperfrom Durham Bulls.",
+      "player": "Kenny Piper"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPJesse Scholtensto Durham Bulls.",
+      "player": "Jesse Scholtens"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJack Weisenburgerto Syracuse Mets.",
+      "player": "Jack Weisenburger"
     },
     {
       "date": "2026-08-19",
@@ -183,99 +249,9 @@
     },
     {
       "date": "2026-08-19",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of LHPJhonathan Díazfrom Tacoma Rainiers.",
-      "player": "Jhonathan Díaz"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsselected the contract of LHPMatt Wilkinsonfrom Sacramento River Cats.",
-      "player": "Matt Wilkinson"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled CKenny Piperfrom Durham Bulls.",
-      "player": "Kenny Piper"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned 2BJeremiah Jacksonto Norfolk Tides.",
-      "player": "Jeremiah Jackson"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysoptioned RHPJesse Scholtensto Durham Bulls.",
-      "player": "Jesse Scholtens"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysselected the contract of LHPBrendan Celluccifrom Buffalo Bisons.",
-      "player": "Brendan Cellucci"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPChris Roycroftfrom Durham Bulls.",
-      "player": "Chris Roycroft"
-    },
-    {
-      "date": "2026-08-19",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsoptioned LHPPhilip Abnerto Sacramento River Cats.",
       "player": "Philip Abner"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersoptioned LHPJosh Simpsonto Tacoma Rainiers.",
-      "player": "Josh Simpson"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsclaimed LHPPhilip Abneroff waivers fromArizona Diamondbacks.",
-      "player": "Philip Abner"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsselected the contract of LHPErik Tolmanfrom Rochester Red Wings.",
-      "player": "Erik Tolman"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Athletics",
-      "details": "Athleticsoptioned RHPSeth Johnsonto Las Vegas Aviators.",
-      "player": "Seth Johnson"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Houston Astros",
-      "details": "Houston Astrosselected the contract of RHPEthan Peckofrom Sugar Land Space Cowboys.",
-      "player": "Ethan Pecko"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesselected the contract of LHPMark Manfredifrom Albuquerque Isotopes.",
-      "player": "Mark Manfredi"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPJack Weisenburgerto Syracuse Mets.",
-      "player": "Jack Weisenburger"
-    },
-    {
-      "date": "2026-08-19",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned LFBrandon Lockridgeto Nashville Sounds.",
-      "player": "Brandon Lockridge"
     },
     {
       "date": "2026-08-19",
@@ -297,9 +273,33 @@
     },
     {
       "date": "2026-08-19",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned LHPReiver Sanmartinto Sacramento River Cats.",
-      "player": "Reiver Sanmartin"
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned LHPNestor Cortesto Clearwater Threshers.",
+      "player": "Nestor Cortes"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Houston Astros",
+      "details": "Houston Astrosselected the contract of RHPEthan Peckofrom Sugar Land Space Cowboys.",
+      "player": "Ethan Pecko"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RFDavid Fryfrom Columbus Clippers.",
+      "player": "David Fry"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LFBrandon Lockridgeto Nashville Sounds.",
+      "player": "Brandon Lockridge"
+    },
+    {
+      "date": "2026-08-19",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPChayce McDermottfrom Syracuse Mets.",
+      "player": "Chayce McDermott"
     }
   ]
 }
