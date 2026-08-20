@@ -1,4 +1,23 @@
 {
-  "last_updated": "2026-08-20T14:42:28.151952",
-  "transactions": []
+  "last_updated": "2026-08-20T15:39:37.649896",
+  "transactions": [
+    {
+      "date": "2026-08-20",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent RFTyler Freemanon a rehab assignment to Albuquerque Isotopes.",
+      "player": "Tyler Freeman"
+    },
+    {
+      "date": "2026-08-20",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced RHPKeaton Winnon the 15-day injured list retroactive to August 19, 2026. Right elbow neuritis.",
+      "player": "Keaton Winn"
+    },
+    {
+      "date": "2026-08-20",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled LHPReiver Sanmartinfrom Sacramento River Cats.",
+      "player": "Reiver Sanmartin"
+    }
+  ]
 }
