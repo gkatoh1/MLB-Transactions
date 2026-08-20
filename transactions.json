@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-20T20:36:04.070700",
+  "last_updated": "2026-08-20T21:33:52.078859",
   "transactions": [
+    {
+      "date": "2026-08-20",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent 1BVladimir Guerrero Jr.on a rehab assignment to Dunedin Blue Jays.",
+      "player": "Vladimir Guerrero Jr."
+    },
     {
       "date": "2026-08-20",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsplaced RHPKeaton Winnon the 15-day injured list retroactive to August 19, 2026. Right elbow neuritis.",
       "player": "Keaton Winn"
-    },
-    {
-      "date": "2026-08-20",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent LFCody Bellingeron a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
-      "player": "Cody Bellinger"
     },
     {
       "date": "2026-08-20",
@@ -21,15 +21,9 @@
     },
     {
       "date": "2026-08-20",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsplaced LHPSamy Natera Jr.on the 15-day injured list retroactive to August 17, 2026. Low back muscle spasms.",
-      "player": "Samy Natera Jr."
-    },
-    {
-      "date": "2026-08-20",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigerssent CFJames Outmanon a rehab assignment to Toledo Mud Hens.",
-      "player": "James Outman"
+      "team": "New York Yankees",
+      "details": "New York Yankeessent LFCody Bellingeron a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Cody Bellinger"
     },
     {
       "date": "2026-08-20",
@@ -45,6 +39,30 @@
     },
     {
       "date": "2026-08-20",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent RHPJack Leiteron a rehab assignment to Frisco RoughRiders.",
+      "player": "Jack Leiter"
+    },
+    {
+      "date": "2026-08-20",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent CFJames Outmanon a rehab assignment to Toledo Mud Hens.",
+      "player": "James Outman"
+    },
+    {
+      "date": "2026-08-20",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced LHPSamy Natera Jr.on the 15-day injured list retroactive to August 17, 2026. Low back muscle spasms.",
+      "player": "Samy Natera Jr."
+    },
+    {
+      "date": "2026-08-20",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent RHPJack Leiteron a rehab assignment to Frisco RoughRiders.",
+      "player": "Jack Leiter"
+    },
+    {
+      "date": "2026-08-20",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsrecalled LHPSammy Peraltafrom Salt Lake Bees.",
       "player": "Sammy Peralta"
@@ -57,15 +75,15 @@
     },
     {
       "date": "2026-08-20",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsrecalled LHPReiver Sanmartinfrom Sacramento River Cats.",
-      "player": "Reiver Sanmartin"
-    },
-    {
-      "date": "2026-08-20",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesclaimed RHPAndrew Hoffmannoff waivers fromArizona Diamondbacks.",
       "player": "Andrew Hoffmann"
+    },
+    {
+      "date": "2026-08-20",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled LHPReiver Sanmartinfrom Sacramento River Cats.",
+      "player": "Reiver Sanmartin"
     }
   ]
 }
