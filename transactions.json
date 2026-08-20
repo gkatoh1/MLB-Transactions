@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T17:36:13.665595",
+  "last_updated": "2026-08-20T18:50:18.153329",
   "transactions": [
     {
       "date": "2026-08-20",
@@ -22,14 +22,26 @@
     {
       "date": "2026-08-20",
       "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesclaimed RHPAndrew Hoffmannoff waivers fromArizona Diamondbacks.",
+      "details": "Philadelphia Philliesoptioned RHPAndrew Hoffmannto Lehigh Valley IronPigs.",
       "player": "Andrew Hoffmann"
+    },
+    {
+      "date": "2026-08-20",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent LHPKent Emanueloutright to Louisville Bats.",
+      "player": "Kent Emanuel"
     },
     {
       "date": "2026-08-20",
       "team": "San Francisco Giants",
       "details": "San Francisco Giantsrecalled LHPReiver Sanmartinfrom Sacramento River Cats.",
       "player": "Reiver Sanmartin"
+    },
+    {
+      "date": "2026-08-20",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesclaimed RHPAndrew Hoffmannoff waivers fromArizona Diamondbacks.",
+      "player": "Andrew Hoffmann"
     }
   ]
 }
