@@ -1,18 +1,6 @@
 {
-  "last_updated": "2026-08-21T21:30:33.580839",
+  "last_updated": "2026-08-21T22:31:24.122254",
   "transactions": [
-    {
-      "date": "2026-08-21",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent CSebastián Riveroon a rehab assignment to Salt Lake Bees.",
-      "player": "Sebastián Rivero"
-    },
-    {
-      "date": "2026-08-21",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinstransferred RHPWilliam Kempnerfrom the 15-day injured list to the 60-day injured list. Right elbow sprain.",
-      "player": "William Kempner"
-    },
     {
       "date": "2026-08-21",
       "team": "Baltimore Orioles",
@@ -27,27 +15,15 @@
     },
     {
       "date": "2026-08-21",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinstransferred RHPWilliam Kempnerfrom the 15-day injured list to the 60-day injured list. Right elbow sprain.",
+      "player": "William Kempner"
+    },
+    {
+      "date": "2026-08-21",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesactivated 3BKyle Karrosfrom the 7-day injured list.",
       "player": "Kyle Karros"
-    },
-    {
-      "date": "2026-08-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalssent RHPBeck Wayon a rehab assignment to Omaha Storm Chasers.",
-      "player": "Beck Way"
-    },
-    {
-      "date": "2026-08-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced 3BMaikel Garciaon the 10-day injured list. Left hamstring strain.",
-      "player": "Maikel Garcia"
-    },
-    {
-      "date": "2026-08-21",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsplaced RHPAndre Pallanteon the 15-day injured list retroactive to August 18, 2026. Right elbow inflammation.",
-      "player": "Andre Pallante"
     },
     {
       "date": "2026-08-21",
@@ -81,57 +57,33 @@
     },
     {
       "date": "2026-08-21",
-      "team": "Athletics",
-      "details": "Athleticsrecalled RHPKade Morrisfrom Las Vegas Aviators.",
-      "player": "Kade Morris"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent RHPBeck Wayon a rehab assignment to Omaha Storm Chasers.",
+      "player": "Beck Way"
+    },
+    {
+      "date": "2026-08-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced 3BMaikel Garciaon the 10-day injured list. Left hamstring strain.",
+      "player": "Maikel Garcia"
+    },
+    {
+      "date": "2026-08-21",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsplaced RHPAndre Pallanteon the 15-day injured list retroactive to August 18, 2026. Right elbow inflammation.",
+      "player": "Andre Pallante"
+    },
+    {
+      "date": "2026-08-21",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent CSebastián Riveroon a rehab assignment to Salt Lake Bees.",
+      "player": "Sebastián Rivero"
     },
     {
       "date": "2026-08-21",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersrecalled RHPPaul Gervasefrom Oklahoma City Comets.",
       "player": "Paul Gervase"
-    },
-    {
-      "date": "2026-08-21",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesoptioned 2BAdael Amadorto Albuquerque Isotopes.",
-      "player": "Adael Amador"
-    },
-    {
-      "date": "2026-08-21",
-      "team": "Athletics",
-      "details": "Athleticsselected the contract of 2BMichael Stefanicfrom Las Vegas Aviators.",
-      "player": "Michael Stefanic"
-    },
-    {
-      "date": "2026-08-21",
-      "team": "Houston Astros",
-      "details": "Houston Astrosoptioned LHPBryan Kingto Sugar Land Space Cowboys.",
-      "player": "Bryan King"
-    },
-    {
-      "date": "2026-08-21",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LHPBrendan Celluccito Buffalo Bisons.",
-      "player": "Brendan Cellucci"
-    },
-    {
-      "date": "2026-08-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPCarlos Duranto Omaha Storm Chasers.",
-      "player": "Carlos Duran"
-    },
-    {
-      "date": "2026-08-21",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersoptioned RHPEmmet Sheehanto Oklahoma City Comets.",
-      "player": "Emmet Sheehan"
-    },
-    {
-      "date": "2026-08-21",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled RHPRyan Fernandezfrom Memphis Redbirds.",
-      "player": "Ryan Fernandez"
     },
     {
       "date": "2026-08-21",
@@ -147,9 +99,81 @@
     },
     {
       "date": "2026-08-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPCarlos Duranto Omaha Storm Chasers.",
+      "player": "Carlos Duran"
+    },
+    {
+      "date": "2026-08-21",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPEmmet Sheehanto Oklahoma City Comets.",
+      "player": "Emmet Sheehan"
+    },
+    {
+      "date": "2026-08-21",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPKai-Wei Tengfrom Sugar Land Space Cowboys.",
+      "player": "Kai-Wei Teng"
+    },
+    {
+      "date": "2026-08-21",
+      "team": "Athletics",
+      "details": "Athleticsclaimed RFJohnathan Rodríguezoff waivers fromPittsburgh Pirates.",
+      "player": "Johnathan Rodríguez"
+    },
+    {
+      "date": "2026-08-21",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned 2BAdael Amadorto Albuquerque Isotopes.",
+      "player": "Adael Amador"
+    },
+    {
+      "date": "2026-08-21",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned RHPZach Maxwellto Louisville Bats.",
+      "player": "Zach Maxwell"
+    },
+    {
+      "date": "2026-08-21",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled LFMatthew Lugofrom Omaha Storm Chasers.",
+      "player": "Matthew Lugo"
+    },
+    {
+      "date": "2026-08-21",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPRyan Fernandezfrom Memphis Redbirds.",
+      "player": "Ryan Fernandez"
+    },
+    {
+      "date": "2026-08-21",
+      "team": "Athletics",
+      "details": "Athleticsselected the contract of 2BMichael Stefanicfrom Las Vegas Aviators.",
+      "player": "Michael Stefanic"
+    },
+    {
+      "date": "2026-08-21",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPAnthony Nunezfrom Norfolk Tides.",
+      "player": "Anthony Nunez"
+    },
+    {
+      "date": "2026-08-21",
       "team": "Athletics",
       "details": "Athleticsoptioned RHPTaylor Rashito Las Vegas Aviators.",
       "player": "Taylor Rashi"
+    },
+    {
+      "date": "2026-08-21",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessent RHPBrian Kelleroutright to Lehigh Valley IronPigs.",
+      "player": "Brian Keller"
+    },
+    {
+      "date": "2026-08-21",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LHPBryan Kingto Sugar Land Space Cowboys.",
+      "player": "Bryan King"
     },
     {
       "date": "2026-08-21",
@@ -165,39 +189,21 @@
     },
     {
       "date": "2026-08-21",
-      "team": "Athletics",
-      "details": "Athleticsclaimed RFJohnathan Rodríguezoff waivers fromPittsburgh Pirates.",
-      "player": "Johnathan Rodríguez"
-    },
-    {
-      "date": "2026-08-21",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled LFMatthew Lugofrom Omaha Storm Chasers.",
-      "player": "Matthew Lugo"
-    },
-    {
-      "date": "2026-08-21",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned RHPZach Maxwellto Louisville Bats.",
-      "player": "Zach Maxwell"
-    },
-    {
-      "date": "2026-08-21",
       "team": "Miami Marlins",
       "details": "Miami Marlinsselected the contract of CLogan Driscollfrom Jacksonville Jumbo Shrimp.",
       "player": "Logan Driscoll"
     },
     {
       "date": "2026-08-21",
-      "team": "Houston Astros",
-      "details": "Houston Astrosrecalled RHPKai-Wei Tengfrom Sugar Land Space Cowboys.",
-      "player": "Kai-Wei Teng"
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPKade Morrisfrom Las Vegas Aviators.",
+      "player": "Kade Morris"
     },
     {
       "date": "2026-08-21",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPAnthony Nunezfrom Norfolk Tides.",
-      "player": "Anthony Nunez"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPBrendan Celluccito Buffalo Bisons.",
+      "player": "Brendan Cellucci"
     }
   ]
 }
