@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T23:31:43.683530",
+  "last_updated": "2026-08-21T01:46:48.674106",
   "transactions": [
     {
       "date": "2026-08-20",
@@ -9,15 +9,21 @@
     },
     {
       "date": "2026-08-20",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jayssent 1BVladimir Guerrero Jr.on a rehab assignment to Dunedin Blue Jays.",
-      "player": "Vladimir Guerrero Jr."
-    },
-    {
-      "date": "2026-08-20",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiessent RFTyler Freemanon a rehab assignment to Albuquerque Isotopes.",
       "player": "Tyler Freeman"
+    },
+    {
+      "date": "2026-08-20",
+      "team": "New York Mets",
+      "details": "New York Metssent 1BMark Vientoson a rehab assignment to Binghamton Rumble Ponies.",
+      "player": "Mark Vientos"
+    },
+    {
+      "date": "2026-08-20",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent LFCody Bellingeron a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Cody Bellinger"
     },
     {
       "date": "2026-08-20",
@@ -27,9 +33,15 @@
     },
     {
       "date": "2026-08-20",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinerssent SSJ.P. Crawfordon a rehab assignment to Tacoma Rainiers.",
-      "player": "J.P. Crawford"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent RHPJack Leiteron a rehab assignment to Frisco RoughRiders.",
+      "player": "Jack Leiter"
+    },
+    {
+      "date": "2026-08-20",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent 1BVladimir Guerrero Jr.on a rehab assignment to Dunedin Blue Jays.",
+      "player": "Vladimir Guerrero Jr."
     },
     {
       "date": "2026-08-20",
@@ -45,15 +57,15 @@
     },
     {
       "date": "2026-08-20",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssent RHPJack Leiteron a rehab assignment to Frisco RoughRiders.",
-      "player": "Jack Leiter"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced LHPSamy Natera Jr.on the 15-day injured list retroactive to August 17, 2026. Low back muscle spasms.",
+      "player": "Samy Natera Jr."
     },
     {
       "date": "2026-08-20",
-      "team": "New York Mets",
-      "details": "New York Metssent 1BMark Vientoson a rehab assignment to Binghamton Rumble Ponies.",
-      "player": "Mark Vientos"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent SSJ.P. Crawfordon a rehab assignment to Tacoma Rainiers.",
+      "player": "J.P. Crawford"
     },
     {
       "date": "2026-08-20",
@@ -63,27 +75,15 @@
     },
     {
       "date": "2026-08-20",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsplaced LHPSamy Natera Jr.on the 15-day injured list retroactive to August 17, 2026. Low back muscle spasms.",
-      "player": "Samy Natera Jr."
-    },
-    {
-      "date": "2026-08-20",
-      "team": "New York Yankees",
-      "details": "New York Yankeessent LFCody Bellingeron a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
-      "player": "Cody Bellinger"
-    },
-    {
-      "date": "2026-08-20",
       "team": "Texas Rangers",
       "details": "Texas Rangerssent RHPJack Leiteron a rehab assignment to Frisco RoughRiders.",
       "player": "Jack Leiter"
     },
     {
       "date": "2026-08-20",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesclaimed RHPAndrew Hoffmannoff waivers fromArizona Diamondbacks.",
-      "player": "Andrew Hoffmann"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssigned free agent 3BSantiago Espinalto a minor league contract.",
+      "player": "Santiago Espinal"
     },
     {
       "date": "2026-08-20",
@@ -93,21 +93,27 @@
     },
     {
       "date": "2026-08-20",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsrecalled LHPReiver Sanmartinfrom Sacramento River Cats.",
-      "player": "Reiver Sanmartin"
-    },
-    {
-      "date": "2026-08-20",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsrecalled LHPSammy Peraltafrom Salt Lake Bees.",
       "player": "Sammy Peralta"
     },
     {
       "date": "2026-08-20",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesclaimed RHPAndrew Hoffmannoff waivers fromArizona Diamondbacks.",
+      "player": "Andrew Hoffmann"
+    },
+    {
+      "date": "2026-08-20",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redssent LHPKent Emanueloutright to Louisville Bats.",
       "player": "Kent Emanuel"
+    },
+    {
+      "date": "2026-08-20",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled LHPReiver Sanmartinfrom Sacramento River Cats.",
+      "player": "Reiver Sanmartin"
     }
   ]
 }
