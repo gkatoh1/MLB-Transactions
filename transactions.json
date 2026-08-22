@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-08-22T21:27:59.506598",
+  "last_updated": "2026-08-22T22:28:44.936129",
   "transactions": [
     {
       "date": "2026-08-22",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsplaced 1BNolan Schanuelon the 10-day injured list retroactive to August 21, 2026. Right intercostal muscle strain.",
-      "player": "Nolan Schanuel"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPRon Marinaccioto a minor league contract.",
+      "player": "Ron Marinaccio"
     },
     {
       "date": "2026-08-22",
@@ -21,6 +21,12 @@
     },
     {
       "date": "2026-08-22",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced 1BNolan Schanuelon the 10-day injured list retroactive to August 21, 2026. Right intercostal muscle strain.",
+      "player": "Nolan Schanuel"
+    },
+    {
+      "date": "2026-08-22",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysactivated 1BVladimir Guerrero Jr.from the 7-day injured list.",
       "player": "Vladimir Guerrero Jr."
@@ -30,6 +36,12 @@
       "team": "Seattle Mariners",
       "details": "Seattle Marinersdesignated LHPJhonathan Díazfor assignment.",
       "player": "Jhonathan Díaz"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesreleased RHPTyler Kinley.",
+      "player": "Tyler Kinley"
     },
     {
       "date": "2026-08-22",
@@ -51,9 +63,9 @@
     },
     {
       "date": "2026-08-22",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssigned free agent RHPRon Marinaccioto a minor league contract.",
-      "player": "Ron Marinaccio"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsclaimed RHPMatt Waldronoff waivers fromToronto Blue Jays.",
+      "player": "Matt Waldron"
     },
     {
       "date": "2026-08-22",
@@ -63,9 +75,27 @@
     },
     {
       "date": "2026-08-22",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent LHPParker Mushinskioutright to Albuquerque Isotopes.",
+      "player": "Parker Mushinski"
+    },
+    {
+      "date": "2026-08-22",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysoptioned LFDavis Schneiderto Buffalo Bisons.",
       "player": "Davis Schneider"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned LFMax Schuemannto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Max Schuemann"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned CLogan Driscollto Jacksonville Jumbo Shrimp.",
+      "player": "Logan Driscoll"
     },
     {
       "date": "2026-08-22",
@@ -93,27 +123,9 @@
     },
     {
       "date": "2026-08-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsclaimed RHPMatt Waldronoff waivers fromToronto Blue Jays.",
-      "player": "Matt Waldron"
-    },
-    {
-      "date": "2026-08-22",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent LHPParker Mushinskioutright to Albuquerque Isotopes.",
-      "player": "Parker Mushinski"
-    },
-    {
-      "date": "2026-08-22",
       "team": "Seattle Mariners",
       "details": "Seattle Marinersselected the contract of LHPKade Andersonfrom Arkansas Travelers.",
       "player": "Kade Anderson"
-    },
-    {
-      "date": "2026-08-22",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned CLogan Driscollto Jacksonville Jumbo Shrimp.",
-      "player": "Logan Driscoll"
     }
   ]
 }
