@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-22T17:26:51.429840",
+  "last_updated": "2026-08-22T18:39:16.721749",
   "transactions": [
+    {
+      "date": "2026-08-22",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated LHPJhonathan Díazfor assignment.",
+      "player": "Jhonathan Díaz"
+    },
     {
       "date": "2026-08-22",
       "team": "Toronto Blue Jays",
@@ -24,6 +30,12 @@
       "team": "Miami Marlins",
       "details": "Miami Marlinsrecalled 3BDeyvison De Los Santosfrom Jacksonville Jumbo Shrimp.",
       "player": "Deyvison De Los Santos"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of LHPKade Andersonfrom Arkansas Travelers.",
+      "player": "Kade Anderson"
     }
   ]
 }
