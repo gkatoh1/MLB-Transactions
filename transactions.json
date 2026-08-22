@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-08-22T20:30:24.016345",
+  "last_updated": "2026-08-22T21:27:59.506598",
   "transactions": [
+    {
+      "date": "2026-08-22",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced 1BNolan Schanuelon the 10-day injured list retroactive to August 21, 2026. Right intercostal muscle strain.",
+      "player": "Nolan Schanuel"
+    },
     {
       "date": "2026-08-22",
       "team": "Washington Nationals",
       "details": "Washington Nationalstransferred LHPConnelly Earlyfrom the 15-day injured list to the 60-day injured list. Left elbow inflammation.",
       "player": "Connelly Early"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced LFWade Meckleron the 7-day injured list retroactive to August 21, 2026. Concussion.",
+      "player": "Wade Meckler"
     },
     {
       "date": "2026-08-22",
@@ -45,15 +57,27 @@
     },
     {
       "date": "2026-08-22",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of LHPKade Andersonfrom Arkansas Travelers.",
-      "player": "Kade Anderson"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled 2BChristian Moorefrom Salt Lake Bees.",
+      "player": "Christian Moore"
     },
     {
       "date": "2026-08-22",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysoptioned LFDavis Schneiderto Buffalo Bisons.",
       "player": "Davis Schneider"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled 3BDeyvison De Los Santosfrom Jacksonville Jumbo Shrimp.",
+      "player": "Deyvison De Los Santos"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled CGustavo Camperofrom Salt Lake Bees.",
+      "player": "Gustavo Campero"
     },
     {
       "date": "2026-08-22",
@@ -75,21 +99,21 @@
     },
     {
       "date": "2026-08-22",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned CLogan Driscollto Jacksonville Jumbo Shrimp.",
-      "player": "Logan Driscoll"
-    },
-    {
-      "date": "2026-08-22",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled 3BDeyvison De Los Santosfrom Jacksonville Jumbo Shrimp.",
-      "player": "Deyvison De Los Santos"
-    },
-    {
-      "date": "2026-08-22",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiessent LHPParker Mushinskioutright to Albuquerque Isotopes.",
       "player": "Parker Mushinski"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of LHPKade Andersonfrom Arkansas Travelers.",
+      "player": "Kade Anderson"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned CLogan Driscollto Jacksonville Jumbo Shrimp.",
+      "player": "Logan Driscoll"
     }
   ]
 }
