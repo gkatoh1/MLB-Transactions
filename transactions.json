@@ -1,11 +1,29 @@
 {
-  "last_updated": "2026-08-22T22:28:44.936129",
+  "last_updated": "2026-08-22T23:27:02.052591",
   "transactions": [
+    {
+      "date": "2026-08-22",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced CFAndy Pageson the 10-day injured list. Left hand fracture.",
+      "player": "Andy Pages"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated CFAlek Thomas.",
+      "player": "Alek Thomas"
+    },
     {
       "date": "2026-08-22",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinssigned free agent RHPRon Marinaccioto a minor league contract.",
       "player": "Ron Marinaccio"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent RHPCooper Criswellon a rehab assignment to Tacoma Rainiers.",
+      "player": "Cooper Criswell"
     },
     {
       "date": "2026-08-22",
@@ -51,27 +69,15 @@
     },
     {
       "date": "2026-08-22",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersplaced CFAndy Pageson the 10-day injured list. Left hand fracture.",
-      "player": "Andy Pages"
-    },
-    {
-      "date": "2026-08-22",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated CFAlek Thomas.",
-      "player": "Alek Thomas"
-    },
-    {
-      "date": "2026-08-22",
       "team": "Washington Nationals",
       "details": "Washington Nationalsclaimed RHPMatt Waldronoff waivers fromToronto Blue Jays.",
       "player": "Matt Waldron"
     },
     {
       "date": "2026-08-22",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsrecalled 2BChristian Moorefrom Salt Lake Bees.",
-      "player": "Christian Moore"
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFDavis Schneiderto Buffalo Bisons.",
+      "player": "Davis Schneider"
     },
     {
       "date": "2026-08-22",
@@ -81,9 +87,15 @@
     },
     {
       "date": "2026-08-22",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LFDavis Schneiderto Buffalo Bisons.",
-      "player": "Davis Schneider"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled LHPQuinn Mathewsfrom Memphis Redbirds.",
+      "player": "Quinn Mathews"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled CFAlek Thomasfrom Oklahoma City Comets.",
+      "player": "Alek Thomas"
     },
     {
       "date": "2026-08-22",
@@ -105,27 +117,21 @@
     },
     {
       "date": "2026-08-22",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of LHPKade Andersonfrom Arkansas Travelers.",
+      "player": "Kade Anderson"
+    },
+    {
+      "date": "2026-08-22",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsrecalled CGustavo Camperofrom Salt Lake Bees.",
       "player": "Gustavo Campero"
     },
     {
       "date": "2026-08-22",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled LHPQuinn Mathewsfrom Memphis Redbirds.",
-      "player": "Quinn Mathews"
-    },
-    {
-      "date": "2026-08-22",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled CFAlek Thomasfrom Oklahoma City Comets.",
-      "player": "Alek Thomas"
-    },
-    {
-      "date": "2026-08-22",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of LHPKade Andersonfrom Arkansas Travelers.",
-      "player": "Kade Anderson"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled 2BChristian Moorefrom Salt Lake Bees.",
+      "player": "Christian Moore"
     }
   ]
 }
