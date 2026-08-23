@@ -1,29 +1,23 @@
 {
-  "last_updated": "2026-08-23T16:33:34.997998",
+  "last_updated": "2026-08-23T17:26:04.428271",
   "transactions": [
     {
       "date": "2026-08-23",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessent RHPFélix Bautistaon a rehab assignment to Chesapeake Baysox.",
-      "player": "Félix Bautista"
+      "team": "New York Mets",
+      "details": "New York Metssent RHPJustin Hagenmanon a rehab assignment to Binghamton Rumble Ponies.",
+      "player": "Justin Hagenman"
+    },
+    {
+      "date": "2026-08-23",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsplaced RFEverson Pereiraon the 10-day injured list. Left hand contusion.",
+      "player": "Everson Pereira"
     },
     {
       "date": "2026-08-23",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravessent RHPReynaldo Lópezon a rehab assignment to Gwinnett Stripers.",
       "player": "Reynaldo López"
-    },
-    {
-      "date": "2026-08-23",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysdesignated RHPChris Roycroftfor assignment.",
-      "player": "Chris Roycroft"
-    },
-    {
-      "date": "2026-08-23",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsactivated 3BRamón Uríasfrom the 60-day injured list.",
-      "player": "Ramón Urías"
     },
     {
       "date": "2026-08-23",
@@ -45,6 +39,18 @@
     },
     {
       "date": "2026-08-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced 3BKyle Karroson the 7-day injured list. Concussion.",
+      "player": "Kyle Karros"
+    },
+    {
+      "date": "2026-08-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPFélix Bautistaon a rehab assignment to Chesapeake Baysox.",
+      "player": "Félix Bautista"
+    },
+    {
+      "date": "2026-08-23",
       "team": "Miami Marlins",
       "details": "Miami Marlinsdesignated LHPJohn Kingfor assignment.",
       "player": "John King"
@@ -57,15 +63,21 @@
     },
     {
       "date": "2026-08-23",
-      "team": "New York Mets",
-      "details": "New York Metssent RHPJustin Hagenmanon a rehab assignment to Binghamton Rumble Ponies.",
-      "player": "Justin Hagenman"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated RHPChris Roycroftfor assignment.",
+      "player": "Chris Roycroft"
     },
     {
       "date": "2026-08-23",
       "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsplaced RFEverson Pereiraon the 10-day injured list. Left hand contusion.",
-      "player": "Everson Pereira"
+      "details": "St. Louis Cardinalsactivated 3BRamón Uríasfrom the 60-day injured list.",
+      "player": "Ramón Urías"
+    },
+    {
+      "date": "2026-08-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated RFTyler Freemanfrom the 10-day injured list.",
+      "player": "Tyler Freeman"
     },
     {
       "date": "2026-08-23",
@@ -87,21 +99,33 @@
     },
     {
       "date": "2026-08-23",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated CFJames Outmanfor assignment.",
+      "player": "James Outman"
+    },
+    {
+      "date": "2026-08-23",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent RHPFélix Bautistaon a rehab assignment to Chesapeake Baysox.",
       "player": "Félix Bautista"
     },
     {
       "date": "2026-08-23",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RFBrewer Hicklenfrom Gwinnett Stripers.",
-      "player": "Brewer Hicklen"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPKhristian Curtisfrom Indianapolis Indians.",
+      "player": "Khristian Curtis"
     },
     {
       "date": "2026-08-23",
       "team": "New York Yankees",
       "details": "New York Yankeesrecalled RHPBrendan Beckfrom Scranton/Wilkes-Barre RailRiders.",
       "player": "Brendan Beck"
+    },
+    {
+      "date": "2026-08-23",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned LHPEnmanuel De Jesusto Toledo Mud Hens.",
+      "player": "Enmanuel De Jesus"
     },
     {
       "date": "2026-08-23",
@@ -114,6 +138,36 @@
       "team": "Miami Marlins",
       "details": "Miami Marlinsrecalled RHPJack Ralstonfrom Jacksonville Jumbo Shrimp.",
       "player": "Jack Ralston"
+    },
+    {
+      "date": "2026-08-23",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersselected the contract of LHPAndrew Searsfrom Toledo Mud Hens.",
+      "player": "Andrew Sears"
+    },
+    {
+      "date": "2026-08-23",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPAntwone Kellyto Indianapolis Indians.",
+      "player": "Antwone Kelly"
+    },
+    {
+      "date": "2026-08-23",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RFBrewer Hicklenfrom Gwinnett Stripers.",
+      "player": "Brewer Hicklen"
+    },
+    {
+      "date": "2026-08-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesrecalled SSRyan Ritterfrom Albuquerque Isotopes.",
+      "player": "Ryan Ritter"
+    },
+    {
+      "date": "2026-08-23",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RFTyler Freemanto Albuquerque Isotopes.",
+      "player": "Tyler Freeman"
     }
   ]
 }
