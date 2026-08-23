@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T23:27:02.052591",
+  "last_updated": "2026-08-23T01:49:59.233249",
   "transactions": [
     {
       "date": "2026-08-22",
@@ -24,6 +24,12 @@
       "team": "Seattle Mariners",
       "details": "Seattle Marinerssent RHPCooper Criswellon a rehab assignment to Tacoma Rainiers.",
       "player": "Cooper Criswell"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantssent LHPMatt Gageon a rehab assignment to Sacramento River Cats.",
+      "player": "Matt Gage"
     },
     {
       "date": "2026-08-22",
@@ -69,27 +75,15 @@
     },
     {
       "date": "2026-08-22",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsclaimed RHPMatt Waldronoff waivers fromToronto Blue Jays.",
-      "player": "Matt Waldron"
-    },
-    {
-      "date": "2026-08-22",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysoptioned LFDavis Schneiderto Buffalo Bisons.",
-      "player": "Davis Schneider"
-    },
-    {
-      "date": "2026-08-22",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent LHPParker Mushinskioutright to Albuquerque Isotopes.",
-      "player": "Parker Mushinski"
-    },
-    {
-      "date": "2026-08-22",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsrecalled LHPQuinn Mathewsfrom Memphis Redbirds.",
       "player": "Quinn Mathews"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned CLogan Driscollto Jacksonville Jumbo Shrimp.",
+      "player": "Logan Driscoll"
     },
     {
       "date": "2026-08-22",
@@ -99,15 +93,15 @@
     },
     {
       "date": "2026-08-22",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned LFMax Schuemannto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Max Schuemann"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent LHPParker Mushinskioutright to Albuquerque Isotopes.",
+      "player": "Parker Mushinski"
     },
     {
       "date": "2026-08-22",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned CLogan Driscollto Jacksonville Jumbo Shrimp.",
-      "player": "Logan Driscoll"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsrecalled 2BChristian Moorefrom Salt Lake Bees.",
+      "player": "Christian Moore"
     },
     {
       "date": "2026-08-22",
@@ -123,15 +117,27 @@
     },
     {
       "date": "2026-08-22",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned LFMax Schuemannto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Max Schuemann"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LFDavis Schneiderto Buffalo Bisons.",
+      "player": "Davis Schneider"
+    },
+    {
+      "date": "2026-08-22",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsrecalled CGustavo Camperofrom Salt Lake Bees.",
       "player": "Gustavo Campero"
     },
     {
       "date": "2026-08-22",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsrecalled 2BChristian Moorefrom Salt Lake Bees.",
-      "player": "Christian Moore"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsclaimed RHPMatt Waldronoff waivers fromToronto Blue Jays.",
+      "player": "Matt Waldron"
     }
   ]
 }
