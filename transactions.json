@@ -1,24 +1,6 @@
 {
-  "last_updated": "2026-08-23T01:49:59.233249",
+  "last_updated": "2026-08-23T03:09:33.706403",
   "transactions": [
-    {
-      "date": "2026-08-22",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersplaced CFAndy Pageson the 10-day injured list. Left hand fracture.",
-      "player": "Andy Pages"
-    },
-    {
-      "date": "2026-08-22",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated CFAlek Thomas.",
-      "player": "Alek Thomas"
-    },
-    {
-      "date": "2026-08-22",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinssigned free agent RHPRon Marinaccioto a minor league contract.",
-      "player": "Ron Marinaccio"
-    },
     {
       "date": "2026-08-22",
       "team": "Seattle Mariners",
@@ -39,27 +21,9 @@
     },
     {
       "date": "2026-08-22",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsplaced LFWade Meckleron the 7-day injured list retroactive to August 21, 2026. Concussion.",
-      "player": "Wade Meckler"
-    },
-    {
-      "date": "2026-08-22",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelsplaced 1BNolan Schanuelon the 10-day injured list retroactive to August 21, 2026. Right intercostal muscle strain.",
-      "player": "Nolan Schanuel"
-    },
-    {
-      "date": "2026-08-22",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysactivated 1BVladimir Guerrero Jr.from the 7-day injured list.",
       "player": "Vladimir Guerrero Jr."
-    },
-    {
-      "date": "2026-08-22",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersdesignated LHPJhonathan Díazfor assignment.",
-      "player": "Jhonathan Díaz"
     },
     {
       "date": "2026-08-22",
@@ -75,27 +39,39 @@
     },
     {
       "date": "2026-08-22",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled LHPQuinn Mathewsfrom Memphis Redbirds.",
-      "player": "Quinn Mathews"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced LFWade Meckleron the 7-day injured list retroactive to August 21, 2026. Concussion.",
+      "player": "Wade Meckler"
     },
     {
       "date": "2026-08-22",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned CLogan Driscollto Jacksonville Jumbo Shrimp.",
-      "player": "Logan Driscoll"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsplaced 1BNolan Schanuelon the 10-day injured list retroactive to August 21, 2026. Right intercostal muscle strain.",
+      "player": "Nolan Schanuel"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated LHPJhonathan Díazfor assignment.",
+      "player": "Jhonathan Díaz"
     },
     {
       "date": "2026-08-22",
       "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled CFAlek Thomasfrom Oklahoma City Comets.",
+      "details": "Los Angeles Dodgersplaced CFAndy Pageson the 10-day injured list. Left hand fracture.",
+      "player": "Andy Pages"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated CFAlek Thomas.",
       "player": "Alek Thomas"
     },
     {
       "date": "2026-08-22",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent LHPParker Mushinskioutright to Albuquerque Isotopes.",
-      "player": "Parker Mushinski"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssigned free agent RHPRon Marinaccioto a minor league contract.",
+      "player": "Ron Marinaccio"
     },
     {
       "date": "2026-08-22",
@@ -111,21 +87,45 @@
     },
     {
       "date": "2026-08-22",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of LHPKade Andersonfrom Arkansas Travelers.",
-      "player": "Kade Anderson"
-    },
-    {
-      "date": "2026-08-22",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned LFMax Schuemannto Scranton/Wilkes-Barre RailRiders.",
       "player": "Max Schuemann"
     },
     {
       "date": "2026-08-22",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent LHPParker Mushinskioutright to Albuquerque Isotopes.",
+      "player": "Parker Mushinski"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned CLogan Driscollto Jacksonville Jumbo Shrimp.",
+      "player": "Logan Driscoll"
+    },
+    {
+      "date": "2026-08-22",
       "team": "Toronto Blue Jays",
       "details": "Toronto Blue Jaysoptioned LFDavis Schneiderto Buffalo Bisons.",
       "player": "Davis Schneider"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled LHPQuinn Mathewsfrom Memphis Redbirds.",
+      "player": "Quinn Mathews"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled CFAlek Thomasfrom Oklahoma City Comets.",
+      "player": "Alek Thomas"
+    },
+    {
+      "date": "2026-08-22",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of LHPKade Andersonfrom Arkansas Travelers.",
+      "player": "Kade Anderson"
     },
     {
       "date": "2026-08-22",
