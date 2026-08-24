@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T22:33:43.646457",
+  "last_updated": "2026-08-24T23:27:27.909079",
   "transactions": [
     {
       "date": "2026-08-24",
@@ -9,9 +9,21 @@
     },
     {
       "date": "2026-08-24",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsactivated 1BKyle Stowersfrom the 10-day injured list.",
-      "player": "Kyle Stowers"
+      "team": "San Diego Padres",
+      "details": "San Diego Padrestransferred RHPLucas Giolitofrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
+      "player": "Lucas Giolito"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned free agent LFNelson Velázquez.",
+      "player": "Nelson Velázquez"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced LHPKyle Freelandon the 15-day injured list retroactive to August 21, 2026. Cervical radiculopathy.",
+      "player": "Kyle Freeland"
     },
     {
       "date": "2026-08-24",
@@ -21,9 +33,33 @@
     },
     {
       "date": "2026-08-24",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated 1BKyle Stowersfrom the 10-day injured list.",
+      "player": "Kyle Stowers"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned CBo Naylorto Nashville Sounds.",
+      "player": "Bo Naylor"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresselected the contract of LFDustin Harrisfrom El Paso Chihuahuas.",
+      "player": "Dustin Harris"
+    },
+    {
+      "date": "2026-08-24",
       "team": "Colorado Rockies",
-      "details": "Colorado Rockiesplaced LHPKyle Freelandon the 15-day injured list retroactive to August 21, 2026. Cervical radiculopathy.",
-      "player": "Kyle Freeland"
+      "details": "Colorado Rockiesselected the contract of RHPBlake Adamsfrom Albuquerque Isotopes.",
+      "player": "Blake Adams"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent 2BOwen Milleroutright to Iowa Cubs.",
+      "player": "Owen Miller"
     },
     {
       "date": "2026-08-24",
@@ -45,21 +81,15 @@
     },
     {
       "date": "2026-08-24",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned RHPTy Maddento Toledo Mud Hens.",
-      "player": "Ty Madden"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RFBrewer Hicklenfrom Gwinnett Stripers.",
+      "player": "Brewer Hicklen"
     },
     {
       "date": "2026-08-24",
       "team": "Seattle Mariners",
       "details": "Seattle Marinerssent LHPJhonathan Díazoutright to Tacoma Rainiers.",
       "player": "Jhonathan Díaz"
-    },
-    {
-      "date": "2026-08-24",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned 3BDeyvison De Los Santosto Jacksonville Jumbo Shrimp.",
-      "player": "Deyvison De Los Santos"
     },
     {
       "date": "2026-08-24",
@@ -75,27 +105,21 @@
     },
     {
       "date": "2026-08-24",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesselected the contract of RHPBlake Adamsfrom Albuquerque Isotopes.",
-      "player": "Blake Adams"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned 2BSung-Mun Songto El Paso Chihuahuas.",
+      "player": "Sung-Mun Song"
     },
     {
       "date": "2026-08-24",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned CBo Naylorto Nashville Sounds.",
-      "player": "Bo Naylor"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned 3BDeyvison De Los Santosto Jacksonville Jumbo Shrimp.",
+      "player": "Deyvison De Los Santos"
     },
     {
       "date": "2026-08-24",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssent 2BOwen Milleroutright to Iowa Cubs.",
-      "player": "Owen Miller"
-    },
-    {
-      "date": "2026-08-24",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RFBrewer Hicklenfrom Gwinnett Stripers.",
-      "player": "Brewer Hicklen"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPTy Maddento Toledo Mud Hens.",
+      "player": "Ty Madden"
     }
   ]
 }
