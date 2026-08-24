@@ -1,17 +1,23 @@
 {
-  "last_updated": "2026-08-24T17:36:10.056742",
+  "last_updated": "2026-08-24T18:50:17.861094",
   "transactions": [
     {
       "date": "2026-08-24",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned CBo Naylorto Nashville Sounds.",
-      "player": "Bo Naylor"
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPBrendan Beckto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Brendan Beck"
     },
     {
       "date": "2026-08-24",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned RFBrewer Hicklento Gwinnett Stripers.",
       "player": "Brewer Hicklen"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned CBo Naylorto Nashville Sounds.",
+      "player": "Bo Naylor"
     }
   ]
 }
