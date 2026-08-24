@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-08-24T18:50:17.861094",
+  "last_updated": "2026-08-24T19:34:41.305140",
   "transactions": [
+    {
+      "date": "2026-08-24",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesplaced LHPKyle Freelandon the 15-day injured list retroactive to August 21, 2026. Cervical radiculopathy.",
+      "player": "Kyle Freeland"
+    },
     {
       "date": "2026-08-24",
       "team": "New York Yankees",
@@ -15,9 +21,27 @@
     },
     {
       "date": "2026-08-24",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RFBrewer Hicklenfrom Gwinnett Stripers.",
+      "player": "Brewer Hicklen"
+    },
+    {
+      "date": "2026-08-24",
       "team": "Milwaukee Brewers",
       "details": "Milwaukee Brewersoptioned CBo Naylorto Nashville Sounds.",
       "player": "Bo Naylor"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned SSJim Jarvisto Gwinnett Stripers.",
+      "player": "Jim Jarvis"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesselected the contract of RHPBlake Adamsfrom Albuquerque Isotopes.",
+      "player": "Blake Adams"
     }
   ]
 }
