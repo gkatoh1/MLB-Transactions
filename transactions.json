@@ -1,6 +1,36 @@
 {
-  "last_updated": "2026-08-25T21:35:00.690307",
+  "last_updated": "2026-08-25T22:34:05.331056",
   "transactions": [
+    {
+      "date": "2026-08-25",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPJosiah Grayon a rehab assignment to Wilmington Blue Rocks.",
+      "player": "Josiah Gray"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPGraham Ashcrafton a rehab assignment to Louisville Bats.",
+      "player": "Graham Ashcraft"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxsent LHPChris Murphyon a rehab assignment to Charlotte Knights.",
+      "player": "Chris Murphy"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPSlade Cecconion a rehab assignment to Columbus Clippers.",
+      "player": "Slade Cecconi"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated SSJonathan Ornelasfor assignment.",
+      "player": "Jonathan Ornelas"
+    },
     {
       "date": "2026-08-25",
       "team": "Washington Nationals",
@@ -15,87 +45,15 @@
     },
     {
       "date": "2026-08-25",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent LFTommy Troyon a rehab assignment to Reno Aces.",
-      "player": "Tommy Troy"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent LFRoman Anthonyon a rehab assignment to Worcester Red Sox.",
+      "player": "Roman Anthony"
     },
     {
       "date": "2026-08-25",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxsent CKyle Teelon a rehab assignment to Charlotte Knights.",
-      "player": "Kyle Teel"
-    },
-    {
-      "date": "2026-08-25",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersactivated RFSal Frelickfrom the 10-day injured list.",
-      "player": "Sal Frelick"
-    },
-    {
-      "date": "2026-08-25",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RHPGraham Ashcrafton a rehab assignment to Louisville Bats.",
-      "player": "Graham Ashcraft"
-    },
-    {
-      "date": "2026-08-25",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersactivated SSJ.P. Crawfordfrom the 10-day injured list.",
-      "player": "J.P. Crawford"
-    },
-    {
-      "date": "2026-08-25",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated RHPTyler Glasnowfrom the 60-day injured list.",
-      "player": "Tyler Glasnow"
-    },
-    {
-      "date": "2026-08-25",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsdesignated RHPTrevor Williamsfor assignment.",
-      "player": "Trevor Williams"
-    },
-    {
-      "date": "2026-08-25",
-      "team": "New York Mets",
-      "details": "New York Metssent 1BMark Vientoson a rehab assignment to Syracuse Mets.",
-      "player": "Mark Vientos"
-    },
-    {
-      "date": "2026-08-25",
-      "team": "New York Yankees",
-      "details": "New York Yankeestransferred DHGiancarlo Stantonfrom the 10-day injured list to the 60-day injured list. Right calf strain.",
-      "player": "Giancarlo Stanton"
-    },
-    {
-      "date": "2026-08-25",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssigned free agent LHPTony Neubeck.",
-      "player": "Tony Neubeck"
-    },
-    {
-      "date": "2026-08-25",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RHPGraham Ashcrafton a rehab assignment to Louisville Bats.",
-      "player": "Graham Ashcraft"
-    },
-    {
-      "date": "2026-08-25",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent RHPJosiah Grayon a rehab assignment to Wilmington Blue Rocks.",
-      "player": "Josiah Gray"
-    },
-    {
-      "date": "2026-08-25",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent RFJake Fraleyon a rehab assignment to Durham Bulls.",
-      "player": "Jake Fraley"
-    },
-    {
-      "date": "2026-08-25",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxsent LFRoman Anthonyon a rehab assignment to Worcester Red Sox.",
-      "player": "Roman Anthony"
+      "details": "Chicago White Soxplaced RHPHuascar Brazobánon the 15-day injured list. Left lat strain.",
+      "player": "Huascar Brazobán"
     },
     {
       "date": "2026-08-25",
@@ -111,9 +69,9 @@
     },
     {
       "date": "2026-08-25",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardianssent RHPSlade Cecconion a rehab assignment to Columbus Clippers.",
-      "player": "Slade Cecconi"
+      "team": "New York Mets",
+      "details": "New York Metssent 1BMark Vientoson a rehab assignment to Syracuse Mets.",
+      "player": "Mark Vientos"
     },
     {
       "date": "2026-08-25",
@@ -135,27 +93,93 @@
     },
     {
       "date": "2026-08-25",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersdesignated SSJonathan Ornelasfor assignment.",
-      "player": "Jonathan Ornelas"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent CWill Smithon a rehab assignment to Oklahoma City Comets.",
+      "player": "Will Smith"
     },
     {
       "date": "2026-08-25",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled 3BNolan Gormanfrom Memphis Redbirds.",
-      "player": "Nolan Gorman"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated SSJ.P. Crawfordfrom the 10-day injured list.",
+      "player": "J.P. Crawford"
     },
     {
       "date": "2026-08-25",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesselected the contract of RHPMason Adamsfrom Albuquerque Isotopes.",
-      "player": "Mason Adams"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPTyler Glasnowfrom the 60-day injured list.",
+      "player": "Tyler Glasnow"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsdesignated RHPTrevor Williamsfor assignment.",
+      "player": "Trevor Williams"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent RHPFélix Bautistaon a rehab assignment to Norfolk Tides.",
+      "player": "Félix Bautista"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessent 3BBlaze Alexanderon a rehab assignment to Norfolk Tides.",
+      "player": "Blaze Alexander"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "New York Yankees",
+      "details": "New York Yankeestransferred DHGiancarlo Stantonfrom the 10-day injured list to the 60-day injured list. Right calf strain.",
+      "player": "Giancarlo Stanton"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned free agent LHPTony Neubeck.",
+      "player": "Tony Neubeck"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPGraham Ashcrafton a rehab assignment to Louisville Bats.",
+      "player": "Graham Ashcraft"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RFJake Fraleyon a rehab assignment to Durham Bulls.",
+      "player": "Jake Fraley"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RFJake Fraleyon a rehab assignment to Durham Bulls.",
+      "player": "Jake Fraley"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Athletics",
+      "details": "Athleticstransferred SSJacob Wilsonfrom the 10-day injured list to the 60-day injured list. Left shoulder subluxation.",
+      "player": "Jacob Wilson"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent LFTommy Troyon a rehab assignment to Reno Aces.",
+      "player": "Tommy Troy"
     },
     {
       "date": "2026-08-25",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled RFRikuu Nishidafrom Charlotte Knights.",
-      "player": "Rikuu Nishida"
+      "details": "Chicago White Soxsent CKyle Teelon a rehab assignment to Charlotte Knights.",
+      "player": "Kyle Teel"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RFSal Frelickfrom the 10-day injured list.",
+      "player": "Sal Frelick"
     },
     {
       "date": "2026-08-25",
@@ -165,9 +189,21 @@
     },
     {
       "date": "2026-08-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled RHPChad Dallasfrom Buffalo Bisons.",
-      "player": "Chad Dallas"
+      "team": "Athletics",
+      "details": "Athleticsclaimed RHPChris Roycroftoff waivers fromTampa Bay Rays.",
+      "player": "Chris Roycroft"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "New York Yankees",
+      "details": "New York Yankeesselected the contract of RHPJustin Topafrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Justin Topa"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RFRikuu Nishidafrom Charlotte Knights.",
+      "player": "Rikuu Nishida"
     },
     {
       "date": "2026-08-25",
@@ -183,15 +219,69 @@
     },
     {
       "date": "2026-08-25",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent CFJames Outmanoutright to Toledo Mud Hens.",
+      "player": "James Outman"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled 3BNolan Gormanfrom Memphis Redbirds.",
+      "player": "Nolan Gorman"
+    },
+    {
+      "date": "2026-08-25",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesoptioned DHBraxton Fulfordto Albuquerque Isotopes.",
       "player": "Braxton Fulford"
     },
     {
       "date": "2026-08-25",
-      "team": "New York Yankees",
-      "details": "New York Yankeesselected the contract of RHPJustin Topafrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Justin Topa"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesselected the contract of RHPMason Adamsfrom Albuquerque Isotopes.",
+      "player": "Mason Adams"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPJonathan Cannonfrom Charlotte Knights.",
+      "player": "Jonathan Cannon"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPChad Dallasfrom Buffalo Bisons.",
+      "player": "Chad Dallas"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPKhristian Curtisto Indianapolis Indians.",
+      "player": "Khristian Curtis"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPMichael Fulmeroutright to Salt Lake Bees.",
+      "player": "Michael Fulmer"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent RFJarred Kelenicoutright to Round Rock Express.",
+      "player": "Jarred Kelenic"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPTy Maddento Toledo Mud Hens.",
+      "player": "Ty Madden"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPNoah Murdockfrom Indianapolis Indians.",
+      "player": "Noah Murdock"
     }
   ]
 }
