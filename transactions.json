@@ -1,4 +1,29 @@
 {
-  "last_updated": "2026-08-25T17:36:48.004468",
-  "transactions": []
+  "last_updated": "2026-08-25T18:48:43.736457",
+  "transactions": [
+    {
+      "date": "2026-08-25",
+      "team": "New York Yankees",
+      "details": "New York Yankeestransferred DHGiancarlo Stantonfrom the 10-day injured list to the 60-day injured list. Right calf strain.",
+      "player": "Giancarlo Stanton"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated RHPTyler Glasnowfrom the 60-day injured list.",
+      "player": "Tyler Glasnow"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPChad Dallasfrom Buffalo Bisons.",
+      "player": "Chad Dallas"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "New York Yankees",
+      "details": "New York Yankeesselected the contract of RHPJustin Topafrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Justin Topa"
+    }
+  ]
 }
