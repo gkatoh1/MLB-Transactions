@@ -1,6 +1,48 @@
 {
-  "last_updated": "2026-08-25T19:37:10.070735",
+  "last_updated": "2026-08-25T20:36:25.106492",
   "transactions": [
+    {
+      "date": "2026-08-25",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated SSJonathan Ornelasfor assignment.",
+      "player": "Jonathan Ornelas"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated RHPMatt Waldron.",
+      "player": "Matt Waldron"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated CHunter Goodmanfrom the 10-day injured list.",
+      "player": "Hunter Goodman"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RFSal Frelickfrom the 10-day injured list.",
+      "player": "Sal Frelick"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPGraham Ashcrafton a rehab assignment to Louisville Bats.",
+      "player": "Graham Ashcraft"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPJosiah Grayon a rehab assignment to Wilmington Blue Rocks.",
+      "player": "Josiah Gray"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated SSJ.P. Crawfordfrom the 10-day injured list.",
+      "player": "J.P. Crawford"
+    },
     {
       "date": "2026-08-25",
       "team": "Los Angeles Dodgers",
@@ -9,9 +51,57 @@
     },
     {
       "date": "2026-08-25",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsdesignated RHPTrevor Williamsfor assignment.",
+      "player": "Trevor Williams"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPSlade Cecconion a rehab assignment to Columbus Clippers.",
+      "player": "Slade Cecconi"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "New York Mets",
+      "details": "New York Metssent 1BMark Vientoson a rehab assignment to Syracuse Mets.",
+      "player": "Mark Vientos"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "New York Yankees",
+      "details": "New York Yankeestransferred DHGiancarlo Stantonfrom the 10-day injured list to the 60-day injured list. Right calf strain.",
+      "player": "Giancarlo Stanton"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned free agent LHPTony Neubeck.",
+      "player": "Tony Neubeck"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redssent RHPGraham Ashcrafton a rehab assignment to Louisville Bats.",
+      "player": "Graham Ashcraft"
+    },
+    {
+      "date": "2026-08-25",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxsent LFRoman Anthonyon a rehab assignment to Worcester Red Sox.",
       "player": "Roman Anthony"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssigned free agent LHPTyler Papenbrockto a minor league contract.",
+      "player": "Tyler Papenbrock"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent LHPJoe Mantiplyon a rehab assignment to Buffalo Bisons.",
+      "player": "Joe Mantiply"
     },
     {
       "date": "2026-08-25",
@@ -22,20 +112,8 @@
     {
       "date": "2026-08-25",
       "team": "New York Yankees",
-      "details": "New York Yankeestransferred DHGiancarlo Stantonfrom the 10-day injured list to the 60-day injured list. Right calf strain.",
-      "player": "Giancarlo Stanton"
-    },
-    {
-      "date": "2026-08-25",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redssent RHPGraham Ashcrafton a rehab assignment to Louisville Bats.",
-      "player": "Graham Ashcraft"
-    },
-    {
-      "date": "2026-08-25",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled LHPDax Fultonfrom Jacksonville Jumbo Shrimp.",
-      "player": "Dax Fulton"
+      "details": "New York Yankeesselected the contract of RHPJustin Topafrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Justin Topa"
     },
     {
       "date": "2026-08-25",
@@ -45,15 +123,45 @@
     },
     {
       "date": "2026-08-25",
-      "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaysrecalled RHPChad Dallasfrom Buffalo Bisons.",
-      "player": "Chad Dallas"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesselected the contract of RHPMason Adamsfrom Albuquerque Isotopes.",
+      "player": "Mason Adams"
     },
     {
       "date": "2026-08-25",
-      "team": "New York Yankees",
-      "details": "New York Yankeesselected the contract of RHPJustin Topafrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Justin Topa"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RFRikuu Nishidafrom Charlotte Knights.",
+      "player": "Rikuu Nishida"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersoptioned 3BLeo Rivasto Tacoma Rainiers.",
+      "player": "Leo Rivas"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned RHPBlake Adamsto Albuquerque Isotopes.",
+      "player": "Blake Adams"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned DHBraxton Fulfordto Albuquerque Isotopes.",
+      "player": "Braxton Fulford"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled LHPDax Fultonfrom Jacksonville Jumbo Shrimp.",
+      "player": "Dax Fulton"
+    },
+    {
+      "date": "2026-08-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPChad Dallasfrom Buffalo Bisons.",
+      "player": "Chad Dallas"
     }
   ]
 }
