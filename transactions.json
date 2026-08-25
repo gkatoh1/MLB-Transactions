@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-08-24T23:27:27.909079",
+  "last_updated": "2026-08-25T01:42:14.392041",
   "transactions": [
+    {
+      "date": "2026-08-24",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated RHPRicky Vanascofor assignment.",
+      "player": "Ricky Vanasco"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced SSWilly Adameson the 10-day injured list. Left elbow sprain.",
+      "player": "Willy Adames"
+    },
     {
       "date": "2026-08-24",
       "team": "Detroit Tigers",
       "details": "Detroit Tigerssigned free agent RHPTyler Kinley.",
       "player": "Tyler Kinley"
-    },
-    {
-      "date": "2026-08-24",
-      "team": "San Diego Padres",
-      "details": "San Diego Padrestransferred RHPLucas Giolitofrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
-      "player": "Lucas Giolito"
-    },
-    {
-      "date": "2026-08-24",
-      "team": "Houston Astros",
-      "details": "Houston Astrossigned free agent LFNelson Velázquez.",
-      "player": "Nelson Velázquez"
     },
     {
       "date": "2026-08-24",
@@ -27,9 +27,15 @@
     },
     {
       "date": "2026-08-24",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersdesignated RHPRicky Vanascofor assignment.",
-      "player": "Ricky Vanasco"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced RHPJT Brubakeron the 10-day injured list. Bruised ribs.",
+      "player": "JT Brubaker"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "San Diego Padres",
+      "details": "San Diego Padrestransferred RHPLucas Giolitofrom the 15-day injured list to the 60-day injured list. Right elbow inflammation.",
+      "player": "Lucas Giolito"
     },
     {
       "date": "2026-08-24",
@@ -39,27 +45,39 @@
     },
     {
       "date": "2026-08-24",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned CBo Naylorto Nashville Sounds.",
-      "player": "Bo Naylor"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced DHBryce Eldridgeon the bereavement list.",
+      "player": "Bryce Eldridge"
     },
     {
       "date": "2026-08-24",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresselected the contract of LFDustin Harrisfrom El Paso Chihuahuas.",
-      "player": "Dustin Harris"
+      "team": "Houston Astros",
+      "details": "Houston Astrossigned free agent LFNelson Velázquez.",
+      "player": "Nelson Velázquez"
     },
     {
       "date": "2026-08-24",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesselected the contract of RHPBlake Adamsfrom Albuquerque Isotopes.",
-      "player": "Blake Adams"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced LFVictor Bericotoon the 10-day injured list. Right knee bone bruise.",
+      "player": "Victor Bericoto"
     },
     {
       "date": "2026-08-24",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubssent 2BOwen Milleroutright to Iowa Cubs.",
-      "player": "Owen Miller"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPTy Maddento Toledo Mud Hens.",
+      "player": "Ty Madden"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled CFGrant McCrayfrom Sacramento River Cats.",
+      "player": "Grant McCray"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPJuan Burgosfrom Reno Aces.",
+      "player": "Juan Burgos"
     },
     {
       "date": "2026-08-24",
@@ -81,9 +99,27 @@
     },
     {
       "date": "2026-08-24",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesrecalled RFBrewer Hicklenfrom Gwinnett Stripers.",
-      "player": "Brewer Hicklen"
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned 3BDeyvison De Los Santosto Jacksonville Jumbo Shrimp.",
+      "player": "Deyvison De Los Santos"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned LHPMatt Wilkinsonto Sacramento River Cats.",
+      "player": "Matt Wilkinson"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesselected the contract of RHPBlake Adamsfrom Albuquerque Isotopes.",
+      "player": "Blake Adams"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPAnthony Molinafrom Sacramento River Cats.",
+      "player": "Anthony Molina"
     },
     {
       "date": "2026-08-24",
@@ -94,8 +130,44 @@
     {
       "date": "2026-08-24",
       "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RFBrewer Hicklenfrom Gwinnett Stripers.",
+      "player": "Brewer Hicklen"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent 2BOwen Milleroutright to Iowa Cubs.",
+      "player": "Owen Miller"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled 3BShay Whitcombfrom Sacramento River Cats.",
+      "player": "Shay Whitcomb"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "Atlanta Braves",
       "details": "Atlanta Bravesoptioned SSJim Jarvisto Gwinnett Stripers.",
       "player": "Jim Jarvis"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned CBo Naylorto Nashville Sounds.",
+      "player": "Bo Naylor"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresselected the contract of LFDustin Harrisfrom El Paso Chihuahuas.",
+      "player": "Dustin Harris"
+    },
+    {
+      "date": "2026-08-24",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPRyan Walkerfrom Sacramento River Cats.",
+      "player": "Ryan Walker"
     },
     {
       "date": "2026-08-24",
@@ -111,15 +183,9 @@
     },
     {
       "date": "2026-08-24",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned 3BDeyvison De Los Santosto Jacksonville Jumbo Shrimp.",
-      "player": "Deyvison De Los Santos"
-    },
-    {
-      "date": "2026-08-24",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned RHPTy Maddento Toledo Mud Hens.",
-      "player": "Ty Madden"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled 2BNate Furmanfrom Sacramento River Cats.",
+      "player": "Nate Furman"
     }
   ]
 }
