@@ -1,4 +1,41 @@
 {
-  "last_updated": "2026-08-28T04:10:39.749835",
-  "transactions": []
+  "last_updated": "2026-08-28T17:18:07.767444",
+  "transactions": [
+    {
+      "date": "2026-08-28",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent LHPSamy Natera Jr.on a rehab assignment to Rancho Cucamonga Quakes.",
+      "player": "Samy Natera Jr."
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RFMatt Shawfrom the 10-day injured list.",
+      "player": "Matt Shaw"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced LHPTyler Schweitzeron the paternity list.",
+      "player": "Tyler Schweitzer"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated DHAndrew Benintendifrom the bereavement list.",
+      "player": "Andrew Benintendi"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPTyler Gilbertfrom Charlotte Knights.",
+      "player": "Tyler Gilbert"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned DHKevin Alcántarato Iowa Cubs.",
+      "player": "Kevin Alcántara"
+    }
+  ]
 }
