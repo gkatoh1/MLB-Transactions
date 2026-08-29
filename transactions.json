@@ -1,23 +1,41 @@
 {
-  "last_updated": "2026-08-28T17:18:07.767444",
+  "last_updated": "2026-08-29T01:41:27.692591",
   "transactions": [
     {
       "date": "2026-08-28",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent LHPSamy Natera Jr.on a rehab assignment to Rancho Cucamonga Quakes.",
-      "player": "Samy Natera Jr."
+      "team": "New York Mets",
+      "details": "New York Metstransferred DHJorge Polancofrom the 10-day injured list to the 60-day injured list.",
+      "player": "Jorge Polanco"
     },
     {
       "date": "2026-08-28",
-      "team": "Chicago Cubs",
-      "details": "Chicago Cubsactivated RFMatt Shawfrom the 10-day injured list.",
-      "player": "Matt Shaw"
+      "team": "New York Mets",
+      "details": "New York Metssent RHPJustin Hagenmanon a rehab assignment to Syracuse Mets.",
+      "player": "Justin Hagenman"
     },
     {
       "date": "2026-08-28",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced LHPTyler Schweitzeron the paternity list.",
-      "player": "Tyler Schweitzer"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated 3BBlaze Alexanderfrom the 10-day injured list.",
+      "player": "Blaze Alexander"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsigned free agent CTomás Nidoto a minor league contract.",
+      "player": "Tomás Nido"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced 3BKe'Bryan Hayeson the 10-day injured list retroactive to August 27, 2026. Left groin strain.",
+      "player": "Ke'Bryan Hayes"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsplaced 3BBlaze Jordanon the 10-day injured list. Left ankle sprain.",
+      "player": "Blaze Jordan"
     },
     {
       "date": "2026-08-28",
@@ -27,15 +45,165 @@
     },
     {
       "date": "2026-08-28",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated LFWade Mecklerfrom the 7-day injured list.",
+      "player": "Wade Meckler"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent LHPSamy Natera Jr.on a rehab assignment to Rancho Cucamonga Quakes.",
+      "player": "Samy Natera Jr."
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPJameson Taillonon a rehab assignment to Buffalo Bisons.",
+      "player": "Jameson Taillon"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Athletics",
+      "details": "Athleticsactivated LHPJosé Suarezfrom the 15-day injured list.",
+      "player": "José Suarez"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RFMatt Shawfrom the 10-day injured list.",
+      "player": "Matt Shaw"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated RHPSimeon Woods Richardsonfor assignment.",
+      "player": "Simeon Woods Richardson"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsdesignated RHPWoo-Suk Gofor assignment.",
+      "player": "Woo-Suk Go"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssigned free agent RHPNick Sandlinto a minor league contract.",
+      "player": "Nick Sandlin"
+    },
+    {
+      "date": "2026-08-28",
       "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPTyler Gilbertfrom Charlotte Knights.",
-      "player": "Tyler Gilbert"
+      "details": "Chicago White Soxplaced LHPTyler Schweitzeron the paternity list.",
+      "player": "Tyler Schweitzer"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled LHPKohl Drakefrom Reno Aces.",
+      "player": "Kohl Drake"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "New York Mets",
+      "details": "New York Metsselected the contract of RHPChris Devenskifrom Syracuse Mets.",
+      "player": "Chris Devenski"
     },
     {
       "date": "2026-08-28",
       "team": "Chicago Cubs",
       "details": "Chicago Cubsoptioned DHKevin Alcántarato Iowa Cubs.",
       "player": "Kevin Alcántara"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RFAlan Rodento St. Paul Saints.",
+      "player": "Alan Roden"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned SSLuis Vázquezto Norfolk Tides.",
+      "player": "Luis Vázquez"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPNoah Murdockto Indianapolis Indians.",
+      "player": "Noah Murdock"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled LHPAdam Mackofrom Round Rock Express.",
+      "player": "Adam Macko"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPJuan Burgosto Reno Aces.",
+      "player": "Juan Burgos"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPCJ Van Eykfrom Buffalo Bisons.",
+      "player": "CJ Van Eyk"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled LHPEvan Siskfrom Indianapolis Indians.",
+      "player": "Evan Sisk"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPTyler Gilbertfrom Charlotte Knights.",
+      "player": "Tyler Gilbert"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled 2BEdwin Arroyofrom Louisville Bats.",
+      "player": "Edwin Arroyo"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPXzavion Curryto Syracuse Mets.",
+      "player": "Xzavion Curry"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsselected the contract of CFWalker Jenkinsfrom St. Paul Saints.",
+      "player": "Walker Jenkins"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Athletics",
+      "details": "Athleticsoptioned LHPDrew Romto Las Vegas Aviators.",
+      "player": "Drew Rom"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsoptioned LFBryce Teodosioto Salt Lake Bees.",
+      "player": "Bryce Teodosio"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled LFThomas Saggesefrom Memphis Redbirds.",
+      "player": "Thomas Saggese"
+    },
+    {
+      "date": "2026-08-28",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent SSJonathan Ornelasoutright to Nashville Sounds.",
+      "player": "Jonathan Ornelas"
     }
   ]
 }
