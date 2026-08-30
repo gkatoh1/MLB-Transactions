@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-29T21:37:32.461168",
+  "last_updated": "2026-08-30T00:03:35.146939",
   "transactions": [
+    {
+      "date": "2026-08-29",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgerssent LHPJustin Wrobleskion a rehab assignment to Oklahoma City Comets.",
+      "player": "Justin Wrobleski"
+    },
+    {
+      "date": "2026-08-29",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsdesignated LHPCaleb Fergusonfor assignment.",
+      "player": "Caleb Ferguson"
+    },
     {
       "date": "2026-08-29",
       "team": "New York Yankees",
@@ -9,9 +21,57 @@
     },
     {
       "date": "2026-08-29",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsdesignated RHPShaun Andersonfor assignment.",
+      "player": "Shaun Anderson"
+    },
+    {
+      "date": "2026-08-29",
       "team": "New York Yankees",
       "details": "New York Yankeessent RHPClarke Schmidton a rehab assignment to Somerset Patriots.",
       "player": "Clarke Schmidt"
+    },
+    {
+      "date": "2026-08-29",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent LFRiley Greeneon a rehab assignment to Toledo Mud Hens.",
+      "player": "Riley Greene"
+    },
+    {
+      "date": "2026-08-29",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPCorbin Burneson a rehab assignment to Reno Aces.",
+      "player": "Corbin Burnes"
+    },
+    {
+      "date": "2026-08-29",
+      "team": "New York Mets",
+      "details": "New York Metsactivated LFJuan Sotofrom the 10-day injured list.",
+      "player": "Juan Soto"
+    },
+    {
+      "date": "2026-08-29",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsreassigned CSebastián Riveroto the minor leagues.",
+      "player": "Sebastián Rivero"
+    },
+    {
+      "date": "2026-08-29",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsdesignated LHPHoby Milnerfor assignment.",
+      "player": "Hoby Milner"
+    },
+    {
+      "date": "2026-08-29",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPGarrett Whitlockfrom the 15-day injured list.",
+      "player": "Garrett Whitlock"
+    },
+    {
+      "date": "2026-08-29",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssigned free agent OFCade Marloweto a minor league contract.",
+      "player": "Cade Marlowe"
     },
     {
       "date": "2026-08-29",
@@ -27,33 +87,39 @@
     },
     {
       "date": "2026-08-29",
-      "team": "New York Mets",
-      "details": "New York Metsactivated LFJuan Sotofrom the 10-day injured list.",
-      "player": "Juan Soto"
-    },
-    {
-      "date": "2026-08-29",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated RHPGarrett Whitlockfrom the 15-day injured list.",
-      "player": "Garrett Whitlock"
-    },
-    {
-      "date": "2026-08-29",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratessent SSKonnor Griffinon a rehab assignment to Altoona Curve.",
       "player": "Konnor Griffin"
     },
     {
       "date": "2026-08-29",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsdesignated LHPCaleb Fergusonfor assignment.",
-      "player": "Caleb Ferguson"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsselected the contract of LHPSeth Lonswayfrom Sacramento River Cats.",
+      "player": "Seth Lonsway"
+    },
+    {
+      "date": "2026-08-29",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPBrendan Beckfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Brendan Beck"
+    },
+    {
+      "date": "2026-08-29",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled LHPMatt Wilkinsonfrom Sacramento River Cats.",
+      "player": "Matt Wilkinson"
     },
     {
       "date": "2026-08-29",
       "team": "St. Louis Cardinals",
       "details": "St. Louis Cardinalsrecalled LHPBrycen Mautzfrom Memphis Redbirds.",
       "player": "Brycen Mautz"
+    },
+    {
+      "date": "2026-08-29",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPWyatt Oldsto Worcester Red Sox.",
+      "player": "Wyatt Olds"
     },
     {
       "date": "2026-08-29",
@@ -69,12 +135,6 @@
     },
     {
       "date": "2026-08-29",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned RHPSpencer Bivensto Sacramento River Cats.",
-      "player": "Spencer Bivens"
-    },
-    {
-      "date": "2026-08-29",
       "team": "New York Mets",
       "details": "New York Metsoptioned 1BEric Wagamanto Syracuse Mets.",
       "player": "Eric Wagaman"
@@ -87,39 +147,21 @@
     },
     {
       "date": "2026-08-29",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPSpencer Bivensto Sacramento River Cats.",
+      "player": "Spencer Bivens"
+    },
+    {
+      "date": "2026-08-29",
       "team": "Miami Marlins",
       "details": "Miami Marlinsoptioned LHPPatrick Monteverdeto Jacksonville Jumbo Shrimp.",
       "player": "Patrick Monteverde"
     },
     {
       "date": "2026-08-29",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPWyatt Oldsto Worcester Red Sox.",
-      "player": "Wyatt Olds"
-    },
-    {
-      "date": "2026-08-29",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsselected the contract of LHPSeth Lonswayfrom Sacramento River Cats.",
-      "player": "Seth Lonsway"
-    },
-    {
-      "date": "2026-08-29",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksoptioned LHPKohl Draketo Reno Aces.",
       "player": "Kohl Drake"
-    },
-    {
-      "date": "2026-08-29",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPBrendan Beckfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Brendan Beck"
-    },
-    {
-      "date": "2026-08-29",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsrecalled LHPMatt Wilkinsonfrom Sacramento River Cats.",
-      "player": "Matt Wilkinson"
     },
     {
       "date": "2026-08-29",
