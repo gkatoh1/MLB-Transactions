@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-08-31T19:55:24.756391",
+  "last_updated": "2026-08-31T23:42:58.564332",
   "transactions": [
+    {
+      "date": "2026-08-31",
+      "team": "New York Mets",
+      "details": "New York Metsactivated 1BMark Vientosfrom the 10-day injured list.",
+      "player": "Mark Vientos"
+    },
+    {
+      "date": "2026-08-31",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPPeyton Grayon the 15-day injured list retroactive to August 30, 2026. Right elbow inflammation.",
+      "player": "Peyton Gray"
+    },
     {
       "date": "2026-08-31",
       "team": "Chicago White Sox",
@@ -9,21 +21,15 @@
     },
     {
       "date": "2026-08-31",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsplaced 2BXavier Edwardson the 10-day injured list. Left thumb sprain.",
-      "player": "Xavier Edwards"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated 2BKetel Martefrom the 10-day injured list.",
+      "player": "Ketel Marte"
     },
     {
       "date": "2026-08-31",
-      "team": "Unknown Team",
-      "details": "RHPJustin Topaelected free agency.",
-      "player": "Justin Topa"
-    },
-    {
-      "date": "2026-08-31",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersplaced RHPBryse Wilsonon the 15-day injured list. Low back strain.",
-      "player": "Bryse Wilson"
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersplaced RHPNick Davilaon the 15-day injured list. SC joint sprain.",
+      "player": "Nick Davila"
     },
     {
       "date": "2026-08-31",
@@ -33,9 +39,9 @@
     },
     {
       "date": "2026-08-31",
-      "team": "New York Mets",
-      "details": "New York Metsactivated 1BMark Vientosfrom the 10-day injured list.",
-      "player": "Mark Vientos"
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPCole Winnon the 15-day injured list retroactive to August 28, 2026. Right rotator cuff strain.",
+      "player": "Cole Winn"
     },
     {
       "date": "2026-08-31",
@@ -46,8 +52,92 @@
     {
       "date": "2026-08-31",
       "team": "Miami Marlins",
-      "details": "Miami Marlinsoptioned RHPWikelman Gonzálezto Jacksonville Jumbo Shrimp.",
-      "player": "Wikelman González"
+      "details": "Miami Marlinsplaced 2BXavier Edwardson the 10-day injured list. Left thumb sprain.",
+      "player": "Xavier Edwards"
+    },
+    {
+      "date": "2026-08-31",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersactivated RHPCooper Criswellfrom the 60-day injured list.",
+      "player": "Cooper Criswell"
+    },
+    {
+      "date": "2026-08-31",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerstransferred SSColt Emersonfrom the 10-day injured list to the 60-day injured list. Left wrist tendon repair.",
+      "player": "Colt Emerson"
+    },
+    {
+      "date": "2026-08-31",
+      "team": "Unknown Team",
+      "details": "RHPJustin Topaelected free agency.",
+      "player": "Justin Topa"
+    },
+    {
+      "date": "2026-08-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated SSLuis Vázquezfor assignment.",
+      "player": "Luis Vázquez"
+    },
+    {
+      "date": "2026-08-31",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced RHPBryse Wilsonon the 15-day injured list. Low back strain.",
+      "player": "Bryse Wilson"
+    },
+    {
+      "date": "2026-08-31",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersdesignated RHPTanner Raineyfor assignment.",
+      "player": "Tanner Rainey"
+    },
+    {
+      "date": "2026-08-31",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled LHPRobby Ahlstromfrom Round Rock Express.",
+      "player": "Robby Ahlstrom"
+    },
+    {
+      "date": "2026-08-31",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsrecalled SSJared Sernafrom Jacksonville Jumbo Shrimp.",
+      "player": "Jared Serna"
+    },
+    {
+      "date": "2026-08-31",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned CJimmy Crooksto Memphis Redbirds.",
+      "player": "Jimmy Crooks"
+    },
+    {
+      "date": "2026-08-31",
+      "team": "New York Yankees",
+      "details": "New York Yankeesclaimed RHPJohn Schreiberoff waivers fromKansas City Royals.",
+      "player": "John Schreiber"
+    },
+    {
+      "date": "2026-08-31",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned DHJose Fernandezto Reno Aces.",
+      "player": "Jose Fernandez"
+    },
+    {
+      "date": "2026-08-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled LHPCade Povichfrom Norfolk Tides.",
+      "player": "Cade Povich"
+    },
+    {
+      "date": "2026-08-31",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned LFCorey Julksto Toledo Mud Hens.",
+      "player": "Corey Julks"
+    },
+    {
+      "date": "2026-08-31",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliestraded LFTommy PhamtoChicago White Soxfor cash.",
+      "player": "Tommy Pham"
     },
     {
       "date": "2026-08-31",
@@ -64,20 +154,38 @@
     {
       "date": "2026-08-31",
       "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled SSJared Sernafrom Jacksonville Jumbo Shrimp.",
-      "player": "Jared Serna"
+      "details": "Miami Marlinsrecalled LHPCade Gibsonfrom Jacksonville Jumbo Shrimp.",
+      "player": "Cade Gibson"
     },
     {
       "date": "2026-08-31",
-      "team": "New York Yankees",
-      "details": "New York Yankeesclaimed RHPJohn Schreiberoff waivers fromKansas City Royals.",
-      "player": "John Schreiber"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersselected the contract of SSJohn Peckfrom Toledo Mud Hens.",
+      "player": "John Peck"
+    },
+    {
+      "date": "2026-08-31",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPBen Peoplesfrom Round Rock Express.",
+      "player": "Ben Peoples"
     },
     {
       "date": "2026-08-31",
       "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled LHPCade Gibsonfrom Jacksonville Jumbo Shrimp.",
-      "player": "Cade Gibson"
+      "details": "Miami Marlinsoptioned RHPWikelman Gonzálezto Jacksonville Jumbo Shrimp.",
+      "player": "Wikelman González"
+    },
+    {
+      "date": "2026-08-31",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesclaimed CFLuis Robert Jr.off waivers fromNew York Mets.",
+      "player": "Luis Robert Jr."
+    },
+    {
+      "date": "2026-08-31",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPYilber Díazfrom Toledo Mud Hens.",
+      "player": "Yilber Díaz"
     },
     {
       "date": "2026-08-31",
@@ -87,9 +195,21 @@
     },
     {
       "date": "2026-08-31",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPSimeon Woods Richardsonoutright to Buffalo Bisons.",
+      "player": "Simeon Woods Richardson"
+    },
+    {
+      "date": "2026-08-31",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesclaimed CFLuis Robert Jr.off waivers fromNew York Mets.",
-      "player": "Luis Robert Jr."
+      "details": "Baltimore Oriolesoptioned RHPAnthony Nunezto Norfolk Tides.",
+      "player": "Anthony Nunez"
+    },
+    {
+      "date": "2026-08-31",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raystraded RFJake CavetoChicago White Soxfor cash.",
+      "player": "Jake Cave"
     }
   ]
 }
