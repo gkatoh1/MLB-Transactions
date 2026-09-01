@@ -1,6 +1,54 @@
 {
-  "last_updated": "2026-09-01T18:19:43.179557",
+  "last_updated": "2026-09-01T21:41:09.805889",
   "transactions": [
+    {
+      "date": "2026-09-01",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated CRafael Marchánfrom the 10-day injured list.",
+      "player": "Rafael Marchán"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated LHPNick Raquetfor assignment.",
+      "player": "Nick Raquet"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxdesignated 3BBrett Harrisfor assignment.",
+      "player": "Brett Harris"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "San Diego Padres",
+      "details": "San Diego Padrestransferred LFLuis Rengifofrom the 10-day injured list to the 60-day injured list. Right knee sprain.",
+      "player": "Luis Rengifo"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated LHPBlake Walstonfrom the 60-day injured list.",
+      "player": "Blake Walston"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssigned free agent RFAustin Slaterto a minor league contract.",
+      "player": "Austin Slater"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced LHPEduardo Riveraon the 60-day injured list. Lumbar strain.",
+      "player": "Eduardo Rivera"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent LHPRichard Loveladyon a rehab assignment to Fredericksburg Nationals.",
+      "player": "Richard Lovelady"
+    },
     {
       "date": "2026-09-01",
       "team": "Minnesota Twins",
@@ -12,36 +60,6 @@
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsactivated LHPBrandon Williamsonfrom the 60-day injured list.",
       "player": "Brandon Williamson"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxdesignated LHPTyler Gilbertfor assignment.",
-      "player": "Tyler Gilbert"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersdesignated RFConnor Joefor assignment.",
-      "player": "Connor Joe"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxdesignated 3BBrett Harrisfor assignment.",
-      "player": "Brett Harris"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated RFVictor Mesa Jr.from the 10-day injured list.",
-      "player": "Victor Mesa Jr."
-    },
-    {
-      "date": "2026-09-01",
-      "team": "San Diego Padres",
-      "details": "San Diego Padrestransferred LFLuis Rengifofrom the 10-day injured list to the 60-day injured list. Right knee sprain.",
-      "player": "Luis Rengifo"
     },
     {
       "date": "2026-09-01",
@@ -57,15 +75,63 @@
     },
     {
       "date": "2026-09-01",
-      "team": "Texas Rangers",
-      "details": "Texas Rangerssigned free agent RHPTrevor Williams.",
-      "player": "Trevor Williams"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced RHPTyron Guerreroon the 15-day injured list. Right shoulder inflammation.",
+      "player": "Tyron Guerrero"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstransferred CDrew Millasfrom the 10-day injured list to the 60-day injured list. Left index finger fracture.",
+      "player": "Drew Millas"
     },
     {
       "date": "2026-09-01",
       "team": "Los Angeles Dodgers",
       "details": "RHPSebastian Rodriguezroster status changed byLos Angeles Dodgers.",
       "player": "Sebastian Rodriguez"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated RHPJohn Schreiber.",
+      "player": "John Schreiber"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RFVictor Mesa Jr.from the 10-day injured list.",
+      "player": "Victor Mesa Jr."
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated RHPJedixson Paez.",
+      "player": "Jedixson Paez"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated LHPJustin Wrobleskifrom the 15-day injured list.",
+      "player": "Justin Wrobleski"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Athletics",
+      "details": "Athleticstransferred 3BJoshua Kuroda-Grauerfrom the 10-day injured list to the 60-day injured list. Ruptured testicle surgery.",
+      "player": "Joshua Kuroda-Grauer"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPCameron Westonfor assignment.",
+      "player": "Cameron Weston"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated 2BJosh Smithfrom the 10-day injured list.",
+      "player": "Josh Smith"
     },
     {
       "date": "2026-09-01",
@@ -81,27 +147,9 @@
     },
     {
       "date": "2026-09-01",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersdesignated RHPNolan Kinghamfor assignment.",
-      "player": "Nolan Kingham"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced LHPEduardo Riveraon the 60-day injured list. Lumbar strain.",
-      "player": "Eduardo Rivera"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated RHPJedixson Paez.",
-      "player": "Jedixson Paez"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent LHPRichard Loveladyon a rehab assignment to Fredericksburg Nationals.",
-      "player": "Richard Lovelady"
+      "team": "Athletics",
+      "details": "Athleticsactivated CFDenzel Clarkefrom the 60-day injured list.",
+      "player": "Denzel Clarke"
     },
     {
       "date": "2026-09-01",
@@ -111,129 +159,123 @@
     },
     {
       "date": "2026-09-01",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelsactivated LHPSamy Natera Jr.from the 15-day injured list.",
+      "player": "Samy Natera Jr."
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated LHPTyler Gilbertfor assignment.",
+      "player": "Tyler Gilbert"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated RFConnor Joefor assignment.",
+      "player": "Connor Joe"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersdesignated RHPNolan Kinghamfor assignment.",
+      "player": "Nolan Kingham"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated LHPJoJo Romerofrom the 15-day injured list.",
+      "player": "JoJo Romero"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated 3BRyan McMahonfrom the 10-day injured list.",
+      "player": "Ryan McMahon"
+    },
+    {
+      "date": "2026-09-01",
       "team": "Seattle Mariners",
       "details": "Seattle Marinerssigned free agent LHPHoby Milner.",
       "player": "Hoby Milner"
     },
     {
       "date": "2026-09-01",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled RHPTanner McDougalfrom Charlotte Knights.",
-      "player": "Tanner McDougal"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated CFLuis Robert Jr..",
+      "player": "Luis Robert Jr."
     },
     {
       "date": "2026-09-01",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of RFLazaro Montesfrom Tacoma Rainiers.",
-      "player": "Lazaro Montes"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled CFVictor Scott IIfrom Memphis Redbirds.",
-      "player": "Victor Scott II"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsselected the contract of SSBen Rossfrom St. Paul Saints.",
-      "player": "Ben Ross"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled CFDaniel Schneemannfrom Columbus Clippers.",
-      "player": "Daniel Schneemann"
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced CFChristian Franklinon the 10-day injured list retroactive to August 31, 2026. Left hand inflammation.",
+      "player": "Christian Franklin"
     },
     {
       "date": "2026-09-01",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaystraded RHPSebastian RodrigueztoLos Angeles Dodgersfor RHP José Rodríguez.",
-      "player": "Sebastian Rodriguez"
+      "details": "Toronto Blue Jaysactivated LHPJoe Mantiplyfrom the 60-day injured list.",
+      "player": "Joe Mantiply"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliessigned free agent RHPSam Carlsonto a minor league contract.",
+      "player": "Sam Carlson"
     },
     {
       "date": "2026-09-01",
       "team": "Toronto Blue Jays",
-      "details": "Toronto Blue Jaystraded RHP Sebastian Rodriguez toLos Angeles Dodgersfor RHPJosé Rodríguez.",
-      "player": "José Rodríguez"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxselected the contract of LFTommy Phamfrom Charlotte Knights.",
-      "player": "Tommy Pham"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled CLeo Bernalfrom Memphis Redbirds.",
-      "player": "Leo Bernal"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled LHPEduardo Riverafrom Worcester Red Sox.",
-      "player": "Eduardo Rivera"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresrecalled RHPJhony Britofrom El Paso Chihuahuas.",
-      "player": "Jhony Brito"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresselected the contract of CEthan Salasfrom El Paso Chihuahuas.",
-      "player": "Ethan Salas"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled RHPGarrett Actonfrom St. Paul Saints.",
-      "player": "Garrett Acton"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesselected the contract of CChristian Bethancourtfrom Indianapolis Indians.",
-      "player": "Christian Bethancourt"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled 3BGraham Pauleyfrom Jacksonville Jumbo Shrimp.",
-      "player": "Graham Pauley"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsselected the contract of RHPHancel Rinconfrom Memphis Redbirds.",
-      "player": "Hancel Rincon"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPBlake Burkhalterfrom Gwinnett Stripers.",
-      "player": "Blake Burkhalter"
+      "details": "Toronto Blue Jaysdesignated LFDaz Cameronfor assignment.",
+      "player": "Daz Cameron"
     },
     {
       "date": "2026-09-01",
       "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled CFCam Cauleyfrom Round Rock Express.",
-      "player": "Cam Cauley"
+      "details": "Texas Rangerssigned free agent RHPTrevor Williams.",
+      "player": "Trevor Williams"
     },
     {
       "date": "2026-09-01",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsrecalled RHPBradley Blalockfrom Jacksonville Jumbo Shrimp.",
-      "player": "Bradley Blalock"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersdesignated CBen Rortvedtfor assignment.",
+      "player": "Ben Rortvedt"
     },
     {
       "date": "2026-09-01",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysrecalled RHPAlex Cookfrom Durham Bulls.",
-      "player": "Alex Cook"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated CWill Smithfrom the 60-day injured list.",
+      "player": "Will Smith"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated CDalton Rushingfrom the 10-day injured list.",
+      "player": "Dalton Rushing"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated LFLourdes Gurriel Jr.from the 10-day injured list.",
+      "player": "Lourdes Gurriel Jr."
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackstransferred RHPRyan Thompsonfrom the 15-day injured list to the 60-day injured list. Strained lower back.",
+      "player": "Ryan Thompson"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated LFRiley Greenefrom the 10-day injured list.",
+      "player": "Riley Greene"
+    },
+    {
+      "date": "2026-09-01",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsselected the contract of 3BBJ Murray Jr.from Iowa Cubs.",
+      "player": "BJ Murray Jr."
     },
     {
       "date": "2026-09-01",
@@ -243,27 +285,21 @@
     },
     {
       "date": "2026-09-01",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersrecalled RHPBeau Brieskefrom Toledo Mud Hens.",
+      "player": "Beau Brieske"
+    },
+    {
+      "date": "2026-09-01",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of DHKyle Farmerfrom Gwinnett Stripers.",
-      "player": "Kyle Farmer"
+      "details": "Atlanta Bravesselected the contract of RHPBlake Burkhalterfrom Gwinnett Stripers.",
+      "player": "Blake Burkhalter"
     },
     {
       "date": "2026-09-01",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxselected the contract of RHPJedixson Paezfrom Worcester Red Sox.",
-      "player": "Jedixson Paez"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansselected the contract of RHPCarlos Hernándezfrom Columbus Clippers.",
-      "player": "Carlos Hernández"
-    },
-    {
-      "date": "2026-09-01",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled 2BJuan Britofrom Louisville Bats.",
-      "player": "Juan Brito"
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPTyler Fergusonfrom Iowa Cubs.",
+      "player": "Tyler Ferguson"
     }
   ]
 }
