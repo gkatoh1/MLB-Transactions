@@ -1,6 +1,18 @@
 {
-  "last_updated": "2026-09-02T14:16:48.871106",
+  "last_updated": "2026-09-02T18:31:44.978558",
   "transactions": [
+    {
+      "date": "2026-09-02",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsdesignated LHPTom Cosgrovefor assignment.",
+      "player": "Tom Cosgrove"
+    },
+    {
+      "date": "2026-09-02",
+      "team": "Athletics",
+      "details": "Athleticsdesignated LHPJosé Suarezfor assignment.",
+      "player": "José Suarez"
+    },
     {
       "date": "2026-09-02",
       "team": "Atlanta Braves",
@@ -9,15 +21,75 @@
     },
     {
       "date": "2026-09-02",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPBlake Burkhalterto Gwinnett Stripers.",
-      "player": "Blake Burkhalter"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated RHPDavis Martinfrom the 15-day injured list.",
+      "player": "Davis Martin"
+    },
+    {
+      "date": "2026-09-02",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated RFJames Woodfrom the 10-day injured list.",
+      "player": "James Wood"
+    },
+    {
+      "date": "2026-09-02",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RHPGriffin Jaxfrom the 15-day injured list.",
+      "player": "Griffin Jax"
+    },
+    {
+      "date": "2026-09-02",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled LHPRaymond Burgosfrom Worcester Red Sox.",
+      "player": "Raymond Burgos"
     },
     {
       "date": "2026-09-02",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesselected the contract of RHPElieser Hernándezfrom Gwinnett Stripers.",
       "player": "Elieser Hernández"
+    },
+    {
+      "date": "2026-09-02",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPRiley Corneliofrom Rochester Red Wings.",
+      "player": "Riley Cornelio"
+    },
+    {
+      "date": "2026-09-02",
+      "team": "Athletics",
+      "details": "Athleticsselected the contract of RHPGeoff Hartliebfrom Las Vegas Aviators.",
+      "player": "Geoff Hartlieb"
+    },
+    {
+      "date": "2026-09-02",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPAlex Cookto Durham Bulls.",
+      "player": "Alex Cook"
+    },
+    {
+      "date": "2026-09-02",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPJedixson Paezto Worcester Red Sox.",
+      "player": "Jedixson Paez"
+    },
+    {
+      "date": "2026-09-02",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned RHPTanner McDougalto Charlotte Knights.",
+      "player": "Tanner McDougal"
+    },
+    {
+      "date": "2026-09-02",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned LFAndrew Pinckneyto Rochester Red Wings.",
+      "player": "Andrew Pinckney"
+    },
+    {
+      "date": "2026-09-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPBlake Burkhalterto Gwinnett Stripers.",
+      "player": "Blake Burkhalter"
     }
   ]
 }
