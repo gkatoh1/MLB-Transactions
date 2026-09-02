@@ -1,24 +1,6 @@
 {
-  "last_updated": "2026-09-02T18:31:44.978558",
+  "last_updated": "2026-09-02T21:42:39.275462",
   "transactions": [
-    {
-      "date": "2026-09-02",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsdesignated LHPTom Cosgrovefor assignment.",
-      "player": "Tom Cosgrove"
-    },
-    {
-      "date": "2026-09-02",
-      "team": "Athletics",
-      "details": "Athleticsdesignated LHPJosé Suarezfor assignment.",
-      "player": "José Suarez"
-    },
-    {
-      "date": "2026-09-02",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesdesignated LHPHayden Harrisfor assignment.",
-      "player": "Hayden Harris"
-    },
     {
       "date": "2026-09-02",
       "team": "Chicago White Sox",
@@ -33,21 +15,51 @@
     },
     {
       "date": "2026-09-02",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated 2BMichael Masseyfrom the 7-day injured list.",
+      "player": "Michael Massey"
+    },
+    {
+      "date": "2026-09-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated LHPHayden Harrisfor assignment.",
+      "player": "Hayden Harris"
+    },
+    {
+      "date": "2026-09-02",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsdesignated LHPTom Cosgrovefor assignment.",
+      "player": "Tom Cosgrove"
+    },
+    {
+      "date": "2026-09-02",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysactivated RHPGriffin Jaxfrom the 15-day injured list.",
       "player": "Griffin Jax"
     },
     {
       "date": "2026-09-02",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled LHPRaymond Burgosfrom Worcester Red Sox.",
-      "player": "Raymond Burgos"
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsdesignated LFDrew Watersfor assignment.",
+      "player": "Drew Waters"
     },
     {
       "date": "2026-09-02",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesselected the contract of RHPElieser Hernándezfrom Gwinnett Stripers.",
-      "player": "Elieser Hernández"
+      "team": "Athletics",
+      "details": "Athleticsdesignated LHPJosé Suarezfor assignment.",
+      "player": "José Suarez"
+    },
+    {
+      "date": "2026-09-02",
+      "team": "New York Mets",
+      "details": "New York Metsactivated RHPJustin Hagenmanfrom the 60-day injured list.",
+      "player": "Justin Hagenman"
+    },
+    {
+      "date": "2026-09-02",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPClarke Schmidton a rehab assignment to Scranton/Wilkes-Barre RailRiders.",
+      "player": "Clarke Schmidt"
     },
     {
       "date": "2026-09-02",
@@ -63,15 +75,33 @@
     },
     {
       "date": "2026-09-02",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned LFAndrew Pinckneyto Rochester Red Wings.",
+      "player": "Andrew Pinckney"
+    },
+    {
+      "date": "2026-09-02",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysoptioned RHPAlex Cookto Durham Bulls.",
       "player": "Alex Cook"
     },
     {
       "date": "2026-09-02",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPJedixson Paezto Worcester Red Sox.",
-      "player": "Jedixson Paez"
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPElieser Hernándezfrom Gwinnett Stripers.",
+      "player": "Elieser Hernández"
+    },
+    {
+      "date": "2026-09-02",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPBlake Burkhalterto Gwinnett Stripers.",
+      "player": "Blake Burkhalter"
+    },
+    {
+      "date": "2026-09-02",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPDylan Rossto Syracuse Mets.",
+      "player": "Dylan Ross"
     },
     {
       "date": "2026-09-02",
@@ -81,15 +111,15 @@
     },
     {
       "date": "2026-09-02",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned LFAndrew Pinckneyto Rochester Red Wings.",
-      "player": "Andrew Pinckney"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled LHPRaymond Burgosfrom Worcester Red Sox.",
+      "player": "Raymond Burgos"
     },
     {
       "date": "2026-09-02",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPBlake Burkhalterto Gwinnett Stripers.",
-      "player": "Blake Burkhalter"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPJedixson Paezto Worcester Red Sox.",
+      "player": "Jedixson Paez"
     }
   ]
 }
