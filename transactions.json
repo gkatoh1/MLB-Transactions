@@ -1,4 +1,29 @@
 {
-  "last_updated": "2026-09-03T14:20:28.434566",
-  "transactions": []
+  "last_updated": "2026-09-03T18:28:19.901340",
+  "transactions": [
+    {
+      "date": "2026-09-03",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced RHPKirby Yateson the 15-day injured list retroactive to August 31, 2026. Right shoulder impingement.",
+      "player": "Kirby Yates"
+    },
+    {
+      "date": "2026-09-03",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPWilber Dotelfrom Indianapolis Indians.",
+      "player": "Wilber Dotel"
+    },
+    {
+      "date": "2026-09-03",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPKhristian Curtisfrom Indianapolis Indians.",
+      "player": "Khristian Curtis"
+    },
+    {
+      "date": "2026-09-03",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned LHPEvan Siskto Indianapolis Indians.",
+      "player": "Evan Sisk"
+    }
+  ]
 }
