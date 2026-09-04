@@ -1,29 +1,17 @@
 {
-  "last_updated": "2026-09-04T21:20:31.960394",
+  "last_updated": "2026-09-04T23:53:54.123062",
   "transactions": [
-    {
-      "date": "2026-09-04",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesactivated SSKonnor Griffinfrom the 60-day injured list.",
-      "player": "Konnor Griffin"
-    },
-    {
-      "date": "2026-09-04",
-      "team": "Seattle Mariners",
-      "details": "LHPHoby Milnerroster status changed bySeattle Mariners.",
-      "player": "Hoby Milner"
-    },
-    {
-      "date": "2026-09-04",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesdesignated CChristian Bethancourtfor assignment.",
-      "player": "Christian Bethancourt"
-    },
     {
       "date": "2026-09-04",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxactivated CKyle Teelfrom the 10-day injured list.",
       "player": "Kyle Teel"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated RHPJameson Taillonfrom the 15-day injured list.",
+      "player": "Jameson Taillon"
     },
     {
       "date": "2026-09-04",
@@ -33,27 +21,9 @@
     },
     {
       "date": "2026-09-04",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksdesignated CFJorge Barrosafor assignment.",
-      "player": "Jorge Barrosa"
-    },
-    {
-      "date": "2026-09-04",
-      "team": "Houston Astros",
-      "details": "Houston Astrosplaced LHPSteven Okerton the 15-day injured list retroactive to September 1, 2026. Right hamstring strain.",
-      "player": "Steven Okert"
-    },
-    {
-      "date": "2026-09-04",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansactivated RHPSlade Cecconifrom the 15-day injured list.",
-      "player": "Slade Cecconi"
-    },
-    {
-      "date": "2026-09-04",
-      "team": "Los Angeles Angels",
-      "details": "Los Angeles Angelssent RHPSam Bachmanon a rehab assignment to Rancho Cucamonga Quakes.",
-      "player": "Sam Bachman"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent CKyle Higashiokaon a rehab assignment to Round Rock Express.",
+      "player": "Kyle Higashioka"
     },
     {
       "date": "2026-09-04",
@@ -75,45 +45,99 @@
     },
     {
       "date": "2026-09-04",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksdesignated CFJorge Barrosafor assignment.",
+      "player": "Jorge Barrosa"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced LHPSteven Okerton the 15-day injured list retroactive to September 1, 2026. Right hamstring strain.",
+      "player": "Steven Okert"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated RHPAndre Pallantefrom the 15-day injured list.",
+      "player": "Andre Pallante"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssigned free agent RHPShaun Andersonto a minor league contract.",
+      "player": "Shaun Anderson"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RHPCole Sulserfrom the 15-day injured list.",
+      "player": "Cole Sulser"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated RHPSlade Cecconifrom the 15-day injured list.",
+      "player": "Slade Cecconi"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced LHPShane McClanahanon the 15-day injured list. Left forearm tightness.",
+      "player": "Shane McClanahan"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsdesignated RHPMax Kranickfor assignment.",
+      "player": "Max Kranick"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPSam Bachmanon a rehab assignment to Rancho Cucamonga Quakes.",
+      "player": "Sam Bachman"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated SSKonnor Griffinfrom the 60-day injured list.",
+      "player": "Konnor Griffin"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated CChristian Bethancourtfor assignment.",
+      "player": "Christian Bethancourt"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysplaced RHPManuel Rodríguezon the 15-day injured list retroactive to September 3, 2026. Low back strain.",
+      "player": "Manuel Rodríguez"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned free agent LFKyler Fedkoto a minor league contract.",
+      "player": "Kyler Fedko"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Seattle Mariners",
+      "details": "LHPHoby Milnerroster status changed bySeattle Mariners.",
+      "player": "Hoby Milner"
+    },
+    {
+      "date": "2026-09-04",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansdesignated RHPCarlos Hernándezfor assignment.",
       "player": "Carlos Hernández"
     },
     {
       "date": "2026-09-04",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled RHPIsaac Mattsonfrom Indianapolis Indians.",
-      "player": "Isaac Mattson"
-    },
-    {
-      "date": "2026-09-04",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned CDrew Romoto Charlotte Knights.",
-      "player": "Drew Romo"
-    },
-    {
-      "date": "2026-09-04",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersrecalled RHPTroy Taylorfrom Tacoma Rainiers.",
-      "player": "Troy Taylor"
-    },
-    {
-      "date": "2026-09-04",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned 2BIvan Johnsonto Louisville Bats.",
-      "player": "Ivan Johnson"
-    },
-    {
-      "date": "2026-09-04",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsclaimed RHPJoel Kuhneloff waivers fromMilwaukee Brewers.",
-      "player": "Joel Kuhnel"
-    },
-    {
-      "date": "2026-09-04",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsselected the contract of CFCarlos Jorgefrom Louisville Bats.",
-      "player": "Carlos Jorge"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned LHPHayden Harristo Albuquerque Isotopes.",
+      "player": "Hayden Harris"
     },
     {
       "date": "2026-09-04",
@@ -123,15 +147,123 @@
     },
     {
       "date": "2026-09-04",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsclaimed RHPJoel Kuhneloff waivers fromMilwaukee Brewers.",
+      "player": "Joel Kuhnel"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesclaimed LHPHayden Harrisoff waivers fromAtlanta Braves.",
+      "player": "Hayden Harris"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPDaniel Espinofrom Columbus Clippers.",
+      "player": "Daniel Espino"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPRyan Fernandezto Memphis Redbirds.",
+      "player": "Ryan Fernandez"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Athletics",
+      "details": "Athleticsoptioned RHPJack Perkinsto Las Vegas Aviators.",
+      "player": "Jack Perkins"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned 2BIvan Johnsonto Louisville Bats.",
+      "player": "Ivan Johnson"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Athletics",
+      "details": "Athleticsrecalled RHPJoey Estesfrom Las Vegas Aviators.",
+      "player": "Joey Estes"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of CFCarlos Jorgefrom Louisville Bats.",
+      "player": "Carlos Jorge"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned CDrew Romoto Charlotte Knights.",
+      "player": "Drew Romo"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent LFDaz Cameronoutright to Buffalo Bisons.",
+      "player": "Daz Cameron"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled RHPTroy Taylorfrom Tacoma Rainiers.",
+      "player": "Troy Taylor"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent LFDrew Watersoutright to Omaha Storm Chasers.",
+      "player": "Drew Waters"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned LHPLogan Allento Columbus Clippers.",
+      "player": "Logan Allen"
+    },
+    {
+      "date": "2026-09-04",
       "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned LHPBrandon Eisertto Indianapolis Indians.",
-      "player": "Brandon Eisert"
+      "details": "Pittsburgh Piratesrecalled RHPIsaac Mattsonfrom Indianapolis Indians.",
+      "player": "Isaac Mattson"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPRicky Tiedemannto Buffalo Bisons.",
+      "player": "Ricky Tiedemann"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPAlex Cookfrom Durham Bulls.",
+      "player": "Alex Cook"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsselected the contract of RHPJack Sinclairfrom Rochester Red Wings.",
+      "player": "Jack Sinclair"
     },
     {
       "date": "2026-09-04",
       "team": "Houston Astros",
       "details": "Houston Astrosrecalled LHPBryan Kingfrom Sugar Land Space Cowboys.",
       "player": "Bryan King"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned LHPBrandon Eisertto Indianapolis Indians.",
+      "player": "Brandon Eisert"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent LHPTom Cosgroveoutright to Rochester Red Wings.",
+      "player": "Tom Cosgrove"
     }
   ]
 }
