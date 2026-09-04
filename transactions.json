@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-04T18:15:10.052855",
+  "last_updated": "2026-09-04T21:20:31.960394",
   "transactions": [
+    {
+      "date": "2026-09-04",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated SSKonnor Griffinfrom the 60-day injured list.",
+      "player": "Konnor Griffin"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Seattle Mariners",
+      "details": "LHPHoby Milnerroster status changed bySeattle Mariners.",
+      "player": "Hoby Milner"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated CChristian Bethancourtfor assignment.",
+      "player": "Christian Bethancourt"
+    },
     {
       "date": "2026-09-04",
       "team": "Chicago White Sox",
@@ -10,8 +28,20 @@
     {
       "date": "2026-09-04",
       "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansdesignated RHPCarlos Hernándezfor assignment.",
-      "player": "Carlos Hernández"
+      "details": "Cleveland Guardiansplaced RHPColin Holdermanon the 15-day injured list. Right wrist inflammation.",
+      "player": "Colin Holderman"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksdesignated CFJorge Barrosafor assignment.",
+      "player": "Jorge Barrosa"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced LHPSteven Okerton the 15-day injured list retroactive to September 1, 2026. Right hamstring strain.",
+      "player": "Steven Okert"
     },
     {
       "date": "2026-09-04",
@@ -27,9 +57,63 @@
     },
     {
       "date": "2026-09-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redstransferred 1BMichael Togliafrom the 10-day injured list to the 60-day injured list. Right shoulder dislocation.",
+      "player": "Michael Toglia"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated LFTommy Troyfrom the 10-day injured list.",
+      "player": "Tommy Troy"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced CJesus Rodriguezon the 60-day injured list. Right elbow neuritis.",
+      "player": "Jesus Rodriguez"
+    },
+    {
+      "date": "2026-09-04",
       "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansplaced RHPColin Holdermanon the 15-day injured list. Right wrist inflammation.",
-      "player": "Colin Holderman"
+      "details": "Cleveland Guardiansdesignated RHPCarlos Hernándezfor assignment.",
+      "player": "Carlos Hernández"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPIsaac Mattsonfrom Indianapolis Indians.",
+      "player": "Isaac Mattson"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned CDrew Romoto Charlotte Knights.",
+      "player": "Drew Romo"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersrecalled RHPTroy Taylorfrom Tacoma Rainiers.",
+      "player": "Troy Taylor"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned 2BIvan Johnsonto Louisville Bats.",
+      "player": "Ivan Johnson"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsclaimed RHPJoel Kuhneloff waivers fromMilwaukee Brewers.",
+      "player": "Joel Kuhnel"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of CFCarlos Jorgefrom Louisville Bats.",
+      "player": "Carlos Jorge"
     },
     {
       "date": "2026-09-04",
@@ -39,9 +123,15 @@
     },
     {
       "date": "2026-09-04",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned CDrew Romoto Charlotte Knights.",
-      "player": "Drew Romo"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned LHPBrandon Eisertto Indianapolis Indians.",
+      "player": "Brandon Eisert"
+    },
+    {
+      "date": "2026-09-04",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled LHPBryan Kingfrom Sugar Land Space Cowboys.",
+      "player": "Bryan King"
     }
   ]
 }
