@@ -1,4 +1,35 @@
 {
-  "last_updated": "2026-09-05T15:54:32.813657",
-  "transactions": []
+  "last_updated": "2026-09-05T18:05:34.944924",
+  "transactions": [
+    {
+      "date": "2026-09-05",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated RHPJoel Kuhnel.",
+      "player": "Joel Kuhnel"
+    },
+    {
+      "date": "2026-09-05",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent LHPRichard Loveladyon a rehab assignment to Rochester Red Wings.",
+      "player": "Richard Lovelady"
+    },
+    {
+      "date": "2026-09-05",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPTyler Fergusonto Iowa Cubs.",
+      "player": "Tyler Ferguson"
+    },
+    {
+      "date": "2026-09-05",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled RHPJavier Assadfrom Iowa Cubs.",
+      "player": "Javier Assad"
+    },
+    {
+      "date": "2026-09-05",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPRyan Walkerto Sacramento River Cats.",
+      "player": "Ryan Walker"
+    }
+  ]
 }
