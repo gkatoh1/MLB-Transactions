@@ -1,29 +1,23 @@
 {
-  "last_updated": "2026-09-06T21:16:32.859870",
+  "last_updated": "2026-09-06T23:43:12.064294",
   "transactions": [
-    {
-      "date": "2026-09-06",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced CFCeddanne Rafaelaon the 10-day injured list retroactive to September 3, 2026. Right quadriceps strain.",
-      "player": "Ceddanne Rafaela"
-    },
-    {
-      "date": "2026-09-06",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesdesignated RHPAlbert Suárezfor assignment.",
-      "player": "Albert Suárez"
-    },
-    {
-      "date": "2026-09-06",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced LFTommy Phamon the 10-day injured list retroactive to September 3, 2026. Left calif strain.",
-      "player": "Tommy Pham"
-    },
     {
       "date": "2026-09-06",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsdesignated LHPSam Mollfor assignment.",
       "player": "Sam Moll"
+    },
+    {
+      "date": "2026-09-06",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced RHPMike Burrowson the 60-day injured list.",
+      "player": "Mike Burrows"
+    },
+    {
+      "date": "2026-09-06",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced CDalton Rushingon the 10-day injured list retroactive to September 5, 2026. Right elbow discomfort.",
+      "player": "Dalton Rushing"
     },
     {
       "date": "2026-09-06",
@@ -39,9 +33,27 @@
     },
     {
       "date": "2026-09-06",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesdesignated RHPAlbert Suárezfor assignment.",
+      "player": "Albert Suárez"
+    },
+    {
+      "date": "2026-09-06",
       "team": "Arizona Diamondbacks",
       "details": "Arizona Diamondbacksdesignated LFMax Keplerfor assignment.",
       "player": "Max Kepler"
+    },
+    {
+      "date": "2026-09-06",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPJack Flahertyon a rehab assignment to Toledo Mud Hens.",
+      "player": "Jack Flaherty"
+    },
+    {
+      "date": "2026-09-06",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced LFTommy Phamon the 10-day injured list retroactive to September 3, 2026. Left calif strain.",
+      "player": "Tommy Pham"
     },
     {
       "date": "2026-09-06",
@@ -69,15 +81,15 @@
     },
     {
       "date": "2026-09-06",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned RHPAustin Petersonto Columbus Clippers.",
-      "player": "Austin Peterson"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced CFCeddanne Rafaelaon the 10-day injured list retroactive to September 3, 2026. Right quadriceps strain.",
+      "player": "Ceddanne Rafaela"
     },
     {
       "date": "2026-09-06",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RFRece Hindsfrom Norfolk Tides.",
-      "player": "Rece Hinds"
+      "team": "Houston Astros",
+      "details": "Houston Astrosclaimed CFJorge Barrosaoff waivers fromArizona Diamondbacks.",
+      "player": "Jorge Barrosa"
     },
     {
       "date": "2026-09-06",
@@ -87,9 +99,87 @@
     },
     {
       "date": "2026-09-06",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned LHPAndrew Searsto Toledo Mud Hens.",
+      "player": "Andrew Sears"
+    },
+    {
+      "date": "2026-09-06",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPTobias Myersfrom Syracuse Mets.",
+      "player": "Tobias Myers"
+    },
+    {
+      "date": "2026-09-06",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinersselected the contract of SSMichael Arroyofrom Tacoma Rainiers.",
+      "player": "Michael Arroyo"
+    },
+    {
+      "date": "2026-09-06",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned LHPJefry Yanto Syracuse Mets.",
+      "player": "Jefry Yan"
+    },
+    {
+      "date": "2026-09-06",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled CEliezer Alfonzofrom Oklahoma City Comets.",
+      "player": "Eliezer Alfonzo"
+    },
+    {
+      "date": "2026-09-06",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPAnthony Nunezfrom Norfolk Tides.",
+      "player": "Anthony Nunez"
+    },
+    {
+      "date": "2026-09-06",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled CEdgar Querofrom Charlotte Knights.",
+      "player": "Edgar Quero"
+    },
+    {
+      "date": "2026-09-06",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled 2BRonny Simonfrom Indianapolis Indians.",
+      "player": "Ronny Simon"
+    },
+    {
+      "date": "2026-09-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPMax Kranickoutright to Rochester Red Wings.",
+      "player": "Max Kranick"
+    },
+    {
+      "date": "2026-09-06",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPCarlos Hernándezoutright to Columbus Clippers.",
+      "player": "Carlos Hernández"
+    },
+    {
+      "date": "2026-09-06",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RFRece Hindsfrom Norfolk Tides.",
+      "player": "Rece Hinds"
+    },
+    {
+      "date": "2026-09-06",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxrecalled OFNate Eatonfrom Worcester Red Sox.",
       "player": "Nate Eaton"
+    },
+    {
+      "date": "2026-09-06",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled LHPCooper Hjerpefrom Memphis Redbirds.",
+      "player": "Cooper Hjerpe"
+    },
+    {
+      "date": "2026-09-06",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned RHPHancel Rinconto Memphis Redbirds.",
+      "player": "Hancel Rincon"
     },
     {
       "date": "2026-09-06",
@@ -106,62 +196,8 @@
     {
       "date": "2026-09-06",
       "team": "Seattle Mariners",
-      "details": "Seattle Marinersselected the contract of SSMichael Arroyofrom Tacoma Rainiers.",
-      "player": "Michael Arroyo"
-    },
-    {
-      "date": "2026-09-06",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned LHPJefry Yanto Syracuse Mets.",
-      "player": "Jefry Yan"
-    },
-    {
-      "date": "2026-09-06",
-      "team": "Seattle Mariners",
       "details": "Seattle Marinersoptioned 3BPatrick Wisdomto Tacoma Rainiers.",
       "player": "Patrick Wisdom"
-    },
-    {
-      "date": "2026-09-06",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsoptioned RHPHancel Rinconto Memphis Redbirds.",
-      "player": "Hancel Rincon"
-    },
-    {
-      "date": "2026-09-06",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled RHPAnthony Nunezfrom Norfolk Tides.",
-      "player": "Anthony Nunez"
-    },
-    {
-      "date": "2026-09-06",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled CEdgar Querofrom Charlotte Knights.",
-      "player": "Edgar Quero"
-    },
-    {
-      "date": "2026-09-06",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPTobias Myersfrom Syracuse Mets.",
-      "player": "Tobias Myers"
-    },
-    {
-      "date": "2026-09-06",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled DHAdrian Del Castillofrom Reno Aces.",
-      "player": "Adrian Del Castillo"
-    },
-    {
-      "date": "2026-09-06",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsrecalled LHPCooper Hjerpefrom Memphis Redbirds.",
-      "player": "Cooper Hjerpe"
-    },
-    {
-      "date": "2026-09-06",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled 2BRonny Simonfrom Indianapolis Indians.",
-      "player": "Ronny Simon"
     },
     {
       "date": "2026-09-06",
@@ -171,9 +207,15 @@
     },
     {
       "date": "2026-09-06",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersoptioned LHPAndrew Searsto Toledo Mud Hens.",
-      "player": "Andrew Sears"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPAustin Petersonto Columbus Clippers.",
+      "player": "Austin Peterson"
+    },
+    {
+      "date": "2026-09-06",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled DHAdrian Del Castillofrom Reno Aces.",
+      "player": "Adrian Del Castillo"
     }
   ]
 }
