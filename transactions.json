@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-09-07T10:05:54.422441",
+  "last_updated": "2026-09-07T16:22:13.111246",
   "transactions": [
+    {
+      "date": "2026-09-07",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated 3BKyle Karrosfrom the 7-day injured list.",
+      "player": "Kyle Karros"
+    },
+    {
+      "date": "2026-09-07",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated RHPJoe Ryanfrom the 15-day injured list.",
+      "player": "Joe Ryan"
+    },
+    {
+      "date": "2026-09-07",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced RHPGrant Andersonon the 15-day injured list. Right biceps inflammation.",
+      "player": "Grant Anderson"
+    },
+    {
+      "date": "2026-09-07",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesoptioned SSRyan Ritterto Albuquerque Isotopes.",
+      "player": "Ryan Ritter"
+    },
+    {
+      "date": "2026-09-07",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPBrandon Sproatfrom Nashville Sounds.",
+      "player": "Brandon Sproat"
+    },
+    {
+      "date": "2026-09-07",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJonah Tongfrom Syracuse Mets.",
+      "player": "Jonah Tong"
+    },
     {
       "date": "2026-09-07",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPElmer Rodríguezto Scranton/Wilkes-Barre RailRiders.",
       "player": "Elmer Rodríguez"
+    },
+    {
+      "date": "2026-09-07",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJustin Hagenmanto Syracuse Mets.",
+      "player": "Justin Hagenman"
+    },
+    {
+      "date": "2026-09-07",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPGarrett Actonto St. Paul Saints.",
+      "player": "Garrett Acton"
     }
   ]
 }
