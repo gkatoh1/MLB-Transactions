@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T20:26:39.992444",
+  "last_updated": "2026-09-07T23:24:39.274945",
   "transactions": [
     {
       "date": "2026-09-07",
@@ -10,8 +10,14 @@
     {
       "date": "2026-09-07",
       "team": "San Diego Padres",
-      "details": "San Diego Padresactivated RHPNick Pivettafrom the 60-day injured list.",
-      "player": "Nick Pivetta"
+      "details": "San Diego Padresdesignated CBlake Huntfor assignment.",
+      "player": "Blake Hunt"
+    },
+    {
+      "date": "2026-09-07",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsplaced RHPOrlando Ribaltaon the 15-day injured list retroactive to September 4, 2026. Right forearm inflammation.",
+      "player": "Orlando Ribalta"
     },
     {
       "date": "2026-09-07",
@@ -27,39 +33,27 @@
     },
     {
       "date": "2026-09-07",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresdesignated CBlake Huntfor assignment.",
-      "player": "Blake Hunt"
-    },
-    {
-      "date": "2026-09-07",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesactivated 3BKyle Karrosfrom the 7-day injured list.",
       "player": "Kyle Karros"
     },
     {
       "date": "2026-09-07",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsplaced RHPOrlando Ribaltaon the 15-day injured list. Right forearm inflammation.",
-      "player": "Orlando Ribalta"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated 3BKe'Bryan Hayesfrom the 10-day injured list.",
+      "player": "Ke'Bryan Hayes"
     },
     {
       "date": "2026-09-07",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsoptioned RHPGarrett Actonto St. Paul Saints.",
-      "player": "Garrett Acton"
+      "team": "San Diego Padres",
+      "details": "San Diego Padresactivated RHPNick Pivettafrom the 60-day injured list.",
+      "player": "Nick Pivetta"
     },
     {
       "date": "2026-09-07",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersrecalled RHPBrandon Sproatfrom Nashville Sounds.",
-      "player": "Brandon Sproat"
-    },
-    {
-      "date": "2026-09-07",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPYovanny Cruzfrom Rochester Red Wings.",
-      "player": "Yovanny Cruz"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled LHPPhilip Abnerfrom Sacramento River Cats.",
+      "player": "Philip Abner"
     },
     {
       "date": "2026-09-07",
@@ -75,15 +69,45 @@
     },
     {
       "date": "2026-09-07",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned LHPChris Murphyto Charlotte Knights.",
-      "player": "Chris Murphy"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPBobby Millerto Oklahoma City Comets.",
+      "player": "Bobby Miller"
+    },
+    {
+      "date": "2026-09-07",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPYovanny Cruzfrom Rochester Red Wings.",
+      "player": "Yovanny Cruz"
     },
     {
       "date": "2026-09-07",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPElmer Rodríguezto Scranton/Wilkes-Barre RailRiders.",
       "player": "Elmer Rodríguez"
+    },
+    {
+      "date": "2026-09-07",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPEmmet Sheehanfrom Oklahoma City Comets.",
+      "player": "Emmet Sheehan"
+    },
+    {
+      "date": "2026-09-07",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPBraxton Roxbyto Sacramento River Cats.",
+      "player": "Braxton Roxby"
+    },
+    {
+      "date": "2026-09-07",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPChris Murphyto Charlotte Knights.",
+      "player": "Chris Murphy"
+    },
+    {
+      "date": "2026-09-07",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled RHPBrandon Sproatfrom Nashville Sounds.",
+      "player": "Brandon Sproat"
     },
     {
       "date": "2026-09-07",
@@ -96,6 +120,18 @@
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesoptioned SSRyan Ritterto Albuquerque Isotopes.",
       "player": "Ryan Ritter"
+    },
+    {
+      "date": "2026-09-07",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned 2BEdwin Arroyoto Louisville Bats.",
+      "player": "Edwin Arroyo"
+    },
+    {
+      "date": "2026-09-07",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsoptioned RHPGarrett Actonto St. Paul Saints.",
+      "player": "Garrett Acton"
     }
   ]
 }
