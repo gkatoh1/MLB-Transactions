@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-09-09T18:27:59.211923",
+  "last_updated": "2026-09-09T21:36:57.870641",
   "transactions": [
-    {
-      "date": "2026-09-09",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent LHPKyle Freelandon a rehab assignment to Hartford Yard Goats.",
-      "player": "Kyle Freeland"
-    },
     {
       "date": "2026-09-09",
       "team": "Los Angeles Dodgers",
@@ -15,9 +9,81 @@
     },
     {
       "date": "2026-09-09",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent RHPJosiah Grayon a rehab assignment to Rochester Red Wings.",
+      "player": "Josiah Gray"
+    },
+    {
+      "date": "2026-09-09",
+      "team": "New York Yankees",
+      "details": "New York Yankeessent RHPClarke Schmidton a rehab assignment to Somerset Patriots.",
+      "player": "Clarke Schmidt"
+    },
+    {
+      "date": "2026-09-09",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RHPTyler Davison the bereavement list.",
+      "player": "Tyler Davis"
+    },
+    {
+      "date": "2026-09-09",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RFAnthony Santanderon a rehab assignment to Buffalo Bisons.",
+      "player": "Anthony Santander"
+    },
+    {
+      "date": "2026-09-09",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPRob Zastryznyon a rehab assignment to Nashville Sounds.",
+      "player": "Rob Zastryzny"
+    },
+    {
+      "date": "2026-09-09",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated RHPZac Gallenfrom the 60-day injured list.",
+      "player": "Zac Gallen"
+    },
+    {
+      "date": "2026-09-09",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesplaced RHPBryce Elderon the 15-day injured list retroactive to September 6, 2026. Right knee surgery.",
       "player": "Bryce Elder"
+    },
+    {
+      "date": "2026-09-09",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksactivated RHPMichael Sorokafrom the 15-day injured list.",
+      "player": "Michael Soroka"
+    },
+    {
+      "date": "2026-09-09",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent RHPJames McArthuron a rehab assignment to Northwest Arkansas Naturals.",
+      "player": "James McArthur"
+    },
+    {
+      "date": "2026-09-09",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced 3BBlaze Alexanderon the 10-day injured list. Low back discomfort.",
+      "player": "Blaze Alexander"
+    },
+    {
+      "date": "2026-09-09",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent LHPJose Quintanaon a rehab assignment to Hartford Yard Goats.",
+      "player": "Jose Quintana"
+    },
+    {
+      "date": "2026-09-09",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent LHPKyle Freelandon a rehab assignment to Hartford Yard Goats.",
+      "player": "Kyle Freeland"
+    },
+    {
+      "date": "2026-09-09",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsactivated RHPPete Fairbanksfrom the 15-day injured list.",
+      "player": "Pete Fairbanks"
     },
     {
       "date": "2026-09-09",
@@ -28,14 +94,44 @@
     {
       "date": "2026-09-09",
       "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated LHPBailey Falter.",
+      "player": "Bailey Falter"
+    },
+    {
+      "date": "2026-09-09",
+      "team": "Atlanta Braves",
       "details": "Atlanta Bravesactivated RHPReynaldo Lópezfrom the 15-day injured list.",
       "player": "Reynaldo López"
     },
     {
       "date": "2026-09-09",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent LHPJose Quintanaon a rehab assignment to Hartford Yard Goats.",
-      "player": "Jose Quintana"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsrecalled RHPEddy Yeanfrom Rochester Red Wings.",
+      "player": "Eddy Yean"
+    },
+    {
+      "date": "2026-09-09",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned LHPBlake Walstonto Reno Aces.",
+      "player": "Blake Walston"
+    },
+    {
+      "date": "2026-09-09",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsoptioned RHPBradley Blalockto Jacksonville Jumbo Shrimp.",
+      "player": "Bradley Blalock"
+    },
+    {
+      "date": "2026-09-09",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPChris Murphyfrom Charlotte Knights.",
+      "player": "Chris Murphy"
+    },
+    {
+      "date": "2026-09-09",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled 2BJeremiah Jacksonfrom Norfolk Tides.",
+      "player": "Jeremiah Jackson"
     },
     {
       "date": "2026-09-09",
@@ -51,9 +147,9 @@
     },
     {
       "date": "2026-09-09",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsrecalled RHPEddy Yeanfrom Rochester Red Wings.",
-      "player": "Eddy Yean"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksoptioned RHPKade Strowdto Reno Aces.",
+      "player": "Kade Strowd"
     }
   ]
 }
