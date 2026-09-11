@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T16:19:40.815856",
+  "last_updated": "2026-09-11T19:31:43.739168",
   "transactions": [
     {
       "date": "2026-09-11",
@@ -9,15 +9,27 @@
     },
     {
       "date": "2026-09-11",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysdesignated RFJesús Sánchezfor assignment.",
+      "player": "Jesús Sánchez"
+    },
+    {
+      "date": "2026-09-11",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesplaced LFLane Thomason the 10-day injured list retroactive to September 8, 2026. Strained left intercostal muscle.",
       "player": "Lane Thomas"
     },
     {
       "date": "2026-09-11",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RFJasson Domínguezto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Jasson Domínguez"
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPChris Devenskifor assignment.",
+      "player": "Chris Devenski"
+    },
+    {
+      "date": "2026-09-11",
+      "team": "Seattle Mariners",
+      "details": "Seattle Marinerssent CFStuart Fairchildoutright to Tacoma Rainiers.",
+      "player": "Stuart Fairchild"
     },
     {
       "date": "2026-09-11",
@@ -36,6 +48,36 @@
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesoptioned 2BRonny Simonto Indianapolis Indians.",
       "player": "Ronny Simon"
+    },
+    {
+      "date": "2026-09-11",
+      "team": "Athletics",
+      "details": "Athleticsclaimed RHPHunter Biggeoff waivers fromTampa Bay Rays.",
+      "player": "Hunter Bigge"
+    },
+    {
+      "date": "2026-09-11",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled 2BAnthony Seiglerfrom Worcester Red Sox.",
+      "player": "Anthony Seigler"
+    },
+    {
+      "date": "2026-09-11",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RFJasson Domínguezto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Jasson Domínguez"
+    },
+    {
+      "date": "2026-09-11",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJack Weisenburgerfrom Syracuse Mets.",
+      "player": "Jack Weisenburger"
+    },
+    {
+      "date": "2026-09-11",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysselected the contract of RFRudy Martin Jr.from Buffalo Bisons.",
+      "player": "Rudy Martin Jr."
     }
   ]
 }
