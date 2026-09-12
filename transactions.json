@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T16:09:10.907218",
+  "last_updated": "2026-09-12T19:07:06.268371",
   "transactions": [
     {
       "date": "2026-09-12",
@@ -9,15 +9,45 @@
     },
     {
       "date": "2026-09-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPEdward Cabrerafrom the 15-day injured list.",
+      "player": "Edward Cabrera"
+    },
+    {
+      "date": "2026-09-12",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsplaced RHPTrent Thorntonon the 15-day injured list. Left ankle sprain.",
+      "player": "Trent Thornton"
+    },
+    {
+      "date": "2026-09-12",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated LHPRichard Loveladyfrom the 60-day injured list.",
+      "player": "Richard Lovelady"
+    },
+    {
+      "date": "2026-09-12",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesplaced RFEsmerlyn Valdezon the 10-day injured list. Left hamstring strain.",
+      "player": "Esmerlyn Valdez"
+    },
+    {
+      "date": "2026-09-12",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysselected the contract of RHPBrody Hopkinsfrom Durham Bulls.",
+      "player": "Brody Hopkins"
+    },
+    {
+      "date": "2026-09-12",
       "team": "Minnesota Twins",
       "details": "Minnesota Twinsoptioned SSBen Rossto St. Paul Saints.",
       "player": "Ben Ross"
     },
     {
       "date": "2026-09-12",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsrecalled CFEmmanuel Rodriguezfrom St. Paul Saints.",
-      "player": "Emmanuel Rodriguez"
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled 2BRonny Simonfrom Indianapolis Indians.",
+      "player": "Ronny Simon"
     },
     {
       "date": "2026-09-12",
@@ -27,9 +57,21 @@
     },
     {
       "date": "2026-09-12",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPAlex Cookto Durham Bulls.",
+      "player": "Alex Cook"
+    },
+    {
+      "date": "2026-09-12",
       "team": "Detroit Tigers",
       "details": "Detroit Tigersrecalled LHPAndrew Searsfrom Toledo Mud Hens.",
       "player": "Andrew Sears"
+    },
+    {
+      "date": "2026-09-12",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsrecalled CFEmmanuel Rodriguezfrom St. Paul Saints.",
+      "player": "Emmanuel Rodriguez"
     }
   ]
 }
