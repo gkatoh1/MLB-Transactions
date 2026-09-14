@@ -1,11 +1,29 @@
 {
-  "last_updated": "2026-09-14T19:12:48.970821",
+  "last_updated": "2026-09-14T23:02:47.824492",
   "transactions": [
+    {
+      "date": "2026-09-14",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RFRudy Martin Jr.on the 10-day injured list retroactive to September 13, 2026. Left hamstring strain.",
+      "player": "Rudy Martin Jr."
+    },
     {
       "date": "2026-09-14",
       "team": "San Diego Padres",
       "details": "San Diego Padresactivated 1BTy Francefrom the paternity list.",
       "player": "Ty France"
+    },
+    {
+      "date": "2026-09-14",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPKeider Monterofrom the paternity list.",
+      "player": "Keider Montero"
+    },
+    {
+      "date": "2026-09-14",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced RHPEdgardo Henriquezon the 15-day injured list. Lower back discomfort.",
+      "player": "Edgardo Henriquez"
     },
     {
       "date": "2026-09-14",
@@ -15,9 +33,21 @@
     },
     {
       "date": "2026-09-14",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsoptioned RHPEaston McGeeto Omaha Storm Chasers.",
-      "player": "Easton McGee"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPBobby Millerfrom Oklahoma City Comets.",
+      "player": "Bobby Miller"
+    },
+    {
+      "date": "2026-09-14",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LHPBrendan Celluccifrom Buffalo Bisons.",
+      "player": "Brendan Cellucci"
+    },
+    {
+      "date": "2026-09-14",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned RHPYilber Díazto Toledo Mud Hens.",
+      "player": "Yilber Díaz"
     },
     {
       "date": "2026-09-14",
@@ -27,15 +57,63 @@
     },
     {
       "date": "2026-09-14",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresoptioned 2BMason McCoyto El Paso Chihuahuas.",
-      "player": "Mason McCoy"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPEmmet Sheehanto Oklahoma City Comets.",
+      "player": "Emmet Sheehan"
+    },
+    {
+      "date": "2026-09-14",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled LFDavis Schneiderfrom Buffalo Bisons.",
+      "player": "Davis Schneider"
+    },
+    {
+      "date": "2026-09-14",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPPaul Gervasefrom Oklahoma City Comets.",
+      "player": "Paul Gervase"
+    },
+    {
+      "date": "2026-09-14",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsoptioned RHPEaston McGeeto Omaha Storm Chasers.",
+      "player": "Easton McGee"
+    },
+    {
+      "date": "2026-09-14",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPCodi Heuerfrom Norfolk Tides.",
+      "player": "Codi Heuer"
+    },
+    {
+      "date": "2026-09-14",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned LHPRicky Tiedemannto Buffalo Bisons.",
+      "player": "Ricky Tiedemann"
+    },
+    {
+      "date": "2026-09-14",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksclaimed RFJesús Sánchezoff waivers fromToronto Blue Jays.",
+      "player": "Jesús Sánchez"
     },
     {
       "date": "2026-09-14",
       "team": "Kansas City Royals",
       "details": "Kansas City Royalsrecalled RHPLucas Ercegfrom Omaha Storm Chasers.",
       "player": "Lucas Erceg"
+    },
+    {
+      "date": "2026-09-14",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPYaramil Hiraldoto Norfolk Tides.",
+      "player": "Yaramil Hiraldo"
+    },
+    {
+      "date": "2026-09-14",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresoptioned 2BMason McCoyto El Paso Chihuahuas.",
+      "player": "Mason McCoy"
     }
   ]
 }
