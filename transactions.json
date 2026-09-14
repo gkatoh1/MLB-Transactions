@@ -1,65 +1,11 @@
 {
-  "last_updated": "2026-09-13T22:18:20.679475",
+  "last_updated": "2026-09-14T00:53:41.885018",
   "transactions": [
-    {
-      "date": "2026-09-13",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksdesignated LFLourdes Gurriel Jr.for assignment.",
-      "player": "Lourdes Gurriel Jr."
-    },
-    {
-      "date": "2026-09-13",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsactivated 2BNasim Nuñezfrom the bereavement list.",
-      "player": "Nasim Nuñez"
-    },
-    {
-      "date": "2026-09-13",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiessent LHPJose Quintanaon a rehab assignment to Albuquerque Isotopes.",
-      "player": "Jose Quintana"
-    },
-    {
-      "date": "2026-09-13",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalssent LHPConnelly Earlyon a rehab assignment to Harrisburg Senators.",
-      "player": "Connelly Early"
-    },
-    {
-      "date": "2026-09-13",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessigned free agent RHPElieser Hernándezto a minor league contract.",
-      "player": "Elieser Hernández"
-    },
-    {
-      "date": "2026-09-13",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesdesignated SSChristian Cairofor assignment.",
-      "player": "Christian Cairo"
-    },
-    {
-      "date": "2026-09-13",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesplaced RHPKyle Bradishon the 15-day injured list. Lower abdominal discomfort.",
-      "player": "Kyle Bradish"
-    },
-    {
-      "date": "2026-09-13",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Rayssent RHPManuel Rodríguezon a rehab assignment to Durham Bulls.",
-      "player": "Manuel Rodríguez"
-    },
     {
       "date": "2026-09-13",
       "team": "Baltimore Orioles",
       "details": "Baltimore Oriolessent CFChristian Franklinon a rehab assignment to Norfolk Tides.",
       "player": "Christian Franklin"
-    },
-    {
-      "date": "2026-09-13",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced 2BAnthony Seigleron the 10-day injured list. Right wrist inflammation.",
-      "player": "Anthony Seigler"
     },
     {
       "date": "2026-09-13",
@@ -69,9 +15,27 @@
     },
     {
       "date": "2026-09-13",
-      "team": "Miami Marlins",
-      "details": "Miami Marlinsplaced RFOwen Caissieon the 10-day injured list. Lumbar stress reaction.",
-      "player": "Owen Caissie"
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent 1BNolan Schanuelon a rehab assignment to Salt Lake Bees.",
+      "player": "Nolan Schanuel"
+    },
+    {
+      "date": "2026-09-13",
+      "team": "Los Angeles Angels",
+      "details": "Los Angeles Angelssent RHPSam Bachmanon a rehab assignment to Salt Lake Bees.",
+      "player": "Sam Bachman"
+    },
+    {
+      "date": "2026-09-13",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesplaced RHPKyle Bradishon the 15-day injured list. Lower abdominal discomfort.",
+      "player": "Kyle Bradish"
+    },
+    {
+      "date": "2026-09-13",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxplaced 2BAnthony Seigleron the 10-day injured list. Right wrist inflammation.",
+      "player": "Anthony Seigler"
     },
     {
       "date": "2026-09-13",
@@ -81,15 +45,93 @@
     },
     {
       "date": "2026-09-13",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxactivated 1BWillson Contrerasfrom the 10-day injured list.",
-      "player": "Willson Contreras"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated 2BNasim Nuñezfrom the bereavement list.",
+      "player": "Nasim Nuñez"
+    },
+    {
+      "date": "2026-09-13",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksdesignated LFLourdes Gurriel Jr.for assignment.",
+      "player": "Lourdes Gurriel Jr."
+    },
+    {
+      "date": "2026-09-13",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent LHPConnelly Earlyon a rehab assignment to Harrisburg Senators.",
+      "player": "Connelly Early"
+    },
+    {
+      "date": "2026-09-13",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent LHPJose Quintanaon a rehab assignment to Albuquerque Isotopes.",
+      "player": "Jose Quintana"
+    },
+    {
+      "date": "2026-09-13",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent RHPManuel Rodríguezon a rehab assignment to Durham Bulls.",
+      "player": "Manuel Rodríguez"
     },
     {
       "date": "2026-09-13",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesactivated LHPTanner Banksfrom the 60-day injured list.",
       "player": "Tanner Banks"
+    },
+    {
+      "date": "2026-09-13",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesdesignated SSChristian Cairofor assignment.",
+      "player": "Christian Cairo"
+    },
+    {
+      "date": "2026-09-13",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessigned free agent RHPElieser Hernándezto a minor league contract.",
+      "player": "Elieser Hernández"
+    },
+    {
+      "date": "2026-09-13",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated 1BWillson Contrerasfrom the 10-day injured list.",
+      "player": "Willson Contreras"
+    },
+    {
+      "date": "2026-09-13",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsplaced RFOwen Caissieon the 10-day injured list. Lumbar stress reaction.",
+      "player": "Owen Caissie"
+    },
+    {
+      "date": "2026-09-13",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled DHJose Fernandezfrom Reno Aces.",
+      "player": "Jose Fernandez"
+    },
+    {
+      "date": "2026-09-13",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned RHPEddy Yeanto Rochester Red Wings.",
+      "player": "Eddy Yean"
+    },
+    {
+      "date": "2026-09-13",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesoptioned RHPGrant Holmanto Lehigh Valley IronPigs.",
+      "player": "Grant Holman"
+    },
+    {
+      "date": "2026-09-13",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPChris Devenskioutright to Syracuse Mets.",
+      "player": "Chris Devenski"
+    },
+    {
+      "date": "2026-09-13",
+      "team": "Athletics",
+      "details": "Athleticssent RHPTaylor Rashioutright to Las Vegas Aviators.",
+      "player": "Taylor Rashi"
     },
     {
       "date": "2026-09-13",
@@ -112,6 +154,18 @@
     {
       "date": "2026-09-13",
       "team": "Athletics",
+      "details": "Athleticsoptioned RHPJoey Estesto Las Vegas Aviators.",
+      "player": "Joey Estes"
+    },
+    {
+      "date": "2026-09-13",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansoptioned RHPFranco Alemanto Columbus Clippers.",
+      "player": "Franco Aleman"
+    },
+    {
+      "date": "2026-09-13",
+      "team": "Athletics",
       "details": "Athleticsrecalled LHPDrew Romfrom Las Vegas Aviators.",
       "player": "Drew Rom"
     },
@@ -123,39 +177,9 @@
     },
     {
       "date": "2026-09-13",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbacksrecalled DHJose Fernandezfrom Reno Aces.",
-      "player": "Jose Fernandez"
-    },
-    {
-      "date": "2026-09-13",
-      "team": "Athletics",
-      "details": "Athleticsoptioned RHPJoey Estesto Las Vegas Aviators.",
-      "player": "Joey Estes"
-    },
-    {
-      "date": "2026-09-13",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesoptioned RHPGrant Holmanto Lehigh Valley IronPigs.",
-      "player": "Grant Holman"
-    },
-    {
-      "date": "2026-09-13",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardiansselected the contract of RHPConnor Brogdonfrom Columbus Clippers.",
       "player": "Connor Brogdon"
-    },
-    {
-      "date": "2026-09-13",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansoptioned RHPFranco Alemanto Columbus Clippers.",
-      "player": "Franco Aleman"
-    },
-    {
-      "date": "2026-09-13",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsoptioned RHPEddy Yeanto Rochester Red Wings.",
-      "player": "Eddy Yean"
     }
   ]
 }
