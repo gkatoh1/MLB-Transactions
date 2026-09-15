@@ -1,6 +1,78 @@
 {
-  "last_updated": "2026-09-15T18:51:24.846319",
+  "last_updated": "2026-09-15T22:03:33.315750",
   "transactions": [
+    {
+      "date": "2026-09-15",
+      "team": "New York Mets",
+      "details": "New York Metssent LHPCionel Pérezon a rehab assignment to Syracuse Mets.",
+      "player": "Cionel Pérez"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "DHChristian Yelichchanged number to 21.",
+      "player": "Christian Yelich"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "LHPRaymond Burgoschanged number to 21.",
+      "player": "Raymond Burgos"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "LFBryan Torreschanged number to 21.",
+      "player": "Bryan Torres"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesplaced LHPJesús Luzardoon the 15-day injured list retroactive to September 12, 2026. Left shoulder inflammation.",
+      "player": "Jesús Luzardo"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "1BAndrew Vaughnchanged number to 21.",
+      "player": "Andrew Vaughn"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "RHPAbner Uribechanged number to 21.",
+      "player": "Abner Uribe"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "RFKyle Tuckerchanged number to 21.",
+      "player": "Kyle Tucker"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "SSMookie Bettschanged number to 21.",
+      "player": "Mookie Betts"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "SSJeremy Peñachanged number to 21.",
+      "player": "Jeremy Peña"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "CFCedric Mullinschanged number to 21.",
+      "player": "Cedric Mullins"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated 3BMaikel Garciafrom the 10-day injured list.",
+      "player": "Maikel Garcia"
+    },
     {
       "date": "2026-09-15",
       "team": "Tampa Bay Rays",
@@ -9,9 +81,57 @@
     },
     {
       "date": "2026-09-15",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsactivated LFBryan Torres.",
-      "player": "Bryan Torres"
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesactivated LHPKyle Freelandfrom the 15-day injured list.",
+      "player": "Kyle Freeland"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPTanner Houckon a rehab assignment to Worcester Red Sox.",
+      "player": "Tanner Houck"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jayssent RHPTrey Yesavageon a rehab assignment to Buffalo Bisons.",
+      "player": "Trey Yesavage"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "CChristian Vázquezchanged number to 21.",
+      "player": "Christian Vázquez"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced RHPReynaldo Lópezon the 15-day injured list. Right shoulder inflammation.",
+      "player": "Reynaldo López"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "RFLuis Larachanged number to 21.",
+      "player": "Luis Lara"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "3BZack Gelofchanged number to 21.",
+      "player": "Zack Gelof"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "RHPGarrett Whitlockchanged number to 21.",
+      "player": "Garrett Whitlock"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "LHPTarik Skubalchanged number to 21.",
+      "player": "Tarik Skubal"
     },
     {
       "date": "2026-09-15",
@@ -21,21 +141,51 @@
     },
     {
       "date": "2026-09-15",
+      "team": "Athletics",
+      "details": "Athleticsplaced LHPGage Jumpon the 15-day injured list retroactive to September 13, 2026. Left shoulder impingement.",
+      "player": "Gage Jump"
+    },
+    {
+      "date": "2026-09-15",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxactivated RHPTyler Davisfrom the bereavement list.",
       "player": "Tyler Davis"
     },
     {
       "date": "2026-09-15",
-      "team": "St. Louis Cardinals",
-      "details": "St. Louis Cardinalsactivated RFJordan Walker.",
-      "player": "Jordan Walker"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent RHPBryse Wilsonon a rehab assignment to Nashville Sounds.",
+      "player": "Bryse Wilson"
     },
     {
       "date": "2026-09-15",
-      "team": "New York Mets",
-      "details": "New York Metssent LHPCionel Pérezon a rehab assignment to Syracuse Mets.",
-      "player": "Cionel Pérez"
+      "team": "Unknown Team",
+      "details": "LFNelson Velázquezchanged number to 21.",
+      "player": "Nelson Velázquez"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "RFSal Frelickchanged number to 21.",
+      "player": "Sal Frelick"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "RFCarlos Corteschanged number to 21.",
+      "player": "Carlos Cortes"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RFJake Fraleyfrom the 60-day injured list.",
+      "player": "Jake Fraley"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "CWilliam Contreraschanged number to 21.",
+      "player": "William Contreras"
     },
     {
       "date": "2026-09-15",
@@ -45,33 +195,111 @@
     },
     {
       "date": "2026-09-15",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled LHPNoah Schultzfrom Charlotte Knights.",
-      "player": "Noah Schultz"
+      "team": "Unknown Team",
+      "details": "3BEnrique Hernándezchanged number to 21.",
+      "player": "Enrique Hernández"
     },
     {
       "date": "2026-09-15",
-      "team": "Athletics",
-      "details": "Athleticsrecalled LHPJoe Rockfrom Las Vegas Aviators.",
-      "player": "Joe Rock"
+      "team": "Unknown Team",
+      "details": "RHPFreddy Peraltachanged number to 21.",
+      "player": "Freddy Peralta"
     },
     {
       "date": "2026-09-15",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned RHPTyler Davisto Charlotte Knights.",
-      "player": "Tyler Davis"
+      "team": "Unknown Team",
+      "details": "LHPJovani Moránchanged number to 21.",
+      "player": "Jovani Morán"
     },
     {
       "date": "2026-09-15",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned SSChristian Cairoto Syracuse Mets.",
-      "player": "Christian Cairo"
+      "team": "Unknown Team",
+      "details": "CGary Sánchezchanged number to 21.",
+      "player": "Gary Sánchez"
     },
     {
       "date": "2026-09-15",
-      "team": "New York Mets",
-      "details": "New York Metsclaimed SSChristian Cairooff waivers fromPhiladelphia Phillies.",
-      "player": "Christian Cairo"
+      "team": "Washington Nationals",
+      "details": "Washington Nationalssent LHPConnelly Earlyon a rehab assignment to Rochester Red Wings.",
+      "player": "Connelly Early"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalssent RHPJames McArthuron a rehab assignment to Omaha Storm Chasers.",
+      "player": "James McArthur"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPTanner Houckon a rehab assignment to Worcester Red Sox.",
+      "player": "Tanner Houck"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Texas Rangers",
+      "details": "Texas Rangerssent CFMichael Helmanon a rehab assignment to Round Rock Express.",
+      "player": "Michael Helman"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced LFTaylor Trammellon the paternity list.",
+      "player": "Taylor Trammell"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "CHenry Davischanged number to 21.",
+      "player": "Henry Davis"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "LHPBrandon Eisertchanged number to 21.",
+      "player": "Brandon Eisert"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "SSKonnor Griffinchanged number to 21.",
+      "player": "Konnor Griffin"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "2BRonny Simonchanged number to 21.",
+      "player": "Ronny Simon"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "RHPKhristian Curtischanged number to 21.",
+      "player": "Khristian Curtis"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "RFRyan O'Hearnchanged number to 21.",
+      "player": "Ryan O'Hearn"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "RHPCamilo Dovalchanged number to 21.",
+      "player": "Camilo Doval"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "LHPGregory Sotochanged number to 21.",
+      "player": "Gregory Soto"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Unknown Team",
+      "details": "RHPAntwone Kellychanged number to 21.",
+      "player": "Antwone Kelly"
     }
   ]
 }
