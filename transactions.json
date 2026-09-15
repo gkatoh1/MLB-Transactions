@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-15T14:51:30.924666",
+  "last_updated": "2026-09-15T18:51:24.846319",
   "transactions": [
+    {
+      "date": "2026-09-15",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Rayssent 2BBen Williamsonon a rehab assignment to Durham Bulls.",
+      "player": "Ben Williamson"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated LFBryan Torres.",
+      "player": "Bryan Torres"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxdesignated RHPJosé Urquidyfor assignment.",
+      "player": "José Urquidy"
+    },
     {
       "date": "2026-09-15",
       "team": "Chicago White Sox",
@@ -9,9 +27,51 @@
     },
     {
       "date": "2026-09-15",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated RFJordan Walker.",
+      "player": "Jordan Walker"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "New York Mets",
+      "details": "New York Metssent LHPCionel Pérezon a rehab assignment to Syracuse Mets.",
+      "player": "Cionel Pérez"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RHPJoe Jiménezon a rehab assignment to Gwinnett Stripers.",
+      "player": "Joe Jiménez"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled LHPNoah Schultzfrom Charlotte Knights.",
+      "player": "Noah Schultz"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "Athletics",
+      "details": "Athleticsrecalled LHPJoe Rockfrom Las Vegas Aviators.",
+      "player": "Joe Rock"
+    },
+    {
+      "date": "2026-09-15",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxoptioned RHPTyler Davisto Charlotte Knights.",
       "player": "Tyler Davis"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned SSChristian Cairoto Syracuse Mets.",
+      "player": "Christian Cairo"
+    },
+    {
+      "date": "2026-09-15",
+      "team": "New York Mets",
+      "details": "New York Metsclaimed SSChristian Cairooff waivers fromPhiladelphia Phillies.",
+      "player": "Christian Cairo"
     }
   ]
 }
