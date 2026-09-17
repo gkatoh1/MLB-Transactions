@@ -1,4 +1,35 @@
 {
-  "last_updated": "2026-09-17T13:19:38.168629",
-  "transactions": []
+  "last_updated": "2026-09-17T18:06:23.562204",
+  "transactions": [
+    {
+      "date": "2026-09-17",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated SSTaylor Wallsfrom the 10-day injured list.",
+      "player": "Taylor Walls"
+    },
+    {
+      "date": "2026-09-17",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxsent RHPJohan Oviedoon a rehab assignment to Worcester Red Sox.",
+      "player": "Johan Oviedo"
+    },
+    {
+      "date": "2026-09-17",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPLandon Knackfrom Oklahoma City Comets.",
+      "player": "Landon Knack"
+    },
+    {
+      "date": "2026-09-17",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned 3BNick Madrigalto Durham Bulls.",
+      "player": "Nick Madrigal"
+    },
+    {
+      "date": "2026-09-17",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPBobby Millerto Oklahoma City Comets.",
+      "player": "Bobby Miller"
+    }
+  ]
 }
