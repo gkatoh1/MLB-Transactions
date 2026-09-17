@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-09-17T18:06:23.562204",
+  "last_updated": "2026-09-17T22:01:58.842271",
   "transactions": [
     {
       "date": "2026-09-17",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated SSTaylor Wallsfrom the 10-day injured list.",
-      "player": "Taylor Walls"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardianssent RHPColin Holdermanon a rehab assignment to Columbus Clippers.",
+      "player": "Colin Holderman"
+    },
+    {
+      "date": "2026-09-17",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsactivated RHPJosiah Grayfrom the 60-day injured list.",
+      "player": "Josiah Gray"
     },
     {
       "date": "2026-09-17",
@@ -15,9 +21,45 @@
     },
     {
       "date": "2026-09-17",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled RHPLandon Knackfrom Oklahoma City Comets.",
-      "player": "Landon Knack"
+      "team": "Houston Astros",
+      "details": "Houston Astrosactivated LFTaylor Trammellfrom the paternity list.",
+      "player": "Taylor Trammell"
+    },
+    {
+      "date": "2026-09-17",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated LHPRob Zastryznyfor assignment.",
+      "player": "Rob Zastryzny"
+    },
+    {
+      "date": "2026-09-17",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalssent RFEverson Pereiraon a rehab assignment to Memphis Redbirds.",
+      "player": "Everson Pereira"
+    },
+    {
+      "date": "2026-09-17",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated SSTaylor Wallsfrom the 10-day injured list.",
+      "player": "Taylor Walls"
+    },
+    {
+      "date": "2026-09-17",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsreleased RHPWyatt Mills.",
+      "player": "Wyatt Mills"
+    },
+    {
+      "date": "2026-09-17",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliestransferred RHPCaleb Kilianfrom the 15-day injured list to the 60-day injured list. Left oblique strain.",
+      "player": "Caleb Kilian"
+    },
+    {
+      "date": "2026-09-17",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPXzavion Curryto Syracuse Mets.",
+      "player": "Xzavion Curry"
     },
     {
       "date": "2026-09-17",
@@ -30,6 +72,36 @@
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersoptioned RHPBobby Millerto Oklahoma City Comets.",
       "player": "Bobby Miller"
+    },
+    {
+      "date": "2026-09-17",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPLandon Knackfrom Oklahoma City Comets.",
+      "player": "Landon Knack"
+    },
+    {
+      "date": "2026-09-17",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsoptioned LFAndrew Pinckneyto Rochester Red Wings.",
+      "player": "Andrew Pinckney"
+    },
+    {
+      "date": "2026-09-17",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPCameron Westonfrom Syracuse Mets.",
+      "player": "Cameron Weston"
+    },
+    {
+      "date": "2026-09-17",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned LFJoey Loperfidoto Sugar Land Space Cowboys.",
+      "player": "Joey Loperfido"
+    },
+    {
+      "date": "2026-09-17",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesclaimed RHPJosé Urquidyoff waivers fromChicago White Sox.",
+      "player": "José Urquidy"
     }
   ]
 }
