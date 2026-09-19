@@ -1,11 +1,29 @@
 {
-  "last_updated": "2026-09-19T13:50:19.015493",
+  "last_updated": "2026-09-19T17:08:12.673383",
   "transactions": [
     {
       "date": "2026-09-19",
       "team": "Unknown Team",
       "details": "1BTrey Manciniretired.",
       "player": "Trey Mancini"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced RFAaron Judgeon the 10-day injured list retroactive to September 17, 2026. Right calf strain.",
+      "player": "Aaron Judge"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RHPRobert Suarezon a rehab assignment to Gwinnett Stripers.",
+      "player": "Robert Suarez"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled LFMax Schuemannfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Max Schuemann"
     }
   ]
 }
