@@ -1,12 +1,6 @@
 {
-  "last_updated": "2026-09-20T16:44:07.883260",
+  "last_updated": "2026-09-20T19:19:32.054485",
   "transactions": [
-    {
-      "date": "2026-09-20",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravessent RHPRobert Suarezon a rehab assignment to Gwinnett Stripers.",
-      "player": "Robert Suarez"
-    },
     {
       "date": "2026-09-20",
       "team": "Boston Red Sox",
@@ -15,15 +9,9 @@
     },
     {
       "date": "2026-09-20",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced RHPChase Burnson the 15-day injured list retroactive to September 19, 2026. Right groin strain.",
-      "player": "Chase Burns"
-    },
-    {
-      "date": "2026-09-20",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysactivated 2BBen Williamsonfrom the 10-day injured list.",
-      "player": "Ben Williamson"
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPRyan Thompsonon a rehab assignment to Reno Aces.",
+      "player": "Ryan Thompson"
     },
     {
       "date": "2026-09-20",
@@ -33,15 +21,57 @@
     },
     {
       "date": "2026-09-20",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubssent LHPRiley Martinon a rehab assignment to Iowa Cubs.",
+      "player": "Riley Martin"
+    },
+    {
+      "date": "2026-09-20",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxactivated RHPHuascar Brazobánfrom the 15-day injured list.",
       "player": "Huascar Brazobán"
     },
     {
       "date": "2026-09-20",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent RHPRobert Suarezon a rehab assignment to Gwinnett Stripers.",
+      "player": "Robert Suarez"
+    },
+    {
+      "date": "2026-09-20",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced LHPTarik Skubalon the bereavement list.",
+      "player": "Tarik Skubal"
+    },
+    {
+      "date": "2026-09-20",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsdesignated CFTJ Friedlfor assignment.",
       "player": "TJ Friedl"
+    },
+    {
+      "date": "2026-09-20",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced RHPChase Burnson the 15-day injured list retroactive to September 19, 2026. Right groin strain.",
+      "player": "Chase Burns"
+    },
+    {
+      "date": "2026-09-20",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced RHPCal Quantrillon the 15-day injured list. Right lat strain.",
+      "player": "Cal Quantrill"
+    },
+    {
+      "date": "2026-09-20",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated 2BBen Williamsonfrom the 10-day injured list.",
+      "player": "Ben Williamson"
+    },
+    {
+      "date": "2026-09-20",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPSeth Halvorsento Oklahoma City Comets.",
+      "player": "Seth Halvorsen"
     },
     {
       "date": "2026-09-20",
@@ -57,9 +87,33 @@
     },
     {
       "date": "2026-09-20",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPWyatt Oldsto Worcester Red Sox.",
+      "player": "Wyatt Olds"
+    },
+    {
+      "date": "2026-09-20",
       "team": "Philadelphia Phillies",
       "details": "Philadelphia Philliesrecalled RHPMax Lazarfrom Lehigh Valley IronPigs.",
       "player": "Max Lazar"
+    },
+    {
+      "date": "2026-09-20",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPWinston Santosfrom Round Rock Express.",
+      "player": "Winston Santos"
+    },
+    {
+      "date": "2026-09-20",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPEmmet Sheehanfrom Oklahoma City Comets.",
+      "player": "Emmet Sheehan"
+    },
+    {
+      "date": "2026-09-20",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPKyle Hurtfrom Oklahoma City Comets.",
+      "player": "Kyle Hurt"
     },
     {
       "date": "2026-09-20",
@@ -69,9 +123,15 @@
     },
     {
       "date": "2026-09-20",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPWyatt Oldsto Worcester Red Sox.",
-      "player": "Wyatt Olds"
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPTristan Beckfrom Sacramento River Cats.",
+      "player": "Tristan Beck"
+    },
+    {
+      "date": "2026-09-20",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned LHPPhilip Abnerto Sacramento River Cats.",
+      "player": "Philip Abner"
     }
   ]
 }
