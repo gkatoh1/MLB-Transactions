@@ -1,53 +1,11 @@
 {
-  "last_updated": "2026-09-19T22:51:13.880004",
+  "last_updated": "2026-09-20T00:55:47.750199",
   "transactions": [
-    {
-      "date": "2026-09-19",
-      "team": "Houston Astros",
-      "details": "Houston Astrosdesignated CFJorge Barrosafor assignment.",
-      "player": "Jorge Barrosa"
-    },
-    {
-      "date": "2026-09-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolestransferred RFTyler O'Neillfrom the 10-day injured list to the 60-day injured list. Right shoulder inflammation.",
-      "player": "Tyler O'Neill"
-    },
     {
       "date": "2026-09-19",
       "team": "Houston Astros",
       "details": "Houston Astrossent RHPMike Burrowson a rehab assignment to Sugar Land Space Cowboys.",
       "player": "Mike Burrows"
-    },
-    {
-      "date": "2026-09-19",
-      "team": "New York Mets",
-      "details": "New York Metsactivated LHPCionel Pérezfrom the 15-day injured list.",
-      "player": "Cionel Pérez"
-    },
-    {
-      "date": "2026-09-19",
-      "team": "Colorado Rockies",
-      "details": "Colorado Rockiesdesignated SSVimael Machínfor assignment.",
-      "player": "Vimael Machín"
-    },
-    {
-      "date": "2026-09-19",
-      "team": "Unknown Team",
-      "details": "1BTrey Manciniretired.",
-      "player": "Trey Mancini"
-    },
-    {
-      "date": "2026-09-19",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced RFAaron Judgeon the 10-day injured list retroactive to September 17, 2026. Right calf strain.",
-      "player": "Aaron Judge"
-    },
-    {
-      "date": "2026-09-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated CFChristian Franklinfrom the 10-day injured list.",
-      "player": "Christian Franklin"
     },
     {
       "date": "2026-09-19",
@@ -57,27 +15,33 @@
     },
     {
       "date": "2026-09-19",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated 3BOswaldo Cabrera.",
-      "player": "Oswaldo Cabrera"
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced RHPEnyel De Los Santoson the 15-day injured list. Right knee tendinitis.",
+      "player": "Enyel De Los Santos"
     },
     {
       "date": "2026-09-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesactivated RHPFélix Bautistafrom the 60-day injured list.",
-      "player": "Félix Bautista"
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated CFJorge Barrosafor assignment.",
+      "player": "Jorge Barrosa"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced LHPReiver Sanmartinon the 15-day injured list retroactive to September 17, 2026. Right oblique strain.",
+      "player": "Reiver Sanmartin"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "New York Mets",
+      "details": "New York Metsactivated LHPCionel Pérezfrom the 15-day injured list.",
+      "player": "Cionel Pérez"
     },
     {
       "date": "2026-09-19",
       "team": "Texas Rangers",
       "details": "Texas Rangersplaced RHPMichel Otañezon the 15-day injured list retroactive to September 18, 2026. Viral illness.",
       "player": "Michel Otañez"
-    },
-    {
-      "date": "2026-09-19",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsplaced RHPCraig Kimbrelon the bereavement list.",
-      "player": "Craig Kimbrel"
     },
     {
       "date": "2026-09-19",
@@ -93,9 +57,117 @@
     },
     {
       "date": "2026-09-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated RHPFélix Bautistafrom the 60-day injured list.",
+      "player": "Félix Bautista"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestransferred RFTyler O'Neillfrom the 10-day injured list to the 60-day injured list. Right shoulder inflammation.",
+      "player": "Tyler O'Neill"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced RFAaron Judgeon the 10-day injured list retroactive to September 17, 2026. Right calf strain.",
+      "player": "Aaron Judge"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesactivated CFChristian Franklinfrom the 10-day injured list.",
+      "player": "Christian Franklin"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsactivated 3BOswaldo Cabrera.",
+      "player": "Oswaldo Cabrera"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiesdesignated SSVimael Machínfor assignment.",
+      "player": "Vimael Machín"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPCraig Kimbrelon the bereavement list.",
+      "player": "Craig Kimbrel"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated LHPSam Hentgesfrom the 15-day injured list.",
+      "player": "Sam Hentges"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "Unknown Team",
+      "details": "1BTrey Manciniretired.",
+      "player": "Trey Mancini"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled LFMax Schuemannfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Max Schuemann"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPCameron Westonto Syracuse Mets.",
+      "player": "Cameron Weston"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewerssent LHPRob Zastryznyoutright to Nashville Sounds.",
+      "player": "Rob Zastryzny"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned LHPCade Povichto Norfolk Tides.",
+      "player": "Cade Povich"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPZach McCambleyfrom Louisville Bats.",
+      "player": "Zach McCambley"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled RHPLogan VanWeyfrom Sugar Land Space Cowboys.",
+      "player": "Logan VanWey"
+    },
+    {
+      "date": "2026-09-19",
       "team": "Colorado Rockies",
       "details": "Colorado Rockiesoptioned RHPGabriel Hughesto Albuquerque Isotopes.",
       "player": "Gabriel Hughes"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsoptioned CFTJ Friedlto Louisville Bats.",
+      "player": "TJ Friedl"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPSpencer Bivensfrom Omaha Storm Chasers.",
+      "player": "Spencer Bivens"
+    },
+    {
+      "date": "2026-09-19",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled LHPAdam Mackofrom Round Rock Express.",
+      "player": "Adam Macko"
     },
     {
       "date": "2026-09-19",
@@ -106,56 +178,8 @@
     {
       "date": "2026-09-19",
       "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsoptioned CFTJ Friedlto Louisville Bats.",
-      "player": "TJ Friedl"
-    },
-    {
-      "date": "2026-09-19",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesoptioned LHPCade Povichto Norfolk Tides.",
-      "player": "Cade Povich"
-    },
-    {
-      "date": "2026-09-19",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewerssent LHPRob Zastryznyoutright to Nashville Sounds.",
-      "player": "Rob Zastryzny"
-    },
-    {
-      "date": "2026-09-19",
-      "team": "New York Mets",
-      "details": "New York Metsoptioned RHPCameron Westonto Syracuse Mets.",
-      "player": "Cameron Weston"
-    },
-    {
-      "date": "2026-09-19",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled LFMax Schuemannfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Max Schuemann"
-    },
-    {
-      "date": "2026-09-19",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersrecalled LHPAdam Mackofrom Round Rock Express.",
-      "player": "Adam Macko"
-    },
-    {
-      "date": "2026-09-19",
-      "team": "Cincinnati Reds",
       "details": "Cincinnati Redsoptioned RHPJulian Aguiarto Louisville Bats.",
       "player": "Julian Aguiar"
-    },
-    {
-      "date": "2026-09-19",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPSpencer Bivensfrom Omaha Storm Chasers.",
-      "player": "Spencer Bivens"
-    },
-    {
-      "date": "2026-09-19",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsrecalled RHPZach McCambleyfrom Louisville Bats.",
-      "player": "Zach McCambley"
     }
   ]
 }
