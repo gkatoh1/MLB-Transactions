@@ -1,17 +1,11 @@
 {
-  "last_updated": "2026-09-20T19:19:32.054485",
+  "last_updated": "2026-09-20T22:20:18.763201",
   "transactions": [
     {
       "date": "2026-09-20",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxactivated RHPTyron Guerrerofrom the 15-day injured list.",
       "player": "Tyron Guerrero"
-    },
-    {
-      "date": "2026-09-20",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent RHPRyan Thompsonon a rehab assignment to Reno Aces.",
-      "player": "Ryan Thompson"
     },
     {
       "date": "2026-09-20",
@@ -27,9 +21,15 @@
     },
     {
       "date": "2026-09-20",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated RHPHuascar Brazobánfrom the 15-day injured list.",
-      "player": "Huascar Brazobán"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsdesignated CFTJ Friedlfor assignment.",
+      "player": "TJ Friedl"
+    },
+    {
+      "date": "2026-09-20",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced RHPChase Burnson the 15-day injured list retroactive to September 19, 2026. Right groin strain.",
+      "player": "Chase Burns"
     },
     {
       "date": "2026-09-20",
@@ -45,15 +45,9 @@
     },
     {
       "date": "2026-09-20",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsdesignated CFTJ Friedlfor assignment.",
-      "player": "TJ Friedl"
-    },
-    {
-      "date": "2026-09-20",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsplaced RHPChase Burnson the 15-day injured list retroactive to September 19, 2026. Right groin strain.",
-      "player": "Chase Burns"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated RHPHuascar Brazobánfrom the 15-day injured list.",
+      "player": "Huascar Brazobán"
     },
     {
       "date": "2026-09-20",
@@ -69,27 +63,15 @@
     },
     {
       "date": "2026-09-20",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPRyan Thompsonon a rehab assignment to Reno Aces.",
+      "player": "Ryan Thompson"
+    },
+    {
+      "date": "2026-09-20",
       "team": "Los Angeles Dodgers",
       "details": "Los Angeles Dodgersoptioned RHPSeth Halvorsento Oklahoma City Comets.",
       "player": "Seth Halvorsen"
-    },
-    {
-      "date": "2026-09-20",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxoptioned LHPChris Murphyto Charlotte Knights.",
-      "player": "Chris Murphy"
-    },
-    {
-      "date": "2026-09-20",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsselected the contract of RHPCarson Spiersfrom Louisville Bats.",
-      "player": "Carson Spiers"
-    },
-    {
-      "date": "2026-09-20",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPWyatt Oldsto Worcester Red Sox.",
-      "player": "Wyatt Olds"
     },
     {
       "date": "2026-09-20",
@@ -105,15 +87,27 @@
     },
     {
       "date": "2026-09-20",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled RHPEmmet Sheehanfrom Oklahoma City Comets.",
-      "player": "Emmet Sheehan"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPWyatt Oldsto Worcester Red Sox.",
+      "player": "Wyatt Olds"
     },
     {
       "date": "2026-09-20",
-      "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersrecalled RHPKyle Hurtfrom Oklahoma City Comets.",
-      "player": "Kyle Hurt"
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsselected the contract of RHPCarson Spiersfrom Louisville Bats.",
+      "player": "Carson Spiers"
+    },
+    {
+      "date": "2026-09-20",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned LHPPhilip Abnerto Sacramento River Cats.",
+      "player": "Philip Abner"
+    },
+    {
+      "date": "2026-09-20",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxoptioned LHPChris Murphyto Charlotte Knights.",
+      "player": "Chris Murphy"
     },
     {
       "date": "2026-09-20",
@@ -129,9 +123,15 @@
     },
     {
       "date": "2026-09-20",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsoptioned LHPPhilip Abnerto Sacramento River Cats.",
-      "player": "Philip Abner"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPEmmet Sheehanfrom Oklahoma City Comets.",
+      "player": "Emmet Sheehan"
+    },
+    {
+      "date": "2026-09-20",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPKyle Hurtfrom Oklahoma City Comets.",
+      "player": "Kyle Hurt"
     }
   ]
 }
