@@ -1,4 +1,29 @@
 {
-  "last_updated": "2026-09-22T14:37:23.136379",
-  "transactions": []
+  "last_updated": "2026-09-22T18:42:40.197213",
+  "transactions": [
+    {
+      "date": "2026-09-22",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsplaced RHPTony Santillanon the 15-day injured list retroactive to September 19, 2026. Left hip labral tear.",
+      "player": "Tony Santillan"
+    },
+    {
+      "date": "2026-09-22",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RHPKirby Yatesfrom the 15-day injured list.",
+      "player": "Kirby Yates"
+    },
+    {
+      "date": "2026-09-22",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated RHPCamilo Dovalfor assignment.",
+      "player": "Camilo Doval"
+    },
+    {
+      "date": "2026-09-22",
+      "team": "Cincinnati Reds",
+      "details": "Cincinnati Redsrecalled RHPConnor Phillipsfrom Louisville Bats.",
+      "player": "Connor Phillips"
+    }
+  ]
 }
