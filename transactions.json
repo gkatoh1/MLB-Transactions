@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-09-23T20:07:42.616831",
+  "last_updated": "2026-09-23T23:33:25.558570",
   "transactions": [
+    {
+      "date": "2026-09-23",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysplaced RHPDylan Ceaseon the 15-day injured list retroactive to September 20, 2026. Right shoulder inflammation.",
+      "player": "Dylan Cease"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated LHPTarik Skubalfrom the bereavement list.",
+      "player": "Tarik Skubal"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced CFJake Meyerson the 60-day injured list.",
+      "player": "Jake Meyers"
+    },
     {
       "date": "2026-09-23",
       "team": "Atlanta Braves",
       "details": "Atlanta Bravesactivated RHPRobert Suarezfrom the 60-day injured list.",
       "player": "Robert Suarez"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated RHPXzavion Curryfor assignment.",
+      "player": "Xzavion Curry"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansdesignated RHPConnor Brogdonfor assignment.",
+      "player": "Connor Brogdon"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced RHPCristian Javieron the 15-day injured list.",
+      "player": "Cristian Javier"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansactivated RHPShawn Armstrongfrom the 60-day injured list.",
+      "player": "Shawn Armstrong"
     },
     {
       "date": "2026-09-23",
@@ -15,21 +57,21 @@
     },
     {
       "date": "2026-09-23",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersselected the contract of RHPLyon Richardsonfrom Nashville Sounds.",
-      "player": "Lyon Richardson"
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated TWPShohei Ohtanifrom the 15-day injured list.",
+      "player": "Shohei Ohtani"
     },
     {
       "date": "2026-09-23",
-      "team": "Milwaukee Brewers",
-      "details": "Milwaukee Brewersoptioned LHPColton Gordonto Nashville Sounds.",
-      "player": "Colton Gordon"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxactivated CFCeddanne Rafaelafrom the 10-day injured list.",
+      "player": "Ceddanne Rafaela"
     },
     {
       "date": "2026-09-23",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesoptioned RHPOwen Murphyto Gwinnett Stripers.",
-      "player": "Owen Murphy"
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysoptioned RHPAlex Cookto Durham Bulls.",
+      "player": "Alex Cook"
     },
     {
       "date": "2026-09-23",
@@ -39,15 +81,117 @@
     },
     {
       "date": "2026-09-23",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersselected the contract of RHPLyon Richardsonfrom Nashville Sounds.",
+      "player": "Lyon Richardson"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPWinston Santosto ACL Rangers.",
+      "player": "Winston Santos"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesoptioned RHPOwen Murphyto Gwinnett Stripers.",
+      "player": "Owen Murphy"
+    },
+    {
+      "date": "2026-09-23",
       "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolesrecalled LFHeston Kjerstadfrom Norfolk Tides.",
-      "player": "Heston Kjerstad"
+      "details": "Baltimore Oriolesoptioned LHPLuis De Leónto Norfolk Tides.",
+      "player": "Luis De León"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled RHPGavin Collyerfrom Round Rock Express.",
+      "player": "Gavin Collyer"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinssent CAlex Jacksonoutright to St. Paul Saints.",
+      "player": "Alex Jackson"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "New York Mets",
+      "details": "New York Metsclaimed LHPPhilip Abneroff waivers fromSan Francisco Giants.",
+      "player": "Philip Abner"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned DHJosue De Paulato Oklahoma City Comets.",
+      "player": "Josue De Paula"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysrecalled RHPMason Englertfrom Durham Bulls.",
+      "player": "Mason Englert"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPCJ Van Eykfrom Buffalo Bisons.",
+      "player": "CJ Van Eyk"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned RHPKyle Hurtto Oklahoma City Comets.",
+      "player": "Kyle Hurt"
     },
     {
       "date": "2026-09-23",
       "team": "Washington Nationals",
       "details": "Washington Nationalsoptioned LHPJackson Kentto Rochester Red Wings.",
       "player": "Jackson Kent"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersoptioned LHPColton Gordonto Nashville Sounds.",
+      "player": "Colton Gordon"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPChase Leefrom Buffalo Bisons.",
+      "player": "Chase Lee"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Houston Astros",
+      "details": "Houston Astrosselected the contract of LHPJosh Hendricksonfrom Sugar Land Space Cowboys.",
+      "player": "Josh Hendrickson"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LFNate Eatonto Worcester Red Sox.",
+      "player": "Nate Eaton"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPJosé Rodríguezto FCL Blue Jays.",
+      "player": "José Rodríguez"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled LFHeston Kjerstadfrom Norfolk Tides.",
+      "player": "Heston Kjerstad"
+    },
+    {
+      "date": "2026-09-23",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesrecalled RHPTrey Gibsonfrom Norfolk Tides.",
+      "player": "Trey Gibson"
     }
   ]
 }
