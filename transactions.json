@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T21:56:54.296395",
+  "last_updated": "2026-09-23T00:18:06.258010",
   "transactions": [
     {
       "date": "2026-09-22",
@@ -9,9 +9,57 @@
     },
     {
       "date": "2026-09-22",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersreleased LFRyan Ward.",
+      "player": "Ryan Ward"
+    },
+    {
+      "date": "2026-09-22",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbackssent RHPRyan Thompsonon a rehab assignment to Amarillo Sod Poodles.",
+      "player": "Ryan Thompson"
+    },
+    {
+      "date": "2026-09-22",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated CFMichael Helmanfrom the 60-day injured list.",
+      "player": "Michael Helman"
+    },
+    {
+      "date": "2026-09-22",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated 2BJazz Chisholm Jr.from the 10-day injured list.",
+      "player": "Jazz Chisholm Jr."
+    },
+    {
+      "date": "2026-09-22",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsplaced RHPBlade Tidwellon the 15-day injured list.",
+      "player": "Blade Tidwell"
+    },
+    {
+      "date": "2026-09-22",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesactivated RHPKirby Yatesfrom the 15-day injured list.",
+      "player": "Kirby Yates"
+    },
+    {
+      "date": "2026-09-22",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesdesignated RHPCamilo Dovalfor assignment.",
+      "player": "Camilo Doval"
+    },
+    {
+      "date": "2026-09-22",
       "team": "New York Mets",
       "details": "New York Metsactivated RHPDevin Williamsfrom the 15-day injured list.",
       "player": "Devin Williams"
+    },
+    {
+      "date": "2026-09-22",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersactivated RHPPeyton Grayfrom the 15-day injured list.",
+      "player": "Peyton Gray"
     },
     {
       "date": "2026-09-22",
@@ -21,9 +69,9 @@
     },
     {
       "date": "2026-09-22",
-      "team": "Arizona Diamondbacks",
-      "details": "Arizona Diamondbackssent RHPRyan Thompsonon a rehab assignment to Amarillo Sod Poodles.",
-      "player": "Ryan Thompson"
+      "team": "Athletics",
+      "details": "Athleticstransferred RHPJ.T. Ginnfrom the 15-day injured list to the 60-day injured list. Right elbow impingement.",
+      "player": "J.T. Ginn"
     },
     {
       "date": "2026-09-22",
@@ -34,38 +82,8 @@
     {
       "date": "2026-09-22",
       "team": "Texas Rangers",
-      "details": "Texas Rangersactivated RHPPeyton Grayfrom the 15-day injured list.",
-      "player": "Peyton Gray"
-    },
-    {
-      "date": "2026-09-22",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesactivated RHPKirby Yatesfrom the 15-day injured list.",
-      "player": "Kirby Yates"
-    },
-    {
-      "date": "2026-09-22",
-      "team": "Athletics",
-      "details": "Athleticsplaced 3BMax Muncyon the 10-day injured list. Left knee chondromalacia.",
-      "player": "Max Muncy"
-    },
-    {
-      "date": "2026-09-22",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesdesignated RHPCamilo Dovalfor assignment.",
-      "player": "Camilo Doval"
-    },
-    {
-      "date": "2026-09-22",
-      "team": "Athletics",
-      "details": "Athleticstransferred RHPJ.T. Ginnfrom the 15-day injured list to the 60-day injured list. Right elbow impingement.",
-      "player": "J.T. Ginn"
-    },
-    {
-      "date": "2026-09-22",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated 2BJazz Chisholm Jr.from the 10-day injured list.",
-      "player": "Jazz Chisholm Jr."
+      "details": "Texas Rangersplaced DHJoc Pedersonon the 10-day injured list retroactive to September 19, 2026. Left wrist fracture.",
+      "player": "Joc Pederson"
     },
     {
       "date": "2026-09-22",
@@ -75,21 +93,27 @@
     },
     {
       "date": "2026-09-22",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned LFMax Schuemannto Scranton/Wilkes-Barre RailRiders.",
-      "player": "Max Schuemann"
+      "team": "Texas Rangers",
+      "details": "Texas Rangerstransferred RHPCal Quantrillfrom the 15-day injured list to the 60-day injured list. Right lat strain.",
+      "player": "Cal Quantrill"
+    },
+    {
+      "date": "2026-09-22",
+      "team": "Athletics",
+      "details": "Athleticsplaced 3BMax Muncyon the 10-day injured list. Left knee chondromalacia.",
+      "player": "Max Muncy"
+    },
+    {
+      "date": "2026-09-22",
+      "team": "Colorado Rockies",
+      "details": "Colorado Rockiessent SSVimael Machínoutright to ACL Rockies.",
+      "player": "Vimael Machín"
     },
     {
       "date": "2026-09-22",
       "team": "Cincinnati Reds",
       "details": "Cincinnati Redsrecalled RHPConnor Phillipsfrom Louisville Bats.",
       "player": "Connor Phillips"
-    },
-    {
-      "date": "2026-09-22",
-      "team": "Texas Rangers",
-      "details": "Texas Rangersoptioned LHPAdam Mackoto ACL Rangers.",
-      "player": "Adam Macko"
     },
     {
       "date": "2026-09-22",
@@ -105,9 +129,27 @@
     },
     {
       "date": "2026-09-22",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled RHPBraxton Roxbyfrom Sacramento River Cats.",
+      "player": "Braxton Roxby"
+    },
+    {
+      "date": "2026-09-22",
       "team": "Houston Astros",
       "details": "Houston Astrossent CFJorge Barrosaoutright to Sugar Land Space Cowboys.",
       "player": "Jorge Barrosa"
+    },
+    {
+      "date": "2026-09-22",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned LFMax Schuemannto Scranton/Wilkes-Barre RailRiders.",
+      "player": "Max Schuemann"
+    },
+    {
+      "date": "2026-09-22",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned LHPAdam Mackoto ACL Rangers.",
+      "player": "Adam Macko"
     }
   ]
 }
