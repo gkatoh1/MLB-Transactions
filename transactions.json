@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-09-25T07:34:19.896402",
+  "last_updated": "2026-09-25T13:34:34.506853",
   "transactions": [
-    {
-      "date": "2026-09-25",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPBradley Hannerto FCL Yankees.",
-      "player": "Bradley Hanner"
-    },
     {
       "date": "2026-09-25",
       "team": "New York Yankees",
       "details": "New York Yankeesoptioned RHPLuis Gilto FCL Yankees.",
       "player": "Luis Gil"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPBradley Hannerto FCL Yankees.",
+      "player": "Bradley Hanner"
     }
   ]
 }
