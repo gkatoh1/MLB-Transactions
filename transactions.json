@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-09-25T18:26:50.185209",
+  "last_updated": "2026-09-25T22:10:51.240621",
   "transactions": [
     {
       "date": "2026-09-25",
-      "team": "Chicago Cubs",
-      "details": "RHPEdward Cabreraroster status changed byChicago Cubs.",
-      "player": "Edward Cabrera"
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersdesignated RHPLyon Richardsonfor assignment.",
+      "player": "Lyon Richardson"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersactivated CDalton Rushingfrom the 10-day injured list.",
+      "player": "Dalton Rushing"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksplaced RHPCorbin Burneson the 15-day injured list retroactive to September 22, 2026. Right shoulder inflammation.",
+      "player": "Corbin Burnes"
     },
     {
       "date": "2026-09-25",
@@ -15,9 +27,39 @@
     },
     {
       "date": "2026-09-25",
-      "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPBradley Hannerto FCL Yankees.",
-      "player": "Bradley Hanner"
+      "team": "Chicago Cubs",
+      "details": "RHPEdward Cabreraroster status changed byChicago Cubs.",
+      "player": "Edward Cabrera"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysdesignated RHPJake Woodfordfor assignment.",
+      "player": "Jake Woodford"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersplaced 1BAndrew Vaughnon the 10-day injured list retroactive to September 22, 2026. Illness.",
+      "player": "Andrew Vaughn"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysactivated RHPManuel Rodríguezfrom the 15-day injured list.",
+      "player": "Manuel Rodríguez"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RHPBryse Wilsonfrom the 15-day injured list.",
+      "player": "Bryse Wilson"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPJedixson Paezfrom Worcester Red Sox.",
+      "player": "Jedixson Paez"
     },
     {
       "date": "2026-09-25",
@@ -27,15 +69,87 @@
     },
     {
       "date": "2026-09-25",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPBrendan Beckfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Brendan Beck"
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsoptioned LHPCooper Hjerpeto Memphis Redbirds.",
+      "player": "Cooper Hjerpe"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned LHPRaymond Burgosto Worcester Red Sox.",
+      "player": "Raymond Burgos"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysoptioned RHPCJ Van Eykto FCL Blue Jays.",
+      "player": "CJ Van Eyk"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsrecalled RHPHancel Rinconfrom Memphis Redbirds.",
+      "player": "Hancel Rincon"
     },
     {
       "date": "2026-09-25",
       "team": "New York Yankees",
       "details": "New York Yankeesrecalled RHPYerry De los Santosfrom Scranton/Wilkes-Barre RailRiders.",
       "player": "Yerry De los Santos"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysrecalled RHPJohn Kleinfrom Buffalo Bisons.",
+      "player": "John Klein"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled RHPJose Cabrerafrom Reno Aces.",
+      "player": "Jose Cabrera"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPBradley Hannerto FCL Yankees.",
+      "player": "Bradley Hanner"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersoptioned 2BAlex Freelandto Oklahoma City Comets.",
+      "player": "Alex Freeland"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersrecalled LFBrandon Lockridgefrom Nashville Sounds.",
+      "player": "Brandon Lockridge"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPBrendan Beckfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Brendan Beck"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPJustin Hagenmanfrom Syracuse Mets.",
+      "player": "Justin Hagenman"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "New York Mets",
+      "details": "New York Metsoptioned RHPJack Weisenburgerto FCL Mets.",
+      "player": "Jack Weisenburger"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "New York Mets",
+      "details": "New York Metssent RHPXzavion Curryoutright to FCL Mets.",
+      "player": "Xzavion Curry"
     }
   ]
 }
