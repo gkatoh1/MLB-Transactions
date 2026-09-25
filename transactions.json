@@ -1,6 +1,24 @@
 {
-  "last_updated": "2026-09-25T13:34:34.506853",
+  "last_updated": "2026-09-25T18:26:50.185209",
   "transactions": [
+    {
+      "date": "2026-09-25",
+      "team": "Chicago Cubs",
+      "details": "RHPEdward Cabreraroster status changed byChicago Cubs.",
+      "player": "Edward Cabrera"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsactivated RHPGavin Hollowellfrom the 15-day injured list.",
+      "player": "Gavin Hollowell"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "New York Yankees",
+      "details": "New York Yankeesoptioned RHPBradley Hannerto FCL Yankees.",
+      "player": "Bradley Hanner"
+    },
     {
       "date": "2026-09-25",
       "team": "New York Yankees",
@@ -10,8 +28,14 @@
     {
       "date": "2026-09-25",
       "team": "New York Yankees",
-      "details": "New York Yankeesoptioned RHPBradley Hannerto FCL Yankees.",
-      "player": "Bradley Hanner"
+      "details": "New York Yankeesrecalled RHPBrendan Beckfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Brendan Beck"
+    },
+    {
+      "date": "2026-09-25",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPYerry De los Santosfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Yerry De los Santos"
     }
   ]
 }
