@@ -1,11 +1,41 @@
 {
-  "last_updated": "2026-09-24T22:15:36.368486",
+  "last_updated": "2026-09-25T01:21:25.556999",
   "transactions": [
     {
       "date": "2026-09-24",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantstransferred RHPBlade Tidwellfrom the 15-day injured list to the 60-day injured list. Right UCL sprain.",
-      "player": "Blade Tidwell"
+      "team": "New York Yankees",
+      "details": "New York Yankeesplaced RHPClarke Schmidton the 15-day injured list retroactive to September 21, 2026. Right bicep neuritis.",
+      "player": "Clarke Schmidt"
+    },
+    {
+      "date": "2026-09-24",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced RHPHurston Waldrepon the 60-day injured list. Right elbow UCL injury.",
+      "player": "Hurston Waldrep"
+    },
+    {
+      "date": "2026-09-24",
+      "team": "Houston Astros",
+      "details": "Houston Astrosplaced CFDaulton Varshoon the 10-day injured list retroactive to September 23, 2026. Left wrist inflammation.",
+      "player": "Daulton Varsho"
+    },
+    {
+      "date": "2026-09-24",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced RHPLuis Castilloon the 15-day injured list. Right shoulder impingement.",
+      "player": "Luis Castillo"
+    },
+    {
+      "date": "2026-09-24",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesplaced LHPMartín Pérezon the 15-day injured list retroactive to September 21, 2026. Low back inflammation.",
+      "player": "Martín Pérez"
+    },
+    {
+      "date": "2026-09-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolestransferred RHPKyle Bradishfrom the 15-day injured list to the 60-day injured list. Lower abdominal discomfort.",
+      "player": "Kyle Bradish"
     },
     {
       "date": "2026-09-24",
@@ -15,9 +45,9 @@
     },
     {
       "date": "2026-09-24",
-      "team": "New York Yankees",
-      "details": "New York Yankeesplaced RHPClarke Schmidton the 15-day injured list retroactive to September 21, 2026. Right bicep neuritis.",
-      "player": "Clarke Schmidt"
+      "team": "Houston Astros",
+      "details": "Houston Astrosdesignated RHPJason Alexanderfor assignment.",
+      "player": "Jason Alexander"
     },
     {
       "date": "2026-09-24",
@@ -33,51 +63,15 @@
     },
     {
       "date": "2026-09-24",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxplaced RHPLuis Castilloon the 15-day injured list. Right shoulder impingement.",
-      "player": "Luis Castillo"
-    },
-    {
-      "date": "2026-09-24",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesoptioned RHPKhristian Curtisto FCL Pirates.",
-      "player": "Khristian Curtis"
-    },
-    {
-      "date": "2026-09-24",
-      "team": "Tampa Bay Rays",
-      "details": "Tampa Bay Raysselected the contract of RHPJake Woodfordfrom Durham Bulls.",
-      "player": "Jake Woodford"
-    },
-    {
-      "date": "2026-09-24",
-      "team": "New York Yankees",
-      "details": "New York Yankeesrecalled RHPBradley Hannerfrom Scranton/Wilkes-Barre RailRiders.",
-      "player": "Bradley Hanner"
-    },
-    {
-      "date": "2026-09-24",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled LHPEvan Siskfrom Indianapolis Indians.",
-      "player": "Evan Sisk"
-    },
-    {
-      "date": "2026-09-24",
-      "team": "Kansas City Royals",
-      "details": "Kansas City Royalsrecalled RHPSpencer Bivensfrom ACL Royals.",
-      "player": "Spencer Bivens"
-    },
-    {
-      "date": "2026-09-24",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxrecalled RHPTyler Davisfrom Charlotte Knights.",
-      "player": "Tyler Davis"
-    },
-    {
-      "date": "2026-09-24",
       "team": "San Francisco Giants",
-      "details": "San Francisco Giantsclaimed RHPCamilo Dovaloff waivers fromPittsburgh Pirates.",
-      "player": "Camilo Doval"
+      "details": "San Francisco Giantstransferred RHPBlade Tidwellfrom the 15-day injured list to the 60-day injured list. Right UCL sprain.",
+      "player": "Blade Tidwell"
+    },
+    {
+      "date": "2026-09-24",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPElieser Hernández.",
+      "player": "Elieser Hernández"
     },
     {
       "date": "2026-09-24",
@@ -87,15 +81,87 @@
     },
     {
       "date": "2026-09-24",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsclaimed RHPCamilo Dovaloff waivers fromPittsburgh Pirates.",
+      "player": "Camilo Doval"
+    },
+    {
+      "date": "2026-09-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesoptioned RHPTrey Gibsonto FCL Orioles.",
+      "player": "Trey Gibson"
+    },
+    {
+      "date": "2026-09-24",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled RHPTyler Davisfrom Charlotte Knights.",
+      "player": "Tyler Davis"
+    },
+    {
+      "date": "2026-09-24",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned RHPKhristian Curtisto FCL Pirates.",
+      "player": "Khristian Curtis"
+    },
+    {
+      "date": "2026-09-24",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled RHPSpencer Bivensfrom ACL Royals.",
+      "player": "Spencer Bivens"
+    },
+    {
+      "date": "2026-09-24",
       "team": "Los Angeles Angels",
       "details": "Los Angeles Angelsrecalled RHPTrevor Martinfrom Salt Lake Bees.",
       "player": "Trevor Martin"
     },
     {
       "date": "2026-09-24",
+      "team": "New York Yankees",
+      "details": "New York Yankeesrecalled RHPBradley Hannerfrom Scranton/Wilkes-Barre RailRiders.",
+      "player": "Bradley Hanner"
+    },
+    {
+      "date": "2026-09-24",
+      "team": "Houston Astros",
+      "details": "Houston Astrosselected the contract of CFJorge Barrosafrom Sugar Land Space Cowboys.",
+      "player": "Jorge Barrosa"
+    },
+    {
+      "date": "2026-09-24",
       "team": "Tampa Bay Rays",
       "details": "Tampa Bay Raysoptioned RHPMason Englertto Durham Bulls.",
       "player": "Mason Englert"
+    },
+    {
+      "date": "2026-09-24",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesrecalled RHPHurston Waldrepfrom Gwinnett Stripers.",
+      "player": "Hurston Waldrep"
+    },
+    {
+      "date": "2026-09-24",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of RHPElieser Hernándezfrom Gwinnett Stripers.",
+      "player": "Elieser Hernández"
+    },
+    {
+      "date": "2026-09-24",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolesselected the contract of RHPAlbert Suárezfrom Norfolk Tides.",
+      "player": "Albert Suárez"
+    },
+    {
+      "date": "2026-09-24",
+      "team": "Tampa Bay Rays",
+      "details": "Tampa Bay Raysselected the contract of RHPJake Woodfordfrom Durham Bulls.",
+      "player": "Jake Woodford"
+    },
+    {
+      "date": "2026-09-24",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled LHPEvan Siskfrom Indianapolis Indians.",
+      "player": "Evan Sisk"
     }
   ]
 }
