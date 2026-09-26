@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T17:02:53.890642",
+  "last_updated": "2026-09-26T20:57:47.869958",
   "transactions": [
     {
       "date": "2026-09-26",
@@ -9,9 +9,27 @@
     },
     {
       "date": "2026-09-26",
-      "team": "Minnesota Twins",
-      "details": "Minnesota Twinsactivated SSKaelen Culpepperfrom the 10-day injured list.",
-      "player": "Kaelen Culpepper"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerstransferred RFKerry Carpenterfrom the 10-day injured list to the 60-day injured list. Left foot plantar fasciitis.",
+      "player": "Kerry Carpenter"
+    },
+    {
+      "date": "2026-09-26",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksdesignated DHJesús Sánchezfor assignment.",
+      "player": "Jesús Sánchez"
+    },
+    {
+      "date": "2026-09-26",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxplaced CJake Rogerson the paternity list.",
+      "player": "Jake Rogers"
+    },
+    {
+      "date": "2026-09-26",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced 3BNick Loftinon the paternity list.",
+      "player": "Nick Loftin"
     },
     {
       "date": "2026-09-26",
@@ -28,20 +46,38 @@
     {
       "date": "2026-09-26",
       "team": "Detroit Tigers",
-      "details": "Detroit Tigerstransferred RFKerry Carpenterfrom the 10-day injured list to the 60-day injured list. Left foot plantar fasciitis.",
-      "player": "Kerry Carpenter"
+      "details": "Detroit Tigersactivated RHPJustin Verlanderfrom the reserve list.",
+      "player": "Justin Verlander"
     },
     {
       "date": "2026-09-26",
-      "team": "Detroit Tigers",
-      "details": "Detroit Tigersactivated RHPJustin Verlanderfrom the reserve list.",
-      "player": "Justin Verlander"
+      "team": "Minnesota Twins",
+      "details": "Minnesota Twinsactivated SSKaelen Culpepperfrom the 10-day injured list.",
+      "player": "Kaelen Culpepper"
+    },
+    {
+      "date": "2026-09-26",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersplaced 3BJosh Jungon the 10-day injured list. Right hand fracture.",
+      "player": "Josh Jung"
     },
     {
       "date": "2026-09-26",
       "team": "Pittsburgh Pirates",
       "details": "Pittsburgh Piratesoptioned RHPWilber Dotelto FCL Pirates.",
       "player": "Wilber Dotel"
+    },
+    {
+      "date": "2026-09-26",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled DHLogan O'Hoppefrom Round Rock Express.",
+      "player": "Logan O'Hoppe"
+    },
+    {
+      "date": "2026-09-26",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled LHPHunter Barcofrom Indianapolis Indians.",
+      "player": "Hunter Barco"
     },
     {
       "date": "2026-09-26",
@@ -57,21 +93,57 @@
     },
     {
       "date": "2026-09-26",
-      "team": "Pittsburgh Pirates",
-      "details": "Pittsburgh Piratesrecalled LHPHunter Barcofrom Indianapolis Indians.",
-      "player": "Hunter Barco"
+      "team": "New York Mets",
+      "details": "New York Metsrecalled RHPChayce McDermottfrom Syracuse Mets.",
+      "player": "Chayce McDermott"
+    },
+    {
+      "date": "2026-09-26",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsrecalled LFMatthew Lugofrom Omaha Storm Chasers.",
+      "player": "Matthew Lugo"
+    },
+    {
+      "date": "2026-09-26",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned RHPGavin Collyerto ACL Rangers.",
+      "player": "Gavin Collyer"
+    },
+    {
+      "date": "2026-09-26",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxrecalled CDrew Romofrom Charlotte Knights.",
+      "player": "Drew Romo"
+    },
+    {
+      "date": "2026-09-26",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsoptioned RHPYunior Marteto Sacramento River Cats.",
+      "player": "Yunior Marte"
+    },
+    {
+      "date": "2026-09-26",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsrecalled LHPSeth Lonswayfrom Sacramento River Cats.",
+      "player": "Seth Lonsway"
+    },
+    {
+      "date": "2026-09-26",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled LHPRobby Ahlstromfrom Round Rock Express.",
+      "player": "Robby Ahlstrom"
+    },
+    {
+      "date": "2026-09-26",
+      "team": "Arizona Diamondbacks",
+      "details": "Arizona Diamondbacksrecalled DHAdrian Del Castillofrom Reno Aces.",
+      "player": "Adrian Del Castillo"
     },
     {
       "date": "2026-09-26",
       "team": "New York Mets",
       "details": "New York Metsoptioned LHPJefry Yanto FCL Mets.",
       "player": "Jefry Yan"
-    },
-    {
-      "date": "2026-09-26",
-      "team": "New York Mets",
-      "details": "New York Metsrecalled RHPChayce McDermottfrom Syracuse Mets.",
-      "player": "Chayce McDermott"
     }
   ]
 }
