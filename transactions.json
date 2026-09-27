@@ -1,17 +1,35 @@
 {
-  "last_updated": "2026-09-27T16:49:53.118780",
+  "last_updated": "2026-09-27T20:00:42.189828",
   "transactions": [
     {
       "date": "2026-09-27",
-      "team": "Philadelphia Phillies",
-      "details": "Philadelphia Philliesactivated LHPJesús Luzardofrom the 15-day injured list.",
-      "player": "Jesús Luzardo"
+      "team": "New York Mets",
+      "details": "New York Metsplaced RHPJonathan Pintaroon the 15-day injured list. Undisclosed illness.",
+      "player": "Jonathan Pintaro"
+    },
+    {
+      "date": "2026-09-27",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersplaced RHPBlake Treinenon the 15-day injured list. Right shoulder inflammation.",
+      "player": "Blake Treinen"
     },
     {
       "date": "2026-09-27",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced DHMickey Gasperon the 10-day injured list retroactive to September 26, 2026. Right biceps strain.",
-      "player": "Mickey Gasper"
+      "details": "Boston Red Soxplaced RHPTyron Guerreroon the 15-day injured list retroactive to September 24, 2026. Right shoulder strain.",
+      "player": "Tyron Guerrero"
+    },
+    {
+      "date": "2026-09-27",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsplaced RHPTony Gonsolinon the 15-day injured list. Allergic reaction.",
+      "player": "Tony Gonsolin"
+    },
+    {
+      "date": "2026-09-27",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RHPJames McArthurfrom the 60-day injured list.",
+      "player": "James McArthur"
     },
     {
       "date": "2026-09-27",
@@ -21,15 +39,21 @@
     },
     {
       "date": "2026-09-27",
-      "team": "New York Mets",
-      "details": "New York Metsplaced RHPJonathan Pintaroon the 15-day injured list. Undisclosed illness.",
-      "player": "Jonathan Pintaro"
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersactivated RHPJack Flahertyfrom the 15-day injured list.",
+      "player": "Jack Flaherty"
     },
     {
       "date": "2026-09-27",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxplaced RHPTyron Guerreroon the 15-day injured list retroactive to September 24, 2026. Right shoulder strain.",
-      "player": "Tyron Guerrero"
+      "details": "Boston Red Soxtransferred CFEli Whitefrom the 10-day injured list to the 60-day injured list. Right foot ligament injury.",
+      "player": "Eli White"
+    },
+    {
+      "date": "2026-09-27",
+      "team": "Philadelphia Phillies",
+      "details": "Philadelphia Philliesactivated LHPJesús Luzardofrom the 15-day injured list.",
+      "player": "Jesús Luzardo"
     },
     {
       "date": "2026-09-27",
@@ -40,8 +64,20 @@
     {
       "date": "2026-09-27",
       "team": "Boston Red Sox",
-      "details": "Boston Red Soxtransferred CFEli Whitefrom the 10-day injured list to the 60-day injured list. Right foot ligament injury.",
-      "player": "Eli White"
+      "details": "Boston Red Soxplaced DHMickey Gasperon the 10-day injured list retroactive to September 26, 2026. Right biceps strain.",
+      "player": "Mickey Gasper"
+    },
+    {
+      "date": "2026-09-27",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigersoptioned LHPBrant Hurterto FCL Tigers.",
+      "player": "Brant Hurter"
+    },
+    {
+      "date": "2026-09-27",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesrecalled RHPNoah Murdockfrom Indianapolis Indians.",
+      "player": "Noah Murdock"
     },
     {
       "date": "2026-09-27",
@@ -51,9 +87,39 @@
     },
     {
       "date": "2026-09-27",
-      "team": "Cleveland Guardians",
-      "details": "Cleveland Guardiansrecalled RHPAustin Petersonfrom Columbus Clippers.",
-      "player": "Austin Peterson"
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxrecalled RHPWyatt Oldsfrom Worcester Red Sox.",
+      "player": "Wyatt Olds"
+    },
+    {
+      "date": "2026-09-27",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxoptioned RHPJedixson Paezto Worcester Red Sox.",
+      "player": "Jedixson Paez"
+    },
+    {
+      "date": "2026-09-27",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsoptioned RHPGavin Hollowellto ACL Cubs.",
+      "player": "Gavin Hollowell"
+    },
+    {
+      "date": "2026-09-27",
+      "team": "Chicago Cubs",
+      "details": "Chicago Cubsrecalled LHPBraxton Garrettfrom Iowa Cubs.",
+      "player": "Braxton Garrett"
+    },
+    {
+      "date": "2026-09-27",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersrecalled RHPBobby Millerfrom Oklahoma City Comets.",
+      "player": "Bobby Miller"
+    },
+    {
+      "date": "2026-09-27",
+      "team": "Houston Astros",
+      "details": "Houston Astrosoptioned RHPRonel Blancoto Sugar Land Space Cowboys.",
+      "player": "Ronel Blanco"
     },
     {
       "date": "2026-09-27",
@@ -63,9 +129,33 @@
     },
     {
       "date": "2026-09-27",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersoptioned DHLogan O'Hoppeto ACL Rangers.",
+      "player": "Logan O'Hoppe"
+    },
+    {
+      "date": "2026-09-27",
+      "team": "Houston Astros",
+      "details": "Houston Astrosrecalled 2BRaynel Delgadofrom Sugar Land Space Cowboys.",
+      "player": "Raynel Delgado"
+    },
+    {
+      "date": "2026-09-27",
       "team": "Boston Red Sox",
       "details": "Boston Red Soxrecalled LFNate Eatonfrom Worcester Red Sox.",
       "player": "Nate Eaton"
+    },
+    {
+      "date": "2026-09-27",
+      "team": "Texas Rangers",
+      "details": "Texas Rangersrecalled CFCam Cauleyfrom Round Rock Express.",
+      "player": "Cam Cauley"
+    },
+    {
+      "date": "2026-09-27",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratesoptioned LHPEvan Siskto FCL Pirates.",
+      "player": "Evan Sisk"
     },
     {
       "date": "2026-09-27",
@@ -75,21 +165,15 @@
     },
     {
       "date": "2026-09-27",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxrecalled RHPWyatt Oldsfrom Worcester Red Sox.",
-      "player": "Wyatt Olds"
-    },
-    {
-      "date": "2026-09-27",
       "team": "New York Mets",
       "details": "New York Metsrecalled LHPJefry Yanfrom FCL Mets.",
       "player": "Jefry Yan"
     },
     {
       "date": "2026-09-27",
-      "team": "Boston Red Sox",
-      "details": "Boston Red Soxoptioned RHPJedixson Paezto Worcester Red Sox.",
-      "player": "Jedixson Paez"
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansrecalled RHPAustin Petersonfrom Columbus Clippers.",
+      "player": "Austin Peterson"
     }
   ]
 }
