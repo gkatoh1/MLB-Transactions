@@ -1,4 +1,305 @@
 {
-  "last_updated": "2026-09-29T13:55:59.816657",
-  "transactions": []
+  "last_updated": "2026-09-29T19:16:03.917189",
+  "transactions": [
+    {
+      "date": "2026-09-29",
+      "team": "Chicago Cubs",
+      "details": "3BBJ Murray Jr.roster status changed byChicago Cubs.",
+      "player": "BJ Murray Jr."
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Chicago White Sox",
+      "details": "CDrew Romoroster status changed byChicago White Sox.",
+      "player": "Drew Romo"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "San Diego Padres",
+      "details": "RHPRandy Vásquezroster status changed bySan Diego Padres.",
+      "player": "Randy Vásquez"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresplaced CRodolfo Duránon the 60-day injured list. Right forearm strain.",
+      "player": "Rodolfo Durán"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "San Diego Padres",
+      "details": "CRodolfo Duránroster status changed bySan Diego Padres.",
+      "player": "Rodolfo Durán"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Houston Astros",
+      "details": "CCollin Priceroster status changed byHouston Astros.",
+      "player": "Collin Price"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Chicago White Sox",
+      "details": "RHPShane Smithroster status changed byChicago White Sox.",
+      "player": "Shane Smith"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Chicago White Sox",
+      "details": "CFJunior Perezroster status changed byChicago White Sox.",
+      "player": "Junior Perez"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "New York Yankees",
+      "details": "RHPYerry De los Santosroster status changed byNew York Yankees.",
+      "player": "Yerry De los Santos"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Boston Red Sox",
+      "details": "LHPJovani Moránroster status changed byBoston Red Sox.",
+      "player": "Jovani Morán"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Chicago White Sox",
+      "details": "RHPTanner McDougalroster status changed byChicago White Sox.",
+      "player": "Tanner McDougal"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "San Diego Padres",
+      "details": "DHWill Wagnerroster status changed bySan Diego Padres.",
+      "player": "Will Wagner"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "San Diego Padres",
+      "details": "LHPWandy Peraltaroster status changed bySan Diego Padres.",
+      "player": "Wandy Peralta"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Chicago White Sox",
+      "details": "RHPJonathan Cannonroster status changed byChicago White Sox.",
+      "player": "Jonathan Cannon"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "New York Yankees",
+      "details": "LHPTim Hillroster status changed byNew York Yankees.",
+      "player": "Tim Hill"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Houston Astros",
+      "details": "RHPAlimber Santaroster status changed byHouston Astros.",
+      "player": "Alimber Santa"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Chicago Cubs",
+      "details": "RHPEthan Robertsroster status changed byChicago Cubs.",
+      "player": "Ethan Roberts"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Atlanta Braves",
+      "details": "RHPJR Ritchieroster status changed byAtlanta Braves.",
+      "player": "JR Ritchie"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Chicago White Sox",
+      "details": "RHPTrevor Richardsroster status changed byChicago White Sox.",
+      "player": "Trevor Richards"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Unknown Team",
+      "details": "LFOtto Kempchanged number to 31.",
+      "player": "Otto Kemp"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Chicago Cubs",
+      "details": "2BJames Triantosroster status changed byChicago Cubs.",
+      "player": "James Triantos"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Philadelphia Phillies",
+      "details": "LHPBrooks Raleyroster status changed byPhiladelphia Phillies.",
+      "player": "Brooks Raley"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Toronto Blue Jays",
+      "details": "Toronto Blue Jaysactivated 2BLuis Uríasfrom the 10-day injured list.",
+      "player": "Luis Urías"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "San Diego Padres",
+      "details": "RHPGarrett Hawkinsroster status changed bySan Diego Padres.",
+      "player": "Garrett Hawkins"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "New York Yankees",
+      "details": "New York Yankeesdesignated RHPAlexander Corniellefor assignment.",
+      "player": "Alexander Cornielle"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Houston Astros",
+      "details": "LFLaMonte Wade Jr.roster status changed byHouston Astros.",
+      "player": "LaMonte Wade Jr."
+    },
+    {
+      "date": "2026-09-29",
+      "team": "San Diego Padres",
+      "details": "LHPJP Searsroster status changed bySan Diego Padres.",
+      "player": "JP Sears"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Chicago Cubs",
+      "details": "RHPEdward Cabreraroster status changed byChicago Cubs.",
+      "player": "Edward Cabrera"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "San Francisco Giants",
+      "details": "San Francisco Giantsactivated LHPReiver Sanmartinfrom the 15-day injured list.",
+      "player": "Reiver Sanmartin"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Chicago Cubs",
+      "details": "RHPJayden Murrayroster status changed byChicago Cubs.",
+      "player": "Jayden Murray"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "San Diego Padres",
+      "details": "RHPJeremiah Estradaroster status changed bySan Diego Padres.",
+      "player": "Jeremiah Estrada"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Chicago Cubs",
+      "details": "CFJustin Deanroster status changed byChicago Cubs.",
+      "player": "Justin Dean"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesdesignated RHPRicky Vanascofor assignment.",
+      "player": "Ricky Vanasco"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtransferred RHPJustin Slatenfrom the 15-day injured list to the 60-day injured list.",
+      "player": "Justin Slaten"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Houston Astros",
+      "details": "LFZach Coleroster status changed byHouston Astros.",
+      "player": "Zach Cole"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Chicago White Sox",
+      "details": "CJoey Bartroster status changed byChicago White Sox.",
+      "player": "Joey Bart"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "San Diego Padres",
+      "details": "2BMason McCoyroster status changed bySan Diego Padres.",
+      "player": "Mason McCoy"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Chicago Cubs",
+      "details": "LHPJordan Wicksroster status changed byChicago Cubs.",
+      "player": "Jordan Wicks"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Philadelphia Phillies",
+      "details": "2BLuis Arraezroster status changed byPhiladelphia Phillies.",
+      "player": "Luis Arraez"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Atlanta Braves",
+      "details": "RHPAJ Smith-Shawverroster status changed byAtlanta Braves.",
+      "player": "AJ Smith-Shawver"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Kansas City Royals",
+      "details": "Kansas City Royalsactivated RHPCraig Kimbrelfrom the bereavement list.",
+      "player": "Craig Kimbrel"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "San Diego Padres",
+      "details": "RHPGriffin Canningroster status changed bySan Diego Padres.",
+      "player": "Griffin Canning"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Chicago White Sox",
+      "details": "CEdgar Queroroster status changed byChicago White Sox.",
+      "player": "Edgar Quero"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Houston Astros",
+      "details": "RHPKai-Wei Tengroster status changed byHouston Astros.",
+      "player": "Kai-Wei Teng"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated CFTrent Grishamfrom the 10-day injured list.",
+      "player": "Trent Grisham"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Chicago White Sox",
+      "details": "RHPTyler Davisroster status changed byChicago White Sox.",
+      "player": "Tyler Davis"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "St. Louis Cardinals",
+      "details": "St. Louis Cardinalsactivated RHPHunter Dobbinsfrom the 15-day injured list.",
+      "player": "Hunter Dobbins"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "Philadelphia Phillies",
+      "details": "RHPMax Lazarroster status changed byPhiladelphia Phillies.",
+      "player": "Max Lazar"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "San Diego Padres",
+      "details": "3BGage Workmanroster status changed bySan Diego Padres.",
+      "player": "Gage Workman"
+    },
+    {
+      "date": "2026-09-29",
+      "team": "San Diego Padres",
+      "details": "RHPHunter Strattonroster status changed bySan Diego Padres.",
+      "player": "Hunter Stratton"
+    }
+  ]
 }
