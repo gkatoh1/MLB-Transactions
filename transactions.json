@@ -1,36 +1,6 @@
 {
-  "last_updated": "2026-10-03T20:55:58.462195",
+  "last_updated": "2026-10-03T23:43:18.424214",
   "transactions": [
-    {
-      "date": "2026-10-03",
-      "team": "Atlanta Braves",
-      "details": "DHDominic Smithroster status changed byAtlanta Braves.",
-      "player": "Dominic Smith"
-    },
-    {
-      "date": "2026-10-03",
-      "team": "New York Yankees",
-      "details": "New York Yankeesactivated LHPRyan Weathers.",
-      "player": "Ryan Weathers"
-    },
-    {
-      "date": "2026-10-03",
-      "team": "Chicago White Sox",
-      "details": "Chicago White Soxactivated RHPTyler Davis.",
-      "player": "Tyler Davis"
-    },
-    {
-      "date": "2026-10-03",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPAJ Smith-Shawver.",
-      "player": "AJ Smith-Shawver"
-    },
-    {
-      "date": "2026-10-03",
-      "team": "Los Angeles Dodgers",
-      "details": "LHPJustin Wrobleskiroster status changed byLos Angeles Dodgers.",
-      "player": "Justin Wrobleski"
-    },
     {
       "date": "2026-10-03",
       "team": "Milwaukee Brewers",
@@ -51,9 +21,9 @@
     },
     {
       "date": "2026-10-03",
-      "team": "Los Angeles Dodgers",
-      "details": "RHPPaul Gervaseroster status changed byLos Angeles Dodgers.",
-      "player": "Paul Gervase"
+      "team": "New York Yankees",
+      "details": "New York Yankeesactivated LHPRyan Weathers.",
+      "player": "Ryan Weathers"
     },
     {
       "date": "2026-10-03",
@@ -64,32 +34,14 @@
     {
       "date": "2026-10-03",
       "team": "Los Angeles Dodgers",
-      "details": "LHPJack Dreyerroster status changed byLos Angeles Dodgers.",
-      "player": "Jack Dreyer"
-    },
-    {
-      "date": "2026-10-03",
-      "team": "New York Yankees",
-      "details": "3BAmed Rosarioroster status changed byNew York Yankees.",
-      "player": "Amed Rosario"
+      "details": "LHPJustin Wrobleskiroster status changed byLos Angeles Dodgers.",
+      "player": "Justin Wrobleski"
     },
     {
       "date": "2026-10-03",
       "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated RHPJR Ritchie.",
-      "player": "JR Ritchie"
-    },
-    {
-      "date": "2026-10-03",
-      "team": "Atlanta Braves",
-      "details": "SSLuke Williamsroster status changed byAtlanta Braves.",
-      "player": "Luke Williams"
-    },
-    {
-      "date": "2026-10-03",
-      "team": "Tampa Bay Rays",
-      "details": "RHPCasey Leguminaroster status changed byTampa Bay Rays.",
-      "player": "Casey Legumina"
+      "details": "DHDominic Smithroster status changed byAtlanta Braves.",
+      "player": "Dominic Smith"
     },
     {
       "date": "2026-10-03",
@@ -99,15 +51,15 @@
     },
     {
       "date": "2026-10-03",
-      "team": "San Diego Padres",
-      "details": "San Diego Padresplaced RHPWalker Buehleron the paternity list.",
-      "player": "Walker Buehler"
+      "team": "Los Angeles Dodgers",
+      "details": "LHPJack Dreyerroster status changed byLos Angeles Dodgers.",
+      "player": "Jack Dreyer"
     },
     {
       "date": "2026-10-03",
-      "team": "Atlanta Braves",
-      "details": "Atlanta Bravesactivated LFLane Thomas.",
-      "player": "Lane Thomas"
+      "team": "Tampa Bay Rays",
+      "details": "RHPCasey Leguminaroster status changed byTampa Bay Rays.",
+      "player": "Casey Legumina"
     },
     {
       "date": "2026-10-03",
@@ -130,14 +82,62 @@
     {
       "date": "2026-10-03",
       "team": "Los Angeles Dodgers",
-      "details": "LFAlex Callroster status changed byLos Angeles Dodgers.",
-      "player": "Alex Call"
+      "details": "Los Angeles Dodgersactivated DHJosue De Paula.",
+      "player": "Josue De Paula"
     },
     {
       "date": "2026-10-03",
       "team": "Los Angeles Dodgers",
-      "details": "Los Angeles Dodgersactivated DHJosue De Paula.",
-      "player": "Josue De Paula"
+      "details": "RHPPaul Gervaseroster status changed byLos Angeles Dodgers.",
+      "player": "Paul Gervase"
+    },
+    {
+      "date": "2026-10-03",
+      "team": "San Diego Padres",
+      "details": "San Diego Padresplaced RHPWalker Buehleron the paternity list.",
+      "player": "Walker Buehler"
+    },
+    {
+      "date": "2026-10-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated LFLane Thomas.",
+      "player": "Lane Thomas"
+    },
+    {
+      "date": "2026-10-03",
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated RHPTyler Davis.",
+      "player": "Tyler Davis"
+    },
+    {
+      "date": "2026-10-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPAJ Smith-Shawver.",
+      "player": "AJ Smith-Shawver"
+    },
+    {
+      "date": "2026-10-03",
+      "team": "New York Yankees",
+      "details": "3BAmed Rosarioroster status changed byNew York Yankees.",
+      "player": "Amed Rosario"
+    },
+    {
+      "date": "2026-10-03",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesactivated RHPJR Ritchie.",
+      "player": "JR Ritchie"
+    },
+    {
+      "date": "2026-10-03",
+      "team": "Atlanta Braves",
+      "details": "SSLuke Williamsroster status changed byAtlanta Braves.",
+      "player": "Luke Williams"
+    },
+    {
+      "date": "2026-10-03",
+      "team": "Los Angeles Dodgers",
+      "details": "LFAlex Callroster status changed byLos Angeles Dodgers.",
+      "player": "Alex Call"
     }
   ]
 }
