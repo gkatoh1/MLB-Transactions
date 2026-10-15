@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-10-15T18:59:39.887030",
+  "last_updated": "2026-10-15T22:09:52.687752",
   "transactions": [
     {
       "date": "2026-10-15",
       "team": "San Diego Padres",
       "details": "San Diego Padressigned free agent RHPTatsuya Nogamito a minor league contract.",
       "player": "Tatsuya Nogami"
+    },
+    {
+      "date": "2026-10-15",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravesselected the contract of 2BBrett Wiselyfrom Gwinnett Stripers.",
+      "player": "Brett Wisely"
+    },
+    {
+      "date": "2026-10-15",
+      "team": "Atlanta Braves",
+      "details": "Atlanta Bravessent CFDaShawn Keirsey Jr.outright to Gwinnett Stripers.",
+      "player": "DaShawn Keirsey Jr."
     }
   ]
 }
