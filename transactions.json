@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-10-23T19:02:07.625370",
+  "last_updated": "2026-10-23T23:00:36.576325",
   "transactions": [
+    {
+      "date": "2026-10-23",
+      "team": "Milwaukee Brewers",
+      "details": "RHPChad Patrickroster status changed byMilwaukee Brewers.",
+      "player": "Chad Patrick"
+    },
     {
       "date": "2026-10-23",
       "team": "Tampa Bay Rays",
@@ -12,6 +18,12 @@
       "team": "Tampa Bay Rays",
       "details": "RHPBrody Hopkinsroster status changed byTampa Bay Rays.",
       "player": "Brody Hopkins"
+    },
+    {
+      "date": "2026-10-23",
+      "team": "Milwaukee Brewers",
+      "details": "Milwaukee Brewersactivated RHPBrandon Woodrufffrom the 60-day injured list.",
+      "player": "Brandon Woodruff"
     }
   ]
 }
