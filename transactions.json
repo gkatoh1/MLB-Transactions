@@ -1,35 +1,215 @@
 {
-  "last_updated": "2026-10-29T20:08:59.415153",
+  "last_updated": "2026-10-30T00:44:33.697547",
   "transactions": [
     {
       "date": "2026-10-29",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantsactivated LHPMatt Gagefrom the 60-day injured list.",
-      "player": "Matt Gage"
-    },
-    {
-      "date": "2026-10-29",
-      "team": "Baltimore Orioles",
-      "details": "Baltimore Oriolessigned free agent RHPRobinson Martínezto a minor league contract.",
-      "player": "Robinson Martínez"
-    },
-    {
-      "date": "2026-10-29",
-      "team": "Cincinnati Reds",
-      "details": "Cincinnati Redsactivated RHPHunter Greenefrom the 60-day injured list.",
-      "player": "Hunter Greene"
+      "team": "Unknown Team",
+      "details": "RHPJack Flahertyelected free agency.",
+      "player": "Jack Flaherty"
     },
     {
       "date": "2026-10-29",
       "team": "Unknown Team",
-      "details": "LHPBrock Burkeelected free agency.",
-      "player": "Brock Burke"
+      "details": "3BAnthony Rendonelected free agency.",
+      "player": "Anthony Rendon"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "1BPaul Goldschmidtelected free agency.",
+      "player": "Paul Goldschmidt"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "LHPKyle Freelandelected free agency.",
+      "player": "Kyle Freeland"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "RHPMichael Fulmerelected free agency.",
+      "player": "Michael Fulmer"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "RHPZac Gallenelected free agency.",
+      "player": "Zac Gallen"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "RHPKevin Gausmanelected free agency.",
+      "player": "Kevin Gausman"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "RHPKevin Ginkelelected free agency.",
+      "player": "Kevin Ginkel"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "RFRandal Grichukelected free agency.",
+      "player": "Randal Grichuk"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "LHPFoster Griffinelected free agency.",
+      "player": "Foster Griffin"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "CFTrent Grishamelected free agency.",
+      "player": "Trent Grisham"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "LFIan Happelected free agency.",
+      "player": "Ian Happ"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "SSKyle Farmerelected free agency.",
+      "player": "Kyle Farmer"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "2BAdam Frazierelected free agency.",
+      "player": "Adam Frazier"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "1BTy Franceelected free agency.",
+      "player": "Ty France"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "CTyler Stephensonelected free agency.",
+      "player": "Tyler Stephenson"
     },
     {
       "date": "2026-10-29",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxactivated LFBrooks Baldwinfrom the 60-day injured list.",
       "player": "Brooks Baldwin"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "LHPJalen Beekselected free agency.",
+      "player": "Jalen Beeks"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "RHPTyler Mahleelected free agency.",
+      "player": "Tyler Mahle"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "2BBrandon Loweelected free agency.",
+      "player": "Brandon Lowe"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "2BNicky Lopezelected free agency.",
+      "player": "Nicky Lopez"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "RHPJonathan Loáisigaelected free agency.",
+      "player": "Jonathan Loáisiga"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "RHPAndrew Kittredgeelected free agency.",
+      "player": "Andrew Kittredge"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "RHPTyler Kinleyelected free agency.",
+      "player": "Tyler Kinley"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "SSIsiah Kiner-Falefaelected free agency.",
+      "player": "Isiah Kiner-Falefa"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "RHPCraig Kimbrelelected free agency.",
+      "player": "Craig Kimbrel"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "SSHa-Seong Kimelected free agency.",
+      "player": "Ha-Seong Kim"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "CRyan Jefferselected free agency.",
+      "player": "Ryan Jeffers"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "LHPPatrick Corbinelected free agency.",
+      "player": "Patrick Corbin"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "SSJ.P. Crawfordelected free agency.",
+      "player": "J.P. Crawford"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "3BAlec Bohmelected free agency.",
+      "player": "Alec Bohm"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "LHPKris Bubicelected free agency.",
+      "player": "Kris Bubic"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "RHPWalker Buehlerelected free agency.",
+      "player": "Walker Buehler"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "2BJazz Chisholm Jr.elected free agency.",
+      "player": "Jazz Chisholm Jr."
+    },
+    {
+      "date": "2026-10-29",
+      "team": "New York Mets",
+      "details": "New York Metsdesignated OFCristian Pachefor assignment.",
+      "player": "Cristian Pache"
     },
     {
       "date": "2026-10-29",
@@ -45,99 +225,81 @@
     },
     {
       "date": "2026-10-29",
+      "team": "Baltimore Orioles",
+      "details": "Baltimore Oriolessigned free agent RHPRobinson Martínezto a minor league contract.",
+      "player": "Robinson Martínez"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "RHPJason Adamelected free agency.",
+      "player": "Jason Adam"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "RHPJoe Jiménezelected free agency.",
+      "player": "Joe Jiménez"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "LHPJordan Montgomeryelected free agency.",
+      "player": "Jordan Montgomery"
+    },
+    {
+      "date": "2026-10-29",
+      "team": "Unknown Team",
+      "details": "LFLuis Rengifoelected free agency.",
+      "player": "Luis Rengifo"
+    },
+    {
+      "date": "2026-10-29",
       "team": "Chicago White Sox",
       "details": "Chicago White Soxactivated RHPPrelander Berroafrom the 60-day injured list.",
       "player": "Prelander Berroa"
     },
     {
       "date": "2026-10-29",
-      "team": "Unknown Team",
-      "details": "RHPBrady Singerelected free agency.",
-      "player": "Brady Singer"
+      "team": "Chicago White Sox",
+      "details": "Chicago White Soxactivated LFTanner Murrayfrom the 60-day injured list.",
+      "player": "Tanner Murray"
     },
     {
       "date": "2026-10-29",
       "team": "Unknown Team",
-      "details": "CTyler Stephensonelected free agency.",
-      "player": "Tyler Stephenson"
+      "details": "RHPYimi Garcíaelected free agency.",
+      "player": "Yimi García"
     },
     {
       "date": "2026-10-29",
-      "team": "Athletics",
-      "details": "Athleticssent RHPGeoff Hartlieboutright to Las Vegas Aviators.",
-      "player": "Geoff Hartlieb"
+      "team": "Unknown Team",
+      "details": "RHPMark Leiter Jr.elected free agency.",
+      "player": "Mark Leiter Jr."
     },
     {
       "date": "2026-10-29",
-      "team": "Athletics",
-      "details": "Athleticssent 2BMichael Stefanicoutright to Las Vegas Aviators.",
-      "player": "Michael Stefanic"
+      "team": "Unknown Team",
+      "details": "LHPSean Newcombelected free agency.",
+      "player": "Sean Newcomb"
     },
     {
       "date": "2026-10-29",
-      "team": "Seattle Mariners",
-      "details": "Seattle Marinersclaimed CFGrant McCrayoff waivers fromSan Francisco Giants.",
-      "player": "Grant McCray"
+      "team": "Unknown Team",
+      "details": "LHPAdrian Morejonelected free agency.",
+      "player": "Adrian Morejon"
     },
     {
       "date": "2026-10-29",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssent 2BOsleivis Basabeoutright to Sacramento River Cats.",
-      "player": "Osleivis Basabe"
+      "team": "Unknown Team",
+      "details": "RHPAaron Civaleelected free agency.",
+      "player": "Aaron Civale"
     },
     {
       "date": "2026-10-29",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssent RHPJason Foleyoutright to Sacramento River Cats.",
-      "player": "Jason Foley"
-    },
-    {
-      "date": "2026-10-29",
-      "team": "Athletics",
-      "details": "Athleticssent RHPJoey Estesoutright to Las Vegas Aviators.",
-      "player": "Joey Estes"
-    },
-    {
-      "date": "2026-10-29",
-      "team": "Athletics",
-      "details": "Athleticstraded RHPJareth RayotoBoston Red Soxfor LF Nate Eaton.",
-      "player": "Jareth Rayo"
-    },
-    {
-      "date": "2026-10-29",
-      "team": "Athletics",
-      "details": "Athleticssent CBrian Servenoutright to Las Vegas Aviators.",
-      "player": "Brian Serven"
-    },
-    {
-      "date": "2026-10-29",
-      "team": "San Francisco Giants",
-      "details": "San Francisco Giantssent LHPMatt Gageoutright to Sacramento River Cats.",
-      "player": "Matt Gage"
-    },
-    {
-      "date": "2026-10-29",
-      "team": "Athletics",
-      "details": "Athleticstraded RHP Jareth Rayo toBoston Red Soxfor LFNate Eaton.",
-      "player": "Nate Eaton"
-    },
-    {
-      "date": "2026-10-29",
-      "team": "Athletics",
-      "details": "Athleticssent RHPHenry Baezoutright to Las Vegas Aviators.",
-      "player": "Henry Baez"
-    },
-    {
-      "date": "2026-10-29",
-      "team": "Washington Nationals",
-      "details": "Washington Nationalsclaimed RHPBraxton Roxbyoff waivers fromSan Francisco Giants.",
-      "player": "Braxton Roxby"
-    },
-    {
-      "date": "2026-10-29",
-      "team": "Athletics",
-      "details": "Athleticssent RFJohnathan Rodríguezoutright to Las Vegas Aviators.",
-      "player": "Johnathan Rodríguez"
+      "team": "Unknown Team",
+      "details": "RHPTaylor Clarkeelected free agency.",
+      "player": "Taylor Clarke"
     }
   ]
 }
