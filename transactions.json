@@ -1,4 +1,17 @@
 {
-  "last_updated": "2026-11-03T14:57:40.864775",
-  "transactions": []
+  "last_updated": "2026-11-03T20:53:23.706793",
+  "transactions": [
+    {
+      "date": "2026-11-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtraded LHPEduardo RiveratoSt. Louis Cardinalsfor RHP Juan García.",
+      "player": "Eduardo Rivera"
+    },
+    {
+      "date": "2026-11-03",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxtraded LHP Eduardo Rivera toSt. Louis Cardinalsfor RHPJuan García.",
+      "player": "Juan García"
+    }
+  ]
 }
