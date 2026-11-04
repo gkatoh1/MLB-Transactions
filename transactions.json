@@ -1,6 +1,12 @@
 {
-  "last_updated": "2026-11-03T20:53:23.706793",
+  "last_updated": "2026-11-04T01:09:58.985078",
   "transactions": [
+    {
+      "date": "2026-11-03",
+      "team": "Miami Marlins",
+      "details": "Miami Marlinsreleased RHPBradley Blalock.",
+      "player": "Bradley Blalock"
+    },
     {
       "date": "2026-11-03",
       "team": "Boston Red Sox",
@@ -12,6 +18,12 @@
       "team": "Boston Red Sox",
       "details": "Boston Red Soxtraded LHP Eduardo Rivera toSt. Louis Cardinalsfor RHPJuan García.",
       "player": "Juan García"
+    },
+    {
+      "date": "2026-11-03",
+      "team": "Detroit Tigers",
+      "details": "RHPRJ Petitreturned toDetroit TigersfromColorado Rockies.",
+      "player": "RJ Petit"
     }
   ]
 }
