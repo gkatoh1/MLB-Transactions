@@ -1,4 +1,23 @@
 {
-  "last_updated": "2026-11-06T17:52:23.410876",
-  "transactions": []
+  "last_updated": "2026-11-06T22:57:36.987876",
+  "transactions": [
+    {
+      "date": "2026-11-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalsdesignated RHPKyle Nicolasfor assignment.",
+      "player": "Kyle Nicolas"
+    },
+    {
+      "date": "2026-11-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded RHPRobert CranztoSan Francisco Giantsfor LHP Reiver Sanmartin.",
+      "player": "Robert Cranz"
+    },
+    {
+      "date": "2026-11-06",
+      "team": "Washington Nationals",
+      "details": "Washington Nationalstraded RHP Robert Cranz toSan Francisco Giantsfor LHPReiver Sanmartin.",
+      "player": "Reiver Sanmartin"
+    }
+  ]
 }
