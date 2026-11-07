@@ -1,11 +1,17 @@
 {
-  "last_updated": "2026-11-06T22:57:36.987876",
+  "last_updated": "2026-11-07T02:40:49.602185",
   "transactions": [
     {
       "date": "2026-11-06",
       "team": "Washington Nationals",
       "details": "Washington Nationalsdesignated RHPKyle Nicolasfor assignment.",
       "player": "Kyle Nicolas"
+    },
+    {
+      "date": "2026-11-06",
+      "team": "Boston Red Sox",
+      "details": "Boston Red Soxreleased RHPZack Kelly.",
+      "player": "Zack Kelly"
     },
     {
       "date": "2026-11-06",
@@ -18,6 +24,18 @@
       "team": "Washington Nationals",
       "details": "Washington Nationalstraded RHP Robert Cranz toSan Francisco Giantsfor LHPReiver Sanmartin.",
       "player": "Reiver Sanmartin"
+    },
+    {
+      "date": "2026-11-06",
+      "team": "Detroit Tigers",
+      "details": "Detroit Tigerssent RHPYilber Díazoutright to Toledo Mud Hens.",
+      "player": "Yilber Díaz"
+    },
+    {
+      "date": "2026-11-06",
+      "team": "Cleveland Guardians",
+      "details": "Cleveland Guardiansclaimed DHJosé Tenaoff waivers fromWashington Nationals.",
+      "player": "José Tena"
     }
   ]
 }
