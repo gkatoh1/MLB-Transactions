@@ -1,11 +1,23 @@
 {
-  "last_updated": "2026-11-09T15:55:40.974964",
+  "last_updated": "2026-11-10T00:05:43.565489",
   "transactions": [
     {
       "date": "2026-11-09",
       "team": "Cleveland Guardians",
       "details": "Cleveland Guardianssigned free agent LHPAntoine Kellyto a minor league contract and invited him to spring training.",
       "player": "Antoine Kelly"
+    },
+    {
+      "date": "2026-11-09",
+      "team": "Pittsburgh Pirates",
+      "details": "Pittsburgh Piratessigned free agent RHPEnmanuel Nunezto a minor league contract.",
+      "player": "Enmanuel Nunez"
+    },
+    {
+      "date": "2026-11-09",
+      "team": "Los Angeles Dodgers",
+      "details": "Los Angeles Dodgersclaimed SSChristian Cairooff waivers fromNew York Mets.",
+      "player": "Christian Cairo"
     }
   ]
 }
